@@ -15,8 +15,9 @@ RUN corepack enable && corepack prepare pnpm@latest --activate
 COPY package.json pnpm-lock.yaml pnpm-workspace.yaml ./
 
 # 安装全部依赖（构建需要 devDependencies）
-# --store-dir 指向 /tmp 避免 Docker overlay2 上 SQLite 磁盘 I/O 错误
-RUN pnpm install --frozen-lockfile --store-dir /tmp/pnpm-store
+# --mount=type=tmpfs 挂载真正的 tmpfs，解决 overlay2 与 SQLite 不兼容问题
+RUN --mount=type=tmpfs,target=/tmp \
+    XDG_STATE_HOME=/tmp pnpm install --frozen-lockfile --store-dir /tmp/pnpm-store
 
 # 复制源码
 COPY . .
@@ -50,8 +51,9 @@ COPY --from=builder /app/public ./public
 COPY --from=builder /app/next.config.ts ./
 
 # 只安装生产依赖
-# --store-dir 指向 /tmp 避免 Docker overlay2 上 SQLite 磁盘 I/O 错误
-RUN pnpm install --frozen-lockfile --prod --store-dir /tmp/pnpm-store
+# --mount=type=tmpfs 挂载真正的 tmpfs，解决 overlay2 与 SQLite 不兼容问题
+RUN --mount=type=tmpfs,target=/tmp \
+    XDG_STATE_HOME=/tmp pnpm install --frozen-lockfile --prod --store-dir /tmp/pnpm-store
 
 EXPOSE 3000
 
