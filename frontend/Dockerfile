@@ -4,14 +4,12 @@ FROM node:22-alpine AS builder
 
 WORKDIR /app
 
-# 使用国内 npm 镜像加速（pnpm 会继承该配置）
-RUN npm config set registry https://registry.npmmirror.com
+# 配置国内镜像 + 禁用 pnpm side-effects-cache（避免 overlay2 SQLite 错误）
+RUN echo "registry=https://registry.npmmirror.com" > /root/.npmrc && \
+    echo "side-effects-cache=false" >> /root/.npmrc
 
 # 启用 pnpm
 RUN corepack enable && corepack prepare pnpm@latest --activate
-
-# 禁用 side-effects-cache，避免 Docker overlay2 上 SQLite 磁盘 I/O 错误
-RUN pnpm config set side-effects-cache false
 
 # 先复制依赖文件（缓存层）
 COPY package.json pnpm-lock.yaml pnpm-workspace.yaml ./
@@ -33,13 +31,11 @@ FROM node:22-alpine AS runner
 
 WORKDIR /app
 
-# 使用国内 npm 镜像加速
-RUN npm config set registry https://registry.npmmirror.com
+# 配置国内镜像 + 禁用 pnpm side-effects-cache（避免 overlay2 SQLite 错误）
+RUN echo "registry=https://registry.npmmirror.com" > /root/.npmrc && \
+    echo "side-effects-cache=false" >> /root/.npmrc
 
 RUN corepack enable && corepack prepare pnpm@latest --activate
-
-# 禁用 side-effects-cache，避免 Docker overlay2 上 SQLite 磁盘 I/O 错误
-RUN pnpm config set side-effects-cache false
 
 ENV NODE_ENV=production
 ENV NEXT_TELEMETRY_DISABLED=1
