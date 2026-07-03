@@ -4,6 +4,9 @@ FROM node:22-alpine AS builder
 
 WORKDIR /app
 
+# 使用国内 npm 镜像加速（pnpm 会继承该配置）
+RUN npm config set registry https://registry.npmmirror.com
+
 # 启用 pnpm
 RUN corepack enable && corepack prepare pnpm@latest --activate
 
@@ -26,6 +29,9 @@ RUN pnpm build
 FROM node:22-alpine AS runner
 
 WORKDIR /app
+
+# 使用国内 npm 镜像加速
+RUN npm config set registry https://registry.npmmirror.com
 
 RUN corepack enable && corepack prepare pnpm@latest --activate
 
