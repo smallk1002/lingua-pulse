@@ -18,6 +18,8 @@ COPY . .
 
 # 生产环境 API 走相对路径（通过 Nginx 反代）
 ENV NEXT_PUBLIC_API_URL=""
+ENV NEXT_TELEMETRY_DISABLED=1
+ENV CI=true
 
 # 构建 Next.js
 RUN npm run build
