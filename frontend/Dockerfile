@@ -10,6 +10,9 @@ RUN npm config set registry https://registry.npmmirror.com
 # 启用 pnpm
 RUN corepack enable && corepack prepare pnpm@latest --activate
 
+# 禁用 side-effects-cache，避免 Docker overlay2 上 SQLite 磁盘 I/O 错误
+RUN pnpm config set side-effects-cache false
+
 # 先复制依赖文件（缓存层）
 COPY package.json pnpm-lock.yaml pnpm-workspace.yaml ./
 
@@ -34,6 +37,9 @@ WORKDIR /app
 RUN npm config set registry https://registry.npmmirror.com
 
 RUN corepack enable && corepack prepare pnpm@latest --activate
+
+# 禁用 side-effects-cache，避免 Docker overlay2 上 SQLite 磁盘 I/O 错误
+RUN pnpm config set side-effects-cache false
 
 ENV NODE_ENV=production
 ENV NEXT_TELEMETRY_DISABLED=1
