@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LinguaPulse - UI 预览</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  * { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  .tab-btn.active { background: #a21caf; color: white; }
+  .page { display: none; }
+  .page.active { display: block; }
+  /* Game word slots */
+  .word-slot { transition: all 0.15s ease; }
+  .word-slot.active { border-color: #a21caf; color: #a21caf; }
+  .word-slot.correct { border-color: #22c55e; color: #22c55e; }
+  .word-slot.incorrect { border-color: #ef4444; color: #ef4444; animation: shake 0.4s ease; }
+  .word-slot.default { border-color: #71717a; color: #a1a1aa; }
+  @keyframes shake {
+    0%,100% { transform: translateX(0); }
+    20% { transform: translateX(-4px); }
+    40% { transform: translateX(4px); }
+    60% { transform: translateX(-4px); }
+    80% { transform: translateX(4px); }
+  }
+  .cursor-blink { animation: blink 1s infinite; }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+</style>
+</head>
+<body class="bg-white text-zinc-900 min-h-screen">
+
+<!-- ====== NAV ====== -->
+<nav class="border-b border-zinc-200 bg-white/90 backdrop-blur sticky top-0 z-50">
+  <div class="max-w-7xl mx-auto px-6 py-3 flex items-center justify-between">
+    <div class="flex items-center gap-2">
+      <div class="w-8 h-8 bg-gradient-to-br from-fuchsia-600 to-purple-600 rounded-lg flex items-center justify-center text-white text-sm font-bold">L</div>
+      <span class="font-bold text-lg">LinguaPulse</span>
+    </div>
+    <div id="tabs" class="flex gap-1 bg-zinc-100 rounded-lg p-1">
+      <button class="tab-btn active px-3 py-1.5 rounded-md text-xs font-medium transition" data-page="landing">🏠 未登录首页</button>
+      <button class="tab-btn px-3 py-1.5 rounded-md text-xs font-medium transition" data-page="home">📚 学习主页</button>
+      <button class="tab-btn px-3 py-1.5 rounded-md text-xs font-medium transition" data-page="start">▶️ 开始学习</button>
+      <button class="tab-btn px-3 py-1.5 rounded-md text-xs font-medium transition" data-page="game">🎮 游戏答题</button>
+      <button class="tab-btn px-3 py-1.5 rounded-md text-xs font-medium transition" data-page="answer">✅ 答案展示</button>
+      <button class="tab-btn px-3 py-1.5 rounded-md text-xs font-medium transition" data-page="summary">🏆 课程结算</button>
+      <button class="tab-btn px-3 py-1.5 rounded-md text-xs font-medium transition" data-page="profile">📊 学习档案</button>
+      <button class="tab-btn px-3 py-1.5 rounded-md text-xs font-medium transition" data-page="settings">⚙️ 设置</button>
+      <button class="tab-btn px-3 py-1.5 rounded-md text-xs font-medium transition" data-page="admin">📋 后台管理</button>
+      <button class="tab-btn px-3 py-1.5 rounded-md text-xs font-medium transition" data-page="admin-edit">✏️ 句子编辑</button>
+    </div>
+    <div class="flex items-center gap-3 text-sm text-zinc-500">
+      <span>未登录</span>
+      <div class="w-7 h-7 bg-zinc-200 rounded-full"></div>
+    </div>
+  </div>
+</nav>
+
+<!-- ================================================================ -->
+<!-- PAGE 1: 未登录首页 Landing                                        -->
+<!-- ================================================================ -->
+<section id="page-landing" class="page active">
+  <!-- Hero -->
+  <div class="bg-gradient-to-b from-fuchsia-50 to-white">
+    <div class="max-w-5xl mx-auto px-6 pt-20 pb-24 text-center">
+      <h1 class="text-5xl font-extrabold tracking-tight mb-4">
+        用<span class="text-fuchsia-600">打字</span>的方式<br>学好英语句子
+      </h1>
+      <p class="text-lg text-zinc-500 mb-8 max-w-lg mx-auto leading-relaxed">
+        把枯燥的句子背诵变成游戏化的打字练习。<br>科学间隔重复，让你真正记住每一句。
+      </p>
+      <div class="flex items-center justify-center gap-4">
+        <button class="px-8 py-3 bg-fuchsia-600 hover:bg-fuchsia-700 text-white rounded-xl font-semibold text-lg transition shadow-lg shadow-fuchsia-200">免费开始</button>
+        <button class="px-8 py-3 border border-zinc-300 hover:border-zinc-400 rounded-xl font-semibold text-lg transition">了解更多</button>
+      </div>
+      <div class="mt-6 text-sm text-zinc-400">已有 3,200+ 学习者在用</div>
+    </div>
+  </div>
+
+  <!-- 特色 -->
+  <div class="max-w-5xl mx-auto px-6 py-16">
+    <h2 class="text-2xl font-bold text-center mb-12">为什么选择 LinguaPulse？</h2>
+    <div class="grid grid-cols-3 gap-8">
+      <div class="text-center">
+        <div class="text-4xl mb-3">⌨️</div>
+        <h3 class="font-semibold mb-2">逐词打字练习</h3>
+        <p class="text-sm text-zinc-500 leading-relaxed">像玩游戏一样输入英文句子，每个单词都有即时反馈，错哪改哪。</p>
+      </div>
+      <div class="text-center">
+        <div class="text-4xl mb-3">🧠</div>
+        <h3 class="font-semibold mb-2">科学间隔重复</h3>
+        <p class="text-sm text-zinc-500 leading-relaxed">基于 SM-2 算法自动安排复习，在遗忘临界点帮你巩固记忆。</p>
+      </div>
+      <div class="text-center">
+        <div class="text-4xl mb-3">🎯</div>
+        <h3 class="font-semibold mb-2">两种练习模式</h3>
+        <p class="text-sm text-zinc-500 leading-relaxed">中译英模式训练翻译能力，听写模式训练听力拼写。</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- 课程预览 -->
+  <div class="bg-zinc-50 py-16">
+    <div class="max-w-5xl mx-auto px-6">
+      <h2 class="text-2xl font-bold text-center mb-10">精选课程包</h2>
+      <div class="grid grid-cols-3 gap-6">
+        <div class="bg-white border border-zinc-200 rounded-xl overflow-hidden hover:shadow-md transition cursor-pointer">
+          <div class="h-36 bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center text-5xl">🇬🇧</div>
+          <div class="p-5">
+            <div class="font-semibold">基础英语 100 句</div>
+            <div class="text-sm text-zinc-400 mt-1">100 句日常高频表达</div>
+            <div class="flex items-center gap-2 mt-3">
+              <span class="text-xs bg-green-100 text-green-700 px-2 py-0.5 rounded-full">初级</span>
+              <span class="text-xs text-zinc-400">10 课</span>
+            </div>
+          </div>
+        </div>
+        <div class="bg-white border border-zinc-200 rounded-xl overflow-hidden hover:shadow-md transition cursor-pointer">
+          <div class="h-36 bg-gradient-to-br from-emerald-500 to-teal-500 flex items-center justify-center text-5xl">💼</div>
+          <div class="p-5">
+            <div class="font-semibold">商务英语常用句</div>
+            <div class="text-sm text-zinc-400 mt-1">邮件/会议/电话场景</div>
+            <div class="flex items-center gap-2 mt-3">
+              <span class="text-xs bg-amber-100 text-amber-700 px-2 py-0.5 rounded-full">中级</span>
+              <span class="text-xs text-zinc-400">8 课</span>
+            </div>
+          </div>
+        </div>
+        <div class="bg-white border border-zinc-200 rounded-xl overflow-hidden hover:shadow-md transition cursor-pointer">
+          <div class="h-36 bg-gradient-to-br from-orange-500 to-red-500 flex items-center justify-center text-5xl">✈️</div>
+          <div class="p-5">
+            <div class="font-semibold">旅游英语</div>
+            <div class="text-sm text-zinc-400 mt-1">出行/酒店/餐饮场景</div>
+            <div class="flex items-center gap-2 mt-3">
+              <span class="text-xs bg-green-100 text-green-700 px-2 py-0.5 rounded-full">初级</span>
+              <span class="text-xs text-zinc-400">6 课</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 底部 -->
+  <div class="max-w-5xl mx-auto px-6 py-16 text-center">
+    <h2 class="text-2xl font-bold mb-4">今天就开始你的学习之旅</h2>
+    <p class="text-zinc-500 mb-6">每天 15 分钟，一个月看到明显进步。</p>
+    <button class="px-8 py-3 bg-fuchsia-600 hover:bg-fuchsia-700 text-white rounded-xl font-semibold transition">立即注册，免费使用</button>
+  </div>
+</section>
+
+<!-- ================================================================ -->
+<!-- PAGE 2: 已登录学习主页                                             -->
+<!-- ================================================================ -->
+<section id="page-home" class="page max-w-6xl mx-auto px-6 py-8">
+  <!-- 欢迎 + 快速开始 -->
+  <div class="flex items-start justify-between mb-10">
+    <div>
+      <h2 class="text-2xl font-bold mb-1">你好，smallk 👋</h2>
+      <p class="text-zinc-500 text-sm">今天已经学习了 <span class="text-fuchsia-600 font-semibold">12 道题</span>，继续保持！</p>
+    </div>
+    <button class="px-5 py-2.5 bg-fuchsia-600 hover:bg-fuchsia-700 text-white rounded-xl font-medium text-sm transition" onclick="switchTab('start')">
+      ▶ 继续学习
+    </button>
+  </div>
+
+  <!-- 学习概览卡片 -->
+  <div class="grid grid-cols-4 gap-4 mb-10">
+    <div class="bg-white border border-zinc-200 rounded-xl p-4">
+      <div class="text-2xl mb-0.5">🔥</div>
+      <div class="text-xl font-bold">7 天</div>
+      <div class="text-xs text-zinc-400">连续学习</div>
+    </div>
+    <div class="bg-white border border-zinc-200 rounded-xl p-4">
+      <div class="text-2xl mb-0.5">📝</div>
+      <div class="text-xl font-bold">156</div>
+      <div class="text-xs text-zinc-400">掌握句子</div>
+    </div>
+    <div class="bg-white border border-zinc-200 rounded-xl p-4">
+      <div class="text-2xl mb-0.5">⭐</div>
+      <div class="text-xl font-bold">1,280</div>
+      <div class="text-xs text-zinc-400">总经验值</div>
+    </div>
+    <div class="bg-white border border-zinc-200 rounded-xl p-4">
+      <div class="text-2xl mb-0.5">⏱️</div>
+      <div class="text-xl font-bold">3.2h</div>
+      <div class="text-xs text-zinc-400">本周时长</div>
+    </div>
+  </div>
+
+  <!-- 两栏布局 -->
+  <div class="grid grid-cols-3 gap-6">
+    <!-- 左栏：我的课程包 + 最近练习 -->
+    <div class="col-span-2 space-y-6">
+      <!-- 我的课程包 -->
+      <div>
+        <div class="flex items-center justify-between mb-4">
+          <h3 class="font-semibold">📚 我的课程包</h3>
+          <a class="text-sm text-fuchsia-600 hover:text-fuchsia-700 cursor-pointer">查看全部 →</a>
+        </div>
+        <div class="space-y-3">
+          <div class="flex items-center gap-4 bg-white border border-zinc-200 rounded-xl p-4 hover:border-fuchsia-300 transition cursor-pointer">
+            <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-500 rounded-xl flex items-center justify-center text-white text-xl">🇬🇧</div>
+            <div class="flex-1 min-w-0">
+              <div class="font-medium text-sm">基础英语 100 句</div>
+              <div class="w-full bg-zinc-100 rounded-full h-1.5 mt-2">
+                <div class="bg-fuchsia-500 h-1.5 rounded-full" style="width:45%"></div>
+              </div>
+            </div>
+            <div class="text-right text-sm">
+              <div class="font-semibold text-fuchsia-600">45/100</div>
+              <div class="text-xs text-zinc-400">第 5 课</div>
+            </div>
+            <button class="px-3 py-1.5 bg-fuchsia-50 text-fuchsia-600 rounded-lg text-xs font-medium hover:bg-fuchsia-100 transition">继续</button>
+          </div>
+          <div class="flex items-center gap-4 bg-white border border-zinc-200 rounded-xl p-4 hover:border-fuchsia-300 transition cursor-pointer">
+            <div class="w-12 h-12 bg-gradient-to-br from-emerald-500 to-teal-500 rounded-xl flex items-center justify-center text-white text-xl">💼</div>
+            <div class="flex-1 min-w-0">
+              <div class="font-medium text-sm">商务英语常用句</div>
+              <div class="w-full bg-zinc-100 rounded-full h-1.5 mt-2">
+                <div class="bg-fuchsia-500 h-1.5 rounded-full" style="width:15%"></div>
+              </div>
+            </div>
+            <div class="text-right text-sm">
+              <div class="font-semibold text-fuchsia-600">12/80</div>
+              <div class="text-xs text-zinc-400">第 2 课</div>
+            </div>
+            <button class="px-3 py-1.5 bg-fuchsia-50 text-fuchsia-600 rounded-lg text-xs font-medium hover:bg-fuchsia-100 transition">继续</button>
+          </div>
+          <div class="flex items-center gap-4 bg-white border border-zinc-200 rounded-xl p-4 hover:border-fuchsia-300 transition cursor-pointer">
+            <div class="w-12 h-12 bg-gradient-to-br from-orange-500 to-red-500 rounded-xl flex items-center justify-center text-white text-xl">✈️</div>
+            <div class="flex-1 min-w-0">
+              <div class="font-medium text-sm">旅游英语</div>
+              <div class="w-full bg-zinc-100 rounded-full h-1.5 mt-2">
+                <div class="bg-fuchsia-500 h-1.5 rounded-full" style="width:0%"></div>
+              </div>
+            </div>
+            <div class="text-right text-sm">
+              <div class="font-semibold text-zinc-300">0/60</div>
+              <div class="text-xs text-zinc-400">未开始</div>
+            </div>
+            <button class="px-3 py-1.5 bg-fuchsia-600 text-white rounded-lg text-xs font-medium hover:bg-fuchsia-700 transition">开始</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- 最近练习记录 -->
+      <div>
+        <h3 class="font-semibold mb-4">📋 最近练习记录</h3>
+        <div class="bg-white border border-zinc-200 rounded-xl divide-y divide-zinc-100">
+          <div class="flex items-center justify-between px-5 py-3 text-sm">
+            <div>
+              <span class="font-medium">基础英语 100 句 · 第 5 课</span>
+              <span class="text-zinc-400 ml-2">完成了 10 题</span>
+            </div>
+            <div class="text-zinc-400 text-xs">今天 14:32 · 用时 4:32</div>
+          </div>
+          <div class="flex items-center justify-between px-5 py-3 text-sm">
+            <div>
+              <span class="font-medium">商务英语常用句 · 第 2 课</span>
+              <span class="text-zinc-400 ml-2">完成了 8 题</span>
+            </div>
+            <div class="text-zinc-400 text-xs">昨天 20:15 · 用时 3:18</div>
+          </div>
+          <div class="flex items-center justify-between px-5 py-3 text-sm">
+            <div>
+              <span class="font-medium">基础英语 100 句 · 第 4 课</span>
+              <span class="text-zinc-400 ml-2">完成了 10 题</span>
+            </div>
+            <div class="text-zinc-400 text-xs">前天 19:05 · 用时 5:01</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 右栏：课程包商场 + 成长分析 -->
+    <div class="space-y-6">
+      <!-- 学习档案 -->
+      <div class="bg-white border border-zinc-200 rounded-xl p-5">
+        <h3 class="font-semibold mb-4">📊 学习档案</h3>
+        <div class="space-y-3 text-sm">
+          <div class="flex justify-between"><span class="text-zinc-500">总学习天数</span><span class="font-semibold">28 天</span></div>
+          <div class="flex justify-between"><span class="text-zinc-500">累计完成句子</span><span class="font-semibold">156 句</span></div>
+          <div class="flex justify-between"><span class="text-zinc-500">累计学习时长</span><span class="font-semibold">12.5 小时</span></div>
+          <div class="flex justify-between"><span class="text-zinc-500">最长连续天数</span><span class="font-semibold">14 天 🔥</span></div>
+          <div class="flex justify-between"><span class="text-zinc-500">完成课程数</span><span class="font-semibold">12 门</span></div>
+          <div class="flex justify-between"><span class="text-zinc-500">当前等级</span><span class="font-semibold text-fuchsia-600">Lv.12</span></div>
+        </div>
+      </div>
+
+      <!-- 课程包商场 -->
+      <div class="bg-white border border-zinc-200 rounded-xl p-5">
+        <div class="flex items-center justify-between mb-3">
+          <h3 class="font-semibold">🛒 课程包商场</h3>
+          <a class="text-xs text-fuchsia-600 cursor-pointer hover:text-fuchsia-700">更多</a>
+        </div>
+        <div class="space-y-3">
+          <div class="flex items-center gap-3 p-2 hover:bg-zinc-50 rounded-lg cursor-pointer transition">
+            <div class="w-10 h-10 bg-gradient-to-br from-indigo-400 to-blue-500 rounded-lg flex items-center justify-center text-lg">📖</div>
+            <div class="flex-1 min-w-0">
+              <div class="text-sm font-medium">新概念英语 第一册</div>
+              <div class="text-xs text-zinc-400">72 课 · 中等</div>
+            </div>
+          </div>
+          <div class="flex items-center gap-3 p-2 hover:bg-zinc-50 rounded-lg cursor-pointer transition">
+            <div class="w-10 h-10 bg-gradient-to-br from-pink-400 to-rose-500 rounded-lg flex items-center justify-center text-lg">🎓</div>
+            <div class="flex-1 min-w-0">
+              <div class="text-sm font-medium">考研英语高频句</div>
+              <div class="text-xs text-zinc-400">200 句 · 困难</div>
+            </div>
+          </div>
+          <div class="flex items-center gap-3 p-2 hover:bg-zinc-50 rounded-lg cursor-pointer transition">
+            <div class="w-10 h-10 bg-gradient-to-br from-amber-400 to-orange-500 rounded-lg flex items-center justify-center text-lg">🗣️</div>
+            <div class="flex-1 min-w-0">
+              <div class="text-sm font-medium">日常口语 500 句</div>
+              <div class="text-xs text-zinc-400">500 句 · 简单</div>
+            </div>
+          </div>
+          <div class="flex items-center gap-3 p-2 hover:bg-zinc-50 rounded-lg cursor-pointer transition">
+            <div class="w-10 h-10 bg-gradient-to-br from-green-400 to-emerald-500 rounded-lg flex items-center justify-center text-lg">🌍</div>
+            <div class="flex-1 min-w-0">
+              <div class="text-sm font-medium">雅思写作句型</div>
+              <div class="text-xs text-zinc-400">150 句 · 困难</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================================================================ -->
+<!-- PAGE 3: 开始学习 - 选模式 + 选难度                                 -->
+<!-- ================================================================ -->
+<section id="page-start" class="page max-w-3xl mx-auto px-6 py-12">
+  <div class="text-center mb-10">
+    <h2 class="text-2xl font-bold mb-2">继续学习</h2>
+    <p class="text-zinc-500">基础英语 100 句 · 第 5 课（共 10 题）</p>
+  </div>
+
+  <!-- 选择练习模式 -->
+  <div class="mb-10">
+    <h3 class="font-semibold mb-4 text-center">选择练习模式</h3>
+    <div class="grid grid-cols-2 gap-4">
+      <div class="border-2 border-fuchsia-500 bg-fuchsia-50 rounded-2xl p-6 cursor-pointer text-center hover:shadow-md transition">
+        <div class="text-4xl mb-3">🇨🇳→🇬🇧</div>
+        <div class="font-bold text-lg mb-1">中译英模式</div>
+        <div class="text-sm text-zinc-500">看中文提示，输入对应英文句子</div>
+        <div class="mt-3 inline-block bg-fuchsia-600 text-white text-xs px-3 py-1 rounded-full">推荐</div>
+      </div>
+      <div class="border-2 border-zinc-200 rounded-2xl p-6 cursor-pointer text-center hover:border-fuchsia-300 hover:shadow-md transition">
+        <div class="text-4xl mb-3">🎧</div>
+        <div class="font-bold text-lg mb-1">听写模式</div>
+        <div class="text-sm text-zinc-500">听发音，输入听到的英文句子</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 选择难度 -->
+  <div class="mb-10">
+    <h3 class="font-semibold mb-4 text-center">选择难度级别</h3>
+    <div class="grid grid-cols-3 gap-3">
+      <div class="border-2 border-zinc-200 rounded-xl p-4 cursor-pointer text-center hover:border-green-300 transition">
+        <div class="text-2xl mb-1">🌱</div>
+        <div class="font-semibold text-sm">初级</div>
+        <div class="text-xs text-zinc-400 mt-1">显示单词宽度提示<br>答错不扣分</div>
+      </div>
+      <div class="border-2 border-fuchsia-500 bg-fuchsia-50 rounded-xl p-4 cursor-pointer text-center transition">
+        <div class="text-2xl mb-1">🔥</div>
+        <div class="font-semibold text-sm">中级</div>
+        <div class="text-xs text-zinc-400 mt-1">无宽度提示<br>答错需修复</div>
+        <div class="mt-2 inline-block bg-fuchsia-600 text-white text-xs px-2 py-0.5 rounded-full">推荐</div>
+      </div>
+      <div class="border-2 border-zinc-200 rounded-xl p-4 cursor-pointer text-center hover:border-red-300 transition">
+        <div class="text-2xl mb-1">💀</div>
+        <div class="font-semibold text-sm">高级</div>
+        <div class="text-xs text-zinc-400 mt-1">无任何提示<br>计时压力模式</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 开始按钮 -->
+  <div class="text-center">
+    <button class="px-10 py-3 bg-fuchsia-600 hover:bg-fuchsia-700 text-white rounded-xl font-bold text-lg transition shadow-lg shadow-fuchsia-200" onclick="switchTab('game')">
+      🚀 开始练习
+    </button>
+    <p class="text-xs text-zinc-400 mt-3">按 Enter 键也可以直接开始</p>
+  </div>
+</section>
+
+<!-- ================================================================ -->
+<!-- PAGE 4: 游戏答题界面 (参照 Earthworm 风格)                         -->
+<!-- ================================================================ -->
+<section id="page-game" class="page max-w-4xl mx-auto px-6 py-4">
+  <!-- 顶部工具栏 (参照 Earthworm 的 Tool.vue) -->
+  <div class="flex items-center justify-between border-t border-zinc-200 pb-3 pt-3 text-sm">
+    <div class="flex items-center gap-4">
+      <span class="cursor-pointer hover:text-fuchsia-500 text-zinc-500">← 课程列表</span>
+      <span class="cursor-pointer hover:text-fuchsia-500 text-zinc-400">第 5 课（4/10）</span>
+    </div>
+    <div class="flex items-center gap-3 text-zinc-400">
+      <span class="cursor-pointer hover:text-fuchsia-500">⏸ 暂停</span>
+      <span class="cursor-pointer hover:text-fuchsia-500">↺ 重置</span>
+      <span class="cursor-pointer hover:text-fuchsia-500">🏆 排行</span>
+    </div>
+  </div>
+
+  <!-- 进度条 -->
+  <div class="mb-8">
+    <div class="w-full bg-zinc-100 rounded-full h-2">
+      <div class="bg-fuchsia-500 h-2 rounded-full transition-all" style="width:40%"></div>
+    </div>
+  </div>
+
+  <!-- 中文提示 (Earthworm: text-2xl, dark:text-gray-50) -->
+  <div class="text-center mb-10">
+    <p class="text-2xl text-zinc-800 font-medium">他每天早上都去跑步。</p>
+  </div>
+
+  <!-- 单词输入区 (Earthworm: text-[3em], border-b-2, gap-2) -->
+  <div class="text-center">
+    <div class="relative flex flex-wrap justify-center gap-2 transition-all">
+      <!-- 单词槽 -->
+      <div class="word-slot correct h-16 rounded-[2px] border-b-2 border-solid text-[3em] leading-none px-1 min-w-[2ch] text-center">He</div>
+      <div class="word-slot correct h-16 rounded-[2px] border-b-2 border-solid text-[3em] leading-none px-1 min-w-[2ch] text-center">goes</div>
+      <div class="word-slot active h-16 rounded-[2px] border-b-2 border-solid text-[3em] leading-none px-1 min-w-[2ch] text-center">jogging</div>
+      <div class="word-slot default h-16 rounded-[2px] border-b-2 border-solid text-[3em] leading-none px-1 min-w-[2ch] text-center">&nbsp;</div>
+      <div class="word-slot default h-16 rounded-[2px] border-b-2 border-solid text-[3em] leading-none px-1 min-w-[2ch] text-center">&nbsp;</div>
+      <div class="word-slot default h-16 rounded-[2px] border-b-2 border-solid text-[3em] leading-none px-1 min-w-[2ch] text-center">&nbsp;</div>
+      <div class="word-slot default h-16 rounded-[2px] border-b-2 border-solid text-[3em] leading-none px-1 min-w-[2ch] text-center">&nbsp;</div>
+      <div class="word-slot default h-16 rounded-[2px] border-b-2 border-solid text-[3em] leading-none px-1 min-w-[2ch] text-center">&nbsp;</div>
+
+      <!-- 隐藏 input (Earthworm: absolute, opacity-0) -->
+      <div class="absolute inset-0 flex items-center justify-center pointer-events-none">
+        <div class="flex items-center gap-2 bg-zinc-900 text-white rounded-lg px-4 py-2 text-sm opacity-70">
+          <span class="w-1.5 h-5 bg-fuchsia-400 rounded cursor-blink"></span>
+          <span>点击任意位置开始打字...</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 底部移动端按钮 (Earthworm: md:hidden) -->
+    <div class="mt-12 flex items-center justify-center gap-4">
+      <button class="px-4 py-2 border border-zinc-300 rounded-lg text-sm text-zinc-600 hover:bg-zinc-50 transition">提交</button>
+      <button class="px-4 py-2 border border-zinc-300 rounded-lg text-sm text-zinc-600 hover:bg-zinc-50 transition">显示答案</button>
+      <button class="px-4 py-2 border border-zinc-300 rounded-lg text-sm text-zinc-600 hover:bg-zinc-50 transition">播放声音</button>
+    </div>
+  </div>
+
+  <!-- 底部快捷键提示 -->
+  <div class="flex items-center justify-center gap-6 mt-8 text-xs text-zinc-400">
+    <span>Enter 提交</span>
+    <span>Space 下一词</span>
+    <span>Ctrl+H 提示</span>
+    <span>Ctrl+J 发音</span>
+  </div>
+
+  <!-- 学习计时器 (Earthworm: 右上角浮动) -->
+  <div class="fixed top-20 right-8 bg-white border border-zinc-200 rounded-xl px-4 py-2 shadow-sm text-sm text-zinc-500 font-mono">
+    ⏱ 04:32
+  </div>
+</section>
+
+<!-- ================================================================ -->
+<!-- PAGE 5: 答案展示 (参照 Earthworm Answer.vue)                       -->
+<!-- ================================================================ -->
+<section id="page-answer" class="page max-w-4xl mx-auto px-6 py-8">
+  <div class="text-center">
+    <!-- 英文句子 (Earthworm: text-5xl, gap-1, hover:text-fuchsia-500) -->
+    <div class="inline-flex flex-wrap items-center justify-center gap-1 text-5xl mb-4">
+      <span class="cursor-pointer p-1 hover:text-fuchsia-500 transition">He</span>
+      <span class="cursor-pointer p-1 hover:text-fuchsia-500 transition">goes</span>
+      <span class="cursor-pointer p-1 hover:text-fuchsia-500 transition">jogging</span>
+      <span class="cursor-pointer p-1 hover:text-fuchsia-500 transition">every</span>
+      <span class="cursor-pointer p-1 hover:text-fuchsia-500 transition">morning</span>
+      <span class="cursor-pointer p-1 hover:text-fuchsia-500 transition">.</span>
+      <span class="ml-1 inline-block h-7 w-7 cursor-pointer text-zinc-400 hover:text-fuchsia-500 text-xl">🔊</span>
+    </div>
+
+    <!-- 音标 (Earthworm: text-xl, text-gray-500) -->
+    <div class="my-6 text-xl text-zinc-400">
+      /hi ɡoʊz ˈdʒɑɡɪŋ ˈɛvri ˈmɔrnɪŋ/
+    </div>
+
+    <!-- 语法分析 (Earthworm: collapsible) -->
+    <div class="mx-auto max-w-xl mb-4">
+      <button class="mx-auto mb-2 flex items-center gap-1 px-3 py-1 text-sm text-zinc-400 hover:text-zinc-600 transition">
+        <span>👁</span> 查看语法分析
+      </button>
+      <div class="rounded-xl border border-zinc-200 bg-zinc-50/50 px-4 py-4">
+        <div class="flex flex-wrap justify-center gap-1.5">
+          <span class="bg-amber-50 text-amber-800 px-2 py-1 rounded text-sm font-medium cursor-pointer hover:ring-2 transition">He <span class="text-xs opacity-60">S</span></span>
+          <span class="bg-blue-50 text-blue-800 px-2 py-1 rounded text-sm font-medium cursor-pointer hover:ring-2 transition">goes <span class="text-xs opacity-60">V</span></span>
+          <span class="bg-blue-50 text-blue-800 px-2 py-1 rounded text-sm font-medium cursor-pointer hover:ring-2 transition">jogging <span class="text-xs opacity-60">V</span></span>
+          <span class="bg-green-50 text-green-800 px-2 py-1 rounded text-sm font-medium cursor-pointer hover:ring-2 transition">every <span class="text-xs opacity-60">A</span></span>
+          <span class="bg-green-50 text-green-800 px-2 py-1 rounded text-sm font-medium cursor-pointer hover:ring-2 transition">morning <span class="text-xs opacity-60">A</span></span>
+        </div>
+        <div class="flex flex-wrap justify-center gap-3 mt-3 text-xs text-zinc-400">
+          <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded bg-amber-100 border border-amber-300"></span>主语S</span>
+          <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded bg-blue-100 border border-blue-300"></span>谓语V</span>
+          <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded bg-green-100 border border-green-300"></span>状语A</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 中文翻译 (Earthworm: text-xl, text-gray-500) -->
+    <div class="my-6 text-xl text-zinc-400">
+      他每天早上都去跑步。
+    </div>
+
+    <!-- 按钮 -->
+    <div class="space-y-3">
+      <div class="flex items-center justify-center gap-6">
+        <button class="px-5 py-2 border border-zinc-300 rounded-lg text-sm text-zinc-600 hover:bg-zinc-50 transition">再来一次</button>
+        <button class="px-5 py-2 bg-fuchsia-600 text-white rounded-lg text-sm font-medium hover:bg-fuchsia-700 transition">下一题</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================================================================ -->
+<!-- PAGE 6: 课程结算 (Summary)                                         -->
+<!-- ================================================================ -->
+<section id="page-summary" class="page max-w-4xl mx-auto px-6 py-6">
+  <div class="relative">
+    <div class="bg-zinc-50 rounded-2xl p-10 blur-[2px] opacity-50">
+      <div class="text-center text-zinc-400 text-lg">游戏界面背景...</div>
+    </div>
+
+    <div class="absolute inset-0 flex items-center justify-center">
+      <div class="bg-white border border-zinc-200 rounded-2xl p-8 w-full max-w-lg shadow-2xl">
+        <div class="text-center">
+          <div class="text-5xl mb-3">🎉</div>
+          <h2 class="text-xl font-bold mb-1">恭喜!</h2>
+
+          <!-- 每日一句 -->
+          <div class="flex flex-col my-4">
+            <div class="flex">
+              <span class="text-3xl font-bold text-zinc-300">"</span>
+              <p class="flex-1 text-center text-sm leading-relaxed italic text-zinc-600">The only way to do great work is to love what you do.</p>
+            </div>
+            <div class="flex">
+              <span class="invisible text-3xl font-bold">"</span>
+              <p class="flex-1 text-center text-xs text-zinc-400">伟大的工作唯一途径是热爱你所做的。</p>
+              <span class="text-3xl font-bold text-zinc-300">"</span>
+            </div>
+            <p class="text-right text-xs text-zinc-300 mt-1">—— 金山词霸「每日一句」</p>
+          </div>
+
+          <p class="text-xs text-zinc-500 mb-4">恭喜您一共完成 10 道题，用时 04:32</p>
+          <p class="text-xs text-zinc-400 mb-6">今天一共学习 <span class="text-fuchsia-500 font-semibold">18分钟</span> 啦！</p>
+
+          <!-- 按钮组 -->
+          <div class="flex flex-col gap-2">
+            <div class="flex gap-2">
+              <button class="flex-1 py-2.5 bg-fuchsia-600 hover:bg-fuchsia-700 text-white rounded-lg text-sm font-medium transition">生成打卡图</button>
+              <button class="flex-1 py-2.5 border border-zinc-300 rounded-lg text-sm text-zinc-600 hover:bg-zinc-50 transition">再来一次</button>
+            </div>
+            <div class="flex gap-2">
+              <button class="flex-1 py-2.5 border border-zinc-300 rounded-lg text-sm text-zinc-600 hover:bg-zinc-50 transition">课程列表</button>
+              <button class="flex-1 py-2.5 bg-fuchsia-600 hover:bg-fuchsia-700 text-white rounded-lg text-sm font-medium transition">下一课 ↵</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================================================================ -->
+<!-- PAGE 7: 学习档案 / 成长分析                                        -->
+<!-- ================================================================ -->
+<section id="page-profile" class="page max-w-4xl mx-auto px-6 py-8">
+  <h2 class="text-2xl font-bold mb-8">📊 学习档案</h2>
+
+  <!-- 概览 -->
+  <div class="grid grid-cols-4 gap-4 mb-8">
+    <div class="bg-white border border-zinc-200 rounded-xl p-5 text-center">
+      <div class="text-3xl font-bold text-fuchsia-600">28</div>
+      <div class="text-xs text-zinc-400 mt-1">学习天数</div>
+    </div>
+    <div class="bg-white border border-zinc-200 rounded-xl p-5 text-center">
+      <div class="text-3xl font-bold text-fuchsia-600">156</div>
+      <div class="text-xs text-zinc-400 mt-1">掌握句子</div>
+    </div>
+    <div class="bg-white border border-zinc-200 rounded-xl p-5 text-center">
+      <div class="text-3xl font-bold text-fuchsia-600">12.5h</div>
+      <div class="text-xs text-zinc-400 mt-1">累计时长</div>
+    </div>
+    <div class="bg-white border border-zinc-200 rounded-xl p-5 text-center">
+      <div class="text-3xl font-bold text-fuchsia-600">12</div>
+      <div class="text-xs text-zinc-400 mt-1">完成课程</div>
+    </div>
+  </div>
+
+  <!-- 成长曲线 -->
+  <div class="bg-white border border-zinc-200 rounded-xl p-6 mb-6">
+    <h3 class="font-semibold mb-4">📈 学习时长趋势（近 7 天）</h3>
+    <div class="flex items-end justify-between h-32 gap-3 px-4">
+      <div class="flex flex-col items-center flex-1">
+        <div class="w-full bg-fuchsia-200 rounded-t" style="height:45%"></div>
+        <span class="text-xs text-zinc-400 mt-2">周四</span>
+        <span class="text-xs font-semibold">22分</span>
+      </div>
+      <div class="flex flex-col items-center flex-1">
+        <div class="w-full bg-fuchsia-300 rounded-t" style="height:62%"></div>
+        <span class="text-xs text-zinc-400 mt-2">周五</span>
+        <span class="text-xs font-semibold">31分</span>
+      </div>
+      <div class="flex flex-col items-center flex-1">
+        <div class="w-full bg-fuchsia-400 rounded-t" style="height:35%"></div>
+        <span class="text-xs text-zinc-400 mt-2">周六</span>
+        <span class="text-xs font-semibold">18分</span>
+      </div>
+      <div class="flex flex-col items-center flex-1">
+        <div class="w-full bg-fuchsia-100 rounded-t" style="height:18%"></div>
+        <span class="text-xs text-zinc-400 mt-2">周日</span>
+        <span class="text-xs font-semibold text-zinc-300">休息</span>
+      </div>
+      <div class="flex flex-col items-center flex-1">
+        <div class="w-full bg-fuchsia-400 rounded-t" style="height:78%"></div>
+        <span class="text-xs text-zinc-400 mt-2">周一</span>
+        <span class="text-xs font-semibold">45分</span>
+      </div>
+      <div class="flex flex-col items-center flex-1">
+        <div class="w-full bg-fuchsia-500 rounded-t" style="height:100%"></div>
+        <span class="text-xs text-zinc-400 mt-2">周二</span>
+        <span class="text-xs font-semibold">52分</span>
+      </div>
+      <div class="flex flex-col items-center flex-1">
+        <div class="w-full bg-fuchsia-600 rounded-t" style="height:65%"></div>
+        <span class="text-xs text-zinc-400 mt-2">周三</span>
+        <span class="text-xs font-semibold">32分</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 完成课程列表 -->
+  <div class="bg-white border border-zinc-200 rounded-xl p-6">
+    <h3 class="font-semibold mb-4">✅ 已完成课程</h3>
+    <div class="divide-y divide-zinc-100 text-sm">
+      <div class="flex items-center justify-between py-3">
+        <div>
+          <span class="font-medium">基础英语 100 句</span>
+          <span class="text-zinc-400 ml-2">第 1-4 课</span>
+        </div>
+        <span class="text-xs text-zinc-400">完成 4 次</span>
+      </div>
+      <div class="flex items-center justify-between py-3">
+        <div>
+          <span class="font-medium">商务英语常用句</span>
+          <span class="text-zinc-400 ml-2">第 1 课</span>
+        </div>
+        <span class="text-xs text-zinc-400">完成 1 次</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================================================================ -->
+<!-- PAGE 8: 个人设置                                                    -->
+<!-- ================================================================ -->
+<section id="page-settings" class="page max-w-2xl mx-auto px-6 py-8">
+  <h2 class="text-2xl font-bold mb-8">⚙️ 个人设置</h2>
+
+  <!-- 游戏偏好 -->
+  <div class="bg-white border border-zinc-200 rounded-xl p-6 mb-6">
+    <h3 class="font-semibold mb-4">🎮 游戏偏好</h3>
+    <div class="space-y-4">
+      <div class="flex items-center justify-between">
+        <div><div class="text-sm font-medium">默认游戏模式</div><div class="text-xs text-zinc-400">进入课程时的默认模式</div></div>
+        <select class="border border-zinc-300 rounded-lg px-3 py-2 text-sm bg-white">
+          <option>中译英</option><option>听写</option>
+        </select>
+      </div>
+      <div class="flex items-center justify-between">
+        <div><div class="text-sm font-medium">自动下一题</div><div class="text-xs text-zinc-400">答对后自动进入下一题</div></div>
+        <div class="w-10 h-6 bg-zinc-200 rounded-full flex items-center p-0.5 cursor-pointer"><div class="w-5 h-5 bg-white rounded-full shadow"></div></div>
+      </div>
+      <div class="flex items-center justify-between">
+        <div><div class="text-sm font-medium">空格键提交</div><div class="text-xs text-zinc-400">在最后一个单词按空格提交</div></div>
+        <div class="w-10 h-6 bg-fuchsia-600 rounded-full flex items-center p-0.5 cursor-pointer justify-end"><div class="w-5 h-5 bg-white rounded-full shadow"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 快捷键 -->
+  <div class="bg-white border border-zinc-200 rounded-xl p-6 mb-6">
+    <h3 class="font-semibold mb-4">⌨️ 快捷键</h3>
+    <div class="space-y-3 text-sm">
+      <div class="flex items-center justify-between"><span class="text-zinc-500">显示答案</span><kbd class="bg-zinc-100 border border-zinc-200 px-2 py-1 rounded text-xs">Ctrl + H</kbd></div>
+      <div class="flex items-center justify-between"><span class="text-zinc-500">播放发音</span><kbd class="bg-zinc-100 border border-zinc-200 px-2 py-1 rounded text-xs">Ctrl + J</kbd></div>
+      <div class="flex items-center justify-between"><span class="text-zinc-500">标记掌握</span><kbd class="bg-zinc-100 border border-zinc-200 px-2 py-1 rounded text-xs">Ctrl + M</kbd></div>
+      <div class="flex items-center justify-between"><span class="text-zinc-500">暂停游戏</span><kbd class="bg-zinc-100 border border-zinc-200 px-2 py-1 rounded text-xs">Esc</kbd></div>
+    </div>
+  </div>
+
+  <!-- 发音设置 -->
+  <div class="bg-white border border-zinc-200 rounded-xl p-6 mb-6">
+    <h3 class="font-semibold mb-4">🔊 发音设置 (edge-tts)</h3>
+    <div class="space-y-4">
+      <div class="flex items-center justify-between">
+        <div><div class="text-sm font-medium">TTS 音色</div></div>
+        <select class="border border-zinc-300 rounded-lg px-3 py-2 text-sm bg-white">
+          <option>🇺🇸 Andrew (美音男声)</option><option>🇺🇸 Jenny (美音女声)</option>
+          <option>🇬🇧 Ryan (英音男声)</option><option>🇬🇧 Sonia (英音女声)</option>
+        </select>
+      </div>
+      <div class="flex items-center justify-between">
+        <div><div class="text-sm font-medium">播放倍速</div></div>
+        <div class="flex items-center gap-2"><button class="w-7 h-7 rounded border border-zinc-300 text-sm">−</button><span class="text-sm font-mono w-8 text-center">1.0X</span><button class="w-7 h-7 rounded border border-zinc-300 text-sm">+</button></div>
+      </div>
+      <div class="flex items-center justify-between">
+        <div><div class="text-sm font-medium">播放次数</div></div>
+        <select class="border border-zinc-300 rounded-lg px-3 py-2 text-sm bg-white"><option>2 次</option><option>1 次</option><option>3 次</option><option>4 次</option></select>
+      </div>
+      <div class="flex items-center justify-between">
+        <div><div class="text-sm font-medium">播放间隔</div></div>
+        <select class="border border-zinc-300 rounded-lg px-3 py-2 text-sm bg-white"><option>3 秒</option><option>1 秒</option><option>5 秒</option><option>10 秒</option></select>
+      </div>
+    </div>
+  </div>
+
+  <!-- 界面 -->
+  <div class="bg-white border border-zinc-200 rounded-xl p-6 mb-6">
+    <h3 class="font-semibold mb-4">🎨 界面</h3>
+    <div class="flex items-center justify-between">
+      <div class="text-sm font-medium">主题</div>
+      <div class="flex bg-zinc-100 rounded-lg p-0.5">
+        <button class="px-3 py-1.5 bg-white rounded text-xs font-medium shadow-sm">☀️ 亮色</button>
+        <button class="px-3 py-1.5 rounded text-xs text-zinc-400">🌙 暗色</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 每日目标 -->
+  <div class="bg-white border border-zinc-200 rounded-xl p-6">
+    <h3 class="font-semibold mb-4">🎯 每日目标</h3>
+    <div class="flex items-center justify-between">
+      <span class="text-sm text-zinc-500">每天完成题目数</span>
+      <div class="flex items-center gap-2"><button class="w-7 h-7 rounded border border-zinc-300 text-sm">−</button><span class="text-sm font-mono w-8 text-center">20</span><button class="w-7 h-7 rounded border border-zinc-300 text-sm">+</button></div>
+    </div>
+  </div>
+</section>
+
+<!-- ================================================================ -->
+<!-- PAGE 9: 后台管理 - 课程包列表                                       -->
+<!-- ================================================================ -->
+<section id="page-admin" class="page max-w-7xl mx-auto px-6 py-8">
+  <div class="flex items-center justify-between mb-8">
+    <div><h2 class="text-2xl font-bold">📋 管理后台</h2><p class="text-sm text-zinc-500 mt-1">课程包 · 课程 · 句子 · 用户管理</p></div>
+    <div class="flex gap-3">
+      <button class="px-4 py-2 border border-zinc-300 rounded-lg text-sm hover:bg-zinc-50 transition">📥 导入课程</button>
+      <button class="px-4 py-2 bg-fuchsia-600 hover:bg-fuchsia-700 text-white rounded-lg text-sm font-medium transition">+ 创建课程包</button>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-4 gap-4 mb-8">
+    <div class="bg-white border border-zinc-200 rounded-xl p-4"><div class="text-sm text-zinc-500">课程包</div><div class="text-2xl font-bold">8</div></div>
+    <div class="bg-white border border-zinc-200 rounded-xl p-4"><div class="text-sm text-zinc-500">课程</div><div class="text-2xl font-bold">45</div></div>
+    <div class="bg-white border border-zinc-200 rounded-xl p-4"><div class="text-sm text-zinc-500">句子</div><div class="text-2xl font-bold">1,280</div></div>
+    <div class="bg-white border border-zinc-200 rounded-xl p-4"><div class="text-sm text-zinc-500">用户</div><div class="text-2xl font-bold">326</div></div>
+  </div>
+
+  <div class="bg-white border border-zinc-200 rounded-xl overflow-hidden">
+    <div class="px-6 py-4 border-b border-zinc-200 flex items-center justify-between">
+      <h3 class="font-semibold">课程包列表</h3>
+      <input type="text" placeholder="搜索..." class="border border-zinc-300 rounded-lg px-4 py-1.5 text-sm w-48 outline-none focus:border-fuchsia-500">
+    </div>
+    <table class="w-full text-sm">
+      <thead><tr class="border-b border-zinc-200 text-zinc-500"><th class="text-left px-6 py-3 font-medium">名称</th><th class="text-left px-6 py-3 font-medium">课程</th><th class="text-left px-6 py-3 font-medium">句子</th><th class="text-left px-6 py-3 font-medium">难度</th><th class="text-left px-6 py-3 font-medium">状态</th><th class="text-left px-6 py-3 font-medium">创建时间</th><th class="text-right px-6 py-3 font-medium">操作</th></tr></thead>
+      <tbody>
+        <tr class="border-b border-zinc-100 hover:bg-zinc-50 transition"><td class="px-6 py-3.5 font-medium">基础英语 100 句</td><td class="px-6 py-3.5 text-zinc-500">10 课</td><td class="px-6 py-3.5 text-zinc-500">100</td><td class="px-6 py-3.5"><span class="bg-green-50 text-green-700 text-xs px-2 py-0.5 rounded-full">初级</span></td><td class="px-6 py-3.5"><span class="bg-green-50 text-green-700 text-xs px-2 py-0.5 rounded-full">公开</span></td><td class="px-6 py-3.5 text-zinc-400">2025-06-15</td><td class="px-6 py-3.5 text-right"><button class="text-fuchsia-600 hover:text-fuchsia-700 mr-3 text-xs font-medium">编辑</button><button class="text-zinc-400 hover:text-red-500 text-xs">删除</button></td></tr>
+        <tr class="border-b border-zinc-100 hover:bg-zinc-50 transition"><td class="px-6 py-3.5 font-medium">商务英语常用句</td><td class="px-6 py-3.5 text-zinc-500">8 课</td><td class="px-6 py-3.5 text-zinc-500">80</td><td class="px-6 py-3.5"><span class="bg-amber-50 text-amber-700 text-xs px-2 py-0.5 rounded-full">中级</span></td><td class="px-6 py-3.5"><span class="bg-green-50 text-green-700 text-xs px-2 py-0.5 rounded-full">公开</span></td><td class="px-6 py-3.5 text-zinc-400">2025-06-20</td><td class="px-6 py-3.5 text-right"><button class="text-fuchsia-600 hover:text-fuchsia-700 mr-3 text-xs font-medium">编辑</button><button class="text-zinc-400 hover:text-red-500 text-xs">删除</button></td></tr>
+        <tr class="border-b border-zinc-100 hover:bg-zinc-50 transition"><td class="px-6 py-3.5 font-medium">旅游英语</td><td class="px-6 py-3.5 text-zinc-500">6 课</td><td class="px-6 py-3.5 text-zinc-500">60</td><td class="px-6 py-3.5"><span class="bg-green-50 text-green-700 text-xs px-2 py-0.5 rounded-full">初级</span></td><td class="px-6 py-3.5"><span class="bg-green-50 text-green-700 text-xs px-2 py-0.5 rounded-full">公开</span></td><td class="px-6 py-3.5 text-zinc-400">2025-06-25</td><td class="px-6 py-3.5 text-right"><button class="text-fuchsia-600 hover:text-fuchsia-700 mr-3 text-xs font-medium">编辑</button><button class="text-zinc-400 hover:text-red-500 text-xs">删除</button></td></tr>
+        <tr class="border-b border-zinc-100 hover:bg-zinc-50 transition"><td class="px-6 py-3.5 font-medium">新概念英语 第一册</td><td class="px-6 py-3.5 text-zinc-500">72 课</td><td class="px-6 py-3.5 text-zinc-500">720</td><td class="px-6 py-3.5"><span class="bg-amber-50 text-amber-700 text-xs px-2 py-0.5 rounded-full">中级</span></td><td class="px-6 py-3.5"><span class="bg-yellow-50 text-yellow-700 text-xs px-2 py-0.5 rounded-full">草稿</span></td><td class="px-6 py-3.5 text-zinc-400">2025-07-01</td><td class="px-6 py-3.5 text-right"><button class="text-fuchsia-600 hover:text-fuchsia-700 mr-3 text-xs font-medium">编辑</button><button class="text-zinc-400 hover:text-red-500 text-xs">删除</button></td></tr>
+        <tr class="hover:bg-zinc-50 transition"><td class="px-6 py-3.5 font-medium">考研英语高频句</td><td class="px-6 py-3.5 text-zinc-500">20 课</td><td class="px-6 py-3.5 text-zinc-500">200</td><td class="px-6 py-3.5"><span class="bg-red-50 text-red-700 text-xs px-2 py-0.5 rounded-full">困难</span></td><td class="px-6 py-3.5"><span class="bg-green-50 text-green-700 text-xs px-2 py-0.5 rounded-full">公开</span></td><td class="px-6 py-3.5 text-zinc-400">2025-06-10</td><td class="px-6 py-3.5 text-right"><button class="text-fuchsia-600 hover:text-fuchsia-700 mr-3 text-xs font-medium">编辑</button><button class="text-zinc-400 hover:text-red-500 text-xs">删除</button></td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ================================================================ -->
+<!-- PAGE 10: 句子编辑器                                                 -->
+<!-- ================================================================ -->
+<section id="page-admin-edit" class="page max-w-7xl mx-auto px-6 py-8">
+  <div class="flex items-center gap-3 mb-8">
+    <button class="text-zinc-400 hover:text-zinc-600 transition text-sm">← 返回课程包</button><span class="text-zinc-300">/</span>
+    <h2 class="text-2xl font-bold">编辑：基础英语 100 句 · 第 5 课</h2>
+  </div>
+
+  <div class="grid grid-cols-3 gap-6">
+    <div class="col-span-1 space-y-4">
+      <div class="bg-white border border-zinc-200 rounded-xl p-5">
+        <h3 class="font-semibold mb-4">课程信息</h3>
+        <div class="space-y-3">
+          <div><label class="text-xs text-zinc-500 block mb-1">课程名称</label><input type="text" value="日常活动描述" class="w-full border border-zinc-300 rounded-lg px-3 py-2 text-sm outline-none focus:border-fuchsia-500"></div>
+          <div><label class="text-xs text-zinc-500 block mb-1">描述</label><textarea rows="2" class="w-full border border-zinc-300 rounded-lg px-3 py-2 text-sm outline-none focus:border-fuchsia-500 resize-none">描述日常活动的常用句子</textarea></div>
+          <div><label class="text-xs text-zinc-500 block mb-1">难度</label><select class="w-full border border-zinc-300 rounded-lg px-3 py-2 text-sm bg-white"><option>初级</option><option>中级</option><option>高级</option></select></div>
+          <div><label class="text-xs text-zinc-500 block mb-1">排序</label><input type="number" value="5" class="w-20 border border-zinc-300 rounded-lg px-3 py-2 text-sm outline-none focus:border-fuchsia-500"></div>
+        </div>
+        <button class="w-full mt-4 py-2 bg-fuchsia-600 hover:bg-fuchsia-700 text-white rounded-lg text-sm font-medium transition">💾 保存课程</button>
+      </div>
+      <div class="bg-white border border-zinc-200 rounded-xl p-5">
+        <h3 class="font-semibold mb-3">📊 统计</h3>
+        <div class="text-3xl font-bold text-fuchsia-600">10</div><div class="text-xs text-zinc-400 mb-3">总句子数</div>
+        <div class="space-y-1 text-xs text-zinc-500">
+          <div class="flex justify-between"><span>有音标</span><span class="text-green-600">8</span></div>
+          <div class="flex justify-between"><span>有语法分析</span><span class="text-green-600">10</span></div>
+          <div class="flex justify-between"><span>TTS 已生成</span><span class="text-amber-600">6</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-span-2 bg-white border border-zinc-200 rounded-xl overflow-hidden">
+      <div class="px-5 py-4 border-b border-zinc-200 flex items-center justify-between">
+        <h3 class="font-semibold">句子列表</h3>
+        <div class="flex gap-2">
+          <button class="px-3 py-1.5 border border-zinc-300 rounded-lg text-xs hover:bg-zinc-50 transition">🎵 批量生成 TTS</button>
+          <button class="px-3 py-1.5 bg-fuchsia-600 hover:bg-fuchsia-700 text-white rounded-lg text-xs font-medium transition">+ 添加句子</button>
+        </div>
+      </div>
+
+      <!-- 句子 1 -->
+      <div class="p-5 border-b border-zinc-100">
+        <div class="flex items-start justify-between mb-3">
+          <span class="bg-zinc-100 text-zinc-500 px-2 py-0.5 rounded text-xs font-mono">#1</span>
+          <div class="flex gap-2"><button class="text-xs text-zinc-400 hover:text-fuchsia-600">编辑</button><button class="text-xs text-zinc-400 hover:text-red-500">删除</button></div>
+        </div>
+        <div class="space-y-2 mb-3">
+          <div class="flex gap-2"><span class="text-xs text-zinc-400 w-10 shrink-0 pt-2">英文</span><input type="text" value="He goes jogging every morning." class="flex-1 border border-zinc-300 rounded px-3 py-1.5 text-sm outline-none focus:border-fuchsia-500"></div>
+          <div class="flex gap-2"><span class="text-xs text-zinc-400 w-10 shrink-0 pt-2">中文</span><input type="text" value="他每天早上都去跑步。" class="flex-1 border border-zinc-300 rounded px-3 py-1.5 text-sm outline-none focus:border-fuchsia-500"></div>
+          <div class="flex gap-2"><span class="text-xs text-zinc-400 w-10 shrink-0 pt-2">音标</span><input type="text" value="/hi ɡoʊz ˈdʒɑɡɪŋ ˈɛvri ˈmɔrnɪŋ/" class="flex-1 border border-zinc-300 rounded px-3 py-1.5 text-xs font-mono outline-none focus:border-fuchsia-500"></div>
+        </div>
+        <div class="mb-2"><span class="text-xs text-zinc-400">语法分析</span></div>
+        <div class="flex flex-wrap gap-1 mb-2">
+          <span class="bg-amber-50 text-amber-800 px-2 py-0.5 rounded text-xs">He_S</span>
+          <span class="bg-blue-50 text-blue-800 px-2 py-0.5 rounded text-xs">goes_V</span>
+          <span class="bg-blue-50 text-blue-800 px-2 py-0.5 rounded text-xs">jogging_V</span>
+          <span class="bg-green-50 text-green-800 px-2 py-0.5 rounded text-xs">every_A</span>
+          <span class="bg-green-50 text-green-800 px-2 py-0.5 rounded text-xs">morning_A</span>
+        </div>
+        <div class="flex items-center gap-4 text-xs"><span class="text-green-600">✅ TTS 已生成</span></div>
+      </div>
+
+      <!-- 句子 2 -->
+      <div class="p-5 border-b border-zinc-100">
+        <div class="flex items-start justify-between mb-3">
+          <span class="bg-zinc-100 text-zinc-500 px-2 py-0.5 rounded text-xs font-mono">#2</span>
+          <div class="flex gap-2"><button class="text-xs text-zinc-400 hover:text-fuchsia-600">编辑</button><button class="text-xs text-zinc-400 hover:text-red-500">删除</button></div>
+        </div>
+        <div class="space-y-2 mb-3">
+          <div class="flex gap-2"><span class="text-xs text-zinc-400 w-10 shrink-0 pt-2">英文</span><input type="text" value="She reads a book every night." class="flex-1 border border-zinc-300 rounded px-3 py-1.5 text-sm outline-none focus:border-fuchsia-500"></div>
+          <div class="flex gap-2"><span class="text-xs text-zinc-400 w-10 shrink-0 pt-2">中文</span><input type="text" value="她每晚都读一本书。" class="flex-1 border border-zinc-300 rounded px-3 py-1.5 text-sm outline-none focus:border-fuchsia-500"></div>
+          <div class="flex gap-2"><span class="text-xs text-zinc-400 w-10 shrink-0 pt-2">音标</span><input type="text" value="/ʃi riːdz ə bʊk ˈɛvri naɪt/" class="flex-1 border border-zinc-300 rounded px-3 py-1.5 text-xs font-mono outline-none focus:border-fuchsia-500"></div>
+        </div>
+        <div class="mb-2"><span class="text-xs text-zinc-400">语法分析</span></div>
+        <div class="flex flex-wrap gap-1 mb-2">
+          <span class="bg-amber-50 text-amber-800 px-2 py-0.5 rounded text-xs">She_S</span>
+          <span class="bg-blue-50 text-blue-800 px-2 py-0.5 rounded text-xs">reads_V</span>
+          <span class="bg-pink-50 text-pink-800 px-2 py-0.5 rounded text-xs">a_Art</span>
+          <span class="bg-pink-50 text-pink-800 px-2 py-0.5 rounded text-xs">book_O</span>
+          <span class="bg-green-50 text-green-800 px-2 py-0.5 rounded text-xs">every_A</span>
+          <span class="bg-green-50 text-green-800 px-2 py-0.5 rounded text-xs">night_A</span>
+        </div>
+        <div class="flex items-center gap-4 text-xs"><span class="text-amber-600">⏳ TTS 未生成</span><button class="text-fuchsia-600 hover:text-fuchsia-700">立即生成</button></div>
+      </div>
+
+      <!-- 句子 3 -->
+      <div class="p-5">
+        <div class="flex items-start justify-between mb-3">
+          <span class="bg-zinc-100 text-zinc-500 px-2 py-0.5 rounded text-xs font-mono">#3</span>
+          <div class="flex gap-2"><button class="text-xs text-zinc-400 hover:text-fuchsia-600">编辑</button><button class="text-xs text-zinc-400 hover:text-red-500">删除</button></div>
+        </div>
+        <div class="space-y-2 mb-3">
+          <div class="flex gap-2"><span class="text-xs text-zinc-400 w-10 shrink-0 pt-2">英文</span><input type="text" value="They play basketball on weekends." class="flex-1 border border-zinc-300 rounded px-3 py-1.5 text-sm outline-none focus:border-fuchsia-500"></div>
+          <div class="flex gap-2"><span class="text-xs text-zinc-400 w-10 shrink-0 pt-2">中文</span><input type="text" value="他们周末打篮球。" class="flex-1 border border-zinc-300 rounded px-3 py-1.5 text-sm outline-none focus:border-fuchsia-500"></div>
+          <div class="flex gap-2"><span class="text-xs text-zinc-400 w-10 shrink-0 pt-2">音标</span><input type="text" value="/ðeɪ pleɪ ˈbæskɪtbɔl ɑn ˈwikɛndz/" class="flex-1 border border-zinc-300 rounded px-3 py-1.5 text-xs font-mono outline-none focus:border-fuchsia-500"></div>
+        </div>
+        <div class="mb-2"><span class="text-xs text-zinc-400">语法分析</span></div>
+        <div class="flex flex-wrap gap-1 mb-2">
+          <span class="bg-amber-50 text-amber-800 px-2 py-0.5 rounded text-xs">They_S</span>
+          <span class="bg-blue-50 text-blue-800 px-2 py-0.5 rounded text-xs">play_V</span>
+          <span class="bg-pink-50 text-pink-800 px-2 py-0.5 rounded text-xs">basketball_O</span>
+          <span class="bg-indigo-50 text-indigo-800 px-2 py-0.5 rounded text-xs">on_P</span>
+          <span class="bg-green-50 text-green-800 px-2 py-0.5 rounded text-xs">weekends_A</span>
+        </div>
+        <div class="flex items-center gap-4 text-xs"><span class="text-green-600">✅ TTS 已生成</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+function switchTab(name) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  var btn = document.querySelector(`[data-page="${name}"]`);
+  if (btn) btn.classList.add('active');
+  var page = document.getElementById('page-' + name);
+  if (page) page.classList.add('active');
+}
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => switchTab(btn.dataset.page));
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+# ── LinguaPulse 生产部署 ──
+# 架构：宿主机 PG + 宿主机 Nginx + 2 容器（frontend + backend）
+#
+# 前置条件：
+#   1. 宿主机已安装 PostgreSQL
+#   2. 宿主机已安装 Nginx 并配置 linguapulse.laravelapp.cn
+#   3. 修改 .env.prod 中的 DATABASE_URL 和 JWT_SECRET
+#
+# 启动：docker compose -f docker-compose.prod.yml up -d --build
+# 停止：docker compose -f docker-compose.prod.yml down
+# 迁移：docker compose -f docker-compose.prod.yml run --rm backend uv run alembic upgrade head
+# 种子：docker compose -f docker-compose.prod.yml run --rm backend uv run python seed.py
+
+services:
+  # ─────────────────────────────
+  # FastAPI 后端 (127.0.0.1:8000)
+  # ─────────────────────────────
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    env_file:
+      - .env.prod
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - audio_data:/app/static/audio
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  # ─────────────────────────────
+  # Next.js 前端 (127.0.0.1:3000)
+  # ─────────────────────────────
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  audio_data:
