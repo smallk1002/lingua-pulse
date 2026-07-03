@@ -116,11 +116,12 @@ function StartPage() {
   };
 
   const handleContinue = () => {
-    if (coursePackId && coursePack?.last_course_id) {
-      router.push(
-        `/game?coursePackId=${coursePackId}&courseId=${coursePack.last_course_id}&mode=${mode}&difficulty=${difficulty}`
-      );
-    }
+    if (!coursePackId || !coursePack) return;
+    const cid = coursePack.last_course_id ?? coursePack.courses?.[0]?.id;
+    if (!cid) return;
+    router.push(
+      `/game?coursePackId=${coursePackId}&courseId=${cid}&mode=${mode}&difficulty=${difficulty}`
+    );
   };
 
   return (
@@ -146,15 +147,15 @@ function StartPage() {
                   <p className="text-sm text-gray-500">课程包</p>
                   <p className="font-semibold">{coursePack?.title ?? "加载中..."}</p>
                 </div>
-                {coursePack?.last_course_id && (
-                  <button
-                    onClick={handleContinue}
-                    className="px-4 py-2 bg-fuchsia-600 text-white rounded-xl text-sm font-semibold
-                               hover:bg-fuchsia-700 transition-colors shadow-sm"
-                  >
-                    ▶ 继续学习
-                  </button>
-                )}
+                <button
+                  onClick={handleContinue}
+                  disabled={!coursePack?.courses?.length}
+                  className="px-4 py-2 bg-fuchsia-600 text-white rounded-xl text-sm font-semibold
+                             hover:bg-fuchsia-700 transition-colors shadow-sm
+                             disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                  ▶ 继续学习
+                </button>
               </div>
 
               {/* 课程选择 */}

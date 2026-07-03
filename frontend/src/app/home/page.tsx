@@ -10,6 +10,16 @@ import Link from "next/link";
 import { useAuthStore } from "@/stores/authStore";
 import { useQuery } from "@tanstack/react-query";
 import { getStatsSummary, getMyCoursePacks } from "@/lib/api";
+import type { GameMode, Difficulty } from "@/lib/types";
+
+const getSavedMode = (): GameMode => {
+  try { return (localStorage.getItem("gameMode") as GameMode) || "chinese_to_english"; }
+  catch { return "chinese_to_english"; }
+};
+const getSavedDifficulty = (): Difficulty => {
+  try { return (localStorage.getItem("gameDifficulty") as Difficulty) || "intermediate"; }
+  catch { return "intermediate"; }
+};
 
 export default function HomePage() {
   const { user, isAuthenticated, isLoading: authLoading } = useAuthStore();
@@ -102,37 +112,18 @@ export default function HomePage() {
           </div>
         ) : (
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {coursePacks.map((pack) =>
-              pack.last_course_id ? (
+            {coursePacks.map((pack) => (
+              <div
+                key={pack.id}
+                className={`p-5 rounded-xl border hover:shadow-md transition-all
+                  ${pack.last_course_id
+                    ? "border-fuchsia-300 dark:border-fuchsia-800 bg-fuchsia-50 dark:bg-fuchsia-950"
+                    : "border-gray-200 dark:border-gray-800"
+                  } hover:border-fuchsia-400 dark:hover:border-fuchsia-600`}
+              >
                 <Link
-                  key={pack.id}
-                  href={`/game?coursePackId=${pack.id}&courseId=${pack.last_course_id}&mode=chinese_to_english&difficulty=intermediate`}
-                  className="p-5 rounded-xl border-2 border-fuchsia-300 dark:border-fuchsia-800
-                             bg-fuchsia-50 dark:bg-fuchsia-950
-                             hover:border-fuchsia-400 hover:shadow-md transition-all group"
-                >
-                  <h3 className="font-semibold group-hover:text-fuchsia-600 transition-colors">
-                    {pack.title}
-                  </h3>
-                  <p className="text-sm text-gray-500 mt-1 line-clamp-2">
-                    {pack.description}
-                  </p>
-                  <div className="flex items-center gap-3 mt-3">
-                    <span className="px-2 py-0.5 bg-fuchsia-600 text-white text-xs rounded-full font-medium">
-                      ▶ 继续学习
-                    </span>
-                    <span className="text-xs text-gray-400">
-                      {pack.course_count} 节课 · {pack.difficulty}
-                    </span>
-                  </div>
-                </Link>
-              ) : (
-                <Link
-                  key={pack.id}
                   href={`/start?coursePackId=${pack.id}`}
-                  className="p-5 rounded-xl border border-gray-200 dark:border-gray-800
-                             hover:border-fuchsia-300 dark:hover:border-fuchsia-700
-                             hover:shadow-md transition-all group"
+                  className="block group"
                 >
                   <h3 className="font-semibold group-hover:text-fuchsia-600 transition-colors">
                     {pack.title}
@@ -140,14 +131,25 @@ export default function HomePage() {
                   <p className="text-sm text-gray-500 mt-1 line-clamp-2">
                     {pack.description}
                   </p>
-                  <div className="flex items-center gap-3 mt-3 text-xs text-gray-400">
-                    <span>{pack.course_count} 节课</span>
-                    <span>·</span>
-                    <span className="capitalize">{pack.difficulty}</span>
-                  </div>
                 </Link>
-              )
-            )}
+                <div className="flex items-center justify-between mt-3">
+                  {pack.last_course_id ? (
+                    <Link
+                      href={`/game?coursePackId=${pack.id}&courseId=${pack.last_course_id}&mode=${getSavedMode()}&difficulty=${getSavedDifficulty()}`}
+                      className="px-2.5 py-0.5 bg-fuchsia-600 text-white text-xs rounded-full font-medium
+                                 hover:bg-fuchsia-700 transition-colors"
+                    >
+                      ▶ 继续学习
+                    </Link>
+                  ) : (
+                    <span />
+                  )}
+                  <span className="text-xs text-gray-400">
+                    {pack.course_count} 节课 · {pack.difficulty}
+                  </span>
+                </div>
+              </div>
+            ))}
           </div>
         )}
       </section>

@@ -102,6 +102,7 @@ export interface CourseCompleteResponse {
   completed: boolean;
   xp_awarded: number;
   next_course_id: string | null;
+  next_course_title: string | null;
 }
 
 // ---- 会话 ----

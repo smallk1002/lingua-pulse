@@ -69,6 +69,8 @@ function GamePage() {
   const [pausedOverlay, setPausedOverlay] = useState(false);
 
   // 结算提交防重
+  const [nextCourseId, setNextCourseId] = useState<string | null>(null);
+  const [nextCourseTitle, setNextCourseTitle] = useState<string | null>(null);
   const ttsAudioRef = useRef<HTMLAudioElement | null>(null);
   const activeAudiosRef = useRef<Set<HTMLAudioElement>>(new Set());
 
@@ -302,6 +304,10 @@ function GamePage() {
       useGameStore.setState({
         xpEarned: (useGameStore.getState().xpEarned || 0) + (res.xp_awarded || 0),
       });
+      if (res.next_course_id) {
+        setNextCourseId(res.next_course_id);
+        setNextCourseTitle(res.next_course_title ?? null);
+      }
     } catch {
       // 即使提交失败也显示结算页
     }
@@ -393,14 +399,23 @@ function GamePage() {
           </div>
         </div>
 
-        <div className="flex gap-3 justify-center">
+        <div className="flex gap-3 justify-center flex-wrap">
+          {nextCourseId && (
+            <Link
+              href={`/game?coursePackId=${coursePackId}&courseId=${nextCourseId}`}
+              className="px-8 py-3 bg-fuchsia-600 text-white rounded-xl font-semibold
+                         hover:bg-fuchsia-700 transition-colors shadow-lg"
+            >
+              ▶ 下一课{nextCourseTitle ? `：${nextCourseTitle}` : ""}
+            </Link>
+          )}
           <button
             onClick={() => {
               resetCourse();
               startGame();
             }}
-            className="px-8 py-3 bg-fuchsia-600 text-white rounded-xl font-semibold
-                       hover:bg-fuchsia-700 transition-colors"
+            className="px-8 py-3 border border-gray-300 dark:border-gray-700 rounded-xl
+                       font-semibold hover:border-fuchsia-300 transition-colors"
           >
             🔄 再来一次
           </button>
