@@ -66,8 +66,9 @@ function GamePage() {
   const { playRightSound, playErrorSound } = usePlayTipSound();
   useKeyboard();
 
-  const [isSubmitting, setIsSubmitting] = useState(false);
   const [pausedOverlay, setPausedOverlay] = useState(false);
+
+  // 结算提交防重
   const ttsAudioRef = useRef<HTMLAudioElement | null>(null);
   const activeAudiosRef = useRef<Set<HTMLAudioElement>>(new Set());
 
@@ -292,9 +293,10 @@ function GamePage() {
   }, []);
 
   // Submit results when course complete
+  const submittedRef = useRef(false);
   const handleComplete = useCallback(async () => {
-    if (isSubmitting) return;
-    setIsSubmitting(true);
+    if (submittedRef.current) return;
+    submittedRef.current = true;
     try {
       const res = await completeCourse(courseId, results);
       useGameStore.setState({
@@ -302,16 +304,14 @@ function GamePage() {
       });
     } catch {
       // 即使提交失败也显示结算页
-    } finally {
-      setIsSubmitting(false);
     }
-  }, [courseId, results, isSubmitting]);
+  }, [courseId, results]);
 
   useEffect(() => {
     if (status === "completed") {
       handleComplete();
     }
-  }, [status, handleComplete]);
+  }, [status]);
 
   // Loading state
   if (authLoading || courseLoading) {
