@@ -4,13 +4,14 @@
 
 "use client";
 
-import { useCallback } from "react";
+import { useCallback, useState } from "react";
 import { useGameStore } from "@/stores/gameStore";
 import { useQuestionInput } from "@/hooks/useQuestionInput";
 import { useTypingSound } from "@/hooks/useTypingSound";
 import { WordSlot } from "./WordSlot";
 
 import { GrammarBreakdown } from "./GrammarBreakdown";
+import { MoreExamples } from "./MoreExamples";
 
 export function QuestionInput() {
   const {
@@ -39,6 +40,11 @@ export function QuestionInput() {
 
   const statement = getCurrentStatement();
 
+  // 更多例句展开状态
+  const [showMoreExamples, setShowMoreExamples] = useState(false);
+  // 语法分析折叠状态
+  const [showGrammar, setShowGrammar] = useState(true);
+
   // 带音效的键盘处理
   const onKeyDown = useCallback(
     (e: React.KeyboardEvent<HTMLInputElement>) => {
@@ -64,7 +70,7 @@ export function QuestionInput() {
   return (
     <div className="w-full max-w-3xl mx-auto">
       {/* 中文提示 */}
-      {mode === "chinese_to_english" && (
+      {mode === "chinese_to_english" && phase !== "answer" && (
         <div className="text-center mb-6">
           <p className="text-2xl font-bold text-gray-800 dark:text-gray-100">
             {statement.chinese}
@@ -72,7 +78,7 @@ export function QuestionInput() {
         </div>
       )}
 
-      {mode === "dictation" && (
+      {mode === "dictation" && phase !== "answer" && (
         <div className="text-center mb-6">
           <button
             onClick={() => window.dispatchEvent(new CustomEvent("play-tts"))}
@@ -164,38 +170,120 @@ export function QuestionInput() {
         </div>
       )}
 
-      {/* Answer 阶段语法分析色块 */}
+      {/* ====== Answer 阶段 ====== */}
       {phase === "answer" && statement && (
-        <GrammarBreakdown
-          english={statement.english}
-          soundmark={statement.soundmark}
-          chinese={statement.chinese}
-          grammar={
-            statement.grammar as
-              | Array<{ tag?: string; text?: string; role?: string }>
-              | null
-          }
-        />
-      )}
+        <div className="mt-6 space-y-6">
+          {/* 完整英文句子（大号展示） */}
+          <div className="text-center">
+            <p className="text-3xl md:text-4xl font-bold text-gray-800 dark:text-gray-100 leading-relaxed">
+              {statement.english}
+            </p>
+            <button
+              onClick={() => window.dispatchEvent(new CustomEvent("play-tts"))}
+              className="inline-block ml-2 text-xl hover:scale-110 transition-transform"
+              title="播放发音"
+            >
+              🔊
+            </button>
+          </div>
 
-      {/* Answer 阶段的下一题按钮 */}
-      {phase === "answer" && (
-        <div className="text-center mt-6">
-          <button
-            onClick={() => {
-              const { nextStatement, status: gameStatus } = useGameStore.getState();
-              if (gameStatus !== "completed") {
-                nextStatement();
+          {/* 音标 */}
+          {statement.soundmark && (
+            <div className="text-center">
+              <p className="text-lg text-gray-500 font-mono">
+                {statement.soundmark}
+              </p>
+            </div>
+          )}
+
+          {/* 中文翻译 */}
+          <div className="text-center">
+            <p className="text-xl text-gray-600 dark:text-gray-400">
+              {statement.chinese}
+            </p>
+          </div>
+
+          {/* 语法分析（可折叠） */}
+          <div className="border border-gray-200 dark:border-gray-800 rounded-xl overflow-hidden">
+            <button
+              onClick={() => setShowGrammar(!showGrammar)}
+              className="w-full flex items-center justify-between px-4 py-3 bg-gray-50 dark:bg-gray-900
+                         hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+            >
+              <span className="text-sm font-medium text-gray-600 dark:text-gray-400">
+                📖 语法分析
+              </span>
+              <span className="text-gray-400 text-sm">
+                {showGrammar ? "▲" : "▼"}
+              </span>
+            </button>
+            {showGrammar && (
+              <div className="p-4">
+                <GrammarBreakdown
+                  english={statement.english}
+                  soundmark={statement.soundmark}
+                  chinese={statement.chinese}
+                  grammar={
+                    statement.grammar as
+                      | Array<{ tag?: string; text?: string; role?: string }>
+                      | null
+                  }
+                />
+              </div>
+            )}
+          </div>
+
+          {/* 操作按钮 */}
+          <div className="flex justify-center gap-3 flex-wrap">
+            <button
+              onClick={() => {
+                useGameStore.getState().retryStatement();
+                setShowMoreExamples(false);
                 setTimeout(() => focusInput(), 100);
-              }
-            }}
-            className="px-8 py-3 bg-fuchsia-600 text-white rounded-xl font-semibold
-                       hover:bg-fuchsia-700 transition-colors shadow-lg hover:shadow-xl
-                       active:scale-95"
-          >
-            下一题 →
-          </button>
-          <p className="text-xs text-gray-400 mt-2">或按 Ctrl+Enter</p>
+              }}
+              className="flex items-center gap-2 px-6 py-3 border-2 border-gray-300 dark:border-gray-700
+                         rounded-xl font-semibold hover:border-fuchsia-400 hover:text-fuchsia-600
+                         transition-colors"
+            >
+              <span>🔄</span>
+              <span>再来一次</span>
+            </button>
+            <button
+              onClick={() => setShowMoreExamples(!showMoreExamples)}
+              className="flex items-center gap-2 px-6 py-3 border-2 border-gray-300 dark:border-gray-700
+                         rounded-xl font-semibold hover:border-purple-400 hover:text-purple-600
+                         transition-colors"
+            >
+              <span>📚</span>
+              <span>{showMoreExamples ? "收起例句" : "更多例句"}</span>
+            </button>
+            <button
+              onClick={() => {
+                const { nextStatement, status: gameStatus } = useGameStore.getState();
+                setShowMoreExamples(false);
+                if (gameStatus !== "completed") {
+                  nextStatement();
+                  setTimeout(() => focusInput(), 100);
+                }
+              }}
+              className="flex items-center gap-2 px-8 py-3 bg-fuchsia-600 text-white rounded-xl
+                         font-semibold hover:bg-fuchsia-700 transition-colors shadow-lg hover:shadow-xl
+                         active:scale-95"
+            >
+              <span>下一题</span>
+              <span>→</span>
+            </button>
+          </div>
+
+          <p className="text-center text-xs text-gray-400">下一题: Ctrl+Enter | 发音: Ctrl+'</p>
+
+          {/* 更多例句展开区域 */}
+          {showMoreExamples && (
+            <MoreExamples
+              statementId={statement.id}
+              onClose={() => setShowMoreExamples(false)}
+            />
+          )}
         </div>
       )}
 

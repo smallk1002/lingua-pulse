@@ -64,6 +64,7 @@ export interface Statement {
   soundmark?: string | null;
   grammar?: unknown;
   tts_audio_url?: string | null;
+  course_id?: string;
 }
 
 // ---- 学习进度 ----

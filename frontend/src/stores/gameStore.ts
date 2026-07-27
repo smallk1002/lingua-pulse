@@ -69,6 +69,7 @@ interface GameState {
   resumeGame: () => void;
   nextStatement: () => void;
   prevStatement: () => void;
+  retryStatement: () => void;
 
   // 单词输入
   buildWordSlots: (sentence: string) => void;
@@ -233,6 +234,15 @@ export const useGameStore = create<GameState>((set, get) => ({
     const { currentStatementIndex } = get();
     if (currentStatementIndex > 0) {
       set({ currentStatementIndex: currentStatementIndex - 1 });
+    }
+  },
+
+  retryStatement: () => {
+    const { visibleStatements, currentStatementIndex } = get();
+    const stmt = visibleStatements[currentStatementIndex];
+    if (stmt) {
+      get().buildWordSlots(stmt.english);
+      set({ phase: "question", showAnswer: false });
     }
   },
 

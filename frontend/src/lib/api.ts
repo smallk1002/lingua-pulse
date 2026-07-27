@@ -197,6 +197,31 @@ export async function getRecentRecords(): Promise<LearningRecord[]> {
   return request<LearningRecord[]>("/api/dashboard/recent");
 }
 
+// ---- 更多例句 ----
+
+export interface MoreExamplesResponse {
+  examples: Array<{
+    id: string;
+    order: number;
+    chinese: string;
+    english: string;
+    soundmark?: string | null;
+    grammar?: unknown;
+    tts_audio_url?: string | null;
+    course_id?: string;
+  }>;
+}
+
+export async function getMoreExamples(
+  packId: string,
+  courseId: string,
+  statementId: string
+): Promise<MoreExamplesResponse> {
+  return request<MoreExamplesResponse>(
+    `/api/course-packs/${packId}/courses/${courseId}/more-examples/${statementId}`
+  );
+}
+
 // ---- 设置 ----
 
 export async function getSettings(): Promise<UserSettings> {
