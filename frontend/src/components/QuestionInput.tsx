@@ -179,19 +179,20 @@ export function QuestionInput() {
           <div className="text-center">
             <p className="text-3xl md:text-4xl font-bold text-gray-800 dark:text-gray-100 leading-relaxed">
               {statement.english.split(/\s+/).map((word, i, arr) => (
-                <button
-                  key={i}
-                  type="button"
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    speakWord(word);
-                  }}
-                  title={`点击发音: ${word}`}
-                  className="inline cursor-pointer hover:text-fuchsia-600 hover:underline decoration-fuchsia-300 underline-offset-4 transition-colors"
-                >
-                  {word}
+                <span key={i} className="inline-block">
+                  <button
+                    type="button"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      speakWord(word);
+                    }}
+                    title={`点击发音: ${word}`}
+                    className="cursor-pointer hover:text-fuchsia-600 hover:underline decoration-fuchsia-300 underline-offset-4 transition-colors"
+                  >
+                    {word}
+                  </button>
                   {i < arr.length - 1 ? " " : ""}
-                </button>
+                </span>
               ))}
             </p>
             <button
