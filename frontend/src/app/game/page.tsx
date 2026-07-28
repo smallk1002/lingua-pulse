@@ -75,6 +75,9 @@ function GamePage() {
   const activeAudiosRef = useRef<Set<HTMLAudioElement>>(new Set());
   const lastReportedElapsedRef = useRef(0);
   const prevStatusRef = useRef(status);
+  // 游客模式：答题计数 + 注册提示
+  const guestSentenceCount = useRef(0);
+  const [showRegBanner, setShowRegBanner] = useState(false);
 
   // 停止所有正在播放的 TTS
   const stopAllTTS = useCallback(() => {
@@ -90,17 +93,13 @@ function GamePage() {
   }, []);
 
   // Auth check
-  useEffect(() => {
-    if (!authLoading && !isAuthenticated) {
-      router.replace("/auth/login");
-    }
-  }, [authLoading, isAuthenticated, router]);
+  // Guests 可以直接玩，无需登录
 
-  // Load course data
+  // Load course data（游客也可加载）
   const { data: courseData, isLoading: courseLoading, error } = useQuery({
     queryKey: ["course", coursePackId, courseId],
     queryFn: () => getCourse(coursePackId, courseId),
-    enabled: !!courseId && isAuthenticated,
+    enabled: !!courseId,
   });
 
   // Init game when course loaded
@@ -128,9 +127,9 @@ function GamePage() {
     prevStatusRef.current = status;
   }, [status]);
 
-  // 定期上报学习时长（每 30 秒），确保中途退出也有统计
+  // 定期上报学习时长（每 30 秒），仅登录用户
   useEffect(() => {
-    if (status !== "playing") return;
+    if (status !== "playing" || !isAuthenticated) return;
     const interval = setInterval(() => {
       const state = useGameStore.getState();
       const total = state.elapsedSeconds || 0;
@@ -145,11 +144,11 @@ function GamePage() {
       }
     }, 30000);
     return () => clearInterval(interval);
-  }, [status]);
+  }, [status, isAuthenticated]);
 
-  // 课程完成时上报剩余时长 + 完成句数
+  // 课程完成时上报剩余时长 + 完成句数，仅登录用户
   useEffect(() => {
-    if (status === "completed") {
+    if (status === "completed" && isAuthenticated) {
       const state = useGameStore.getState();
       const total = state.elapsedSeconds || 0;
       const delta = total - lastReportedElapsedRef.current;
@@ -160,7 +159,7 @@ function GamePage() {
         course_id: state.courseId,
       }).catch(() => {});
     }
-  }, [status]);
+  }, [status, isAuthenticated]);
 
   // 学习时长计时器（每秒 tick）
   useEffect(() => {
@@ -172,6 +171,16 @@ function GamePage() {
     }, 1000);
     return () => clearInterval(interval);
   }, [status]);
+
+  // 游客答题计数：答够 5 题后弹出注册提示
+  useEffect(() => {
+    if (!isAuthenticated && phase === "answer") {
+      guestSentenceCount.current += 1;
+      if (guestSentenceCount.current >= 5 && !showRegBanner) {
+        setShowRegBanner(true);
+      }
+    }
+  }, [phase, isAuthenticated]);
 
   // Phase change effects (sounds)
   const prevPhaseRef = useRef(phase);
@@ -331,19 +340,20 @@ function GamePage() {
   const handleComplete = useCallback(async () => {
     if (submittedRef.current) return;
     submittedRef.current = true;
-    try {
-      const res = await completeCourse(courseId, results);
-      useGameStore.setState({
-        xpEarned: (useGameStore.getState().xpEarned || 0) + (res.xp_awarded || 0),
-      });
-      if (res.next_course_id) {
-        setNextCourseId(res.next_course_id);
-        setNextCourseTitle(res.next_course_title ?? null);
-      }
-    } catch {
-      // 即使提交失败也显示结算页
+    // 仅登录用户上报完成
+    if (isAuthenticated) {
+      try {
+        const res = await completeCourse(courseId, results);
+        useGameStore.setState({
+          xpEarned: (useGameStore.getState().xpEarned || 0) + (res.xp_awarded || 0),
+        });
+        if (res.next_course_id) {
+          setNextCourseId(res.next_course_id);
+          setNextCourseTitle(res.next_course_title ?? null);
+        }
+      } catch { /* ignore */ }
     }
-  }, [courseId, results]);
+  }, [courseId, results, isAuthenticated]);
 
   useEffect(() => {
     if (status === "completed") {
@@ -352,7 +362,7 @@ function GamePage() {
   }, [status]);
 
   // Loading state
-  if (authLoading || courseLoading) {
+  if (courseLoading) {
     return (
       <div className="flex items-center justify-center min-h-[80vh]">
         <div className="animate-pulse text-fuchsia-600 text-lg">加载课程...</div>
@@ -364,8 +374,8 @@ function GamePage() {
     return (
       <div className="max-w-2xl mx-auto px-4 py-20 text-center">
         <p className="text-red-500 mb-4">加载课程失败</p>
-        <Link href="/home" className="text-fuchsia-600 hover:underline">
-          返回主页
+        <Link href="/courses" className="text-fuchsia-600 hover:underline">
+          返回课程列表
         </Link>
       </div>
     );
@@ -396,7 +406,7 @@ function GamePage() {
               继续学习
             </button>
             <Link
-              href="/home"
+              href="/courses"
               className="px-6 py-2 border border-gray-300 dark:border-gray-700 rounded-xl
                          hover:border-fuchsia-300 transition-colors"
             >
@@ -452,11 +462,11 @@ function GamePage() {
             🔄 再来一次
           </button>
           <Link
-            href="/home"
+            href="/courses"
             className="px-8 py-3 border border-gray-300 dark:border-gray-700 rounded-xl
                        font-semibold hover:border-fuchsia-300 transition-colors"
           >
-            返回主页
+            返回课程列表
           </Link>
         </div>
       </div>
@@ -466,6 +476,33 @@ function GamePage() {
   // ---- 游戏界面 ----
   return (
     <div className="max-w-4xl mx-auto px-4 py-4">
+      {/* 游客注册提示（答够 5 题后显示） */}
+      {!isAuthenticated && showRegBanner && (
+        <div className="mb-3 p-3 rounded-xl bg-gradient-to-r from-fuchsia-50 to-purple-50
+                        dark:from-fuchsia-950 dark:to-purple-950
+                        border border-fuchsia-200 dark:border-fuchsia-800 flex items-center justify-between gap-3">
+          <span className="text-sm text-fuchsia-800 dark:text-fuchsia-200">
+            🎉 你已完成 {guestSentenceCount.current} 题！
+            注册可保存进度、解锁统计和打卡功能。
+          </span>
+          <div className="flex gap-2 shrink-0">
+            <Link
+              href={`/auth/register?redirect=/game?coursePackId=${coursePackId}&courseId=${courseId}&mode=${mode}&difficulty=${urlDifficulty}`}
+              className="px-4 py-1.5 bg-fuchsia-600 text-white rounded-lg text-sm font-semibold
+                         hover:bg-fuchsia-700 transition-colors whitespace-nowrap"
+            >
+              注册账号
+            </Link>
+            <button
+              onClick={() => setShowRegBanner(false)}
+              className="px-3 py-1.5 text-gray-400 hover:text-gray-600 text-sm"
+            >
+              暂不
+            </button>
+          </div>
+        </div>
+      )}
+
       {/* 顶部工具栏 */}
       <div className="flex items-center justify-between mb-4 text-sm">
         <Link

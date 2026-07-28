@@ -49,11 +49,11 @@ export default function LandingPage() {
         </p>
         <div className="flex gap-4 justify-center">
           <Link
-            href="/auth/register"
+            href="/courses"
             className="px-8 py-3 bg-fuchsia-600 text-white rounded-xl font-semibold
                        text-lg hover:bg-fuchsia-700 transition-colors shadow-lg hover:shadow-xl"
           >
-            免费开始
+            免费体验
           </Link>
           <Link
             href="#features"
@@ -100,14 +100,14 @@ export default function LandingPage() {
         <div className="max-w-md mx-auto p-8 rounded-2xl bg-gradient-to-br from-fuchsia-50 to-purple-50 dark:from-fuchsia-950 dark:to-purple-950 border border-fuchsia-200 dark:border-fuchsia-800">
           <h3 className="text-2xl font-bold mb-4">准备好开始了吗？</h3>
           <p className="text-gray-500 dark:text-gray-400 mb-6">
-            免费注册，开始你的英语学习之旅。
+            无需注册，即刻体验。喜欢再注册，进度不会丢。
           </p>
           <Link
-            href="/auth/register"
+            href="/courses"
             className="inline-block px-8 py-3 bg-fuchsia-600 text-white rounded-xl
                        font-semibold hover:bg-fuchsia-700 transition-colors"
           >
-            🚀 立即开始
+            🚀 免费体验
           </Link>
         </div>
       </section>

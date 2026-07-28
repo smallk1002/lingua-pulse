@@ -110,29 +110,22 @@ function saveDifficulty(d: Difficulty) {
 function StartPageInner() {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const { isAuthenticated, isLoading: authLoading } = useAuthStore();
+  const { isAuthenticated } = useAuthStore();
 
   const coursePackId = searchParams.get("coursePackId");
-
-  // ---- Auth guard ----
-  useEffect(() => {
-    if (!authLoading && !isAuthenticated) {
-      router.replace("/auth/login");
-    }
-  }, [authLoading, isAuthenticated, router]);
 
   // ---- Course Pack Data ----
   const { data: coursePack, isLoading: packLoading } = useQuery({
     queryKey: ["coursePack", coursePackId],
     queryFn: () => getCoursePack(coursePackId!),
-    enabled: !!coursePackId && isAuthenticated,
+    enabled: !!coursePackId,
   });
 
   // ---- All Course Packs (when no coursePackId) ----
   const { data: allPacks } = useQuery({
     queryKey: ["allCoursePacks"],
     queryFn: getMyCoursePacks,
-    enabled: !coursePackId && isAuthenticated,
+    enabled: !coursePackId,
   });
 
   // ---- State ----
@@ -171,16 +164,6 @@ function StartPageInner() {
     );
   };
 
-  if (authLoading) {
-    return (
-      <div className="flex items-center justify-center min-h-[80vh]">
-        <div className="animate-pulse text-fuchsia-600 text-lg">加载中...</div>
-      </div>
-    );
-  }
-
-  if (!isAuthenticated) return null;
-
   // ============================================================
   // No coursePackId: Show Course Pack List
   // ============================================================
@@ -191,7 +174,7 @@ function StartPageInner() {
           href="/home"
           className="text-sm text-gray-400 hover:text-fuchsia-600 transition-colors mb-6 inline-block"
         >
-          ← 返回主页
+          ← 返回课程列表
         </Link>
         <h1 className="text-2xl font-bold mb-6">选择课程包</h1>
 
@@ -253,10 +236,10 @@ function StartPageInner() {
     <div className="max-w-2xl mx-auto px-4 py-8">
       {/* Back */}
       <Link
-        href="/home"
+        href="/courses"
         className="text-sm text-gray-400 hover:text-fuchsia-600 transition-colors mb-4 inline-block"
       >
-        ← 返回主页
+        ← 返回课程列表
       </Link>
 
       <h1 className="text-2xl font-bold mb-1">{coursePack.title}</h1>

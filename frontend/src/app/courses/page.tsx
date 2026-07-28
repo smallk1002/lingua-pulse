@@ -7,29 +7,24 @@
 import Link from "next/link";
 import { useQuery } from "@tanstack/react-query";
 import { getMarketCoursePacks } from "@/lib/api";
-import { useAuthStore } from "@/stores/authStore";
 
 export default function CoursesPage() {
-  const { isAuthenticated } = useAuthStore();
-
   const { data: coursePacks, isLoading } = useQuery({
     queryKey: ["marketCoursePacks"],
     queryFn: getMarketCoursePacks,
-    enabled: isAuthenticated,
   });
 
   const handleJoin = async (packId: string) => {
-    // MVP: 无需加入，直接开始学习
     window.location.href = `/start?coursePackId=${packId}`;
   };
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-12">
       <Link
-        href="/home"
+        href="/"
         className="text-sm text-gray-400 hover:text-fuchsia-600 transition-colors mb-6 inline-block"
       >
-        ← 返回主页
+        ← 返回首页
       </Link>
 
       <h1 className="text-2xl font-bold mb-8">课程商场</h1>
