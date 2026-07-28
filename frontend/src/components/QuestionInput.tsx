@@ -8,6 +8,7 @@ import { useCallback, useMemo, useState } from "react";
 import { useGameStore } from "@/stores/gameStore";
 import { useQuestionInput } from "@/hooks/useQuestionInput";
 import { useTypingSound } from "@/hooks/useTypingSound";
+import { speakWord } from "@/lib/speech";
 import { WordSlot } from "./WordSlot";
 
 import { GrammarBreakdown } from "./GrammarBreakdown";
@@ -174,15 +175,29 @@ export function QuestionInput() {
       {/* ====== Answer 阶段 ====== */}
       {phase === "answer" && statement && (
         <div className="mt-6 space-y-6">
-          {/* 完整英文句子（大号展示） */}
+          {/* 完整英文句子（大号展示，每个单词可点击发音） */}
           <div className="text-center">
             <p className="text-3xl md:text-4xl font-bold text-gray-800 dark:text-gray-100 leading-relaxed">
-              {statement.english}
+              {statement.english.split(/\s+/).map((word, i, arr) => (
+                <button
+                  key={i}
+                  type="button"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    speakWord(word);
+                  }}
+                  title={`点击发音: ${word}`}
+                  className="inline cursor-pointer hover:text-fuchsia-600 hover:underline decoration-fuchsia-300 underline-offset-4 transition-colors"
+                >
+                  {word}
+                  {i < arr.length - 1 ? " " : ""}
+                </button>
+              ))}
             </p>
             <button
               onClick={() => window.dispatchEvent(new CustomEvent("play-tts"))}
-              className="inline-block ml-2 text-xl hover:scale-110 transition-transform"
-              title="播放发音"
+              className="inline-block ml-2 mt-2 text-xl hover:scale-110 transition-transform"
+              title="播放整句发音"
             >
               🔊
             </button>
