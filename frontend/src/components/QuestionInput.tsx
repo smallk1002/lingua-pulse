@@ -55,8 +55,6 @@ export function QuestionInput() {
     [handleKeyDown, playTypingSound, checkPlayTypingSound]
   );
 
-  if (!statement) return null;
-
   // Fix 模式下显示完整 wordSlots，并合并 fixSlots 的 userInput
   const displaySlots = useMemo(
     () =>
@@ -68,6 +66,8 @@ export function QuestionInput() {
         : wordSlots,
     [phase, wordSlots, fixSlots]
   );
+
+  if (!statement) return null;
 
   return (
     <div className="w-full max-w-3xl mx-auto">
