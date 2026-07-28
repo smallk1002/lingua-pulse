@@ -342,18 +342,14 @@ function StartPageInner() {
                         ? "border-fuchsia-400 bg-fuchsia-50 dark:bg-fuchsia-900/20 shadow-sm"
                         : "border-gray-200 dark:border-gray-700 hover:border-fuchsia-300"
                     }
-                    ${course.completed ? "opacity-70" : ""}
                   `}
                   title={course.title ?? `第${course.order}课`}
                 >
                   {isLastLearned && (
                     <span className="absolute -top-1 -right-1 w-3 h-3 bg-fuchsia-500 rounded-full border-2 border-white dark:border-gray-950" />
                   )}
-                  <span className="text-lg">{course.completed ? "✅" : "📖"}</span>
+                  <span className="text-lg">📖</span>
                   <span className="mt-1">{course.order}</span>
-                  {course.completed && (
-                    <div className="w-full h-0.5 bg-green-400 mt-0.5 rounded-full" />
-                  )}
                 </button>
               );
             })}
