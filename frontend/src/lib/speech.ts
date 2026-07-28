@@ -1,15 +1,16 @@
 // ============================================================
 // 逐词发音工具 — 复用后端 edge-tts（微软语音）
-// 点击单词 → /api/tts/synthesize → 缓存命中 → 即播
+// 每次点击创建新 Audio 元素，click 用户手势直接触发
 // ============================================================
 
 import { getTtsUrl } from "./api";
 
-let wordAudio: HTMLAudioElement | null = null;
+/** 当前正在播放的 Audio（用于取消） */
+let currentAudio: HTMLAudioElement | null = null;
 
 /**
- * 播放单个单词/短语（使用后端微软 TTS）
- * 复用一个 Audio 元素，行为与整句播放保持一致
+ * 播放单个单词（使用后端微软 TTS）
+ * 每次创建全新 Audio 元素，确保 click 用户手势能触发浏览器自动播放策略。
  */
 export function speakWord(text: string): void {
   if (!text || typeof window === "undefined") return;
@@ -18,24 +19,26 @@ export function speakWord(text: string): void {
   const clean = text.replace(/[^\w\s'-]/g, "").trim();
   if (!clean) return;
 
-  if (!wordAudio) {
-    wordAudio = new Audio();
+  // 停止上一次播放
+  if (currentAudio) {
+    currentAudio.pause();
+    currentAudio = null;
   }
 
   const url = getTtsUrl(clean);
-  wordAudio.pause();
-  wordAudio.src = url;
-  wordAudio.currentTime = 0;
+  console.log("[speakWord]", clean, url);
 
-  // 加载失败时打印原因，方便排查
-  wordAudio.onerror = () => {
-    console.error("[speakWord] 音频加载失败:", url, clean);
-  };
+  // 直接 new Audio + click 手势 → 浏览器允许播放
+  const audio = new Audio(url);
+  currentAudio = audio;
 
-  const playPromise = wordAudio.play();
-  if (playPromise !== undefined) {
-    playPromise.catch((err) => {
-      console.error("[speakWord] 播放失败:", err, "word:", clean, "url:", url);
-    });
-  }
+  audio.play().then(() => {
+    console.log("[speakWord] 播放成功:", clean);
+  }).catch((e) => {
+    console.error("[speakWord] 播放失败:", clean, e.message);
+  });
+
+  // 播放完/出错后清引用
+  audio.onended = () => { currentAudio = null; };
+  audio.onerror = () => { currentAudio = null; };
 }

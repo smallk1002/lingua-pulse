@@ -154,7 +154,11 @@ export function GrammarBreakdown({ english, soundmark, chinese, grammar }: Gramm
             <button
               key={i}
               type="button"
-              onClick={() => speakWord(item.text)}
+              onClick={(e) => {
+                e.stopPropagation();
+                console.log("[Grammar] 点击单词:", item.text);
+                speakWord(item.text);
+              }}
               title={`点击发音: ${item.text}`}
               className={`flex flex-col items-center px-3 py-2 rounded-xl border min-w-[3em] cursor-pointer transition-all duration-150 hover:scale-105 hover:shadow-md active:scale-95 group ${colors.bg} ${colors.border}`}
             >

@@ -127,7 +127,7 @@ export function QuestionInput() {
         autoCorrect="off"
         autoCapitalize="off"
         spellCheck={false}
-        className="absolute inset-0 w-full h-full opacity-0 cursor-default"
+        className="absolute inset-0 w-full h-full opacity-0 pointer-events-none"
         onKeyDown={onKeyDown}
         onBlur={onBlur}
         onFocus={onFocus}
@@ -179,20 +179,24 @@ export function QuestionInput() {
           <div className="text-center">
             <p className="text-3xl md:text-4xl font-bold text-gray-800 dark:text-gray-100 leading-relaxed">
               {statement.english.split(/\s+/).map((word, i, arr) => (
-                <span key={i} className="inline-block">
-                  <button
-                    type="button"
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      speakWord(word);
-                    }}
-                    title={`点击发音: ${word}`}
-                    className="cursor-pointer hover:text-fuchsia-600 hover:underline decoration-fuchsia-300 underline-offset-4 transition-colors"
-                  >
-                    {word}
-                  </button>
-                  {i < arr.length - 1 ? " " : ""}
-                </span>
+                <button
+                  key={i}
+                  type="button"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    console.log("[Answer] 点击单词:", word);
+                    // 视觉反馈：点击瞬间变色
+                    const btn = e.currentTarget as HTMLButtonElement;
+                    btn.style.color = "#d946ef";
+                    setTimeout(() => { btn.style.color = ""; }, 200);
+                    speakWord(word);
+                  }}
+                  title={`点击发音: ${word}`}
+                  className="cursor-pointer hover:text-fuchsia-600 hover:underline decoration-fuchsia-300 underline-offset-4 transition-colors mr-1.5"
+                  style={i === arr.length - 1 ? undefined : { marginRight: "0.35em" }}
+                >
+                  {word}
+                </button>
               ))}
             </p>
             <button
