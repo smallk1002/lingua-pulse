@@ -4,7 +4,7 @@
 
 "use client";
 
-import { useCallback, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 import { useGameStore } from "@/stores/gameStore";
 import { useQuestionInput } from "@/hooks/useQuestionInput";
 import { useTypingSound } from "@/hooks/useTypingSound";
@@ -14,16 +14,14 @@ import { GrammarBreakdown } from "./GrammarBreakdown";
 import { MoreExamples } from "./MoreExamples";
 
 export function QuestionInput() {
-  const {
-    wordSlots,
-    fixSlots,
-    phase,
-    showAnswer,
-    status,
-    mode,
-    difficulty,
-    getCurrentStatement,
-  } = useGameStore();
+  // 颗粒度选择器：只订阅本组件关心的状态，避免 elapsedSeconds 等无关状态触发重渲染
+  const wordSlots = useGameStore((s) => s.wordSlots);
+  const fixSlots = useGameStore((s) => s.fixSlots);
+  const phase = useGameStore((s) => s.phase);
+  const showAnswer = useGameStore((s) => s.showAnswer);
+  const status = useGameStore((s) => s.status);
+  const mode = useGameStore((s) => s.mode);
+  const getCurrentStatement = useGameStore((s) => s.getCurrentStatement);
 
   const {
     inputRef,
@@ -59,13 +57,16 @@ export function QuestionInput() {
   if (!statement) return null;
 
   // Fix 模式下显示完整 wordSlots，并合并 fixSlots 的 userInput
-  const displaySlots =
-    phase === "fix"
-      ? wordSlots.map((s) => {
-          const fixSlot = fixSlots.find((f) => f.id === s.id);
-          return fixSlot ? { ...s, userInput: fixSlot.userInput } : s;
-        })
-      : wordSlots;
+  const displaySlots = useMemo(
+    () =>
+      phase === "fix"
+        ? wordSlots.map((s) => {
+            const fixSlot = fixSlots.find((f) => f.id === s.id);
+            return fixSlot ? { ...s, userInput: fixSlot.userInput } : s;
+          })
+        : wordSlots,
+    [phase, wordSlots, fixSlots]
+  );
 
   return (
     <div className="w-full max-w-3xl mx-auto">

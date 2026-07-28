@@ -4,6 +4,7 @@
 
 "use client";
 
+import { memo } from "react";
 import { motion } from "framer-motion";
 import type { WordSlot as WordSlotType } from "@/lib/types";
 
@@ -26,7 +27,11 @@ const statusStyles: Record<
   },
 };
 
-export function WordSlot({ slot, showAnswer, inFixMode }: WordSlotProps) {
+export const WordSlot = memo(function WordSlot({
+  slot,
+  showAnswer,
+  inFixMode,
+}: WordSlotProps) {
   const style = statusStyles[slot.status];
   const isIncorrect = slot.status === "incorrect";
 
@@ -90,4 +95,4 @@ export function WordSlot({ slot, showAnswer, inFixMode }: WordSlotProps) {
   }
 
   return content;
-}
+});
