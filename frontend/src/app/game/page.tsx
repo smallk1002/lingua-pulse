@@ -73,6 +73,8 @@ function GamePage() {
   const [nextCourseTitle, setNextCourseTitle] = useState<string | null>(null);
   const ttsAudioRef = useRef<HTMLAudioElement | null>(null);
   const activeAudiosRef = useRef<Set<HTMLAudioElement>>(new Set());
+  const lastReportedElapsedRef = useRef(0);
+  const prevStatusRef = useRef(status);
 
   // 停止所有正在播放的 TTS
   const stopAllTTS = useCallback(() => {
@@ -118,12 +120,42 @@ function GamePage() {
     }
   }, [status, statements, startGame]);
 
-  // 课程完成时上报学习会话（驱动课程包排序 & 统计时长）
+  // 重置时长上报计数器（新一轮游戏或从头开始时）
+  useEffect(() => {
+    if (status === "playing" && (prevStatusRef.current === "idle" || prevStatusRef.current === "completed")) {
+      lastReportedElapsedRef.current = 0;
+    }
+    prevStatusRef.current = status;
+  }, [status]);
+
+  // 定期上报学习时长（每 30 秒），确保中途退出也有统计
+  useEffect(() => {
+    if (status !== "playing") return;
+    const interval = setInterval(() => {
+      const state = useGameStore.getState();
+      const total = state.elapsedSeconds || 0;
+      const delta = total - lastReportedElapsedRef.current;
+      if (delta >= 10) {
+        lastReportedElapsedRef.current = total;
+        reportSession({
+          duration: delta,
+          statements_count: 0,
+          course_id: state.courseId,
+        }).catch(() => {});
+      }
+    }, 30000);
+    return () => clearInterval(interval);
+  }, [status]);
+
+  // 课程完成时上报剩余时长 + 完成句数
   useEffect(() => {
     if (status === "completed") {
       const state = useGameStore.getState();
+      const total = state.elapsedSeconds || 0;
+      const delta = total - lastReportedElapsedRef.current;
+      lastReportedElapsedRef.current = total;
       reportSession({
-        duration: state.elapsedSeconds || 0,
+        duration: Math.max(delta, 0),
         statements_count: state.results.length,
         course_id: state.courseId,
       }).catch(() => {});

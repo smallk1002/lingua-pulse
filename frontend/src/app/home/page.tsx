@@ -31,10 +31,15 @@ export default function HomePage() {
     }
   }, [authLoading, isAuthenticated, router]);
 
-  const { data: stats, isLoading: statsLoading } = useQuery({
+  const { data: stats } = useQuery({
     queryKey: ["stats"],
-    queryFn: getStatsSummary,
+    queryFn: async () => {
+      try { return await getStatsSummary(); }
+      catch { return null; }
+    },
     enabled: isAuthenticated,
+    retry: false,
+    staleTime: 30000,
   });
 
   const { data: coursePacks, isLoading: coursesLoading } = useQuery({
