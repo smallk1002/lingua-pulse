@@ -1,0 +1,866 @@
+[
+  {
+    "chinese": "医生",
+    "english": "doctor",
+    "soundmark": "/ˈdɑːktər/"
+  },
+  {
+    "chinese": "病人",
+    "english": "patient",
+    "soundmark": "/ˈpeɪʃnt/"
+  },
+  {
+    "chinese": "护士",
+    "english": "nurse",
+    "soundmark": "/nɜːrs/"
+  },
+  {
+    "chinese": "头痛",
+    "english": "headache",
+    "soundmark": "/ˈhedeɪk/"
+  },
+  {
+    "chinese": "胃痛",
+    "english": "stomachache",
+    "soundmark": "/ˈstʌməkeɪk/"
+  },
+  {
+    "chinese": "发烧",
+    "english": "fever",
+    "soundmark": "/ˈfiːvər/"
+  },
+  {
+    "chinese": "感冒",
+    "english": "cold",
+    "soundmark": "/koʊld/"
+  },
+  {
+    "chinese": "咳嗽",
+    "english": "cough",
+    "soundmark": "/kɔːf/"
+  },
+  {
+    "chinese": "药",
+    "english": "medicine",
+    "soundmark": "/ˈmedɪsn/"
+  },
+  {
+    "chinese": "预约",
+    "english": "appointment",
+    "soundmark": "/əˈpɔɪntmənt/"
+  },
+  {
+    "chinese": "症状",
+    "english": "symptom",
+    "soundmark": "/ˈsɪmptəm/"
+  },
+  {
+    "chinese": "我感觉不舒服",
+    "english": "I do not feel well",
+    "soundmark": "/aɪ duː nɑːt fiːl wel/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do not feel",
+        "role": "V",
+        "phonetic": "/duː nɑːt fiːl/",
+        "chinese": "做/助动词/不/感觉"
+      },
+      {
+        "text": "well",
+        "role": "C",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      }
+    ]
+  },
+  {
+    "chinese": "我头痛",
+    "english": "I have a headache",
+    "soundmark": "/aɪ hæv ə ˈhedeɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a headache",
+        "role": "O",
+        "phonetic": "/ə ˈhedeɪk/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "怎么了",
+    "english": "What is the matter",
+    "soundmark": "/wʌt ɪz ðə ˈmætər/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the matter",
+        "role": "C",
+        "phonetic": "/ðə ˈmætər/",
+        "chinese": "这个/那个/要紧"
+      }
+    ]
+  },
+  {
+    "chinese": "我胃痛",
+    "english": "I have a stomachache",
+    "soundmark": "/aɪ hæv ə ˈstʌməkeɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a stomachache",
+        "role": "O",
+        "phonetic": "/ə ˈstʌməkeɪk/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我发烧了",
+    "english": "I have a fever",
+    "soundmark": "/aɪ hæv ə ˈfiːvər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a fever",
+        "role": "O",
+        "phonetic": "/ə ˈfiːvər/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要看医生",
+    "english": "You need to see a doctor",
+    "soundmark": "/juː niːd tuː siː ə ˈdɑːktər/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to see",
+        "role": "V",
+        "phonetic": "/tuː siː/",
+        "chinese": "到/向/看见"
+      },
+      {
+        "text": "a doctor",
+        "role": "O",
+        "phonetic": "/ə ˈdɑːktər/",
+        "chinese": "一名医生"
+      }
+    ]
+  },
+  {
+    "chinese": "你发烧吗",
+    "english": "Do you have a fever",
+    "soundmark": "/duː juː hæv ə ˈfiːvər/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a fever",
+        "role": "O",
+        "phonetic": "/ə ˈfiːvər/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我有预约",
+    "english": "I have an appointment",
+    "soundmark": "/aɪ hæv ən əˈpɔɪntmənt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "an appointment",
+        "role": "O",
+        "phonetic": "/ən əˈpɔɪntmənt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "医生给我开了药",
+    "english": "The doctor gave me some medicine",
+    "soundmark": "/ðə ˈdɑːktər ɡeɪv miː sʌm ˈmedɪsn/",
+    "grammar": [
+      {
+        "text": "The doctor",
+        "role": "S",
+        "phonetic": "/ðə ˈdɑːktər/",
+        "chinese": "这个/那个/医生"
+      },
+      {
+        "text": "gave",
+        "role": "V",
+        "phonetic": "/ɡeɪv/",
+        "chinese": "给（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "some medicine",
+        "role": "O",
+        "phonetic": "/sʌm ˈmedɪsn/",
+        "chinese": "一些"
+      }
+    ]
+  },
+  {
+    "chinese": "我应该一天吃几次药",
+    "english": "How many times a day should I take the medicine",
+    "soundmark": "/haʊ ˈmeni taɪmz ə deɪ ʃʊd aɪ teɪk ðə ˈmedɪsn/",
+    "grammar": [
+      {
+        "text": "How many times a day",
+        "role": "A",
+        "phonetic": "/haʊ ˈmeni taɪmz ə deɪ/",
+        "chinese": "怎么/许多/…们/复数(时间)/一个/天/日"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "the medicine",
+        "role": "O",
+        "phonetic": "/ðə ˈmedɪsn/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要多休息",
+    "english": "You need to get more rest",
+    "soundmark": "/juː niːd tuː ɡet mɔːr rest/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to get",
+        "role": "V",
+        "phonetic": "/tuː ɡet/",
+        "chinese": "到/向/得到/变得"
+      },
+      {
+        "text": "more rest",
+        "role": "O",
+        "phonetic": "/mɔːr rest/",
+        "chinese": "更多/休息/剩余"
+      }
+    ]
+  },
+  {
+    "chinese": "我咳得很厉害",
+    "english": "I have a bad cough",
+    "soundmark": "/aɪ hæv ə bæd kɔːf/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a bad cough",
+        "role": "O",
+        "phonetic": "/ə bæd kɔːf/",
+        "chinese": "一个/坏的"
+      }
+    ]
+  },
+  {
+    "chinese": "症状",
+    "english": "symptom",
+    "soundmark": "/ˈsɪmptəm/"
+  },
+  {
+    "chinese": "休息",
+    "english": "rest",
+    "soundmark": "/rest/"
+  },
+  {
+    "chinese": "预约",
+    "english": "appointment",
+    "soundmark": "/əˈpɔɪntmənt/"
+  },
+  {
+    "chinese": "吃药",
+    "english": "take medicine",
+    "soundmark": "/teɪk ˈmedɪsn/"
+  },
+  {
+    "chinese": "怎么啦",
+    "english": "What is the matter",
+    "soundmark": "/wʌt ɪz ðə ˈmætər/"
+  },
+  {
+    "chinese": "病人",
+    "english": "patient",
+    "soundmark": "/ˈpeɪʃnt/"
+  },
+  {
+    "chinese": "护士",
+    "english": "nurse",
+    "soundmark": "/nɜːrs/"
+  },
+  {
+    "chinese": "你感觉怎么样",
+    "english": "How are you feeling",
+    "soundmark": "/haʊ ɑːr juː ˈfiːlɪŋ/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "A",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "feeling",
+        "role": "V",
+        "phonetic": "/ˈfiːlɪŋ/",
+        "chinese": "感觉的"
+      }
+    ]
+  },
+  {
+    "chinese": "我今天好多了谢谢",
+    "english": "I feel much better today thank you",
+    "soundmark": "/aɪ fiːl mʌtʃ ˈbetər təˈdeɪ θæŋk juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "feel",
+        "role": "V",
+        "phonetic": "/fiːl/",
+        "chinese": "感觉"
+      },
+      {
+        "text": "much better",
+        "role": "C",
+        "phonetic": "/mʌtʃ ˈbetər/",
+        "chinese": "好多了"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "thank you",
+        "role": "Int",
+        "phonetic": "/θæŋk juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "你嗓子疼吗",
+    "english": "Do you have a sore throat",
+    "soundmark": "/duː juː hæv ə sɔːr θroʊt/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a sore throat",
+        "role": "O",
+        "phonetic": "/ə sɔːr θroʊt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "是的我嗓子疼了三天了",
+    "english": "Yes I have had a sore throat for three days",
+    "soundmark": "/jes aɪ hæv hæd ə sɔːr θroʊt fɔːr θriː deɪz/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have had",
+        "role": "V",
+        "phonetic": "/hæv hæd/",
+        "chinese": "有/助动词/有/助动词（过去式）"
+      },
+      {
+        "text": "a sore throat",
+        "role": "O",
+        "phonetic": "/ə sɔːr θroʊt/",
+        "chinese": "一个"
+      },
+      {
+        "text": "for three days",
+        "role": "A",
+        "phonetic": "/fɔːr θriː deɪz/",
+        "chinese": "为了/对于/三/…们/复数(天/日)"
+      }
+    ]
+  },
+  {
+    "chinese": "我应该一天吃三次这药",
+    "english": "I should take this medicine three times a day",
+    "soundmark": "/aɪ ʃʊd teɪk ðɪs ˈmedɪsn θriː taɪmz ə deɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "should take",
+        "role": "V",
+        "phonetic": "/ʃʊd teɪk/",
+        "chinese": "应该/拿/带"
+      },
+      {
+        "text": "this medicine",
+        "role": "O",
+        "phonetic": "/ðɪs ˈmedɪsn/",
+        "chinese": "这个"
+      },
+      {
+        "text": "three times a day",
+        "role": "A",
+        "phonetic": "/θriː taɪmz ə deɪ/",
+        "chinese": "三/…们/复数(时间)/一个/天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "这个地方很痛",
+    "english": "It hurts right here",
+    "soundmark": "/ɪt hɜːrts raɪt hɪr/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "hurts",
+        "role": "V",
+        "phonetic": "/hɜːrts/",
+        "chinese": "伤害"
+      },
+      {
+        "text": "right here",
+        "role": "A",
+        "phonetic": "/raɪt hɪr/",
+        "chinese": "对的/右边的/这里"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要打一针",
+    "english": "You need to get an injection",
+    "soundmark": "/juː niːd tuː ɡet ən ɪnˈdʒekʃn/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to get",
+        "role": "V",
+        "phonetic": "/tuː ɡet/",
+        "chinese": "到/向/得到/变得"
+      },
+      {
+        "text": "an injection",
+        "role": "O",
+        "phonetic": "/ən ɪnˈdʒekʃn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我对打针过敏",
+    "english": "I am allergic to injections",
+    "soundmark": "/aɪ æm əˈlɜːrdʒɪk tuː ɪnˈdʒekʃnz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "allergic",
+        "role": "C",
+        "phonetic": "/əˈlɜːrdʒɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "to injections",
+        "role": "A",
+        "phonetic": "/tuː ɪnˈdʒekʃnz/",
+        "chinese": "到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "嗓子",
+    "english": "throat",
+    "soundmark": "/θroʊt/"
+  },
+  {
+    "chinese": "疼",
+    "english": "hurt",
+    "soundmark": "/hɜːrt/"
+  },
+  {
+    "chinese": "打针",
+    "english": "injection",
+    "soundmark": "/ɪnˈdʒekʃn/"
+  },
+  {
+    "chinese": "过敏的",
+    "english": "allergic",
+    "soundmark": "/əˈlɜːrdʒɪk/"
+  },
+  {
+    "chinese": "更好的",
+    "english": "better",
+    "soundmark": "/ˈbetər/"
+  },
+  {
+    "chinese": "你发烧多少度",
+    "english": "What is your temperature",
+    "soundmark": "/wʌt ɪz jɔːr ˈtemprətʃər/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your temperature",
+        "role": "C",
+        "phonetic": "/jɔːr ˈtemprətʃər/",
+        "chinese": "你的/你们的/温度"
+      }
+    ]
+  },
+  {
+    "chinese": "我量了体温三十八度五",
+    "english": "I took my temperature it is thirty-eight point five",
+    "soundmark": "/aɪ tʊk maɪ ˈtemprətʃər ɪt ɪz ˈθɜːrti eɪt pɔɪnt faɪv/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "my temperature",
+        "role": "O",
+        "phonetic": "/maɪ ˈtemprətʃər/",
+        "chinese": "我的/温度"
+      },
+      {
+        "text": "it is thirty-eight point five",
+        "role": "A",
+        "phonetic": "/ɪt ɪz ˈθɜːrti eɪt pɔɪnt faɪv/",
+        "chinese": "它/是/指向/点/五"
+      }
+    ]
+  },
+  {
+    "chinese": "你最近有没有感到压力大",
+    "english": "Have you been feeling stressed lately",
+    "soundmark": "/hæv juː biːn ˈfiːlɪŋ strest ˈleɪtli/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "feeling",
+        "role": "V",
+        "phonetic": "/ˈfiːlɪŋ/",
+        "chinese": "感觉的"
+      },
+      {
+        "text": "stressed",
+        "role": "C",
+        "phonetic": "/strest/",
+        "chinese": "压力/强调"
+      },
+      {
+        "text": "lately",
+        "role": "A",
+        "phonetic": "/ˈleɪtli/",
+        "chinese": "…地(晚)"
+      }
+    ]
+  },
+  {
+    "chinese": "我建议你多喝水好好休息",
+    "english": "I suggest you drink more water and get some rest",
+    "soundmark": "/aɪ səˈdʒest juː drɪŋk mɔːr ˈwɔːtər ænd ɡet sʌm rest/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "suggest",
+        "role": "V",
+        "phonetic": "/səˈdʒest/",
+        "chinese": "建议"
+      },
+      {
+        "text": "you drink more water and get some rest",
+        "role": "O",
+        "phonetic": "/juː drɪŋk mɔːr ˈwɔːtər ænd ɡet sʌm rest/",
+        "chinese": "你/你们/饮料/更多/水/和/得到/变得/一些/休息/剩余"
+      }
+    ]
+  },
+  {
+    "chinese": "体温",
+    "english": "temperature",
+    "soundmark": "/ˈtemprətʃər/"
+  },
+  {
+    "chinese": "量体温",
+    "english": "take temperature",
+    "soundmark": "/teɪk ˈtemprətʃər/"
+  },
+  {
+    "chinese": "压力大",
+    "english": "stressed",
+    "soundmark": "/strest/"
+  },
+  {
+    "chinese": "最近",
+    "english": "lately",
+    "soundmark": "/ˈleɪtli/"
+  },
+  {
+    "chinese": "建议",
+    "english": "suggest",
+    "soundmark": "/səˈdʒest/"
+  },
+  {
+    "chinese": "喝水",
+    "english": "drink water",
+    "soundmark": "/drɪŋk ˈwɔːtər/"
+  },
+  {
+    "chinese": "好好休息",
+    "english": "get some rest",
+    "soundmark": "/ɡet sʌm rest/"
+  }
+]

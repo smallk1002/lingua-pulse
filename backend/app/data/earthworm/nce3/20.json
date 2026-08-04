@@ -1,0 +1,597 @@
+[
+  {
+    "chinese": "飞行员",
+    "english": "pilot",
+    "soundmark": "/ˈpaɪlət/"
+  },
+  {
+    "chinese": "先驱",
+    "english": "pioneer",
+    "soundmark": "/ˌpaɪəˈnɪr/"
+  },
+  {
+    "chinese": "飞行",
+    "english": "flight",
+    "soundmark": "/flaɪt/"
+  },
+  {
+    "chinese": "英吉利海峡",
+    "english": "English Channel",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /ˈtʃænəl/"
+  },
+  {
+    "chinese": "飞机",
+    "english": "aeroplane",
+    "soundmark": "/ˈerəpleɪn/"
+  },
+  {
+    "chinese": "发动机",
+    "english": "engine",
+    "soundmark": "/ˈendʒɪn/"
+  },
+  {
+    "chinese": "着陆",
+    "english": "land",
+    "soundmark": "/lænd/"
+  },
+  {
+    "chinese": "起飞",
+    "english": "take off",
+    "soundmark": "/teɪk/ /ɔːf/"
+  },
+  {
+    "chinese": "距离",
+    "english": "distance",
+    "soundmark": "/ˈdɪstəns/"
+  },
+  {
+    "chinese": "飞行先驱",
+    "english": "pioneer pilot",
+    "soundmark": "/ˌpaɪəˈnɪr/ /ˈpaɪlət/"
+  },
+  {
+    "chinese": "飞越英吉利海峡",
+    "english": "fly across the English Channel",
+    "soundmark": "/flaɪ/ /əˈkrɔːs/ /ði/ /ˈɪŋɡlɪʃ/ /ˈtʃænəl/"
+  },
+  {
+    "chinese": "在他起飞之前他已经检查了发动机",
+    "english": "Before he took off he had checked the engine",
+    "soundmark": "/bɪˈfɔːr/ /hiː/ /tʊk/ /ɔːf/ /hiː/ /hæd/ /tʃekt/ /ði/ /ˈendʒɪn/",
+    "grammar": [
+      {
+        "text": "Before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "off",
+        "role": "Adv",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "checked",
+        "role": "V",
+        "phonetic": "/tʃekt/",
+        "chinese": "检查"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "engine",
+        "role": "O",
+        "phonetic": "/ˈendʒɪn/",
+        "chinese": "引擎"
+      }
+    ]
+  },
+  {
+    "chinese": "他们已经飞了两百英里",
+    "english": "They had already flown two hundred miles",
+    "soundmark": "/ðeɪ/ /hæd/ /ɔːlˈredi/ /floʊn/ /tuː/ /ˈhʌndrəd/ /maɪlz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "flown",
+        "role": "V",
+        "phonetic": "/floʊn/",
+        "chinese": "飞（过去分词）"
+      },
+      {
+        "text": "two",
+        "role": "A",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "hundred",
+        "role": "A",
+        "phonetic": "/ˈhʌndrəd/",
+        "chinese": "百"
+      },
+      {
+        "text": "miles",
+        "role": "A",
+        "phonetic": "/maɪlz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "到1909年为止还没有人飞越过英吉利海峡",
+    "english": "By 1909 no one had flown across the English Channel",
+    "soundmark": "/baɪ/ /ˌnaɪnˈtiːn/ /oʊ/ /naɪn/ /noʊ/ /wʌn/ /hæd/ /floʊn/ /əˈkrɔːs/ /ði/ /ˈɪŋɡlɪʃ/ /ˈtʃænəl/",
+    "grammar": [
+      {
+        "text": "By",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "1909",
+        "role": "A",
+        "phonetic": "/ˌnaɪnˈtiːn/ /oʊ/ /naɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "flown",
+        "role": "V",
+        "phonetic": "/floʊn/",
+        "chinese": "飞（过去分词）"
+      },
+      {
+        "text": "across",
+        "role": "P",
+        "phonetic": "/əˈkrɔːs/",
+        "chinese": "穿过/对面"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "English",
+        "role": "A",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "Channel",
+        "role": "O",
+        "phonetic": "/ˈtʃænəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "发动机在他着陆前就停止工作了",
+    "english": "The engine had stopped before he landed",
+    "soundmark": "/ði/ /ˈendʒɪn/ /hæd/ /stɑːpt/ /bɪˈfɔːr/ /hiː/ /ˈlændɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "engine",
+        "role": "S",
+        "phonetic": "/ˈendʒɪn/",
+        "chinese": "引擎"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "stopped",
+        "role": "V",
+        "phonetic": "/stɑːpt/",
+        "chinese": "停止（过去式）"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "landed",
+        "role": "V",
+        "phonetic": "/ˈlændɪd/",
+        "chinese": "着陆/土地"
+      }
+    ]
+  },
+  {
+    "chinese": "他是在第一次世界大战之前就已成为飞行员了吗",
+    "english": "Had he become a pilot before the First World War",
+    "soundmark": "/hæd/ /hiː/ /bɪˈkʌm/ /ə/ /ˈpaɪlət/ /bɪˈfɔːr/ /ðə/ /fɜːrst/ /wɜːrld/ /wɔːr/",
+    "grammar": [
+      {
+        "text": "Had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "become",
+        "role": "Lv",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pilot",
+        "role": "C",
+        "phonetic": "/ˈpaɪlət/",
+        "chinese": "飞行员"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "First",
+        "role": "A",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      },
+      {
+        "text": "World",
+        "role": "A",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "War",
+        "role": "A",
+        "phonetic": "/wɔːr/",
+        "chinese": "战争"
+      }
+    ]
+  },
+  {
+    "chinese": "这些先驱飞行员们已经创造了历史",
+    "english": "The pioneer pilots had already made history",
+    "soundmark": "/ðə/ /ˌpaɪəˈnɪr/ /ˈpaɪləts/ /hæd/ /ɔːlˈredi/ /meɪd/ /ˈhɪstəri/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "pioneer",
+        "role": "A",
+        "phonetic": "/ˌpaɪəˈnɪr/",
+        "chinese": ""
+      },
+      {
+        "text": "pilots",
+        "role": "S",
+        "phonetic": "/ˈpaɪləts/",
+        "chinese": "飞行员"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "history",
+        "role": "O",
+        "phonetic": "/ˈhɪstəri/",
+        "chinese": "历史"
+      }
+    ]
+  },
+  {
+    "chinese": "飞行距离之远是前所未有的",
+    "english": "No one had ever attempted such a long flight before",
+    "soundmark": "/noʊ/ /wʌn/ /hæd/ /ˈevər/ /əˈtemptɪd/ /sʌtʃ/ /ə/ /lɔːŋ/ /flaɪt/ /bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "attempted",
+        "role": "V",
+        "phonetic": "/əˈtemptɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "long",
+        "role": "A",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "flight",
+        "role": "O",
+        "phonetic": "/flaɪt/",
+        "chinese": "航班"
+      },
+      {
+        "text": "before",
+        "role": "Adv",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "先驱",
+    "english": "pioneer",
+    "soundmark": "/ˌpaɪəˈnɪr/"
+  },
+  {
+    "chinese": "跨越",
+    "english": "across",
+    "soundmark": "/əˈkrɔːs/"
+  },
+  {
+    "chinese": "英里",
+    "english": "mile",
+    "soundmark": "/maɪl/"
+  },
+  {
+    "chinese": "尝试",
+    "english": "attempt",
+    "soundmark": "/əˈtempt/"
+  },
+  {
+    "chinese": "历史",
+    "english": "history",
+    "soundmark": "/ˈhɪstəri/"
+  },
+  {
+    "chinese": "第一次世界大战",
+    "english": "First World War",
+    "soundmark": "/fɜːrst/ /wɜːrld/ /wɔːr/"
+  },
+  {
+    "chinese": "前所未有的",
+    "english": "unprecedented",
+    "soundmark": "/ʌnˈpresɪdentɪd/"
+  },
+  {
+    "chinese": "到那时为止",
+    "english": "by then",
+    "soundmark": "/baɪ/ /ðen/"
+  },
+  {
+    "chinese": "当布莱里奥最终成功飞越海峡时他已经尝试了三次",
+    "english": "When Bleriot finally succeeded in crossing the Channel he had attempted it three times",
+    "soundmark": "/wen/ /ˈbleriəʊ/ /ˈfaɪnəli/ /səkˈsiːdɪd/ /ɪn/ /ˈkrɔːsɪŋ/ /ðə/ /ˈtʃænəl/ /hiː/ /hæd/ /əˈtemptɪd/ /ɪt/ /θriː/ /taɪmz/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "Bleriot",
+        "role": "S",
+        "phonetic": "/ˈbleriəʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "finally",
+        "role": "Adv",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "succeeded",
+        "role": "V",
+        "phonetic": "/səkˈsiːdɪd/",
+        "chinese": "成功"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "crossing",
+        "role": "V",
+        "phonetic": "/ˈkrɔːsɪŋ/",
+        "chinese": "穿过"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Channel",
+        "role": "O",
+        "phonetic": "/ˈtʃænəl/",
+        "chinese": ""
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "attempted",
+        "role": "V",
+        "phonetic": "/əˈtemptɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "three",
+        "role": "A",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "times",
+        "role": "A",
+        "phonetic": "/taɪmz/",
+        "chinese": "时间"
+      }
+    ]
+  }
+]

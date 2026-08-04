@@ -1,0 +1,244 @@
+[
+  {
+    "english": "small",
+    "chinese": "小的",
+    "soundmark": "/smɔːl/"
+  },
+  {
+    "english": "big",
+    "chinese": "大的",
+    "soundmark": "/bɪɡ/"
+  },
+  {
+    "english": "size",
+    "chinese": "尺寸",
+    "soundmark": "/saɪz/"
+  },
+  {
+    "english": "large",
+    "chinese": "大的",
+    "soundmark": "/lɑːrdʒ/"
+  },
+  {
+    "english": "tiny",
+    "chinese": "极小的",
+    "soundmark": "/ˈtaɪni/"
+  },
+  {
+    "english": "huge",
+    "chinese": "巨大的",
+    "soundmark": "/hjuːdʒ/"
+  },
+  {
+    "chinese": "它很小",
+    "english": "It's small",
+    "soundmark": "/ɪts smɔːl/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "small",
+        "role": "C",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个房间比那个大",
+    "english": "This room is bigger than that one",
+    "soundmark": "/ðɪs ruːm ɪz ˈbɪɡər ðən ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "room",
+        "role": "S",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "bigger",
+        "role": "C",
+        "phonetic": "/ˈbɪɡər/",
+        "chinese": "更大的"
+      },
+      {
+        "text": "than",
+        "role": "Conj",
+        "phonetic": "/ðən/",
+        "chinese": "比"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要一个大一点的",
+    "english": "I need a bigger one",
+    "soundmark": "/aɪ niːd ə ˈbɪɡər wʌn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bigger",
+        "role": "Det",
+        "phonetic": "/ˈbɪɡər/",
+        "chinese": "更大的"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "这个太小了",
+    "english": "This one is too small",
+    "soundmark": "/ðɪs wʌn ɪz tuː smɔːl/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "small",
+        "role": "C",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      }
+    ]
+  },
+  {
+    "chinese": "它和那个一样大",
+    "english": "It's as big as that one",
+    "soundmark": "/ɪts əz bɪɡ əz ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "as",
+        "role": "Conj",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "english": "medium",
+    "chinese": "中等的",
+    "soundmark": "/ˈmiːdiəm/"
+  },
+  {
+    "english": "enormous",
+    "chinese": "巨大的",
+    "soundmark": "/ɪˈnɔːrməs/"
+  },
+  {
+    "english": "miniature",
+    "chinese": "微型的",
+    "soundmark": "/ˈmɪnətʃər/"
+  }
+]

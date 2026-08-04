@@ -15,7 +15,7 @@ from sqlalchemy import select, and_
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.core.database import get_db
-from app.core.security import get_current_user
+from app.core.security import get_current_user, get_optional_user
 from app.models.user import User
 from app.models.course import Statement
 from app.models.review import ReviewItem
@@ -43,9 +43,9 @@ router = APIRouter(tags=["game"])
 async def submit_answer(
     data: AnswerSubmit,
     db: AsyncSession = Depends(get_db),
-    user: User = Depends(get_current_user),
+    user: User | None = Depends(get_optional_user),
 ):
-    """检查用户提交的答题结果"""
+    """检查用户提交的答题结果（游客也可使用，但不计统计）"""
     # 获取句子
     result = await db.execute(select(Statement).where(Statement.id == data.statement_id))
     stmt = result.scalar_one_or_none()
@@ -56,11 +56,10 @@ async def submit_answer(
     check_result = check_answer(data.user_input, stmt.english)
     quality = calc_quality(data.fix_count, data.difficulty)
 
-    # 初次答题（不重复计 XP）
+    # 统计仅对已登录用户更新
     xp = 0
-    if data.fix_count == 0:
+    if user and data.fix_count == 0:
         xp = calc_xp(quality, combo=0, is_review=False, is_first_of_day=False)
-        # 更新用户统计
         stats_result = await db.execute(
             select(UserStats).where(UserStats.user_id == user.id)
         )
@@ -68,7 +67,6 @@ async def submit_answer(
         if stats:
             today = date.today()
             if stats.last_study_date != today:
-                # 判断连胜
                 if stats.last_study_date and (today - stats.last_study_date).days == 1:
                     stats.streak += 1
                 elif stats.last_study_date and (today - stats.last_study_date).days > 1:
@@ -88,7 +86,7 @@ async def submit_answer(
         incorrect_words=check_result["incorrect_words"],
         normalized_input=normalize_text(data.user_input),
         quality=quality,
-        xp_earned=xp if data.fix_count == 0 else 0,
+        xp_earned=xp,
     )
 
 
@@ -266,31 +264,7 @@ async def complete_course(
     if not course:
         raise HTTPException(status_code=404, detail="课程不存在")
 
-    if hist:
-        hist.completion_count += 1
-        hist.last_completed_at = datetime.utcnow()
-    else:
-        hist = CourseHistory(
-            id=str(uuid.uuid4()),
-            user_id=user.id,
-            course_id=course_id,
-            course_pack_id=course.course_pack_id,
-            completion_count=1,
-        )
-        db.add(hist)
-
-    # 课程完成 XP
-    stats_result = await db.execute(
-        select(UserStats).where(UserStats.user_id == user.id)
-    )
-    stats = stats_result.scalar_one_or_none()
-    if stats:
-        stats.xp += 50
-        stats.level = int((stats.xp / 100) ** 0.5) + 1
-
-    await db.commit()
-
-    # 查找下一课
+    # 查找下一课（幂等路径也要返回，所以提前查）
     next_result = await db.execute(
         select(Course)
         .where(
@@ -303,6 +277,39 @@ async def complete_course(
         .limit(1)
     )
     next_course = next_result.scalar_one_or_none()
+
+    if hist:
+        # 已经完成过，不重复加 XP（幂等）
+        hist.last_completed_at = datetime.utcnow()
+        await db.commit()
+        return {
+            "completed": True,
+            "xp_awarded": 0,
+            "already_completed": True,
+            "next_course_id": next_course.id if next_course else None,
+            "next_course_title": next_course.title if next_course else None,
+        }
+
+    # 首次完成
+    hist = CourseHistory(
+        id=str(uuid.uuid4()),
+        user_id=user.id,
+        course_id=course_id,
+        course_pack_id=course.course_pack_id,
+        completion_count=1,
+    )
+    db.add(hist)
+
+    # 课程完成 XP
+    stats_result = await db.execute(
+        select(UserStats).where(UserStats.user_id == user.id)
+    )
+    stats = stats_result.scalar_one_or_none()
+    if stats:
+        stats.xp += 50
+        stats.level = int((stats.xp / 100) ** 0.5) + 1
+
+    await db.commit()
 
     return {
         "completed": True,

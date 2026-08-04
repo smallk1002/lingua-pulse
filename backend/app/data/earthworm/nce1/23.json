@@ -1,0 +1,398 @@
+[
+  {
+    "chinese": "房间",
+    "english": "room",
+    "soundmark": "/ruːm/"
+  },
+  {
+    "chinese": "客厅",
+    "english": "living room",
+    "soundmark": "/ˈlɪvɪŋ/ /ruːm/"
+  },
+  {
+    "chinese": "卧室",
+    "english": "bedroom",
+    "soundmark": "/ˈbedruːm/"
+  },
+  {
+    "chinese": "厨房",
+    "english": "kitchen",
+    "soundmark": "/ˈkɪtʃɪn/"
+  },
+  {
+    "chinese": "餐厅",
+    "english": "dining room",
+    "soundmark": "/ˈdaɪnɪŋ/ /ruːm/"
+  },
+  {
+    "chinese": "浴室",
+    "english": "bathroom",
+    "soundmark": "/ˈbæθruːm/"
+  },
+  {
+    "chinese": "书房",
+    "english": "study",
+    "soundmark": "/ˈstʌdi/"
+  },
+  {
+    "chinese": "洗衣房",
+    "english": "laundry room",
+    "soundmark": "/ˈlɔːndri/ /ruːm/"
+  },
+  {
+    "chinese": "储藏室",
+    "english": "storage room",
+    "soundmark": "/ˈstɔːrɪdʒ/ /ruːm/"
+  },
+  {
+    "chinese": "地下室",
+    "english": "basement",
+    "soundmark": "/ˈbeɪsmənt/"
+  },
+  {
+    "chinese": "阁楼",
+    "english": "attic",
+    "soundmark": "/ˈætɪk/"
+  },
+  {
+    "chinese": "走廊",
+    "english": "hallway",
+    "soundmark": "/ˈhɔːlweɪ/"
+  },
+  {
+    "chinese": "入口",
+    "english": "entrance",
+    "soundmark": "/ˈentrəns/"
+  },
+  {
+    "chinese": "楼上",
+    "english": "upstairs",
+    "soundmark": "/ˌʌpˈsterz/"
+  },
+  {
+    "chinese": "楼下",
+    "english": "downstairs",
+    "soundmark": "/ˌdaʊnˈsterz/"
+  },
+  {
+    "chinese": "你的房子有几个房间",
+    "english": "How many rooms are there in your house",
+    "soundmark": "/haʊ/ /ˈmeni/ /ruːmz/ /ɑːr/ /ðer/ /ɪn/ /jɔːr/ /haʊs/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "rooms",
+        "role": "S",
+        "phonetic": "/ruːmz/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      }
+    ]
+  },
+  {
+    "chinese": "有八个房间",
+    "english": "There are eight rooms",
+    "soundmark": "/ðer/ /ɑːr/ /eɪt/ /ruːmz/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "eight",
+        "role": "Det",
+        "phonetic": "/eɪt/",
+        "chinese": "八"
+      },
+      {
+        "text": "rooms",
+        "role": "C",
+        "phonetic": "/ruːmz/",
+        "chinese": "房间/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "主卧室在楼上",
+    "english": "The main bedroom is upstairs",
+    "soundmark": "/ðə/ /meɪn/ /ˈbedruːm/ /ɪz/ /ˌʌpˈsterz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "main",
+        "role": "C",
+        "phonetic": "/meɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "bedroom",
+        "role": "S",
+        "phonetic": "/ˈbedruːm/",
+        "chinese": "卧室"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "upstairs",
+        "role": "A",
+        "phonetic": "/ˌʌpˈsterz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "地下室用作储藏室",
+    "english": "The basement is used as a storage room",
+    "soundmark": "/ðə/ /ˈbeɪsmənt/ /ɪz/ /juːzd/ /æz/ /ə/ /ˈstɔːrɪdʒ/ /ruːm/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "basement",
+        "role": "S",
+        "phonetic": "/ˈbeɪsmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "used",
+        "role": "V",
+        "phonetic": "/juːzd/",
+        "chinese": "用过的/二手的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "storage",
+        "role": "C",
+        "phonetic": "/ˈstɔːrɪdʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "room",
+        "role": "O",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "走廊通向所有卧室",
+    "english": "The hallway leads to all the bedrooms",
+    "soundmark": "/ðə/ /ˈhɔːlweɪ/ /liːdz/ /tuː/ /ɔːl/ /ðə/ /ˈbedruːmz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "hallway",
+        "role": "S",
+        "phonetic": "/ˈhɔːlweɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "leads",
+        "role": "V",
+        "phonetic": "/liːdz/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bedrooms",
+        "role": "O",
+        "phonetic": "/ˈbedruːmz/",
+        "chinese": "卧室"
+      }
+    ]
+  },
+  {
+    "chinese": "我的书房很小但很舒适",
+    "english": "My study is small but very comfortable",
+    "soundmark": "/maɪ/ /ˈstʌdi/ /ɪz/ /smɔːl/ /bʌt/ /ˈveri/ /ˈkʌmfərtəbəl/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "study",
+        "role": "S",
+        "phonetic": "/ˈstʌdi/",
+        "chinese": "学习/研究"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "small",
+        "role": "C",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "comfortable",
+        "role": "C",
+        "phonetic": "/ˈkʌmfərtəbəl/",
+        "chinese": "舒适的"
+      }
+    ]
+  },
+  {
+    "chinese": "主要的",
+    "english": "main",
+    "soundmark": "/meɪn/"
+  },
+  {
+    "chinese": "用作",
+    "english": "used as",
+    "soundmark": "/juːzd/ /æz/"
+  },
+  {
+    "chinese": "通向",
+    "english": "leads to",
+    "soundmark": "/liːdz/ /tuː/"
+  },
+  {
+    "chinese": "舒适的",
+    "english": "comfortable",
+    "soundmark": "/ˈkʌmfərtəbəl/"
+  },
+  {
+    "chinese": "门厅",
+    "english": "hall",
+    "soundmark": "/hɔːl/"
+  },
+  {
+    "chinese": "储藏",
+    "english": "storage",
+    "soundmark": "/ˈstɔːrɪdʒ/"
+  },
+  {
+    "chinese": "八",
+    "english": "eight",
+    "soundmark": "/eɪt/"
+  },
+  {
+    "chinese": "客人",
+    "english": "guest",
+    "soundmark": "/ɡest/"
+  },
+  {
+    "chinese": "空间",
+    "english": "space",
+    "soundmark": "/speɪs/"
+  }
+]

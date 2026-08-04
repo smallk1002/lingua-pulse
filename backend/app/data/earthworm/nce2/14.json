@@ -1,0 +1,624 @@
+[
+  {
+    "chinese": "说",
+    "english": "speak",
+    "soundmark": "/spiːk/"
+  },
+  {
+    "chinese": "搭车",
+    "english": "lift",
+    "soundmark": "/lɪft/"
+  },
+  {
+    "chinese": "语言",
+    "english": "language",
+    "soundmark": "/ˈlæŋɡwɪdʒ/"
+  },
+  {
+    "chinese": "回答",
+    "english": "reply",
+    "soundmark": "/rɪˈplaɪ/"
+  },
+  {
+    "chinese": "挥手",
+    "english": "wave",
+    "soundmark": "/weɪv/"
+  },
+  {
+    "chinese": "搭便车",
+    "english": "ask for a lift",
+    "soundmark": "/æsk/ /fɔːr/ /ə/ /lɪft/"
+  },
+  {
+    "chinese": "除了",
+    "english": "apart from",
+    "soundmark": "/əˈpɑːrt/ /frʌm/"
+  },
+  {
+    "chinese": "一点都不",
+    "english": "not at all",
+    "soundmark": "/nɑːt/ /æt/ /ɔːl/"
+  },
+  {
+    "chinese": "在路上",
+    "english": "on the way",
+    "soundmark": "/ɑːn/ /ðə/ /weɪ/"
+  },
+  {
+    "chinese": "去年我开车穿过了法国",
+    "english": "I drove across France last year",
+    "soundmark": "/aɪ/ /droʊv/ /əˈkrɔːs/ /fræns/ /læst/ /jɪr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "drove",
+        "role": "V",
+        "phonetic": "/droʊv/",
+        "chinese": "驾驶（过去式）"
+      },
+      {
+        "text": "across",
+        "role": "P",
+        "phonetic": "/əˈkrɔːs/",
+        "chinese": "穿过/对面"
+      },
+      {
+        "text": "France",
+        "role": "O",
+        "phonetic": "/fræns/",
+        "chinese": "法国"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "一个年轻人向我挥手",
+    "english": "A young man waved to me",
+    "soundmark": "/ə/ /jʌŋ/ /mæn/ /weɪvd/ /tuː/ /miː/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "young",
+        "role": "A",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "waved",
+        "role": "V",
+        "phonetic": "/weɪvd/",
+        "chinese": "挥手/波浪"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "他要求搭便车",
+    "english": "He asked me for a lift",
+    "soundmark": "/hiː/ /æskt/ /miː/ /fɔːr/ /ə/ /lɪft/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lift",
+        "role": "O",
+        "phonetic": "/lɪft/",
+        "chinese": "举起/电梯"
+      }
+    ]
+  },
+  {
+    "chinese": "他用法语对我说早上好",
+    "english": "He said good morning to me in French",
+    "soundmark": "/hiː/ /sed/ /ɡʊd/ /ˈmɔːrnɪŋ/ /tuː/ /miː/ /ɪn/ /frentʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "good",
+        "role": "A",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "morning",
+        "role": "O",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "French",
+        "role": "O",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      }
+    ]
+  },
+  {
+    "chinese": "除了几个单词外我一句法语也不会说",
+    "english": "Apart from a few words I do not know any French at all",
+    "soundmark": "/əˈpɑːrt/ /frʌm/ /ə/ /fjuː/ /wɜːrdz/ /aɪ/ /duː/ /nɑːt/ /noʊ/ /ˈeni/ /frentʃ/ /æt/ /ɔːl/",
+    "grammar": [
+      {
+        "text": "Apart",
+        "role": "Adv",
+        "phonetic": "/əˈpɑːrt/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "few",
+        "role": "Det",
+        "phonetic": "/fjuː/",
+        "chinese": "很少"
+      },
+      {
+        "text": "words",
+        "role": "O",
+        "phonetic": "/wɜːrdz/",
+        "chinese": "单词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "French",
+        "role": "O",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们俩谁也没说话",
+    "english": "Neither of us spoke",
+    "soundmark": "/ˈniːðər/ /ʌv/ /ʌs/ /spoʊk/",
+    "grammar": [
+      {
+        "text": "Neither",
+        "role": "S",
+        "phonetic": "/ˈniːðər/",
+        "chinese": "也不"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "spoke",
+        "role": "V",
+        "phonetic": "/spoʊk/",
+        "chinese": "说（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "我刚到镇上他就说了再见",
+    "english": "As soon as I arrived in the town he said goodbye",
+    "soundmark": "/æz/ /suːn/ /æz/ /aɪ/ /əˈraɪvd/ /ɪn/ /ðə/ /taʊn/ /hiː/ /sed/ /ɡʊdˈbaɪ/",
+    "grammar": [
+      {
+        "text": "As",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "soon",
+        "role": "Adv",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "town",
+        "role": "O",
+        "phonetic": "/taʊn/",
+        "chinese": "城镇"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "goodbye",
+        "role": "O",
+        "phonetic": "/ɡʊdˈbaɪ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他问我是否会说英语",
+    "english": "He asked me if I spoke English",
+    "soundmark": "/hiː/ /æskt/ /miː/ /ɪf/ /aɪ/ /spoʊk/ /ˈɪŋɡlɪʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "spoke",
+        "role": "V",
+        "phonetic": "/spoʊk/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      }
+    ]
+  },
+  {
+    "chinese": "我学会的第一门外语是法语",
+    "english": "The first foreign language I learned was French",
+    "soundmark": "/ðə/ /fɜːrst/ /ˈfɔːrɪn/ /ˈlæŋɡwɪdʒ/ /aɪ/ /lɜːrnd/ /wʌz/ /frentʃ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "first",
+        "role": "A",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      },
+      {
+        "text": "foreign",
+        "role": "A",
+        "phonetic": "/ˈfɔːrɪn/",
+        "chinese": "外国的"
+      },
+      {
+        "text": "language",
+        "role": "S",
+        "phonetic": "/ˈlæŋɡwɪdʒ/",
+        "chinese": "语言"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "learned",
+        "role": "V",
+        "phonetic": "/lɜːrnd/",
+        "chinese": "学习"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "French",
+        "role": "C",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      }
+    ]
+  },
+  {
+    "chinese": "开车",
+    "english": "drive",
+    "soundmark": "/draɪv/"
+  },
+  {
+    "chinese": "挥手",
+    "english": "wave",
+    "soundmark": "/weɪv/"
+  },
+  {
+    "chinese": "语言",
+    "english": "language",
+    "soundmark": "/ˈlæŋɡwɪdʒ/"
+  },
+  {
+    "chinese": "外语",
+    "english": "foreign language",
+    "soundmark": "/ˈfɔːrɪn/ /ˈlæŋɡwɪdʒ/"
+  },
+  {
+    "chinese": "两个都不",
+    "english": "neither",
+    "soundmark": "/ˈniːðər/"
+  },
+  {
+    "chinese": "一...就...",
+    "english": "as soon as",
+    "soundmark": "/æz/ /suːn/ /æz/"
+  },
+  {
+    "chinese": "除了",
+    "english": "apart from",
+    "soundmark": "/əˈpɑːrt/ /frʌm/"
+  },
+  {
+    "chinese": "法国",
+    "english": "France",
+    "soundmark": "/fræns/"
+  },
+  {
+    "chinese": "法语",
+    "english": "French",
+    "soundmark": "/frentʃ/"
+  },
+  {
+    "chinese": "英语",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "chinese": "到达",
+    "english": "arrive",
+    "soundmark": "/əˈraɪv/"
+  },
+  {
+    "chinese": "知道",
+    "english": "know",
+    "soundmark": "/noʊ/"
+  },
+  {
+    "chinese": "学会",
+    "english": "learn",
+    "soundmark": "/lɜːrn/"
+  },
+  {
+    "chinese": "是否",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "chinese": "路途",
+    "english": "journey",
+    "soundmark": "/ˈdʒɜːrni/"
+  },
+  {
+    "chinese": "穿过",
+    "english": "across",
+    "soundmark": "/əˈkrɔːs/"
+  },
+  {
+    "chinese": "年轻人",
+    "english": "young man",
+    "soundmark": "/jʌŋ/ /mæn/"
+  },
+  {
+    "chinese": "搭便车",
+    "english": "give a lift",
+    "soundmark": "/ɡɪv/ /ə/ /lɪft/"
+  },
+  {
+    "chinese": "完全不",
+    "english": "not at all",
+    "soundmark": "/nɑːt/ /æt/ /ɔːl/"
+  },
+  {
+    "chinese": "早上好",
+    "english": "good morning",
+    "soundmark": "/ɡʊd/ /ˈmɔːrnɪŋ/"
+  }
+]

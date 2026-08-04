@@ -1,0 +1,429 @@
+[
+  {
+    "chinese": "失控",
+    "english": "out of control",
+    "soundmark": "/aʊt/ /əv/ /kənˈtrəʊl/"
+  },
+  {
+    "chinese": "控制",
+    "english": "control",
+    "soundmark": "/kənˈtrəʊl/"
+  },
+  {
+    "chinese": "驾驶",
+    "english": "drive",
+    "soundmark": "/draɪv/"
+  },
+  {
+    "chinese": "司机",
+    "english": "driver",
+    "soundmark": "/ˈdraɪvə/"
+  },
+  {
+    "chinese": "车",
+    "english": "car",
+    "soundmark": "/kɑː/"
+  },
+  {
+    "chinese": "公共汽车",
+    "english": "bus",
+    "soundmark": "/bʌs/"
+  },
+  {
+    "chinese": "卡车",
+    "english": "truck",
+    "soundmark": "/trʌk/"
+  },
+  {
+    "chinese": "速度",
+    "english": "speed",
+    "soundmark": "/spiːd/"
+  },
+  {
+    "chinese": "快的",
+    "english": "fast",
+    "soundmark": "/fɑːst/"
+  },
+  {
+    "chinese": "危险",
+    "english": "dangerous",
+    "soundmark": "/ˈdeɪndʒərəs/"
+  },
+  {
+    "chinese": "事故",
+    "english": "accident",
+    "soundmark": "/ˈæksɪdənt/"
+  },
+  {
+    "chinese": "街道",
+    "english": "street",
+    "soundmark": "/striːt/"
+  },
+  {
+    "chinese": "路",
+    "english": "road",
+    "soundmark": "/rəʊd/"
+  },
+  {
+    "chinese": "转弯",
+    "english": "turn",
+    "soundmark": "/tɜːn/"
+  },
+  {
+    "chinese": "停下",
+    "english": "stop",
+    "soundmark": "/stɒp/"
+  },
+  {
+    "chinese": "那辆车失控了",
+    "english": "The car is out of control",
+    "soundmark": "/ðə/ /kɑːr/ /ɪz/ /aʊt/ /əv/ /kənˈtrəʊl/",
+    "grammar": [
+      {
+        "text": "The car",
+        "role": "S",
+        "phonetic": "/ðə/ /kɑːr/",
+        "chinese": "这个/那个/汽车"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "out of control",
+        "role": "C",
+        "phonetic": "/aʊt/ /əv/ /kənˈtrəʊl/",
+        "chinese": "出去/…的/控制"
+      }
+    ]
+  },
+  {
+    "chinese": "他开得很快",
+    "english": "He is driving too fast",
+    "soundmark": "/hiː/ /ɪz/ /ˈdraɪvɪŋ/ /tuː/ /fɑːst/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is driving",
+        "role": "V",
+        "phonetic": "/ɪz/ /ˈdraɪvɪŋ/",
+        "chinese": "是/正在…(驾驶)"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "fast",
+        "role": "Adv",
+        "phonetic": "/fɑːst/",
+        "chinese": "快的"
+      }
+    ]
+  },
+  {
+    "chinese": "公共汽车失去了控制",
+    "english": "The bus went out of control",
+    "soundmark": "/ðə/ /bʌs/ /went/ /aʊt/ /əv/ /kənˈtrəʊl/",
+    "grammar": [
+      {
+        "text": "The bus",
+        "role": "S",
+        "phonetic": "/ðə/ /bʌs/",
+        "chinese": "公交车"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "out of control",
+        "role": "C",
+        "phonetic": "/aʊt/ /əv/ /kənˈtrəʊl/",
+        "chinese": "出去/…的/控制"
+      }
+    ]
+  },
+  {
+    "chinese": "司机停不下来",
+    "english": "The driver cannot stop",
+    "soundmark": "/ðə/ /ˈdraɪvə/ /ˈkænɒt/ /stɒp/",
+    "grammar": [
+      {
+        "text": "The driver",
+        "role": "S",
+        "phonetic": "/ðə/ /ˈdraɪvə/",
+        "chinese": "这个/那个/更…的/…者(驾驶)"
+      },
+      {
+        "text": "cannot",
+        "role": "Neg",
+        "phonetic": "/ˈkænɒt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "stop",
+        "role": "V",
+        "phonetic": "/stɒp/",
+        "chinese": "停止"
+      }
+    ]
+  },
+  {
+    "chinese": "车速太快了",
+    "english": "The car is going too fast",
+    "soundmark": "/ðə/ /kɑːr/ /ɪz/ /ˈɡəʊɪŋ/ /tuː/ /fɑːst/",
+    "grammar": [
+      {
+        "text": "The car",
+        "role": "S",
+        "phonetic": "/ðə/ /kɑːr/",
+        "chinese": "这个/那个/汽车"
+      },
+      {
+        "text": "is going",
+        "role": "V",
+        "phonetic": "/ɪz/ /ˈɡəʊɪŋ/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "fast",
+        "role": "Adv",
+        "phonetic": "/fɑːst/",
+        "chinese": "快的"
+      }
+    ]
+  },
+  {
+    "chinese": "他在拐弯时失控了",
+    "english": "He lost control at the turn",
+    "soundmark": "/hiː/ /lɒst/ /kənˈtrəʊl/ /æt/ /ðə/ /tɜːn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɒst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "control",
+        "role": "O",
+        "phonetic": "/kənˈtrəʊl/",
+        "chinese": "控制"
+      },
+      {
+        "text": "at the turn",
+        "role": "L",
+        "phonetic": "/æt/ /ðə/ /tɜːn/",
+        "chinese": "在/这个/那个/转/变得"
+      }
+    ]
+  },
+  {
+    "chinese": "这很危险",
+    "english": "This is dangerous",
+    "soundmark": "/ðɪs/ /ɪz/ /ˈdeɪndʒərəs/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "dangerous",
+        "role": "C",
+        "phonetic": "/ˈdeɪndʒərəs/",
+        "chinese": "危险的"
+      }
+    ]
+  },
+  {
+    "chinese": "卡车开得很快",
+    "english": "The truck is moving very fast",
+    "soundmark": "/ðə/ /trʌk/ /ɪz/ /ˈmuːvɪŋ/ /ˈveri/ /fɑːst/",
+    "grammar": [
+      {
+        "text": "The truck",
+        "role": "S",
+        "phonetic": "/ðə/ /trʌk/",
+        "chinese": "这个/那个/卡车"
+      },
+      {
+        "text": "is moving",
+        "role": "V",
+        "phonetic": "/ɪz/ /ˈmuːvɪŋ/",
+        "chinese": "是/正在…(移动)"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "fast",
+        "role": "Adv",
+        "phonetic": "/fɑːst/",
+        "chinese": "快的"
+      }
+    ]
+  },
+  {
+    "chinese": "街上车很多",
+    "english": "There are many cars on the street",
+    "soundmark": "/ðeər/ /ɑː/ /ˈmeni/ /kɑːz/ /ɒn/ /ðə/ /striːt/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðeər/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "cars",
+        "role": "C",
+        "phonetic": "/kɑːz/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "on the street",
+        "role": "L",
+        "phonetic": "/ɒn/ /ðə/ /striːt/",
+        "chinese": "在…上/这个/那个/街道"
+      }
+    ]
+  },
+  {
+    "chinese": "刹车坏了",
+    "english": "The brakes have failed",
+    "soundmark": "/ðə/ /breɪks/ /hæv/ /feɪld/",
+    "grammar": [
+      {
+        "text": "The brakes",
+        "role": "S",
+        "phonetic": "/ðə/ /breɪks/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "have failed",
+        "role": "V",
+        "phonetic": "/hæv/ /feɪld/",
+        "chinese": "有/助动词/失败"
+      }
+    ]
+  },
+  {
+    "chinese": "他不能控制这辆车",
+    "english": "He cannot control the car",
+    "soundmark": "/hiː/ /ˈkænɒt/ /kənˈtrəʊl/ /ðə/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "cannot",
+        "role": "Neg",
+        "phonetic": "/ˈkænɒt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "control",
+        "role": "V",
+        "phonetic": "/kənˈtrəʊl/",
+        "chinese": "控制"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "刹车",
+    "english": "brake",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "chinese": "轮子",
+    "english": "wheel",
+    "soundmark": "/wiːl/"
+  },
+  {
+    "chinese": "引擎",
+    "english": "engine",
+    "soundmark": "/ˈendʒɪn/"
+  },
+  {
+    "chinese": "警察",
+    "english": "police",
+    "soundmark": "/pəˈliːs/"
+  },
+  {
+    "chinese": "交通",
+    "english": "traffic",
+    "soundmark": "/ˈtræfɪk/"
+  },
+  {
+    "chinese": "规则",
+    "english": "rule",
+    "soundmark": "/ruːl/"
+  },
+  {
+    "chinese": "慢的",
+    "english": "slow",
+    "soundmark": "/sləʊ/"
+  }
+]

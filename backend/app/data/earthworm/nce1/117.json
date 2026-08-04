@@ -1,0 +1,215 @@
+[
+  {
+    "english": "birthday",
+    "chinese": "生日",
+    "soundmark": "/ˈbɜːrθdeɪ/"
+  },
+  {
+    "english": "party",
+    "chinese": "派对",
+    "soundmark": "/ˈpɑːrti/"
+  },
+  {
+    "english": "cake",
+    "chinese": "蛋糕",
+    "soundmark": "/keɪk/"
+  },
+  {
+    "english": "present",
+    "chinese": "礼物",
+    "soundmark": "/ˈprezənt/"
+  },
+  {
+    "english": "celebrate",
+    "chinese": "庆祝",
+    "soundmark": "/ˈselɪbreɪt/"
+  },
+  {
+    "chinese": "今天是汤米的生日",
+    "english": "Today is Tommy's birthday",
+    "soundmark": "/təˈdeɪ ɪz ˈtɑːmiz ˈbɜːrθdeɪ/",
+    "grammar": [
+      {
+        "text": "Today",
+        "role": "T",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Tommy's",
+        "role": "Det",
+        "phonetic": "/ˈtɑːmiz/",
+        "chinese": ""
+      },
+      {
+        "text": "birthday",
+        "role": "C",
+        "phonetic": "/ˈbɜːrθdeɪ/",
+        "chinese": "生日"
+      }
+    ]
+  },
+  {
+    "chinese": "我们为他举办了一个派对",
+    "english": "We had a party for him",
+    "soundmark": "/wiː hæd ə ˈpɑːrti fɔːr hɪm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "party",
+        "role": "O",
+        "phonetic": "/ˈpɑːrti/",
+        "chinese": "派对"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "他收到了很多礼物",
+    "english": "He received many presents",
+    "soundmark": "/hiː rɪˈsiːvd ˈmeni ˈprezənts/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "presents",
+        "role": "O",
+        "phonetic": "/ˈprezənts/",
+        "chinese": "礼物/现在"
+      }
+    ]
+  },
+  {
+    "chinese": "蛋糕很美味",
+    "english": "The cake was delicious",
+    "soundmark": "/ðə keɪk wʌz dɪˈlɪʃəs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cake",
+        "role": "S",
+        "phonetic": "/keɪk/",
+        "chinese": "蛋糕"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "delicious",
+        "role": "C",
+        "phonetic": "/dɪˈlɪʃəs/",
+        "chinese": "美味的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们玩得很开心",
+    "english": "We had a great time",
+    "soundmark": "/wiː hæd ə ɡreɪt taɪm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "great",
+        "role": "Det",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "english": "invite",
+    "chinese": "邀请",
+    "soundmark": "/ɪnˈvaɪt/"
+  },
+  {
+    "english": "guest",
+    "chinese": "客人",
+    "soundmark": "/ɡest/"
+  },
+  {
+    "english": "surprise",
+    "chinese": "惊喜",
+    "soundmark": "/sərˈpraɪz/"
+  }
+]

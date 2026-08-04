@@ -1,0 +1,542 @@
+[
+  {
+    "chinese": "出现",
+    "english": "appear",
+    "soundmark": "/əˈpɪr/"
+  },
+  {
+    "chinese": "舞台",
+    "english": "stage",
+    "soundmark": "/steɪdʒ/"
+  },
+  {
+    "chinese": "明亮的",
+    "english": "bright",
+    "soundmark": "/braɪt/"
+  },
+  {
+    "chinese": "长袜",
+    "english": "stocking",
+    "soundmark": "/ˈstɑːkɪŋ/"
+  },
+  {
+    "chinese": "短袜",
+    "english": "sock",
+    "soundmark": "/sɑːk/"
+  },
+  {
+    "chinese": "不得不",
+    "english": "have to",
+    "soundmark": "/hæv/ /tuː/"
+  },
+  {
+    "chinese": "至少",
+    "english": "at least",
+    "soundmark": "/æt/ /liːst/"
+  },
+  {
+    "chinese": "尽管",
+    "english": "in spite of",
+    "soundmark": "/ɪn/ /spaɪt/ /ʌv/"
+  },
+  {
+    "chinese": "长大",
+    "english": "grow up",
+    "soundmark": "/ɡroʊ/ /ʌp/"
+  },
+  {
+    "chinese": "我的姑姑詹妮弗是个演员",
+    "english": "My aunt Jennifer is an actress",
+    "soundmark": "/maɪ/ /ænt/ /ˈdʒenɪfər/ /ɪz/ /ən/ /ˈæktrɪs/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "aunt",
+        "role": "S",
+        "phonetic": "/ænt/",
+        "chinese": "阿姨/姑姑"
+      },
+      {
+        "text": "Jennifer",
+        "role": "S",
+        "phonetic": "/ˈdʒenɪfər/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "actress",
+        "role": "C",
+        "phonetic": "/ˈæktrɪs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她必须至少三十五岁",
+    "english": "She must be at least thirty-five years old",
+    "soundmark": "/ʃiː/ /mʌst/ /biː/ /æt/ /liːst/ /ˈθɜːrti/ /faɪv/ /jɪrz/ /oʊld/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "least",
+        "role": "Det",
+        "phonetic": "/liːst/",
+        "chinese": "最少"
+      },
+      {
+        "text": "thirty-five",
+        "role": "A",
+        "phonetic": "/ˈθɜːrti/ /faɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "尽管年龄很大她常常出现在舞台上",
+    "english": "In spite of her age she often appears on the stage",
+    "soundmark": "/ɪn/ /spaɪt/ /ʌv/ /hɜːr/ /eɪdʒ/ /ʃiː/ /ˈɔːfən/ /əˈpɪrz/ /ɑːn/ /ðə/ /steɪdʒ/",
+    "grammar": [
+      {
+        "text": "In",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "spite",
+        "role": "O",
+        "phonetic": "/spaɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "age",
+        "role": "O",
+        "phonetic": "/eɪdʒ/",
+        "chinese": "年龄/时代"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "appears",
+        "role": "V",
+        "phonetic": "/əˈpɪrz/",
+        "chinese": "出现"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "stage",
+        "role": "O",
+        "phonetic": "/steɪdʒ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她必须穿一条鲜红色的长袜",
+    "english": "She must wear a pair of bright red stockings",
+    "soundmark": "/ʃiː/ /mʌst/ /wer/ /ə/ /per/ /ʌv/ /braɪt/ /red/ /ˈstɑːkɪŋz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "wear",
+        "role": "V",
+        "phonetic": "/wer/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pair",
+        "role": "O",
+        "phonetic": "/per/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "bright",
+        "role": "A",
+        "phonetic": "/braɪt/",
+        "chinese": "明亮的"
+      },
+      {
+        "text": "red",
+        "role": "A",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      },
+      {
+        "text": "stockings",
+        "role": "O",
+        "phonetic": "/ˈstɑːkɪŋz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我有时会假装自己也是个成年人",
+    "english": "I sometimes pretend to be a grown-up too",
+    "soundmark": "/aɪ/ /ˈsʌmtaɪmz/ /prɪˈtend/ /tuː/ /biː/ /ə/ /ˈɡroʊn/ /ʌp/ /tuː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sometimes",
+        "role": "Adv",
+        "phonetic": "/ˈsʌmtaɪmz/",
+        "chinese": "有时"
+      },
+      {
+        "text": "pretend",
+        "role": "V",
+        "phonetic": "/prɪˈtend/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "grown-up",
+        "role": "C",
+        "phonetic": "/ˈɡroʊn/ /ʌp/",
+        "chinese": ""
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      }
+    ]
+  },
+  {
+    "chinese": "你必须现在完成你的作业",
+    "english": "You must finish your homework now",
+    "soundmark": "/juː/ /mʌst/ /ˈfɪnɪʃ/ /jɔːr/ /ˈhoʊmwɜːrk/ /naʊ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "finish",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "chinese": "完成"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "不管下雨我还是会去",
+    "english": "I will go in spite of the rain",
+    "soundmark": "/aɪ/ /wɪl/ /ɡoʊ/ /ɪn/ /spaɪt/ /ʌv/ /ðə/ /reɪn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "spite",
+        "role": "O",
+        "phonetic": "/spaɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rain",
+        "role": "O",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      }
+    ]
+  },
+  {
+    "chinese": "假装",
+    "english": "pretend",
+    "soundmark": "/prɪˈtend/"
+  },
+  {
+    "chinese": "女演员",
+    "english": "actress",
+    "soundmark": "/ˈæktrɪs/"
+  },
+  {
+    "chinese": "尽管",
+    "english": "in spite of",
+    "soundmark": "/ɪn/ /spaɪt/ /ʌv/"
+  },
+  {
+    "chinese": "必须",
+    "english": "must",
+    "soundmark": "/mʌst/"
+  },
+  {
+    "chinese": "不得不",
+    "english": "have to",
+    "soundmark": "/hæv/ /tuː/"
+  },
+  {
+    "chinese": "至少",
+    "english": "at least",
+    "soundmark": "/æt/ /liːst/"
+  },
+  {
+    "chinese": "明亮的",
+    "english": "bright",
+    "soundmark": "/braɪt/"
+  },
+  {
+    "chinese": "红色",
+    "english": "red",
+    "soundmark": "/red/"
+  },
+  {
+    "chinese": "成年人",
+    "english": "grown-up",
+    "soundmark": "/ˈɡroʊn/ /ʌp/"
+  },
+  {
+    "chinese": "年龄",
+    "english": "age",
+    "soundmark": "/eɪdʒ/"
+  },
+  {
+    "chinese": "出现",
+    "english": "appear",
+    "soundmark": "/əˈpɪr/"
+  },
+  {
+    "chinese": "阿姨",
+    "english": "aunt",
+    "soundmark": "/ænt/"
+  },
+  {
+    "chinese": "穿",
+    "english": "wear",
+    "soundmark": "/wer/"
+  },
+  {
+    "chinese": "一双",
+    "english": "a pair of",
+    "soundmark": "/ə/ /per/ /ʌv/"
+  },
+  {
+    "chinese": "短袜",
+    "english": "sock",
+    "soundmark": "/sɑːk/"
+  },
+  {
+    "chinese": "长袜",
+    "english": "stocking",
+    "soundmark": "/ˈstɑːkɪŋ/"
+  },
+  {
+    "chinese": "长大",
+    "english": "grow up",
+    "soundmark": "/ɡroʊ/ /ʌp/"
+  },
+  {
+    "chinese": "舞台",
+    "english": "stage",
+    "soundmark": "/steɪdʒ/"
+  },
+  {
+    "chinese": "常常",
+    "english": "often",
+    "soundmark": "/ˈɔːfən/"
+  },
+  {
+    "chinese": "年龄大",
+    "english": "old",
+    "soundmark": "/oʊld/"
+  },
+  {
+    "chinese": "女演员",
+    "english": "actress",
+    "soundmark": "/ˈæktrɪs/"
+  },
+  {
+    "chinese": "有时",
+    "english": "sometimes",
+    "soundmark": "/ˈsʌmtaɪmz/"
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "chinese": "经理",
+    "english": "manager",
+    "soundmark": "/ˈmænɪdʒər/"
+  },
+  {
+    "chinese": "办公室",
+    "english": "office",
+    "soundmark": "/ˈɒfɪs/"
+  },
+  {
+    "chinese": "公司",
+    "english": "company",
+    "soundmark": "/ˈkʌmpəni/"
+  },
+  {
+    "chinese": "老板",
+    "english": "boss",
+    "soundmark": "/bɒs/"
+  },
+  {
+    "chinese": "秘书",
+    "english": "secretary",
+    "soundmark": "/ˈsekrəteri/"
+  },
+  {
+    "chinese": "职员",
+    "english": "clerk",
+    "soundmark": "/klɜːrk/"
+  },
+  {
+    "chinese": "忙碌的",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "重要的",
+    "english": "important",
+    "soundmark": "/ɪmˈpɔːrtənt/"
+  },
+  {
+    "chinese": "会议",
+    "english": "meeting",
+    "soundmark": "/ˈmiːtɪŋ/"
+  },
+  {
+    "chinese": "决定",
+    "english": "decide",
+    "soundmark": "/dɪˈsaɪd/"
+  },
+  {
+    "chinese": "员工",
+    "english": "staff",
+    "soundmark": "/stɑːf/"
+  },
+  {
+    "chinese": "薪水",
+    "english": "salary",
+    "soundmark": "/ˈsæləri/"
+  },
+  {
+    "chinese": "那位经理正在办公室等您",
+    "english": "The manager is waiting for you in the office",
+    "soundmark": "/ðə ˈmænɪdʒər ɪz ˈweɪtɪŋ fɔːr juː ɪn ðə ˈɒfɪs/",
+    "grammar": [
+      {
+        "text": "The manager",
+        "role": "S",
+        "phonetic": "/ðə ˈmænɪdʒər/",
+        "chinese": "这个/那个/更…的/…者(管理)"
+      },
+      {
+        "text": "is waiting",
+        "role": "V",
+        "phonetic": "/ɪz ˈweɪtɪŋ/",
+        "chinese": "是/等"
+      },
+      {
+        "text": "for you",
+        "role": "A",
+        "phonetic": "/fɔːr juː/",
+        "chinese": "为你"
+      },
+      {
+        "text": "in the office",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈɒfɪs/",
+        "chinese": "在…里/这个/那个/办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "他是我们公司最忙碌的人",
+    "english": "He is the busiest man in our company",
+    "soundmark": "/hiː ɪz ðə ˈbɪziɪst mæn ɪn aʊər ˈkʌmpəni/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the busiest man",
+        "role": "C",
+        "phonetic": "/ðə ˈbɪziɪst mæn/",
+        "chinese": "这个/那个/男人"
+      },
+      {
+        "text": "in our company",
+        "role": "A",
+        "phonetic": "/ɪn aʊər ˈkʌmpəni/",
+        "chinese": "在…里/我们的/公司"
+      }
+    ]
+  },
+  {
+    "chinese": "经理决定开除他",
+    "english": "The manager decided to dismiss him",
+    "soundmark": "/ðə ˈmænɪdʒər dɪˈsaɪdɪd tuː dɪsˈmɪs hɪm/",
+    "grammar": [
+      {
+        "text": "The manager",
+        "role": "S",
+        "phonetic": "/ðə ˈmænɪdʒər/",
+        "chinese": "这个/那个/更…的/…者(管理)"
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "to dismiss",
+        "role": "V",
+        "phonetic": "/tuː dɪsˈmɪs/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "秘书正在准备会议文件",
+    "english": "The secretary is preparing the meeting documents",
+    "soundmark": "/ðə ˈsekrəteri ɪz prɪˈperɪŋ ðə ˈmiːtɪŋ ˈdɒkjumənts/",
+    "grammar": [
+      {
+        "text": "The secretary",
+        "role": "S",
+        "phonetic": "/ðə ˈsekrəteri/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "is preparing",
+        "role": "V",
+        "phonetic": "/ɪz prɪˈperɪŋ/",
+        "chinese": "是/正在…(准备)"
+      },
+      {
+        "text": "the meeting documents",
+        "role": "O",
+        "phonetic": "/ðə ˈmiːtɪŋ ˈdɒkjumənts/",
+        "chinese": "这个/那个/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要和经理面谈",
+    "english": "You need to see the manager in person",
+    "soundmark": "/juː niːd tuː siː ðə ˈmænɪdʒər ɪn ˈpɜːrsən/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to see",
+        "role": "V",
+        "phonetic": "/tuː siː/",
+        "chinese": "到/向/看见"
+      },
+      {
+        "text": "the manager",
+        "role": "O",
+        "phonetic": "/ðə ˈmænɪdʒər/",
+        "chinese": "这个/那个/更…的/…者(管理)"
+      },
+      {
+        "text": "in person",
+        "role": "A",
+        "phonetic": "/ɪn ˈpɜːrsən/",
+        "chinese": "在…里/人"
+      }
+    ]
+  },
+  {
+    "chinese": "会议将在三点开始",
+    "english": "The meeting will start at three o'clock",
+    "soundmark": "/ðə ˈmiːtɪŋ wɪl stɑːrt æt θriː əˈklɒk/",
+    "grammar": [
+      {
+        "text": "The meeting",
+        "role": "S",
+        "phonetic": "/ðə ˈmiːtɪŋ/",
+        "chinese": "这个/那个/会议"
+      },
+      {
+        "text": "will start",
+        "role": "V",
+        "phonetic": "/wɪl stɑːrt/",
+        "chinese": "将要/开始"
+      },
+      {
+        "text": "at three o'clock",
+        "role": "A",
+        "phonetic": "/æt θriː əˈklɒk/",
+        "chinese": "在/三"
+      }
+    ]
+  },
+  {
+    "chinese": "她的薪水比我的高",
+    "english": "Her salary is higher than mine",
+    "soundmark": "/hɜːr ˈsæləri ɪz ˈhaɪər ðæn maɪn/",
+    "grammar": [
+      {
+        "text": "Her salary",
+        "role": "S",
+        "phonetic": "/hɜːr ˈsæləri/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "higher",
+        "role": "C",
+        "phonetic": "/ˈhaɪər/",
+        "chinese": "更…的/…者(高的)"
+      },
+      {
+        "text": "than mine",
+        "role": "A",
+        "phonetic": "/ðæn maɪn/",
+        "chinese": "比/我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "员工们都很尊敬他",
+    "english": "The staff all respect him",
+    "soundmark": "/ðə stɑːf ɔːl rɪˈspekt hɪm/",
+    "grammar": [
+      {
+        "text": "The staff",
+        "role": "S",
+        "phonetic": "/ðə stɑːf/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "all",
+        "role": "A",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "respect",
+        "role": "V",
+        "phonetic": "/rɪˈspekt/",
+        "chinese": "尊重"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "老板",
+    "english": "boss",
+    "soundmark": "/bɒs/"
+  },
+  {
+    "chinese": "公司",
+    "english": "company",
+    "soundmark": "/ˈkʌmpəni/"
+  },
+  {
+    "chinese": "决定",
+    "english": "decide",
+    "soundmark": "/dɪˈsaɪd/"
+  },
+  {
+    "chinese": "重要的",
+    "english": "important",
+    "soundmark": "/ɪmˈpɔːrtənt/"
+  },
+  {
+    "chinese": "开除",
+    "english": "dismiss",
+    "soundmark": "/dɪsˈmɪs/"
+  },
+  {
+    "chinese": "尊敬",
+    "english": "respect",
+    "soundmark": "/rɪˈspekt/"
+  },
+  {
+    "chinese": "文件",
+    "english": "document",
+    "soundmark": "/ˈdɒkjumənt/"
+  }
+]

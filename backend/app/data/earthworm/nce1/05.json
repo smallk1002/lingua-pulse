@@ -1,0 +1,975 @@
+[
+  {
+    "chinese": "你好",
+    "english": "hello",
+    "soundmark": "/həˈloʊ/"
+  },
+  {
+    "chinese": "嗨",
+    "english": "hi",
+    "soundmark": "/haɪ/"
+  },
+  {
+    "chinese": "早上",
+    "english": "morning",
+    "soundmark": "/ˈmɔːrnɪŋ/"
+  },
+  {
+    "chinese": "下午",
+    "english": "afternoon",
+    "soundmark": "/ˌæftərˈnuːn/"
+  },
+  {
+    "chinese": "晚上",
+    "english": "evening",
+    "soundmark": "/ˈiːvnɪŋ/"
+  },
+  {
+    "chinese": "再见",
+    "english": "goodbye",
+    "soundmark": "/ɡʊdˈbaɪ/"
+  },
+  {
+    "chinese": "先生",
+    "english": "Mr",
+    "soundmark": "/ˈmɪstər/"
+  },
+  {
+    "chinese": "夫人",
+    "english": "Mrs",
+    "soundmark": "/ˈmɪsɪz/"
+  },
+  {
+    "chinese": "小姐",
+    "english": "Miss",
+    "soundmark": "/mɪs/"
+  },
+  {
+    "chinese": "遇见",
+    "english": "meet",
+    "soundmark": "/miːt/"
+  },
+  {
+    "chinese": "新的",
+    "english": "new",
+    "soundmark": "/nuː/"
+  },
+  {
+    "chinese": "朋友",
+    "english": "friend",
+    "soundmark": "/frend/"
+  },
+  {
+    "chinese": "名字",
+    "english": "name",
+    "soundmark": "/neɪm/"
+  },
+  {
+    "chinese": "国家",
+    "english": "country",
+    "soundmark": "/ˈkʌntri/"
+  },
+  {
+    "chinese": "来自",
+    "english": "from",
+    "soundmark": "/frʌm/"
+  },
+  {
+    "chinese": "高兴的",
+    "english": "nice",
+    "soundmark": "/naɪs/"
+  },
+  {
+    "chinese": "很高兴的",
+    "english": "glad",
+    "soundmark": "/ɡlæd/"
+  },
+  {
+    "chinese": "也很高兴",
+    "english": "pleased",
+    "soundmark": "/pliːzd/"
+  },
+  {
+    "chinese": "早上好",
+    "english": "good morning",
+    "soundmark": "/ɡʊd/ /ˈmɔːrnɪŋ/"
+  },
+  {
+    "chinese": "下午好",
+    "english": "good afternoon",
+    "soundmark": "/ɡʊd/ /ˌæftərˈnuːn/"
+  },
+  {
+    "chinese": "晚上好",
+    "english": "good evening",
+    "soundmark": "/ɡʊd/ /ˈiːvnɪŋ/"
+  },
+  {
+    "chinese": "见到你",
+    "english": "meet you",
+    "soundmark": "/miːt/ /juː/"
+  },
+  {
+    "chinese": "你好李先生",
+    "english": "Hello Mr Lee",
+    "soundmark": "/həˈloʊ/ /ˈmɪstər/ /liː/",
+    "grammar": [
+      {
+        "text": "Hello",
+        "role": "Int",
+        "phonetic": "/həˈloʊ/",
+        "chinese": "你好"
+      },
+      {
+        "text": "Mr",
+        "role": "Det",
+        "phonetic": "/ˈmɪstər/",
+        "chinese": ""
+      },
+      {
+        "text": "Lee",
+        "role": "C",
+        "phonetic": "/liː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "很高兴见到你",
+    "english": "Nice to meet you",
+    "soundmark": "/naɪs/ /tuː/ /miːt/ /juː/",
+    "grammar": [
+      {
+        "text": "Nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "我也很高兴见到你",
+    "english": "Nice to meet you too",
+    "soundmark": "/naɪs/ /tuː/ /miːt/ /juː/ /tuː/",
+    "grammar": [
+      {
+        "text": "Nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      }
+    ]
+  },
+  {
+    "chinese": "你是哪里人",
+    "english": "Where are you from",
+    "soundmark": "/wer/ /ɑːr/ /juː/ /frʌm/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      }
+    ]
+  },
+  {
+    "chinese": "我来自中国",
+    "english": "I am from China",
+    "soundmark": "/aɪ/ /æm/ /frʌm/ /ˈtʃaɪnə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "China",
+        "role": "C",
+        "phonetic": "/ˈtʃaɪnə/",
+        "chinese": "中国"
+      }
+    ]
+  },
+  {
+    "chinese": "这位是布朗先生",
+    "english": "This is Mr Brown",
+    "soundmark": "/ðɪs/ /ɪz/ /ˈmɪstər/ /braʊn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Mr",
+        "role": "Det",
+        "phonetic": "/ˈmɪstər/",
+        "chinese": ""
+      },
+      {
+        "text": "Brown",
+        "role": "C",
+        "phonetic": "/braʊn/",
+        "chinese": "棕色的"
+      }
+    ]
+  },
+  {
+    "chinese": "很高兴认识你",
+    "english": "Glad to meet you",
+    "soundmark": "/ɡlæd/ /tuː/ /miːt/ /juː/",
+    "grammar": [
+      {
+        "text": "Glad",
+        "role": "C",
+        "phonetic": "/ɡlæd/",
+        "chinese": "高兴的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "你好我叫苏菲",
+    "english": "Hello my name is Sophie",
+    "soundmark": "/həˈloʊ/ /maɪ/ /neɪm/ /ɪz/ /ˈsoʊfi/",
+    "grammar": [
+      {
+        "text": "Hello",
+        "role": "Int",
+        "phonetic": "/həˈloʊ/",
+        "chinese": "你好"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "name",
+        "role": "S",
+        "phonetic": "/neɪm/",
+        "chinese": "名字"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Sophie",
+        "role": "C",
+        "phonetic": "/ˈsoʊfi/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她是新来的学生她叫艾玛",
+    "english": "She is a new student her name is Emma",
+    "soundmark": "/ʃiː/ /ɪz/ /ə/ /nuː/ /ˈstuːdənt/ /hɜːr/ /neɪm/ /ɪz/ /ˈemə/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "student",
+        "role": "C",
+        "phonetic": "/ˈstuːdənt/",
+        "chinese": "学生"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "name",
+        "role": "S",
+        "phonetic": "/neɪm/",
+        "chinese": "名字"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Emma",
+        "role": "C",
+        "phonetic": "/ˈemə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这位是琼斯夫人",
+    "english": "This is Mrs Jones",
+    "soundmark": "/ðɪs/ /ɪz/ /ˈmɪsɪz/ /dʒoʊnz/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Mrs",
+        "role": "Det",
+        "phonetic": "/ˈmɪsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "Jones",
+        "role": "C",
+        "phonetic": "/dʒoʊnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你好布莱克先生很高兴认识你",
+    "english": "Hello Mr Blake nice to meet you",
+    "soundmark": "/həˈloʊ/ /ˈmɪstər/ /bleɪk/ /naɪs/ /tuː/ /miːt/ /juː/",
+    "grammar": [
+      {
+        "text": "Hello",
+        "role": "Int",
+        "phonetic": "/həˈloʊ/",
+        "chinese": "你好"
+      },
+      {
+        "text": "Mr",
+        "role": "Det",
+        "phonetic": "/ˈmɪstər/",
+        "chinese": ""
+      },
+      {
+        "text": "Blake",
+        "role": "C",
+        "phonetic": "/bleɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "我也很高兴认识你",
+    "english": "Pleased to meet you too",
+    "soundmark": "/pliːzd/ /tuː/ /miːt/ /juː/ /tuː/",
+    "grammar": [
+      {
+        "text": "Pleased",
+        "role": "C",
+        "phonetic": "/pliːzd/",
+        "chinese": "高兴的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      }
+    ]
+  },
+  {
+    "chinese": "你来自哪里我来自日本",
+    "english": "Where are you from I am from Japan",
+    "soundmark": "/wer/ /ɑːr/ /juː/ /frʌm/ /aɪ/ /æm/ /frʌm/ /dʒəˈpæn/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "Japan",
+        "role": "C",
+        "phonetic": "/dʒəˈpæn/",
+        "chinese": "日本"
+      }
+    ]
+  },
+  {
+    "chinese": "她是英国人吗不她是美国人",
+    "english": "Is she English no she is American",
+    "soundmark": "/ɪz/ /ʃiː/ /ˈɪŋɡlɪʃ/ /noʊ/ /ʃiː/ /ɪz/ /əˈmerɪkən/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "English",
+        "role": "C",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "no",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "American",
+        "role": "C",
+        "phonetic": "/əˈmerɪkən/",
+        "chinese": "美国人"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我朋友汤姆他是法国人",
+    "english": "This is my friend Tom he is French",
+    "soundmark": "/ðɪs/ /ɪz/ /maɪ/ /frend/ /tɑːm/ /hiː/ /ɪz/ /frentʃ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "friend",
+        "role": "C",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      },
+      {
+        "text": "Tom",
+        "role": "C",
+        "phonetic": "/tɑːm/",
+        "chinese": "汤姆"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "French",
+        "role": "C",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      }
+    ]
+  },
+  {
+    "chinese": "下午好怀特小姐",
+    "english": "Good afternoon Miss White",
+    "soundmark": "/ɡʊd/ /ˌæftərˈnuːn/ /mɪs/ /waɪt/",
+    "grammar": [
+      {
+        "text": "Good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "afternoon",
+        "role": "S",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      },
+      {
+        "text": "Miss",
+        "role": "Det",
+        "phonetic": "/mɪs/",
+        "chinese": "错过/想念"
+      },
+      {
+        "text": "White",
+        "role": "C",
+        "phonetic": "/waɪt/",
+        "chinese": "白色的"
+      }
+    ]
+  },
+  {
+    "chinese": "欢迎大家来到我们班",
+    "english": "Welcome to our class",
+    "soundmark": "/ˈwelkəm/ /tuː/ /aʊr/ /klæs/",
+    "grammar": [
+      {
+        "text": "Welcome",
+        "role": "V",
+        "phonetic": "/ˈwelkəm/",
+        "chinese": "欢迎"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "class",
+        "role": "O",
+        "phonetic": "/klæs/",
+        "chinese": "班级/阶层"
+      }
+    ]
+  },
+  {
+    "chinese": "让我介绍一下我自己",
+    "english": "Let me introduce myself",
+    "soundmark": "/let/ /miː/ /ˌɪntrəˈduːs/ /maɪˈself/",
+    "grammar": [
+      {
+        "text": "Let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "introduce",
+        "role": "V",
+        "phonetic": "/ˌɪntrəˈduːs/",
+        "chinese": "介绍"
+      },
+      {
+        "text": "myself",
+        "role": "O",
+        "phonetic": "/maɪˈself/",
+        "chinese": "我自己"
+      }
+    ]
+  },
+  {
+    "chinese": "你好我是新来的我叫大卫",
+    "english": "Hello I am new my name is David",
+    "soundmark": "/həˈloʊ/ /aɪ/ /æm/ /nuː/ /maɪ/ /neɪm/ /ɪz/ /ˈdeɪvɪd/",
+    "grammar": [
+      {
+        "text": "Hello",
+        "role": "Int",
+        "phonetic": "/həˈloʊ/",
+        "chinese": "你好"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "name",
+        "role": "S",
+        "phonetic": "/neɪm/",
+        "chinese": "名字"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "David",
+        "role": "C",
+        "phonetic": "/ˈdeɪvɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "认识你很高兴",
+    "english": "It is nice to meet you",
+    "soundmark": "/ɪt/ /ɪz/ /naɪs/ /tuː/ /miːt/ /juː/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "再见很高兴见到你",
+    "english": "Goodbye nice meeting you",
+    "soundmark": "/ɡʊdˈbaɪ/ /naɪs/ /ˈmiːtɪŋ/ /juː/",
+    "grammar": [
+      {
+        "text": "Goodbye",
+        "role": "Int",
+        "phonetic": "/ɡʊdˈbaɪ/",
+        "chinese": "再见"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "meeting",
+        "role": "V",
+        "phonetic": "/ˈmiːtɪŋ/",
+        "chinese": "会议的/会议"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "欢迎",
+    "english": "welcome",
+    "soundmark": "/ˈwelkəm/"
+  },
+  {
+    "chinese": "班",
+    "english": "class",
+    "soundmark": "/klæs/"
+  },
+  {
+    "chinese": "介绍",
+    "english": "introduce",
+    "soundmark": "/ˌɪntrəˈduːs/"
+  },
+  {
+    "chinese": "我自己",
+    "english": "myself",
+    "soundmark": "/maɪˈself/"
+  },
+  {
+    "chinese": "中国",
+    "english": "China",
+    "soundmark": "/ˈtʃaɪnə/"
+  },
+  {
+    "chinese": "日本",
+    "english": "Japan",
+    "soundmark": "/dʒəˈpæn/"
+  },
+  {
+    "chinese": "英语的",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "chinese": "美国人",
+    "english": "American",
+    "soundmark": "/əˈmerɪkən/"
+  },
+  {
+    "chinese": "法国人",
+    "english": "French",
+    "soundmark": "/frentʃ/"
+  },
+  {
+    "chinese": "我们的",
+    "english": "our",
+    "soundmark": "/aʊr/"
+  }
+]

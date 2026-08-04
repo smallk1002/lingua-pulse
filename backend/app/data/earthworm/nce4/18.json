@@ -1,0 +1,507 @@
+[
+  {
+    "chinese": "海豚",
+    "english": "porpoise",
+    "soundmark": "/ˈpɔːrpəs/"
+  },
+  {
+    "chinese": "海洋",
+    "english": "ocean",
+    "soundmark": "/ˈoʊʃn/"
+  },
+  {
+    "chinese": "哺乳动物",
+    "english": "mammal",
+    "soundmark": "/ˈmæml/"
+  },
+  {
+    "chinese": "智力",
+    "english": "intelligence",
+    "soundmark": "/ɪnˈtelɪdʒəns/"
+  },
+  {
+    "chinese": "交流",
+    "english": "communication",
+    "soundmark": "/kəˌmjuːnɪˈkeɪʃn/"
+  },
+  {
+    "chinese": "声呐点击",
+    "english": "sonar click",
+    "soundmark": "/ˈsoʊnɑːr/ /klɪk/"
+  },
+  {
+    "chinese": "社会性的",
+    "english": "social",
+    "soundmark": "/ˈsoʊʃl/"
+  },
+  {
+    "chinese": "游泳速度",
+    "english": "swimming speed",
+    "soundmark": "/ˈswɪmɪŋ/ /spiːd/"
+  },
+  {
+    "chinese": "群体行为",
+    "english": "group behavior",
+    "soundmark": "/ɡruːp/ /bɪˈheɪvjər/"
+  },
+  {
+    "chinese": "捕食",
+    "english": "hunt",
+    "soundmark": "/hʌnt/"
+  },
+  {
+    "chinese": "海豚湾",
+    "english": "porpoise bay",
+    "soundmark": "/ˈpɔːrpəs/ /beɪ/"
+  },
+  {
+    "chinese": "海洋生态",
+    "english": "marine ecology",
+    "soundmark": "/məˈriːn/ /iˈkɑːlədʒi/"
+  },
+  {
+    "chinese": "科学家发现海豚比我们想象的聪明得多",
+    "english": "scientists have found that porpoises are far more intelligent than we imagined",
+    "soundmark": "/ˈsaɪəntɪsts/ /hæv/ /faʊnd/ /ðæt/ /ˈpɔːrpəsɪz/ /ɑːr/ /fɑːr/ /mɔːr/ /ɪnˈtelɪdʒənt/ /ðæn/ /wiː/ /ɪˈmædʒɪnd/",
+    "grammar": [
+      {
+        "text": "scientists",
+        "role": "S",
+        "phonetic": "/ˈsaɪəntɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "porpoises",
+        "role": "S",
+        "phonetic": "/ˈpɔːrpəsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "far",
+        "role": "Adv",
+        "phonetic": "/fɑːr/",
+        "chinese": "远"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "intelligent",
+        "role": "C",
+        "phonetic": "/ɪnˈtelɪdʒənt/",
+        "chinese": ""
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "imagined",
+        "role": "V",
+        "phonetic": "/ɪˈmædʒɪnd/",
+        "chinese": "想象"
+      }
+    ]
+  },
+  {
+    "chinese": "他们通过复杂的点击声彼此交流",
+    "english": "they communicate with one another through complex clicking sounds",
+    "soundmark": "/ðeɪ/ /kəˈmjuːnɪkeɪt/ /wɪð/ /wʌn/ /əˈnʌðər/ /θruː/ /kəmˈpleks/ /ˈklɪkɪŋ/ /saʊndz/",
+    "grammar": [
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "communicate",
+        "role": "V",
+        "phonetic": "/kəˈmjuːnɪkeɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "another",
+        "role": "O",
+        "phonetic": "/əˈnʌðər/",
+        "chinese": "另一个"
+      },
+      {
+        "text": "through",
+        "role": "P",
+        "phonetic": "/θruː/",
+        "chinese": "通过/穿过"
+      },
+      {
+        "text": "complex",
+        "role": "A",
+        "phonetic": "/kəmˈpleks/",
+        "chinese": ""
+      },
+      {
+        "text": "clicking",
+        "role": "A",
+        "phonetic": "/ˈklɪkɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "sounds",
+        "role": "O",
+        "phonetic": "/saʊndz/",
+        "chinese": "声音"
+      }
+    ]
+  },
+  {
+    "chinese": "众所周知海豚会救助落水的人类",
+    "english": "it is well known that porpoises will rescue humans who have fallen into the water",
+    "soundmark": "/ɪt/ /ɪz/ /wel/ /noʊn/ /ðæt/ /ˈpɔːrpəsɪz/ /wɪl/ /ˈreskjuː/ /ˈhjuːmənz/ /huː/ /hæv/ /ˈfɔːlən/ /ˈɪntuː/ /ðə/ /ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "well",
+        "role": "Adv",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "porpoises",
+        "role": "S",
+        "phonetic": "/ˈpɔːrpəsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "Aux",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "rescue",
+        "role": "V",
+        "phonetic": "/ˈreskjuː/",
+        "chinese": ""
+      },
+      {
+        "text": "humans",
+        "role": "O",
+        "phonetic": "/ˈhjuːmənz/",
+        "chinese": "…们/复数(人类)"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "fallen",
+        "role": "V",
+        "phonetic": "/ˈfɔːlən/",
+        "chinese": "落下的"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "海豚的社会结构表明它们具有高度发达的文化",
+    "english": "the social structure of porpoises suggests that they have a highly developed culture",
+    "soundmark": "/ðə/ /ˈsoʊʃl/ /ˈstrʌktʃər/ /ʌv/ /ˈpɔːrpəsɪz/ /səˈdʒests/ /ðæt/ /ðeɪ/ /hæv/ /ə/ /ˈhaɪli/ /dɪˈveləpt/ /ˈkʌltʃər/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "social",
+        "role": "A",
+        "phonetic": "/ˈsoʊʃl/",
+        "chinese": "社会的"
+      },
+      {
+        "text": "structure",
+        "role": "S",
+        "phonetic": "/ˈstrʌktʃər/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "porpoises",
+        "role": "O",
+        "phonetic": "/ˈpɔːrpəsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "suggests",
+        "role": "V",
+        "phonetic": "/səˈdʒests/",
+        "chinese": "建议"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "highly",
+        "role": "Adv",
+        "phonetic": "/ˈhaɪli/",
+        "chinese": "高度地"
+      },
+      {
+        "text": "developed",
+        "role": "A",
+        "phonetic": "/dɪˈveləpt/",
+        "chinese": "发展"
+      },
+      {
+        "text": "culture",
+        "role": "O",
+        "phonetic": "/ˈkʌltʃər/",
+        "chinese": "文化"
+      }
+    ]
+  },
+  {
+    "chinese": "我们仍不完全理解海豚为何会帮助其他物种",
+    "english": "we still do not fully understand why porpoises help other species",
+    "soundmark": "/wiː/ /stɪl/ /duː/ /nɑːt/ /ˈfʊli/ /ˌʌndərˈstænd/ /waɪ/ /ˈpɔːrpəsɪz/ /help/ /ˈʌðər/ /ˈspiːʃiːz/",
+    "grammar": [
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "do",
+        "role": "Aux",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "fully",
+        "role": "Adv",
+        "phonetic": "/ˈfʊli/",
+        "chinese": "完全地"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "why",
+        "role": "Adv",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "porpoises",
+        "role": "S",
+        "phonetic": "/ˈpɔːrpəsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "other",
+        "role": "A",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      },
+      {
+        "text": "species",
+        "role": "O",
+        "phonetic": "/ˈspiːʃiːz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "救助",
+    "english": "rescue",
+    "soundmark": "/ˈreskjuː/"
+  },
+  {
+    "chinese": "社会结构",
+    "english": "social structure",
+    "soundmark": "/ˈsoʊʃl/ /ˈstrʌktʃər/"
+  },
+  {
+    "chinese": "高度",
+    "english": "highly",
+    "soundmark": "/ˈhaɪli/"
+  },
+  {
+    "chinese": "完全",
+    "english": "fully",
+    "soundmark": "/ˈfʊli/"
+  },
+  {
+    "chinese": "复杂",
+    "english": "complex",
+    "soundmark": "/kəmˈpleks/"
+  },
+  {
+    "chinese": "暗示",
+    "english": "suggest",
+    "soundmark": "/səˈdʒest/"
+  },
+  {
+    "chinese": "海洋的",
+    "english": "marine",
+    "soundmark": "/məˈriːn/"
+  },
+  {
+    "chinese": "生态学",
+    "english": "ecology",
+    "soundmark": "/iˈkɑːlədʒi/"
+  },
+  {
+    "chinese": "发展的",
+    "english": "developed",
+    "soundmark": "/dɪˈveləpt/"
+  },
+  {
+    "chinese": "想象",
+    "english": "imagine",
+    "soundmark": "/ɪˈmædʒɪn/"
+  }
+]

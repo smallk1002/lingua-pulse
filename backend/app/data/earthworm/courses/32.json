@@ -1,0 +1,691 @@
+[
+  {
+    "chinese": "必须",
+    "english": "must",
+    "soundmark": "/mʌst/"
+  },
+  {
+    "chinese": "应该",
+    "english": "should",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "chinese": "禁止",
+    "english": "mustn't",
+    "soundmark": "/ˈmʌsnt/"
+  },
+  {
+    "chinese": "不应该",
+    "english": "shouldn't",
+    "soundmark": "/ˈʃʊdnt/"
+  },
+  {
+    "chinese": "你现在必须走。",
+    "english": "You must go now",
+    "soundmark": "/juː mʌst ɡoʊ naʊ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must go",
+        "role": "V",
+        "phonetic": "/mʌst ɡoʊ/",
+        "chinese": "必须/去"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该多喝水。",
+    "english": "You should drink more water",
+    "soundmark": "/juː ʃʊd drɪŋk mɔːr ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should drink",
+        "role": "V",
+        "phonetic": "/ʃʊd drɪŋk/",
+        "chinese": "应该/饮料"
+      },
+      {
+        "text": "more water",
+        "role": "O",
+        "phonetic": "/mɔːr ˈwɔːtər/",
+        "chinese": "更多/水"
+      }
+    ]
+  },
+  {
+    "chinese": "我们必须准时到达。",
+    "english": "We must arrive on time",
+    "soundmark": "/wiː mʌst əˈraɪv ɑːn taɪm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "must arrive",
+        "role": "V",
+        "phonetic": "/mʌst əˈraɪv/",
+        "chinese": "必须/到达"
+      },
+      {
+        "text": "on time",
+        "role": "A",
+        "phonetic": "/ɑːn taɪm/",
+        "chinese": "准时"
+      }
+    ]
+  },
+  {
+    "chinese": "你不应该抽烟。",
+    "english": "You shouldn't smoke",
+    "soundmark": "/juː ˈʃʊdnt smoʊk/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "shouldn't smoke",
+        "role": "V",
+        "phonetic": "/ˈʃʊdnt smoʊk/",
+        "chinese": "不应该/抽烟/烟"
+      }
+    ]
+  },
+  {
+    "chinese": "你绝对不能在这里停车。",
+    "english": "You mustn't park here",
+    "soundmark": "/juː ˈmʌsnt pɑːrk hɪr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "mustn't park",
+        "role": "V",
+        "phonetic": "/ˈmʌsnt pɑːrk/",
+        "chinese": "不可以/公园"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "我应该早点回家。",
+    "english": "I should go home early",
+    "soundmark": "/aɪ ʃʊd ɡoʊ hoʊm ˈɜːrli/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "should go",
+        "role": "V",
+        "phonetic": "/ʃʊd ɡoʊ/",
+        "chinese": "应该/去"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      }
+    ]
+  },
+  {
+    "chinese": "我必须完成这个报告。",
+    "english": "I must finish this report",
+    "soundmark": "/aɪ mʌst ˈfɪnɪʃ ðɪs rɪˈpɔːrt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "must finish",
+        "role": "V",
+        "phonetic": "/mʌst ˈfɪnɪʃ/",
+        "chinese": "必须/完成"
+      },
+      {
+        "text": "this report",
+        "role": "O",
+        "phonetic": "/ðɪs rɪˈpɔːrt/",
+        "chinese": "这个/报告"
+      }
+    ]
+  },
+  {
+    "chinese": "我们应该互相帮助。",
+    "english": "We should help each other",
+    "soundmark": "/wiː ʃʊd help iːtʃ ˈʌðər/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "should help",
+        "role": "V",
+        "phonetic": "/ʃʊd help/",
+        "chinese": "应该/帮助"
+      },
+      {
+        "text": "each other",
+        "role": "O",
+        "phonetic": "/iːtʃ ˈʌðər/",
+        "chinese": "彼此"
+      }
+    ]
+  },
+  {
+    "chinese": "我应该告诉她真相吗？",
+    "english": "Should I tell her the truth",
+    "soundmark": "/ʃʊd aɪ tel hɜːr ðə truːθ/",
+    "grammar": [
+      {
+        "text": "Should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "the truth",
+        "role": "O",
+        "phonetic": "/ðə truːθ/",
+        "chinese": "真相"
+      }
+    ]
+  },
+  {
+    "chinese": "你现在不应该出去。",
+    "english": "You shouldn't go out now",
+    "soundmark": "/juː ˈʃʊdnt ɡoʊ aʊt naʊ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "shouldn't go out",
+        "role": "V",
+        "phonetic": "/ˈʃʊdnt ɡoʊ aʊt/",
+        "chinese": "不应该/去/出去"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "孩子们现在必须上床睡觉。",
+    "english": "The children must go to bed now",
+    "soundmark": "/ðə ˈtʃɪldrən mʌst ɡoʊ tuː bed naʊ/",
+    "grammar": [
+      {
+        "text": "The children",
+        "role": "S",
+        "phonetic": "/ðə ˈtʃɪldrən/",
+        "chinese": "这个/那个/孩子们"
+      },
+      {
+        "text": "must go",
+        "role": "V",
+        "phonetic": "/mʌst ɡoʊ/",
+        "chinese": "必须/去"
+      },
+      {
+        "text": "to bed",
+        "role": "A",
+        "phonetic": "/tuː bed/",
+        "chinese": "睡觉"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该多锻炼。",
+    "english": "You should exercise more",
+    "soundmark": "/juː ʃʊd ˈeksərsaɪz mɔːr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should exercise",
+        "role": "V",
+        "phonetic": "/ʃʊd ˈeksərsaɪz/",
+        "chinese": "应该/练习"
+      },
+      {
+        "text": "more",
+        "role": "A",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      }
+    ]
+  },
+  {
+    "chinese": "你绝对不能对父母撒谎。",
+    "english": "You mustn't lie to your parents",
+    "soundmark": "/juː ˈmʌsnt laɪ tuː jɔːr ˈperənts/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "mustn't lie",
+        "role": "V",
+        "phonetic": "/ˈmʌsnt laɪ/",
+        "chinese": "不可以/躺/说谎"
+      },
+      {
+        "text": "to your parents",
+        "role": "A",
+        "phonetic": "/tuː jɔːr ˈperənts/",
+        "chinese": "到/向/你的/你们的/父母"
+      }
+    ]
+  },
+  {
+    "chinese": "你觉得我应该去吗？",
+    "english": "Do you think I should go",
+    "soundmark": "/duː juː θɪŋk aɪ ʃʊd ɡoʊ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "I should go",
+        "role": "O",
+        "phonetic": "/aɪ ʃʊd ɡoʊ/",
+        "chinese": "我/应该/去"
+      }
+    ]
+  },
+  {
+    "chinese": "我们必须小心。",
+    "english": "We must be careful",
+    "soundmark": "/wiː mʌst biː ˈkerfl/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "must be",
+        "role": "V",
+        "phonetic": "/mʌst biː/",
+        "chinese": "一定是"
+      },
+      {
+        "text": "careful",
+        "role": "C",
+        "phonetic": "/ˈkerfl/",
+        "chinese": "小心的"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该休息一下。",
+    "english": "You should take a break",
+    "soundmark": "/juː ʃʊd teɪk ə breɪk/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should take",
+        "role": "V",
+        "phonetic": "/ʃʊd teɪk/",
+        "chinese": "应该/拿/带"
+      },
+      {
+        "text": "a break",
+        "role": "O",
+        "phonetic": "/ə breɪk/",
+        "chinese": "一个/打破"
+      }
+    ]
+  },
+  {
+    "chinese": "你绝对不能酒后驾车。",
+    "english": "You mustn't drive after drinking",
+    "soundmark": "/juː ˈmʌsnt draɪv ˈæftər ˈdrɪŋkɪŋ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "mustn't drive",
+        "role": "V",
+        "phonetic": "/ˈmʌsnt draɪv/",
+        "chinese": "不可以/驾驶"
+      },
+      {
+        "text": "after drinking",
+        "role": "A",
+        "phonetic": "/ˈæftər ˈdrɪŋkɪŋ/",
+        "chinese": "在…之后/饮料"
+      }
+    ]
+  },
+  {
+    "chinese": "他不应该吃那么多糖。",
+    "english": "He shouldn't eat so much sugar",
+    "soundmark": "/hiː ˈʃʊdnt iːt soʊ mʌtʃ ˈʃʊɡər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "shouldn't eat",
+        "role": "V",
+        "phonetic": "/ˈʃʊdnt iːt/",
+        "chinese": "不应该/吃"
+      },
+      {
+        "text": "so much sugar",
+        "role": "O",
+        "phonetic": "/soʊ mʌtʃ ˈʃʊɡər/",
+        "chinese": "如此/所以/很多/糖"
+      }
+    ]
+  },
+  {
+    "chinese": "我们一生必须努力学习。",
+    "english": "We must study hard all our lives",
+    "soundmark": "/wiː mʌst ˈstʌdi hɑːrd ɔːl aʊr laɪvz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "must study",
+        "role": "V",
+        "phonetic": "/mʌst ˈstʌdi/",
+        "chinese": "必须/学习/研究"
+      },
+      {
+        "text": "hard",
+        "role": "A",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      },
+      {
+        "text": "all our lives",
+        "role": "A",
+        "phonetic": "/ɔːl aʊr laɪvz/",
+        "chinese": "所有的/我们的/…们/复数(生活/住)"
+      }
+    ]
+  },
+  {
+    "chinese": "你明天应该去看医生。",
+    "english": "You should see a doctor tomorrow",
+    "soundmark": "/juː ʃʊd siː ə ˈdɑːktər təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should see",
+        "role": "V",
+        "phonetic": "/ʃʊd siː/",
+        "chinese": "应该/看见"
+      },
+      {
+        "text": "a doctor",
+        "role": "O",
+        "phonetic": "/ə ˈdɑːktər/",
+        "chinese": "一名医生"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "这个我必须现在就做。",
+    "english": "I must do this right now",
+    "soundmark": "/aɪ mʌst duː ðɪs raɪt naʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "must do",
+        "role": "V",
+        "phonetic": "/mʌst duː/",
+        "chinese": "必须/做/助动词"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "right now",
+        "role": "A",
+        "phonetic": "/raɪt naʊ/",
+        "chinese": "现在/马上"
+      }
+    ]
+  },
+  {
+    "chinese": "我们应该尊重老人。",
+    "english": "We should respect the elderly",
+    "soundmark": "/wiː ʃʊd rɪˈspekt ðə ˈeldərli/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "should respect",
+        "role": "V",
+        "phonetic": "/ʃʊd rɪˈspekt/",
+        "chinese": "应该/尊重"
+      },
+      {
+        "text": "the elderly",
+        "role": "O",
+        "phonetic": "/ðə ˈeldərli/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我今天必须早点睡觉。",
+    "english": "I must go to bed early today",
+    "soundmark": "/aɪ mʌst ɡoʊ tuː bed ˈɜːrli təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "must go",
+        "role": "V",
+        "phonetic": "/mʌst ɡoʊ/",
+        "chinese": "必须/去"
+      },
+      {
+        "text": "to bed",
+        "role": "A",
+        "phonetic": "/tuː bed/",
+        "chinese": "睡觉"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "完成",
+    "english": "finish",
+    "soundmark": "/ˈfɪnɪʃ/"
+  },
+  {
+    "chinese": "锻炼",
+    "english": "exercise",
+    "soundmark": "/ˈeksərsaɪz/"
+  },
+  {
+    "chinese": "撒谎",
+    "english": "lie",
+    "soundmark": "/laɪ/"
+  },
+  {
+    "chinese": "小心",
+    "english": "careful",
+    "soundmark": "/ˈkerfl/"
+  },
+  {
+    "chinese": "尊重",
+    "english": "respect",
+    "soundmark": "/rɪˈspekt/"
+  },
+  {
+    "chinese": "休息",
+    "english": "break",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "chinese": "抽烟",
+    "english": "smoke",
+    "soundmark": "/smoʊk/"
+  },
+  {
+    "chinese": "停车",
+    "english": "park",
+    "soundmark": "/pɑːrk/"
+  }
+]

@@ -1,0 +1,856 @@
+[
+  {
+    "chinese": "银行",
+    "english": "bank",
+    "soundmark": "/bæŋk/"
+  },
+  {
+    "chinese": "账户",
+    "english": "account",
+    "soundmark": "/əˈkaʊnt/"
+  },
+  {
+    "chinese": "存款",
+    "english": "deposit",
+    "soundmark": "/dɪˈpɑːzɪt/"
+  },
+  {
+    "chinese": "取款",
+    "english": "withdraw",
+    "soundmark": "/wɪðˈdrɔː/"
+  },
+  {
+    "chinese": "货币",
+    "english": "currency",
+    "soundmark": "/ˈkɜːrənsi/"
+  },
+  {
+    "chinese": "兑换",
+    "english": "exchange",
+    "soundmark": "/ɪksˈtʃeɪndʒ/"
+  },
+  {
+    "chinese": "现金",
+    "english": "cash",
+    "soundmark": "/kæʃ/"
+  },
+  {
+    "chinese": "支票",
+    "english": "check",
+    "soundmark": "/tʃek/"
+  },
+  {
+    "chinese": "信用卡",
+    "english": "credit card",
+    "soundmark": "/ˈkredɪt kɑːrd/"
+  },
+  {
+    "chinese": "借记卡",
+    "english": "debit card",
+    "soundmark": "/ˈdebɪt kɑːrd/"
+  },
+  {
+    "chinese": "密码",
+    "english": "PIN",
+    "soundmark": "/pɪn/"
+  },
+  {
+    "chinese": "余额",
+    "english": "balance",
+    "soundmark": "/ˈbæləns/"
+  },
+  {
+    "chinese": "利息",
+    "english": "interest",
+    "soundmark": "/ˈɪntrəst/"
+  },
+  {
+    "chinese": "贷款",
+    "english": "loan",
+    "soundmark": "/loʊn/"
+  },
+  {
+    "chinese": "抵押贷款",
+    "english": "mortgage",
+    "soundmark": "/ˈmɔːrɡɪdʒ/"
+  },
+  {
+    "chinese": "出纳员",
+    "english": "teller",
+    "soundmark": "/ˈtelər/"
+  },
+  {
+    "chinese": "柜台",
+    "english": "counter",
+    "soundmark": "/ˈkaʊntər/"
+  },
+  {
+    "chinese": "表格",
+    "english": "form",
+    "soundmark": "/fɔːrm/"
+  },
+  {
+    "chinese": "身份证",
+    "english": "ID",
+    "soundmark": "/aɪ ˈdiː/"
+  },
+  {
+    "chinese": "护照",
+    "english": "passport",
+    "soundmark": "/ˈpæspɔːrt/"
+  },
+  {
+    "chinese": "汇率",
+    "english": "exchange rate",
+    "soundmark": "/ɪksˈtʃeɪndʒ reɪt/"
+  },
+  {
+    "chinese": "开户",
+    "english": "open an account",
+    "soundmark": "/ˈoʊpən ən əˈkaʊnt/"
+  },
+  {
+    "chinese": "存钱",
+    "english": "deposit money",
+    "soundmark": "/dɪˈpɑːzɪt ˈmʌni/"
+  },
+  {
+    "chinese": "取现金",
+    "english": "withdraw cash",
+    "soundmark": "/wɪðˈdrɔː kæʃ/"
+  },
+  {
+    "chinese": "换钱",
+    "english": "exchange currency",
+    "soundmark": "/ɪksˈtʃeɪndʒ ˈkɜːrənsi/"
+  },
+  {
+    "chinese": "签支票",
+    "english": "write a check",
+    "soundmark": "/raɪt ə tʃek/"
+  },
+  {
+    "chinese": "我想开户",
+    "english": "I would like to open an account",
+    "soundmark": "/aɪ wʊd laɪk tuː ˈoʊpən ən əˈkaʊnt/"
+  },
+  {
+    "chinese": "我想存一些钱",
+    "english": "I want to deposit some money",
+    "soundmark": "/aɪ wɑːnt tuː dɪˈpɑːzɪt sʌm ˈmʌni/"
+  },
+  {
+    "chinese": "我想从账户里取钱",
+    "english": "I want to withdraw some money from my account",
+    "soundmark": "/aɪ wɑːnt tuː wɪðˈdrɔː sʌm ˈmʌni frʌm maɪ əˈkaʊnt/"
+  },
+  {
+    "chinese": "我想开户",
+    "english": "I would like to open an account please",
+    "soundmark": "/aɪ wʊd laɪk tuː ˈoʊpən ən əˈkaʊnt pliːz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like to open",
+        "role": "V",
+        "phonetic": "/wʊd laɪk tuː ˈoʊpən/",
+        "chinese": "将会/喜欢/到/向/打开"
+      },
+      {
+        "text": "an account",
+        "role": "O",
+        "phonetic": "/ən əˈkaʊnt/",
+        "chinese": "一个"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "我想存五百美元",
+    "english": "I want to deposit five hundred dollars",
+    "soundmark": "/aɪ wɑːnt tuː dɪˈpɑːzɪt faɪv ˈhʌndrəd ˈdɑːlərz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want to deposit",
+        "role": "V",
+        "phonetic": "/wɑːnt tuː dɪˈpɑːzɪt/",
+        "chinese": "想要/到/向"
+      },
+      {
+        "text": "five hundred dollars",
+        "role": "O",
+        "phonetic": "/faɪv ˈhʌndrəd ˈdɑːlərz/",
+        "chinese": "五/百"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要从账户里取两百美元",
+    "english": "I need to withdraw two hundred dollars from my account",
+    "soundmark": "/aɪ niːd tuː wɪðˈdrɔː tuː ˈhʌndrəd ˈdɑːlərz frʌm maɪ əˈkaʊnt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need to withdraw",
+        "role": "V",
+        "phonetic": "/niːd tuː wɪðˈdrɔː/",
+        "chinese": "需要/到/向"
+      },
+      {
+        "text": "two hundred dollars",
+        "role": "O",
+        "phonetic": "/tuː ˈhʌndrəd ˈdɑːlərz/",
+        "chinese": "二/百"
+      },
+      {
+        "text": "from my account",
+        "role": "A",
+        "phonetic": "/frʌm maɪ əˈkaʊnt/",
+        "chinese": "从/来自/我的"
+      }
+    ]
+  },
+  {
+    "chinese": "请问你们接受信用卡吗",
+    "english": "Do you accept credit cards",
+    "soundmark": "/duː juː əkˈsept ˈkredɪt kɑːrdz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "accept",
+        "role": "V",
+        "phonetic": "/əkˈsept/",
+        "chinese": ""
+      },
+      {
+        "text": "credit cards",
+        "role": "O",
+        "phonetic": "/ˈkredɪt kɑːrdz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我想把美元兑换成英镑",
+    "english": "I would like to exchange dollars for pounds",
+    "soundmark": "/aɪ wʊd laɪk tuː ɪksˈtʃeɪndʒ ˈdɑːlərz fɔːr paʊndz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like to exchange",
+        "role": "V",
+        "phonetic": "/wʊd laɪk tuː ɪksˈtʃeɪndʒ/",
+        "chinese": "将会/喜欢/到/向"
+      },
+      {
+        "text": "dollars",
+        "role": "O",
+        "phonetic": "/ˈdɑːlərz/",
+        "chinese": ""
+      },
+      {
+        "text": "for pounds",
+        "role": "A",
+        "phonetic": "/fɔːr paʊndz/",
+        "chinese": "为了/对于"
+      }
+    ]
+  },
+  {
+    "chinese": "今天的汇率是多少",
+    "english": "What is the exchange rate today",
+    "soundmark": "/wʌt ɪz ði ɪksˈtʃeɪndʒ reɪt təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the exchange rate",
+        "role": "C",
+        "phonetic": "/ði ɪksˈtʃeɪndʒ reɪt/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "你能查一下我的账户余额吗",
+    "english": "Can you check my account balance",
+    "soundmark": "/kæn juː tʃek maɪ əˈkaʊnt ˈbæləns/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "check",
+        "role": "V",
+        "phonetic": "/tʃek/",
+        "chinese": "检查"
+      },
+      {
+        "text": "my account balance",
+        "role": "O",
+        "phonetic": "/maɪ əˈkaʊnt ˈbæləns/",
+        "chinese": "我的"
+      }
+    ]
+  },
+  {
+    "chinese": "我有足够的余额吗",
+    "english": "Do I have enough balance",
+    "soundmark": "/duː aɪ hæv ɪˈnʌf ˈbæləns/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "enough balance",
+        "role": "O",
+        "phonetic": "/ɪˈnʌf ˈbæləns/",
+        "chinese": "足够"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要填写这张表格吗",
+    "english": "Do I need to fill out this form",
+    "soundmark": "/duː aɪ niːd tuː fɪl aʊt ðɪs fɔːrm/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need to fill out",
+        "role": "V",
+        "phonetic": "/niːd tuː fɪl aʊt/",
+        "chinese": "需要/到/向/填满/出去"
+      },
+      {
+        "text": "this form",
+        "role": "O",
+        "phonetic": "/ðɪs fɔːrm/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要带什么证件",
+    "english": "What documents do I need to bring",
+    "soundmark": "/wʌt ˈdɑːkjumənts duː aɪ niːd tuː brɪŋ/",
+    "grammar": [
+      {
+        "text": "What documents",
+        "role": "O",
+        "phonetic": "/wʌt ˈdɑːkjumənts/",
+        "chinese": "什么"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need to bring",
+        "role": "V",
+        "phonetic": "/niːd tuː brɪŋ/",
+        "chinese": "需要/到/向/带来"
+      }
+    ]
+  },
+  {
+    "chinese": "请出示您的护照或身份证",
+    "english": "Please show your passport or ID",
+    "soundmark": "/pliːz ʃoʊ jɔːr ˈpæspɔːrt ɔːr aɪ ˈdiː/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "show",
+        "role": "V",
+        "phonetic": "/ʃoʊ/",
+        "chinese": "展示"
+      },
+      {
+        "text": "your passport or ID",
+        "role": "O",
+        "phonetic": "/jɔːr ˈpæspɔːrt ɔːr aɪ ˈdiː/",
+        "chinese": "你的/你们的/或者"
+      }
+    ]
+  },
+  {
+    "chinese": "柜台在那边",
+    "english": "The counter is over there",
+    "soundmark": "/ðə ˈkaʊntər ɪz ˈoʊvər ðer/",
+    "grammar": [
+      {
+        "text": "The counter",
+        "role": "S",
+        "phonetic": "/ðə ˈkaʊntər/",
+        "chinese": "这个/那个/更…的/…者(数)"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "over there",
+        "role": "C",
+        "phonetic": "/ˈoʊvər ðer/",
+        "chinese": "在…上方/那里"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我开支票吗",
+    "english": "Can you help me write a check",
+    "soundmark": "/kæn juː help miː raɪt ə tʃek/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "write a check",
+        "role": "O",
+        "phonetic": "/raɪt ə tʃek/",
+        "chinese": "写/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "请问利息是多少",
+    "english": "What is the interest rate please",
+    "soundmark": "/wʌt ɪz ði ˈɪntrəst reɪt pliːz/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the interest rate",
+        "role": "C",
+        "phonetic": "/ði ˈɪntrəst reɪt/",
+        "chinese": "这个/那个/兴趣/利息"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以申请贷款吗",
+    "english": "Can I apply for a loan",
+    "soundmark": "/kæn aɪ əˈplaɪ fɔːr ə loʊn/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "apply for",
+        "role": "V",
+        "phonetic": "/əˈplaɪ fɔːr/",
+        "chinese": "申请/应用/为了/对于"
+      },
+      {
+        "text": "a loan",
+        "role": "O",
+        "phonetic": "/ə loʊn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我想还清我的贷款",
+    "english": "I want to pay off my loan",
+    "soundmark": "/aɪ wɑːnt tuː peɪ ɔːf maɪ loʊn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want to pay off",
+        "role": "V",
+        "phonetic": "/wɑːnt tuː peɪ ɔːf/",
+        "chinese": "想要/到/向/付钱/离开/关"
+      },
+      {
+        "text": "my loan",
+        "role": "O",
+        "phonetic": "/maɪ loʊn/",
+        "chinese": "我的"
+      }
+    ]
+  },
+  {
+    "chinese": "您有储蓄账户吗",
+    "english": "Do you have a savings account",
+    "soundmark": "/duː juː hæv ə ˈseɪvɪŋz əˈkaʊnt/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a savings account",
+        "role": "O",
+        "phonetic": "/ə ˈseɪvɪŋz əˈkaʊnt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我想开一个储蓄账户",
+    "english": "I would like to open a savings account",
+    "soundmark": "/aɪ wʊd laɪk tuː ˈoʊpən ə ˈseɪvɪŋz əˈkaʊnt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like to open",
+        "role": "V",
+        "phonetic": "/wʊd laɪk tuː ˈoʊpən/",
+        "chinese": "将会/喜欢/到/向/打开"
+      },
+      {
+        "text": "a savings account",
+        "role": "O",
+        "phonetic": "/ə ˈseɪvɪŋz əˈkaʊnt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "银行几点关门",
+    "english": "What time does the bank close",
+    "soundmark": "/wʌt taɪm dʌz ðə bæŋk kloʊz/",
+    "grammar": [
+      {
+        "text": "What time",
+        "role": "A",
+        "phonetic": "/wʌt taɪm/",
+        "chinese": "几点"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "the bank",
+        "role": "S",
+        "phonetic": "/ðə bæŋk/",
+        "chinese": "这个/那个/银行"
+      },
+      {
+        "text": "close",
+        "role": "V",
+        "phonetic": "/kloʊz/",
+        "chinese": "关闭"
+      }
+    ]
+  },
+  {
+    "chinese": "自动取款机在哪里",
+    "english": "Where is the ATM",
+    "soundmark": "/wer ɪz ði ˌeɪˌtiːˈem/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the ATM",
+        "role": "S",
+        "phonetic": "/ði ˌeɪˌtiːˈem/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我的卡被吞了",
+    "english": "My card has been swallowed",
+    "soundmark": "/maɪ kɑːrd hæz biːn ˈswɑːloʊd/",
+    "grammar": [
+      {
+        "text": "My card",
+        "role": "S",
+        "phonetic": "/maɪ kɑːrd/",
+        "chinese": "我的"
+      },
+      {
+        "text": "has been swallowed",
+        "role": "V",
+        "phonetic": "/hæz biːn ˈswɑːloʊd/",
+        "chinese": "有/助动词/是（过去分词）/吞咽"
+      }
+    ]
+  },
+  {
+    "chinese": "自动取款机出故障了",
+    "english": "The ATM is out of service",
+    "soundmark": "/ði ˌeɪˌtiːˈem ɪz aʊt ʌv ˈsɜːrvɪs/",
+    "grammar": [
+      {
+        "text": "The ATM",
+        "role": "S",
+        "phonetic": "/ði ˌeɪˌtiːˈem/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "out of service",
+        "role": "C",
+        "phonetic": "/aʊt ʌv ˈsɜːrvɪs/",
+        "chinese": "出去/…的/服务"
+      }
+    ]
+  },
+  {
+    "chinese": "请在这里签名",
+    "english": "Please sign here",
+    "soundmark": "/pliːz saɪn hɪr/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "sign",
+        "role": "V",
+        "phonetic": "/saɪn/",
+        "chinese": "签名"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "储蓄",
+    "english": "savings",
+    "soundmark": "/ˈseɪvɪŋz/"
+  },
+  {
+    "chinese": "还清",
+    "english": "pay off",
+    "soundmark": "/peɪ ɔːf/"
+  },
+  {
+    "chinese": "申请",
+    "english": "apply for",
+    "soundmark": "/əˈplaɪ fɔːr/"
+  },
+  {
+    "chinese": "吞卡",
+    "english": "swallow",
+    "soundmark": "/ˈswɑːloʊ/"
+  },
+  {
+    "chinese": "故障",
+    "english": "out of service",
+    "soundmark": "/aʊt ʌv ˈsɜːrvɪs/"
+  },
+  {
+    "chinese": "签名",
+    "english": "sign",
+    "soundmark": "/saɪn/"
+  },
+  {
+    "chinese": "自动取款机",
+    "english": "ATM",
+    "soundmark": "/ˌeɪˌtiːˈem/"
+  },
+  {
+    "chinese": "证件",
+    "english": "documents",
+    "soundmark": "/ˈdɑːkjumənts/"
+  },
+  {
+    "chinese": "英镑",
+    "english": "pound",
+    "soundmark": "/paʊnd/"
+  },
+  {
+    "chinese": "足够的",
+    "english": "enough",
+    "soundmark": "/ɪˈnʌf/"
+  }
+]

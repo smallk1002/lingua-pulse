@@ -1,0 +1,697 @@
+[
+  {
+    "chinese": "工作",
+    "english": "job",
+    "soundmark": "/dʒɑːb/"
+  },
+  {
+    "chinese": "职业",
+    "english": "occupation",
+    "soundmark": "/ˌɑːkjuˈpeɪʃən/"
+  },
+  {
+    "chinese": "医生",
+    "english": "doctor",
+    "soundmark": "/ˈdɑːktər/"
+  },
+  {
+    "chinese": "护士",
+    "english": "nurse",
+    "soundmark": "/nɜːrs/"
+  },
+  {
+    "chinese": "牙医",
+    "english": "dentist",
+    "soundmark": "/ˈdentɪst/"
+  },
+  {
+    "chinese": "工程师",
+    "english": "engineer",
+    "soundmark": "/ˌendʒɪˈnɪr/"
+  },
+  {
+    "chinese": "警察",
+    "english": "policeman",
+    "soundmark": "/pəˈliːsmən/"
+  },
+  {
+    "chinese": "消防员",
+    "english": "fireman",
+    "soundmark": "/ˈfaɪərmən/"
+  },
+  {
+    "chinese": "邮递员",
+    "english": "postman",
+    "soundmark": "/ˈpoʊstmən/"
+  },
+  {
+    "chinese": "飞行员",
+    "english": "pilot",
+    "soundmark": "/ˈpaɪlət/"
+  },
+  {
+    "chinese": "空姐",
+    "english": "air hostess",
+    "soundmark": "/er/ /ˈhoʊstəs/"
+  },
+  {
+    "chinese": "出租车司机",
+    "english": "taxi driver",
+    "soundmark": "/ˈtæksi/ /ˈdraɪvər/"
+  },
+  {
+    "chinese": "公交车司机",
+    "english": "bus driver",
+    "soundmark": "/bʌs/ /ˈdraɪvər/"
+  },
+  {
+    "chinese": "理发师",
+    "english": "hairdresser",
+    "soundmark": "/ˈherdresər/"
+  },
+  {
+    "chinese": "技工",
+    "english": "mechanic",
+    "soundmark": "/məˈkænɪk/"
+  },
+  {
+    "chinese": "面包师",
+    "english": "baker",
+    "soundmark": "/ˈbeɪkər/"
+  },
+  {
+    "chinese": "屠夫",
+    "english": "butcher",
+    "soundmark": "/ˈbʊtʃər/"
+  },
+  {
+    "chinese": "杂货商",
+    "english": "grocer",
+    "soundmark": "/ˈɡroʊsər/"
+  },
+  {
+    "chinese": "销售人员",
+    "english": "sales rep",
+    "soundmark": "/seɪlz/ /rep/"
+  },
+  {
+    "chinese": "办公室职员",
+    "english": "office worker",
+    "soundmark": "/ˈɔːfɪs/ /ˈwɜːrkər/"
+  },
+  {
+    "chinese": "你的工作是什么",
+    "english": "What is your job",
+    "soundmark": "/wʌt/ /ɪz/ /jɔːr/ /dʒɑːb/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "job",
+        "role": "C",
+        "phonetic": "/dʒɑːb/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "我是一名牙医",
+    "english": "I am a dentist",
+    "soundmark": "/aɪ/ /æm/ /ə/ /ˈdentɪst/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "dentist",
+        "role": "C",
+        "phonetic": "/ˈdentɪst/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他是消防员吗",
+    "english": "Is he a fireman",
+    "soundmark": "/ɪz/ /hiː/ /ə/ /ˈfaɪərmən/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fireman",
+        "role": "C",
+        "phonetic": "/ˈfaɪərmən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她是一名空姐",
+    "english": "She is an air hostess",
+    "soundmark": "/ʃiː/ /ɪz/ /ən/ /er/ /ˈhoʊstəs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "air",
+        "role": "C",
+        "phonetic": "/er/",
+        "chinese": "空气"
+      },
+      {
+        "text": "hostess",
+        "role": "C",
+        "phonetic": "/ˈhoʊstəs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我妹妹是理发师",
+    "english": "My sister is a hairdresser",
+    "soundmark": "/maɪ/ /ˈsɪstər/ /ɪz/ /ə/ /ˈherdresər/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "sister",
+        "role": "S",
+        "phonetic": "/ˈsɪstər/",
+        "chinese": "姐妹"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "hairdresser",
+        "role": "C",
+        "phonetic": "/ˈherdresər/",
+        "chinese": "理发师"
+      }
+    ]
+  },
+  {
+    "chinese": "你做什么工作我是一名技工",
+    "english": "What do you do I am a mechanic",
+    "soundmark": "/wʌt/ /duː/ /juː/ /duː/ /aɪ/ /æm/ /ə/ /məˈkænɪk/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "mechanic",
+        "role": "C",
+        "phonetic": "/məˈkænɪk/",
+        "chinese": "机械师"
+      }
+    ]
+  },
+  {
+    "chinese": "他不是公交车司机他是出租车司机",
+    "english": "He is not a bus driver he is a taxi driver",
+    "soundmark": "/hiː/ /ɪz/ /nɑːt/ /ə/ /bʌs/ /ˈdraɪvər/ /hiː/ /ɪz/ /ə/ /ˈtæksi/ /ˈdraɪvər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bus",
+        "role": "C",
+        "phonetic": "/bʌs/",
+        "chinese": "公交车"
+      },
+      {
+        "text": "driver",
+        "role": "C",
+        "phonetic": "/ˈdraɪvər/",
+        "chinese": "司机"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "taxi",
+        "role": "C",
+        "phonetic": "/ˈtæksi/",
+        "chinese": "出租车"
+      },
+      {
+        "text": "driver",
+        "role": "C",
+        "phonetic": "/ˈdraɪvər/",
+        "chinese": "司机"
+      }
+    ]
+  },
+  {
+    "chinese": "我父亲是面包师我母亲是护士",
+    "english": "My father is a baker and my mother is a nurse",
+    "soundmark": "/maɪ/ /ˈfɑːðər/ /ɪz/ /ə/ /ˈbeɪkər/ /ænd/ /maɪ/ /ˈmʌðər/ /ɪz/ /ə/ /nɜːrs/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "father",
+        "role": "S",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "baker",
+        "role": "C",
+        "phonetic": "/ˈbeɪkər/",
+        "chinese": "面包师"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "mother",
+        "role": "S",
+        "phonetic": "/ˈmʌðər/",
+        "chinese": "母亲"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "nurse",
+        "role": "C",
+        "phonetic": "/nɜːrs/",
+        "chinese": "护士"
+      }
+    ]
+  },
+  {
+    "chinese": "附近的杂货商是一个很好的人",
+    "english": "The grocer near here is a very nice man",
+    "soundmark": "/ðə/ /ˈɡroʊsər/ /nɪr/ /hɪr/ /ɪz/ /ə/ /ˈveri/ /naɪs/ /mæn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "grocer",
+        "role": "S",
+        "phonetic": "/ˈɡroʊsər/",
+        "chinese": "杂货商"
+      },
+      {
+        "text": "near",
+        "role": "P",
+        "phonetic": "/nɪr/",
+        "chinese": "在…附近"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "man",
+        "role": "C",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      }
+    ]
+  },
+  {
+    "chinese": "你在哪里工作我在一家医院工作",
+    "english": "Where do you work I work in a hospital",
+    "soundmark": "/wer/ /duː/ /juː/ /wɜːrk/ /aɪ/ /wɜːrk/ /ɪn/ /ə/ /ˈhɑːspɪtəl/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "hospital",
+        "role": "O",
+        "phonetic": "/ˈhɑːspɪtəl/",
+        "chinese": "医院"
+      }
+    ]
+  },
+  {
+    "chinese": "他是一家公司的销售代表",
+    "english": "He is a sales rep at a company",
+    "soundmark": "/hiː/ /ɪz/ /ə/ /seɪlz/ /rep/ /æt/ /ə/ /ˈkʌmpəni/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "sales",
+        "role": "C",
+        "phonetic": "/seɪlz/",
+        "chinese": ""
+      },
+      {
+        "text": "rep",
+        "role": "C",
+        "phonetic": "/rep/",
+        "chinese": ""
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "company",
+        "role": "O",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      }
+    ]
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɑːspɪtəl/"
+  },
+  {
+    "chinese": "公司",
+    "english": "company",
+    "soundmark": "/ˈkʌmpəni/"
+  },
+  {
+    "chinese": "妹妹",
+    "english": "sister",
+    "soundmark": "/ˈsɪstər/"
+  },
+  {
+    "chinese": "附近",
+    "english": "near",
+    "soundmark": "/nɪr/"
+  },
+  {
+    "chinese": "工作",
+    "english": "work",
+    "soundmark": "/wɜːrk/"
+  },
+  {
+    "chinese": "和",
+    "english": "and",
+    "soundmark": "/ænd/"
+  },
+  {
+    "chinese": "在",
+    "english": "at",
+    "soundmark": "/æt/"
+  },
+  {
+    "chinese": "男人",
+    "english": "man",
+    "soundmark": "/mæn/"
+  },
+  {
+    "chinese": "女人",
+    "english": "woman",
+    "soundmark": "/ˈwʊmən/"
+  },
+  {
+    "chinese": "人",
+    "english": "person",
+    "soundmark": "/ˈpɜːrsən/"
+  }
+]

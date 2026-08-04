@@ -1,0 +1,286 @@
+[
+  {
+    "english": "taxi",
+    "chinese": "出租车",
+    "soundmark": "/ˈtæksi/"
+  },
+  {
+    "english": "home",
+    "chinese": "家",
+    "soundmark": "/hoʊm/"
+  },
+  {
+    "english": "driver",
+    "chinese": "司机",
+    "soundmark": "/ˈdraɪvər/"
+  },
+  {
+    "english": "meter",
+    "chinese": "计价器",
+    "soundmark": "/ˈmiːtər/"
+  },
+  {
+    "english": "fare",
+    "chinese": "车费",
+    "soundmark": "/fer/"
+  },
+  {
+    "english": "tip",
+    "chinese": "小费",
+    "soundmark": "/tɪp/"
+  },
+  {
+    "chinese": "我打车回家",
+    "english": "I took a taxi home",
+    "soundmark": "/aɪ tʊk ə ˈtæksi hoʊm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "taxi",
+        "role": "O",
+        "phonetic": "/ˈtæksi/",
+        "chinese": "出租车"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "司机按计价器收费",
+    "english": "The driver charged according to the meter",
+    "soundmark": "/ðə ˈdraɪvər ˈtʃɑːrdʒd əˈkɔːrdɪŋ tə ðə ˈmiːtər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "driver",
+        "role": "S",
+        "phonetic": "/ˈdraɪvər/",
+        "chinese": "司机"
+      },
+      {
+        "text": "charged",
+        "role": "V",
+        "phonetic": "/ˈtʃɑːrdʒd/",
+        "chinese": ""
+      },
+      {
+        "text": "according",
+        "role": "Adv",
+        "phonetic": "/əˈkɔːrdɪŋ/",
+        "chinese": "根据"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meter",
+        "role": "O",
+        "phonetic": "/ˈmiːtər/",
+        "chinese": "更…的/…者(遇见（过去式）)"
+      }
+    ]
+  },
+  {
+    "chinese": "我给了司机一些小费",
+    "english": "I gave the driver a tip",
+    "soundmark": "/aɪ geɪv ðə ˈdraɪvər ə tɪp/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "gave",
+        "role": "V",
+        "phonetic": "/geɪv/",
+        "chinese": "给（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "driver",
+        "role": "O",
+        "phonetic": "/ˈdraɪvər/",
+        "chinese": "司机"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "tip",
+        "role": "O",
+        "phonetic": "/tɪp/",
+        "chinese": "小费/提示"
+      }
+    ]
+  },
+  {
+    "chinese": "车费比我预期的要贵",
+    "english": "The fare was more expensive than I expected",
+    "soundmark": "/ðə fer wʌz mɔːr ɪkˈspensɪv ðæn aɪ ɪkˈspektɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fare",
+        "role": "S",
+        "phonetic": "/fer/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "expensive",
+        "role": "C",
+        "phonetic": "/ɪkˈspensɪv/",
+        "chinese": "昂贵的"
+      },
+      {
+        "text": "than",
+        "role": "Conj",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "expected",
+        "role": "V",
+        "phonetic": "/ɪkˈspektɪd/",
+        "chinese": "预期的"
+      }
+    ]
+  },
+  {
+    "chinese": "到家时已经很晚了",
+    "english": "It was very late when I got home",
+    "soundmark": "/ɪt wʌz ˈveri leɪt wen aɪ gɑːt hoʊm/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      },
+      {
+        "text": "when",
+        "role": "Conj",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "got",
+        "role": "V",
+        "phonetic": "/gɑːt/",
+        "chinese": "得到（过去式）"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "english": "traffic",
+    "chinese": "交通",
+    "soundmark": "/ˈtræfɪk/"
+  },
+  {
+    "english": "rush hour",
+    "chinese": "高峰期",
+    "soundmark": "/rʌʃ ˈaʊər/"
+  },
+  {
+    "english": "passenger",
+    "chinese": "乘客",
+    "soundmark": "/ˈpæsɪndʒər/"
+  }
+]

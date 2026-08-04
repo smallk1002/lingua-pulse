@@ -1,0 +1,462 @@
+[
+  {
+    "chinese": "除了",
+    "english": "except",
+    "soundmark": "/ɪkˈsept/"
+  },
+  {
+    "chinese": "抱怨",
+    "english": "complain",
+    "soundmark": "/kəmˈpleɪn/"
+  },
+  {
+    "chinese": "阳光",
+    "english": "sunshine",
+    "soundmark": "/ˈsʌnʃaɪn/"
+  },
+  {
+    "chinese": "定居",
+    "english": "settle",
+    "soundmark": "/ˈsetl/"
+  },
+  {
+    "chinese": "不断地",
+    "english": "continually",
+    "soundmark": "/kənˈtɪnjuəli/"
+  },
+  {
+    "chinese": "苦的",
+    "english": "bitter",
+    "soundmark": "/ˈbɪtər/"
+  },
+  {
+    "chinese": "他的朋友",
+    "english": "his friend",
+    "soundmark": "/hɪz frend/"
+  },
+  {
+    "chinese": "地中海",
+    "english": "the Mediterranean",
+    "soundmark": "/ðə ˌmedɪtəˈreɪniən/"
+  },
+  {
+    "chinese": "他以前从未见过大海。",
+    "english": "He had never seen the sea before",
+    "soundmark": "/hiː hæd ˈnevər siːn ðə siː bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had never seen",
+        "role": "V",
+        "phonetic": "/hæd ˈnevər siːn/",
+        "chinese": "有/助动词（过去式）/从不/看见（过去分词）"
+      },
+      {
+        "text": "the sea",
+        "role": "O",
+        "phonetic": "/ðə siː/",
+        "chinese": "这个/那个/海"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "我到家时她已经离开了。",
+    "english": "She had already left when I got home",
+    "soundmark": "/ʃiː hæd ɔːlˈredi left wen aɪ ɡɑːt hoʊm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had already left",
+        "role": "V",
+        "phonetic": "/hæd ɔːlˈredi left/",
+        "chinese": "有/助动词（过去式）/已经/左边的"
+      },
+      {
+        "text": "when I got home",
+        "role": "A",
+        "phonetic": "/wen aɪ ɡɑːt hoʊm/",
+        "chinese": "什么时候/我/得到（过去式）/家"
+      }
+    ]
+  },
+  {
+    "chinese": "他以前从未来过中国。",
+    "english": "He had never been to China before",
+    "soundmark": "/hiː hæd ˈnevər biːn tuː ˈtʃaɪnə bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had never been",
+        "role": "V",
+        "phonetic": "/hæd ˈnevər biːn/",
+        "chinese": "有/助动词（过去式）/从不/是（过去分词）"
+      },
+      {
+        "text": "to China",
+        "role": "A",
+        "phonetic": "/tuː ˈtʃaɪnə/",
+        "chinese": "到/向/中国"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "雨停之后我们就出去了。",
+    "english": "After the rain had stopped we went out",
+    "soundmark": "/ˈæftər ðə reɪn hæd stɑːpt wiː went aʊt/",
+    "grammar": [
+      {
+        "text": "After the rain had stopped",
+        "role": "A",
+        "phonetic": "/ˈæftər ðə reɪn hæd stɑːpt/",
+        "chinese": "在…之后/这个/那个/雨/有/助动词（过去式）/停止（过去式）"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "went out",
+        "role": "V",
+        "phonetic": "/went aʊt/",
+        "chinese": "去（过去式）/出去"
+      }
+    ]
+  },
+  {
+    "chinese": "他说他从来没有抱怨过天气。",
+    "english": "He said he had never complained about the weather",
+    "soundmark": "/hiː sed hiː hæd ˈnevər kəmˈpleɪnd əˈbaʊt ðə ˈweðər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "he had never complained about the weather",
+        "role": "O",
+        "phonetic": "/hiː hæd ˈnevər kəmˈpleɪnd əˈbaʊt ðə ˈweðər/",
+        "chinese": "他/有/助动词（过去式）/从不/关于/大约/这个/那个/天气"
+      }
+    ]
+  },
+  {
+    "chinese": "他已经在乡下定居了。",
+    "english": "He had already settled in the countryside",
+    "soundmark": "/hiː hæd ɔːlˈredi ˈsetld ɪn ðə ˈkʌntrisaɪd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had already settled",
+        "role": "V",
+        "phonetic": "/hæd ɔːlˈredi ˈsetld/",
+        "chinese": "有/助动词（过去式）/已经"
+      },
+      {
+        "text": "in the countryside",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈkʌntrisaɪd/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我看电影之前已经读过那本书了。",
+    "english": "I had read the book before I saw the film",
+    "soundmark": "/aɪ hæd red ðə bʊk bɪˈfɔːr aɪ sɔː ðə fɪlm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had read",
+        "role": "V",
+        "phonetic": "/hæd red/",
+        "chinese": "有/助动词（过去式）/读（过去式/过去分词）"
+      },
+      {
+        "text": "the book",
+        "role": "O",
+        "phonetic": "/ðə bʊk/",
+        "chinese": "这个/那个/预订/书"
+      },
+      {
+        "text": "before I saw the film",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr aɪ sɔː ðə fɪlm/",
+        "chinese": "在…之前/我/看见（过去式）/这个/那个/电影"
+      }
+    ]
+  },
+  {
+    "chinese": "他抱怨说阳光太强了。",
+    "english": "He complained that the sun was too strong",
+    "soundmark": "/hiː kəmˈpleɪnd ðæt ðə sʌn wʌz tuː strɔːŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "complained",
+        "role": "V",
+        "phonetic": "/kəmˈpleɪnd/",
+        "chinese": ""
+      },
+      {
+        "text": "that the sun was too strong",
+        "role": "O",
+        "phonetic": "/ðæt ðə sʌn wʌz tuː strɔːŋ/",
+        "chinese": "那个/这个/那个/太阳/是（过去式）/也/太/强壮的"
+      }
+    ]
+  },
+  {
+    "chinese": "他还没来得及回答我的问题就走了。",
+    "english": "He had left before he could answer my question",
+    "soundmark": "/hiː hæd left bɪˈfɔːr hiː kʊd ˈænsər maɪ ˈkwestʃən/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had left",
+        "role": "V",
+        "phonetic": "/hæd left/",
+        "chinese": "有/助动词（过去式）/左边的"
+      },
+      {
+        "text": "before he could answer my question",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr hiː kʊd ˈænsər maɪ ˈkwestʃən/",
+        "chinese": "在…之前/他/可以/能（过去式）/回答/我的/问题"
+      }
+    ]
+  },
+  {
+    "chinese": "等他到的时候公交车已经开走了。",
+    "english": "By the time he arrived the bus had gone",
+    "soundmark": "/baɪ ðə taɪm hiː əˈraɪvd ðə bʌs hæd ɡɔːn/",
+    "grammar": [
+      {
+        "text": "By the time he arrived",
+        "role": "A",
+        "phonetic": "/baɪ ðə taɪm hiː əˈraɪvd/",
+        "chinese": "通过/被/在…旁/这个/那个/时间/他/到达"
+      },
+      {
+        "text": "the bus",
+        "role": "S",
+        "phonetic": "/ðə bʌs/",
+        "chinese": "公交车"
+      },
+      {
+        "text": "had gone",
+        "role": "V",
+        "phonetic": "/hæd ɡɔːn/",
+        "chinese": "有/助动词（过去式）/去（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "除了天气他对一切都满意。",
+    "english": "He was satisfied with everything except the weather",
+    "soundmark": "/hiː wʌz ˈsætɪsfaɪd wɪð ˈevriθɪŋ ɪkˈsept ðə ˈweðər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "satisfied",
+        "role": "C",
+        "phonetic": "/ˈsætɪsfaɪd/",
+        "chinese": "满意的"
+      },
+      {
+        "text": "with everything except the weather",
+        "role": "A",
+        "phonetic": "/wɪð ˈevriθɪŋ ɪkˈsept ðə ˈweðər/",
+        "chinese": "和/用/一切/这个/那个/天气"
+      }
+    ]
+  },
+  {
+    "chinese": "他搬到那里之后才发现不喜欢。",
+    "english": "After he had moved there he found he did not like it",
+    "soundmark": "/ˈæftər hiː hæd muːvd ðer hiː faʊnd hiː dɪd nɑːt laɪk ɪt/",
+    "grammar": [
+      {
+        "text": "After he had moved there",
+        "role": "A",
+        "phonetic": "/ˈæftər hiː hæd muːvd ðer/",
+        "chinese": "在…之后/他/有/助动词（过去式）/移动/那里"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "he did not like it",
+        "role": "O",
+        "phonetic": "/hiː dɪd nɑːt laɪk ɪt/",
+        "chinese": "他/做/助动词（过去式）/不/喜欢/它"
+      }
+    ]
+  },
+  {
+    "chinese": "他不断地抱怨交通状况。",
+    "english": "He continually complained about the traffic",
+    "soundmark": "/hiː kənˈtɪnjuəli kəmˈpleɪnd əˈbaʊt ðə ˈtræfɪk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "continually complained",
+        "role": "V",
+        "phonetic": "/kənˈtɪnjuəli kəmˈpleɪnd/",
+        "chinese": ""
+      },
+      {
+        "text": "about the traffic",
+        "role": "A",
+        "phonetic": "/əˈbaʊt ðə ˈtræfɪk/",
+        "chinese": "关于/大约/这个/那个/交通"
+      }
+    ]
+  },
+  {
+    "chinese": "他说他已经在海边买了一栋房子。",
+    "english": "He said he had already bought a house by the sea",
+    "soundmark": "/hiː sed hiː hæd ɔːlˈredi bɔːt ə haʊs baɪ ðə siː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "he had already bought a house by the sea",
+        "role": "O",
+        "phonetic": "/hiː hæd ɔːlˈredi bɔːt ə haʊs baɪ ðə siː/",
+        "chinese": "他/有/助动词（过去式）/已经/买（过去式）/一个/房子/通过/被/在…旁/这个/那个/海"
+      }
+    ]
+  },
+  {
+    "chinese": "满意的",
+    "english": "satisfied",
+    "soundmark": "/ˈsætɪsfaɪd/"
+  },
+  {
+    "chinese": "乡下",
+    "english": "countryside",
+    "soundmark": "/ˈkʌntrisaɪd/"
+  },
+  {
+    "chinese": "回答",
+    "english": "answer",
+    "soundmark": "/ˈænsər/"
+  },
+  {
+    "chinese": "交通",
+    "english": "traffic",
+    "soundmark": "/ˈtræfɪk/"
+  },
+  {
+    "chinese": "电影",
+    "english": "film",
+    "soundmark": "/fɪlm/"
+  },
+  {
+    "chinese": "搬家",
+    "english": "move",
+    "soundmark": "/muːv/"
+  },
+  {
+    "chinese": "强壮",
+    "english": "strong",
+    "soundmark": "/strɔːŋ/"
+  },
+  {
+    "chinese": "买",
+    "english": "buy",
+    "soundmark": "/baɪ/"
+  }
+]

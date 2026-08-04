@@ -1,0 +1,343 @@
+[
+  {
+    "chinese": "实事求是",
+    "english": "mud is mud",
+    "soundmark": "/mʌd ɪz mʌd/"
+  },
+  {
+    "chinese": "事实",
+    "english": "fact",
+    "soundmark": "/fækt/"
+  },
+  {
+    "chinese": "证据",
+    "english": "proof",
+    "soundmark": "/pruːf/"
+  },
+  {
+    "chinese": "真相",
+    "english": "truth",
+    "soundmark": "/truːθ/"
+  },
+  {
+    "chinese": "否认",
+    "english": "deny",
+    "soundmark": "/dɪˈnaɪ/"
+  },
+  {
+    "chinese": "承认",
+    "english": "admit",
+    "soundmark": "/ədˈmɪt/"
+  },
+  {
+    "chinese": "欺骗",
+    "english": "deceive",
+    "soundmark": "/dɪˈsiːv/"
+  },
+  {
+    "chinese": "可靠的",
+    "english": "reliable",
+    "soundmark": "/rɪˈlaɪəbəl/"
+  },
+  {
+    "chinese": "正是...",
+    "english": "it is...that",
+    "soundmark": "/ɪt ɪz ðæt/"
+  },
+  {
+    "chinese": "正是我做的。",
+    "english": "It was I who did it",
+    "soundmark": "/ɪt wʌz aɪ huː dɪd ɪt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "C",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "正是真相最终会大白。",
+    "english": "It is the truth that will come out in the end",
+    "soundmark": "/ɪt ɪz ðə truːθ ðæt wɪl kʌm aʊt ɪn ði end/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "truth",
+        "role": "C",
+        "phonetic": "/truːθ/",
+        "chinese": "真相"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "end",
+        "role": "A",
+        "phonetic": "/end/",
+        "chinese": "结束"
+      }
+    ]
+  },
+  {
+    "chinese": "正是证据让他的故事站不住脚。",
+    "english": "It was the evidence that made his story fall apart",
+    "soundmark": "/ɪt wʌz ði ˈevɪdəns ðæt meɪd hɪz ˈstɔːri fɔːl əˈpɑːrt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "evidence",
+        "role": "C",
+        "phonetic": "/ˈevɪdəns/",
+        "chinese": "证据"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "story",
+        "role": "S",
+        "phonetic": "/ˈstɔːri/",
+        "chinese": "故事"
+      },
+      {
+        "text": "fall",
+        "role": "V",
+        "phonetic": "/fɔːl/",
+        "chinese": "下降"
+      },
+      {
+        "text": "apart",
+        "role": "A",
+        "phonetic": "/əˈpɑːrt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "不管他们怎么否认事实就是事实。",
+    "english": "No matter how they deny it the fact remains the fact",
+    "soundmark": "/noʊ ˈmætər haʊ ðeɪ dɪˈnaɪ ɪt ðə fækt rɪˈmeɪnz ðə fækt/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Neg",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "matter",
+        "role": "S",
+        "phonetic": "/ˈmætər/",
+        "chinese": "要紧"
+      },
+      {
+        "text": "how",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "deny",
+        "role": "V",
+        "phonetic": "/dɪˈnaɪ/",
+        "chinese": "否认"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fact",
+        "role": "S",
+        "phonetic": "/fækt/",
+        "chinese": "事实"
+      },
+      {
+        "text": "remains",
+        "role": "V",
+        "phonetic": "/rɪˈmeɪnz/",
+        "chinese": "保持"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fact",
+        "role": "O",
+        "phonetic": "/fækt/",
+        "chinese": "事实"
+      }
+    ]
+  },
+  {
+    "chinese": "实事求是",
+    "english": "mud is mud",
+    "soundmark": "/mʌd ɪz mʌd/"
+  },
+  {
+    "chinese": "事实",
+    "english": "fact",
+    "soundmark": "/fækt/"
+  },
+  {
+    "chinese": "证据",
+    "english": "proof",
+    "soundmark": "/pruːf/"
+  },
+  {
+    "chinese": "真相",
+    "english": "truth",
+    "soundmark": "/truːθ/"
+  },
+  {
+    "chinese": "否认",
+    "english": "deny",
+    "soundmark": "/dɪˈnaɪ/"
+  },
+  {
+    "chinese": "承认",
+    "english": "admit",
+    "soundmark": "/ədˈmɪt/"
+  },
+  {
+    "chinese": "可靠的",
+    "english": "reliable",
+    "soundmark": "/rɪˈlaɪəbəl/"
+  },
+  {
+    "chinese": "证据",
+    "english": "evidence",
+    "soundmark": "/ˈevɪdəns/"
+  }
+]

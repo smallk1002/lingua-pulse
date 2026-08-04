@@ -1,0 +1,1031 @@
+[
+  {
+    "chinese": "竞赛",
+    "english": "competition",
+    "soundmark": "/ˌkɑːmpəˈtɪʃən/"
+  },
+  {
+    "chinese": "整洁的",
+    "english": "neat",
+    "soundmark": "/niːt/"
+  },
+  {
+    "chinese": "小路",
+    "english": "path",
+    "soundmark": "/pæθ/"
+  },
+  {
+    "chinese": "木制的",
+    "english": "wooden",
+    "soundmark": "/ˈwʊdən/"
+  },
+  {
+    "chinese": "游泳池",
+    "english": "pool",
+    "soundmark": "/puːl/"
+  },
+  {
+    "chinese": "花坛",
+    "english": "flower bed",
+    "soundmark": "/ˈflaʊər/ /bed/"
+  },
+  {
+    "chinese": "篱笆",
+    "english": "fence",
+    "soundmark": "/fens/"
+  },
+  {
+    "chinese": "奖金",
+    "english": "prize",
+    "soundmark": "/praɪz/"
+  },
+  {
+    "chinese": "丑陋的",
+    "english": "ugly",
+    "soundmark": "/ˈʌɡli/"
+  },
+  {
+    "chinese": "种植",
+    "english": "grow",
+    "soundmark": "/ɡroʊ/"
+  },
+  {
+    "chinese": "最漂亮的花园",
+    "english": "the most beautiful garden",
+    "soundmark": "/ðə/ /moʊst/ /ˈbjuːtɪfəl/ /ˈɡɑːrdən/"
+  },
+  {
+    "chinese": "整洁的小路",
+    "english": "neat paths",
+    "soundmark": "/niːt/ /pæθs/"
+  },
+  {
+    "chinese": "赢得比赛",
+    "english": "win the competition",
+    "soundmark": "/wɪn/ /ðə/ /ˌkɑːmpəˈtɪʃən/"
+  },
+  {
+    "chinese": "木桥",
+    "english": "a wooden bridge",
+    "soundmark": "/ə/ /ˈwʊdən/ /brɪdʒ/"
+  },
+  {
+    "chinese": "比尔比乔更努力工作",
+    "english": "Bill works harder than Joe",
+    "soundmark": "/bɪl/ /wɜːrks/ /ˈhɑːrdər/ /ðæn/ /dʒoʊ/",
+    "grammar": [
+      {
+        "text": "Bill",
+        "role": "S",
+        "phonetic": "/bɪl/",
+        "chinese": "账单"
+      },
+      {
+        "text": "works",
+        "role": "V",
+        "phonetic": "/wɜːrks/",
+        "chinese": "工作"
+      },
+      {
+        "text": "harder",
+        "role": "Adv",
+        "phonetic": "/ˈhɑːrdər/",
+        "chinese": "更…的/…者(硬的/难的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "Joe",
+        "role": "O",
+        "phonetic": "/dʒoʊ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "乔的花园在全镇是最漂亮的",
+    "english": "Joe's garden is the most beautiful in the town",
+    "soundmark": "/dʒoʊz/ /ˈɡɑːrdən/ /ɪz/ /ðə/ /moʊst/ /ˈbjuːtɪfəl/ /ɪn/ /ðə/ /taʊn/",
+    "grammar": [
+      {
+        "text": "Joe's",
+        "role": "Det",
+        "phonetic": "/dʒoʊz/",
+        "chinese": ""
+      },
+      {
+        "text": "garden",
+        "role": "S",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "beautiful",
+        "role": "A",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "town",
+        "role": "O",
+        "phonetic": "/taʊn/",
+        "chinese": "城镇"
+      }
+    ]
+  },
+  {
+    "chinese": "这个游泳池比那个更大",
+    "english": "This pool is bigger than that one",
+    "soundmark": "/ðɪs/ /puːl/ /ɪz/ /ˈbɪɡər/ /ðæn/ /ðæt/ /wʌn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "pool",
+        "role": "S",
+        "phonetic": "/puːl/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "bigger",
+        "role": "C",
+        "phonetic": "/ˈbɪɡər/",
+        "chinese": "更大的"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "每年都举办最佳花园竞赛",
+    "english": "There is a competition for the best garden every year",
+    "soundmark": "/ðer/ /ɪz/ /ə/ /ˌkɑːmpəˈtɪʃən/ /fɔːr/ /ðə/ /best/ /ˈɡɑːrdən/ /ˈevri/ /jɪr/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "competition",
+        "role": "C",
+        "phonetic": "/ˌkɑːmpəˈtɪʃən/",
+        "chinese": "比赛"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "best",
+        "role": "A",
+        "phonetic": "/best/",
+        "chinese": "最好"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "每次乔都赢",
+    "english": "Joe wins every time",
+    "soundmark": "/dʒoʊ/ /wɪnz/ /ˈevri/ /taɪm/",
+    "grammar": [
+      {
+        "text": "Joe",
+        "role": "S",
+        "phonetic": "/dʒoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "wins",
+        "role": "V",
+        "phonetic": "/wɪnz/",
+        "chinese": "赢"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "比尔的花园比乔大",
+    "english": "Bill's garden is larger than Joe's",
+    "soundmark": "/bɪlz/ /ˈɡɑːrdən/ /ɪz/ /ˈlɑːrdʒər/ /ðæn/ /dʒoʊz/",
+    "grammar": [
+      {
+        "text": "Bill's",
+        "role": "Det",
+        "phonetic": "/bɪlz/",
+        "chinese": "账单"
+      },
+      {
+        "text": "garden",
+        "role": "S",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "larger",
+        "role": "C",
+        "phonetic": "/ˈlɑːrdʒər/",
+        "chinese": "更…的/…者(大的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "Joe's",
+        "role": "O",
+        "phonetic": "/dʒoʊz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他种了花也建了篱笆",
+    "english": "He has grown flowers and built a fence",
+    "soundmark": "/hiː/ /hæz/ /ɡroʊn/ /ˈflaʊərz/ /ænd/ /bɪlt/ /ə/ /fens/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "grown",
+        "role": "V",
+        "phonetic": "/ɡroʊn/",
+        "chinese": "成长的"
+      },
+      {
+        "text": "flowers",
+        "role": "O",
+        "phonetic": "/ˈflaʊərz/",
+        "chinese": "花"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fence",
+        "role": "O",
+        "phonetic": "/fens/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "篱笆上刷的是最鲜艳的漆",
+    "english": "The fence was painted the brightest colour",
+    "soundmark": "/ðə/ /fens/ /wʌz/ /ˈpeɪntɪd/ /ðə/ /ˈbraɪtɪst/ /ˈkʌlər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fence",
+        "role": "S",
+        "phonetic": "/fens/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "painted",
+        "role": "V",
+        "phonetic": "/ˈpeɪntɪd/",
+        "chinese": "画/油漆"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "brightest",
+        "role": "A",
+        "phonetic": "/ˈbraɪtɪst/",
+        "chinese": "最…的(明亮的)"
+      },
+      {
+        "text": "colour",
+        "role": "O",
+        "phonetic": "/ˈkʌlər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这是我所见过的最整洁的花园",
+    "english": "This is the neatest garden I have ever seen",
+    "soundmark": "/ðɪs/ /ɪz/ /ðə/ /ˈniːtɪst/ /ˈɡɑːrdən/ /aɪ/ /hæv/ /ˈevər/ /siːn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "neatest",
+        "role": "A",
+        "phonetic": "/ˈniːtɪst/",
+        "chinese": ""
+      },
+      {
+        "text": "garden",
+        "role": "C",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "那条小路比这条更窄",
+    "english": "That path is narrower than this one",
+    "soundmark": "/ðæt/ /pæθ/ /ɪz/ /ˈnæroʊər/ /ðæn/ /ðɪs/ /wʌn/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "path",
+        "role": "S",
+        "phonetic": "/pæθ/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "narrower",
+        "role": "C",
+        "phonetic": "/ˈnæroʊər/",
+        "chinese": "更…的/…者(窄的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "这是镇上最丑陋的花园",
+    "english": "This is the ugliest garden in the town",
+    "soundmark": "/ðɪs/ /ɪz/ /ðə/ /ˈʌɡliɪst/ /ˈɡɑːrdən/ /ɪn/ /ðə/ /taʊn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ugliest",
+        "role": "A",
+        "phonetic": "/ˈʌɡliɪst/",
+        "chinese": ""
+      },
+      {
+        "text": "garden",
+        "role": "C",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "town",
+        "role": "O",
+        "phonetic": "/taʊn/",
+        "chinese": "城镇"
+      }
+    ]
+  },
+  {
+    "chinese": "那个花园更乱但我更喜欢它",
+    "english": "That garden is messier but I like it more",
+    "soundmark": "/ðæt/ /ˈɡɑːrdən/ /ɪz/ /ˈmesiər/ /bʌt/ /aɪ/ /laɪk/ /ɪt/ /mɔːr/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "garden",
+        "role": "S",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "messier",
+        "role": "C",
+        "phonetic": "/ˈmesiər/",
+        "chinese": ""
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      }
+    ]
+  },
+  {
+    "chinese": "哪一个更贵这辆还是那辆",
+    "english": "Which is more expensive this one or that one",
+    "soundmark": "/wɪtʃ/ /ɪz/ /mɔːr/ /ɪkˈspensɪv/ /ðɪs/ /wʌn/ /ɔːr/ /ðæt/ /wʌn/",
+    "grammar": [
+      {
+        "text": "Which",
+        "role": "S",
+        "phonetic": "/wɪtʃ/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "expensive",
+        "role": "C",
+        "phonetic": "/ɪkˈspensɪv/",
+        "chinese": "昂贵的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "他是全班最高的男孩",
+    "english": "He is the tallest boy in the class",
+    "soundmark": "/hiː/ /ɪz/ /ðə/ /ˈtɔːlɪst/ /bɔɪ/ /ɪn/ /ðə/ /klæs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tallest",
+        "role": "A",
+        "phonetic": "/ˈtɔːlɪst/",
+        "chinese": "最…的(高的)"
+      },
+      {
+        "text": "boy",
+        "role": "C",
+        "phonetic": "/bɔɪ/",
+        "chinese": "男孩"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "class",
+        "role": "O",
+        "phonetic": "/klæs/",
+        "chinese": "班级/阶层"
+      }
+    ]
+  },
+  {
+    "chinese": "这座桥是用木头做的",
+    "english": "The bridge is made of wood",
+    "soundmark": "/ðə/ /brɪdʒ/ /ɪz/ /meɪd/ /ʌv/ /wʊd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bridge",
+        "role": "S",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "wood",
+        "role": "O",
+        "phonetic": "/wʊd/",
+        "chinese": "木头"
+      }
+    ]
+  },
+  {
+    "chinese": "那本书比这本有趣得多",
+    "english": "That book is much more interesting than this one",
+    "soundmark": "/ðæt/ /bʊk/ /ɪz/ /mʌtʃ/ /mɔːr/ /ˈɪntrəstɪŋ/ /ðæn/ /ðɪs/ /wʌn/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我听过最好的故事",
+    "english": "This is the best story I have ever heard",
+    "soundmark": "/ðɪs/ /ɪz/ /ðə/ /best/ /ˈstɔːri/ /aɪ/ /hæv/ /ˈevər/ /hɜːrd/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "best",
+        "role": "A",
+        "phonetic": "/best/",
+        "chinese": "最好"
+      },
+      {
+        "text": "story",
+        "role": "C",
+        "phonetic": "/ˈstɔːri/",
+        "chinese": "故事"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "heard",
+        "role": "V",
+        "phonetic": "/hɜːrd/",
+        "chinese": "听到（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "比赛",
+    "english": "competition",
+    "soundmark": "/ˌkɑːmpəˈtɪʃən/"
+  },
+  {
+    "chinese": "赢",
+    "english": "win",
+    "soundmark": "/wɪn/"
+  },
+  {
+    "chinese": "最大的",
+    "english": "largest",
+    "soundmark": "/ˈlɑːrdʒɪst/"
+  },
+  {
+    "chinese": "更整洁",
+    "english": "neater",
+    "soundmark": "/ˈniːtər/"
+  },
+  {
+    "chinese": "颜色",
+    "english": "colour",
+    "soundmark": "/ˈkʌlər/"
+  },
+  {
+    "chinese": "油漆",
+    "english": "paint",
+    "soundmark": "/peɪnt/"
+  },
+  {
+    "chinese": "建造",
+    "english": "build",
+    "soundmark": "/bɪld/"
+  },
+  {
+    "chinese": "花",
+    "english": "flower",
+    "soundmark": "/ˈflaʊər/"
+  },
+  {
+    "chinese": "桥",
+    "english": "bridge",
+    "soundmark": "/brɪdʒ/"
+  },
+  {
+    "chinese": "木头",
+    "english": "wood",
+    "soundmark": "/wʊd/"
+  },
+  {
+    "chinese": "贵的",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "高的",
+    "english": "tall",
+    "soundmark": "/tɔːl/"
+  }
+]

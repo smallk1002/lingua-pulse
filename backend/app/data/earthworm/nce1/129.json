@@ -1,0 +1,205 @@
+[
+  {
+    "english": "mile",
+    "chinese": "英里",
+    "soundmark": "/maɪl/"
+  },
+  {
+    "english": "hour",
+    "chinese": "小时",
+    "soundmark": "/ˈaʊər/"
+  },
+  {
+    "english": "speed",
+    "chinese": "速度",
+    "soundmark": "/spiːd/"
+  },
+  {
+    "chinese": "每小时七十英里",
+    "english": "Seventy miles an hour",
+    "soundmark": "/ˈsevənti maɪlz ən ˈaʊər/",
+    "grammar": [
+      {
+        "text": "Seventy",
+        "role": "Det",
+        "phonetic": "/ˈsevənti/",
+        "chinese": "七十"
+      },
+      {
+        "text": "miles",
+        "role": "S",
+        "phonetic": "/maɪlz/",
+        "chinese": ""
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "hour",
+        "role": "O",
+        "phonetic": "/ˈaʊər/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "车开得很快",
+    "english": "The car is going very fast",
+    "soundmark": "/ðə kɑːr ɪz ˈɡoʊɪŋ ˈveri fæst/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "fast",
+        "role": "A",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      }
+    ]
+  },
+  {
+    "chinese": "这太危险了",
+    "english": "This is too dangerous",
+    "soundmark": "/ðɪs ɪz tuː ˈdeɪndʒərəs/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "dangerous",
+        "role": "C",
+        "phonetic": "/ˈdeɪndʒərəs/",
+        "chinese": "危险的"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该减速",
+    "english": "You should slow down",
+    "soundmark": "/juː ʃʊd sloʊ daʊn/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "slow",
+        "role": "V",
+        "phonetic": "/sloʊ/",
+        "chinese": "慢的"
+      },
+      {
+        "text": "down",
+        "role": "A",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      }
+    ]
+  },
+  {
+    "chinese": "限速是五十",
+    "english": "The speed limit is fifty",
+    "soundmark": "/ðə spiːd ˈlɪmɪt ɪz ˈfɪfti/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "speed",
+        "role": "Det",
+        "phonetic": "/spiːd/",
+        "chinese": "速度"
+      },
+      {
+        "text": "limit",
+        "role": "S",
+        "phonetic": "/ˈlɪmɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "fifty",
+        "role": "C",
+        "phonetic": "/ˈfɪfti/",
+        "chinese": "五十"
+      }
+    ]
+  },
+  {
+    "english": "limit",
+    "chinese": "限制",
+    "soundmark": "/ˈlɪmɪt/"
+  },
+  {
+    "english": "fast",
+    "chinese": "快的",
+    "soundmark": "/fæst/"
+  },
+  {
+    "english": "slow",
+    "chinese": "慢的",
+    "soundmark": "/sloʊ/"
+  }
+]

@@ -1,0 +1,1087 @@
+[
+  {
+    "chinese": "票",
+    "english": "ticket",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "chinese": "售罄",
+    "english": "sold out",
+    "soundmark": "/soʊld/ /aʊt/"
+  },
+  {
+    "chinese": "匆忙",
+    "english": "hurry",
+    "soundmark": "/ˈhɜːri/"
+  },
+  {
+    "chinese": "演出",
+    "english": "performance",
+    "soundmark": "/pərˈfɔːrməns/"
+  },
+  {
+    "chinese": "可惜",
+    "english": "pity",
+    "soundmark": "/ˈpɪti/"
+  },
+  {
+    "chinese": "喊道",
+    "english": "exclaim",
+    "soundmark": "/ɪkˈskleɪm/"
+  },
+  {
+    "chinese": "当然",
+    "english": "certainly",
+    "soundmark": "/ˈsɜːrtənli/"
+  },
+  {
+    "chinese": "返回",
+    "english": "return",
+    "soundmark": "/rɪˈtɜːrn/"
+  },
+  {
+    "chinese": "可能",
+    "english": "might",
+    "soundmark": "/maɪt/"
+  },
+  {
+    "chinese": "下周",
+    "english": "next week",
+    "soundmark": "/nekst/ /wiːk/"
+  },
+  {
+    "chinese": "立刻",
+    "english": "at once",
+    "soundmark": "/æt/ /wʌns/"
+  },
+  {
+    "chinese": "遗憾",
+    "english": "what a pity",
+    "soundmark": "/wʌt/ /ə/ /ˈpɪti/"
+  },
+  {
+    "chinese": "票已售完",
+    "english": "tickets sold out",
+    "soundmark": "/ˈtɪkɪts/ /soʊld/ /aʊt/"
+  },
+  {
+    "chinese": "马上",
+    "english": "right now",
+    "soundmark": "/raɪt/ /naʊ/"
+  },
+  {
+    "chinese": "可不可以",
+    "english": "could I",
+    "soundmark": "/kʊd/ /aɪ/"
+  },
+  {
+    "chinese": "买两张票",
+    "english": "buy two tickets",
+    "soundmark": "/baɪ/ /tuː/ /ˈtɪkɪts/"
+  },
+  {
+    "chinese": "下周三",
+    "english": "next Wednesday",
+    "soundmark": "/nekst/ /ˈwenzdeɪ/"
+  },
+  {
+    "chinese": "票卖完了",
+    "english": "The tickets are sold out",
+    "soundmark": "/ðə/ /ˈtɪkɪts/ /ɑːr/ /soʊld/ /aʊt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tickets",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "sold",
+        "role": "V",
+        "phonetic": "/soʊld/",
+        "chinese": "卖（过去式）"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      }
+    ]
+  },
+  {
+    "chinese": "我能买两张票吗",
+    "english": "Can I buy two tickets",
+    "soundmark": "/kæn/ /aɪ/ /baɪ/ /tuː/ /ˈtɪkɪts/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "tickets",
+        "role": "O",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      }
+    ]
+  },
+  {
+    "chinese": "我马上去买",
+    "english": "I will buy them at once",
+    "soundmark": "/aɪ/ /wɪl/ /baɪ/ /ðem/ /æt/ /wʌns/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðem/",
+        "chinese": "他们"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "once",
+        "role": "Adv",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      }
+    ]
+  },
+  {
+    "chinese": "真遗憾",
+    "english": "What a pity",
+    "soundmark": "/wʌt/ /ə/ /ˈpɪti/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pity",
+        "role": "C",
+        "phonetic": "/ˈpɪti/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她匆忙赶到售票处",
+    "english": "She hurried to the ticket office",
+    "soundmark": "/ʃiː/ /ˈhɜːrid/ /tuː/ /ðə/ /ˈtɪkɪt/ /ˈɑːfɪs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "hurried",
+        "role": "V",
+        "phonetic": "/ˈhɜːrid/",
+        "chinese": "匆忙（过去式/过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ticket",
+        "role": "A",
+        "phonetic": "/ˈtɪkɪt/",
+        "chinese": "票"
+      },
+      {
+        "text": "office",
+        "role": "O",
+        "phonetic": "/ˈɑːfɪs/",
+        "chinese": "办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "票可能会被退回来",
+    "english": "The tickets might be returned",
+    "soundmark": "/ðə/ /ˈtɪkɪts/ /maɪt/ /biː/ /rɪˈtɜːrnd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tickets",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "returned",
+        "role": "V",
+        "phonetic": "/rɪˈtɜːrnd/",
+        "chinese": "返回"
+      }
+    ]
+  },
+  {
+    "chinese": "她可以为下周买票",
+    "english": "She could buy tickets for next week",
+    "soundmark": "/ʃiː/ /kʊd/ /baɪ/ /ˈtɪkɪts/ /fɔːr/ /nekst/ /wiːk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "tickets",
+        "role": "O",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "week",
+        "role": "O",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "演出在星期天",
+    "english": "The performance is on Sunday",
+    "soundmark": "/ðə/ /pərˈfɔːrməns/ /ɪz/ /ɑːn/ /ˈsʌndeɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "performance",
+        "role": "S",
+        "phonetic": "/pərˈfɔːrməns/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "Sunday",
+        "role": "O",
+        "phonetic": "/ˈsʌndeɪ/",
+        "chinese": "星期日"
+      }
+    ]
+  },
+  {
+    "chinese": "票必须在今天买",
+    "english": "The tickets must be bought today",
+    "soundmark": "/ðə/ /ˈtɪkɪts/ /mʌst/ /biː/ /bɔːt/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tickets",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "这出戏每晚都上演",
+    "english": "This play is performed every night",
+    "soundmark": "/ðɪs/ /pleɪ/ /ɪz/ /pərˈfɔːrmd/ /ˈevri/ /naɪt/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "play",
+        "role": "S",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "performed",
+        "role": "V",
+        "phonetic": "/pərˈfɔːrmd/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他告诉我票已售完",
+    "english": "He told me that the tickets were sold out",
+    "soundmark": "/hiː/ /toʊld/ /miː/ /ðæt/ /ðə/ /ˈtɪkɪts/ /wɜːr/ /soʊld/ /aʊt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tickets",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "sold",
+        "role": "V",
+        "phonetic": "/soʊld/",
+        "chinese": "卖（过去式）"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      }
+    ]
+  },
+  {
+    "chinese": "他问我能不能下周再来",
+    "english": "He asked if I could come back next week",
+    "soundmark": "/hiː/ /æskt/ /ɪf/ /aɪ/ /kʊd/ /kʌm/ /bæk/ /nekst/ /wiːk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "back",
+        "role": "Adv",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "我很遗憾你没能来",
+    "english": "It is a pity that you could not come",
+    "soundmark": "/ɪt/ /ɪz/ /ə/ /ˈpɪti/ /ðæt/ /juː/ /kʊd/ /nɑːt/ /kʌm/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pity",
+        "role": "C",
+        "phonetic": "/ˈpɪti/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      }
+    ]
+  },
+  {
+    "chinese": "她喊道票全卖完了",
+    "english": "She exclaimed that all the tickets were sold",
+    "soundmark": "/ʃiː/ /ɪkˈskleɪmd/ /ðæt/ /ɔːl/ /ðə/ /ˈtɪkɪts/ /wɜːr/ /soʊld/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "exclaimed",
+        "role": "V",
+        "phonetic": "/ɪkˈskleɪmd/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tickets",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "sold",
+        "role": "V",
+        "phonetic": "/soʊld/",
+        "chinese": "卖（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "这些票是星期二之前买的",
+    "english": "These tickets were bought before Tuesday",
+    "soundmark": "/ðiːz/ /ˈtɪkɪts/ /wɜːr/ /bɔːt/ /bɪˈfɔːr/ /ˈtjuːzdeɪ/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "tickets",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "Tuesday",
+        "role": "O",
+        "phonetic": "/ˈtjuːzdeɪ/",
+        "chinese": "星期二"
+      }
+    ]
+  },
+  {
+    "chinese": "这场演出会在下个月上演",
+    "english": "The performance will be given next month",
+    "soundmark": "/ðə/ /pərˈfɔːrməns/ /wɪl/ /biː/ /ˈɡɪvən/ /nekst/ /mʌnθ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "performance",
+        "role": "S",
+        "phonetic": "/pərˈfɔːrməns/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "given",
+        "role": "V",
+        "phonetic": "/ˈɡɪvən/",
+        "chinese": "给定的"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "month",
+        "role": "A",
+        "phonetic": "/mʌnθ/",
+        "chinese": "月"
+      }
+    ]
+  },
+  {
+    "chinese": "你必须提前买好票",
+    "english": "The tickets must be bought in advance",
+    "soundmark": "/ðə/ /ˈtɪkɪts/ /mʌst/ /biː/ /bɔːt/ /ɪn/ /ədˈvæns/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tickets",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "advance",
+        "role": "A",
+        "phonetic": "/ədˈvæns/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他也许能把票退掉",
+    "english": "He might be able to return the tickets",
+    "soundmark": "/hiː/ /maɪt/ /biː/ /ˈeɪbəl/ /tuː/ /rɪˈtɜːrn/ /ðə/ /ˈtɪkɪts/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "able",
+        "role": "C",
+        "phonetic": "/ˈeɪbəl/",
+        "chinese": "能够的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "return",
+        "role": "V",
+        "phonetic": "/rɪˈtɜːrn/",
+        "chinese": "返回"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tickets",
+        "role": "O",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      }
+    ]
+  },
+  {
+    "chinese": "我有两张票可以给你",
+    "english": "I have two tickets that I can give you",
+    "soundmark": "/aɪ/ /hæv/ /tuː/ /ˈtɪkɪts/ /ðæt/ /aɪ/ /kæn/ /ɡɪv/ /juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "tickets",
+        "role": "O",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然票很贵但还是全卖完了",
+    "english": "Although the tickets were expensive they were all sold",
+    "soundmark": "/ɔːlˈðoʊ/ /ðə/ /ˈtɪkɪts/ /wɜːr/ /ɪkˈspensɪv/ /ðeɪ/ /wɜːr/ /ɔːl/ /soʊld/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tickets",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "expensive",
+        "role": "C",
+        "phonetic": "/ɪkˈspensɪv/",
+        "chinese": "昂贵的"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "sold",
+        "role": "V",
+        "phonetic": "/soʊld/",
+        "chinese": "卖（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "售票处",
+    "english": "ticket office",
+    "soundmark": "/ˈtɪkɪt/ /ˈɑːfɪs/"
+  },
+  {
+    "chinese": "排队",
+    "english": "stand in a queue",
+    "soundmark": "/stænd/ /ɪn/ /ə/ /kjuː/"
+  },
+  {
+    "chinese": "提前",
+    "english": "in advance",
+    "soundmark": "/ɪn/ /ədˈvæns/"
+  },
+  {
+    "chinese": "能买到",
+    "english": "be able to get",
+    "soundmark": "/biː/ /ˈeɪbəl/ /tuː/ /ɡet/"
+  },
+  {
+    "chinese": "售罄",
+    "english": "sold out",
+    "soundmark": "/soʊld/ /aʊt/"
+  },
+  {
+    "chinese": "遗憾",
+    "english": "pity",
+    "soundmark": "/ˈpɪti/"
+  },
+  {
+    "chinese": "演出",
+    "english": "performance",
+    "soundmark": "/pərˈfɔːrməns/"
+  },
+  {
+    "chinese": "喊道",
+    "english": "exclaim",
+    "soundmark": "/ɪkˈskleɪm/"
+  },
+  {
+    "chinese": "当然",
+    "english": "certainly",
+    "soundmark": "/ˈsɜːrtənli/"
+  },
+  {
+    "chinese": "返回",
+    "english": "return",
+    "soundmark": "/rɪˈtɜːrn/"
+  }
+]

@@ -1,0 +1,666 @@
+[
+  {
+    "chinese": "流行歌手",
+    "english": "pop singer",
+    "soundmark": "/pɑːp/ /ˈsɪŋər/"
+  },
+  {
+    "chinese": "俱乐部",
+    "english": "club",
+    "soundmark": "/klʌb/"
+  },
+  {
+    "chinese": "演出",
+    "english": "performance",
+    "soundmark": "/pərˈfɔːrməns/"
+  },
+  {
+    "chinese": "场合",
+    "english": "occasion",
+    "soundmark": "/əˈkeɪʒən/"
+  },
+  {
+    "chinese": "一群",
+    "english": "a group of",
+    "soundmark": "/ə/ /ɡruːp/ /ʌv/"
+  },
+  {
+    "chinese": "目前",
+    "english": "at present",
+    "soundmark": "/æt/ /ˈprezənt/"
+  },
+  {
+    "chinese": "所有部分",
+    "english": "all parts of",
+    "soundmark": "/ɔːl/ /pɑːrts/ /ʌv/"
+  },
+  {
+    "chinese": "出差",
+    "english": "on business",
+    "soundmark": "/ɑːn/ /ˈbɪznɪs/"
+  },
+  {
+    "chinese": "青年们",
+    "english": "young people",
+    "soundmark": "/jʌŋ/ /ˈpiːpəl/"
+  },
+  {
+    "chinese": "格林伍德男孩是一个流行歌手组合",
+    "english": "The Greenwood Boys are a group of pop singers",
+    "soundmark": "/ðə/ /ˈɡriːnwʊd/ /bɔɪz/ /ɑːr/ /ə/ /ɡruːp/ /ʌv/ /pɑːp/ /ˈsɪŋərz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Greenwood",
+        "role": "S",
+        "phonetic": "/ˈɡriːnwʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "Boys",
+        "role": "S",
+        "phonetic": "/bɔɪz/",
+        "chinese": "…们/复数(男孩)"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "group",
+        "role": "C",
+        "phonetic": "/ɡruːp/",
+        "chinese": "组"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "pop",
+        "role": "A",
+        "phonetic": "/pɑːp/",
+        "chinese": ""
+      },
+      {
+        "text": "singers",
+        "role": "O",
+        "phonetic": "/ˈsɪŋərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "目前他们在全国各地巡回演出",
+    "english": "At present they are visiting all parts of the country",
+    "soundmark": "/æt/ /ˈprezənt/ /ðeɪ/ /ɑːr/ /ˈvɪzɪtɪŋ/ /ɔːl/ /pɑːrts/ /ʌv/ /ðə/ /ˈkʌntri/",
+    "grammar": [
+      {
+        "text": "At",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "present",
+        "role": "A",
+        "phonetic": "/ˈprezənt/",
+        "chinese": "礼物/现在"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "visiting",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪtɪŋ/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "parts",
+        "role": "O",
+        "phonetic": "/pɑːrts/",
+        "chinese": "部分"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "country",
+        "role": "O",
+        "phonetic": "/ˈkʌntri/",
+        "chinese": "国家"
+      }
+    ]
+  },
+  {
+    "chinese": "明天晚上他们将在这个俱乐部演出",
+    "english": "They will be performing at this club tomorrow evening",
+    "soundmark": "/ðeɪ/ /wɪl/ /biː/ /pərˈfɔːrmɪŋ/ /æt/ /ðɪs/ /klʌb/ /təˈmɑːroʊ/ /ˈiːvnɪŋ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "performing",
+        "role": "V",
+        "phonetic": "/pərˈfɔːrmɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "club",
+        "role": "O",
+        "phonetic": "/klʌb/",
+        "chinese": ""
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      },
+      {
+        "text": "evening",
+        "role": "A",
+        "phonetic": "/ˈiːvnɪŋ/",
+        "chinese": "晚上"
+      }
+    ]
+  },
+  {
+    "chinese": "他们将在这里待五天",
+    "english": "They will be here for five days",
+    "soundmark": "/ðeɪ/ /wɪl/ /biː/ /hɪr/ /fɔːr/ /faɪv/ /deɪz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "days",
+        "role": "A",
+        "phonetic": "/deɪz/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "在此期间他们将举行五场演出",
+    "english": "During this time they will give five performances",
+    "soundmark": "/ˈdʊrɪŋ/ /ðɪs/ /taɪm/ /ðeɪ/ /wɪl/ /ɡɪv/ /faɪv/ /pərˈfɔːrmənsɪz/",
+    "grammar": [
+      {
+        "text": "During",
+        "role": "P",
+        "phonetic": "/ˈdʊrɪŋ/",
+        "chinese": "在…期间"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "performances",
+        "role": "O",
+        "phonetic": "/pərˈfɔːrmənsɪz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "青年们将很快来我们的城市",
+    "english": "The young people will come to our city soon",
+    "soundmark": "/ðə/ /jʌŋ/ /ˈpiːpəl/ /wɪl/ /kʌm/ /tuː/ /aʊr/ /ˈsɪti/ /suːn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "young",
+        "role": "A",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "city",
+        "role": "O",
+        "phonetic": "/ˈsɪti/",
+        "chinese": "城市"
+      },
+      {
+        "text": "soon",
+        "role": "Adv",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      }
+    ]
+  },
+  {
+    "chinese": "这对他来说是个难得的机会",
+    "english": "This is a rare occasion for him",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /rer/ /əˈkeɪʒən/ /fɔːr/ /hɪm/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "rare",
+        "role": "A",
+        "phonetic": "/rer/",
+        "chinese": "稀有的"
+      },
+      {
+        "text": "occasion",
+        "role": "C",
+        "phonetic": "/əˈkeɪʒən/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "他因公出差去了纽约",
+    "english": "He went to New York on business",
+    "soundmark": "/hiː/ /went/ /tuː/ /nuː/ /jɔːrk/ /ɑːn/ /ˈbɪznɪs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "New",
+        "role": "O",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "York",
+        "role": "O",
+        "phonetic": "/jɔːrk/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "business",
+        "role": "O",
+        "phonetic": "/ˈbɪznɪs/",
+        "chinese": "生意/商业"
+      }
+    ]
+  },
+  {
+    "chinese": "全国的年轻人都在等他们",
+    "english": "Young people all over the country are waiting for them",
+    "soundmark": "/jʌŋ/ /ˈpiːpəl/ /ɔːl/ /ˈoʊvər/ /ðə/ /ˈkʌntri/ /ɑːr/ /ˈweɪtɪŋ/ /fɔːr/ /ðem/",
+    "grammar": [
+      {
+        "text": "Young",
+        "role": "A",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "country",
+        "role": "O",
+        "phonetic": "/ˈkʌntri/",
+        "chinese": "国家"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðem/",
+        "chinese": "他们"
+      }
+    ]
+  },
+  {
+    "chinese": "演出",
+    "english": "performance",
+    "soundmark": "/pərˈfɔːrməns/"
+  },
+  {
+    "chinese": "组合",
+    "english": "group",
+    "soundmark": "/ɡruːp/"
+  },
+  {
+    "chinese": "俱乐部",
+    "english": "club",
+    "soundmark": "/klʌb/"
+  },
+  {
+    "chinese": "部分",
+    "english": "part",
+    "soundmark": "/pɑːrt/"
+  },
+  {
+    "chinese": "罕见",
+    "english": "rare",
+    "soundmark": "/rer/"
+  },
+  {
+    "chinese": "国家",
+    "english": "country",
+    "soundmark": "/ˈkʌntri/"
+  },
+  {
+    "chinese": "逗留",
+    "english": "stay",
+    "soundmark": "/steɪ/"
+  },
+  {
+    "chinese": "期间",
+    "english": "during",
+    "soundmark": "/ˈdʊrɪŋ/"
+  },
+  {
+    "chinese": "很快",
+    "english": "soon",
+    "soundmark": "/suːn/"
+  },
+  {
+    "chinese": "出差",
+    "english": "on business",
+    "soundmark": "/ɑːn/ /ˈbɪznɪs/"
+  },
+  {
+    "chinese": "全国",
+    "english": "all over the country",
+    "soundmark": "/ɔːl/ /ˈoʊvər/ /ðə/ /ˈkʌntri/"
+  },
+  {
+    "chinese": "流行音乐",
+    "english": "pop music",
+    "soundmark": "/pɑːp/ /ˈmjuːzɪk/"
+  },
+  {
+    "chinese": "歌手",
+    "english": "singer",
+    "soundmark": "/ˈsɪŋər/"
+  },
+  {
+    "chinese": "演出者",
+    "english": "performer",
+    "soundmark": "/pərˈfɔːrmər/"
+  },
+  {
+    "chinese": "晚会",
+    "english": "party",
+    "soundmark": "/ˈpɑːrti/"
+  },
+  {
+    "chinese": "音乐会",
+    "english": "concert",
+    "soundmark": "/ˈkɑːnsərt/"
+  },
+  {
+    "chinese": "著名的",
+    "english": "famous",
+    "soundmark": "/ˈfeɪməs/"
+  },
+  {
+    "chinese": "舞台",
+    "english": "stage",
+    "soundmark": "/steɪdʒ/"
+  },
+  {
+    "chinese": "粉丝",
+    "english": "fan",
+    "soundmark": "/fæn/"
+  },
+  {
+    "chinese": "巡回演出",
+    "english": "tour",
+    "soundmark": "/tʊr/"
+  }
+]

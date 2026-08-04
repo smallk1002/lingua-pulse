@@ -1,0 +1,792 @@
+[
+  {
+    "chinese": "车站",
+    "english": "station",
+    "soundmark": "/ˈsteɪʃn/"
+  },
+  {
+    "chinese": "站台",
+    "english": "platform",
+    "soundmark": "/ˈplætfɔːrm/"
+  },
+  {
+    "chinese": "火车",
+    "english": "train",
+    "soundmark": "/treɪn/"
+  },
+  {
+    "chinese": "票",
+    "english": "ticket",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "chinese": "时刻表",
+    "english": "timetable",
+    "soundmark": "/ˈtaɪmteɪbl/"
+  },
+  {
+    "chinese": "延迟",
+    "english": "delay",
+    "soundmark": "/dɪˈleɪ/"
+  },
+  {
+    "chinese": "到达",
+    "english": "arrival",
+    "soundmark": "/əˈraɪvl/"
+  },
+  {
+    "chinese": "出发",
+    "english": "departure",
+    "soundmark": "/dɪˈpɑːrtʃər/"
+  },
+  {
+    "chinese": "乘客",
+    "english": "passenger",
+    "soundmark": "/ˈpæsɪndʒər/"
+  },
+  {
+    "chinese": "行李",
+    "english": "luggage",
+    "soundmark": "/ˈlʌɡɪdʒ/"
+  },
+  {
+    "chinese": "售票处",
+    "english": "ticket office",
+    "soundmark": "/ˈtɪkɪt ˈɑːfɪs/"
+  },
+  {
+    "chinese": "单程票",
+    "english": "single ticket",
+    "soundmark": "/ˈsɪŋɡl ˈtɪkɪt/"
+  },
+  {
+    "chinese": "往返票",
+    "english": "return ticket",
+    "soundmark": "/rɪˈtɜːrn ˈtɪkɪt/"
+  },
+  {
+    "chinese": "请问哪班火车去伦敦",
+    "english": "Which train goes to London please",
+    "soundmark": "/wɪtʃ treɪn ɡoʊz tuː ˈlʌndən pliːz/",
+    "grammar": [
+      {
+        "text": "Which train",
+        "role": "S",
+        "phonetic": "/wɪtʃ treɪn/",
+        "chinese": "哪个/火车"
+      },
+      {
+        "text": "goes",
+        "role": "V",
+        "phonetic": "/ɡoʊz/",
+        "chinese": "去"
+      },
+      {
+        "text": "to London",
+        "role": "A",
+        "phonetic": "/tuː ˈlʌndən/",
+        "chinese": "到/向/伦敦"
+      },
+      {
+        "text": "please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "我想买一张去曼城的票",
+    "english": "I would like a ticket to Manchester",
+    "soundmark": "/aɪ wʊd laɪk ə ˈtɪkɪt tuː ˈmæntʃɪstər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like",
+        "role": "V",
+        "phonetic": "/wʊd laɪk/",
+        "chinese": "想要"
+      },
+      {
+        "text": "a ticket to Manchester",
+        "role": "O",
+        "phonetic": "/ə ˈtɪkɪt tuː ˈmæntʃɪstər/",
+        "chinese": "一个/到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "火车什么时候到",
+    "english": "When does the train arrive",
+    "soundmark": "/wen dʌz ðə treɪn əˈraɪv/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "the train",
+        "role": "S",
+        "phonetic": "/ðə treɪn/",
+        "chinese": "火车"
+      },
+      {
+        "text": "arrive",
+        "role": "V",
+        "phonetic": "/əˈraɪv/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "火车晚点了",
+    "english": "The train is delayed",
+    "soundmark": "/ðə treɪn ɪz dɪˈleɪd/",
+    "grammar": [
+      {
+        "text": "The train",
+        "role": "S",
+        "phonetic": "/ðə treɪn/",
+        "chinese": "火车"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "delayed",
+        "role": "C",
+        "phonetic": "/dɪˈleɪd/",
+        "chinese": "延误"
+      }
+    ]
+  },
+  {
+    "chinese": "从哪个站台出发",
+    "english": "Which platform does it leave from",
+    "soundmark": "/wɪtʃ ˈplætfɔːrm dʌz ɪt liːv frʌm/",
+    "grammar": [
+      {
+        "text": "Which platform",
+        "role": "A",
+        "phonetic": "/wɪtʃ ˈplætfɔːrm/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      }
+    ]
+  },
+  {
+    "chinese": "单程还是往返",
+    "english": "Single or return",
+    "soundmark": "/ˈsɪŋɡl ɔːr rɪˈtɜːrn/",
+    "grammar": [
+      {
+        "text": "Single",
+        "role": "S",
+        "phonetic": "/ˈsɪŋɡl/",
+        "chinese": ""
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "return",
+        "role": "S",
+        "phonetic": "/rɪˈtɜːrn/",
+        "chinese": "返回"
+      }
+    ]
+  },
+  {
+    "chinese": "往返票多少钱",
+    "english": "How much is a return ticket",
+    "soundmark": "/haʊ mʌtʃ ɪz ə rɪˈtɜːrn ˈtɪkɪt/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a return ticket",
+        "role": "S",
+        "phonetic": "/ə rɪˈtɜːrn ˈtɪkɪt/",
+        "chinese": "一个/返回"
+      }
+    ]
+  },
+  {
+    "chinese": "下一班火车几点",
+    "english": "What time is the next train",
+    "soundmark": "/wʌt taɪm ɪz ðə nekst treɪn/",
+    "grammar": [
+      {
+        "text": "What time",
+        "role": "A",
+        "phonetic": "/wʌt taɪm/",
+        "chinese": "几点"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the next train",
+        "role": "S",
+        "phonetic": "/ðə nekst treɪn/",
+        "chinese": "这个/那个/下一个/接下来/火车"
+      }
+    ]
+  },
+  {
+    "chinese": "你有行李要托运吗",
+    "english": "Do you have any luggage to check in",
+    "soundmark": "/duː juː hæv ˈeni ˈlʌɡɪdʒ tuː tʃek ɪn/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "any luggage",
+        "role": "O",
+        "phonetic": "/ˈeni ˈlʌɡɪdʒ/",
+        "chinese": "任何"
+      },
+      {
+        "text": "to check in",
+        "role": "A",
+        "phonetic": "/tuː tʃek ɪn/",
+        "chinese": "到/向/在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "单程票",
+    "english": "single ticket",
+    "soundmark": "/ˈsɪŋɡl ˈtɪkɪt/"
+  },
+  {
+    "chinese": "往返票",
+    "english": "return ticket",
+    "soundmark": "/rɪˈtɜːrn ˈtɪkɪt/"
+  },
+  {
+    "chinese": "站台",
+    "english": "platform",
+    "soundmark": "/ˈplætfɔːrm/"
+  },
+  {
+    "chinese": "延误了",
+    "english": "delayed",
+    "soundmark": "/dɪˈleɪd/"
+  },
+  {
+    "chinese": "出发",
+    "english": "departure",
+    "soundmark": "/dɪˈpɑːrtʃər/"
+  },
+  {
+    "chinese": "到达",
+    "english": "arrival",
+    "soundmark": "/əˈraɪvl/"
+  },
+  {
+    "chinese": "行李",
+    "english": "luggage",
+    "soundmark": "/ˈlʌɡɪdʒ/"
+  },
+  {
+    "chinese": "旅客",
+    "english": "passenger",
+    "soundmark": "/ˈpæsɪndʒər/"
+  },
+  {
+    "chinese": "时刻表",
+    "english": "timetable",
+    "soundmark": "/ˈtaɪmteɪbl/"
+  },
+  {
+    "chinese": "晚点",
+    "english": "delay",
+    "soundmark": "/dɪˈleɪ/"
+  },
+  {
+    "chinese": "这班火车什么时候发车",
+    "english": "When does this train leave",
+    "soundmark": "/wen dʌz ðɪs treɪn liːv/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "this train",
+        "role": "S",
+        "phonetic": "/ðɪs treɪn/",
+        "chinese": "这个/火车"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      }
+    ]
+  },
+  {
+    "chinese": "到曼城需要多长时间",
+    "english": "How long does it take to get to Manchester",
+    "soundmark": "/haʊ lɔːŋ dʌz ɪt teɪk tuː ɡet tuː ˈmæntʃɪstər/",
+    "grammar": [
+      {
+        "text": "How long",
+        "role": "A",
+        "phonetic": "/haʊ lɔːŋ/",
+        "chinese": "多长时间"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "to get to Manchester",
+        "role": "A",
+        "phonetic": "/tuː ɡet tuː ˈmæntʃɪstər/",
+        "chinese": "到/向/得到/变得/到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要换乘吗",
+    "english": "Do you need to change trains",
+    "soundmark": "/duː juː niːd tuː tʃeɪndʒ treɪnz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to change",
+        "role": "V",
+        "phonetic": "/tuː tʃeɪndʒ/",
+        "chinese": "到/向/改变"
+      },
+      {
+        "text": "trains",
+        "role": "O",
+        "phonetic": "/treɪnz/",
+        "chinese": "训练/火车"
+      }
+    ]
+  },
+  {
+    "chinese": "不这是直达列车",
+    "english": "No it is a direct train",
+    "soundmark": "/noʊ ɪt ɪz ə dəˈrekt treɪn/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a direct train",
+        "role": "C",
+        "phonetic": "/ə dəˈrekt treɪn/",
+        "chinese": "一个/火车"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以在网上订票吗",
+    "english": "Can I book my ticket online",
+    "soundmark": "/kæn aɪ bʊk maɪ ˈtɪkɪt ˈɑːnlaɪn/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "book",
+        "role": "V",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "my ticket",
+        "role": "O",
+        "phonetic": "/maɪ ˈtɪkɪt/",
+        "chinese": "我的"
+      },
+      {
+        "text": "online",
+        "role": "A",
+        "phonetic": "/ˈɑːnlaɪn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "由于天气原因火车晚点了",
+    "english": "The train is delayed because of the weather",
+    "soundmark": "/ðə treɪn ɪz dɪˈleɪd bɪˈkɔːz ʌv ðə ˈweðər/",
+    "grammar": [
+      {
+        "text": "The train",
+        "role": "S",
+        "phonetic": "/ðə treɪn/",
+        "chinese": "火车"
+      },
+      {
+        "text": "is delayed",
+        "role": "V",
+        "phonetic": "/ɪz dɪˈleɪd/",
+        "chinese": "是/延误"
+      },
+      {
+        "text": "because of the weather",
+        "role": "A",
+        "phonetic": "/bɪˈkɔːz ʌv ðə ˈweðər/",
+        "chinese": "因为/…的/这个/那个/天气"
+      }
+    ]
+  },
+  {
+    "chinese": "我在哪里可以取票",
+    "english": "Where can I pick up my ticket",
+    "soundmark": "/wer kæn aɪ pɪk ʌp maɪ ˈtɪkɪt/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "pick up",
+        "role": "V",
+        "phonetic": "/pɪk ʌp/",
+        "chinese": "捡起/接"
+      },
+      {
+        "text": "my ticket",
+        "role": "O",
+        "phonetic": "/maɪ ˈtɪkɪt/",
+        "chinese": "我的"
+      }
+    ]
+  },
+  {
+    "chinese": "换乘",
+    "english": "change",
+    "soundmark": "/tʃeɪndʒ/"
+  },
+  {
+    "chinese": "直达的",
+    "english": "direct",
+    "soundmark": "/dəˈrekt/"
+  },
+  {
+    "chinese": "预订",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "因为",
+    "english": "because of",
+    "soundmark": "/bɪˈkɔːz ʌv/"
+  },
+  {
+    "chinese": "取票",
+    "english": "pick up",
+    "soundmark": "/pɪk ʌp/"
+  },
+  {
+    "chinese": "需要多长时间",
+    "english": "how long",
+    "soundmark": "/haʊ lɔːŋ/"
+  },
+  {
+    "chinese": "我可以看看时刻表吗",
+    "english": "Can I have a look at the timetable",
+    "soundmark": "/kæn aɪ hæv ə lʊk æt ðə ˈtaɪmteɪbl/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a look",
+        "role": "O",
+        "phonetic": "/ə lʊk/",
+        "chinese": "一个/看起来"
+      },
+      {
+        "text": "at the timetable",
+        "role": "A",
+        "phonetic": "/æt ðə ˈtaɪmteɪbl/",
+        "chinese": "在/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "第一班火车早上六点出发",
+    "english": "The first train leaves at six in the morning",
+    "soundmark": "/ðə fɜːrst treɪn liːvz æt sɪks ɪn ðə ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "The first train",
+        "role": "S",
+        "phonetic": "/ðə fɜːrst treɪn/",
+        "chinese": "这个/那个/首先/火车"
+      },
+      {
+        "text": "leaves",
+        "role": "V",
+        "phonetic": "/liːvz/",
+        "chinese": "离开"
+      },
+      {
+        "text": "at six",
+        "role": "A",
+        "phonetic": "/æt sɪks/",
+        "chinese": "在/六"
+      },
+      {
+        "text": "in the morning",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈmɔːrnɪŋ/",
+        "chinese": "在早上"
+      }
+    ]
+  },
+  {
+    "chinese": "有没有更便宜的票",
+    "english": "Is there a cheaper ticket",
+    "soundmark": "/ɪz ðer ə ˈtʃiːpər ˈtɪkɪt/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a cheaper ticket",
+        "role": "C",
+        "phonetic": "/ə ˈtʃiːpər ˈtɪkɪt/",
+        "chinese": "一个/更…的/…者(便宜的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我应该预订座位吗",
+    "english": "Should I reserve a seat",
+    "soundmark": "/ʃʊd aɪ rɪˈzɜːrv ə siːt/",
+    "grammar": [
+      {
+        "text": "Should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "reserve",
+        "role": "V",
+        "phonetic": "/rɪˈzɜːrv/",
+        "chinese": ""
+      },
+      {
+        "text": "a seat",
+        "role": "O",
+        "phonetic": "/ə siːt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "看一看",
+    "english": "have a look",
+    "soundmark": "/hæv ə lʊk/"
+  },
+  {
+    "chinese": "首先",
+    "english": "first",
+    "soundmark": "/fɜːrst/"
+  },
+  {
+    "chinese": "更便宜的",
+    "english": "cheaper",
+    "soundmark": "/ˈtʃiːpər/"
+  },
+  {
+    "chinese": "预订座位",
+    "english": "reserve a seat",
+    "soundmark": "/rɪˈzɜːrv ə siːt/"
+  },
+  {
+    "chinese": "出发",
+    "english": "leave",
+    "soundmark": "/liːv/"
+  }
+]

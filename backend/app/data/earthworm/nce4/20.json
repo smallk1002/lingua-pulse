@@ -1,0 +1,480 @@
+[
+  {
+    "chinese": "蛇毒",
+    "english": "snake poison",
+    "soundmark": "/sneɪk/ /ˈpɔɪzn/"
+  },
+  {
+    "chinese": "毒性",
+    "english": "toxicity",
+    "soundmark": "/tɑːkˈsɪsəti/"
+  },
+  {
+    "chinese": "毒液",
+    "english": "venom",
+    "soundmark": "/ˈvenəm/"
+  },
+  {
+    "chinese": "咬伤",
+    "english": "bite",
+    "soundmark": "/baɪt/"
+  },
+  {
+    "chinese": "抗毒血清",
+    "english": "antivenom",
+    "soundmark": "/ˌæntiˈvenəm/"
+  },
+  {
+    "chinese": "神经毒素",
+    "english": "neurotoxin",
+    "soundmark": "/ˌnʊroʊˈtɑːksɪn/"
+  },
+  {
+    "chinese": "凝血",
+    "english": "coagulation",
+    "soundmark": "/koʊˌæɡjuˈleɪʃn/"
+  },
+  {
+    "chinese": "麻痹",
+    "english": "paralysis",
+    "soundmark": "/pəˈræləsɪs/"
+  },
+  {
+    "chinese": "症状",
+    "english": "symptom",
+    "soundmark": "/ˈsɪmptəm/"
+  },
+  {
+    "chinese": "提取",
+    "english": "extract",
+    "soundmark": "/ɪkˈstrækt/"
+  },
+  {
+    "chinese": "剂量",
+    "english": "dose",
+    "soundmark": "/doʊs/"
+  },
+  {
+    "chinese": "解毒剂",
+    "english": "antidote",
+    "soundmark": "/ˈæntidoʊt/"
+  },
+  {
+    "chinese": "注射",
+    "english": "inject",
+    "soundmark": "/ɪnˈdʒekt/"
+  },
+  {
+    "chinese": "受害者",
+    "english": "victim",
+    "soundmark": "/ˈvɪktɪm/"
+  },
+  {
+    "chinese": "如果被毒蛇咬伤后不及时注射抗毒血清受害者就会死亡",
+    "english": "if antivenom is not injected promptly after a snake bite the victim will die",
+    "soundmark": "/ɪf/ /ˌæntiˈvenəm/ /ɪz/ /nɑːt/ /ɪnˈdʒektɪd/ /ˈprɑːmptli/ /ˈæftər/ /ə/ /sneɪk/ /baɪt/ /ðə/ /ˈvɪktɪm/ /wɪl/ /daɪ/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "antivenom",
+        "role": "S",
+        "phonetic": "/ˌæntiˈvenəm/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "injected",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒektɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "promptly",
+        "role": "Adv",
+        "phonetic": "/ˈprɑːmptli/",
+        "chinese": ""
+      },
+      {
+        "text": "after",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "snake",
+        "role": "A",
+        "phonetic": "/sneɪk/",
+        "chinese": "蛇"
+      },
+      {
+        "text": "bite",
+        "role": "O",
+        "phonetic": "/baɪt/",
+        "chinese": "咬"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "victim",
+        "role": "S",
+        "phonetic": "/ˈvɪktɪm/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "Aux",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "die",
+        "role": "V",
+        "phonetic": "/daɪ/",
+        "chinese": "死"
+      }
+    ]
+  },
+  {
+    "chinese": "只要及时治疗大多数被蛇咬伤的人都能痊愈",
+    "english": "provided that treatment is given in time most snake bite victims can recover",
+    "soundmark": "/prəˈvaɪdɪd/ /ðæt/ /ˈtriːtmənt/ /ɪz/ /ˈɡɪvn/ /ɪn/ /taɪm/ /moʊst/ /sneɪk/ /baɪt/ /ˈvɪktɪmz/ /kæn/ /rɪˈkʌvər/",
+    "grammar": [
+      {
+        "text": "provided",
+        "role": "P",
+        "phonetic": "/prəˈvaɪdɪd/",
+        "chinese": "提供"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "treatment",
+        "role": "S",
+        "phonetic": "/ˈtriːtmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "given",
+        "role": "V",
+        "phonetic": "/ˈɡɪvn/",
+        "chinese": "给定的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "most",
+        "role": "Det",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "snake",
+        "role": "A",
+        "phonetic": "/sneɪk/",
+        "chinese": "蛇"
+      },
+      {
+        "text": "bite",
+        "role": "A",
+        "phonetic": "/baɪt/",
+        "chinese": "咬"
+      },
+      {
+        "text": "victims",
+        "role": "S",
+        "phonetic": "/ˈvɪktɪmz/",
+        "chinese": ""
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "recover",
+        "role": "V",
+        "phonetic": "/rɪˈkʌvər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "蛇毒被用来制造多种药物",
+    "english": "snake venom is used to produce a variety of medicines",
+    "soundmark": "/sneɪk/ /ˈvenəm/ /ɪz/ /juːzd/ /tuː/ /prəˈduːs/ /ə/ /vəˈraɪəti/ /ʌv/ /ˈmedɪsnz/",
+    "grammar": [
+      {
+        "text": "snake",
+        "role": "A",
+        "phonetic": "/sneɪk/",
+        "chinese": "蛇"
+      },
+      {
+        "text": "venom",
+        "role": "S",
+        "phonetic": "/ˈvenəm/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "used",
+        "role": "V",
+        "phonetic": "/juːzd/",
+        "chinese": "用过的/二手的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "produce",
+        "role": "V",
+        "phonetic": "/prəˈduːs/",
+        "chinese": "生产"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "variety",
+        "role": "O",
+        "phonetic": "/vəˈraɪəti/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "medicines",
+        "role": "O",
+        "phonetic": "/ˈmedɪsnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果你被蛇咬了尽量保持不动减缓毒素扩散",
+    "english": "if you are bitten by a snake try to remain still to slow the spread of the poison",
+    "soundmark": "/ɪf/ /juː/ /ɑːr/ /ˈbɪtn/ /baɪ/ /ə/ /sneɪk/ /traɪ/ /tuː/ /rɪˈmeɪn/ /stɪl/ /tuː/ /sloʊ/ /ðə/ /spred/ /ʌv/ /ðə/ /ˈpɔɪzn/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "bitten",
+        "role": "V",
+        "phonetic": "/ˈbɪtn/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "snake",
+        "role": "O",
+        "phonetic": "/sneɪk/",
+        "chinese": "蛇"
+      },
+      {
+        "text": "try",
+        "role": "V",
+        "phonetic": "/traɪ/",
+        "chinese": "尝试"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "remain",
+        "role": "Lv",
+        "phonetic": "/rɪˈmeɪn/",
+        "chinese": "保持"
+      },
+      {
+        "text": "still",
+        "role": "C",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "slow",
+        "role": "V",
+        "phonetic": "/sloʊ/",
+        "chinese": "慢的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "spread",
+        "role": "O",
+        "phonetic": "/spred/",
+        "chinese": "传播（过去式/过去分词）"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "poison",
+        "role": "O",
+        "phonetic": "/ˈpɔɪzn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "迅速",
+    "english": "promptly",
+    "soundmark": "/ˈprɑːmptli/"
+  },
+  {
+    "chinese": "治疗",
+    "english": "treatment",
+    "soundmark": "/ˈtriːtmənt/"
+  },
+  {
+    "chinese": "康复",
+    "english": "recover",
+    "soundmark": "/rɪˈkʌvər/"
+  },
+  {
+    "chinese": "扩散",
+    "english": "spread",
+    "soundmark": "/spred/"
+  },
+  {
+    "chinese": "保持",
+    "english": "remain",
+    "soundmark": "/rɪˈmeɪn/"
+  },
+  {
+    "chinese": "不动",
+    "english": "still",
+    "soundmark": "/stɪl/"
+  },
+  {
+    "chinese": "减缓",
+    "english": "slow",
+    "soundmark": "/sloʊ/"
+  },
+  {
+    "chinese": "医药",
+    "english": "medicine",
+    "soundmark": "/ˈmedɪsn/"
+  },
+  {
+    "chinese": "多样",
+    "english": "variety",
+    "soundmark": "/vəˈraɪəti/"
+  },
+  {
+    "chinese": "生产",
+    "english": "produce",
+    "soundmark": "/prəˈduːs/"
+  }
+]

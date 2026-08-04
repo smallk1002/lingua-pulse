@@ -1,0 +1,703 @@
+[
+  {
+    "chinese": "忧虑",
+    "english": "worry",
+    "soundmark": "/ˈwɜːri/"
+  },
+  {
+    "chinese": "无忧的",
+    "english": "carefree",
+    "soundmark": "/ˈkerfriː/"
+  },
+  {
+    "chinese": "焦虑",
+    "english": "anxiety",
+    "soundmark": "/æŋˈzaɪəti/"
+  },
+  {
+    "chinese": "性格",
+    "english": "character",
+    "soundmark": "/ˈkærəktər/"
+  },
+  {
+    "chinese": "对比",
+    "english": "contrast",
+    "soundmark": "/ˈkɑːntræst/"
+  },
+  {
+    "chinese": "乐观的",
+    "english": "optimistic",
+    "soundmark": "/ˌɑːptɪˈmɪstɪk/"
+  },
+  {
+    "chinese": "悲观的",
+    "english": "pessimistic",
+    "soundmark": "/ˌpesɪˈmɪstɪk/"
+  },
+  {
+    "chinese": "担忧",
+    "english": "concern",
+    "soundmark": "/kənˈsɜːrn/"
+  },
+  {
+    "chinese": "紧张的",
+    "english": "nervous",
+    "soundmark": "/ˈnɜːrvəs/"
+  },
+  {
+    "chinese": "平静的",
+    "english": "calm",
+    "soundmark": "/kɑːm/"
+  },
+  {
+    "chinese": "轻松",
+    "english": "relaxed",
+    "soundmark": "/rɪˈlækst/"
+  },
+  {
+    "chinese": "烦恼",
+    "english": "trouble",
+    "soundmark": "/ˈtrʌbəl/"
+  },
+  {
+    "chinese": "压力",
+    "english": "stress",
+    "soundmark": "/stres/"
+  },
+  {
+    "chinese": "无忧无虑的人",
+    "english": "carefree person",
+    "soundmark": "/ˈkerfriː/ /ˈpɜːrsən/"
+  },
+  {
+    "chinese": "过度担忧",
+    "english": "worry excessively",
+    "soundmark": "/ˈwɜːri/ /ɪkˈsesɪvli/"
+  },
+  {
+    "chinese": "他是个从不忧虑任何事情的人",
+    "english": "He is the kind of person who never worries about anything",
+    "soundmark": "/hiː/ /ɪz/ /ðə/ /kaɪnd/ /əv/ /ˈpɜːrsən/ /huː/ /ˈnevər/ /ˈwɜːriz/ /əˈbaʊt/ /ˈeniθɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "kind",
+        "role": "C",
+        "phonetic": "/kaɪnd/",
+        "chinese": "善良的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "person",
+        "role": "O",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "worries",
+        "role": "V",
+        "phonetic": "/ˈwɜːriz/",
+        "chinese": "担心"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      }
+    ]
+  },
+  {
+    "chinese": "她总是担心可能发生的最坏情况",
+    "english": "She always worries about the worst that could happen",
+    "soundmark": "/ʃiː/ /ˈɔːlweɪz/ /ˈwɜːriz/ /əˈbaʊt/ /ðə/ /wɜːrst/ /ðæt/ /kʊd/ /ˈhæpən/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "worries",
+        "role": "V",
+        "phonetic": "/ˈwɜːriz/",
+        "chinese": "担心"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "worst",
+        "role": "O",
+        "phonetic": "/wɜːrst/",
+        "chinese": "最糟"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "happen",
+        "role": "V",
+        "phonetic": "/ˈhæpən/",
+        "chinese": "发生"
+      }
+    ]
+  },
+  {
+    "chinese": "两人的性格截然不同一个忧虑重重另一个则无忧无虑",
+    "english": "The two characters are in sharp contrast one is full of worries while the other is carefree",
+    "soundmark": "/ðə/ /tuː/ /ˈkærəktərz/ /ɑːr/ /ɪn/ /ʃɑːrp/ /ˈkɑːntræst/ /wʌn/ /ɪz/ /fʊl/ /əv/ /ˈwɜːriz/ /waɪl/ /ði/ /ˈʌðər/ /ɪz/ /ˈkerfriː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "characters",
+        "role": "S",
+        "phonetic": "/ˈkærəktərz/",
+        "chinese": "性格/角色"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "sharp",
+        "role": "A",
+        "phonetic": "/ʃɑːrp/",
+        "chinese": "锋利的/尖锐的"
+      },
+      {
+        "text": "contrast",
+        "role": "C",
+        "phonetic": "/ˈkɑːntræst/",
+        "chinese": "对比"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "full",
+        "role": "C",
+        "phonetic": "/fʊl/",
+        "chinese": "满的/饱的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "worries",
+        "role": "O",
+        "phonetic": "/ˈwɜːriz/",
+        "chinese": "担心"
+      },
+      {
+        "text": "while",
+        "role": "A",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "other",
+        "role": "S",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "carefree",
+        "role": "C",
+        "phonetic": "/ˈkerfriː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "过度焦虑会影响一个人的健康和生活质量",
+    "english": "Excessive anxiety can affect a person's health and quality of life",
+    "soundmark": "/ɪkˈsesɪv/ /æŋˈzaɪəti/ /kæn/ /əˈfekt/ /ə/ /ˈpɜːrsənz/ /helθ/ /ənd/ /ˈkwɑːləti/ /əv/ /laɪf/",
+    "grammar": [
+      {
+        "text": "Excessive",
+        "role": "A",
+        "phonetic": "/ɪkˈsesɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "anxiety",
+        "role": "S",
+        "phonetic": "/æŋˈzaɪəti/",
+        "chinese": ""
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "affect",
+        "role": "V",
+        "phonetic": "/əˈfekt/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "person's",
+        "role": "Det",
+        "phonetic": "/ˈpɜːrsənz/",
+        "chinese": "人"
+      },
+      {
+        "text": "health",
+        "role": "O",
+        "phonetic": "/helθ/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "quality",
+        "role": "O",
+        "phonetic": "/ˈkwɑːləti/",
+        "chinese": "质量/品质"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "life",
+        "role": "O",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      }
+    ]
+  },
+  {
+    "chinese": "他面对困难时依然保持冷静",
+    "english": "He remained calm when facing difficulties",
+    "soundmark": "/hiː/ /rɪˈmeɪnd/ /kɑːm/ /wen/ /ˈfeɪsɪŋ/ /ˈdɪfɪkəltiz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "remained",
+        "role": "Lv",
+        "phonetic": "/rɪˈmeɪnd/",
+        "chinese": "保持"
+      },
+      {
+        "text": "calm",
+        "role": "C",
+        "phonetic": "/kɑːm/",
+        "chinese": "平静的/使平静"
+      },
+      {
+        "text": "when",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "facing",
+        "role": "V",
+        "phonetic": "/ˈfeɪsɪŋ/",
+        "chinese": "脸"
+      },
+      {
+        "text": "difficulties",
+        "role": "O",
+        "phonetic": "/ˈdɪfɪkəltiz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她是一个乐天派从来不把事情看得太严重",
+    "english": "She is an optimist who never takes things too seriously",
+    "soundmark": "/ʃiː/ /ɪz/ /ən/ /ˈɑːptɪmɪst/ /huː/ /ˈnevər/ /teɪks/ /θɪŋz/ /tuː/ /ˈsɪriəsli/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "optimist",
+        "role": "C",
+        "phonetic": "/ˈɑːptɪmɪst/",
+        "chinese": ""
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "takes",
+        "role": "V",
+        "phonetic": "/teɪks/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "things",
+        "role": "O",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "seriously",
+        "role": "Adv",
+        "phonetic": "/ˈsɪriəsli/",
+        "chinese": "…地(严肃的)"
+      }
+    ]
+  },
+  {
+    "chinese": "没有什么事情值得你如此忧虑",
+    "english": "Nothing is worth worrying about so much",
+    "soundmark": "/ˈnʌθɪŋ/ /ɪz/ /wɜːrθ/ /ˈwɜːriɪŋ/ /əˈbaʊt/ /soʊ/ /mʌtʃ/",
+    "grammar": [
+      {
+        "text": "Nothing",
+        "role": "S",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "worth",
+        "role": "C",
+        "phonetic": "/wɜːrθ/",
+        "chinese": ""
+      },
+      {
+        "text": "worrying",
+        "role": "V",
+        "phonetic": "/ˈwɜːriɪŋ/",
+        "chinese": "令人担心的"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      }
+    ]
+  },
+  {
+    "chinese": "他的无忧无虑使他在朋友中很受欢迎",
+    "english": "His carefree nature makes him very popular among friends",
+    "soundmark": "/hɪz/ /ˈkerfriː/ /ˈneɪtʃər/ /meɪks/ /hɪm/ /ˈveri/ /ˈpɑːpjələr/ /əˈmʌŋ/ /frendz/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "carefree",
+        "role": "A",
+        "phonetic": "/ˈkerfriː/",
+        "chinese": ""
+      },
+      {
+        "text": "nature",
+        "role": "S",
+        "phonetic": "/ˈneɪtʃər/",
+        "chinese": "自然/本性"
+      },
+      {
+        "text": "makes",
+        "role": "V",
+        "phonetic": "/meɪks/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "popular",
+        "role": "C",
+        "phonetic": "/ˈpɑːpjələr/",
+        "chinese": "流行的"
+      },
+      {
+        "text": "among",
+        "role": "P",
+        "phonetic": "/əˈmʌŋ/",
+        "chinese": "在…之中"
+      },
+      {
+        "text": "friends",
+        "role": "O",
+        "phonetic": "/frendz/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "尽管压力很大他还是轻松自如地应对一切",
+    "english": "Despite the stress he handled everything with ease",
+    "soundmark": "/dɪˈspaɪt/ /ðə/ /stres/ /hiː/ /ˈhændəld/ /ˈevriθɪŋ/ /wɪð/ /iːz/",
+    "grammar": [
+      {
+        "text": "Despite",
+        "role": "P",
+        "phonetic": "/dɪˈspaɪt/",
+        "chinese": "尽管"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "stress",
+        "role": "O",
+        "phonetic": "/stres/",
+        "chinese": "压力/强调"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "handled",
+        "role": "V",
+        "phonetic": "/ˈhændəld/",
+        "chinese": ""
+      },
+      {
+        "text": "everything",
+        "role": "O",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "ease",
+        "role": "A",
+        "phonetic": "/iːz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "乐观",
+    "english": "optimism",
+    "soundmark": "/ˈɑːptɪmɪzəm/"
+  },
+  {
+    "chinese": "悲观",
+    "english": "pessimism",
+    "soundmark": "/ˈpesɪmɪzəm/"
+  },
+  {
+    "chinese": "冷静",
+    "english": "composure",
+    "soundmark": "/kəmˈpoʊʒər/"
+  },
+  {
+    "chinese": "压力",
+    "english": "pressure",
+    "soundmark": "/ˈpreʃər/"
+  },
+  {
+    "chinese": "性格",
+    "english": "temperament",
+    "soundmark": "/ˈtemprəmənt/"
+  },
+  {
+    "chinese": "轻松的",
+    "english": "easygoing",
+    "soundmark": "/ˌiːziˈɡoʊɪŋ/"
+  },
+  {
+    "chinese": "烦恼",
+    "english": "bother",
+    "soundmark": "/ˈbɑːðər/"
+  }
+]

@@ -1,0 +1,718 @@
+[
+  {
+    "chinese": "品牌",
+    "english": "make",
+    "soundmark": "/meɪk/"
+  },
+  {
+    "chinese": "什么",
+    "english": "what",
+    "soundmark": "/wʌt/"
+  },
+  {
+    "chinese": "国籍",
+    "english": "nationality",
+    "soundmark": "/ˌnæʃəˈnæləti/"
+  },
+  {
+    "chinese": "德国",
+    "english": "Germany",
+    "soundmark": "/ˈdʒɜːrməni/"
+  },
+  {
+    "chinese": "法国",
+    "english": "France",
+    "soundmark": "/fræns/"
+  },
+  {
+    "chinese": "英国",
+    "english": "Britain",
+    "soundmark": "/ˈbrɪtən/"
+  },
+  {
+    "chinese": "美国",
+    "english": "America",
+    "soundmark": "/əˈmerɪkə/"
+  },
+  {
+    "chinese": "日本",
+    "english": "Japan",
+    "soundmark": "/dʒəˈpæn/"
+  },
+  {
+    "chinese": "韩国",
+    "english": "Korea",
+    "soundmark": "/kəˈriːə/"
+  },
+  {
+    "chinese": "意大利",
+    "english": "Italy",
+    "soundmark": "/ˈɪtəli/"
+  },
+  {
+    "chinese": "瑞典",
+    "english": "Sweden",
+    "soundmark": "/ˈswiːdən/"
+  },
+  {
+    "chinese": "丰田",
+    "english": "Toyota",
+    "soundmark": "/toʊˈjoʊtə/"
+  },
+  {
+    "chinese": "大众",
+    "english": "Volkswagen",
+    "soundmark": "/ˈfoʊlksvɑːɡən/"
+  },
+  {
+    "chinese": "奔驰",
+    "english": "Mercedes",
+    "soundmark": "/mərˈseɪdiːz/"
+  },
+  {
+    "chinese": "沃尔沃",
+    "english": "Volvo",
+    "soundmark": "/ˈvɔːlvoʊ/"
+  },
+  {
+    "chinese": "三星",
+    "english": "Samsung",
+    "soundmark": "/ˈsæmsʌŋ/"
+  },
+  {
+    "chinese": "苹果",
+    "english": "Apple",
+    "soundmark": "/ˈæpəl/"
+  },
+  {
+    "chinese": "德国的",
+    "english": "German",
+    "soundmark": "/ˈdʒɜːrmən/"
+  },
+  {
+    "chinese": "法国的",
+    "english": "French",
+    "soundmark": "/frentʃ/"
+  },
+  {
+    "chinese": "英国的",
+    "english": "British",
+    "soundmark": "/ˈbrɪtɪʃ/"
+  },
+  {
+    "chinese": "美国的",
+    "english": "American",
+    "soundmark": "/əˈmerɪkən/"
+  },
+  {
+    "chinese": "日本的",
+    "english": "Japanese",
+    "soundmark": "/ˌdʒæpəˈniːz/"
+  },
+  {
+    "chinese": "韩国的",
+    "english": "Korean",
+    "soundmark": "/kəˈriːən/"
+  },
+  {
+    "chinese": "意大利的",
+    "english": "Italian",
+    "soundmark": "/ɪˈtæliən/"
+  },
+  {
+    "chinese": "瑞典的",
+    "english": "Swedish",
+    "soundmark": "/ˈswiːdɪʃ/"
+  },
+  {
+    "chinese": "它是什么牌子的",
+    "english": "What make is it",
+    "soundmark": "/wʌt/ /meɪk/ /ɪz/ /ɪt/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "make",
+        "role": "S",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "这是一辆丰田",
+    "english": "It is a Toyota",
+    "soundmark": "/ɪt/ /ɪz/ /ə/ /toʊˈjoʊtə/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "Toyota",
+        "role": "C",
+        "phonetic": "/toʊˈjoʊtə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这是一辆德国车",
+    "english": "It is a German car",
+    "soundmark": "/ɪt/ /ɪz/ /ə/ /ˈdʒɜːrmən/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "German",
+        "role": "C",
+        "phonetic": "/ˈdʒɜːrmən/",
+        "chinese": "德国人/德语"
+      },
+      {
+        "text": "car",
+        "role": "C",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "这不是日本车",
+    "english": "It is not a Japanese car",
+    "soundmark": "/ɪt/ /ɪz/ /nɑːt/ /ə/ /ˌdʒæpəˈniːz/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "Japanese",
+        "role": "C",
+        "phonetic": "/ˌdʒæpəˈniːz/",
+        "chinese": "日本人/日语"
+      },
+      {
+        "text": "car",
+        "role": "C",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "它是法国车吗",
+    "english": "Is it a French car",
+    "soundmark": "/ɪz/ /ɪt/ /ə/ /frentʃ/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "French",
+        "role": "C",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      },
+      {
+        "text": "car",
+        "role": "C",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "这是一部苹果手机",
+    "english": "It is an Apple phone",
+    "soundmark": "/ɪt/ /ɪz/ /ən/ /ˈæpəl/ /foʊn/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "Apple",
+        "role": "C",
+        "phonetic": "/ˈæpəl/",
+        "chinese": "苹果"
+      },
+      {
+        "text": "phone",
+        "role": "C",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      }
+    ]
+  },
+  {
+    "chinese": "她有一辆意大利车",
+    "english": "She has an Italian car",
+    "soundmark": "/ʃiː/ /hæz/ /ən/ /ɪˈtæliən/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "Italian",
+        "role": "C",
+        "phonetic": "/ɪˈtæliən/",
+        "chinese": "意大利人"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "这是什么牌子的电脑",
+    "english": "What make is this computer",
+    "soundmark": "/wʌt/ /meɪk/ /ɪz/ /ðɪs/ /kəmˈpjuːtər/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "make",
+        "role": "S",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "computer",
+        "role": "C",
+        "phonetic": "/kəmˈpjuːtər/",
+        "chinese": "电脑"
+      }
+    ]
+  },
+  {
+    "chinese": "这是三星",
+    "english": "It is a Samsung",
+    "soundmark": "/ɪt/ /ɪz/ /ə/ /ˈsæmsʌŋ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "Samsung",
+        "role": "C",
+        "phonetic": "/ˈsæmsʌŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这辆沃尔沃是瑞典车",
+    "english": "This Volvo is a Swedish car",
+    "soundmark": "/ðɪs/ /ˈvɔːlvoʊ/ /ɪz/ /ə/ /ˈswiːdɪʃ/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "Volvo",
+        "role": "S",
+        "phonetic": "/ˈvɔːlvoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "Swedish",
+        "role": "C",
+        "phonetic": "/ˈswiːdɪʃ/",
+        "chinese": "瑞典人/瑞典语"
+      },
+      {
+        "text": "car",
+        "role": "C",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "那不是韩国车那是日本车",
+    "english": "That is not a Korean car that is a Japanese car",
+    "soundmark": "/ðæt/ /ɪz/ /nɑːt/ /ə/ /kəˈriːən/ /kɑːr/ /ðæt/ /ɪz/ /ə/ /ˌdʒæpəˈniːz/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "Korean",
+        "role": "C",
+        "phonetic": "/kəˈriːən/",
+        "chinese": "韩国人/韩语"
+      },
+      {
+        "text": "car",
+        "role": "C",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "Japanese",
+        "role": "C",
+        "phonetic": "/ˌdʒæpəˈniːz/",
+        "chinese": "日本人/日语"
+      },
+      {
+        "text": "car",
+        "role": "C",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "他来自英国他开英国车",
+    "english": "He is from Britain he drives a British car",
+    "soundmark": "/hiː/ /ɪz/ /frʌm/ /ˈbrɪtən/ /hiː/ /draɪvz/ /ə/ /ˈbrɪtɪʃ/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "Britain",
+        "role": "C",
+        "phonetic": "/ˈbrɪtən/",
+        "chinese": "英国"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "drives",
+        "role": "V",
+        "phonetic": "/draɪvz/",
+        "chinese": "驾驶"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "British",
+        "role": "C",
+        "phonetic": "/ˈbrɪtɪʃ/",
+        "chinese": ""
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "我父亲有一辆德国奔驰",
+    "english": "My father has a German Mercedes",
+    "soundmark": "/maɪ/ /ˈfɑːðər/ /hæz/ /ə/ /ˈdʒɜːrmən/ /mərˈseɪdiːz/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "father",
+        "role": "S",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "German",
+        "role": "C",
+        "phonetic": "/ˈdʒɜːrmən/",
+        "chinese": "德国人/德语"
+      },
+      {
+        "text": "Mercedes",
+        "role": "C",
+        "phonetic": "/mərˈseɪdiːz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "电脑",
+    "english": "computer",
+    "soundmark": "/kəmˈpjuːtər/"
+  },
+  {
+    "chinese": "电视机",
+    "english": "television",
+    "soundmark": "/ˈtelɪvɪʒən/"
+  },
+  {
+    "chinese": "收音机",
+    "english": "radio",
+    "soundmark": "/ˈreɪdioʊ/"
+  },
+  {
+    "chinese": "驾驶",
+    "english": "drive",
+    "soundmark": "/draɪv/"
+  },
+  {
+    "chinese": "有",
+    "english": "has",
+    "soundmark": "/hæz/"
+  },
+  {
+    "chinese": "冰箱",
+    "english": "refrigerator",
+    "soundmark": "/rɪˈfrɪdʒəreɪtər/"
+  },
+  {
+    "chinese": "洗衣机",
+    "english": "washing machine",
+    "soundmark": "/ˈwɑːʃɪŋ/ /məˈʃiːn/"
+  },
+  {
+    "chinese": "照相机",
+    "english": "camera",
+    "soundmark": "/ˈkæmərə/"
+  },
+  {
+    "chinese": "德国人",
+    "english": "German",
+    "soundmark": "/ˈdʒɜːrmən/"
+  },
+  {
+    "chinese": "日本人",
+    "english": "Japanese",
+    "soundmark": "/ˌdʒæpəˈniːz/"
+  }
+]

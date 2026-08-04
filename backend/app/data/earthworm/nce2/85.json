@@ -1,0 +1,227 @@
+[
+  {
+    "chinese": "校长",
+    "english": "headmaster",
+    "soundmark": "/ˈhedˌmæstər/"
+  },
+  {
+    "chinese": "退休",
+    "english": "retire",
+    "soundmark": "/rɪˈtaɪər/"
+  },
+  {
+    "chinese": "学生",
+    "english": "pupil",
+    "soundmark": "/ˈpjuːpəl/"
+  },
+  {
+    "chinese": "花园",
+    "english": "garden",
+    "soundmark": "/ˈɡɑːrdən/"
+  },
+  {
+    "chinese": "贡献",
+    "english": "contribute",
+    "soundmark": "/kənˈtrɪbjuːt/"
+  },
+  {
+    "chinese": "基金",
+    "english": "fund",
+    "soundmark": "/fʌnd/"
+  },
+  {
+    "chinese": "太老了学不了",
+    "english": "too old to learn",
+    "soundmark": "/tuː oʊld tuː lɜːrn/"
+  },
+  {
+    "chinese": "永远不晚",
+    "english": "never too late",
+    "soundmark": "/ˈnevər tuː leɪt/"
+  },
+  {
+    "chinese": "他太老了爬不了山",
+    "english": "He is too old to climb the mountain",
+    "soundmark": "/hiː ɪz tuː oʊld tuː klaɪm ðə ˈmaʊntɪn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "A",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "climb",
+        "role": "V",
+        "phonetic": "/klaɪm/",
+        "chinese": "爬"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mountain",
+        "role": "O",
+        "phonetic": "/ˈmaʊntɪn/",
+        "chinese": "山"
+      }
+    ]
+  },
+  {
+    "chinese": "活到老学到老",
+    "english": "It is never too late to learn",
+    "soundmark": "/ɪt ɪz ˈnevər tuː leɪt tuː lɜːrn/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "too",
+        "role": "A",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "learn",
+        "role": "V",
+        "phonetic": "/lɜːrn/",
+        "chinese": "学习"
+      }
+    ]
+  },
+  {
+    "chinese": "这箱子太重了我搬不动",
+    "english": "The box is too heavy for me to carry",
+    "soundmark": "/ðə bɒks ɪz tuː ˈhevi fɔːr miː tuː ˈkæri/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "box",
+        "role": "S",
+        "phonetic": "/bɒks/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "A",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "heavy",
+        "role": "C",
+        "phonetic": "/ˈhevi/",
+        "chinese": "重的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "me",
+        "role": "S",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "carry",
+        "role": "V",
+        "phonetic": "/ˈkæri/",
+        "chinese": "搬运"
+      }
+    ]
+  },
+  {
+    "chinese": "退休",
+    "english": "retire",
+    "soundmark": "/rɪˈtaɪər/"
+  },
+  {
+    "chinese": "贡献",
+    "english": "contribute",
+    "soundmark": "/kənˈtrɪbjuːt/"
+  },
+  {
+    "chinese": "太……不能",
+    "english": "too...to",
+    "soundmark": "/tuː...tuː/"
+  },
+  {
+    "chinese": "永远不晚",
+    "english": "never too late",
+    "soundmark": "/ˈnevər tuː leɪt/"
+  }
+]

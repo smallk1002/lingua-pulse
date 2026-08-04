@@ -1,0 +1,445 @@
+[
+  {
+    "chinese": "幻觉",
+    "english": "illusion",
+    "soundmark": "/ɪˈluːʒən/"
+  },
+  {
+    "chinese": "田园的",
+    "english": "pastoral",
+    "soundmark": "/ˈpæstərəl/"
+  },
+  {
+    "chinese": "宁静",
+    "english": "peace",
+    "soundmark": "/piːs/"
+  },
+  {
+    "chinese": "喧闹声",
+    "english": "noise",
+    "soundmark": "/nɔɪz/"
+  },
+  {
+    "chinese": "打扰",
+    "english": "disturb",
+    "soundmark": "/dɪˈstɜːrb/"
+  },
+  {
+    "chinese": "居民",
+    "english": "resident",
+    "soundmark": "/ˈrezɪdənt/"
+  },
+  {
+    "chinese": "乡村",
+    "english": "countryside",
+    "soundmark": "/ˈkʌntrisaɪd/"
+  },
+  {
+    "chinese": "噪音污染",
+    "english": "noise pollution",
+    "soundmark": "/nɔɪz pəˈluːʃən/"
+  },
+  {
+    "chinese": "但愿",
+    "english": "if only",
+    "soundmark": "/ɪf ˈoʊnli/"
+  },
+  {
+    "chinese": "就好像",
+    "english": "as though",
+    "soundmark": "/æz ðoʊ/"
+  },
+  {
+    "chinese": "但愿我能住在乡下。",
+    "english": "If only I could live in the countryside",
+    "soundmark": "/ɪf ˈoʊnli aɪ kʊd lɪv ɪn ðə ˈkʌntrisaɪd/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "A",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "countryside",
+        "role": "A",
+        "phonetic": "/ˈkʌntrisaɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我真希望早点知道乡下的噪音问题。",
+    "english": "I wish I had known about the noise in the countryside earlier",
+    "soundmark": "/aɪ wɪʃ aɪ hæd noʊn əˈbaʊt ðə nɔɪz ɪn ðə ˈkʌntrisaɪd ˈɜːrliər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "noise",
+        "role": "O",
+        "phonetic": "/nɔɪz/",
+        "chinese": "噪音"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "countryside",
+        "role": "A",
+        "phonetic": "/ˈkʌntrisaɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "earlier",
+        "role": "A",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      }
+    ]
+  },
+  {
+    "chinese": "好像乡下生活是绝对平静的。",
+    "english": "It seems as though life in the country is perfectly peaceful",
+    "soundmark": "/ɪt siːmz æz ðoʊ laɪf ɪn ðə ˈkʌntri ɪz ˈpɜːrfɪktli ˈpiːsfəl/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "seems",
+        "role": "V",
+        "phonetic": "/siːmz/",
+        "chinese": "似乎"
+      },
+      {
+        "text": "as",
+        "role": "A",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "though",
+        "role": "A",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "life",
+        "role": "S",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "country",
+        "role": "A",
+        "phonetic": "/ˈkʌntri/",
+        "chinese": "国家"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "perfectly",
+        "role": "Adv",
+        "phonetic": "/ˈpɜːrfɪktli/",
+        "chinese": "…地(完美的)"
+      },
+      {
+        "text": "peaceful",
+        "role": "C",
+        "phonetic": "/ˈpiːsfəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果居民知道噪音污染如此严重他们绝不会搬来。",
+    "english": "If the residents had known about the noise pollution they would never have moved here",
+    "soundmark": "/ɪf ðə ˈrezɪdənts hæd noʊn əˈbaʊt ðə nɔɪz pəˈluːʃən ðeɪ wʊd ˈnevər hæv muːvd hɪr/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "A",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "residents",
+        "role": "S",
+        "phonetic": "/ˈrezɪdənts/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "noise",
+        "role": "C",
+        "phonetic": "/nɔɪz/",
+        "chinese": "噪音"
+      },
+      {
+        "text": "pollution",
+        "role": "O",
+        "phonetic": "/pəˈluːʃən/",
+        "chinese": "污染"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "moved",
+        "role": "V",
+        "phonetic": "/muːvd/",
+        "chinese": "移动"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "田园宁静不过是个幻觉。",
+    "english": "Pastoral peace is nothing but an illusion",
+    "soundmark": "/ˈpæstərəl piːs ɪz ˈnʌθɪŋ bʌt ən ɪˈluːʒən/",
+    "grammar": [
+      {
+        "text": "Pastoral",
+        "role": "C",
+        "phonetic": "/ˈpæstərəl/",
+        "chinese": ""
+      },
+      {
+        "text": "peace",
+        "role": "S",
+        "phonetic": "/piːs/",
+        "chinese": "和平"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "nothing",
+        "role": "C",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "but",
+        "role": "A",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "illusion",
+        "role": "C",
+        "phonetic": "/ɪˈluːʒən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "幻觉",
+    "english": "illusion",
+    "soundmark": "/ɪˈluːʒən/"
+  },
+  {
+    "chinese": "田园的",
+    "english": "pastoral",
+    "soundmark": "/ˈpæstərəl/"
+  },
+  {
+    "chinese": "宁静",
+    "english": "peace",
+    "soundmark": "/piːs/"
+  },
+  {
+    "chinese": "喧闹声",
+    "english": "noise",
+    "soundmark": "/nɔɪz/"
+  },
+  {
+    "chinese": "打扰",
+    "english": "disturb",
+    "soundmark": "/dɪˈstɜːrb/"
+  },
+  {
+    "chinese": "居民",
+    "english": "resident",
+    "soundmark": "/ˈrezɪdənt/"
+  },
+  {
+    "chinese": "乡村",
+    "english": "countryside",
+    "soundmark": "/ˈkʌntrisaɪd/"
+  },
+  {
+    "chinese": "污染",
+    "english": "pollution",
+    "soundmark": "/pəˈluːʃən/"
+  }
+]

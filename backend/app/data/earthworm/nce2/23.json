@@ -1,0 +1,681 @@
+[
+  {
+    "chinese": "房子",
+    "english": "house",
+    "soundmark": "/haʊs/"
+  },
+  {
+    "chinese": "新的",
+    "english": "new",
+    "soundmark": "/nuː/"
+  },
+  {
+    "chinese": "搬",
+    "english": "move",
+    "soundmark": "/muːv/"
+  },
+  {
+    "chinese": "搬家",
+    "english": "move house",
+    "soundmark": "/muːv/ /haʊs/"
+  },
+  {
+    "chinese": "邻居",
+    "english": "neighbour",
+    "soundmark": "/ˈneɪbər/"
+  },
+  {
+    "chinese": "令人惊讶的",
+    "english": "surprising",
+    "soundmark": "/sərˈpraɪzɪŋ/"
+  },
+  {
+    "chinese": "花园",
+    "english": "garden",
+    "soundmark": "/ˈɡɑːrdən/"
+  },
+  {
+    "chinese": "客厅",
+    "english": "living room",
+    "soundmark": "/ˈlɪvɪŋ/ /ruːm/"
+  },
+  {
+    "chinese": "卧室",
+    "english": "bedroom",
+    "soundmark": "/ˈbedruːm/"
+  },
+  {
+    "chinese": "厨房",
+    "english": "kitchen",
+    "soundmark": "/ˈkɪtʃɪn/"
+  },
+  {
+    "chinese": "浴室",
+    "english": "bathroom",
+    "soundmark": "/ˈbæθruːm/"
+  },
+  {
+    "chinese": "漂亮",
+    "english": "pretty",
+    "soundmark": "/ˈprɪti/"
+  },
+  {
+    "chinese": "现代的",
+    "english": "modern",
+    "soundmark": "/ˈmɑːdərn/"
+  },
+  {
+    "chinese": "舒适的",
+    "english": "comfortable",
+    "soundmark": "/ˈkʌmftəbəl/"
+  },
+  {
+    "chinese": "装饰",
+    "english": "decorate",
+    "soundmark": "/ˈdekəreɪt/"
+  },
+  {
+    "chinese": "我们下个月将搬进新房子",
+    "english": "We will move to a new house next month",
+    "soundmark": "/wiː/ /wɪl/ /muːv/ /tuː/ /ə/ /nuː/ /haʊs/ /nekst/ /mʌnθ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "move",
+        "role": "V",
+        "phonetic": "/muːv/",
+        "chinese": "移动"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "month",
+        "role": "A",
+        "phonetic": "/mʌnθ/",
+        "chinese": "月"
+      }
+    ]
+  },
+  {
+    "chinese": "我将有一个大花园",
+    "english": "I will have a big garden",
+    "soundmark": "/aɪ/ /wɪl/ /hæv/ /ə/ /bɪɡ/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "A",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "我的新房子将有三间卧室",
+    "english": "My new house will have three bedrooms",
+    "soundmark": "/maɪ/ /nuː/ /haʊs/ /wɪl/ /hæv/ /θriː/ /ˈbedruːmz/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "house",
+        "role": "S",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "bedrooms",
+        "role": "O",
+        "phonetic": "/ˈbedruːmz/",
+        "chinese": "卧室"
+      }
+    ]
+  },
+  {
+    "chinese": "我们将有一间漂亮的客厅",
+    "english": "We will have a pretty living room",
+    "soundmark": "/wiː/ /wɪl/ /hæv/ /ə/ /ˈprɪti/ /ˈlɪvɪŋ/ /ruːm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pretty",
+        "role": "A",
+        "phonetic": "/ˈprɪti/",
+        "chinese": "漂亮的"
+      },
+      {
+        "text": "living",
+        "role": "A",
+        "phonetic": "/ˈlɪvɪŋ/",
+        "chinese": "活着的/生活的"
+      },
+      {
+        "text": "room",
+        "role": "O",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "我将装饰我的新卧室",
+    "english": "I will decorate my new bedroom",
+    "soundmark": "/aɪ/ /wɪl/ /ˈdekəreɪt/ /maɪ/ /nuː/ /ˈbedruːm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "decorate",
+        "role": "V",
+        "phonetic": "/ˈdekəreɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "bedroom",
+        "role": "O",
+        "phonetic": "/ˈbedruːm/",
+        "chinese": "卧室"
+      }
+    ]
+  },
+  {
+    "chinese": "新厨房将会有现代化设备",
+    "english": "The new kitchen will have modern equipment",
+    "soundmark": "/ðə/ /nuː/ /ˈkɪtʃɪn/ /wɪl/ /hæv/ /ˈmɑːdərn/ /ɪˈkwɪpmənt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "kitchen",
+        "role": "S",
+        "phonetic": "/ˈkɪtʃɪn/",
+        "chinese": "厨房"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "modern",
+        "role": "A",
+        "phonetic": "/ˈmɑːdərn/",
+        "chinese": "现代的"
+      },
+      {
+        "text": "equipment",
+        "role": "O",
+        "phonetic": "/ɪˈkwɪpmənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们的新邻居将会很友好",
+    "english": "Our new neighbours will be very friendly",
+    "soundmark": "/ˈaʊər/ /nuː/ /ˈneɪbərz/ /wɪl/ /biː/ /ˈveri/ /ˈfrendli/",
+    "grammar": [
+      {
+        "text": "Our",
+        "role": "Det",
+        "phonetic": "/ˈaʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "neighbours",
+        "role": "S",
+        "phonetic": "/ˈneɪbərz/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "friendly",
+        "role": "C",
+        "phonetic": "/ˈfrendli/",
+        "chinese": "…地(朋友)"
+      }
+    ]
+  },
+  {
+    "chinese": "这房子将会非常舒适",
+    "english": "The house will be very comfortable",
+    "soundmark": "/ðə/ /haʊs/ /wɪl/ /biː/ /ˈveri/ /ˈkʌmftəbəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "S",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "comfortable",
+        "role": "C",
+        "phonetic": "/ˈkʌmftəbəl/",
+        "chinese": "舒适的"
+      }
+    ]
+  },
+  {
+    "chinese": "我将在花园里种花",
+    "english": "I will plant flowers in the garden",
+    "soundmark": "/aɪ/ /wɪl/ /plænt/ /ˈflaʊərz/ /ɪn/ /ðə/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "plant",
+        "role": "V",
+        "phonetic": "/plænt/",
+        "chinese": "种植/植物"
+      },
+      {
+        "text": "flowers",
+        "role": "O",
+        "phonetic": "/ˈflaʊərz/",
+        "chinese": "花"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "我迫不及待想搬进去",
+    "english": "I cannot wait to move in",
+    "soundmark": "/aɪ/ /ˈkænɑːt/ /weɪt/ /tuː/ /muːv/ /ɪn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "wait",
+        "role": "V",
+        "phonetic": "/weɪt/",
+        "chinese": "等"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "move",
+        "role": "V",
+        "phonetic": "/muːv/",
+        "chinese": "移动"
+      },
+      {
+        "text": "in",
+        "role": "Adv",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "搬家的那天将会很忙碌",
+    "english": "Moving day will be very busy",
+    "soundmark": "/ˈmuːvɪŋ/ /deɪ/ /wɪl/ /biː/ /ˈveri/ /ˈbɪzi/",
+    "grammar": [
+      {
+        "text": "Moving",
+        "role": "A",
+        "phonetic": "/ˈmuːvɪŋ/",
+        "chinese": "移动的/感人的"
+      },
+      {
+        "text": "day",
+        "role": "S",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "busy",
+        "role": "C",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们将邀请朋友来参观",
+    "english": "We will invite friends to visit",
+    "soundmark": "/wiː/ /wɪl/ /ɪnˈvaɪt/ /frendz/ /tuː/ /ˈvɪzɪt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "invite",
+        "role": "V",
+        "phonetic": "/ɪnˈvaɪt/",
+        "chinese": "邀请"
+      },
+      {
+        "text": "friends",
+        "role": "O",
+        "phonetic": "/frendz/",
+        "chinese": "朋友"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "visit",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪt/",
+        "chinese": "访问/参观"
+      }
+    ]
+  },
+  {
+    "chinese": "邻居",
+    "english": "neighbour",
+    "soundmark": "/ˈneɪbər/"
+  },
+  {
+    "chinese": "现代化",
+    "english": "modern",
+    "soundmark": "/ˈmɑːdərn/"
+  },
+  {
+    "chinese": "舒适的",
+    "english": "comfortable",
+    "soundmark": "/ˈkʌmftəbəl/"
+  },
+  {
+    "chinese": "装饰",
+    "english": "decorate",
+    "soundmark": "/ˈdekəreɪt/"
+  },
+  {
+    "chinese": "邀请",
+    "english": "invite",
+    "soundmark": "/ɪnˈvaɪt/"
+  },
+  {
+    "chinese": "忙碌的",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "参观",
+    "english": "visit",
+    "soundmark": "/ˈvɪzɪt/"
+  },
+  {
+    "chinese": "种花",
+    "english": "plant flowers",
+    "soundmark": "/plænt/ /ˈflaʊərz/"
+  }
+]

@@ -1,0 +1,1770 @@
+[
+  {
+    "chinese": "金矿",
+    "english": "gold mine",
+    "soundmark": "/ɡoʊld maɪn/"
+  },
+  {
+    "chinese": "发明",
+    "english": "invent",
+    "soundmark": "/ɪnˈvent/"
+  },
+  {
+    "chinese": "探测",
+    "english": "detect",
+    "soundmark": "/dɪˈtekt/"
+  },
+  {
+    "chinese": "财宝",
+    "english": "treasure",
+    "soundmark": "/ˈtreʒər/"
+  },
+  {
+    "chinese": "价值",
+    "english": "value",
+    "soundmark": "/ˈvæljuː/"
+  },
+  {
+    "chinese": "埋藏",
+    "english": "bury",
+    "soundmark": "/ˈberi/"
+  },
+  {
+    "chinese": "海盗",
+    "english": "pirate",
+    "soundmark": "/ˈpaɪrət/"
+  },
+  {
+    "chinese": "设备",
+    "english": "equipment",
+    "soundmark": "/ɪˈkwɪpmənt/"
+  },
+  {
+    "chinese": "失望的",
+    "english": "disappointed",
+    "soundmark": "/ˌdɪsəˈpɔɪntɪd/"
+  },
+  {
+    "chinese": "搜寻",
+    "english": "search",
+    "soundmark": "/sɜːrtʃ/"
+  },
+  {
+    "chinese": "过去常常",
+    "english": "used to",
+    "soundmark": "/juːzd tuː/"
+  },
+  {
+    "chinese": "寻找黄金",
+    "english": "search for gold",
+    "soundmark": "/sɜːrtʃ fɔːr ɡoʊld/"
+  },
+  {
+    "chinese": "发现财宝",
+    "english": "find treasure",
+    "soundmark": "/faɪnd ˈtreʒər/"
+  },
+  {
+    "chinese": "一台新设备",
+    "english": "a new equipment",
+    "soundmark": "/ə nuː ɪˈkwɪpmənt/"
+  },
+  {
+    "chinese": "埋藏的黄金",
+    "english": "buried gold",
+    "soundmark": "/ˈberid ɡoʊld/"
+  },
+  {
+    "chinese": "探索岛屿",
+    "english": "explore the island",
+    "soundmark": "/ɪkˈsplɔːr ðə ˈaɪlənd/"
+  },
+  {
+    "chinese": "我过去常常爬山",
+    "english": "I used to climb mountains",
+    "soundmark": "/aɪ juːzd tuː klaɪm ˈmaʊntənz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "climb",
+        "role": "V",
+        "phonetic": "/klaɪm/",
+        "chinese": "爬"
+      },
+      {
+        "text": "mountains",
+        "role": "O",
+        "phonetic": "/ˈmaʊntənz/",
+        "chinese": "山"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常寻找金矿",
+    "english": "He used to search for gold mines",
+    "soundmark": "/hiː juːzd tuː sɜːrtʃ fɔːr ɡoʊld maɪnz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "search",
+        "role": "V",
+        "phonetic": "/sɜːrtʃ/",
+        "chinese": "搜索"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "gold",
+        "role": "A",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "mines",
+        "role": "O",
+        "phonetic": "/maɪnz/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "他们过去常常相信这里有财宝",
+    "english": "They used to believe there was treasure here",
+    "soundmark": "/ðeɪ juːzd tuː bɪˈliːv ðer wʌz ˈtreʒər hɪr/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "believe",
+        "role": "V",
+        "phonetic": "/bɪˈliːv/",
+        "chinese": "相信"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "treasure",
+        "role": "O",
+        "phonetic": "/ˈtreʒər/",
+        "chinese": "宝藏"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "她过去常常梦想成为发明家",
+    "english": "She used to dream of becoming an inventor",
+    "soundmark": "/ʃiː juːzd tuː driːm ʌv bɪˈkʌmɪŋ ən ɪnˈventər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "dream",
+        "role": "V",
+        "phonetic": "/driːm/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "becoming",
+        "role": "V",
+        "phonetic": "/bɪˈkʌmɪŋ/",
+        "chinese": "变成"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "inventor",
+        "role": "O",
+        "phonetic": "/ɪnˈventər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "以前人们常常埋藏黄金",
+    "english": "People used to bury gold",
+    "soundmark": "/ˈpiːpəl juːzd tuː ˈberi ɡoʊld/",
+    "grammar": [
+      {
+        "text": "People",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "bury",
+        "role": "V",
+        "phonetic": "/ˈberi/",
+        "chinese": ""
+      },
+      {
+        "text": "gold",
+        "role": "O",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      }
+    ]
+  },
+  {
+    "chinese": "这地方过去是金矿",
+    "english": "This place used to be a gold mine",
+    "soundmark": "/ðɪs pleɪs juːzd tuː biː ə ɡoʊld maɪn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "place",
+        "role": "S",
+        "phonetic": "/pleɪs/",
+        "chinese": "地方"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "gold",
+        "role": "A",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "我小时候常常在海滩上玩",
+    "english": "I used to play on the beach when I was a child",
+    "soundmark": "/aɪ juːzd tuː pleɪ ɑːn ðə biːtʃ wen aɪ wʌz ə tʃaɪld/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "play",
+        "role": "V",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "beach",
+        "role": "O",
+        "phonetic": "/biːtʃ/",
+        "chinese": "海滩"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "child",
+        "role": "C",
+        "phonetic": "/tʃaɪld/",
+        "chinese": "孩子"
+      }
+    ]
+  },
+  {
+    "chinese": "他现在不爬山了",
+    "english": "He does not climb mountains any more",
+    "soundmark": "/hiː dʌz nɑːt klaɪm ˈmaʊntənz ˈeni mɔːr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "climb",
+        "role": "V",
+        "phonetic": "/klaɪm/",
+        "chinese": "爬"
+      },
+      {
+        "text": "mountains",
+        "role": "O",
+        "phonetic": "/ˈmaʊntənz/",
+        "chinese": "山"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      }
+    ]
+  },
+  {
+    "chinese": "他每天都会检查那台设备",
+    "english": "He would check the equipment every day",
+    "soundmark": "/hiː wʊd tʃek ðə ɪˈkwɪpmənt ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "check",
+        "role": "V",
+        "phonetic": "/tʃek/",
+        "chinese": "检查"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "equipment",
+        "role": "O",
+        "phonetic": "/ɪˈkwɪpmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "海盗们会把金子埋在这些岛上",
+    "english": "Pirates would bury gold on these islands",
+    "soundmark": "/ˈpaɪrəts wʊd ˈberi ɡoʊld ɑːn ðiːz ˈaɪləndz/",
+    "grammar": [
+      {
+        "text": "Pirates",
+        "role": "S",
+        "phonetic": "/ˈpaɪrəts/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "bury",
+        "role": "V",
+        "phonetic": "/ˈberi/",
+        "chinese": ""
+      },
+      {
+        "text": "gold",
+        "role": "O",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "islands",
+        "role": "A",
+        "phonetic": "/ˈaɪləndz/",
+        "chinese": "…们/复数(岛屿)"
+      }
+    ]
+  },
+  {
+    "chinese": "他会一连数小时搜寻财宝",
+    "english": "He would search for treasure for hours",
+    "soundmark": "/hiː wʊd sɜːrtʃ fɔːr ˈtreʒər fɔːr aʊərz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "search",
+        "role": "V",
+        "phonetic": "/sɜːrtʃ/",
+        "chinese": "搜索"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "treasure",
+        "role": "O",
+        "phonetic": "/ˈtreʒər/",
+        "chinese": "宝藏"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/aʊərz/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "他常常会带着那台探测仪",
+    "english": "He would bring the detector with him",
+    "soundmark": "/hiː wʊd brɪŋ ðə dɪˈtektər wɪð hɪm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "bring",
+        "role": "V",
+        "phonetic": "/brɪŋ/",
+        "chinese": "带来"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "detector",
+        "role": "O",
+        "phonetic": "/dɪˈtektər/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "每次都会空手而回",
+    "english": "He would come back empty-handed every time",
+    "soundmark": "/hiː wʊd kʌm bæk ˌempti ˈhændɪd ˈevri taɪm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "back",
+        "role": "Adv",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "empty-handed",
+        "role": "C",
+        "phonetic": "/ˌempti ˈhændɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "我过去住在一个小岛上",
+    "english": "I used to live on a small island",
+    "soundmark": "/aɪ juːzd tuː lɪv ɑːn ə smɔːl ˈaɪlənd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "small",
+        "role": "A",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "island",
+        "role": "O",
+        "phonetic": "/ˈaɪlənd/",
+        "chinese": "岛屿"
+      }
+    ]
+  },
+  {
+    "chinese": "她过去是村里最好的厨师",
+    "english": "She used to be the best cook in the village",
+    "soundmark": "/ʃiː juːzd tuː biː ðə best kʊk ɪn ðə ˈvɪlɪdʒ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "best",
+        "role": "A",
+        "phonetic": "/best/",
+        "chinese": "最好"
+      },
+      {
+        "text": "cook",
+        "role": "C",
+        "phonetic": "/kʊk/",
+        "chinese": "烹饪"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "village",
+        "role": "A",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "chinese": "村庄"
+      }
+    ]
+  },
+  {
+    "chinese": "我爷爷过去常常给我们讲故事",
+    "english": "My grandfather used to tell us stories",
+    "soundmark": "/maɪ ˈɡrænfɑːðər juːzd tuː tel ʌs ˈstɔːriz/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "grandfather",
+        "role": "S",
+        "phonetic": "/ˈɡrænfɑːðər/",
+        "chinese": ""
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "stories",
+        "role": "O",
+        "phonetic": "/ˈstɔːriz/",
+        "chinese": "故事"
+      }
+    ]
+  },
+  {
+    "chinese": "过去在这个地区有更多野生动物",
+    "english": "There used to be more wildlife in this area",
+    "soundmark": "/ðer juːzd tuː biː mɔːr ˈwaɪldlaɪf ɪn ðɪs ˈeriə/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "Det",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "wildlife",
+        "role": "S",
+        "phonetic": "/ˈwaɪldlaɪf/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "area",
+        "role": "A",
+        "phonetic": "/ˈeriə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常凌晨五点起床",
+    "english": "He used to get up at five in the morning",
+    "soundmark": "/hiː juːzd tuː ɡet ʌp æt faɪv ɪn ðə ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "five",
+        "role": "A",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "他每天会去山里找金子",
+    "english": "He would go into the mountains to look for gold every day",
+    "soundmark": "/hiː wʊd ɡoʊ ˈɪntuː ðə ˈmaʊntənz tuː lʊk fɔːr ɡoʊld ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mountains",
+        "role": "O",
+        "phonetic": "/ˈmaʊntənz/",
+        "chinese": "山"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "look",
+        "role": "V",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "gold",
+        "role": "O",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "她总是会带着那张旧地图",
+    "english": "She would always bring the old map along",
+    "soundmark": "/ʃiː wʊd ˈɔːlweɪz brɪŋ ðə oʊld mæp əˈlɔːŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "bring",
+        "role": "V",
+        "phonetic": "/brɪŋ/",
+        "chinese": "带来"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "map",
+        "role": "O",
+        "phonetic": "/mæp/",
+        "chinese": ""
+      },
+      {
+        "text": "along",
+        "role": "Adv",
+        "phonetic": "/əˈlɔːŋ/",
+        "chinese": "沿着"
+      }
+    ]
+  },
+  {
+    "chinese": "他们过去不住在海边",
+    "english": "They did not use to live by the sea",
+    "soundmark": "/ðeɪ dɪd nɑːt juːs tuː lɪv baɪ ðə siː/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "use",
+        "role": "V",
+        "phonetic": "/juːs/",
+        "chinese": "使用"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sea",
+        "role": "O",
+        "phonetic": "/siː/",
+        "chinese": "海"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去抽烟但是现在戒了",
+    "english": "He used to smoke but he has given it up now",
+    "soundmark": "/hiː juːzd tuː smoʊk bʌt hiː hæz ˈɡɪvən ɪt ʌp naʊ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "smoke",
+        "role": "V",
+        "phonetic": "/smoʊk/",
+        "chinese": "抽烟/烟"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "given",
+        "role": "V",
+        "phonetic": "/ˈɡɪvən/",
+        "chinese": "给定的"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "我过去以为那里真的有金矿",
+    "english": "I used to think there was really a gold mine there",
+    "soundmark": "/aɪ juːzd tuː θɪŋk ðer wʌz ˈriːəli ə ɡoʊld maɪn ðer/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "really",
+        "role": "Adv",
+        "phonetic": "/ˈriːəli/",
+        "chinese": "真正地"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "gold",
+        "role": "A",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "mine",
+        "role": "S",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常一整天待在山里",
+    "english": "He used to spend the whole day in the mountains",
+    "soundmark": "/hiː juːzd tuː spend ðə hoʊl deɪ ɪn ðə ˈmaʊntənz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "spend",
+        "role": "V",
+        "phonetic": "/spend/",
+        "chinese": "花费"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "A",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mountains",
+        "role": "A",
+        "phonetic": "/ˈmaʊntənz/",
+        "chinese": "山"
+      }
+    ]
+  },
+  {
+    "chinese": "他常常会连续数周寻找宝藏",
+    "english": "He would hunt for treasure for weeks on end",
+    "soundmark": "/hiː wʊd hʌnt fɔːr ˈtreʒər fɔːr wiːks ɑːn end/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "hunt",
+        "role": "V",
+        "phonetic": "/hʌnt/",
+        "chinese": "打猎"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "treasure",
+        "role": "O",
+        "phonetic": "/ˈtreʒər/",
+        "chinese": "宝藏"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "weeks",
+        "role": "A",
+        "phonetic": "/wiːks/",
+        "chinese": "周"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "end",
+        "role": "O",
+        "phonetic": "/end/",
+        "chinese": "结束"
+      }
+    ]
+  },
+  {
+    "chinese": "探测仪以前经常出故障",
+    "english": "The detector used to break down often",
+    "soundmark": "/ðə dɪˈtektər juːzd tuː breɪk daʊn ˈɔːfən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "detector",
+        "role": "S",
+        "phonetic": "/dɪˈtektər/",
+        "chinese": ""
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "break",
+        "role": "V",
+        "phonetic": "/breɪk/",
+        "chinese": "打破"
+      },
+      {
+        "text": "down",
+        "role": "Adv",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      }
+    ]
+  },
+  {
+    "chinese": "那台设备不像过去那么好用了",
+    "english": "The equipment does not work as well as it used to",
+    "soundmark": "/ðə ɪˈkwɪpmənt dʌz nɑːt wɜːrk æz wel æz ɪt juːzd tuː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "equipment",
+        "role": "S",
+        "phonetic": "/ɪˈkwɪpmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "well",
+        "role": "Adv",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːzd tuː/",
+        "chinese": "过去常常"
+      }
+    ]
+  },
+  {
+    "chinese": "我们现在知道那不是金矿",
+    "english": "We now know it was not a gold mine",
+    "soundmark": "/wiː naʊ noʊ ɪt wʌz nɑːt ə ɡoʊld maɪn/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "now",
+        "role": "Adv",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "gold",
+        "role": "A",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去天天会到海滩上用探测仪搜寻",
+    "english": "He would go to the beach with his detector every single day",
+    "soundmark": "/hiː wʊd ɡoʊ tuː ðə biːtʃ wɪð hɪz dɪˈtektər ˈevri ˈsɪŋɡəl deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "beach",
+        "role": "O",
+        "phonetic": "/biːtʃ/",
+        "chinese": "海滩"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "detector",
+        "role": "O",
+        "phonetic": "/dɪˈtektər/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "single",
+        "role": "A",
+        "phonetic": "/ˈsɪŋɡəl/",
+        "chinese": ""
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "谁也不会想到那根本不值钱",
+    "english": "Nobody would have thought it was worthless",
+    "soundmark": "/ˈnoʊbədi wʊd hæv θɔːt ɪt wʌz ˈwɜːrθləs/",
+    "grammar": [
+      {
+        "text": "Nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɔːt/",
+        "chinese": "想/认为（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "worthless",
+        "role": "C",
+        "phonetic": "/ˈwɜːrθləs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "探测",
+    "english": "detection",
+    "soundmark": "/dɪˈtekʃən/"
+  },
+  {
+    "chinese": "探测器",
+    "english": "detector",
+    "soundmark": "/dɪˈtektər/"
+  },
+  {
+    "chinese": "无价值的",
+    "english": "worthless",
+    "soundmark": "/ˈwɜːrθləs/"
+  },
+  {
+    "chinese": "空手而归",
+    "english": "empty-handed",
+    "soundmark": "/ˌempti ˈhændɪd/"
+  },
+  {
+    "chinese": "打猎",
+    "english": "hunt",
+    "soundmark": "/hʌnt/"
+  },
+  {
+    "chinese": "中断故障",
+    "english": "break down",
+    "soundmark": "/breɪk daʊn/"
+  },
+  {
+    "chinese": "岛屿",
+    "english": "island",
+    "soundmark": "/ˈaɪlənd/"
+  },
+  {
+    "chinese": "地图",
+    "english": "map",
+    "soundmark": "/mæp/"
+  },
+  {
+    "chinese": "梦",
+    "english": "dream",
+    "soundmark": "/driːm/"
+  },
+  {
+    "chinese": "发明家",
+    "english": "inventor",
+    "soundmark": "/ɪnˈventər/"
+  }
+]

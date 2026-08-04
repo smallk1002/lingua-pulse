@@ -1,0 +1,750 @@
+[
+  {
+    "chinese": "建议",
+    "english": "suggestion",
+    "soundmark": "/səˈdʒestʃən/"
+  },
+  {
+    "chinese": "为什么不",
+    "english": "why not",
+    "soundmark": "/waɪ nɑːt/"
+  },
+  {
+    "chinese": "让我们",
+    "english": "let us",
+    "soundmark": "/let ʌs/"
+  },
+  {
+    "chinese": "怎么样",
+    "english": "how about",
+    "soundmark": "/haʊ əˈbaʊt/"
+  },
+  {
+    "chinese": "好主意",
+    "english": "good idea",
+    "soundmark": "/ɡʊd aɪˈdiːə/"
+  },
+  {
+    "chinese": "看电影",
+    "english": "watch a movie",
+    "soundmark": "/wɑːtʃ ə ˈmuːvi/"
+  },
+  {
+    "chinese": "散步",
+    "english": "take a walk",
+    "soundmark": "/teɪk ə wɔːk/"
+  },
+  {
+    "chinese": "购物",
+    "english": "go shopping",
+    "soundmark": "/ɡoʊ ˈʃɑːpɪŋ/"
+  },
+  {
+    "chinese": "我们去看电影吧",
+    "english": "Let us go to the cinema",
+    "soundmark": "/let ʌs ɡoʊ tuː ðə ˈsɪnəmə/",
+    "grammar": [
+      {
+        "text": "Let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to the cinema",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈsɪnəmə/",
+        "chinese": "到/向/这个/那个/电影院"
+      }
+    ]
+  },
+  {
+    "chinese": "为什么不出去散步呢",
+    "english": "Why not go for a walk",
+    "soundmark": "/waɪ nɑːt ɡoʊ fɔːr ə wɔːk/",
+    "grammar": [
+      {
+        "text": "Why not",
+        "role": "Adv",
+        "phonetic": "/waɪ nɑːt/",
+        "chinese": "为什么/不"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "for a walk",
+        "role": "A",
+        "phonetic": "/fɔːr ə wɔːk/",
+        "chinese": "为了/对于/一个/走"
+      }
+    ]
+  },
+  {
+    "chinese": "好主意",
+    "english": "That is a good idea",
+    "soundmark": "/ðæt ɪz ə ɡʊd aɪˈdiːə/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a good idea",
+        "role": "C",
+        "phonetic": "/ə ɡʊd aɪˈdiːə/",
+        "chinese": "一个/好的/想法"
+      }
+    ]
+  },
+  {
+    "chinese": "我们去购物怎么样",
+    "english": "How about going shopping",
+    "soundmark": "/haʊ əˈbaʊt ˈɡoʊɪŋ ˈʃɑːpɪŋ/",
+    "grammar": [
+      {
+        "text": "How about",
+        "role": "Adv",
+        "phonetic": "/haʊ əˈbaʊt/",
+        "chinese": "怎么/关于/大约"
+      },
+      {
+        "text": "going shopping",
+        "role": "S",
+        "phonetic": "/ˈɡoʊɪŋ ˈʃɑːpɪŋ/",
+        "chinese": "去购物"
+      }
+    ]
+  },
+  {
+    "chinese": "让我们休息一下吧",
+    "english": "Let us take a break",
+    "soundmark": "/let ʌs teɪk ə breɪk/",
+    "grammar": [
+      {
+        "text": "Let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "a break",
+        "role": "O",
+        "phonetic": "/ə breɪk/",
+        "chinese": "一个/打破"
+      }
+    ]
+  },
+  {
+    "chinese": "我们今晚出去吃饭吧",
+    "english": "Why not eat out tonight",
+    "soundmark": "/waɪ nɑːt iːt aʊt təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "Why not",
+        "role": "Adv",
+        "phonetic": "/waɪ nɑːt/",
+        "chinese": "为什么/不"
+      },
+      {
+        "text": "eat out",
+        "role": "V",
+        "phonetic": "/iːt aʊt/",
+        "chinese": "吃/出去"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "电影院",
+    "english": "cinema",
+    "soundmark": "/ˈsɪnəmə/"
+  },
+  {
+    "chinese": "休息",
+    "english": "break",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "chinese": "外出吃饭",
+    "english": "eat out",
+    "soundmark": "/iːt aʊt/"
+  },
+  {
+    "chinese": "购物",
+    "english": "go shopping",
+    "soundmark": "/ɡoʊ ˈʃɑːpɪŋ/"
+  },
+  {
+    "chinese": "散步",
+    "english": "take a walk",
+    "soundmark": "/teɪk ə wɔːk/"
+  },
+  {
+    "chinese": "我们今晚去看电影怎么样",
+    "english": "How about seeing a movie tonight",
+    "soundmark": "/haʊ əˈbaʊt ˈsiːɪŋ ə ˈmuːvi təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "How about",
+        "role": "Adv",
+        "phonetic": "/haʊ əˈbaʊt/",
+        "chinese": "怎么/关于/大约"
+      },
+      {
+        "text": "seeing a movie",
+        "role": "S",
+        "phonetic": "/ˈsiːɪŋ ə ˈmuːvi/",
+        "chinese": "看见/一个/电影"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我建议我们去海边",
+    "english": "I suggest we go to the seaside",
+    "soundmark": "/aɪ səˈdʒest wiː ɡoʊ tuː ðə ˈsiːsaɪd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "suggest",
+        "role": "V",
+        "phonetic": "/səˈdʒest/",
+        "chinese": "建议"
+      },
+      {
+        "text": "we go to the seaside",
+        "role": "O",
+        "phonetic": "/wiː ɡoʊ tuː ðə ˈsiːsaɪd/",
+        "chinese": "我们/去/到/向/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "好主意我还没去过",
+    "english": "Good idea I have never been there",
+    "soundmark": "/ɡʊd aɪˈdiːə aɪ hæv ˈnevər biːn ðer/",
+    "grammar": [
+      {
+        "text": "Good idea",
+        "role": "S",
+        "phonetic": "/ɡʊd aɪˈdiːə/",
+        "chinese": "好的/想法"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never been",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər biːn/",
+        "chinese": "有/助动词/从不/是（过去分词）"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "我们为什么不试试新餐厅呢",
+    "english": "Why not try that new restaurant",
+    "soundmark": "/waɪ nɑːt traɪ ðæt nuː ˈrestrɑːnt/",
+    "grammar": [
+      {
+        "text": "Why not",
+        "role": "Adv",
+        "phonetic": "/waɪ nɑːt/",
+        "chinese": "为什么/不"
+      },
+      {
+        "text": "try",
+        "role": "V",
+        "phonetic": "/traɪ/",
+        "chinese": "尝试"
+      },
+      {
+        "text": "that new restaurant",
+        "role": "O",
+        "phonetic": "/ðæt nuː ˈrestrɑːnt/",
+        "chinese": "那个/新的/餐厅"
+      }
+    ]
+  },
+  {
+    "chinese": "那我们叫个披萨送过来吧",
+    "english": "Shall we order a pizza then",
+    "soundmark": "/ʃæl wiː ˈɔːrdər ə ˈpiːtsə ðen/",
+    "grammar": [
+      {
+        "text": "Shall",
+        "role": "V",
+        "phonetic": "/ʃæl/",
+        "chinese": "将要"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "order",
+        "role": "V",
+        "phonetic": "/ˈɔːrdər/",
+        "chinese": "点餐/命令/顺序"
+      },
+      {
+        "text": "a pizza",
+        "role": "O",
+        "phonetic": "/ə ˈpiːtsə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "then",
+        "role": "A",
+        "phonetic": "/ðen/",
+        "chinese": "然后"
+      }
+    ]
+  },
+  {
+    "chinese": "我觉得那听起来不错",
+    "english": "I think that sounds great",
+    "soundmark": "/aɪ θɪŋk ðæt saʊndz ɡreɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "that sounds great",
+        "role": "O",
+        "phonetic": "/ðæt saʊndz ɡreɪt/",
+        "chinese": "那个/…们/复数(声音)/伟大的/很棒的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们这周末去露营怎么样",
+    "english": "How about we go camping this weekend",
+    "soundmark": "/haʊ əˈbaʊt wiː ɡoʊ ˈkæmpɪŋ ðɪs ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "How about",
+        "role": "Adv",
+        "phonetic": "/haʊ əˈbaʊt/",
+        "chinese": "怎么/关于/大约"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "go camping",
+        "role": "V",
+        "phonetic": "/ɡoʊ ˈkæmpɪŋ/",
+        "chinese": "去/露营"
+      },
+      {
+        "text": "this weekend",
+        "role": "A",
+        "phonetic": "/ðɪs ˈwiːkend/",
+        "chinese": "这个/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "抱歉我不太喜欢露营",
+    "english": "Sorry I am not really into camping",
+    "soundmark": "/ˈsɑːri aɪ æm nɑːt ˈriːəli ˈɪntə ˈkæmpɪŋ/",
+    "grammar": [
+      {
+        "text": "Sorry",
+        "role": "Int",
+        "phonetic": "/ˈsɑːri/",
+        "chinese": "抱歉的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am not",
+        "role": "V",
+        "phonetic": "/æm nɑːt/",
+        "chinese": "是/不"
+      },
+      {
+        "text": "really into camping",
+        "role": "C",
+        "phonetic": "/ˈriːəli ˈɪntə ˈkæmpɪŋ/",
+        "chinese": "真正地/进入/露营"
+      }
+    ]
+  },
+  {
+    "chinese": "我请客我们来喝咖啡吧",
+    "english": "My treat let us grab some coffee",
+    "soundmark": "/maɪ triːt let ʌs ɡræb sʌm ˈkɔːfi/",
+    "grammar": [
+      {
+        "text": "My treat",
+        "role": "A",
+        "phonetic": "/maɪ triːt/",
+        "chinese": "我的/对待/治疗"
+      },
+      {
+        "text": "let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "grab",
+        "role": "V",
+        "phonetic": "/ɡræb/",
+        "chinese": ""
+      },
+      {
+        "text": "some coffee",
+        "role": "O",
+        "phonetic": "/sʌm ˈkɔːfi/",
+        "chinese": "一些/咖啡"
+      }
+    ]
+  },
+  {
+    "chinese": "建议",
+    "english": "suggest",
+    "soundmark": "/səˈdʒest/"
+  },
+  {
+    "chinese": "海滨",
+    "english": "seaside",
+    "soundmark": "/ˈsiːsaɪd/"
+  },
+  {
+    "chinese": "餐厅",
+    "english": "restaurant",
+    "soundmark": "/ˈrestrɑːnt/"
+  },
+  {
+    "chinese": "披萨",
+    "english": "pizza",
+    "soundmark": "/ˈpiːtsə/"
+  },
+  {
+    "chinese": "露营",
+    "english": "camping",
+    "soundmark": "/ˈkæmpɪŋ/"
+  },
+  {
+    "chinese": "喜欢",
+    "english": "be into",
+    "soundmark": "/biː ˈɪntə/"
+  },
+  {
+    "chinese": "我请客",
+    "english": "my treat",
+    "soundmark": "/maɪ triːt/"
+  },
+  {
+    "chinese": "我们去爬山怎么样",
+    "english": "How about going hiking",
+    "soundmark": "/haʊ əˈbaʊt ˈɡoʊɪŋ ˈhaɪkɪŋ/",
+    "grammar": [
+      {
+        "text": "How about",
+        "role": "Adv",
+        "phonetic": "/haʊ əˈbaʊt/",
+        "chinese": "怎么/关于/大约"
+      },
+      {
+        "text": "going hiking",
+        "role": "S",
+        "phonetic": "/ˈɡoʊɪŋ ˈhaɪkɪŋ/",
+        "chinese": "去远足"
+      }
+    ]
+  },
+  {
+    "chinese": "我更喜欢待在家里",
+    "english": "I would rather stay at home",
+    "soundmark": "/aɪ wʊd ˈræðər steɪ æt hoʊm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would rather",
+        "role": "V",
+        "phonetic": "/wʊd ˈræðər/",
+        "chinese": "宁愿"
+      },
+      {
+        "text": "stay",
+        "role": "V",
+        "phonetic": "/steɪ/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "at home",
+        "role": "A",
+        "phonetic": "/æt hoʊm/",
+        "chinese": "在家"
+      }
+    ]
+  },
+  {
+    "chinese": "我们明天去博物馆你觉得呢",
+    "english": "Shall we go to the museum tomorrow what do you think",
+    "soundmark": "/ʃæl wiː ɡoʊ tuː ðə mjuːˈziːəm təˈmɑːroʊ wʌt duː juː θɪŋk/",
+    "grammar": [
+      {
+        "text": "Shall",
+        "role": "V",
+        "phonetic": "/ʃæl/",
+        "chinese": "将要"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to the museum",
+        "role": "A",
+        "phonetic": "/tuː ðə mjuːˈziːəm/",
+        "chinese": "到/向/这个/那个/博物馆"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      },
+      {
+        "text": "what do you think",
+        "role": "A",
+        "phonetic": "/wʌt duː juː θɪŋk/",
+        "chinese": "什么/做/助动词/你/你们/想/认为"
+      }
+    ]
+  },
+  {
+    "chinese": "听起来很有趣",
+    "english": "That sounds interesting",
+    "soundmark": "/ðæt saʊndz ˈɪntrəstɪŋ/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "sounds",
+        "role": "V",
+        "phonetic": "/saʊndz/",
+        "chinese": "声音"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      }
+    ]
+  },
+  {
+    "chinese": "如果你不想在外面吃我们可以在家做",
+    "english": "If you do not want to eat out we can cook at home",
+    "soundmark": "/ɪf juː duː nɑːt wɑːnt tuː iːt aʊt wiː kæn kʊk æt hoʊm/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "do not want to eat out",
+        "role": "V",
+        "phonetic": "/duː nɑːt wɑːnt tuː iːt aʊt/",
+        "chinese": "做/助动词/不/想要/到/向/吃/出去"
+      },
+      {
+        "text": "we can cook at home",
+        "role": "A",
+        "phonetic": "/wiː kæn kʊk æt hoʊm/",
+        "chinese": "我们/能/在/家"
+      }
+    ]
+  },
+  {
+    "chinese": "我们周末去打网球吧",
+    "english": "Why not play tennis this weekend",
+    "soundmark": "/waɪ nɑːt pleɪ ˈtenɪs ðɪs ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "Why not",
+        "role": "Adv",
+        "phonetic": "/waɪ nɑːt/",
+        "chinese": "为什么/不"
+      },
+      {
+        "text": "play",
+        "role": "V",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "tennis",
+        "role": "O",
+        "phonetic": "/ˈtenɪs/",
+        "chinese": ""
+      },
+      {
+        "text": "this weekend",
+        "role": "A",
+        "phonetic": "/ðɪs ˈwiːkend/",
+        "chinese": "这个/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "爬山",
+    "english": "go hiking",
+    "soundmark": "/ɡoʊ ˈhaɪkɪŋ/"
+  },
+  {
+    "chinese": "宁愿",
+    "english": "would rather",
+    "soundmark": "/wʊd ˈræðər/"
+  },
+  {
+    "chinese": "博物馆",
+    "english": "museum",
+    "soundmark": "/mjuːˈziːəm/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "在家做饭",
+    "english": "cook at home",
+    "soundmark": "/kʊk æt hoʊm/"
+  },
+  {
+    "chinese": "网球",
+    "english": "tennis",
+    "soundmark": "/ˈtenɪs/"
+  },
+  {
+    "chinese": "听起来",
+    "english": "sounds",
+    "soundmark": "/saʊndz/"
+  },
+  {
+    "chinese": "你觉得呢",
+    "english": "what do you think",
+    "soundmark": "/wʌt duː juː θɪŋk/"
+  },
+  {
+    "chinese": "如果",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  }
+]

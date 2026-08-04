@@ -1,0 +1,1227 @@
+[
+  {
+    "chinese": "小酒馆",
+    "english": "pub",
+    "soundmark": "/pʌb/"
+  },
+  {
+    "chinese": "店主",
+    "english": "landlord",
+    "soundmark": "/ˈlændlɔːrd/"
+  },
+  {
+    "chinese": "账单",
+    "english": "bill",
+    "soundmark": "/bɪl/"
+  },
+  {
+    "chinese": "包",
+    "english": "bag",
+    "soundmark": "/bæɡ/"
+  },
+  {
+    "chinese": "拿走",
+    "english": "take",
+    "soundmark": "/teɪk/"
+  },
+  {
+    "chinese": "付款",
+    "english": "pay",
+    "soundmark": "/peɪ/"
+  },
+  {
+    "chinese": "离开",
+    "english": "leave",
+    "soundmark": "/liːv/"
+  },
+  {
+    "chinese": "返回",
+    "english": "return",
+    "soundmark": "/rɪˈtɜːrn/"
+  },
+  {
+    "chinese": "寻找",
+    "english": "look for",
+    "soundmark": "/lʊk/ /fɔːr/"
+  },
+  {
+    "chinese": "花园",
+    "english": "garden",
+    "soundmark": "/ˈɡɑːrdən/"
+  },
+  {
+    "chinese": "狗",
+    "english": "dog",
+    "soundmark": "/dɔːɡ/"
+  },
+  {
+    "chinese": "吃午饭",
+    "english": "have lunch",
+    "soundmark": "/hæv/ /lʌntʃ/"
+  },
+  {
+    "chinese": "付账单",
+    "english": "pay the bill",
+    "soundmark": "/peɪ/ /ðə/ /bɪl/"
+  },
+  {
+    "chinese": "找我的包",
+    "english": "look for my bag",
+    "soundmark": "/lʊk/ /fɔːr/ /maɪ/ /bæɡ/"
+  },
+  {
+    "chinese": "回来",
+    "english": "come back",
+    "soundmark": "/kʌm/ /bæk/"
+  },
+  {
+    "chinese": "在花园里",
+    "english": "in the garden",
+    "soundmark": "/ɪn/ /ðə/ /ˈɡɑːrdən/"
+  },
+  {
+    "chinese": "把包落在后面",
+    "english": "leave the bag behind",
+    "soundmark": "/liːv/ /ðə/ /bæɡ/ /bɪˈhaɪnd/"
+  },
+  {
+    "chinese": "吃完午饭",
+    "english": "finish lunch",
+    "soundmark": "/ˈfɪnɪʃ/ /lʌntʃ/"
+  },
+  {
+    "chinese": "在小酒馆吃了午饭",
+    "english": "I had lunch at a pub",
+    "soundmark": "/aɪ/ /hæd/ /lʌntʃ/ /æt/ /ə/ /pʌb/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "lunch",
+        "role": "O",
+        "phonetic": "/lʌntʃ/",
+        "chinese": "午餐"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pub",
+        "role": "O",
+        "phonetic": "/pʌb/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我付了账单",
+    "english": "I paid the bill",
+    "soundmark": "/aɪ/ /peɪd/ /ðə/ /bɪl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "paid",
+        "role": "V",
+        "phonetic": "/peɪd/",
+        "chinese": "付钱（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bill",
+        "role": "O",
+        "phonetic": "/bɪl/",
+        "chinese": "账单"
+      }
+    ]
+  },
+  {
+    "chinese": "我找不到我的包",
+    "english": "I could not find my bag",
+    "soundmark": "/aɪ/ /kʊd/ /nɑːt/ /faɪnd/ /maɪ/ /bæɡ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bag",
+        "role": "O",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "我把包落在小酒馆了",
+    "english": "I had left my bag at the pub",
+    "soundmark": "/aɪ/ /hæd/ /left/ /maɪ/ /bæɡ/ /æt/ /ðə/ /pʌb/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bag",
+        "role": "O",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "pub",
+        "role": "O",
+        "phonetic": "/pʌb/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "店主对我微笑",
+    "english": "The landlord smiled at me",
+    "soundmark": "/ðə/ /ˈlændlɔːrd/ /smaɪld/ /æt/ /miː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "landlord",
+        "role": "S",
+        "phonetic": "/ˈlændlɔːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "smiled",
+        "role": "V",
+        "phonetic": "/smaɪld/",
+        "chinese": ""
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "狗把包叼走了",
+    "english": "The dog had taken the bag",
+    "soundmark": "/ðə/ /dɔːɡ/ /hæd/ /ˈteɪkən/ /ðə/ /bæɡ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bag",
+        "role": "O",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "我把狗留在花园里",
+    "english": "I left the dog in the garden",
+    "soundmark": "/aɪ/ /left/ /ðə/ /dɔːɡ/ /ɪn/ /ðə/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "O",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "我已经付过钱了",
+    "english": "I have already paid",
+    "soundmark": "/aɪ/ /hæv/ /ɔːlˈredi/ /peɪd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "paid",
+        "role": "V",
+        "phonetic": "/peɪd/",
+        "chinese": "付钱（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "他把包还给了我",
+    "english": "He returned the bag to me",
+    "soundmark": "/hiː/ /rɪˈtɜːrnd/ /ðə/ /bæɡ/ /tuː/ /miː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "returned",
+        "role": "V",
+        "phonetic": "/rɪˈtɜːrnd/",
+        "chinese": "返回"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bag",
+        "role": "O",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "我还没找到我的包",
+    "english": "I have not found my bag yet",
+    "soundmark": "/aɪ/ /hæv/ /nɑːt/ /faʊnd/ /maɪ/ /bæɡ/ /jet/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bag",
+        "role": "O",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "yet",
+        "role": "Adv",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "她刚吃完饭",
+    "english": "She has just finished lunch",
+    "soundmark": "/ʃiː/ /hæz/ /dʒʌst/ /ˈfɪnɪʃt/ /lʌntʃ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "lunch",
+        "role": "O",
+        "phonetic": "/lʌntʃ/",
+        "chinese": "午餐"
+      }
+    ]
+  },
+  {
+    "chinese": "他从未丢过东西",
+    "english": "He has never lost anything",
+    "soundmark": "/hiː/ /hæz/ /ˈnevər/ /lɔːst/ /ˈeniθɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      }
+    ]
+  },
+  {
+    "chinese": "你吃完饭了吗",
+    "english": "Have you finished your meal",
+    "soundmark": "/hæv/ /juː/ /ˈfɪnɪʃt/ /jɔːr/ /miːl/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "meal",
+        "role": "O",
+        "phonetic": "/miːl/",
+        "chinese": "一餐"
+      }
+    ]
+  },
+  {
+    "chinese": "他去过那家小酒馆很多次",
+    "english": "He has been to that pub many times",
+    "soundmark": "/hiː/ /hæz/ /bɪn/ /tuː/ /ðæt/ /pʌb/ /ˈmeni/ /taɪmz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "pub",
+        "role": "O",
+        "phonetic": "/pʌb/",
+        "chinese": ""
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "times",
+        "role": "A",
+        "phonetic": "/taɪmz/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "她刚离开餐厅",
+    "english": "She has just left the restaurant",
+    "soundmark": "/ʃiː/ /hæz/ /dʒʌst/ /left/ /ðə/ /ˈrestərɑːnt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "restaurant",
+        "role": "O",
+        "phonetic": "/ˈrestərɑːnt/",
+        "chinese": "餐厅"
+      }
+    ]
+  },
+  {
+    "chinese": "他们已经回来了",
+    "english": "They have already returned",
+    "soundmark": "/ðeɪ/ /hæv/ /ɔːlˈredi/ /rɪˈtɜːrnd/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "returned",
+        "role": "V",
+        "phonetic": "/rɪˈtɜːrnd/",
+        "chinese": "返回"
+      }
+    ]
+  },
+  {
+    "chinese": "店主问我是否落了东西",
+    "english": "The landlord asked me if I had left anything",
+    "soundmark": "/ðə/ /ˈlændlɔːrd/ /æskt/ /miː/ /ɪf/ /aɪ/ /hæd/ /left/ /ˈeniθɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "landlord",
+        "role": "S",
+        "phonetic": "/ˈlændlɔːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      }
+    ]
+  },
+  {
+    "chinese": "我告诉他我把包丢了",
+    "english": "I told him that I had lost my bag",
+    "soundmark": "/aɪ/ /toʊld/ /hɪm/ /ðæt/ /aɪ/ /hæd/ /lɔːst/ /maɪ/ /bæɡ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bag",
+        "role": "O",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "狗把我的包叼到了花园里",
+    "english": "The dog had taken my bag into the garden",
+    "soundmark": "/ðə/ /dɔːɡ/ /hæd/ /ˈteɪkən/ /maɪ/ /bæɡ/ /ˈɪntuː/ /ðə/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bag",
+        "role": "O",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "他笑了因为狗常常这么做",
+    "english": "He smiled because the dog often did this",
+    "soundmark": "/hiː/ /smaɪld/ /bɪˈkɔːz/ /ðə/ /dɔːɡ/ /ˈɔːfən/ /dɪd/ /ðɪs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "smiled",
+        "role": "V",
+        "phonetic": "/smaɪld/",
+        "chinese": ""
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "我吃完午饭就离开了",
+    "english": "I left after I had finished lunch",
+    "soundmark": "/aɪ/ /left/ /ˈæftər/ /aɪ/ /hæd/ /ˈfɪnɪʃt/ /lʌntʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "after",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "lunch",
+        "role": "O",
+        "phonetic": "/lʌntʃ/",
+        "chinese": "午餐"
+      }
+    ]
+  },
+  {
+    "chinese": "我没意识到包不在我身边",
+    "english": "I did not realize that my bag was not with me",
+    "soundmark": "/aɪ/ /dɪd/ /nɑːt/ /ˈriːəlaɪz/ /ðæt/ /maɪ/ /bæɡ/ /wʌz/ /nɑːt/ /wɪð/ /miː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "realize",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪz/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bag",
+        "role": "S",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "我回去找但我找不到它",
+    "english": "I went back but I could not find it",
+    "soundmark": "/aɪ/ /went/ /bæk/ /bʌt/ /aɪ/ /kʊd/ /nɑːt/ /faɪnd/ /ɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "back",
+        "role": "Adv",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "吃完",
+    "english": "finish eating",
+    "soundmark": "/ˈfɪnɪʃ/ /ˈiːtɪŋ/"
+  },
+  {
+    "chinese": "找回来",
+    "english": "get back",
+    "soundmark": "/ɡet/ /bæk/"
+  },
+  {
+    "chinese": "在桌子下面",
+    "english": "under the table",
+    "soundmark": "/ˈʌndər/ /ðə/ /ˈteɪbəl/"
+  },
+  {
+    "chinese": "经常做这事",
+    "english": "do this often",
+    "soundmark": "/duː/ /ðɪs/ /ˈɔːfən/"
+  },
+  {
+    "chinese": "店主",
+    "english": "landlord",
+    "soundmark": "/ˈlændlɔːrd/"
+  },
+  {
+    "chinese": "账单",
+    "english": "bill",
+    "soundmark": "/bɪl/"
+  },
+  {
+    "chinese": "回来",
+    "english": "come back",
+    "soundmark": "/kʌm/ /bæk/"
+  },
+  {
+    "chinese": "寻找",
+    "english": "look for",
+    "soundmark": "/lʊk/ /fɔːr/"
+  },
+  {
+    "chinese": "意识到",
+    "english": "realize",
+    "soundmark": "/ˈriːəlaɪz/"
+  },
+  {
+    "chinese": "返回",
+    "english": "return",
+    "soundmark": "/rɪˈtɜːrn/"
+  }
+]

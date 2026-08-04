@@ -1,0 +1,939 @@
+[
+  {
+    "chinese": "请求",
+    "english": "ask for",
+    "soundmark": "/æsk fɔːr/"
+  },
+  {
+    "chinese": "借入",
+    "english": "borrow",
+    "soundmark": "/ˈbɑːroʊ/"
+  },
+  {
+    "chinese": "借出",
+    "english": "lend",
+    "soundmark": "/lend/"
+  },
+  {
+    "chinese": "给",
+    "english": "give",
+    "soundmark": "/ɡɪv/"
+  },
+  {
+    "chinese": "带来",
+    "english": "bring",
+    "soundmark": "/brɪŋ/"
+  },
+  {
+    "chinese": "拿走",
+    "english": "take",
+    "soundmark": "/teɪk/"
+  },
+  {
+    "chinese": "传递",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "钢笔",
+    "english": "pen",
+    "soundmark": "/pen/"
+  },
+  {
+    "chinese": "铅笔",
+    "english": "pencil",
+    "soundmark": "/ˈpensl/"
+  },
+  {
+    "chinese": "书",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "杯子",
+    "english": "cup",
+    "soundmark": "/kʌp/"
+  },
+  {
+    "chinese": "玻璃杯",
+    "english": "glass",
+    "soundmark": "/ɡlæs/"
+  },
+  {
+    "chinese": "盘子",
+    "english": "plate",
+    "soundmark": "/pleɪt/"
+  },
+  {
+    "chinese": "刀",
+    "english": "knife",
+    "soundmark": "/naɪf/"
+  },
+  {
+    "chinese": "叉子",
+    "english": "fork",
+    "soundmark": "/fɔːrk/"
+  },
+  {
+    "chinese": "勺子",
+    "english": "spoon",
+    "soundmark": "/spuːn/"
+  },
+  {
+    "chinese": "餐巾纸",
+    "english": "napkin",
+    "soundmark": "/ˈnæpkɪn/"
+  },
+  {
+    "chinese": "菜单",
+    "english": "menu",
+    "soundmark": "/ˈmenjuː/"
+  },
+  {
+    "chinese": "账单",
+    "english": "bill",
+    "soundmark": "/bɪl/"
+  },
+  {
+    "chinese": "报纸",
+    "english": "newspaper",
+    "soundmark": "/ˈnuːzpeɪpər/"
+  },
+  {
+    "chinese": "杂志",
+    "english": "magazine",
+    "soundmark": "/ˌmæɡəˈziːn/"
+  },
+  {
+    "chinese": "盐",
+    "english": "salt",
+    "soundmark": "/sɔːlt/"
+  },
+  {
+    "chinese": "胡椒",
+    "english": "pepper",
+    "soundmark": "/ˈpepər/"
+  },
+  {
+    "chinese": "糖",
+    "english": "sugar",
+    "soundmark": "/ˈʃʊɡər/"
+  },
+  {
+    "chinese": "可以给我一杯水吗",
+    "english": "can I have a glass of water",
+    "soundmark": "/kæn aɪ hæv ə ɡlæs ʌv ˈwɔːtər/"
+  },
+  {
+    "chinese": "请把盐递给我",
+    "english": "pass me the salt please",
+    "soundmark": "/pæs miː ðə sɔːlt pliːz/"
+  },
+  {
+    "chinese": "能借我一支笔吗",
+    "english": "can you lend me a pen",
+    "soundmark": "/kæn juː lend miː ə pen/"
+  },
+  {
+    "chinese": "能把菜单拿来吗",
+    "english": "could you bring the menu",
+    "soundmark": "/kʊd juː brɪŋ ðə ˈmenjuː/"
+  },
+  {
+    "chinese": "能给我一杯咖啡吗",
+    "english": "Can I have a cup of coffee please",
+    "soundmark": "/kæn aɪ hæv ə kʌp ʌv ˈkɔːfi pliːz/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a cup of coffee",
+        "role": "O",
+        "phonetic": "/ə kʌp ʌv ˈkɔːfi/",
+        "chinese": "一个/杯子/…的/咖啡"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "请把盐和胡椒递给我",
+    "english": "Please pass me the salt and pepper",
+    "soundmark": "/pliːz pæs miː ðə sɔːlt ænd ˈpepər/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "pass",
+        "role": "V",
+        "phonetic": "/pæs/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "the salt and pepper",
+        "role": "O",
+        "phonetic": "/ðə sɔːlt ænd ˈpepər/",
+        "chinese": "这个/那个/盐/和"
+      }
+    ]
+  },
+  {
+    "chinese": "你能借给我你的词典吗",
+    "english": "Could you lend me your dictionary",
+    "soundmark": "/kʊd juː lend miː jɔːr ˈdɪkʃəneri/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "lend",
+        "role": "V",
+        "phonetic": "/lend/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "your dictionary",
+        "role": "O",
+        "phonetic": "/jɔːr ˈdɪkʃəneri/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "我能借一下你的电话吗",
+    "english": "May I borrow your phone",
+    "soundmark": "/meɪ aɪ ˈbɑːroʊ jɔːr foʊn/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "borrow",
+        "role": "V",
+        "phonetic": "/ˈbɑːroʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "your phone",
+        "role": "O",
+        "phonetic": "/jɔːr foʊn/",
+        "chinese": "你的/你们的/电话"
+      }
+    ]
+  },
+  {
+    "chinese": "你能给我拿些水来吗",
+    "english": "Can you bring me some water",
+    "soundmark": "/kæn juː brɪŋ miː sʌm ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "bring",
+        "role": "V",
+        "phonetic": "/brɪŋ/",
+        "chinese": "带来"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "some water",
+        "role": "O",
+        "phonetic": "/sʌm ˈwɔːtər/",
+        "chinese": "一些/水"
+      }
+    ]
+  },
+  {
+    "chinese": "你能把书递给我吗",
+    "english": "Would you pass me that book",
+    "soundmark": "/wʊd juː pæs miː ðæt bʊk/",
+    "grammar": [
+      {
+        "text": "Would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "pass",
+        "role": "V",
+        "phonetic": "/pæs/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that book",
+        "role": "O",
+        "phonetic": "/ðæt bʊk/",
+        "chinese": "那个/预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "我能看看菜单吗",
+    "english": "Can I see the menu please",
+    "soundmark": "/kæn aɪ siː ðə ˈmenjuː pliːz/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "the menu",
+        "role": "O",
+        "phonetic": "/ðə ˈmenjuː/",
+        "chinese": "这个/那个/菜单"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "你能给我一张餐巾纸吗",
+    "english": "Could you give me a napkin",
+    "soundmark": "/kʊd juː ɡɪv miː ə ˈnæpkɪn/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a napkin",
+        "role": "O",
+        "phonetic": "/ə ˈnæpkɪn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "你能借我十块钱吗",
+    "english": "Can you lend me ten dollars",
+    "soundmark": "/kæn juː lend miː ten ˈdɑːlərz/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "lend",
+        "role": "V",
+        "phonetic": "/lend/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "ten dollars",
+        "role": "O",
+        "phonetic": "/ten ˈdɑːlərz/",
+        "chinese": "十"
+      }
+    ]
+  },
+  {
+    "chinese": "能帮我叫辆出租车吗",
+    "english": "Could you call a taxi for me",
+    "soundmark": "/kʊd juː kɔːl ə ˈtæksi fɔːr miː/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "call",
+        "role": "V",
+        "phonetic": "/kɔːl/",
+        "chinese": "打电话/叫"
+      },
+      {
+        "text": "a taxi",
+        "role": "O",
+        "phonetic": "/ə ˈtæksi/",
+        "chinese": "一个/出租车"
+      },
+      {
+        "text": "for me",
+        "role": "A",
+        "phonetic": "/fɔːr miː/",
+        "chinese": "为我"
+      }
+    ]
+  },
+  {
+    "chinese": "能告诉我厕所在哪里吗",
+    "english": "Could you tell me where the toilet is",
+    "soundmark": "/kʊd juː tel miː wer ðə ˈtɔɪlət ɪz/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "where the toilet is",
+        "role": "O",
+        "phonetic": "/wer ðə ˈtɔɪlət ɪz/",
+        "chinese": "哪里/这个/那个/是"
+      }
+    ]
+  },
+  {
+    "chinese": "我能喝点水吗",
+    "english": "May I have some water",
+    "soundmark": "/meɪ aɪ hæv sʌm ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "some water",
+        "role": "O",
+        "phonetic": "/sʌm ˈwɔːtər/",
+        "chinese": "一些/水"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我拿一下我的包吗",
+    "english": "Can you take my bag for me",
+    "soundmark": "/kæn juː teɪk maɪ bæɡ fɔːr miː/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "my bag",
+        "role": "O",
+        "phonetic": "/maɪ bæɡ/",
+        "chinese": "我的/包"
+      },
+      {
+        "text": "for me",
+        "role": "A",
+        "phonetic": "/fɔːr miː/",
+        "chinese": "为我"
+      }
+    ]
+  },
+  {
+    "chinese": "能把你的地址给我吗",
+    "english": "Could you give me your address",
+    "soundmark": "/kʊd juː ɡɪv miː jɔːr əˈdres/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "your address",
+        "role": "O",
+        "phonetic": "/jɔːr əˈdres/",
+        "chinese": "你的/你们的/地址"
+      }
+    ]
+  },
+  {
+    "chinese": "请给我们两杯茶",
+    "english": "Please bring us two cups of tea",
+    "soundmark": "/pliːz brɪŋ ʌs tuː kʌps ʌv tiː/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "bring",
+        "role": "V",
+        "phonetic": "/brɪŋ/",
+        "chinese": "带来"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "two cups of tea",
+        "role": "O",
+        "phonetic": "/tuː kʌps ʌv tiː/",
+        "chinese": "二/…们/复数(杯子)/…的/茶"
+      }
+    ]
+  },
+  {
+    "chinese": "能借一下你的雨伞吗",
+    "english": "Can I borrow your umbrella",
+    "soundmark": "/kæn aɪ ˈbɑːroʊ jɔːr ʌmˈbrelə/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "borrow",
+        "role": "V",
+        "phonetic": "/ˈbɑːroʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "your umbrella",
+        "role": "O",
+        "phonetic": "/jɔːr ʌmˈbrelə/",
+        "chinese": "你的/你们的/雨伞"
+      }
+    ]
+  },
+  {
+    "chinese": "我能请你帮个忙吗",
+    "english": "Could I ask you a favour",
+    "soundmark": "/kʊd aɪ æsk juː ə ˈfeɪvər/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "ask",
+        "role": "V",
+        "phonetic": "/æsk/",
+        "chinese": "问"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "a favour",
+        "role": "O",
+        "phonetic": "/ə ˈfeɪvər/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "请你把窗户打开好吗",
+    "english": "Would you please open the window",
+    "soundmark": "/wʊd juː pliːz ˈoʊpən ðə ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "Would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "open",
+        "role": "V",
+        "phonetic": "/ˈoʊpən/",
+        "chinese": "打开"
+      },
+      {
+        "text": "the window",
+        "role": "O",
+        "phonetic": "/ðə ˈwɪndoʊ/",
+        "chinese": "这个/那个/窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "你能告诉我怎么去车站吗",
+    "english": "Can you tell me how to get to the station",
+    "soundmark": "/kæn juː tel miː haʊ tuː ɡet tuː ðə ˈsteɪʃn/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "how to get to the station",
+        "role": "O",
+        "phonetic": "/haʊ tuː ɡet tuː ðə ˈsteɪʃn/",
+        "chinese": "怎么/到/向/得到/变得/到/向/这个/那个/车站"
+      }
+    ]
+  },
+  {
+    "chinese": "我现在可以用一下你的电脑吗",
+    "english": "Can I use your computer now",
+    "soundmark": "/kæn aɪ juːz jɔːr kəmˈpjuːtər naʊ/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "use",
+        "role": "V",
+        "phonetic": "/juːz/",
+        "chinese": "使用"
+      },
+      {
+        "text": "your computer",
+        "role": "O",
+        "phonetic": "/jɔːr kəmˈpjuːtər/",
+        "chinese": "你的/你们的/电脑"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "请问我能要张收据吗",
+    "english": "Could I have a receipt please",
+    "soundmark": "/kʊd aɪ hæv ə rɪˈsiːt pliːz/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a receipt",
+        "role": "O",
+        "phonetic": "/ə rɪˈsiːt/",
+        "chinese": "一个"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "词典",
+    "english": "dictionary",
+    "soundmark": "/ˈdɪkʃəneri/"
+  },
+  {
+    "chinese": "雨伞",
+    "english": "umbrella",
+    "soundmark": "/ʌmˈbrelə/"
+  },
+  {
+    "chinese": "帮忙",
+    "english": "favour",
+    "soundmark": "/ˈfeɪvər/"
+  },
+  {
+    "chinese": "地址",
+    "english": "address",
+    "soundmark": "/əˈdres/"
+  },
+  {
+    "chinese": "厕所",
+    "english": "toilet",
+    "soundmark": "/ˈtɔɪlət/"
+  },
+  {
+    "chinese": "收据",
+    "english": "receipt",
+    "soundmark": "/rɪˈsiːt/"
+  },
+  {
+    "chinese": "电脑",
+    "english": "computer",
+    "soundmark": "/kəmˈpjuːtər/"
+  },
+  {
+    "chinese": "出租车",
+    "english": "taxi",
+    "soundmark": "/ˈtæksi/"
+  },
+  {
+    "chinese": "元",
+    "english": "dollar",
+    "soundmark": "/ˈdɑːlər/"
+  },
+  {
+    "chinese": "钥匙",
+    "english": "key",
+    "soundmark": "/kiː/"
+  }
+]

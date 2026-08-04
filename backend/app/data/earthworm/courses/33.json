@@ -1,0 +1,1193 @@
+[
+  {
+    "chinese": "可以/也许",
+    "english": "may",
+    "soundmark": "/meɪ/"
+  },
+  {
+    "chinese": "可能",
+    "english": "might",
+    "soundmark": "/maɪt/"
+  },
+  {
+    "chinese": "许可",
+    "english": "permission",
+    "soundmark": "/pərˈmɪʃn/"
+  },
+  {
+    "chinese": "下雨",
+    "english": "rain",
+    "soundmark": "/reɪn/"
+  },
+  {
+    "chinese": "下雪",
+    "english": "snow",
+    "soundmark": "/snoʊ/"
+  },
+  {
+    "chinese": "同意",
+    "english": "agree",
+    "soundmark": "/əˈɡriː/"
+  },
+  {
+    "chinese": "错过",
+    "english": "miss",
+    "soundmark": "/mɪs/"
+  },
+  {
+    "chinese": "借",
+    "english": "borrow",
+    "soundmark": "/ˈbɑːroʊ/"
+  },
+  {
+    "chinese": "点菜/命令",
+    "english": "order",
+    "soundmark": "/ˈɔːrdər/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "travel",
+    "soundmark": "/ˈtrævl/"
+  },
+  {
+    "chinese": "可能会来",
+    "english": "may come",
+    "soundmark": "/meɪ kʌm/"
+  },
+  {
+    "chinese": "可能下雨",
+    "english": "might rain",
+    "soundmark": "/maɪt reɪn/"
+  },
+  {
+    "chinese": "我可以帮你吗",
+    "english": "may I help",
+    "soundmark": "/meɪ aɪ help/"
+  },
+  {
+    "chinese": "可能会迟到",
+    "english": "might be late",
+    "soundmark": "/maɪt biː leɪt/"
+  },
+  {
+    "chinese": "可能不是",
+    "english": "may not be",
+    "soundmark": "/meɪ nɑːt biː/"
+  },
+  {
+    "chinese": "可能已经走了",
+    "english": "might have left",
+    "soundmark": "/maɪt hæv left/"
+  },
+  {
+    "chinese": "你可以进来。",
+    "english": "You may come in",
+    "soundmark": "/juː meɪ kʌm ɪn/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "may come",
+        "role": "V",
+        "phonetic": "/meɪ kʌm/",
+        "chinese": "可以/来"
+      },
+      {
+        "text": "in",
+        "role": "A",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "你也许是对的。",
+    "english": "You may be right",
+    "soundmark": "/juː meɪ biː raɪt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "may be",
+        "role": "V",
+        "phonetic": "/meɪ biː/",
+        "chinese": "可以/是"
+      },
+      {
+        "text": "right",
+        "role": "C",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      }
+    ]
+  },
+  {
+    "chinese": "你可以坐下。",
+    "english": "You may sit down",
+    "soundmark": "/juː meɪ sɪt daʊn/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "may sit",
+        "role": "V",
+        "phonetic": "/meɪ sɪt/",
+        "chinese": "可以"
+      },
+      {
+        "text": "down",
+        "role": "A",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      }
+    ]
+  },
+  {
+    "chinese": "我也许明天去。",
+    "english": "I may go tomorrow",
+    "soundmark": "/aɪ meɪ ɡoʊ təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "may go",
+        "role": "V",
+        "phonetic": "/meɪ ɡoʊ/",
+        "chinese": "可以/去"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "你可以现在离开。",
+    "english": "You may leave now",
+    "soundmark": "/juː meɪ liːv naʊ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "may leave",
+        "role": "V",
+        "phonetic": "/meɪ liːv/",
+        "chinese": "可以/离开"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "我们可以试试。",
+    "english": "We may try it",
+    "soundmark": "/wiː meɪ traɪ ɪt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "may try",
+        "role": "V",
+        "phonetic": "/meɪ traɪ/",
+        "chinese": "可以/尝试"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "我也许下周出差。",
+    "english": "I may travel next week",
+    "soundmark": "/aɪ meɪ ˈtrævl nekst wiːk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "may travel",
+        "role": "V",
+        "phonetic": "/meɪ ˈtrævl/",
+        "chinese": "可以/旅行"
+      },
+      {
+        "text": "next week",
+        "role": "A",
+        "phonetic": "/nekst wiːk/",
+        "chinese": "下周"
+      }
+    ]
+  },
+  {
+    "chinese": "他也许不会来了。",
+    "english": "He may not come",
+    "soundmark": "/hiː meɪ nɑːt kʌm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "may not come",
+        "role": "V",
+        "phonetic": "/meɪ nɑːt kʌm/",
+        "chinese": "可以/不/来"
+      }
+    ]
+  },
+  {
+    "chinese": "你可以用法语点菜。",
+    "english": "You may order in French",
+    "soundmark": "/juː meɪ ˈɔːrdər ɪn frentʃ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "may order",
+        "role": "V",
+        "phonetic": "/meɪ ˈɔːrdər/",
+        "chinese": "可以/秩序/命令"
+      },
+      {
+        "text": "in French",
+        "role": "A",
+        "phonetic": "/ɪn frentʃ/",
+        "chinese": "在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "你也许需要一件外套。",
+    "english": "You may need a coat",
+    "soundmark": "/juː meɪ niːd ə koʊt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "may need",
+        "role": "V",
+        "phonetic": "/meɪ niːd/",
+        "chinese": "可以/需要"
+      },
+      {
+        "text": "a coat",
+        "role": "O",
+        "phonetic": "/ə koʊt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "今天可能会下雨。",
+    "english": "It might rain today",
+    "soundmark": "/ɪt maɪt reɪn təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "might rain",
+        "role": "V",
+        "phonetic": "/maɪt reɪn/",
+        "chinese": "可能/雨"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "他可能会迟到。",
+    "english": "He might be late",
+    "soundmark": "/hiː maɪt biː leɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "might be",
+        "role": "V",
+        "phonetic": "/maɪt biː/",
+        "chinese": "可能是"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "她可能不知道答案。",
+    "english": "She might not know the answer",
+    "soundmark": "/ʃiː maɪt nɑːt noʊ ðə ˈænsər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "might not know",
+        "role": "V",
+        "phonetic": "/maɪt nɑːt noʊ/",
+        "chinese": "可能/不/知道"
+      },
+      {
+        "text": "the answer",
+        "role": "O",
+        "phonetic": "/ðə ˈænsər/",
+        "chinese": "这个/那个/回答"
+      }
+    ]
+  },
+  {
+    "chinese": "他们可能已经走了。",
+    "english": "They might have left",
+    "soundmark": "/ðeɪ maɪt hæv left/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "might have left",
+        "role": "V",
+        "phonetic": "/maɪt hæv left/",
+        "chinese": "可能/有/助动词/左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "明天可能会下雪。",
+    "english": "It might snow tomorrow",
+    "soundmark": "/ɪt maɪt snoʊ təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "might snow",
+        "role": "V",
+        "phonetic": "/maɪt snoʊ/",
+        "chinese": "可能/雪"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "他可能在家里。",
+    "english": "He might be at home",
+    "soundmark": "/hiː maɪt biː æt hoʊm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "might be",
+        "role": "V",
+        "phonetic": "/maɪt biː/",
+        "chinese": "可能是"
+      },
+      {
+        "text": "at home",
+        "role": "A",
+        "phonetic": "/æt hoʊm/",
+        "chinese": "在家"
+      }
+    ]
+  },
+  {
+    "chinese": "她可能会同意。",
+    "english": "She might agree",
+    "soundmark": "/ʃiː maɪt əˈɡriː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "might agree",
+        "role": "V",
+        "phonetic": "/maɪt əˈɡriː/",
+        "chinese": "可能/同意"
+      }
+    ]
+  },
+  {
+    "chinese": "你可能会喜欢它。",
+    "english": "You might like it",
+    "soundmark": "/juː maɪt laɪk ɪt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "might like",
+        "role": "V",
+        "phonetic": "/maɪt laɪk/",
+        "chinese": "可能/喜欢"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "我们可能赶不上火车。",
+    "english": "We might miss the train",
+    "soundmark": "/wiː maɪt mɪs ðə treɪn/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "might miss",
+        "role": "V",
+        "phonetic": "/maɪt mɪs/",
+        "chinese": "可能/错过/想念"
+      },
+      {
+        "text": "the train",
+        "role": "O",
+        "phonetic": "/ðə treɪn/",
+        "chinese": "火车"
+      }
+    ]
+  },
+  {
+    "chinese": "那可能是个好主意。",
+    "english": "That might be a good idea",
+    "soundmark": "/ðæt maɪt biː ə ɡʊd aɪˈdiːə/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "might be",
+        "role": "V",
+        "phonetic": "/maɪt biː/",
+        "chinese": "可能是"
+      },
+      {
+        "text": "a good idea",
+        "role": "C",
+        "phonetic": "/ə ɡʊd aɪˈdiːə/",
+        "chinese": "一个/好的/想法"
+      }
+    ]
+  },
+  {
+    "chinese": "他可能在睡觉。",
+    "english": "He might be sleeping",
+    "soundmark": "/hiː maɪt biː ˈsliːpɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "might be sleeping",
+        "role": "V",
+        "phonetic": "/maɪt biː ˈsliːpɪŋ/",
+        "chinese": "可能/是/睡觉"
+      }
+    ]
+  },
+  {
+    "chinese": "我们可能需要更多时间。",
+    "english": "We might need more time",
+    "soundmark": "/wiː maɪt niːd mɔːr taɪm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "might need",
+        "role": "V",
+        "phonetic": "/maɪt niːd/",
+        "chinese": "可能/需要"
+      },
+      {
+        "text": "more time",
+        "role": "O",
+        "phonetic": "/mɔːr taɪm/",
+        "chinese": "更多/时间"
+      }
+    ]
+  },
+  {
+    "chinese": "她可能在家工作。",
+    "english": "She might be working from home",
+    "soundmark": "/ʃiː maɪt biː ˈwɜːrkɪŋ frʌm hoʊm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "might be working",
+        "role": "V",
+        "phonetic": "/maɪt biː ˈwɜːrkɪŋ/",
+        "chinese": "可能/是/工作"
+      },
+      {
+        "text": "from home",
+        "role": "A",
+        "phonetic": "/frʌm hoʊm/",
+        "chinese": "从/来自/家"
+      }
+    ]
+  },
+  {
+    "chinese": "飞机可能会晚点。",
+    "english": "The flight might be delayed",
+    "soundmark": "/ðə flaɪt maɪt biː dɪˈleɪd/",
+    "grammar": [
+      {
+        "text": "The flight",
+        "role": "S",
+        "phonetic": "/ðə flaɪt/",
+        "chinese": "这个/那个/航班"
+      },
+      {
+        "text": "might be delayed",
+        "role": "V",
+        "phonetic": "/maɪt biː dɪˈleɪd/",
+        "chinese": "可能/是/延误"
+      }
+    ]
+  },
+  {
+    "chinese": "他可能不记得我了。",
+    "english": "He might not remember me",
+    "soundmark": "/hiː maɪt nɑːt rɪˈmembər miː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "might not remember",
+        "role": "V",
+        "phonetic": "/maɪt nɑːt rɪˈmembər/",
+        "chinese": "可能/不/记住"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "我明天可能会去看电影。",
+    "english": "I might go to the movies tomorrow",
+    "soundmark": "/aɪ maɪt ɡoʊ tuː ðə ˈmuːviz təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "might go",
+        "role": "V",
+        "phonetic": "/maɪt ɡoʊ/",
+        "chinese": "可能/去"
+      },
+      {
+        "text": "to the movies",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈmuːviz/",
+        "chinese": "去看电影"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以帮你吗？",
+    "english": "May I help you",
+    "soundmark": "/meɪ aɪ help juː/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "我能借用一下你的笔吗？",
+    "english": "May I borrow your pen",
+    "soundmark": "/meɪ aɪ ˈbɑːroʊ jɔːr pen/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "borrow",
+        "role": "V",
+        "phonetic": "/ˈbɑːroʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "your pen",
+        "role": "O",
+        "phonetic": "/jɔːr pen/",
+        "chinese": "你的/你们的/钢笔"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以用一下电话吗？",
+    "english": "May I use the phone",
+    "soundmark": "/meɪ aɪ juːz ðə foʊn/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "use",
+        "role": "V",
+        "phonetic": "/juːz/",
+        "chinese": "使用"
+      },
+      {
+        "text": "the phone",
+        "role": "O",
+        "phonetic": "/ðə foʊn/",
+        "chinese": "这个/那个/电话"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以问你一个问题吗？",
+    "english": "May I ask you a question",
+    "soundmark": "/meɪ aɪ æsk juː ə ˈkwestʃən/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "ask",
+        "role": "V",
+        "phonetic": "/æsk/",
+        "chinese": "问"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "a question",
+        "role": "O",
+        "phonetic": "/ə ˈkwestʃən/",
+        "chinese": "一个/问题"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以开窗吗？",
+    "english": "May I open the window",
+    "soundmark": "/meɪ aɪ ˈoʊpən ðə ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "open",
+        "role": "V",
+        "phonetic": "/ˈoʊpən/",
+        "chinese": "打开"
+      },
+      {
+        "text": "the window",
+        "role": "O",
+        "phonetic": "/ðə ˈwɪndoʊ/",
+        "chinese": "这个/那个/窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以坐下吗？",
+    "english": "May I sit down",
+    "soundmark": "/meɪ aɪ sɪt daʊn/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sit down",
+        "role": "V",
+        "phonetic": "/sɪt daʊn/",
+        "chinese": "坐下"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以要一杯水吗？",
+    "english": "May I have a glass of water",
+    "soundmark": "/meɪ aɪ hæv ə ɡlæs ʌv ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a glass of water",
+        "role": "O",
+        "phonetic": "/ə ɡlæs ʌv ˈwɔːtər/",
+        "chinese": "一个/玻璃/玻璃杯/…的/水"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以带朋友来吗？",
+    "english": "May I bring a friend",
+    "soundmark": "/meɪ aɪ brɪŋ ə frend/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "bring",
+        "role": "V",
+        "phonetic": "/brɪŋ/",
+        "chinese": "带来"
+      },
+      {
+        "text": "a friend",
+        "role": "O",
+        "phonetic": "/ə frend/",
+        "chinese": "一个/朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以用一下洗手间吗？",
+    "english": "May I use the bathroom",
+    "soundmark": "/meɪ aɪ juːz ðə ˈbæθruːm/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "use",
+        "role": "V",
+        "phonetic": "/juːz/",
+        "chinese": "使用"
+      },
+      {
+        "text": "the bathroom",
+        "role": "O",
+        "phonetic": "/ðə ˈbæθruːm/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你能告诉我这多少钱吗？",
+    "english": "May I ask how much this is",
+    "soundmark": "/meɪ aɪ æsk haʊ mʌtʃ ðɪs ɪz/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "ask",
+        "role": "V",
+        "phonetic": "/æsk/",
+        "chinese": "问"
+      },
+      {
+        "text": "how much this is",
+        "role": "O",
+        "phonetic": "/haʊ mʌtʃ ðɪs ɪz/",
+        "chinese": "怎么/很多/这个/是"
+      }
+    ]
+  },
+  {
+    "chinese": "我可能今天不会去上班。",
+    "english": "I may not go to work today",
+    "soundmark": "/aɪ meɪ nɑːt ɡoʊ tuː wɜːrk təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "may not go",
+        "role": "V",
+        "phonetic": "/meɪ nɑːt ɡoʊ/",
+        "chinese": "可以/不/去"
+      },
+      {
+        "text": "to work",
+        "role": "A",
+        "phonetic": "/tuː wɜːrk/",
+        "chinese": "上班"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "你也许听说过他。",
+    "english": "You may have heard of him",
+    "soundmark": "/juː meɪ hæv hɜːrd ʌv hɪm/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "may have heard",
+        "role": "V",
+        "phonetic": "/meɪ hæv hɜːrd/",
+        "chinese": "可以/有/助动词/听到（过去式）"
+      },
+      {
+        "text": "of him",
+        "role": "A",
+        "phonetic": "/ʌv hɪm/",
+        "chinese": "…的/他"
+      }
+    ]
+  },
+  {
+    "chinese": "你也许换个时间试试。",
+    "english": "You may try another time",
+    "soundmark": "/juː meɪ traɪ əˈnʌðər taɪm/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "may try",
+        "role": "V",
+        "phonetic": "/meɪ traɪ/",
+        "chinese": "可以/尝试"
+      },
+      {
+        "text": "another time",
+        "role": "A",
+        "phonetic": "/əˈnʌðər taɪm/",
+        "chinese": "另一个/时间"
+      }
+    ]
+  },
+  {
+    "chinese": "他也许还在睡觉。",
+    "english": "He may still be sleeping",
+    "soundmark": "/hiː meɪ stɪl biː ˈsliːpɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "may still be sleeping",
+        "role": "V",
+        "phonetic": "/meɪ stɪl biː ˈsliːpɪŋ/",
+        "chinese": "可以/仍然/是/睡觉"
+      }
+    ]
+  },
+  {
+    "chinese": "我们可能需要更多帮助。",
+    "english": "We might need more help",
+    "soundmark": "/wiː maɪt niːd mɔːr help/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "might need",
+        "role": "V",
+        "phonetic": "/maɪt niːd/",
+        "chinese": "可能/需要"
+      },
+      {
+        "text": "more help",
+        "role": "O",
+        "phonetic": "/mɔːr help/",
+        "chinese": "更多/帮助"
+      }
+    ]
+  },
+  {
+    "chinese": "天气",
+    "english": "weather",
+    "soundmark": "/ˈweðər/"
+  },
+  {
+    "chinese": "迟到",
+    "english": "late",
+    "soundmark": "/leɪt/"
+  },
+  {
+    "chinese": "洗手间",
+    "english": "bathroom",
+    "soundmark": "/ˈbæθruːm/"
+  },
+  {
+    "chinese": "延误",
+    "english": "delayed",
+    "soundmark": "/dɪˈleɪd/"
+  },
+  {
+    "chinese": "记得",
+    "english": "remember",
+    "soundmark": "/rɪˈmembər/"
+  },
+  {
+    "chinese": "外套",
+    "english": "coat",
+    "soundmark": "/koʊt/"
+  },
+  {
+    "chinese": "航班",
+    "english": "flight",
+    "soundmark": "/flaɪt/"
+  },
+  {
+    "chinese": "另一个",
+    "english": "another",
+    "soundmark": "/əˈnʌðər/"
+  },
+  {
+    "chinese": "电影",
+    "english": "movies",
+    "soundmark": "/ˈmuːviz/"
+  },
+  {
+    "chinese": "还在",
+    "english": "still",
+    "soundmark": "/stɪl/"
+  }
+]

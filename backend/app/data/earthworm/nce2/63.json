@@ -1,0 +1,721 @@
+[
+  {
+    "chinese": "有趣的(funny)",
+    "english": "funny",
+    "soundmark": "/ˈfʌni/"
+  },
+  {
+    "chinese": "婚礼(wedding)",
+    "english": "wedding",
+    "soundmark": "/ˈwedɪŋ/"
+  },
+  {
+    "chinese": "演讲(speech)",
+    "english": "speech",
+    "soundmark": "/spiːtʃ/"
+  },
+  {
+    "chinese": "笑话(joke)",
+    "english": "joke",
+    "soundmark": "/dʒoʊk/"
+  },
+  {
+    "chinese": "逗乐(amuse)",
+    "english": "amuse",
+    "soundmark": "/əˈmjuːz/"
+  },
+  {
+    "chinese": "客人(guest)",
+    "english": "guest",
+    "soundmark": "/ɡest/"
+  },
+  {
+    "chinese": "鼓掌(applaud)",
+    "english": "applaud",
+    "soundmark": "/əˈplɔːd/"
+  },
+  {
+    "chinese": "尴尬的(embarrassed)",
+    "english": "embarrassed",
+    "soundmark": "/ɪmˈbærəst/"
+  },
+  {
+    "chinese": "严肃的(serious)",
+    "english": "serious",
+    "soundmark": "/ˈsɪəriəs/"
+  },
+  {
+    "chinese": "反应(reaction)",
+    "english": "reaction",
+    "soundmark": "/riˈækʃən/"
+  },
+  {
+    "chinese": "致辞",
+    "english": "make a speech",
+    "soundmark": "/meɪk ə spiːtʃ/"
+  },
+  {
+    "chinese": "讲笑话",
+    "english": "tell a joke",
+    "soundmark": "/tel ə dʒoʊk/"
+  },
+  {
+    "chinese": "被逗乐",
+    "english": "be amused",
+    "soundmark": "/biː əˈmjuːzd/"
+  },
+  {
+    "chinese": "婚宴",
+    "english": "the wedding reception",
+    "soundmark": "/ðə ˈwedɪŋ rɪˈsepʃən/"
+  },
+  {
+    "chinese": "在婚礼上",
+    "english": "at the wedding",
+    "soundmark": "/æt ðə ˈwedɪŋ/"
+  },
+  {
+    "chinese": "他说那个笑话很好笑",
+    "english": "He said that the joke was very funny",
+    "soundmark": "/hiː sed ðæt ðə dʒoʊk wʌz ˈveri ˈfʌni/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "joke",
+        "role": "S",
+        "phonetic": "/dʒoʊk/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "funny",
+        "role": "C",
+        "phonetic": "/ˈfʌni/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她问他们是否喜欢这个演讲",
+    "english": "She asked if they had enjoyed the speech",
+    "soundmark": "/ʃiː æskt ɪf ðeɪ hæd ɪnˈdʒɔɪd ðə spiːtʃ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "enjoyed",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪd/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "speech",
+        "role": "O",
+        "phonetic": "/spiːtʃ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他告诉我他那天很忙",
+    "english": "He told me that he was very busy that day",
+    "soundmark": "/hiː toʊld miː ðæt hiː wʌz ˈveri ˈbɪzi ðæt deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "busy",
+        "role": "C",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "她问我住在哪里",
+    "english": "She asked me where I lived",
+    "soundmark": "/ʃiː æskt miː wer aɪ lɪvd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "lived",
+        "role": "V",
+        "phonetic": "/lɪvd/",
+        "chinese": "生活/住"
+      }
+    ]
+  },
+  {
+    "chinese": "他说他第二天就会来",
+    "english": "He said that he would come the next day",
+    "soundmark": "/hiː sed ðæt hiː wʊd kʌm ðə nekst deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "next",
+        "role": "Det",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "她告诉我她正在写一本书",
+    "english": "She told me that she was writing a book",
+    "soundmark": "/ʃiː toʊld miː ðæt ʃiː wʌz ˈraɪtɪŋ ə bʊk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "writing",
+        "role": "V",
+        "phonetic": "/ˈraɪtɪŋ/",
+        "chinese": "写作的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "他问我是不是饿了",
+    "english": "He asked me if I was hungry",
+    "soundmark": "/hiː æskt miː ɪf aɪ wʌz ˈhʌŋɡri/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "hungry",
+        "role": "C",
+        "phonetic": "/ˈhʌŋɡri/",
+        "chinese": "饿的"
+      }
+    ]
+  },
+  {
+    "chinese": "她说她以前从未参加过这么有趣的婚礼",
+    "english": "She said that she had never been to such an interesting wedding before",
+    "soundmark": "/ʃiː sed ðæt ʃiː hæd ˈnevər biːn tuː sʌtʃ ən ˈɪntrəstɪŋ ˈwedɪŋ bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      },
+      {
+        "text": "wedding",
+        "role": "A",
+        "phonetic": "/ˈwedɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "新郎告诉大家他非常爱他的新娘",
+    "english": "The groom told everyone that he loved his bride very much",
+    "soundmark": "/ðə ɡruːm toʊld ˈevriwʌn ðæt hiː lʌvd hɪz braɪd ˈveri mʌtʃ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "groom",
+        "role": "S",
+        "phonetic": "/ɡruːm/",
+        "chinese": ""
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "everyone",
+        "role": "O",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "loved",
+        "role": "V",
+        "phonetic": "/lʌvd/",
+        "chinese": "爱"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "bride",
+        "role": "O",
+        "phonetic": "/braɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "much",
+        "role": "A",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      }
+    ]
+  },
+  {
+    "chinese": "她问我是否已经完成了家庭作业",
+    "english": "She asked if I had finished my homework",
+    "soundmark": "/ʃiː æskt ɪf aɪ hæd ˈfɪnɪʃt maɪ ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "有趣的(funny)",
+    "english": "funny",
+    "soundmark": "/ˈfʌni/"
+  },
+  {
+    "chinese": "婚礼(wedding)",
+    "english": "wedding",
+    "soundmark": "/ˈwedɪŋ/"
+  },
+  {
+    "chinese": "演讲(speech)",
+    "english": "speech",
+    "soundmark": "/spiːtʃ/"
+  },
+  {
+    "chinese": "笑话(joke)",
+    "english": "joke",
+    "soundmark": "/dʒoʊk/"
+  },
+  {
+    "chinese": "尴尬的(embarrassed)",
+    "english": "embarrassed",
+    "soundmark": "/ɪmˈbærəst/"
+  },
+  {
+    "chinese": "逗乐(amuse)",
+    "english": "amuse",
+    "soundmark": "/əˈmjuːz/"
+  },
+  {
+    "chinese": "他说(he said that)",
+    "english": "he said that",
+    "soundmark": "/hiː sed ðæt/"
+  },
+  {
+    "chinese": "她问(she asked if)",
+    "english": "she asked if",
+    "soundmark": "/ʃiː æskt ɪf/"
+  }
+]

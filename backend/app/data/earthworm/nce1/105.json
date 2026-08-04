@@ -1,0 +1,256 @@
+[
+  {
+    "english": "mistake",
+    "chinese": "错误",
+    "soundmark": "/mɪˈsteɪk/"
+  },
+  {
+    "english": "full",
+    "chinese": "充满的",
+    "soundmark": "/fʊl/"
+  },
+  {
+    "english": "correct",
+    "chinese": "纠正",
+    "soundmark": "/kəˈrekt/"
+  },
+  {
+    "english": "careless",
+    "chinese": "粗心的",
+    "soundmark": "/ˈkerləs/"
+  },
+  {
+    "english": "careful",
+    "chinese": "仔细的",
+    "soundmark": "/ˈkerfəl/"
+  },
+  {
+    "english": "check",
+    "chinese": "检查",
+    "soundmark": "/tʃek/"
+  },
+  {
+    "chinese": "你的作业满是错误",
+    "english": "Your homework is full of mistakes",
+    "soundmark": "/jʊr ˈhoʊmwɜːrk ɪz fʊl əv mɪˈsteɪks/",
+    "grammar": [
+      {
+        "text": "Your",
+        "role": "Det",
+        "phonetic": "/jʊr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "homework",
+        "role": "S",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "full",
+        "role": "C",
+        "phonetic": "/fʊl/",
+        "chinese": "满的/饱的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "mistakes",
+        "role": "O",
+        "phonetic": "/mɪˈsteɪks/",
+        "chinese": "错误"
+      }
+    ]
+  },
+  {
+    "chinese": "你太粗心了",
+    "english": "You are too careless",
+    "soundmark": "/juː ɑːr tuː ˈkerləs/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "careless",
+        "role": "C",
+        "phonetic": "/ˈkerləs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你应该更仔细一些",
+    "english": "You should be more careful",
+    "soundmark": "/juː ʃʊd biː mɔːr ˈkerfəl/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "careful",
+        "role": "C",
+        "phonetic": "/ˈkerfəl/",
+        "chinese": "小心的"
+      }
+    ]
+  },
+  {
+    "chinese": "让我帮你纠正这些错误",
+    "english": "Let me help you correct these mistakes",
+    "soundmark": "/let miː help juː kəˈrekt ðiːz mɪˈsteɪks/",
+    "grammar": [
+      {
+        "text": "Let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "correct",
+        "role": "V",
+        "phonetic": "/kəˈrekt/",
+        "chinese": "正确的"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "mistakes",
+        "role": "O",
+        "phonetic": "/mɪˈsteɪks/",
+        "chinese": "错误"
+      }
+    ]
+  },
+  {
+    "chinese": "下次我会更仔细地检查",
+    "english": "I'll check more carefully next time",
+    "soundmark": "/aɪl tʃek mɔːr ˈkerfəli nekst taɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "'ll",
+        "role": "V",
+        "phonetic": "/l/",
+        "chinese": ""
+      },
+      {
+        "text": "check",
+        "role": "V",
+        "phonetic": "/tʃek/",
+        "chinese": "检查"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "carefully",
+        "role": "Adv",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      },
+      {
+        "text": "next",
+        "role": "Det",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "time",
+        "role": "T",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "english": "attention",
+    "chinese": "注意",
+    "soundmark": "/əˈtenʃən/"
+  },
+  {
+    "english": "detail",
+    "chinese": "细节",
+    "soundmark": "/ˈdiːteɪl/"
+  },
+  {
+    "english": "improve",
+    "chinese": "改善",
+    "soundmark": "/ɪmˈpruːv/"
+  }
+]

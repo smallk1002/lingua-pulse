@@ -1,0 +1,638 @@
+[
+  {
+    "chinese": "海关",
+    "english": "customs",
+    "soundmark": "/ˈkʌstəmz/"
+  },
+  {
+    "chinese": "护照",
+    "english": "passport",
+    "soundmark": "/ˈpæspɔːrt/"
+  },
+  {
+    "chinese": "签证",
+    "english": "visa",
+    "soundmark": "/ˈviːzə/"
+  },
+  {
+    "chinese": "行李箱",
+    "english": "suitcase",
+    "soundmark": "/ˈsuːtkeɪs/"
+  },
+  {
+    "chinese": "旅客",
+    "english": "passenger",
+    "soundmark": "/ˈpæsəndʒər/"
+  },
+  {
+    "chinese": "行李",
+    "english": "luggage",
+    "soundmark": "/ˈlʌɡɪdʒ/"
+  },
+  {
+    "chinese": "机场",
+    "english": "airport",
+    "soundmark": "/ˈerpɔːrt/"
+  },
+  {
+    "chinese": "飞机",
+    "english": "plane",
+    "soundmark": "/pleɪn/"
+  },
+  {
+    "chinese": "航班",
+    "english": "flight",
+    "soundmark": "/flaɪt/"
+  },
+  {
+    "chinese": "登机牌",
+    "english": "boarding pass",
+    "soundmark": "/ˈbɔːrdɪŋ/ /pæs/"
+  },
+  {
+    "chinese": "票",
+    "english": "ticket",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "chinese": "旅游",
+    "english": "travel",
+    "soundmark": "/ˈtrævəl/"
+  },
+  {
+    "chinese": "度假",
+    "english": "holiday",
+    "soundmark": "/ˈhɑːlədeɪ/"
+  },
+  {
+    "chinese": "外国人",
+    "english": "foreigner",
+    "soundmark": "/ˈfɔːrənər/"
+  },
+  {
+    "chinese": "出发",
+    "english": "departure",
+    "soundmark": "/dɪˈpɑːrtʃər/"
+  },
+  {
+    "chinese": "到达",
+    "english": "arrival",
+    "soundmark": "/əˈraɪvəl/"
+  },
+  {
+    "chinese": "你是游客吗",
+    "english": "Are you a tourist",
+    "soundmark": "/ɑːr/ /juː/ /ə/ /ˈtʊrɪst/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "tourist",
+        "role": "C",
+        "phonetic": "/ˈtʊrɪst/",
+        "chinese": "游客"
+      }
+    ]
+  },
+  {
+    "chinese": "请出示你的护照",
+    "english": "Please show me your passport",
+    "soundmark": "/pliːz/ /ʃoʊ/ /miː/ /jɔːr/ /ˈpæspɔːrt/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "show",
+        "role": "V",
+        "phonetic": "/ʃoʊ/",
+        "chinese": "展示"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "passport",
+        "role": "O",
+        "phonetic": "/ˈpæspɔːrt/",
+        "chinese": "护照"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我的护照",
+    "english": "Here is my passport",
+    "soundmark": "/hɪr/ /ɪz/ /maɪ/ /ˈpæspɔːrt/",
+    "grammar": [
+      {
+        "text": "Here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "passport",
+        "role": "S",
+        "phonetic": "/ˈpæspɔːrt/",
+        "chinese": "护照"
+      }
+    ]
+  },
+  {
+    "chinese": "你有签证吗",
+    "english": "Do you have a visa",
+    "soundmark": "/duː/ /juː/ /hæv/ /ə/ /ˈviːzə/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "visa",
+        "role": "O",
+        "phonetic": "/ˈviːzə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "是的我有",
+    "english": "Yes I have one",
+    "soundmark": "/jes/ /aɪ/ /hæv/ /wʌn/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "你从哪里来",
+    "english": "Where do you come from",
+    "soundmark": "/wer/ /duː/ /juː/ /kʌm/ /frʌm/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      }
+    ]
+  },
+  {
+    "chinese": "我来自中国",
+    "english": "I come from China",
+    "soundmark": "/aɪ/ /kʌm/ /frʌm/ /ˈtʃaɪnə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "China",
+        "role": "O",
+        "phonetic": "/ˈtʃaɪnə/",
+        "chinese": "中国"
+      }
+    ]
+  },
+  {
+    "chinese": "你要去哪里",
+    "english": "Where are you going",
+    "soundmark": "/wer/ /ɑːr/ /juː/ /ˈɡoʊɪŋ/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      }
+    ]
+  },
+  {
+    "chinese": "我要去伦敦",
+    "english": "I am going to London",
+    "soundmark": "/aɪ/ /æm/ /ˈɡoʊɪŋ/ /tuː/ /ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "London",
+        "role": "O",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "你有要申报的东西吗",
+    "english": "Do you have anything to declare",
+    "soundmark": "/duː/ /juː/ /hæv/ /ˈeniθɪŋ/ /tuː/ /dɪˈkler/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "declare",
+        "role": "V",
+        "phonetic": "/dɪˈkler/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "没有我没什么要申报的",
+    "english": "No I have nothing to declare",
+    "soundmark": "/noʊ/ /aɪ/ /hæv/ /ˈnʌθɪŋ/ /tuː/ /dɪˈkler/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "nothing",
+        "role": "O",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "declare",
+        "role": "V",
+        "phonetic": "/dɪˈkler/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你有几个行李箱",
+    "english": "How many suitcases do you have",
+    "soundmark": "/haʊ/ /ˈmeni/ /ˈsuːtkeɪsɪz/ /duː/ /juː/ /hæv/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "suitcases",
+        "role": "S",
+        "phonetic": "/ˈsuːtkeɪsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "我只有两个行李箱",
+    "english": "I have only two suitcases",
+    "soundmark": "/aɪ/ /hæv/ /ˈoʊnli/ /tuː/ /ˈsuːtkeɪsɪz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "suitcases",
+        "role": "O",
+        "phonetic": "/ˈsuːtkeɪsɪz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你们的航班几点起飞",
+    "english": "What time is your flight",
+    "soundmark": "/wʌt/ /taɪm/ /ɪz/ /jɔːr/ /flaɪt/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "time",
+        "role": "S",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "flight",
+        "role": "C",
+        "phonetic": "/flaɪt/",
+        "chinese": "航班"
+      }
+    ]
+  },
+  {
+    "chinese": "游客",
+    "english": "tourist",
+    "soundmark": "/ˈtʊrɪst/"
+  },
+  {
+    "chinese": "申报",
+    "english": "declare",
+    "soundmark": "/dɪˈkler/"
+  },
+  {
+    "chinese": "任何东西",
+    "english": "anything",
+    "soundmark": "/ˈeniθɪŋ/"
+  },
+  {
+    "chinese": "没什么",
+    "english": "nothing",
+    "soundmark": "/ˈnʌθɪŋ/"
+  },
+  {
+    "chinese": "只",
+    "english": "only",
+    "soundmark": "/ˈoʊnli/"
+  },
+  {
+    "chinese": "时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "chinese": "出发",
+    "english": "depart",
+    "soundmark": "/dɪˈpɑːrt/"
+  },
+  {
+    "chinese": "到达",
+    "english": "arrive",
+    "soundmark": "/əˈraɪv/"
+  },
+  {
+    "chinese": "地图",
+    "english": "map",
+    "soundmark": "/mæp/"
+  },
+  {
+    "chinese": "酒店",
+    "english": "hotel",
+    "soundmark": "/hoʊˈtel/"
+  }
+]

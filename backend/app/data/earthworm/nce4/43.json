@@ -1,0 +1,731 @@
+[
+  {
+    "chinese": "宇宙",
+    "english": "universe",
+    "soundmark": "/ˈjuːnɪvɜːs/"
+  },
+  {
+    "chinese": "外星生命",
+    "english": "extraterrestrial life",
+    "soundmark": "/ˌekstrətəˈrestriəl laɪf/"
+  },
+  {
+    "chinese": "行星",
+    "english": "planet",
+    "soundmark": "/ˈplænɪt/"
+  },
+  {
+    "chinese": "恒星",
+    "english": "star",
+    "soundmark": "/stɑː/"
+  },
+  {
+    "chinese": "可居住的",
+    "english": "habitable",
+    "soundmark": "/ˈhæbɪtəbl/"
+  },
+  {
+    "chinese": "信号",
+    "english": "signal",
+    "soundmark": "/ˈsɪɡnəl/"
+  },
+  {
+    "chinese": "文明",
+    "english": "civilization",
+    "soundmark": "/ˌsɪvəlaɪˈzeɪʃən/"
+  },
+  {
+    "chinese": "观测",
+    "english": "observation",
+    "soundmark": "/ˌɒbzəˈveɪʃən/"
+  },
+  {
+    "chinese": "太阳系",
+    "english": "solar system",
+    "soundmark": "/ˈsəʊlə ˈsɪstəm/"
+  },
+  {
+    "chinese": "探测器",
+    "english": "probe",
+    "soundmark": "/prəʊb/"
+  },
+  {
+    "chinese": "射电望远镜",
+    "english": "radio telescope",
+    "soundmark": "/ˈreɪdiəʊ ˈtelɪskəʊp/"
+  },
+  {
+    "chinese": "遥远的",
+    "english": "remote",
+    "soundmark": "/rɪˈməʊt/"
+  },
+  {
+    "chinese": "宇宙中是否存在其他智慧生命是科学最大的未解之谜",
+    "english": "whether other intelligent life exists in the universe is the greatest unsolved mystery of science",
+    "soundmark": "/ˈweðər ˈʌðər ɪnˈtelɪdʒənt laɪf ɪɡˈzɪsts ɪn ðə ˈjuːnɪvɜːs ɪz ðə ˈɡreɪtɪst ˌʌnˈsɒlvd ˈmɪstəri əv ˈsaɪəns/",
+    "grammar": [
+      {
+        "text": "whether",
+        "role": "C",
+        "phonetic": "/ˈweðər/",
+        "chinese": "是否"
+      },
+      {
+        "text": "other",
+        "role": "Det",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      },
+      {
+        "text": "intelligent",
+        "role": "A",
+        "phonetic": "/ɪnˈtelɪdʒənt/",
+        "chinese": ""
+      },
+      {
+        "text": "life",
+        "role": "S",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      },
+      {
+        "text": "exists",
+        "role": "V",
+        "phonetic": "/ɪɡˈzɪsts/",
+        "chinese": "存在"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "universe",
+        "role": "O",
+        "phonetic": "/ˈjuːnɪvɜːs/",
+        "chinese": "宇宙"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "greatest",
+        "role": "A",
+        "phonetic": "/ˈɡreɪtɪst/",
+        "chinese": "最…的(伟大的/很棒的)"
+      },
+      {
+        "text": "unsolved",
+        "role": "A",
+        "phonetic": "/ˌʌnˈsɒlvd/",
+        "chinese": ""
+      },
+      {
+        "text": "mystery",
+        "role": "C",
+        "phonetic": "/ˈmɪstəri/",
+        "chinese": "神秘"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "science",
+        "role": "O",
+        "phonetic": "/ˈsaɪəns/",
+        "chinese": "科学"
+      }
+    ]
+  },
+  {
+    "chinese": "科学家们正在监听来自遥远星系的无线电信号",
+    "english": "scientists are listening for radio signals from distant galaxies",
+    "soundmark": "/ˈsaɪəntɪsts ɑː ˈlɪsnɪŋ fɔː ˈreɪdiəʊ ˈsɪɡnəlz frɒm ˈdɪstənt ˈɡæləksiz/",
+    "grammar": [
+      {
+        "text": "scientists",
+        "role": "S",
+        "phonetic": "/ˈsaɪəntɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "listening",
+        "role": "V",
+        "phonetic": "/ˈlɪsnɪŋ/",
+        "chinese": "听的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔː/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "radio",
+        "role": "A",
+        "phonetic": "/ˈreɪdiəʊ/",
+        "chinese": "收音机"
+      },
+      {
+        "text": "signals",
+        "role": "O",
+        "phonetic": "/ˈsɪɡnəlz/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "distant",
+        "role": "A",
+        "phonetic": "/ˈdɪstənt/",
+        "chinese": "遥远的"
+      },
+      {
+        "text": "galaxies",
+        "role": "O",
+        "phonetic": "/ˈɡæləksiz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "可居住的行星必须处于其恒星的适当距离",
+    "english": "a habitable planet must be at an appropriate distance from its star",
+    "soundmark": "/ə ˈhæbɪtəbl ˈplænɪt mʌst bi ət ən əˈprəʊpriət ˈdɪstəns frɒm ɪts stɑː/",
+    "grammar": [
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "habitable",
+        "role": "A",
+        "phonetic": "/ˈhæbɪtəbl/",
+        "chinese": ""
+      },
+      {
+        "text": "planet",
+        "role": "S",
+        "phonetic": "/ˈplænɪt/",
+        "chinese": "行星"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/bi/",
+        "chinese": "是"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/ət/",
+        "chinese": "在"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "appropriate",
+        "role": "A",
+        "phonetic": "/əˈprəʊpriət/",
+        "chinese": ""
+      },
+      {
+        "text": "distance",
+        "role": "C",
+        "phonetic": "/ˈdɪstəns/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "star",
+        "role": "O",
+        "phonetic": "/stɑː/",
+        "chinese": "星星"
+      }
+    ]
+  },
+  {
+    "chinese": "我们的太阳系只是无数星系中的一个极小部分",
+    "english": "our solar system is only a tiny fraction of countless galaxies",
+    "soundmark": "/ˈaʊə ˈsəʊlə ˈsɪstəm ɪz ˈəʊnli ə ˈtaɪni ˈfrækʃən əv ˈkaʊntləs ˈɡæləksiz/",
+    "grammar": [
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/ˈaʊə/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "solar",
+        "role": "A",
+        "phonetic": "/ˈsəʊlə/",
+        "chinese": ""
+      },
+      {
+        "text": "system",
+        "role": "S",
+        "phonetic": "/ˈsɪstəm/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈəʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "tiny",
+        "role": "A",
+        "phonetic": "/ˈtaɪni/",
+        "chinese": "微小的"
+      },
+      {
+        "text": "fraction",
+        "role": "C",
+        "phonetic": "/ˈfrækʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "countless",
+        "role": "A",
+        "phonetic": "/ˈkaʊntləs/",
+        "chinese": ""
+      },
+      {
+        "text": "galaxies",
+        "role": "O",
+        "phonetic": "/ˈɡæləksiz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "探测器已经被送往太阳系最远的行星",
+    "english": "probes have been sent to the most distant planets of the solar system",
+    "soundmark": "/prəʊbz hæv biːn sent tuː ðə məʊst ˈdɪstənt ˈplænɪts əv ðə ˈsəʊlə ˈsɪstəm/",
+    "grammar": [
+      {
+        "text": "probes",
+        "role": "S",
+        "phonetic": "/prəʊbz/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "sent",
+        "role": "V",
+        "phonetic": "/sent/",
+        "chinese": "寄/发送（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/məʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "distant",
+        "role": "A",
+        "phonetic": "/ˈdɪstənt/",
+        "chinese": "遥远的"
+      },
+      {
+        "text": "planets",
+        "role": "O",
+        "phonetic": "/ˈplænɪts/",
+        "chinese": "行星"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "solar",
+        "role": "A",
+        "phonetic": "/ˈsəʊlə/",
+        "chinese": ""
+      },
+      {
+        "text": "system",
+        "role": "O",
+        "phonetic": "/ˈsɪstəm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们尚未接收到任何来自外星文明的确切信号",
+    "english": "we have not yet received any definite signal from alien civilizations",
+    "soundmark": "/wiː hæv nɒt jet rɪˈsiːvd ˈeni ˈdefɪnɪt ˈsɪɡnəl frɒm ˈeɪliən ˌsɪvəlaɪˈzeɪʃənz/",
+    "grammar": [
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "yet",
+        "role": "Adv",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "definite",
+        "role": "A",
+        "phonetic": "/ˈdefɪnɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "signal",
+        "role": "O",
+        "phonetic": "/ˈsɪɡnəl/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "alien",
+        "role": "A",
+        "phonetic": "/ˈeɪliən/",
+        "chinese": ""
+      },
+      {
+        "text": "civilizations",
+        "role": "O",
+        "phonetic": "/ˌsɪvəlaɪˈzeɪʃənz/",
+        "chinese": "文明"
+      }
+    ]
+  },
+  {
+    "chinese": "观测技术的进步使我们能发现更多类地行星",
+    "english": "advances in observation technology enable us to discover more earth-like planets",
+    "soundmark": "/ədˈvɑːnsɪz ɪn ˌɒbzəˈveɪʃən tekˈnɒlədʒi ɪˈneɪbəl ʌs tuː dɪˈskʌvə mɔː ɜːθ-laɪk ˈplænɪts/",
+    "grammar": [
+      {
+        "text": "advances",
+        "role": "S",
+        "phonetic": "/ədˈvɑːnsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "observation",
+        "role": "A",
+        "phonetic": "/ˌɒbzəˈveɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "technology",
+        "role": "O",
+        "phonetic": "/tekˈnɒlədʒi/",
+        "chinese": "技术"
+      },
+      {
+        "text": "enable",
+        "role": "V",
+        "phonetic": "/ɪˈneɪbəl/",
+        "chinese": ""
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "discover",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvə/",
+        "chinese": "发现"
+      },
+      {
+        "text": "more",
+        "role": "Det",
+        "phonetic": "/mɔː/",
+        "chinese": "更多"
+      },
+      {
+        "text": "earth-like",
+        "role": "A",
+        "phonetic": "/ˈɜːθ-laɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "planets",
+        "role": "O",
+        "phonetic": "/ˈplænɪts/",
+        "chinese": "行星"
+      }
+    ]
+  },
+  {
+    "chinese": "也许有一天人类将与宇宙中的陌生生命相遇",
+    "english": "perhaps one day mankind will encounter strange life in the universe",
+    "soundmark": "/pəˈhæps wʌn deɪ mænˈkaɪnd wɪl ɪnˈkaʊntə streɪndʒ laɪf ɪn ðə ˈjuːnɪvɜːs/",
+    "grammar": [
+      {
+        "text": "perhaps",
+        "role": "Adv",
+        "phonetic": "/pəˈhæps/",
+        "chinese": "也许"
+      },
+      {
+        "text": "one",
+        "role": "Det",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "day",
+        "role": "O",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "mankind",
+        "role": "S",
+        "phonetic": "/mænˈkaɪnd/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "Aux",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "encounter",
+        "role": "V",
+        "phonetic": "/ɪnˈkaʊntə/",
+        "chinese": ""
+      },
+      {
+        "text": "strange",
+        "role": "A",
+        "phonetic": "/streɪndʒ/",
+        "chinese": "奇怪的"
+      },
+      {
+        "text": "life",
+        "role": "O",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "universe",
+        "role": "O",
+        "phonetic": "/ˈjuːnɪvɜːs/",
+        "chinese": "宇宙"
+      }
+    ]
+  },
+  {
+    "chinese": "天文学家",
+    "english": "astronomer",
+    "soundmark": "/əˈstrɒnəmər/"
+  },
+  {
+    "chinese": "彗星",
+    "english": "comet",
+    "soundmark": "/ˈkɒmɪt/"
+  },
+  {
+    "chinese": "小行星",
+    "english": "asteroid",
+    "soundmark": "/ˈæstərɔɪd/"
+  },
+  {
+    "chinese": "星云",
+    "english": "nebula",
+    "soundmark": "/ˈnebjʊlə/"
+  },
+  {
+    "chinese": "黑洞",
+    "english": "black hole",
+    "soundmark": "/blæk həʊl/"
+  },
+  {
+    "chinese": "类星体",
+    "english": "quasar",
+    "soundmark": "/ˈkweɪzɑː/"
+  },
+  {
+    "chinese": "超新星",
+    "english": "supernova",
+    "soundmark": "/ˌsuːpəˈnəʊvə/"
+  },
+  {
+    "chinese": "宇宙飞船",
+    "english": "spacecraft",
+    "soundmark": "/ˈspeɪskrɑːft/"
+  },
+  {
+    "chinese": "探测器",
+    "english": "probe",
+    "soundmark": "/prəʊb/"
+  },
+  {
+    "chinese": "信号",
+    "english": "signal",
+    "soundmark": "/ˈsɪɡnəl/"
+  },
+  {
+    "chinese": "无线电波",
+    "english": "radio wave",
+    "soundmark": "/ˈreɪdiəʊ weɪv/"
+  }
+]

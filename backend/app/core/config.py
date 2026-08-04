@@ -10,7 +10,8 @@ from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
     # 数据库
-    DATABASE_URL: str = "postgresql+asyncpg://root:admin123@localhost:5432/linguapulse"
+    # DATABASE_URL: str = "postgresql+asyncpg://root:admin123@localhost:5432/linguapulse"
+    DATABASE_URL: str = "postgresql+asyncpg://postgres:Helixlife2026!@47.98.231.29:5432/linguapulse"
 
     # JWT
     JWT_SECRET: str = "change-me-in-production"
@@ -22,7 +23,12 @@ class Settings(BaseSettings):
 
     # 应用
     APP_NAME: str = "LinguaPulse API"
-    DEBUG: bool = True
+    DEBUG: bool = False
+    ALLOWED_ORIGINS: str = "http://localhost:3000,http://127.0.0.1:3000"
+
+    @property
+    def cors_origins(self) -> list[str]:
+        return [o.strip() for o in self.ALLOWED_ORIGINS.split(",") if o.strip()]
 
     model_config = {"env_prefix": ""}
 

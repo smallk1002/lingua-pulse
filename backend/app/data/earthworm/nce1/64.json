@@ -1,0 +1,670 @@
+[
+  {
+    "chinese": "不要",
+    "english": "don't",
+    "soundmark": "/doʊnt/"
+  },
+  {
+    "chinese": "禁止",
+    "english": "mustn't",
+    "soundmark": "/ˈmʌsnt/"
+  },
+  {
+    "chinese": "不许",
+    "english": "must not",
+    "soundmark": "/mʌst nɑːt/"
+  },
+  {
+    "chinese": "注意",
+    "english": "be careful",
+    "soundmark": "/biː ˈkerfl/"
+  },
+  {
+    "chinese": "小心",
+    "english": "look out",
+    "soundmark": "/lʊk aʊt/"
+  },
+  {
+    "chinese": "停止",
+    "english": "stop",
+    "soundmark": "/stɑːp/"
+  },
+  {
+    "chinese": "别碰",
+    "english": "don't touch",
+    "soundmark": "/doʊnt tʌtʃ/"
+  },
+  {
+    "chinese": "保持安静",
+    "english": "be quiet",
+    "soundmark": "/biː ˈkwaɪət/"
+  },
+  {
+    "chinese": "当心",
+    "english": "watch out",
+    "soundmark": "/wɑːtʃ aʊt/"
+  },
+  {
+    "chinese": "不要忘记",
+    "english": "don't forget",
+    "soundmark": "/doʊnt fərˈɡet/"
+  },
+  {
+    "chinese": "不要迟到",
+    "english": "don't be late",
+    "soundmark": "/doʊnt biː leɪt/"
+  },
+  {
+    "chinese": "别担心",
+    "english": "don't worry",
+    "soundmark": "/doʊnt ˈwɜːri/"
+  },
+  {
+    "chinese": "别着急",
+    "english": "take it easy",
+    "soundmark": "/teɪk ɪt ˈiːzi/"
+  },
+  {
+    "chinese": "安静",
+    "english": "quiet",
+    "soundmark": "/ˈkwaɪət/"
+  },
+  {
+    "chinese": "吵闹的",
+    "english": "noisy",
+    "soundmark": "/ˈnɔɪzi/"
+  },
+  {
+    "chinese": "危险",
+    "english": "dangerous",
+    "soundmark": "/ˈdeɪndʒərəs/"
+  },
+  {
+    "chinese": "安全的",
+    "english": "safe",
+    "soundmark": "/seɪf/"
+  },
+  {
+    "chinese": "地板湿了",
+    "english": "wet floor",
+    "soundmark": "/wet flɔːr/"
+  },
+  {
+    "chinese": "规则",
+    "english": "rule",
+    "soundmark": "/ruːl/"
+  },
+  {
+    "chinese": "警告",
+    "english": "warning",
+    "soundmark": "/ˈwɔːrnɪŋ/"
+  },
+  {
+    "chinese": "别碰那个",
+    "english": "don't touch that",
+    "soundmark": "/doʊnt tʌtʃ ðæt/"
+  },
+  {
+    "chinese": "别跑",
+    "english": "don't run",
+    "soundmark": "/doʊnt rʌn/"
+  },
+  {
+    "chinese": "别喊叫",
+    "english": "don't shout",
+    "soundmark": "/doʊnt ʃaʊt/"
+  },
+  {
+    "chinese": "别关门",
+    "english": "don't close the door",
+    "soundmark": "/doʊnt kloʊz ðə dɔːr/"
+  },
+  {
+    "chinese": "别忘了带伞",
+    "english": "don't forget your umbrella",
+    "soundmark": "/doʊnt fərˈɡet jɔːr ʌmˈbrelə/"
+  },
+  {
+    "chinese": "别碰那东西它可能有危险",
+    "english": "Don't touch that it might be dangerous",
+    "soundmark": "/doʊnt tʌtʃ ðæt ɪt maɪt biː ˈdeɪndʒərəs/",
+    "grammar": [
+      {
+        "text": "Don't touch",
+        "role": "V",
+        "phonetic": "/doʊnt tʌtʃ/",
+        "chinese": "不/触摸"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "might be",
+        "role": "V",
+        "phonetic": "/maɪt biː/",
+        "chinese": "可能是"
+      },
+      {
+        "text": "dangerous",
+        "role": "C",
+        "phonetic": "/ˈdeɪndʒərəs/",
+        "chinese": "危险的"
+      }
+    ]
+  },
+  {
+    "chinese": "不要在走廊里跑",
+    "english": "Don't run in the hallway",
+    "soundmark": "/doʊnt rʌn ɪn ðə ˈhɔːlweɪ/",
+    "grammar": [
+      {
+        "text": "Don't run",
+        "role": "V",
+        "phonetic": "/doʊnt rʌn/",
+        "chinese": "不/跑"
+      },
+      {
+        "text": "in the hallway",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈhɔːlweɪ/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "不要在这里大声说话",
+    "english": "Don't speak loudly here",
+    "soundmark": "/doʊnt spiːk ˈlaʊdli hɪr/",
+    "grammar": [
+      {
+        "text": "Don't speak",
+        "role": "V",
+        "phonetic": "/doʊnt spiːk/",
+        "chinese": "不/说/讲"
+      },
+      {
+        "text": "loudly",
+        "role": "A",
+        "phonetic": "/ˈlaʊdli/",
+        "chinese": ""
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "请勿吸烟",
+    "english": "Don't smoke please",
+    "soundmark": "/doʊnt smoʊk pliːz/",
+    "grammar": [
+      {
+        "text": "Don't smoke",
+        "role": "V",
+        "phonetic": "/doʊnt smoʊk/",
+        "chinese": "不/抽烟/烟"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "不要在图书馆里吃东西",
+    "english": "Don't eat in the library",
+    "soundmark": "/doʊnt iːt ɪn ðə ˈlaɪbreri/",
+    "grammar": [
+      {
+        "text": "Don't eat",
+        "role": "V",
+        "phonetic": "/doʊnt iːt/",
+        "chinese": "不/吃"
+      },
+      {
+        "text": "in the library",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈlaɪbreri/",
+        "chinese": "在…里/这个/那个/图书馆"
+      }
+    ]
+  },
+  {
+    "chinese": "不要把窗户开太大",
+    "english": "Don't open the window too wide",
+    "soundmark": "/doʊnt ˈoʊpən ðə ˈwɪndoʊ tuː waɪd/",
+    "grammar": [
+      {
+        "text": "Don't open",
+        "role": "V",
+        "phonetic": "/doʊnt ˈoʊpən/",
+        "chinese": "不/打开"
+      },
+      {
+        "text": "the window",
+        "role": "O",
+        "phonetic": "/ðə ˈwɪndoʊ/",
+        "chinese": "这个/那个/窗户"
+      },
+      {
+        "text": "too wide",
+        "role": "A",
+        "phonetic": "/tuː waɪd/",
+        "chinese": "也/太/宽的"
+      }
+    ]
+  },
+  {
+    "chinese": "别忘了带上你的护照",
+    "english": "Don't forget to bring your passport",
+    "soundmark": "/doʊnt fərˈɡet tuː brɪŋ jɔːr ˈpæspɔːrt/",
+    "grammar": [
+      {
+        "text": "Don't forget",
+        "role": "V",
+        "phonetic": "/doʊnt fərˈɡet/",
+        "chinese": "不/忘记"
+      },
+      {
+        "text": "to bring",
+        "role": "V",
+        "phonetic": "/tuː brɪŋ/",
+        "chinese": "到/向/带来"
+      },
+      {
+        "text": "your passport",
+        "role": "O",
+        "phonetic": "/jɔːr ˈpæspɔːrt/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "会议期间请勿使用手机",
+    "english": "Don't use your phone during the meeting",
+    "soundmark": "/doʊnt juːz jɔːr foʊn ˈdʊrɪŋ ðə ˈmiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "Don't use",
+        "role": "V",
+        "phonetic": "/doʊnt juːz/",
+        "chinese": "不/使用"
+      },
+      {
+        "text": "your phone",
+        "role": "O",
+        "phonetic": "/jɔːr foʊn/",
+        "chinese": "你的/你们的/电话"
+      },
+      {
+        "text": "during the meeting",
+        "role": "A",
+        "phonetic": "/ˈdʊrɪŋ ðə ˈmiːtɪŋ/",
+        "chinese": "在…期间/这个/那个/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "你不应该那么晚睡觉",
+    "english": "You mustn't go to bed so late",
+    "soundmark": "/juː ˈmʌsnt ɡoʊ tuː bed soʊ leɪt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "mustn't go",
+        "role": "V",
+        "phonetic": "/ˈmʌsnt ɡoʊ/",
+        "chinese": "不可以/去"
+      },
+      {
+        "text": "to bed",
+        "role": "A",
+        "phonetic": "/tuː bed/",
+        "chinese": "睡觉"
+      },
+      {
+        "text": "so late",
+        "role": "A",
+        "phonetic": "/soʊ leɪt/",
+        "chinese": "如此/所以/晚"
+      }
+    ]
+  },
+  {
+    "chinese": "你不可以把车停在这里",
+    "english": "You mustn't park your car here",
+    "soundmark": "/juː ˈmʌsnt pɑːrk jɔːr kɑːr hɪr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "mustn't park",
+        "role": "V",
+        "phonetic": "/ˈmʌsnt pɑːrk/",
+        "chinese": "不可以/公园"
+      },
+      {
+        "text": "your car",
+        "role": "O",
+        "phonetic": "/jɔːr kɑːr/",
+        "chinese": "你的/你们的/汽车"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "请不要把垃圾丢在这里",
+    "english": "Please don't leave your rubbish here",
+    "soundmark": "/pliːz doʊnt liːv jɔːr ˈrʌbɪʃ hɪr/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "don't leave",
+        "role": "V",
+        "phonetic": "/doʊnt liːv/",
+        "chinese": "不/离开"
+      },
+      {
+        "text": "your rubbish",
+        "role": "O",
+        "phonetic": "/jɔːr ˈrʌbɪʃ/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "别担心我能帮你",
+    "english": "Don't worry I can help you",
+    "soundmark": "/doʊnt ˈwɜːri aɪ kæn help juː/",
+    "grammar": [
+      {
+        "text": "Don't worry",
+        "role": "V",
+        "phonetic": "/doʊnt ˈwɜːri/",
+        "chinese": "不/担心"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can help",
+        "role": "V",
+        "phonetic": "/kæn help/",
+        "chinese": "能/帮助"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "别生气这只是一场误会",
+    "english": "Don't be angry it is just a misunderstanding",
+    "soundmark": "/doʊnt biː ˈæŋɡri ɪt ɪz dʒʌst ə ˌmɪsʌndərˈstændɪŋ/",
+    "grammar": [
+      {
+        "text": "Don't be",
+        "role": "V",
+        "phonetic": "/doʊnt biː/",
+        "chinese": "不/是"
+      },
+      {
+        "text": "angry",
+        "role": "C",
+        "phonetic": "/ˈæŋɡri/",
+        "chinese": "生气的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "just a misunderstanding",
+        "role": "C",
+        "phonetic": "/dʒʌst ə ˌmɪsʌndərˈstændɪŋ/",
+        "chinese": "刚刚/只是/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "小心地板很滑",
+    "english": "Be careful the floor is very slippery",
+    "soundmark": "/biː ˈkerfl ðə flɔːr ɪz ˈveri ˈslɪpəri/",
+    "grammar": [
+      {
+        "text": "Be careful",
+        "role": "V",
+        "phonetic": "/biː ˈkerfl/",
+        "chinese": "是/小心的"
+      },
+      {
+        "text": "the floor",
+        "role": "S",
+        "phonetic": "/ðə flɔːr/",
+        "chinese": "这个/那个/地板/楼层"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very slippery",
+        "role": "C",
+        "phonetic": "/ˈveri ˈslɪpəri/",
+        "chinese": "非常"
+      }
+    ]
+  },
+  {
+    "chinese": "不要站在门附近",
+    "english": "Don't stand near the door",
+    "soundmark": "/doʊnt stænd nɪr ðə dɔːr/",
+    "grammar": [
+      {
+        "text": "Don't stand",
+        "role": "V",
+        "phonetic": "/doʊnt stænd/",
+        "chinese": "不"
+      },
+      {
+        "text": "near the door",
+        "role": "A",
+        "phonetic": "/nɪr ðə dɔːr/",
+        "chinese": "在…附近/这个/那个/门"
+      }
+    ]
+  },
+  {
+    "chinese": "别忘记关灯",
+    "english": "Don't forget to turn off the lights",
+    "soundmark": "/doʊnt fərˈɡet tuː tɜːrn ɔːf ðə laɪts/",
+    "grammar": [
+      {
+        "text": "Don't forget",
+        "role": "V",
+        "phonetic": "/doʊnt fərˈɡet/",
+        "chinese": "不/忘记"
+      },
+      {
+        "text": "to turn off",
+        "role": "V",
+        "phonetic": "/tuː tɜːrn ɔːf/",
+        "chinese": "到/向/转/变得/离开/关"
+      },
+      {
+        "text": "the lights",
+        "role": "O",
+        "phonetic": "/ðə laɪts/",
+        "chinese": "这个/那个/…们/复数(轻的/浅色的)"
+      }
+    ]
+  },
+  {
+    "chinese": "别忘了锁门",
+    "english": "Don't forget to lock the door",
+    "soundmark": "/doʊnt fərˈɡet tuː lɑːk ðə dɔːr/",
+    "grammar": [
+      {
+        "text": "Don't forget",
+        "role": "V",
+        "phonetic": "/doʊnt fərˈɡet/",
+        "chinese": "不/忘记"
+      },
+      {
+        "text": "to lock",
+        "role": "V",
+        "phonetic": "/tuː lɑːk/",
+        "chinese": "到/向/锁"
+      },
+      {
+        "text": "the door",
+        "role": "O",
+        "phonetic": "/ðə dɔːr/",
+        "chinese": "这个/那个/门"
+      }
+    ]
+  },
+  {
+    "chinese": "别太晚了",
+    "english": "Don't be too late",
+    "soundmark": "/doʊnt biː tuː leɪt/",
+    "grammar": [
+      {
+        "text": "Don't be",
+        "role": "V",
+        "phonetic": "/doʊnt biː/",
+        "chinese": "不/是"
+      },
+      {
+        "text": "too late",
+        "role": "C",
+        "phonetic": "/tuː leɪt/",
+        "chinese": "也/太/晚"
+      }
+    ]
+  },
+  {
+    "chinese": "注意你的说话方式",
+    "english": "Watch your language",
+    "soundmark": "/wɑːtʃ jɔːr ˈlæŋɡwɪdʒ/",
+    "grammar": [
+      {
+        "text": "Watch",
+        "role": "V",
+        "phonetic": "/wɑːtʃ/",
+        "chinese": "观看"
+      },
+      {
+        "text": "your language",
+        "role": "O",
+        "phonetic": "/jɔːr ˈlæŋɡwɪdʒ/",
+        "chinese": "你的/你们的/语言"
+      }
+    ]
+  },
+  {
+    "chinese": "走廊",
+    "english": "hallway",
+    "soundmark": "/ˈhɔːlweɪ/"
+  },
+  {
+    "chinese": "大声地",
+    "english": "loudly",
+    "soundmark": "/ˈlaʊdli/"
+  },
+  {
+    "chinese": "吸烟",
+    "english": "smoke",
+    "soundmark": "/smoʊk/"
+  },
+  {
+    "chinese": "湿的",
+    "english": "wet",
+    "soundmark": "/wet/"
+  },
+  {
+    "chinese": "滑的",
+    "english": "slippery",
+    "soundmark": "/ˈslɪpəri/"
+  },
+  {
+    "chinese": "垃圾",
+    "english": "rubbish",
+    "soundmark": "/ˈrʌbɪʃ/"
+  },
+  {
+    "chinese": "生气的",
+    "english": "angry",
+    "soundmark": "/ˈæŋɡri/"
+  },
+  {
+    "chinese": "误会",
+    "english": "misunderstanding",
+    "soundmark": "/ˌmɪsʌndərˈstændɪŋ/"
+  },
+  {
+    "chinese": "关掉",
+    "english": "turn off",
+    "soundmark": "/tɜːrn ɔːf/"
+  },
+  {
+    "chinese": "锁",
+    "english": "lock",
+    "soundmark": "/lɑːk/"
+  }
+]

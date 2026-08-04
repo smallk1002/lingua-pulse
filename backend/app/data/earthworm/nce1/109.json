@@ -1,0 +1,461 @@
+[
+  {
+    "chinese": "丈夫",
+    "english": "husband",
+    "soundmark": "/ˈhʌzbənd/"
+  },
+  {
+    "chinese": "妻子",
+    "english": "wife",
+    "soundmark": "/waɪf/"
+  },
+  {
+    "chinese": "幸福的",
+    "english": "happy",
+    "soundmark": "/ˈhæpi/"
+  },
+  {
+    "chinese": "夫妇",
+    "english": "couple",
+    "soundmark": "/ˈkʌpl/"
+  },
+  {
+    "chinese": "结婚的",
+    "english": "married",
+    "soundmark": "/ˈmærid/"
+  },
+  {
+    "chinese": "彼此",
+    "english": "each other",
+    "soundmark": "/iːtʃ ˈʌðər/"
+  },
+  {
+    "chinese": "在一起",
+    "english": "together",
+    "soundmark": "/təˈɡeðər/"
+  },
+  {
+    "chinese": "邻居",
+    "english": "neighbour",
+    "soundmark": "/ˈneɪbər/"
+  },
+  {
+    "chinese": "微笑",
+    "english": "smile",
+    "soundmark": "/smaɪl/"
+  },
+  {
+    "chinese": "吵架",
+    "english": "argue",
+    "soundmark": "/ˈɑːrɡjuː/"
+  },
+  {
+    "chinese": "可爱的",
+    "english": "lovely",
+    "soundmark": "/ˈlʌvli/"
+  },
+  {
+    "chinese": "年轻的",
+    "english": "young",
+    "soundmark": "/jʌŋ/"
+  },
+  {
+    "chinese": "友好的",
+    "english": "friendly",
+    "soundmark": "/ˈfrendli/"
+  },
+  {
+    "chinese": "般配",
+    "english": "a good match",
+    "soundmark": "/ə ɡʊd mætʃ/"
+  },
+  {
+    "chinese": "他们是一对幸福夫妻",
+    "english": "They are a happy couple",
+    "soundmark": "/ðeɪ ɑːr ə ˈhæpi ˈkʌpl/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "a happy couple",
+        "role": "C",
+        "phonetic": "/ə ˈhæpi ˈkʌpl/",
+        "chinese": "一个/开心的"
+      }
+    ]
+  },
+  {
+    "chinese": "他非常爱他的妻子",
+    "english": "He loves his wife very much",
+    "soundmark": "/hiː lʌvz hɪz waɪf ˈveri mʌtʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "loves",
+        "role": "V",
+        "phonetic": "/lʌvz/",
+        "chinese": "爱"
+      },
+      {
+        "text": "his wife",
+        "role": "O",
+        "phonetic": "/hɪz waɪf/",
+        "chinese": "他的/妻子"
+      },
+      {
+        "text": "very much",
+        "role": "Adv",
+        "phonetic": "/ˈveri mʌtʃ/",
+        "chinese": "非常"
+      }
+    ]
+  },
+  {
+    "chinese": "她总是对他微笑",
+    "english": "She always smiles at him",
+    "soundmark": "/ʃiː ˈɔːlweɪz smaɪlz æt hɪm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "smiles at",
+        "role": "V",
+        "phonetic": "/smaɪlz æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "他们结婚很多年了",
+    "english": "They have been married for many years",
+    "soundmark": "/ðeɪ hæv biːn ˈmærid fɔːr ˈmeni jɪəz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have been",
+        "role": "V",
+        "phonetic": "/hæv biːn/",
+        "chinese": "已经是/一直"
+      },
+      {
+        "text": "married",
+        "role": "C",
+        "phonetic": "/ˈmærid/",
+        "chinese": "已婚的"
+      },
+      {
+        "text": "for many years",
+        "role": "A",
+        "phonetic": "/fɔːr ˈmeni jɪəz/",
+        "chinese": "为了/对于/许多/…们/复数(年)"
+      }
+    ]
+  },
+  {
+    "chinese": "他们从不吵架",
+    "english": "They never argue with each other",
+    "soundmark": "/ðeɪ ˈnevər ˈɑːrɡjuː wɪð iːtʃ ˈʌðər/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "argue with",
+        "role": "V",
+        "phonetic": "/ˈɑːrɡjuː wɪð/",
+        "chinese": "与…争论"
+      },
+      {
+        "text": "each other",
+        "role": "O",
+        "phonetic": "/iːtʃ ˈʌðər/",
+        "chinese": "彼此"
+      }
+    ]
+  },
+  {
+    "chinese": "邻居们都很喜欢他们",
+    "english": "The neighbours all like them",
+    "soundmark": "/ðə ˈneɪbərz ɔːl laɪk ðem/",
+    "grammar": [
+      {
+        "text": "The neighbours",
+        "role": "S",
+        "phonetic": "/ðə ˈneɪbərz/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "all",
+        "role": "Adv",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðem/",
+        "chinese": "他们"
+      }
+    ]
+  },
+  {
+    "chinese": "他们经常一起散步",
+    "english": "They often go for a walk together",
+    "soundmark": "/ðeɪ ˈɒfn ɡəʊ fɒr ə wɔːk təˈɡeðər/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɒfn/",
+        "chinese": "经常"
+      },
+      {
+        "text": "go for",
+        "role": "V",
+        "phonetic": "/ɡəʊ fɒr/",
+        "chinese": "去/为了/对于"
+      },
+      {
+        "text": "a walk",
+        "role": "O",
+        "phonetic": "/ə wɔːk/",
+        "chinese": "一个/走"
+      },
+      {
+        "text": "together",
+        "role": "Adv",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      }
+    ]
+  },
+  {
+    "chinese": "他是个好丈夫",
+    "english": "He is a good husband",
+    "soundmark": "/hiː ɪz ə ɡʊd ˈhʌzbənd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a good husband",
+        "role": "C",
+        "phonetic": "/ə ɡʊd ˈhʌzbənd/",
+        "chinese": "一个/好的/丈夫"
+      }
+    ]
+  },
+  {
+    "chinese": "她做了非常美味的晚餐",
+    "english": "She cooked a very delicious dinner",
+    "soundmark": "/ʃiː kʊkt ə ˈveri dɪˈlɪʃəs ˈdɪnər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "cooked",
+        "role": "V",
+        "phonetic": "/kʊkt/",
+        "chinese": "烹饪"
+      },
+      {
+        "text": "a very delicious dinner",
+        "role": "O",
+        "phonetic": "/ə ˈveri dɪˈlɪʃəs ˈdɪnər/",
+        "chinese": "一个/非常/美味的"
+      }
+    ]
+  },
+  {
+    "chinese": "每个人都说他们很般配",
+    "english": "Everyone says they are a good match",
+    "soundmark": "/ˈevriwʌn sez ðeɪ ɑːr ə ɡʊd mætʃ/",
+    "grammar": [
+      {
+        "text": "Everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "says",
+        "role": "V",
+        "phonetic": "/sez/",
+        "chinese": "说"
+      },
+      {
+        "text": "they are a good match",
+        "role": "O",
+        "phonetic": "/ðeɪ ɑːr ə ɡʊd mætʃ/",
+        "chinese": "他们/是/一个/好的/火柴/比赛"
+      }
+    ]
+  },
+  {
+    "chinese": "他们每天晚上一起看电视",
+    "english": "They watch TV together every evening",
+    "soundmark": "/ðeɪ wɒtʃ ˌtiːˈviː təˈɡeðər ˈevri ˈiːvnɪŋ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "watch",
+        "role": "V",
+        "phonetic": "/wɒtʃ/",
+        "chinese": "观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      },
+      {
+        "text": "together",
+        "role": "Adv",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      },
+      {
+        "text": "every evening",
+        "role": "A",
+        "phonetic": "/ˈevri ˈiːvnɪŋ/",
+        "chinese": "每天晚上"
+      }
+    ]
+  },
+  {
+    "chinese": "他们住在伦敦",
+    "english": "They live in London",
+    "soundmark": "/ðeɪ lɪv ɪn ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in London",
+        "role": "A",
+        "phonetic": "/ɪn ˈlʌndən/",
+        "chinese": "在…里/伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "美味的",
+    "english": "delicious",
+    "soundmark": "/dɪˈlɪʃəs/"
+  },
+  {
+    "chinese": "经常",
+    "english": "often",
+    "soundmark": "/ˈɒfn/"
+  },
+  {
+    "chinese": "散步",
+    "english": "a walk",
+    "soundmark": "/ə wɔːk/"
+  },
+  {
+    "chinese": "从未",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  },
+  {
+    "chinese": "每个人",
+    "english": "everyone",
+    "soundmark": "/ˈevriwʌn/"
+  },
+  {
+    "chinese": "住",
+    "english": "live",
+    "soundmark": "/lɪv/"
+  },
+  {
+    "chinese": "晚上",
+    "english": "evening",
+    "soundmark": "/ˈiːvnɪŋ/"
+  }
+]

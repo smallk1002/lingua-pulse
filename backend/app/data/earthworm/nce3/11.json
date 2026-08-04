@@ -1,0 +1,668 @@
+[
+  {
+    "chinese": "海关",
+    "english": "customs",
+    "soundmark": "/ˈkʌstəmz/"
+  },
+  {
+    "chinese": "官员",
+    "english": "officer",
+    "soundmark": "/ˈɑːfɪsər/"
+  },
+  {
+    "chinese": "行李",
+    "english": "luggage",
+    "soundmark": "/ˈlʌɡɪdʒ/"
+  },
+  {
+    "chinese": "申报",
+    "english": "declare",
+    "soundmark": "/dɪˈkler/"
+  },
+  {
+    "chinese": "香水",
+    "english": "perfume",
+    "soundmark": "/pərˈfjuːm/"
+  },
+  {
+    "chinese": "免税",
+    "english": "duty-free",
+    "soundmark": "/ˈduːti/ /friː/"
+  },
+  {
+    "chinese": "走私",
+    "english": "smuggle",
+    "soundmark": "/ˈsmʌɡəl/"
+  },
+  {
+    "chinese": "有罪的",
+    "english": "guilty",
+    "soundmark": "/ˈɡɪlti/"
+  },
+  {
+    "chinese": "无罪的",
+    "english": "not guilty",
+    "soundmark": "/nɑːt/ /ˈɡɪlti/"
+  },
+  {
+    "chinese": "海关官员",
+    "english": "customs officer",
+    "soundmark": "/ˈkʌstəmz/ /ˈɑːfɪsər/"
+  },
+  {
+    "chinese": "申报物品",
+    "english": "declare goods",
+    "soundmark": "/dɪˈkler/ /ɡʊdz/"
+  },
+  {
+    "chinese": "走私香水",
+    "english": "smuggle perfume",
+    "soundmark": "/ˈsmʌɡəl/ /pərˈfjuːm/"
+  },
+  {
+    "chinese": "免税商品",
+    "english": "duty-free goods",
+    "soundmark": "/ˈduːti/ /friː/ /ɡʊdz/"
+  },
+  {
+    "chinese": "海关官员检查了我的行李",
+    "english": "The customs officer examined my luggage",
+    "soundmark": "/ðə/ /ˈkʌstəmz/ /ˈɑːfɪsər/ /ɪɡˈzæmɪnd/ /maɪ/ /ˈlʌɡɪdʒ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "customs",
+        "role": "A",
+        "phonetic": "/ˈkʌstəmz/",
+        "chinese": "海关"
+      },
+      {
+        "text": "officer",
+        "role": "S",
+        "phonetic": "/ˈɑːfɪsər/",
+        "chinese": "官员"
+      },
+      {
+        "text": "examined",
+        "role": "V",
+        "phonetic": "/ɪɡˈzæmɪnd/",
+        "chinese": "检查"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "luggage",
+        "role": "O",
+        "phonetic": "/ˈlʌɡɪdʒ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他有东西要申报吗",
+    "english": "Did he have anything to declare",
+    "soundmark": "/dɪd/ /hiː/ /hæv/ /ˈeniθɪŋ/ /tuː/ /dɪˈkler/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "declare",
+        "role": "V",
+        "phonetic": "/dɪˈkler/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他们问我是否带了任何违禁品",
+    "english": "They asked me if I had brought any prohibited items",
+    "soundmark": "/ðeɪ/ /æskt/ /miː/ /ɪf/ /aɪ/ /hæd/ /brɔːt/ /ˈeni/ /prəˈhɪbɪtɪd/ /ˈaɪtəmz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "brought",
+        "role": "V",
+        "phonetic": "/brɔːt/",
+        "chinese": ""
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "prohibited",
+        "role": "A",
+        "phonetic": "/prəˈhɪbɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "items",
+        "role": "O",
+        "phonetic": "/ˈaɪtəmz/",
+        "chinese": "物品/项目"
+      }
+    ]
+  },
+  {
+    "chinese": "他说他没有走私任何东西",
+    "english": "He said that he had not smuggled anything",
+    "soundmark": "/hiː/ /sed/ /ðæt/ /hiː/ /hæd/ /nɑːt/ /ˈsmʌɡəld/ /ˈeniθɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "smuggled",
+        "role": "V",
+        "phonetic": "/ˈsmʌɡəld/",
+        "chinese": ""
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      }
+    ]
+  },
+  {
+    "chinese": "他告诉我他没带任何申报品",
+    "english": "He told me that he had nothing to declare",
+    "soundmark": "/hiː/ /toʊld/ /miː/ /ðæt/ /hiː/ /hæd/ /ˈnʌθɪŋ/ /tuː/ /dɪˈkler/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "nothing",
+        "role": "O",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "declare",
+        "role": "V",
+        "phonetic": "/dɪˈkler/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你不申报这些东西吗",
+    "english": "Are you not going to declare these things",
+    "soundmark": "/ɑːr/ /juː/ /nɑːt/ /ˈɡoʊɪŋ/ /tuː/ /dɪˈkler/ /ðiːz/ /θɪŋz/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "going",
+        "role": "Aux",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "declare",
+        "role": "V",
+        "phonetic": "/dɪˈkler/",
+        "chinese": ""
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "things",
+        "role": "O",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      }
+    ]
+  },
+  {
+    "chinese": "海关官员发现他藏了香水",
+    "english": "The customs officer found that he had hidden perfume",
+    "soundmark": "/ðə/ /ˈkʌstəmz/ /ˈɑːfɪsər/ /faʊnd/ /ðæt/ /hiː/ /hæd/ /ˈhɪdən/ /pərˈfjuːm/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "customs",
+        "role": "A",
+        "phonetic": "/ˈkʌstəmz/",
+        "chinese": "海关"
+      },
+      {
+        "text": "officer",
+        "role": "S",
+        "phonetic": "/ˈɑːfɪsər/",
+        "chinese": "官员"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "hidden",
+        "role": "V",
+        "phonetic": "/ˈhɪdən/",
+        "chinese": "隐藏的"
+      },
+      {
+        "text": "perfume",
+        "role": "O",
+        "phonetic": "/pərˈfjuːm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "虽然他说自己是无辜的他最后还是被罚款了",
+    "english": "Although he claimed to be innocent he was fined in the end",
+    "soundmark": "/ɔːlˈðoʊ/ /hiː/ /kleɪmd/ /tuː/ /biː/ /ˈɪnəsənt/ /hiː/ /wʌz/ /faɪnd/ /ɪn/ /ði/ /end/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "claimed",
+        "role": "V",
+        "phonetic": "/kleɪmd/",
+        "chinese": "声称"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "innocent",
+        "role": "C",
+        "phonetic": "/ˈɪnəsənt/",
+        "chinese": "天真的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "fined",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "好的/晴朗的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "end",
+        "role": "A",
+        "phonetic": "/end/",
+        "chinese": "结束"
+      }
+    ]
+  },
+  {
+    "chinese": "走私",
+    "english": "smuggle",
+    "soundmark": "/ˈsmʌɡəl/"
+  },
+  {
+    "chinese": "禁止的",
+    "english": "prohibited",
+    "soundmark": "/prəˈhɪbɪtɪd/"
+  },
+  {
+    "chinese": "隐藏",
+    "english": "hide",
+    "soundmark": "/haɪd/"
+  },
+  {
+    "chinese": "罚款",
+    "english": "fine",
+    "soundmark": "/faɪn/"
+  },
+  {
+    "chinese": "无辜的",
+    "english": "innocent",
+    "soundmark": "/ˈɪnəsənt/"
+  },
+  {
+    "chinese": "声称",
+    "english": "claim",
+    "soundmark": "/kleɪm/"
+  },
+  {
+    "chinese": "检查",
+    "english": "examine",
+    "soundmark": "/ɪɡˈzæmɪn/"
+  },
+  {
+    "chinese": "申报",
+    "english": "declare",
+    "soundmark": "/dɪˈkler/"
+  },
+  {
+    "chinese": "这位旅客对海关官员说他的行李里只有个人物品",
+    "english": "The traveller told the customs officer that he only had personal items in his luggage",
+    "soundmark": "/ðə/ /ˈtrævələr/ /toʊld/ /ðə/ /ˈkʌstəmz/ /ˈɑːfɪsər/ /ðæt/ /hiː/ /ˈoʊnli/ /hæd/ /ˈpɜːrsənəl/ /ˈaɪtəmz/ /ɪn/ /hɪz/ /ˈlʌɡɪdʒ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "traveller",
+        "role": "S",
+        "phonetic": "/ˈtrævələr/",
+        "chinese": "更…的/…者(旅行)"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "customs",
+        "role": "A",
+        "phonetic": "/ˈkʌstəmz/",
+        "chinese": "海关"
+      },
+      {
+        "text": "officer",
+        "role": "O",
+        "phonetic": "/ˈɑːfɪsər/",
+        "chinese": "官员"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "personal",
+        "role": "A",
+        "phonetic": "/ˈpɜːrsənəl/",
+        "chinese": "个人的"
+      },
+      {
+        "text": "items",
+        "role": "O",
+        "phonetic": "/ˈaɪtəmz/",
+        "chinese": "物品/项目"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "luggage",
+        "role": "A",
+        "phonetic": "/ˈlʌɡɪdʒ/",
+        "chinese": ""
+      }
+    ]
+  }
+]

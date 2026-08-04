@@ -1,0 +1,859 @@
+[
+  {
+    "chinese": "过去进行时",
+    "english": "past continuous",
+    "soundmark": "/pæst kənˈtɪnjuəs/"
+  },
+  {
+    "chinese": "正在",
+    "english": "was doing",
+    "soundmark": "/wʌz ˈduːɪŋ/"
+  },
+  {
+    "chinese": "正在",
+    "english": "were doing",
+    "soundmark": "/wɜːr ˈduːɪŋ/"
+  },
+  {
+    "chinese": "在…的时候",
+    "english": "while",
+    "soundmark": "/waɪl/"
+  },
+  {
+    "chinese": "当…时",
+    "english": "when",
+    "soundmark": "/wen/"
+  },
+  {
+    "chinese": "突然",
+    "english": "suddenly",
+    "soundmark": "/ˈsʌdnli/"
+  },
+  {
+    "chinese": "那时",
+    "english": "at that moment",
+    "soundmark": "/æt ðæt ˈmoʊmənt/"
+  },
+  {
+    "chinese": "同时",
+    "english": "at the same time",
+    "soundmark": "/æt ðə seɪm taɪm/"
+  },
+  {
+    "chinese": "刚才",
+    "english": "just then",
+    "soundmark": "/dʒʌst ðen/"
+  },
+  {
+    "chinese": "正在睡觉",
+    "english": "was sleeping",
+    "soundmark": "/wʌz ˈsliːpɪŋ/"
+  },
+  {
+    "chinese": "正在吃饭",
+    "english": "was eating",
+    "soundmark": "/wʌz ˈiːtɪŋ/"
+  },
+  {
+    "chinese": "正在工作",
+    "english": "was working",
+    "soundmark": "/wʌz ˈwɜːrkɪŋ/"
+  },
+  {
+    "chinese": "正在看电视",
+    "english": "was watching TV",
+    "soundmark": "/wʌz ˈwɑːtʃɪŋ ˌtiːˈviː/"
+  },
+  {
+    "chinese": "正在读书",
+    "english": "was reading",
+    "soundmark": "/wʌz ˈriːdɪŋ/"
+  },
+  {
+    "chinese": "正在做饭",
+    "english": "was cooking",
+    "soundmark": "/wʌz ˈkʊkɪŋ/"
+  },
+  {
+    "chinese": "正在开车",
+    "english": "was driving",
+    "soundmark": "/wʌz ˈdraɪvɪŋ/"
+  },
+  {
+    "chinese": "正在下雨",
+    "english": "was raining",
+    "soundmark": "/wʌz ˈreɪnɪŋ/"
+  },
+  {
+    "chinese": "正在打电话",
+    "english": "was phoning",
+    "soundmark": "/wʌz ˈfoʊnɪŋ/"
+  },
+  {
+    "chinese": "正在等",
+    "english": "was waiting",
+    "soundmark": "/wʌz ˈweɪtɪŋ/"
+  },
+  {
+    "chinese": "正在走路",
+    "english": "was walking",
+    "soundmark": "/wʌz ˈwɔːkɪŋ/"
+  },
+  {
+    "chinese": "昨晚八点我正在看电视",
+    "english": "I was watching TV at eight last night",
+    "soundmark": "/aɪ wʌz ˈwɑːtʃɪŋ ˌtiːˈviː æt eɪt læst naɪt/"
+  },
+  {
+    "chinese": "你打电话时我在洗澡",
+    "english": "I was taking a shower when you called",
+    "soundmark": "/aɪ wʌz ˈteɪkɪŋ ə ˈʃaʊər wen juː kɔːld/"
+  },
+  {
+    "chinese": "我回到家时她正在做饭",
+    "english": "she was cooking when I came home",
+    "soundmark": "/ʃiː wʌz ˈkʊkɪŋ wen aɪ keɪm hoʊm/"
+  },
+  {
+    "chinese": "昨天下午他们正在打篮球",
+    "english": "they were playing basketball yesterday afternoon",
+    "soundmark": "/ðeɪ wɜːr ˈpleɪɪŋ ˈbæskɪtbɔːl ˈjestərdeɪ ˌæftərˈnuːn/"
+  },
+  {
+    "chinese": "昨天六点我在写作业",
+    "english": "I was doing my homework at six yesterday",
+    "soundmark": "/aɪ wʌz ˈduːɪŋ maɪ ˈhoʊmwɜːrk æt sɪks ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was doing",
+        "role": "V",
+        "phonetic": "/wʌz ˈduːɪŋ/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "my homework",
+        "role": "O",
+        "phonetic": "/maɪ ˈhoʊmwɜːrk/",
+        "chinese": "我的/家庭作业"
+      },
+      {
+        "text": "at six yesterday",
+        "role": "A",
+        "phonetic": "/æt sɪks ˈjestərdeɪ/",
+        "chinese": "在/六/昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "你打电话来的时候我正在吃晚饭",
+    "english": "I was having dinner when you called",
+    "soundmark": "/aɪ wʌz ˈhævɪŋ ˈdɪnər wen juː kɔːld/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was having",
+        "role": "V",
+        "phonetic": "/wʌz ˈhævɪŋ/",
+        "chinese": "是（过去式）/正在…(有/助动词)"
+      },
+      {
+        "text": "dinner",
+        "role": "O",
+        "phonetic": "/ˈdɪnər/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "when you called",
+        "role": "A",
+        "phonetic": "/wen juː kɔːld/",
+        "chinese": "什么时候/你/你们/被叫的/称为"
+      }
+    ]
+  },
+  {
+    "chinese": "我到家时妈妈正在看电视",
+    "english": "My mother was watching TV when I got home",
+    "soundmark": "/maɪ ˈmʌðər wʌz ˈwɑːtʃɪŋ ˌtiːˈviː wen aɪ ɡɑːt hoʊm/",
+    "grammar": [
+      {
+        "text": "My mother",
+        "role": "S",
+        "phonetic": "/maɪ ˈmʌðər/",
+        "chinese": "我的/母亲"
+      },
+      {
+        "text": "was watching",
+        "role": "V",
+        "phonetic": "/wʌz ˈwɑːtʃɪŋ/",
+        "chinese": "是（过去式）/观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      },
+      {
+        "text": "when I got home",
+        "role": "A",
+        "phonetic": "/wen aɪ ɡɑːt hoʊm/",
+        "chinese": "什么时候/我/得到（过去式）/家"
+      }
+    ]
+  },
+  {
+    "chinese": "他们正在公园里散步呢",
+    "english": "They were walking in the park",
+    "soundmark": "/ðeɪ wɜːr ˈwɔːkɪŋ ɪn ðə pɑːrk/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were walking",
+        "role": "V",
+        "phonetic": "/wɜːr ˈwɔːkɪŋ/",
+        "chinese": "是（过去式）/走"
+      },
+      {
+        "text": "in the park",
+        "role": "A",
+        "phonetic": "/ɪn ðə pɑːrk/",
+        "chinese": "在公园里"
+      }
+    ]
+  },
+  {
+    "chinese": "昨天这会正在下大雨",
+    "english": "It was raining heavily at this time yesterday",
+    "soundmark": "/ɪt wʌz ˈreɪnɪŋ ˈhevɪli æt ðɪs taɪm ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was raining",
+        "role": "V",
+        "phonetic": "/wʌz ˈreɪnɪŋ/",
+        "chinese": "是（过去式）/雨"
+      },
+      {
+        "text": "heavily",
+        "role": "A",
+        "phonetic": "/ˈhevɪli/",
+        "chinese": "…地(重的)"
+      },
+      {
+        "text": "at this time yesterday",
+        "role": "A",
+        "phonetic": "/æt ðɪs taɪm ˈjestərdeɪ/",
+        "chinese": "在/这个/时间/昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "你在听音乐所以我没敲门",
+    "english": "You were listening to music so I did not knock",
+    "soundmark": "/juː wɜːr ˈlɪsənɪŋ tuː ˈmjuːzɪk soʊ aɪ dɪd nɑːt nɑːk/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "were listening",
+        "role": "V",
+        "phonetic": "/wɜːr ˈlɪsənɪŋ/",
+        "chinese": "是（过去式）/听"
+      },
+      {
+        "text": "to music",
+        "role": "O",
+        "phonetic": "/tuː ˈmjuːzɪk/",
+        "chinese": "到/向/音乐"
+      },
+      {
+        "text": "so I did not knock",
+        "role": "A",
+        "phonetic": "/soʊ aɪ dɪd nɑːt nɑːk/",
+        "chinese": "如此/所以/我/做/助动词（过去式）/不/敲"
+      }
+    ]
+  },
+  {
+    "chinese": "我在等公交车的时候遇到了老朋友",
+    "english": "I was waiting for the bus when I met an old friend",
+    "soundmark": "/aɪ wʌz ˈweɪtɪŋ fɔːr ðə bʌs wen aɪ met ən oʊld frend/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was waiting",
+        "role": "V",
+        "phonetic": "/wʌz ˈweɪtɪŋ/",
+        "chinese": "是（过去式）/等"
+      },
+      {
+        "text": "for the bus",
+        "role": "A",
+        "phonetic": "/fɔːr ðə bʌs/",
+        "chinese": "为了/对于/这个/那个/公交车"
+      },
+      {
+        "text": "when I met an old friend",
+        "role": "A",
+        "phonetic": "/wen aɪ met ən oʊld frend/",
+        "chinese": "什么时候/我/遇见（过去式）/一个/老的/旧的/朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "发生事故的时候我正在过马路",
+    "english": "I was crossing the road when the accident happened",
+    "soundmark": "/aɪ wʌz ˈkrɔːsɪŋ ðə roʊd wen ði ˈæksɪdənt ˈhæpənd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was crossing",
+        "role": "V",
+        "phonetic": "/wʌz ˈkrɔːsɪŋ/",
+        "chinese": "是（过去式）/穿过"
+      },
+      {
+        "text": "the road",
+        "role": "O",
+        "phonetic": "/ðə roʊd/",
+        "chinese": "这个/那个/路"
+      },
+      {
+        "text": "when the accident happened",
+        "role": "A",
+        "phonetic": "/wen ði ˈæksɪdənt ˈhæpənd/",
+        "chinese": "什么时候/这个/那个/发生"
+      }
+    ]
+  },
+  {
+    "chinese": "昨晚你睡觉时你哥哥在看足球吗",
+    "english": "Was your brother watching football while you were sleeping last night",
+    "soundmark": "/wʌz jɔːr ˈbrʌðər ˈwɑːtʃɪŋ ˈfʊtbɔːl waɪl juː wɜːr ˈsliːpɪŋ læst naɪt/",
+    "grammar": [
+      {
+        "text": "Was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "your brother",
+        "role": "S",
+        "phonetic": "/jɔːr ˈbrʌðər/",
+        "chinese": "你的/你们的/兄弟"
+      },
+      {
+        "text": "watching",
+        "role": "V",
+        "phonetic": "/ˈwɑːtʃɪŋ/",
+        "chinese": "看的"
+      },
+      {
+        "text": "football",
+        "role": "O",
+        "phonetic": "/ˈfʊtbɔːl/",
+        "chinese": "足球"
+      },
+      {
+        "text": "while you were sleeping last night",
+        "role": "A",
+        "phonetic": "/waɪl juː wɜːr ˈsliːpɪŋ læst naɪt/",
+        "chinese": "当…时/而/你/你们/是（过去式）/睡觉/最后/夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我没有在看电视我在看书",
+    "english": "I was not watching TV I was reading a book",
+    "soundmark": "/aɪ wʌz nɑːt ˈwɑːtʃɪŋ ˌtiːˈviː aɪ wʌz ˈriːdɪŋ ə bʊk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was not watching",
+        "role": "V",
+        "phonetic": "/wʌz nɑːt ˈwɑːtʃɪŋ/",
+        "chinese": "是（过去式）/不/观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was reading",
+        "role": "V",
+        "phonetic": "/wʌz ˈriːdɪŋ/",
+        "chinese": "是（过去式）/读（过去式/过去分词）"
+      },
+      {
+        "text": "a book",
+        "role": "O",
+        "phonetic": "/ə bʊk/",
+        "chinese": "一本书"
+      }
+    ]
+  },
+  {
+    "chinese": "你昨天下午五点在做什么",
+    "english": "What were you doing at five yesterday afternoon",
+    "soundmark": "/wʌt wɜːr juː ˈduːɪŋ æt faɪv ˈjestərdeɪ ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "at five yesterday afternoon",
+        "role": "A",
+        "phonetic": "/æt faɪv ˈjestərdeɪ ˌæftərˈnuːn/",
+        "chinese": "在/五/昨天/下午"
+      }
+    ]
+  },
+  {
+    "chinese": "那时我正在办公室工作",
+    "english": "I was working in the office at that time",
+    "soundmark": "/aɪ wʌz ˈwɜːrkɪŋ ɪn ði ˈɑːfɪs æt ðæt taɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was working",
+        "role": "V",
+        "phonetic": "/wʌz ˈwɜːrkɪŋ/",
+        "chinese": "是（过去式）/工作"
+      },
+      {
+        "text": "in the office",
+        "role": "A",
+        "phonetic": "/ɪn ði ˈɑːfɪs/",
+        "chinese": "在…里/这个/那个/办公室"
+      },
+      {
+        "text": "at that time",
+        "role": "A",
+        "phonetic": "/æt ðæt taɪm/",
+        "chinese": "那时"
+      }
+    ]
+  },
+  {
+    "chinese": "我进来的时候你在睡觉吗",
+    "english": "Were you sleeping when I came in",
+    "soundmark": "/wɜːr juː ˈsliːpɪŋ wen aɪ keɪm ɪn/",
+    "grammar": [
+      {
+        "text": "Were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "sleeping",
+        "role": "V",
+        "phonetic": "/ˈsliːpɪŋ/",
+        "chinese": "睡觉的"
+      },
+      {
+        "text": "when I came in",
+        "role": "A",
+        "phonetic": "/wen aɪ keɪm ɪn/",
+        "chinese": "什么时候/我/来（过去式）/在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "大雨",
+    "english": "heavily",
+    "soundmark": "/ˈhevɪli/"
+  },
+  {
+    "chinese": "淋浴",
+    "english": "shower",
+    "soundmark": "/ˈʃaʊər/"
+  },
+  {
+    "chinese": "事故",
+    "english": "accident",
+    "soundmark": "/ˈæksɪdənt/"
+  },
+  {
+    "chinese": "过马路",
+    "english": "cross the road",
+    "soundmark": "/krɔːs ðə roʊd/"
+  },
+  {
+    "chinese": "敲门",
+    "english": "knock",
+    "soundmark": "/nɑːk/"
+  },
+  {
+    "chinese": "倾听",
+    "english": "listen to",
+    "soundmark": "/ˈlɪsn tuː/"
+  },
+  {
+    "chinese": "足球",
+    "english": "football",
+    "soundmark": "/ˈfʊtbɔːl/"
+  },
+  {
+    "chinese": "兄弟",
+    "english": "brother",
+    "soundmark": "/ˈbrʌðər/"
+  },
+  {
+    "chinese": "母亲",
+    "english": "mother",
+    "soundmark": "/ˈmʌðər/"
+  },
+  {
+    "chinese": "篮球",
+    "english": "basketball",
+    "soundmark": "/ˈbæskɪtbɔːl/"
+  },
+  {
+    "chinese": "他们昨天中午正在开会吗",
+    "english": "Were they having a meeting at noon yesterday",
+    "soundmark": "/wɜːr ðeɪ ˈhævɪŋ ə ˈmiːtɪŋ æt nuːn ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "having",
+        "role": "V",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a meeting",
+        "role": "O",
+        "phonetic": "/ə ˈmiːtɪŋ/",
+        "chinese": "一个/会议"
+      },
+      {
+        "text": "at noon yesterday",
+        "role": "A",
+        "phonetic": "/æt nuːn ˈjestərdeɪ/",
+        "chinese": "在/昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "我睡觉的时候你在做什么",
+    "english": "What were you doing while I was sleeping",
+    "soundmark": "/wʌt wɜːr juː ˈduːɪŋ waɪl aɪ wʌz ˈsliːpɪŋ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "while I was sleeping",
+        "role": "A",
+        "phonetic": "/waɪl aɪ wʌz ˈsliːpɪŋ/",
+        "chinese": "当…时/而/我/是（过去式）/睡觉"
+      }
+    ]
+  },
+  {
+    "chinese": "当时他正在街上给游客指路",
+    "english": "He was giving directions to tourists on the street",
+    "soundmark": "/hiː wʌz ˈɡɪvɪŋ dəˈrekʃnz tuː ˈtʊrɪsts ɑːn ðə striːt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was giving",
+        "role": "V",
+        "phonetic": "/wʌz ˈɡɪvɪŋ/",
+        "chinese": "是（过去式）/正在…(给)"
+      },
+      {
+        "text": "directions",
+        "role": "O",
+        "phonetic": "/dəˈrekʃnz/",
+        "chinese": ""
+      },
+      {
+        "text": "to tourists",
+        "role": "A",
+        "phonetic": "/tuː ˈtʊrɪsts/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "on the street",
+        "role": "A",
+        "phonetic": "/ɑːn ðə striːt/",
+        "chinese": "在…上/这个/那个/街道"
+      }
+    ]
+  },
+  {
+    "chinese": "我进来的时候你不是在读书吗",
+    "english": "Were you not reading when I came in",
+    "soundmark": "/wɜːr juː nɑːt ˈriːdɪŋ wen aɪ keɪm ɪn/",
+    "grammar": [
+      {
+        "text": "Were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "reading",
+        "role": "V",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      },
+      {
+        "text": "when I came in",
+        "role": "A",
+        "phonetic": "/wen aɪ keɪm ɪn/",
+        "chinese": "什么时候/我/来（过去式）/在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "停电的时候我正在写一篇重要的报告",
+    "english": "I was writing an important report when the power went out",
+    "soundmark": "/aɪ wʌz ˈraɪtɪŋ ən ɪmˈpɔːrtnt rɪˈpɔːrt wen ðə ˈpaʊər went aʊt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was writing",
+        "role": "V",
+        "phonetic": "/wʌz ˈraɪtɪŋ/",
+        "chinese": "是（过去式）/正在…(写)"
+      },
+      {
+        "text": "an important report",
+        "role": "O",
+        "phonetic": "/ən ɪmˈpɔːrtnt rɪˈpɔːrt/",
+        "chinese": "一个/重要的/报告"
+      },
+      {
+        "text": "when the power went out",
+        "role": "A",
+        "phonetic": "/wen ðə ˈpaʊər went aʊt/",
+        "chinese": "什么时候/这个/那个/力量/权力/去（过去式）/出去"
+      }
+    ]
+  },
+  {
+    "chinese": "我找到他的时候他正在咖啡馆外面等",
+    "english": "He was waiting outside the cafe when I found him",
+    "soundmark": "/hiː wʌz ˈweɪtɪŋ ˈaʊtsaɪd ðə kæˈfeɪ wen aɪ faʊnd hɪm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was waiting",
+        "role": "V",
+        "phonetic": "/wʌz ˈweɪtɪŋ/",
+        "chinese": "是（过去式）/等"
+      },
+      {
+        "text": "outside the cafe",
+        "role": "A",
+        "phonetic": "/ˈaʊtsaɪd ðə kæˈfeɪ/",
+        "chinese": "在…外面/这个/那个"
+      },
+      {
+        "text": "when I found him",
+        "role": "A",
+        "phonetic": "/wen aɪ faʊnd hɪm/",
+        "chinese": "什么时候/我/找到的/他"
+      }
+    ]
+  },
+  {
+    "chinese": "当时你没有在听我说的话对吗",
+    "english": "You were not listening to what I said were you",
+    "soundmark": "/juː wɜːr nɑːt ˈlɪsənɪŋ tuː wʌt aɪ sed wɜːr juː/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "were not listening",
+        "role": "V",
+        "phonetic": "/wɜːr nɑːt ˈlɪsənɪŋ/",
+        "chinese": "是（过去式）/不/听"
+      },
+      {
+        "text": "to what I said",
+        "role": "O",
+        "phonetic": "/tuː wʌt aɪ sed/",
+        "chinese": "到/向/什么/我/说（过去式）"
+      },
+      {
+        "text": "were you",
+        "role": "V",
+        "phonetic": "/wɜːr juː/",
+        "chinese": "是（过去式）/你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "游客",
+    "english": "tourist",
+    "soundmark": "/ˈtʊrɪst/"
+  },
+  {
+    "chinese": "指路",
+    "english": "direction",
+    "soundmark": "/dəˈrekʃn/"
+  },
+  {
+    "chinese": "报告",
+    "english": "report",
+    "soundmark": "/rɪˈpɔːrt/"
+  },
+  {
+    "chinese": "电力",
+    "english": "power",
+    "soundmark": "/ˈpaʊər/"
+  },
+  {
+    "chinese": "咖啡馆",
+    "english": "cafe",
+    "soundmark": "/kæˈfeɪ/"
+  }
+]

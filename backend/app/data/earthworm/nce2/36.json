@@ -1,0 +1,553 @@
+[
+  {
+    "chinese": "横渡",
+    "english": "across",
+    "soundmark": "/əˈkrɔːs/"
+  },
+  {
+    "chinese": "海峡",
+    "english": "channel",
+    "soundmark": "/ˈtʃænl/"
+  },
+  {
+    "chinese": "游过",
+    "english": "swim across",
+    "soundmark": "/swɪm əˈkrɔːs/"
+  },
+  {
+    "chinese": "训练",
+    "english": "train",
+    "soundmark": "/treɪn/"
+  },
+  {
+    "chinese": "打算",
+    "english": "intend",
+    "soundmark": "/ɪnˈtend/"
+  },
+  {
+    "chinese": "坚定的",
+    "english": "determined",
+    "soundmark": "/dɪˈtɜːrmɪnd/"
+  },
+  {
+    "chinese": "成功的",
+    "english": "succeed",
+    "soundmark": "/səkˈsiːd/"
+  },
+  {
+    "chinese": "记录",
+    "english": "record",
+    "soundmark": "/ˈrekərd/"
+  },
+  {
+    "chinese": "每两小时",
+    "english": "every two hours",
+    "soundmark": "/ˈevri tuː ˈaʊərz/"
+  },
+  {
+    "chinese": "等候",
+    "english": "wait",
+    "soundmark": "/weɪt/"
+  },
+  {
+    "chinese": "横渡海峡",
+    "english": "swim across the Channel",
+    "soundmark": "/swɪm əˈkrɔːs ðə ˈtʃænl/"
+  },
+  {
+    "chinese": "打算做某事",
+    "english": "intend to do something",
+    "soundmark": "/ɪnˈtend tuː duː ˈsʌmθɪŋ/"
+  },
+  {
+    "chinese": "训练有素",
+    "english": "well trained",
+    "soundmark": "/wel treɪnd/"
+  },
+  {
+    "chinese": "创下新的世界纪录",
+    "english": "set up a new world record",
+    "soundmark": "/set ʌp ə nuː wɜːrld ˈrekərd/"
+  },
+  {
+    "chinese": "我明天会给你打电话。",
+    "english": "I will call you tomorrow",
+    "soundmark": "/aɪ wɪl kɔːl juː təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will call",
+        "role": "V",
+        "phonetic": "/wɪl kɔːl/",
+        "chinese": "将要/打电话/叫"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "她打算横渡英吉利海峡。",
+    "english": "She is going to swim across the English Channel",
+    "soundmark": "/ʃiː ɪz ˈɡoʊɪŋ tuː swɪm əˈkrɔːs ðə ˈɪŋɡlɪʃ ˈtʃænl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is going to",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "swim",
+        "role": "V",
+        "phonetic": "/swɪm/",
+        "chinese": "游泳"
+      },
+      {
+        "text": "across the English Channel",
+        "role": "A",
+        "phonetic": "/əˈkrɔːs ðə ˈɪŋɡlɪʃ ˈtʃænl/",
+        "chinese": "穿过/对面/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "他们下周将去巴黎。",
+    "english": "They will go to Paris next week",
+    "soundmark": "/ðeɪ wɪl ɡoʊ tuː ˈpærɪs nekst wiːk/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "will go",
+        "role": "V",
+        "phonetic": "/wɪl ɡoʊ/",
+        "chinese": "将要/去"
+      },
+      {
+        "text": "to Paris",
+        "role": "A",
+        "phonetic": "/tuː ˈpærɪs/",
+        "chinese": "到/向/巴黎"
+      },
+      {
+        "text": "next week",
+        "role": "A",
+        "phonetic": "/nekst wiːk/",
+        "chinese": "下周"
+      }
+    ]
+  },
+  {
+    "chinese": "他不会来参加聚会。",
+    "english": "He will not come to the party",
+    "soundmark": "/hiː wɪl nɑːt kʌm tuː ðə ˈpɑːrti/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will not come",
+        "role": "V",
+        "phonetic": "/wɪl nɑːt kʌm/",
+        "chinese": "将要/不/来"
+      },
+      {
+        "text": "to the party",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈpɑːrti/",
+        "chinese": "到/向/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算什么时候出发？",
+    "english": "When are you going to leave",
+    "soundmark": "/wen ɑːr juː ˈɡoʊɪŋ tuː liːv/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to leave",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː liːv/",
+        "chinese": "到/向/离开"
+      }
+    ]
+  },
+  {
+    "chinese": "她训练得很刻苦所以我相信她会成功。",
+    "english": "She trains very hard so I am sure she will succeed",
+    "soundmark": "/ʃiː treɪnz ˈveri hɑːrd soʊ aɪ æm ʃʊr ʃiː wɪl səkˈsiːd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "trains",
+        "role": "V",
+        "phonetic": "/treɪnz/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "very hard",
+        "role": "A",
+        "phonetic": "/ˈveri hɑːrd/",
+        "chinese": "非常/硬的/难的"
+      },
+      {
+        "text": "so I am sure she will succeed",
+        "role": "A",
+        "phonetic": "/soʊ aɪ æm ʃʊr ʃiː wɪl səkˈsiːd/",
+        "chinese": "如此/所以/我/是/确定的/她/将要/成功"
+      }
+    ]
+  },
+  {
+    "chinese": "他明天早上六点出发。",
+    "english": "He is leaving at six tomorrow morning",
+    "soundmark": "/hiː ɪz ˈliːvɪŋ æt sɪks təˈmɑːroʊ ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is leaving",
+        "role": "V",
+        "phonetic": "/ɪz ˈliːvɪŋ/",
+        "chinese": "是/正在…(离开)"
+      },
+      {
+        "text": "at six tomorrow morning",
+        "role": "A",
+        "phonetic": "/æt sɪks təˈmɑːroʊ ˈmɔːrnɪŋ/",
+        "chinese": "在/六/明天/早上"
+      }
+    ]
+  },
+  {
+    "chinese": "她将是第一个游过海峡的中国女性。",
+    "english": "She will be the first Chinese woman to swim across the Channel",
+    "soundmark": "/ʃiː wɪl biː ðə fɜːrst ˌtʃaɪˈniːz ˈwʊmən tuː swɪm əˈkrɔːs ðə ˈtʃænl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "will be",
+        "role": "V",
+        "phonetic": "/wɪl biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "the first Chinese woman",
+        "role": "C",
+        "phonetic": "/ðə fɜːrst ˌtʃaɪˈniːz ˈwʊmən/",
+        "chinese": "这个/那个/首先/女人"
+      },
+      {
+        "text": "to swim across the Channel",
+        "role": "A",
+        "phonetic": "/tuː swɪm əˈkrɔːs ðə ˈtʃænl/",
+        "chinese": "到/向/游泳/穿过/对面/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "明天这个时候她应该已经游了一半了。",
+    "english": "By this time tomorrow she will have swum halfway",
+    "soundmark": "/baɪ ðɪs taɪm təˈmɑːroʊ ʃiː wɪl hæv swʌm ˌhæfˈweɪ/",
+    "grammar": [
+      {
+        "text": "By this time tomorrow",
+        "role": "A",
+        "phonetic": "/baɪ ðɪs taɪm təˈmɑːroʊ/",
+        "chinese": "通过/被/在…旁/这个/时间/明天"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "will have swum",
+        "role": "V",
+        "phonetic": "/wɪl hæv swʌm/",
+        "chinese": "将要/有/助动词/游泳（过去分词）"
+      },
+      {
+        "text": "halfway",
+        "role": "A",
+        "phonetic": "/ˌhæfˈweɪ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我不确定他会不会及时赶到。",
+    "english": "I am not sure whether he will arrive in time",
+    "soundmark": "/aɪ æm nɑːt ʃʊr ˈweðər hiː wɪl əˈraɪv ɪn taɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am not",
+        "role": "Lv",
+        "phonetic": "/æm nɑːt/",
+        "chinese": "是/不"
+      },
+      {
+        "text": "sure",
+        "role": "C",
+        "phonetic": "/ʃʊr/",
+        "chinese": "确定的"
+      },
+      {
+        "text": "whether he will arrive in time",
+        "role": "A",
+        "phonetic": "/ˈweðər hiː wɪl əˈraɪv ɪn taɪm/",
+        "chinese": "是否/他/将要/到达/在…里/时间"
+      }
+    ]
+  },
+  {
+    "chinese": "他们将乘坐下午的飞机抵达。",
+    "english": "They will arrive by the afternoon plane",
+    "soundmark": "/ðeɪ wɪl əˈraɪv baɪ ðə ˌæftərˈnuːn pleɪn/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "will arrive",
+        "role": "V",
+        "phonetic": "/wɪl əˈraɪv/",
+        "chinese": "将要/到达"
+      },
+      {
+        "text": "by the afternoon plane",
+        "role": "A",
+        "phonetic": "/baɪ ðə ˌæftərˈnuːn pleɪn/",
+        "chinese": "通过/被/在…旁/这个/那个/下午/飞机"
+      }
+    ]
+  },
+  {
+    "chinese": "她想创下一项新的世界纪录。",
+    "english": "She wants to set up a new world record",
+    "soundmark": "/ʃiː wɑːnts tuː set ʌp ə nuː wɜːrld ˈrekərd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "wants",
+        "role": "V",
+        "phonetic": "/wɑːnts/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to set up",
+        "role": "V",
+        "phonetic": "/tuː set ʌp/",
+        "chinese": "到/向/设置/安置/向上"
+      },
+      {
+        "text": "a new world record",
+        "role": "O",
+        "phonetic": "/ə nuː wɜːrld ˈrekərd/",
+        "chinese": "一个/新的/世界/记录"
+      }
+    ]
+  },
+  {
+    "chinese": "等她到法国的时候天应该已经亮了。",
+    "english": "When she reaches France the sun will have risen",
+    "soundmark": "/wen ʃiː ˈriːtʃɪz fræns ðə sʌn wɪl hæv ˈrɪzn/",
+    "grammar": [
+      {
+        "text": "When she reaches France",
+        "role": "A",
+        "phonetic": "/wen ʃiː ˈriːtʃɪz fræns/",
+        "chinese": "什么时候/她/到达/法国"
+      },
+      {
+        "text": "the sun",
+        "role": "S",
+        "phonetic": "/ðə sʌn/",
+        "chinese": "这个/那个/太阳"
+      },
+      {
+        "text": "will have risen",
+        "role": "V",
+        "phonetic": "/wɪl hæv ˈrɪzn/",
+        "chinese": "将要/有/助动词/上升（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "如果天气好我们就去海滩。",
+    "english": "If the weather is fine we will go to the beach",
+    "soundmark": "/ɪf ðə ˈweðər ɪz faɪn wiː wɪl ɡoʊ tuː ðə biːtʃ/",
+    "grammar": [
+      {
+        "text": "If the weather is fine",
+        "role": "A",
+        "phonetic": "/ɪf ðə ˈweðər ɪz faɪn/",
+        "chinese": "如果/这个/那个/天气/是/好的/晴朗的"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will go",
+        "role": "V",
+        "phonetic": "/wɪl ɡoʊ/",
+        "chinese": "将要/去"
+      },
+      {
+        "text": "to the beach",
+        "role": "A",
+        "phonetic": "/tuː ðə biːtʃ/",
+        "chinese": "到/向/这个/那个/海滩"
+      }
+    ]
+  },
+  {
+    "chinese": "她女儿将在岸边等她。",
+    "english": "Her daughter will be waiting for her on the shore",
+    "soundmark": "/hɜːr ˈdɔːtər wɪl biː ˈweɪtɪŋ fɔːr hɜːr ɑːn ðə ʃɔːr/",
+    "grammar": [
+      {
+        "text": "Her daughter",
+        "role": "S",
+        "phonetic": "/hɜːr ˈdɔːtər/",
+        "chinese": "她/她的/女儿"
+      },
+      {
+        "text": "will be waiting",
+        "role": "V",
+        "phonetic": "/wɪl biː ˈweɪtɪŋ/",
+        "chinese": "将要/是/等"
+      },
+      {
+        "text": "for her",
+        "role": "A",
+        "phonetic": "/fɔːr hɜːr/",
+        "chinese": "为了/对于/她/她的"
+      },
+      {
+        "text": "on the shore",
+        "role": "A",
+        "phonetic": "/ɑːn ðə ʃɔːr/",
+        "chinese": "在…上/这个/那个/岸"
+      }
+    ]
+  },
+  {
+    "chinese": "到达",
+    "english": "reach",
+    "soundmark": "/riːtʃ/"
+  },
+  {
+    "chinese": "确信",
+    "english": "sure",
+    "soundmark": "/ʃʊr/"
+  },
+  {
+    "chinese": "一半的",
+    "english": "halfway",
+    "soundmark": "/ˌhæfˈweɪ/"
+  },
+  {
+    "chinese": "是否",
+    "english": "whether",
+    "soundmark": "/ˈweðər/"
+  },
+  {
+    "chinese": "海滩",
+    "english": "beach",
+    "soundmark": "/biːtʃ/"
+  },
+  {
+    "chinese": "飞机",
+    "english": "plane",
+    "soundmark": "/pleɪn/"
+  },
+  {
+    "chinese": "法国",
+    "english": "France",
+    "soundmark": "/fræns/"
+  },
+  {
+    "chinese": "女儿",
+    "english": "daughter",
+    "soundmark": "/ˈdɔːtər/"
+  }
+]

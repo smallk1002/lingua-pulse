@@ -1,0 +1,747 @@
+[
+  {
+    "chinese": "婴儿",
+    "english": "baby",
+    "soundmark": "/ˈbeɪbi/"
+  },
+  {
+    "chinese": "成年人",
+    "english": "adult",
+    "soundmark": "/əˈdʌlt/"
+  },
+  {
+    "chinese": "长大",
+    "english": "grow up",
+    "soundmark": "/ɡroʊ ʌp/"
+  },
+  {
+    "chinese": "成熟的",
+    "english": "mature",
+    "soundmark": "/məˈtʃʊr/"
+  },
+  {
+    "chinese": "独立的",
+    "english": "independent",
+    "soundmark": "/ˌɪndɪˈpendənt/"
+  },
+  {
+    "chinese": "负责的",
+    "english": "responsible",
+    "soundmark": "/rɪˈspɑːnsəbl/"
+  },
+  {
+    "chinese": "照顾自己",
+    "english": "take care of oneself",
+    "soundmark": "/teɪk ker ʌv wʌnˈself/"
+  },
+  {
+    "chinese": "做决定",
+    "english": "make decisions",
+    "soundmark": "/meɪk dɪˈsɪʒnz/"
+  },
+  {
+    "chinese": "处理",
+    "english": "handle",
+    "soundmark": "/ˈhændl/"
+  },
+  {
+    "chinese": "成熟的",
+    "english": "grown up",
+    "soundmark": "/ɡroʊn ʌp/"
+  },
+  {
+    "chinese": "孩子气的",
+    "english": "childish",
+    "soundmark": "/ˈtʃaɪldɪʃ/"
+  },
+  {
+    "chinese": "幼稚的",
+    "english": "childlike",
+    "soundmark": "/ˈtʃaɪldlaɪk/"
+  },
+  {
+    "chinese": "发脾气",
+    "english": "throw a tantrum",
+    "soundmark": "/θroʊ ə ˈtæntrəm/"
+  },
+  {
+    "chinese": "哭泣",
+    "english": "cry",
+    "soundmark": "/kraɪ/"
+  },
+  {
+    "chinese": "抱怨",
+    "english": "complain",
+    "soundmark": "/kəmˈpleɪn/"
+  },
+  {
+    "chinese": "自己的",
+    "english": "by myself",
+    "soundmark": "/baɪ maɪˈself/"
+  },
+  {
+    "chinese": "行为",
+    "english": "behave",
+    "soundmark": "/bɪˈheɪv/"
+  },
+  {
+    "chinese": "负责任",
+    "english": "take responsibility",
+    "soundmark": "/teɪk rɪˌspɑːnsəˈbɪləti/"
+  },
+  {
+    "chinese": "自主",
+    "english": "on my own",
+    "soundmark": "/ɑːn maɪ oʊn/"
+  },
+  {
+    "chinese": "许诺",
+    "english": "promise",
+    "soundmark": "/ˈprɑːmɪs/"
+  },
+  {
+    "chinese": "我不是小孩子了",
+    "english": "I am not a baby",
+    "soundmark": "/aɪ æm nɑːt ə ˈbeɪbi/"
+  },
+  {
+    "chinese": "我可以自己做",
+    "english": "I can do it myself",
+    "soundmark": "/aɪ kæn duː ɪt maɪˈself/"
+  },
+  {
+    "chinese": "别再像小孩一样了",
+    "english": "don't act like a child",
+    "soundmark": "/doʊnt ækt laɪk ə tʃaɪld/"
+  },
+  {
+    "chinese": "我已经长大了",
+    "english": "I am grown up now",
+    "soundmark": "/aɪ æm ɡroʊn ʌp naʊ/"
+  },
+  {
+    "chinese": "别把我当小孩看",
+    "english": "don't treat me like a child",
+    "soundmark": "/doʊnt triːt miː laɪk ə tʃaɪld/"
+  },
+  {
+    "chinese": "我不是小孩子了!",
+    "english": "I am not a baby anymore",
+    "soundmark": "/aɪ æm nɑːt ə ˈbeɪbi ˌenɪˈmɔːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "a baby",
+        "role": "C",
+        "phonetic": "/ə ˈbeɪbi/",
+        "chinese": "一个/婴儿"
+      },
+      {
+        "text": "anymore",
+        "role": "A",
+        "phonetic": "/ˌenɪˈmɔːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我可以自己穿衣服了",
+    "english": "I can dress myself now",
+    "soundmark": "/aɪ kæn dres maɪˈself naʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can dress",
+        "role": "V",
+        "phonetic": "/kæn dres/",
+        "chinese": "能/穿衣"
+      },
+      {
+        "text": "myself",
+        "role": "O",
+        "phonetic": "/maɪˈself/",
+        "chinese": "我自己"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "别像小孩子一样",
+    "english": "Don't act like a child",
+    "soundmark": "/doʊnt ækt laɪk ə tʃaɪld/",
+    "grammar": [
+      {
+        "text": "Don't act",
+        "role": "V",
+        "phonetic": "/doʊnt ækt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like a child",
+        "role": "A",
+        "phonetic": "/laɪk ə tʃaɪld/",
+        "chinese": "喜欢/一个/孩子"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该更成熟了",
+    "english": "You should be more mature",
+    "soundmark": "/juː ʃʊd biː mɔːr məˈtʃʊr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should be",
+        "role": "V",
+        "phonetic": "/ʃʊd biː/",
+        "chinese": "应该是"
+      },
+      {
+        "text": "more mature",
+        "role": "C",
+        "phonetic": "/mɔːr məˈtʃʊr/",
+        "chinese": "更多/成熟的"
+      }
+    ]
+  },
+  {
+    "chinese": "我能自己做决定了",
+    "english": "I can make my own decisions now",
+    "soundmark": "/aɪ kæn meɪk maɪ oʊn dɪˈsɪʒnz naʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can make",
+        "role": "V",
+        "phonetic": "/kæn meɪk/",
+        "chinese": "能/做/让"
+      },
+      {
+        "text": "my own decisions",
+        "role": "O",
+        "phonetic": "/maɪ oʊn dɪˈsɪʒnz/",
+        "chinese": "我的/自己的"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "别再抱怨了",
+    "english": "Stop complaining all the time",
+    "soundmark": "/stɑːp kəmˈpleɪnɪŋ ɔːl ðə taɪm/",
+    "grammar": [
+      {
+        "text": "Stop",
+        "role": "V",
+        "phonetic": "/stɑːp/",
+        "chinese": "停止"
+      },
+      {
+        "text": "complaining",
+        "role": "V",
+        "phonetic": "/kəmˈpleɪnɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "all the time",
+        "role": "A",
+        "phonetic": "/ɔːl ðə taɪm/",
+        "chinese": "一直"
+      }
+    ]
+  },
+  {
+    "chinese": "你要学会照顾自己",
+    "english": "You need to learn to take care of yourself",
+    "soundmark": "/juː niːd tuː lɜːrn tuː teɪk ker ʌv jɔːrˈself/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need to learn",
+        "role": "V",
+        "phonetic": "/niːd tuː lɜːrn/",
+        "chinese": "需要/到/向/学习"
+      },
+      {
+        "text": "to take care of yourself",
+        "role": "O",
+        "phonetic": "/tuː teɪk ker ʌv jɔːrˈself/",
+        "chinese": "到/向/拿/带/关心/…的/你自己"
+      }
+    ]
+  },
+  {
+    "chinese": "我已经能够自己处理了",
+    "english": "I can handle this by myself already",
+    "soundmark": "/aɪ kæn ˈhændl ðɪs baɪ maɪˈself ɔːlˈredi/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can handle",
+        "role": "V",
+        "phonetic": "/kæn ˈhændl/",
+        "chinese": "能"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "by myself",
+        "role": "A",
+        "phonetic": "/baɪ maɪˈself/",
+        "chinese": "通过/被/在…旁/我自己"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      }
+    ]
+  },
+  {
+    "chinese": "别再像个小孩子一样发脾气",
+    "english": "Don't throw a tantrum like a little child",
+    "soundmark": "/doʊnt θroʊ ə ˈtæntrəm laɪk ə ˈlɪtl tʃaɪld/",
+    "grammar": [
+      {
+        "text": "Don't throw",
+        "role": "V",
+        "phonetic": "/doʊnt θroʊ/",
+        "chinese": "不/扔"
+      },
+      {
+        "text": "a tantrum",
+        "role": "O",
+        "phonetic": "/ə ˈtæntrəm/",
+        "chinese": "一个"
+      },
+      {
+        "text": "like a little child",
+        "role": "A",
+        "phonetic": "/laɪk ə ˈlɪtl tʃaɪld/",
+        "chinese": "喜欢/一个/小的/少的/孩子"
+      }
+    ]
+  },
+  {
+    "chinese": "我认为你足够成熟来做这个",
+    "english": "I think you are mature enough to do this",
+    "soundmark": "/aɪ θɪŋk juː ɑːr məˈtʃʊr ɪˈnʌf tuː duː ðɪs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "mature enough",
+        "role": "C",
+        "phonetic": "/məˈtʃʊr ɪˈnʌf/",
+        "chinese": "成熟的/足够"
+      },
+      {
+        "text": "to do this",
+        "role": "A",
+        "phonetic": "/tuː duː ðɪs/",
+        "chinese": "到/向/做/助动词/这个"
+      }
+    ]
+  },
+  {
+    "chinese": "他能自己穿衣服了",
+    "english": "He can dress himself now",
+    "soundmark": "/hiː kæn dres hɪmˈself naʊ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "can dress",
+        "role": "V",
+        "phonetic": "/kæn dres/",
+        "chinese": "能/穿衣"
+      },
+      {
+        "text": "himself",
+        "role": "O",
+        "phonetic": "/hɪmˈself/",
+        "chinese": "他自己"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "我不再需要你帮我做所有事了",
+    "english": "I don't need you to do everything for me anymore",
+    "soundmark": "/aɪ doʊnt niːd juː tuː duː ˈevriθɪŋ fɔːr miː ˌenɪˈmɔːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "don't need",
+        "role": "V",
+        "phonetic": "/doʊnt niːd/",
+        "chinese": "不需要"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "to do everything",
+        "role": "V",
+        "phonetic": "/tuː duː ˈevriθɪŋ/",
+        "chinese": "到/向/做/助动词/一切"
+      },
+      {
+        "text": "for me",
+        "role": "A",
+        "phonetic": "/fɔːr miː/",
+        "chinese": "为我"
+      },
+      {
+        "text": "anymore",
+        "role": "A",
+        "phonetic": "/ˌenɪˈmɔːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你什么时候才能长大",
+    "english": "When will you finally grow up",
+    "soundmark": "/wen wɪl juː ˈfaɪnəli ɡroʊ ʌp/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "finally",
+        "role": "A",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "grow up",
+        "role": "V",
+        "phonetic": "/ɡroʊ ʌp/",
+        "chinese": "长大"
+      }
+    ]
+  },
+  {
+    "chinese": "我已经足够大了可以自己做决定",
+    "english": "I am old enough to make my own decisions",
+    "soundmark": "/aɪ æm oʊld ɪˈnʌf tuː meɪk maɪ oʊn dɪˈsɪʒnz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "old enough",
+        "role": "C",
+        "phonetic": "/oʊld ɪˈnʌf/",
+        "chinese": "老的/旧的/足够"
+      },
+      {
+        "text": "to make my own decisions",
+        "role": "A",
+        "phonetic": "/tuː meɪk maɪ oʊn dɪˈsɪʒnz/",
+        "chinese": "到/向/做/让/我的/自己的"
+      }
+    ]
+  },
+  {
+    "chinese": "你要对自己的行为负责",
+    "english": "You need to be responsible for your actions",
+    "soundmark": "/juː niːd tuː biː rɪˈspɑːnsəbl fɔːr jɔːr ˈækʃnz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need to be",
+        "role": "V",
+        "phonetic": "/niːd tuː biː/",
+        "chinese": "需要被"
+      },
+      {
+        "text": "responsible",
+        "role": "C",
+        "phonetic": "/rɪˈspɑːnsəbl/",
+        "chinese": "负责的"
+      },
+      {
+        "text": "for your actions",
+        "role": "A",
+        "phonetic": "/fɔːr jɔːr ˈækʃnz/",
+        "chinese": "为了/对于/你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "我相信你能自己处理好",
+    "english": "I believe you can handle this on your own",
+    "soundmark": "/aɪ bɪˈliːv juː kæn ˈhændl ðɪs ɑːn jɔːr oʊn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "believe",
+        "role": "V",
+        "phonetic": "/bɪˈliːv/",
+        "chinese": "相信"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "can handle",
+        "role": "V",
+        "phonetic": "/kæn ˈhændl/",
+        "chinese": "能"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "on your own",
+        "role": "A",
+        "phonetic": "/ɑːn jɔːr oʊn/",
+        "chinese": "在…上/你的/你们的/自己的"
+      }
+    ]
+  },
+  {
+    "chinese": "别再像小孩子一样了",
+    "english": "Stop acting like such a child",
+    "soundmark": "/stɑːp ˈæktɪŋ laɪk sʌtʃ ə tʃaɪld/",
+    "grammar": [
+      {
+        "text": "Stop",
+        "role": "V",
+        "phonetic": "/stɑːp/",
+        "chinese": "停止"
+      },
+      {
+        "text": "acting",
+        "role": "V",
+        "phonetic": "/ˈæktɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "like such a child",
+        "role": "A",
+        "phonetic": "/laɪk sʌtʃ ə tʃaɪld/",
+        "chinese": "喜欢/这样的/一个/孩子"
+      }
+    ]
+  },
+  {
+    "chinese": "我已经不再需要你的允许了",
+    "english": "I don't need your permission anymore",
+    "soundmark": "/aɪ doʊnt niːd jɔːr pərˈmɪʃn ˌenɪˈmɔːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "don't need",
+        "role": "V",
+        "phonetic": "/doʊnt niːd/",
+        "chinese": "不需要"
+      },
+      {
+        "text": "your permission",
+        "role": "O",
+        "phonetic": "/jɔːr pərˈmɪʃn/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "anymore",
+        "role": "A",
+        "phonetic": "/ˌenɪˈmɔːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "不再",
+    "english": "anymore",
+    "soundmark": "/ˌenɪˈmɔːr/"
+  },
+  {
+    "chinese": "行为",
+    "english": "behavior",
+    "soundmark": "/bɪˈheɪvjər/"
+  },
+  {
+    "chinese": "行动",
+    "english": "actions",
+    "soundmark": "/ˈækʃnz/"
+  },
+  {
+    "chinese": "允许",
+    "english": "permission",
+    "soundmark": "/pərˈmɪʃn/"
+  },
+  {
+    "chinese": "相信",
+    "english": "believe",
+    "soundmark": "/bɪˈliːv/"
+  },
+  {
+    "chinese": "最终",
+    "english": "finally",
+    "soundmark": "/ˈfaɪnəli/"
+  },
+  {
+    "chinese": "责任",
+    "english": "responsibility",
+    "soundmark": "/rɪˌspɑːnsəˈbɪləti/"
+  },
+  {
+    "chinese": "决定",
+    "english": "decision",
+    "soundmark": "/dɪˈsɪʒn/"
+  },
+  {
+    "chinese": "年幼的",
+    "english": "young",
+    "soundmark": "/jʌŋ/"
+  },
+  {
+    "chinese": "年长的",
+    "english": "old",
+    "soundmark": "/oʊld/"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "english": "car",
+    "chinese": "汽车",
+    "soundmark": "/kɑːr/"
+  },
+  {
+    "english": "drive",
+    "chinese": "驾驶",
+    "soundmark": "/draɪv/"
+  },
+  {
+    "chinese": "车里的人",
+    "english": "The man in a car",
+    "soundmark": "/ðə mæn ɪn ə kɑːr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "他在开车",
+    "english": "He is driving a car",
+    "soundmark": "/hiː ɪz ˈdraɪvɪŋ ə kɑːr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "那是一辆红色的车",
+    "english": "That is a red car",
+    "soundmark": "/ðæt ɪz ə red kɑːr/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "red",
+        "role": "Det",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      },
+      {
+        "text": "car",
+        "role": "C",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "车开得很快",
+    "english": "The car is going very fast",
+    "soundmark": "/ðə kɑːr ɪz ˈɡoʊɪŋ ˈveri fæst/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "fast",
+        "role": "A",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      }
+    ]
+  },
+  {
+    "chinese": "小心驾驶！",
+    "english": "Drive carefully!",
+    "soundmark": "/draɪv ˈkerfəli/",
+    "grammar": [
+      {
+        "text": "Drive",
+        "role": "V",
+        "phonetic": "/draɪv/",
+        "chinese": "驾驶"
+      },
+      {
+        "text": "carefully",
+        "role": "A",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      }
+    ]
+  },
+  {
+    "english": "fast",
+    "chinese": "快的",
+    "soundmark": "/fæst/"
+  },
+  {
+    "english": "slow",
+    "chinese": "慢的",
+    "soundmark": "/sloʊ/"
+  },
+  {
+    "english": "safe",
+    "chinese": "安全的",
+    "soundmark": "/seɪf/"
+  }
+]

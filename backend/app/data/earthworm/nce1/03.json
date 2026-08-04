@@ -1,0 +1,1048 @@
+[
+  {
+    "chinese": "先生",
+    "english": "sir",
+    "soundmark": "/sɜːr/"
+  },
+  {
+    "chinese": "女士",
+    "english": "madam",
+    "soundmark": "/ˈmædəm/"
+  },
+  {
+    "chinese": "对不起",
+    "english": "sorry",
+    "soundmark": "/ˈsɔːri/"
+  },
+  {
+    "chinese": "请",
+    "english": "please",
+    "soundmark": "/pliːz/"
+  },
+  {
+    "chinese": "谢谢",
+    "english": "thank you",
+    "soundmark": "/θæŋk/ /juː/"
+  },
+  {
+    "chinese": "原谅",
+    "english": "pardon",
+    "soundmark": "/ˈpɑːrdən/"
+  },
+  {
+    "chinese": "衣帽间",
+    "english": "cloakroom",
+    "soundmark": "/ˈkloʊkruːm/"
+  },
+  {
+    "chinese": "号码牌",
+    "english": "ticket",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "chinese": "雨伞",
+    "english": "umbrella",
+    "soundmark": "/ʌmˈbrelə/"
+  },
+  {
+    "chinese": "外套",
+    "english": "coat",
+    "soundmark": "/koʊt/"
+  },
+  {
+    "chinese": "帽子",
+    "english": "hat",
+    "soundmark": "/hæt/"
+  },
+  {
+    "chinese": "包",
+    "english": "bag",
+    "soundmark": "/bæɡ/"
+  },
+  {
+    "chinese": "箱子",
+    "english": "suitcase",
+    "soundmark": "/ˈsuːtkeɪs/"
+  },
+  {
+    "chinese": "等一下",
+    "english": "just a moment",
+    "soundmark": "/dʒʌst/ /ə/ /ˈmoʊmənt/"
+  },
+  {
+    "chinese": "对不起先生",
+    "english": "Sorry sir",
+    "soundmark": "/ˈsɔːri/ /sɜːr/",
+    "grammar": [
+      {
+        "text": "Sorry",
+        "role": "Int",
+        "phonetic": "/ˈsɔːri/",
+        "chinese": "抱歉的"
+      },
+      {
+        "text": "sir",
+        "role": "C",
+        "phonetic": "/sɜːr/",
+        "chinese": "先生"
+      }
+    ]
+  },
+  {
+    "chinese": "请再说一遍",
+    "english": "Pardon please",
+    "soundmark": "/ˈpɑːrdən/ /pliːz/",
+    "grammar": [
+      {
+        "text": "Pardon",
+        "role": "Int",
+        "phonetic": "/ˈpɑːrdən/",
+        "chinese": "请再说一遍"
+      },
+      {
+        "text": "please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我的号码牌",
+    "english": "Here is my ticket",
+    "soundmark": "/hɪr/ /ɪz/ /maɪ/ /ˈtɪkɪt/",
+    "grammar": [
+      {
+        "text": "Here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "ticket",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪt/",
+        "chinese": "票"
+      }
+    ]
+  },
+  {
+    "chinese": "我的外套在这",
+    "english": "My coat is here",
+    "soundmark": "/maɪ/ /koʊt/ /ɪz/ /hɪr/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "coat",
+        "role": "S",
+        "phonetic": "/koʊt/",
+        "chinese": "外套"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "那是我的伞",
+    "english": "That is my umbrella",
+    "soundmark": "/ðæt/ /ɪz/ /maɪ/ /ʌmˈbrelə/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "umbrella",
+        "role": "C",
+        "phonetic": "/ʌmˈbrelə/",
+        "chinese": "雨伞"
+      }
+    ]
+  },
+  {
+    "chinese": "给你",
+    "english": "Here you are",
+    "soundmark": "/hɪr/ /juː/ /ɑːr/",
+    "grammar": [
+      {
+        "text": "Here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      }
+    ]
+  },
+  {
+    "chinese": "谢谢你先生",
+    "english": "Thank you sir",
+    "soundmark": "/θæŋk/ /juː/ /sɜːr/",
+    "grammar": [
+      {
+        "text": "Thank",
+        "role": "V",
+        "phonetic": "/θæŋk/",
+        "chinese": "感谢"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "sir",
+        "role": "C",
+        "phonetic": "/sɜːr/",
+        "chinese": "先生"
+      }
+    ]
+  },
+  {
+    "chinese": "这是你的外套吗",
+    "english": "Is this your coat",
+    "soundmark": "/ɪz/ /ðɪs/ /jɔːr/ /koʊt/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "coat",
+        "role": "C",
+        "phonetic": "/koʊt/",
+        "chinese": "外套"
+      }
+    ]
+  },
+  {
+    "chinese": "不是我的外套是灰色的",
+    "english": "No my coat is gray",
+    "soundmark": "/noʊ/ /maɪ/ /koʊt/ /ɪz/ /ɡreɪ/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "coat",
+        "role": "S",
+        "phonetic": "/koʊt/",
+        "chinese": "外套"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "gray",
+        "role": "C",
+        "phonetic": "/ɡreɪ/",
+        "chinese": "灰色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这是谁的包",
+    "english": "Whose bag is this",
+    "soundmark": "/huːz/ /bæɡ/ /ɪz/ /ðɪs/",
+    "grammar": [
+      {
+        "text": "Whose",
+        "role": "Det",
+        "phonetic": "/huːz/",
+        "chinese": "谁的"
+      },
+      {
+        "text": "bag",
+        "role": "S",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "C",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "这不是我的包",
+    "english": "This is not my bag",
+    "soundmark": "/ðɪs/ /ɪz/ /nɑːt/ /maɪ/ /bæɡ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bag",
+        "role": "C",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "对不起我把你的伞弄丢了",
+    "english": "Sorry I lost your umbrella",
+    "soundmark": "/ˈsɔːri/ /aɪ/ /lɔːst/ /jɔːr/ /ʌmˈbrelə/",
+    "grammar": [
+      {
+        "text": "Sorry",
+        "role": "Int",
+        "phonetic": "/ˈsɔːri/",
+        "chinese": "抱歉的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "umbrella",
+        "role": "O",
+        "phonetic": "/ʌmˈbrelə/",
+        "chinese": "雨伞"
+      }
+    ]
+  },
+  {
+    "chinese": "没关系",
+    "english": "It is all right",
+    "soundmark": "/ɪt/ /ɪz/ /ɔːl/ /raɪt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "all",
+        "role": "C",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "right",
+        "role": "C",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      }
+    ]
+  },
+  {
+    "chinese": "请拿好我的钥匙",
+    "english": "Please take my keys",
+    "soundmark": "/pliːz/ /teɪk/ /maɪ/ /kiːz/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "keys",
+        "role": "O",
+        "phonetic": "/kiːz/",
+        "chinese": "钥匙"
+      }
+    ]
+  },
+  {
+    "chinese": "五号牌是你的",
+    "english": "Number five is yours",
+    "soundmark": "/ˈnʌmbər/ /faɪv/ /ɪz/ /jɔːrz/",
+    "grammar": [
+      {
+        "text": "Number",
+        "role": "S",
+        "phonetic": "/ˈnʌmbər/",
+        "chinese": "数字"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "yours",
+        "role": "C",
+        "phonetic": "/jɔːrz/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "这不是我的号码",
+    "english": "This is not my number",
+    "soundmark": "/ðɪs/ /ɪz/ /nɑːt/ /maɪ/ /ˈnʌmbər/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "number",
+        "role": "C",
+        "phonetic": "/ˈnʌmbər/",
+        "chinese": "数字"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我的箱子吗",
+    "english": "Is this my suitcase",
+    "soundmark": "/ɪz/ /ðɪs/ /maɪ/ /ˈsuːtkeɪs/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "suitcase",
+        "role": "C",
+        "phonetic": "/ˈsuːtkeɪs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "是的这是你的箱子",
+    "english": "Yes this is your suitcase",
+    "soundmark": "/jes/ /ðɪs/ /ɪz/ /jɔːr/ /ˈsuːtkeɪs/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "suitcase",
+        "role": "C",
+        "phonetic": "/ˈsuːtkeɪs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "对不起那是我的帽子吗",
+    "english": "Sorry is that my hat",
+    "soundmark": "/ˈsɔːri/ /ɪz/ /ðæt/ /maɪ/ /hæt/",
+    "grammar": [
+      {
+        "text": "Sorry",
+        "role": "Int",
+        "phonetic": "/ˈsɔːri/",
+        "chinese": "抱歉的"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "hat",
+        "role": "C",
+        "phonetic": "/hæt/",
+        "chinese": "帽子"
+      }
+    ]
+  },
+  {
+    "chinese": "是的它是你的帽子",
+    "english": "Yes it is your hat",
+    "soundmark": "/jes/ /ɪt/ /ɪz/ /jɔːr/ /hæt/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "hat",
+        "role": "C",
+        "phonetic": "/hæt/",
+        "chinese": "帽子"
+      }
+    ]
+  },
+  {
+    "chinese": "请等一下我去拿你的包",
+    "english": "Just a moment please I will get your bag",
+    "soundmark": "/dʒʌst/ /ə/ /ˈmoʊmənt/ /pliːz/ /aɪ/ /wɪl/ /ɡet/ /jɔːr/ /bæɡ/",
+    "grammar": [
+      {
+        "text": "Just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "a",
+        "role": "Det",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "moment",
+        "role": "S",
+        "phonetic": "/ˈmoʊmənt/",
+        "chinese": "时刻"
+      },
+      {
+        "text": "please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "bag",
+        "role": "O",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "非常感谢你真好",
+    "english": "Thank you very much that is very kind",
+    "soundmark": "/θæŋk/ /juː/ /ˈveri/ /mʌtʃ/ /ðæt/ /ɪz/ /ˈveri/ /kaɪnd/",
+    "grammar": [
+      {
+        "text": "Thank",
+        "role": "V",
+        "phonetic": "/θæŋk/",
+        "chinese": "感谢"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "kind",
+        "role": "C",
+        "phonetic": "/kaɪnd/",
+        "chinese": "善良的"
+      }
+    ]
+  },
+  {
+    "chinese": "对不起我找不到我的号码牌了",
+    "english": "Sorry I cannot find my ticket",
+    "soundmark": "/ˈsɔːri/ /aɪ/ /ˈkænɑːt/ /faɪnd/ /maɪ/ /ˈtɪkɪt/",
+    "grammar": [
+      {
+        "text": "Sorry",
+        "role": "Int",
+        "phonetic": "/ˈsɔːri/",
+        "chinese": "抱歉的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot",
+        "role": "Neg",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "ticket",
+        "role": "O",
+        "phonetic": "/ˈtɪkɪt/",
+        "chinese": "票"
+      }
+    ]
+  },
+  {
+    "chinese": "看看衣帽间里有没有",
+    "english": "Look in the cloakroom",
+    "soundmark": "/lʊk/ /ɪn/ /ðə/ /ˈkloʊkruːm/",
+    "grammar": [
+      {
+        "text": "Look",
+        "role": "V",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cloakroom",
+        "role": "O",
+        "phonetic": "/ˈkloʊkruːm/",
+        "chinese": "衣帽间"
+      }
+    ]
+  },
+  {
+    "chinese": "对不起我真的很抱歉",
+    "english": "I am sorry I am really sorry",
+    "soundmark": "/aɪ/ /æm/ /ˈsɔːri/ /aɪ/ /æm/ /ˈriːəli/ /ˈsɔːri/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "sorry",
+        "role": "C",
+        "phonetic": "/ˈsɔːri/",
+        "chinese": "抱歉的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "really",
+        "role": "Adv",
+        "phonetic": "/ˈriːəli/",
+        "chinese": "真正地"
+      },
+      {
+        "text": "sorry",
+        "role": "C",
+        "phonetic": "/ˈsɔːri/",
+        "chinese": "抱歉的"
+      }
+    ]
+  },
+  {
+    "chinese": "没关系这不是你的错",
+    "english": "That is all right it is not your fault",
+    "soundmark": "/ðæt/ /ɪz/ /ɔːl/ /raɪt/ /ɪt/ /ɪz/ /nɑːt/ /jɔːr/ /fɔːlt/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "all",
+        "role": "C",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "right",
+        "role": "C",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "fault",
+        "role": "C",
+        "phonetic": "/fɔːlt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "衣帽间",
+    "english": "cloakroom",
+    "soundmark": "/ˈkloʊkruːm/"
+  },
+  {
+    "chinese": "号码",
+    "english": "number",
+    "soundmark": "/ˈnʌmbər/"
+  },
+  {
+    "chinese": "五",
+    "english": "five",
+    "soundmark": "/faɪv/"
+  },
+  {
+    "chinese": "灰色的",
+    "english": "gray",
+    "soundmark": "/ɡreɪ/"
+  },
+  {
+    "chinese": "丢失",
+    "english": "lost",
+    "soundmark": "/lɔːst/"
+  },
+  {
+    "chinese": "找到",
+    "english": "find",
+    "soundmark": "/faɪnd/"
+  },
+  {
+    "chinese": "看",
+    "english": "look",
+    "soundmark": "/lʊk/"
+  },
+  {
+    "chinese": "不能",
+    "english": "cannot",
+    "soundmark": "/ˈkænɑːt/"
+  },
+  {
+    "chinese": "真的",
+    "english": "really",
+    "soundmark": "/ˈriːəli/"
+  },
+  {
+    "chinese": "过错",
+    "english": "fault",
+    "soundmark": "/fɔːlt/"
+  }
+]

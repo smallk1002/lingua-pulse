@@ -1,0 +1,228 @@
+[
+  {
+    "english": "Saturday",
+    "chinese": "星期六",
+    "soundmark": "/ˈsætərdeɪ/"
+  },
+  {
+    "english": "weekend",
+    "chinese": "周末",
+    "soundmark": "/ˈwiːkend/"
+  },
+  {
+    "english": "yesterday",
+    "chinese": "昨天",
+    "soundmark": "/ˈjestərdeɪ/"
+  },
+  {
+    "english": "ago",
+    "chinese": "以前",
+    "soundmark": "/əˈɡoʊ/"
+  },
+  {
+    "chinese": "你上周六做了什么？",
+    "english": "What did you do last Saturday?",
+    "soundmark": "/wʌt dɪd juː duː læst ˈsætərdeɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "Saturday",
+        "role": "T",
+        "phonetic": "/ˈsætərdeɪ/",
+        "chinese": "星期六"
+      }
+    ]
+  },
+  {
+    "chinese": "我去公园了",
+    "english": "I went to the park",
+    "soundmark": "/aɪ went tə ðə pɑːrk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "park",
+        "role": "O",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      }
+    ]
+  },
+  {
+    "chinese": "我和朋友看了电影",
+    "english": "I watched a movie with friends",
+    "soundmark": "/aɪ wɑːtʃt ə ˈmuːvi wɪð frendz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "watched",
+        "role": "V",
+        "phonetic": "/wɑːtʃt/",
+        "chinese": "观看"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "movie",
+        "role": "O",
+        "phonetic": "/ˈmuːvi/",
+        "chinese": "电影"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "friends",
+        "role": "O",
+        "phonetic": "/frendz/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "那一定很有趣",
+    "english": "That must have been fun",
+    "soundmark": "/ðæt mʌst həv biːn fʌn/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/həv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "fun",
+        "role": "C",
+        "phonetic": "/fʌn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我在家休息",
+    "english": "I rested at home",
+    "soundmark": "/aɪ ˈrestɪd ət hoʊm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "rested",
+        "role": "V",
+        "phonetic": "/ˈrestɪd/",
+        "chinese": "休息"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/ət/",
+        "chinese": "在"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "english": "activity",
+    "chinese": "活动",
+    "soundmark": "/ækˈtɪvəti/"
+  },
+  {
+    "english": "enjoy",
+    "chinese": "享受",
+    "soundmark": "/ɪnˈdʒɔɪ/"
+  },
+  {
+    "english": "relax",
+    "chinese": "放松",
+    "soundmark": "/rɪˈlæks/"
+  }
+]

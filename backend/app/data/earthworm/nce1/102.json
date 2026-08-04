@@ -1,0 +1,239 @@
+[
+  {
+    "english": "least",
+    "chinese": "最少",
+    "soundmark": "/liːst/"
+  },
+  {
+    "english": "enough",
+    "chinese": "足够的",
+    "soundmark": "/ɪˈnʌf/"
+  },
+  {
+    "english": "better",
+    "chinese": "更好的",
+    "soundmark": "/ˈbetər/"
+  },
+  {
+    "english": "something",
+    "chinese": "某事",
+    "soundmark": "/ˈsʌmθɪŋ/"
+  },
+  {
+    "english": "positive",
+    "chinese": "积极的",
+    "soundmark": "/ˈpɑːzətɪv/"
+  },
+  {
+    "chinese": "至少我们尝试过了",
+    "english": "At least we tried",
+    "soundmark": "/ət liːst wiː traɪd/",
+    "grammar": [
+      {
+        "text": "At",
+        "role": "P",
+        "phonetic": "/ət/",
+        "chinese": "在"
+      },
+      {
+        "text": "least",
+        "role": "O",
+        "phonetic": "/liːst/",
+        "chinese": "最少"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "tried",
+        "role": "V",
+        "phonetic": "/traɪd/",
+        "chinese": "尝试（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "这至少比没有好",
+    "english": "This is at least better than nothing",
+    "soundmark": "/ðɪs ɪz ət liːst ˈbetər ðən ˈnʌθɪŋ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/ət/",
+        "chinese": "在"
+      },
+      {
+        "text": "least",
+        "role": "Adv",
+        "phonetic": "/liːst/",
+        "chinese": "最少"
+      },
+      {
+        "text": "better",
+        "role": "C",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      },
+      {
+        "text": "than",
+        "role": "Conj",
+        "phonetic": "/ðən/",
+        "chinese": "比"
+      },
+      {
+        "text": "nothing",
+        "role": "O",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      }
+    ]
+  },
+  {
+    "chinese": "你至少应该道歉",
+    "english": "You should at least apologize",
+    "soundmark": "/juː ʃʊd ət liːst əˈpɑːlədʒaɪz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/ət/",
+        "chinese": "在"
+      },
+      {
+        "text": "least",
+        "role": "Adv",
+        "phonetic": "/liːst/",
+        "chinese": "最少"
+      },
+      {
+        "text": "apologize",
+        "role": "V",
+        "phonetic": "/əˈpɑːlədʒaɪz/",
+        "chinese": "道歉"
+      }
+    ]
+  },
+  {
+    "chinese": "至少我们学到了东西",
+    "english": "We learned something at least",
+    "soundmark": "/wiː lɜːrnd ˈsʌmθɪŋ ət liːst/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "learned",
+        "role": "V",
+        "phonetic": "/lɜːrnd/",
+        "chinese": "学习"
+      },
+      {
+        "text": "something",
+        "role": "O",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/ət/",
+        "chinese": "在"
+      },
+      {
+        "text": "least",
+        "role": "Adv",
+        "phonetic": "/liːst/",
+        "chinese": "最少"
+      }
+    ]
+  },
+  {
+    "chinese": "至少今天不下雨",
+    "english": "It's not raining at least",
+    "soundmark": "/ɪts nɒt ˈreɪnɪŋ ət liːst/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "not",
+        "role": "Adv",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/ət/",
+        "chinese": "在"
+      },
+      {
+        "text": "least",
+        "role": "Adv",
+        "phonetic": "/liːst/",
+        "chinese": "最少"
+      }
+    ]
+  },
+  {
+    "english": "effort",
+    "chinese": "努力",
+    "soundmark": "/ˈefərt/"
+  },
+  {
+    "english": "progress",
+    "chinese": "进步",
+    "soundmark": "/ˈprɑːɡres/"
+  },
+  {
+    "english": "improvement",
+    "chinese": "改善",
+    "soundmark": "/ɪmˈpruːvmənt/"
+  }
+]

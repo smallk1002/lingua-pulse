@@ -1,0 +1,1103 @@
+[
+  {
+    "chinese": "有(过去)",
+    "english": "there was",
+    "soundmark": "/ðer wʌz/"
+  },
+  {
+    "chinese": "有(过去复数)",
+    "english": "there were",
+    "soundmark": "/ðer wɜːr/"
+  },
+  {
+    "chinese": "事故",
+    "english": "accident",
+    "soundmark": "/ˈæksɪdənt/"
+  },
+  {
+    "chinese": "风暴",
+    "english": "storm",
+    "soundmark": "/stɔːrm/"
+  },
+  {
+    "chinese": "火灾",
+    "english": "fire",
+    "soundmark": "/faɪər/"
+  },
+  {
+    "chinese": "昨天有暴风雨",
+    "english": "There was a storm yesterday",
+    "soundmark": "/ðer wʌz ə stɔːrm ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a storm",
+        "role": "C",
+        "phonetic": "/ə stɔːrm/",
+        "chinese": "一个"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "桌上有一本书",
+    "english": "There was a book on the table",
+    "soundmark": "/ðer wʌz ə bʊk ɑːn ðə ˈteɪbl/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a book",
+        "role": "C",
+        "phonetic": "/ə bʊk/",
+        "chinese": "一本书"
+      },
+      {
+        "text": "on the table",
+        "role": "A",
+        "phonetic": "/ɑːn ðə ˈteɪbl/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "公园里有很多人",
+    "english": "There were many people in the park",
+    "soundmark": "/ðer wɜːr ˈmeni ˈpiːpl ɪn ðə pɑːrk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "many people",
+        "role": "C",
+        "phonetic": "/ˈmeni ˈpiːpl/",
+        "chinese": "许多/人们"
+      },
+      {
+        "text": "in the park",
+        "role": "A",
+        "phonetic": "/ɪn ðə pɑːrk/",
+        "chinese": "在公园里"
+      }
+    ]
+  },
+  {
+    "chinese": "昨天有会议吗",
+    "english": "Was there a meeting yesterday",
+    "soundmark": "/wʌz ðer ə ˈmiːtɪŋ ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a meeting",
+        "role": "C",
+        "phonetic": "/ə ˈmiːtɪŋ/",
+        "chinese": "一个/会议"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "房间里没有椅子",
+    "english": "There were no chairs in the room",
+    "soundmark": "/ðer wɜːr noʊ tʃerz ɪn ðə ruːm/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "no chairs",
+        "role": "C",
+        "phonetic": "/noʊ tʃerz/",
+        "chinese": "没有"
+      },
+      {
+        "text": "in the room",
+        "role": "A",
+        "phonetic": "/ɪn ðə ruːm/",
+        "chinese": "在房间里"
+      }
+    ]
+  },
+  {
+    "chinese": "街上发生了一起事故",
+    "english": "There was an accident on the street",
+    "soundmark": "/ðer wʌz ən ˈæksɪdənt ɑːn ðə striːt/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "an accident",
+        "role": "C",
+        "phonetic": "/ən ˈæksɪdənt/",
+        "chinese": "一个"
+      },
+      {
+        "text": "on the street",
+        "role": "A",
+        "phonetic": "/ɑːn ðə striːt/",
+        "chinese": "在…上/这个/那个/街道"
+      }
+    ]
+  },
+  {
+    "chinese": "冰箱里没有牛奶了",
+    "english": "There was not any milk in the fridge",
+    "soundmark": "/ðer wʌz nɑːt ˈeni mɪlk ɪn ðə frɪdʒ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not any milk",
+        "role": "C",
+        "phonetic": "/nɑːt ˈeni mɪlk/",
+        "chinese": "不/任何/牛奶"
+      },
+      {
+        "text": "in the fridge",
+        "role": "A",
+        "phonetic": "/ɪn ðə frɪdʒ/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "派对上有几个孩子",
+    "english": "There were a few children at the party",
+    "soundmark": "/ðer wɜːr ə fjuː ˈtʃɪldrən æt ðə ˈpɑːrti/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a few children",
+        "role": "C",
+        "phonetic": "/ə fjuː ˈtʃɪldrən/",
+        "chinese": "一个/很少/孩子们"
+      },
+      {
+        "text": "at the party",
+        "role": "A",
+        "phonetic": "/æt ðə ˈpɑːrti/",
+        "chinese": "在/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你小的时候附近有公园吗",
+    "english": "Was there a park near your house when you were young",
+    "soundmark": "/wʌz ðer ə pɑːrk nɪr jɔːr haʊs wen juː wɜːr jʌŋ/",
+    "grammar": [
+      {
+        "text": "Was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a park",
+        "role": "C",
+        "phonetic": "/ə pɑːrk/",
+        "chinese": "一个公园"
+      },
+      {
+        "text": "near your house",
+        "role": "A",
+        "phonetic": "/nɪr jɔːr haʊs/",
+        "chinese": "在…附近/你的/你们的/房子"
+      },
+      {
+        "text": "when you were young",
+        "role": "A",
+        "phonetic": "/wen juː wɜːr jʌŋ/",
+        "chinese": "什么时候/你/你们/是（过去式）/年轻的"
+      }
+    ]
+  },
+  {
+    "chinese": "昨晚这里发生了一场火灾",
+    "english": "There was a fire here last night",
+    "soundmark": "/ðer wʌz ə faɪər hɪr læst naɪt/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a fire",
+        "role": "C",
+        "phonetic": "/ə faɪər/",
+        "chinese": "一个/火"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "last night",
+        "role": "A",
+        "phonetic": "/læst naɪt/",
+        "chinese": "昨晚"
+      }
+    ]
+  },
+  {
+    "chinese": "什么时候有会",
+    "english": "When was the meeting",
+    "soundmark": "/wen wʌz ðə ˈmiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the meeting",
+        "role": "S",
+        "phonetic": "/ðə ˈmiːtɪŋ/",
+        "chinese": "这个/那个/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "书架上有很多书",
+    "english": "There were a lot of books on the shelf",
+    "soundmark": "/ðer wɜːr ə lɑːt ʌv bʊks ɑːn ðə ʃelf/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a lot of books",
+        "role": "C",
+        "phonetic": "/ə lɑːt ʌv bʊks/",
+        "chinese": "一个/许多/…的/…们/复数(预订/书)"
+      },
+      {
+        "text": "on the shelf",
+        "role": "A",
+        "phonetic": "/ɑːn ðə ʃelf/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "学校附近曾经有一座桥",
+    "english": "There was a bridge near the school",
+    "soundmark": "/ðer wʌz ə brɪdʒ nɪr ðə skuːl/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a bridge",
+        "role": "C",
+        "phonetic": "/ə brɪdʒ/",
+        "chinese": "一个/桥"
+      },
+      {
+        "text": "near the school",
+        "role": "A",
+        "phonetic": "/nɪr ðə skuːl/",
+        "chinese": "在…附近/这个/那个/学校"
+      }
+    ]
+  },
+  {
+    "chinese": "会议室里有没有人",
+    "english": "Was there anyone in the meeting room",
+    "soundmark": "/wʌz ðer ˈeniwʌn ɪn ðə ˈmiːtɪŋ ruːm/",
+    "grammar": [
+      {
+        "text": "Was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "anyone",
+        "role": "C",
+        "phonetic": "/ˈeniwʌn/",
+        "chinese": "任何人"
+      },
+      {
+        "text": "in the meeting room",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈmiːtɪŋ ruːm/",
+        "chinese": "在…里/这个/那个/会议/房间"
+      }
+    ]
+  },
+  {
+    "chinese": "是的有三个人",
+    "english": "Yes there were three people",
+    "soundmark": "/jes ðer wɜːr θriː ˈpiːpl/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "three people",
+        "role": "C",
+        "phonetic": "/θriː ˈpiːpl/",
+        "chinese": "三/人们"
+      }
+    ]
+  },
+  {
+    "chinese": "不没有人在那里",
+    "english": "No there was not anyone there",
+    "soundmark": "/noʊ ðer wʌz nɑːt ˈeniwʌn ðer/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "anyone",
+        "role": "C",
+        "phonetic": "/ˈeniwʌn/",
+        "chinese": "任何人"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "墙上以前有张地图",
+    "english": "There was a map on the wall",
+    "soundmark": "/ðer wʌz ə mæp ɑːn ðə wɔːl/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a map",
+        "role": "C",
+        "phonetic": "/ə mæp/",
+        "chinese": "一个"
+      },
+      {
+        "text": "on the wall",
+        "role": "A",
+        "phonetic": "/ɑːn ðə wɔːl/",
+        "chinese": "在…上/这个/那个/墙"
+      }
+    ]
+  },
+  {
+    "chinese": "昨天路上有很多车吗",
+    "english": "Were there many cars on the road yesterday",
+    "soundmark": "/wɜːr ðer ˈmeni kɑːrz ɑːn ðə roʊd ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "many cars",
+        "role": "C",
+        "phonetic": "/ˈmeni kɑːrz/",
+        "chinese": "许多/…们/复数(汽车)"
+      },
+      {
+        "text": "on the road",
+        "role": "A",
+        "phonetic": "/ɑːn ðə roʊd/",
+        "chinese": "在…上/这个/那个/路"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "桥下有条河",
+    "english": "There was a river under the bridge",
+    "soundmark": "/ðer wʌz ə ˈrɪvər ˈʌndər ðə brɪdʒ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a river",
+        "role": "C",
+        "phonetic": "/ə ˈrɪvər/",
+        "chinese": "一个/河"
+      },
+      {
+        "text": "under the bridge",
+        "role": "A",
+        "phonetic": "/ˈʌndər ðə brɪdʒ/",
+        "chinese": "在…下方/这个/那个/桥"
+      }
+    ]
+  },
+  {
+    "chinese": "那个村庄只有一个商店",
+    "english": "There was only one shop in the village",
+    "soundmark": "/ðer wʌz ˈoʊnli wʌn ʃɑːp ɪn ðə ˈvɪlɪdʒ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "only one shop",
+        "role": "C",
+        "phonetic": "/ˈoʊnli wʌn ʃɑːp/",
+        "chinese": "只/一个/商店"
+      },
+      {
+        "text": "in the village",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈvɪlɪdʒ/",
+        "chinese": "在…里/这个/那个/村庄"
+      }
+    ]
+  },
+  {
+    "chinese": "任何人",
+    "english": "anyone",
+    "soundmark": "/ˈeniwʌn/"
+  },
+  {
+    "chinese": "桥",
+    "english": "bridge",
+    "soundmark": "/brɪdʒ/"
+  },
+  {
+    "chinese": "河",
+    "english": "river",
+    "soundmark": "/ˈrɪvər/"
+  },
+  {
+    "chinese": "村庄",
+    "english": "village",
+    "soundmark": "/ˈvɪlɪdʒ/"
+  },
+  {
+    "chinese": "商店",
+    "english": "shop",
+    "soundmark": "/ʃɑːp/"
+  },
+  {
+    "chinese": "书架",
+    "english": "shelf",
+    "soundmark": "/ʃelf/"
+  },
+  {
+    "chinese": "墙",
+    "english": "wall",
+    "soundmark": "/wɔːl/"
+  },
+  {
+    "chinese": "事故",
+    "english": "accident",
+    "soundmark": "/ˈæksɪdənt/"
+  },
+  {
+    "chinese": "暴风雨",
+    "english": "storm",
+    "soundmark": "/stɔːrm/"
+  },
+  {
+    "chinese": "火",
+    "english": "fire",
+    "soundmark": "/faɪər/"
+  },
+  {
+    "chinese": "教室里有很多学生吗",
+    "english": "Were there many students in the classroom",
+    "soundmark": "/wɜːr ðer ˈmeni ˈstuːdənts ɪn ðə ˈklæsruːm/",
+    "grammar": [
+      {
+        "text": "Were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "many students",
+        "role": "C",
+        "phonetic": "/ˈmeni ˈstuːdənts/",
+        "chinese": "许多/…们/复数(学生)"
+      },
+      {
+        "text": "in the classroom",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈklæsruːm/",
+        "chinese": "在…里/这个/那个/教室"
+      }
+    ]
+  },
+  {
+    "chinese": "花园里有一棵老树",
+    "english": "There was an old tree in the garden",
+    "soundmark": "/ðer wʌz ən oʊld triː ɪn ðə ˈɡɑːrdn/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "an old tree",
+        "role": "C",
+        "phonetic": "/ən oʊld triː/",
+        "chinese": "一个/老的/旧的/树"
+      },
+      {
+        "text": "in the garden",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈɡɑːrdn/",
+        "chinese": "在…里/这个/那个/花园"
+      }
+    ]
+  },
+  {
+    "chinese": "你有什么问题吗",
+    "english": "Was there a problem",
+    "soundmark": "/wʌz ðer ə ˈprɑːbləm/",
+    "grammar": [
+      {
+        "text": "Was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a problem",
+        "role": "C",
+        "phonetic": "/ə ˈprɑːbləm/",
+        "chinese": "一个/问题/难题"
+      }
+    ]
+  },
+  {
+    "chinese": "厨房里没有食物了",
+    "english": "There was not any food in the kitchen",
+    "soundmark": "/ðer wʌz nɑːt ˈeni fuːd ɪn ðə ˈkɪtʃɪn/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not any food",
+        "role": "C",
+        "phonetic": "/nɑːt ˈeni fuːd/",
+        "chinese": "不/任何/食物"
+      },
+      {
+        "text": "in the kitchen",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈkɪtʃɪn/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "昨天博物馆里有展览吗",
+    "english": "Was there an exhibition at the museum yesterday",
+    "soundmark": "/wʌz ðer ən ˌeksɪˈbɪʃn æt ðə mjuˈziːəm ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "an exhibition",
+        "role": "C",
+        "phonetic": "/ən ˌeksɪˈbɪʃn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "at the museum",
+        "role": "A",
+        "phonetic": "/æt ðə mjuˈziːəm/",
+        "chinese": "在/这个/那个/博物馆"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "是的有很多人参观了",
+    "english": "Yes there were many visitors",
+    "soundmark": "/jes ðer wɜːr ˈmeni ˈvɪzɪtərz/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "many visitors",
+        "role": "C",
+        "phonetic": "/ˈmeni ˈvɪzɪtərz/",
+        "chinese": "许多"
+      }
+    ]
+  },
+  {
+    "chinese": "那里有一把钥匙在垫子下面",
+    "english": "There was a key under the mat",
+    "soundmark": "/ðer wʌz ə kiː ˈʌndər ðə mæt/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a key",
+        "role": "C",
+        "phonetic": "/ə kiː/",
+        "chinese": "一个/钥匙"
+      },
+      {
+        "text": "under the mat",
+        "role": "A",
+        "phonetic": "/ˈʌndər ðə mæt/",
+        "chinese": "在…下方/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "小镇以前有家电影院",
+    "english": "There was a cinema in the town",
+    "soundmark": "/ðer wʌz ə ˈsɪnəmə ɪn ðə taʊn/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a cinema",
+        "role": "C",
+        "phonetic": "/ə ˈsɪnəmə/",
+        "chinese": "一个/电影院"
+      },
+      {
+        "text": "in the town",
+        "role": "A",
+        "phonetic": "/ɪn ðə taʊn/",
+        "chinese": "在…里/这个/那个/城镇"
+      }
+    ]
+  },
+  {
+    "chinese": "瓶子里有多少水",
+    "english": "How much water was there in the bottle",
+    "soundmark": "/haʊ mʌtʃ ˈwɔːtər wʌz ðer ɪn ðə ˈbɑːtl/",
+    "grammar": [
+      {
+        "text": "How much water",
+        "role": "S",
+        "phonetic": "/haʊ mʌtʃ ˈwɔːtər/",
+        "chinese": "怎么/很多/水"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "there",
+        "role": "C",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "in the bottle",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈbɑːtl/",
+        "chinese": "在…里/这个/那个/瓶子"
+      }
+    ]
+  },
+  {
+    "chinese": "上周末这里有一场足球比赛吗",
+    "english": "Was there a football match here last weekend",
+    "soundmark": "/wʌz ðer ə ˈfʊtbɔːl mætʃ hɪr læst ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "Was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a football match",
+        "role": "C",
+        "phonetic": "/ə ˈfʊtbɔːl mætʃ/",
+        "chinese": "一个/足球/火柴/比赛"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "last weekend",
+        "role": "A",
+        "phonetic": "/læst ˈwiːkend/",
+        "chinese": "最后/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "抽屉里有一些旧照片",
+    "english": "There were some old photos in the drawer",
+    "soundmark": "/ðer wɜːr sʌm oʊld ˈfoʊtoʊz ɪn ðə drɔːr/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "some old photos",
+        "role": "C",
+        "phonetic": "/sʌm oʊld ˈfoʊtoʊz/",
+        "chinese": "一些/老的/旧的/…们/复数(照片)"
+      },
+      {
+        "text": "in the drawer",
+        "role": "A",
+        "phonetic": "/ɪn ðə drɔːr/",
+        "chinese": "在…里/这个/那个/更…的/…者(画)"
+      }
+    ]
+  },
+  {
+    "chinese": "教室",
+    "english": "classroom",
+    "soundmark": "/ˈklæsruːm/"
+  },
+  {
+    "chinese": "展览",
+    "english": "exhibition",
+    "soundmark": "/ˌeksɪˈbɪʃn/"
+  },
+  {
+    "chinese": "博物馆",
+    "english": "museum",
+    "soundmark": "/mjuˈziːəm/"
+  },
+  {
+    "chinese": "参观者",
+    "english": "visitor",
+    "soundmark": "/ˈvɪzɪtər/"
+  },
+  {
+    "chinese": "垫子",
+    "english": "mat",
+    "soundmark": "/mæt/"
+  },
+  {
+    "chinese": "电影院",
+    "english": "cinema",
+    "soundmark": "/ˈsɪnəmə/"
+  },
+  {
+    "chinese": "抽屉",
+    "english": "drawer",
+    "soundmark": "/drɔːr/"
+  }
+]

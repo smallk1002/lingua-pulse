@@ -1,0 +1,1685 @@
+[
+  {
+    "chinese": "美洲狮",
+    "english": "puma",
+    "soundmark": "/ˈpjuːmə/"
+  },
+  {
+    "chinese": "逃跑",
+    "english": "escape",
+    "soundmark": "/ɪˈskeɪp/"
+  },
+  {
+    "chinese": "动物园",
+    "english": "zoo",
+    "soundmark": "/zuː/"
+  },
+  {
+    "chinese": "发现",
+    "english": "spot",
+    "soundmark": "/spɑːt/"
+  },
+  {
+    "chinese": "证据",
+    "english": "evidence",
+    "soundmark": "/ˈevɪdəns/"
+  },
+  {
+    "chinese": "搜寻",
+    "english": "search",
+    "soundmark": "/sɜːrtʃ/"
+  },
+  {
+    "chinese": "猎人",
+    "english": "hunter",
+    "soundmark": "/ˈhʌntər/"
+  },
+  {
+    "chinese": "踪迹",
+    "english": "trail",
+    "soundmark": "/treɪl/"
+  },
+  {
+    "chinese": "乡村",
+    "english": "countryside",
+    "soundmark": "/ˈkʌntrisaɪd/"
+  },
+  {
+    "chinese": "野生的",
+    "english": "wild",
+    "soundmark": "/waɪld/"
+  },
+  {
+    "chinese": "大型猫科动物",
+    "english": "big cat",
+    "soundmark": "/bɪɡ/ /kæt/"
+  },
+  {
+    "chinese": "逃跑了",
+    "english": "escaped from",
+    "soundmark": "/ɪˈskeɪpt/ /frʌm/"
+  },
+  {
+    "chinese": "搜寻美洲狮",
+    "english": "search for a puma",
+    "soundmark": "/sɜːrtʃ/ /fɔːr/ /ə/ /ˈpjuːmə/"
+  },
+  {
+    "chinese": "收集证据",
+    "english": "collect evidence",
+    "soundmark": "/kəˈlekt/ /ˈevɪdəns/"
+  },
+  {
+    "chinese": "在逃",
+    "english": "at large",
+    "soundmark": "/æt/ /lɑːrdʒ/"
+  },
+  {
+    "chinese": "脚印踪迹",
+    "english": "paw prints",
+    "soundmark": "/pɔː/ /prɪnts/"
+  },
+  {
+    "chinese": "野生动物",
+    "english": "wild animal",
+    "soundmark": "/waɪld/ /ˈænɪməl/"
+  },
+  {
+    "chinese": "一头美洲狮从动物园逃跑了",
+    "english": "A puma has escaped from the zoo",
+    "soundmark": "/ə/ /ˈpjuːmə/ /hæz/ /ɪˈskeɪpt/ /frʌm/ /ðə/ /zuː/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "puma",
+        "role": "S",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "escaped",
+        "role": "V",
+        "phonetic": "/ɪˈskeɪpt/",
+        "chinese": "逃离"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "zoo",
+        "role": "O",
+        "phonetic": "/zuː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "人们发现了美洲狮的踪迹",
+    "english": "People have found traces of the puma",
+    "soundmark": "/ˈpiːpəl/ /hæv/ /faʊnd/ /ˈtreɪsɪz/ /ʌv/ /ðə/ /ˈpjuːmə/",
+    "grammar": [
+      {
+        "text": "People",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "traces",
+        "role": "O",
+        "phonetic": "/ˈtreɪsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "O",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      }
+    ]
+  },
+  {
+    "chinese": "猎人们正在搜寻它",
+    "english": "The hunters are searching for it",
+    "soundmark": "/ðə/ /ˈhʌntərz/ /ɑːr/ /ˈsɜːrtʃɪŋ/ /fɔːr/ /ɪt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "hunters",
+        "role": "S",
+        "phonetic": "/ˈhʌntərz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "searching",
+        "role": "V",
+        "phonetic": "/ˈsɜːrtʃɪŋ/",
+        "chinese": "搜索"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "有人曾在伦敦以南看到过美洲狮",
+    "english": "Someone has seen a puma in south London",
+    "soundmark": "/ˈsʌmwʌn/ /hæz/ /siːn/ /ə/ /ˈpjuːmə/ /ɪn/ /saʊθ/ /ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "Someone",
+        "role": "S",
+        "phonetic": "/ˈsʌmwʌn/",
+        "chinese": "某人"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "puma",
+        "role": "O",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "south",
+        "role": "A",
+        "phonetic": "/saʊθ/",
+        "chinese": ""
+      },
+      {
+        "text": "London",
+        "role": "A",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "美洲狮没有被找到",
+    "english": "The puma has not been found",
+    "soundmark": "/ðə/ /ˈpjuːmə/ /hæz/ /nɑːt/ /bɪn/ /faʊnd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "S",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      }
+    ]
+  },
+  {
+    "chinese": "美洲狮没有被捉住",
+    "english": "The puma has not been caught",
+    "soundmark": "/ðə/ /ˈpjuːmə/ /hæz/ /nɑːt/ /bɪn/ /kɔːt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "S",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "美洲狮可能还在野外",
+    "english": "The puma may still be at large",
+    "soundmark": "/ðə/ /ˈpjuːmə/ /meɪ/ /stɪl/ /biː/ /æt/ /lɑːrdʒ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "S",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "may",
+        "role": "Aux",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "large",
+        "role": "C",
+        "phonetic": "/lɑːrdʒ/",
+        "chinese": "大的"
+      }
+    ]
+  },
+  {
+    "chinese": "你见过美洲狮吗",
+    "english": "Have you ever seen a puma",
+    "soundmark": "/hæv/ /juː/ /ˈevər/ /siːn/ /ə/ /ˈpjuːmə/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "puma",
+        "role": "O",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      }
+    ]
+  },
+  {
+    "chinese": "他们抓住那只美洲狮了吗",
+    "english": "Have they caught the puma",
+    "soundmark": "/hæv/ /ðeɪ/ /kɔːt/ /ðə/ /ˈpjuːmə/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "O",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      }
+    ]
+  },
+  {
+    "chinese": "猎人什么时候发现脚印的",
+    "english": "When did the hunters find the paw prints",
+    "soundmark": "/wen/ /dɪd/ /ðə/ /ˈhʌntərz/ /faɪnd/ /ðə/ /pɔː/ /prɪnts/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "hunters",
+        "role": "S",
+        "phonetic": "/ˈhʌntərz/",
+        "chinese": ""
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "paw",
+        "role": "A",
+        "phonetic": "/pɔː/",
+        "chinese": ""
+      },
+      {
+        "text": "prints",
+        "role": "O",
+        "phonetic": "/prɪnts/",
+        "chinese": "打印"
+      }
+    ]
+  },
+  {
+    "chinese": "专家们认为美洲狮可能已经逃到更远的地方",
+    "english": "Experts think the puma may have moved further away",
+    "soundmark": "/ˈekspɜːrts/ /θɪŋk/ /ðə/ /ˈpjuːmə/ /meɪ/ /hæv/ /muːvd/ /ˈfɜːrðər/ /əˈweɪ/",
+    "grammar": [
+      {
+        "text": "Experts",
+        "role": "S",
+        "phonetic": "/ˈekspɜːrts/",
+        "chinese": "专家们"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "S",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "may",
+        "role": "Aux",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "moved",
+        "role": "V",
+        "phonetic": "/muːvd/",
+        "chinese": "移动"
+      },
+      {
+        "text": "further",
+        "role": "Adv",
+        "phonetic": "/ˈfɜːrðər/",
+        "chinese": "更远"
+      },
+      {
+        "text": "away",
+        "role": "Adv",
+        "phonetic": "/əˈweɪ/",
+        "chinese": "离开/远"
+      }
+    ]
+  },
+  {
+    "chinese": "警方证实美洲狮一定是从动物园逃出来的",
+    "english": "Police confirm the puma must have escaped from a zoo",
+    "soundmark": "/pəˈliːs/ /kənˈfɜːrm/ /ðə/ /ˈpjuːmə/ /mʌst/ /hæv/ /ɪˈskeɪpt/ /frʌm/ /ə/ /zuː/",
+    "grammar": [
+      {
+        "text": "Police",
+        "role": "S",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "confirm",
+        "role": "V",
+        "phonetic": "/kənˈfɜːrm/",
+        "chinese": "确认"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "S",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "escaped",
+        "role": "V",
+        "phonetic": "/ɪˈskeɪpt/",
+        "chinese": "逃离"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "zoo",
+        "role": "O",
+        "phonetic": "/zuː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "美洲狮可能躲在树林里",
+    "english": "The puma could be hiding in the woods",
+    "soundmark": "/ðə/ /ˈpjuːmə/ /kʊd/ /biː/ /ˈhaɪdɪŋ/ /ɪn/ /ðə/ /wʊdz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "S",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "hiding",
+        "role": "V",
+        "phonetic": "/ˈhaɪdɪŋ/",
+        "chinese": "隐藏"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "woods",
+        "role": "A",
+        "phonetic": "/wʊdz/",
+        "chinese": "…们/复数(木头)"
+      }
+    ]
+  },
+  {
+    "chinese": "一些鹿被发现在夜里被攻击了",
+    "english": "Some deer have been found attacked at night",
+    "soundmark": "/sʌm/ /dɪr/ /hæv/ /bɪn/ /faʊnd/ /əˈtækt/ /æt/ /naɪt/",
+    "grammar": [
+      {
+        "text": "Some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "deer",
+        "role": "S",
+        "phonetic": "/dɪr/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "attacked",
+        "role": "C",
+        "phonetic": "/əˈtækt/",
+        "chinese": "攻击"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "它是从伯明翰动物园逃走的",
+    "english": "It escaped from the Birmingham Zoo",
+    "soundmark": "/ɪt/ /ɪˈskeɪpt/ /frʌm/ /ðə/ /ˈbɜːrmɪŋhæm/ /zuː/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "escaped",
+        "role": "V",
+        "phonetic": "/ɪˈskeɪpt/",
+        "chinese": "逃离"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Birmingham",
+        "role": "A",
+        "phonetic": "/ˈbɜːrmɪŋhæm/",
+        "chinese": ""
+      },
+      {
+        "text": "Zoo",
+        "role": "O",
+        "phonetic": "/zuː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "猎人们已经搜寻了几周了",
+    "english": "The hunters have been searching for weeks",
+    "soundmark": "/ðə/ /ˈhʌntərz/ /hæv/ /bɪn/ /ˈsɜːrtʃɪŋ/ /fɔːr/ /wiːks/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "hunters",
+        "role": "S",
+        "phonetic": "/ˈhʌntərz/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "searching",
+        "role": "V",
+        "phonetic": "/ˈsɜːrtʃɪŋ/",
+        "chinese": "搜索"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "weeks",
+        "role": "A",
+        "phonetic": "/wiːks/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "美洲狮不可能走很远",
+    "english": "The puma cannot have gone far",
+    "soundmark": "/ðə/ /ˈpjuːmə/ /ˈkænɑːt/ /hæv/ /ɡɔːn/ /fɑːr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "S",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɔːn/",
+        "chinese": "去（过去分词）"
+      },
+      {
+        "text": "far",
+        "role": "A",
+        "phonetic": "/fɑːr/",
+        "chinese": "远"
+      }
+    ]
+  },
+  {
+    "chinese": "我们还没有找到任何确凿的证据",
+    "english": "We have not found any definite evidence yet",
+    "soundmark": "/wiː/ /hæv/ /nɑːt/ /faʊnd/ /ˈeni/ /ˈdefɪnət/ /ˈevɪdəns/ /jet/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "definite",
+        "role": "A",
+        "phonetic": "/ˈdefɪnət/",
+        "chinese": ""
+      },
+      {
+        "text": "evidence",
+        "role": "O",
+        "phonetic": "/ˈevɪdəns/",
+        "chinese": "证据"
+      },
+      {
+        "text": "yet",
+        "role": "Adv",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "动物园管理员报告说笼子是空的",
+    "english": "The zookeeper reported that the cage was empty",
+    "soundmark": "/ðə/ /ˈzuːkiːpər/ /rɪˈpɔːrtɪd/ /ðæt/ /ðə/ /keɪdʒ/ /wʌz/ /ˈempti/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "zookeeper",
+        "role": "S",
+        "phonetic": "/ˈzuːkiːpər/",
+        "chinese": ""
+      },
+      {
+        "text": "reported",
+        "role": "V",
+        "phonetic": "/rɪˈpɔːrtɪd/",
+        "chinese": "报告"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cage",
+        "role": "S",
+        "phonetic": "/keɪdʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "empty",
+        "role": "C",
+        "phonetic": "/ˈempti/",
+        "chinese": "空的"
+      }
+    ]
+  },
+  {
+    "chinese": "自从周一以来就没人见过那只美洲狮",
+    "english": "No one has seen the puma since Monday",
+    "soundmark": "/noʊ/ /wʌn/ /hæz/ /siːn/ /ðə/ /ˈpjuːmə/ /sɪns/ /ˈmʌndeɪ/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "O",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "Monday",
+        "role": "A",
+        "phonetic": "/ˈmʌndeɪ/",
+        "chinese": "星期一"
+      }
+    ]
+  },
+  {
+    "chinese": "它可能已经越过河流了",
+    "english": "It might have crossed the river",
+    "soundmark": "/ɪt/ /maɪt/ /hæv/ /krɔːst/ /ðə/ /ˈrɪvər/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "might",
+        "role": "Aux",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "crossed",
+        "role": "V",
+        "phonetic": "/krɔːst/",
+        "chinese": "穿过"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "O",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      }
+    ]
+  },
+  {
+    "chinese": "当地村民声称他们在花园里看到了它",
+    "english": "Local villagers claim they saw it in their garden",
+    "soundmark": "/ˈloʊkəl/ /ˈvɪlɪdʒərz/ /kleɪm/ /ðeɪ/ /sɔː/ /ɪt/ /ɪn/ /ðer/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "Local",
+        "role": "A",
+        "phonetic": "/ˈloʊkəl/",
+        "chinese": "当地的"
+      },
+      {
+        "text": "villagers",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒərz/",
+        "chinese": ""
+      },
+      {
+        "text": "claim",
+        "role": "V",
+        "phonetic": "/kleɪm/",
+        "chinese": "声称"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "garden",
+        "role": "A",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "搜寻队今天早上在泥地上发现了新鲜的爪印",
+    "english": "The search party found fresh paw prints in the mud this morning",
+    "soundmark": "/ðə/ /sɜːrtʃ/ /ˈpɑːrti/ /faʊnd/ /freʃ/ /pɔː/ /prɪnts/ /ɪn/ /ðə/ /mʌd/ /ðɪs/ /ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "search",
+        "role": "A",
+        "phonetic": "/sɜːrtʃ/",
+        "chinese": "搜索"
+      },
+      {
+        "text": "party",
+        "role": "S",
+        "phonetic": "/ˈpɑːrti/",
+        "chinese": "派对"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "fresh",
+        "role": "A",
+        "phonetic": "/freʃ/",
+        "chinese": "新鲜的"
+      },
+      {
+        "text": "paw",
+        "role": "A",
+        "phonetic": "/pɔː/",
+        "chinese": ""
+      },
+      {
+        "text": "prints",
+        "role": "O",
+        "phonetic": "/prɪnts/",
+        "chinese": "打印"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mud",
+        "role": "A",
+        "phonetic": "/mʌd/",
+        "chinese": "泥"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "这些爪印表明附近有一只大型猫科动物出没",
+    "english": "The paw prints suggest a big cat is in the area",
+    "soundmark": "/ðə/ /pɔː/ /prɪnts/ /səˈdʒest/ /ə/ /bɪɡ/ /kæt/ /ɪz/ /ɪn/ /ði/ /ˈeriə/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "paw",
+        "role": "A",
+        "phonetic": "/pɔː/",
+        "chinese": ""
+      },
+      {
+        "text": "prints",
+        "role": "S",
+        "phonetic": "/prɪnts/",
+        "chinese": "打印"
+      },
+      {
+        "text": "suggest",
+        "role": "V",
+        "phonetic": "/səˈdʒest/",
+        "chinese": "建议"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "A",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "area",
+        "role": "A",
+        "phonetic": "/ˈeriə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们不能确定那只动物就是美洲狮",
+    "english": "We cannot be sure the animal is a puma",
+    "soundmark": "/wiː/ /ˈkænɑːt/ /biː/ /ʃʊr/ /ði/ /ˈænɪməl/ /ɪz/ /ə/ /ˈpjuːmə/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "sure",
+        "role": "C",
+        "phonetic": "/ʃʊr/",
+        "chinese": "确定的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "animal",
+        "role": "S",
+        "phonetic": "/ˈænɪməl/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "puma",
+        "role": "C",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      }
+    ]
+  },
+  {
+    "chinese": "美洲狮是一种不常见于英国的动物",
+    "english": "A puma is an animal not commonly found in Britain",
+    "soundmark": "/ə/ /ˈpjuːmə/ /ɪz/ /ən/ /ˈænɪməl/ /nɑːt/ /ˈkɑːmənli/ /faʊnd/ /ɪn/ /ˈbrɪtən/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "puma",
+        "role": "S",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "animal",
+        "role": "C",
+        "phonetic": "/ˈænɪməl/",
+        "chinese": ""
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "commonly",
+        "role": "Adv",
+        "phonetic": "/ˈkɑːmənli/",
+        "chinese": "…地(普通的)"
+      },
+      {
+        "text": "found",
+        "role": "C",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Britain",
+        "role": "A",
+        "phonetic": "/ˈbrɪtən/",
+        "chinese": "英国"
+      }
+    ]
+  },
+  {
+    "chinese": "美洲狮的毛皮是浅棕色的",
+    "english": "The puma has a light brown coat",
+    "soundmark": "/ðə/ /ˈpjuːmə/ /hæz/ /ə/ /laɪt/ /braʊn/ /koʊt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "puma",
+        "role": "S",
+        "phonetic": "/ˈpjuːmə/",
+        "chinese": "美洲狮"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "light",
+        "role": "A",
+        "phonetic": "/laɪt/",
+        "chinese": "轻的/浅色的"
+      },
+      {
+        "text": "brown",
+        "role": "A",
+        "phonetic": "/braʊn/",
+        "chinese": "棕色的"
+      },
+      {
+        "text": "coat",
+        "role": "O",
+        "phonetic": "/koʊt/",
+        "chinese": "外套"
+      }
+    ]
+  },
+  {
+    "chinese": "猫科动物",
+    "english": "cat",
+    "soundmark": "/kæt/"
+  },
+  {
+    "chinese": "笼子",
+    "english": "cage",
+    "soundmark": "/keɪdʒ/"
+  },
+  {
+    "chinese": "攻击",
+    "english": "attack",
+    "soundmark": "/əˈtæk/"
+  },
+  {
+    "chinese": "村民",
+    "english": "villager",
+    "soundmark": "/ˈvɪlɪdʒər/"
+  },
+  {
+    "chinese": "专家",
+    "english": "expert",
+    "soundmark": "/ˈekspɜːrt/"
+  },
+  {
+    "chinese": "足迹",
+    "english": "footprint",
+    "soundmark": "/ˈfʊtprɪnt/"
+  },
+  {
+    "chinese": "警方",
+    "english": "police",
+    "soundmark": "/pəˈliːs/"
+  },
+  {
+    "chinese": "确认",
+    "english": "confirm",
+    "soundmark": "/kənˈfɜːrm/"
+  },
+  {
+    "chinese": "建议",
+    "english": "suggest",
+    "soundmark": "/səˈdʒest/"
+  },
+  {
+    "chinese": "搜寻队已经检查了树林里的每一处",
+    "english": "The search party has checked every part of the woods",
+    "soundmark": "/ðə/ /sɜːrtʃ/ /ˈpɑːrti/ /hæz/ /tʃekt/ /ˈevri/ /pɑːrt/ /ʌv/ /ðə/ /wʊdz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "search",
+        "role": "A",
+        "phonetic": "/sɜːrtʃ/",
+        "chinese": "搜索"
+      },
+      {
+        "text": "party",
+        "role": "S",
+        "phonetic": "/ˈpɑːrti/",
+        "chinese": "派对"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "checked",
+        "role": "V",
+        "phonetic": "/tʃekt/",
+        "chinese": "检查"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "part",
+        "role": "O",
+        "phonetic": "/pɑːrt/",
+        "chinese": "部分"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "woods",
+        "role": "O",
+        "phonetic": "/wʊdz/",
+        "chinese": "…们/复数(木头)"
+      }
+    ]
+  },
+  {
+    "chinese": "到目前为止还没有新线索出现",
+    "english": "No new clues have appeared so far",
+    "soundmark": "/noʊ/ /nuː/ /kluːz/ /hæv/ /əˈpɪrd/ /soʊ/ /fɑːr/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "clues",
+        "role": "S",
+        "phonetic": "/kluːz/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "appeared",
+        "role": "V",
+        "phonetic": "/əˈpɪrd/",
+        "chinese": "出现"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "far",
+        "role": "Adv",
+        "phonetic": "/fɑːr/",
+        "chinese": "远"
+      }
+    ]
+  }
+]

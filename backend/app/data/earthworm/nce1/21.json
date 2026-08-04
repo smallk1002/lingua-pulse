@@ -1,0 +1,509 @@
+[
+  {
+    "chinese": "哪一个",
+    "english": "which",
+    "soundmark": "/wɪtʃ/"
+  },
+  {
+    "chinese": "这个",
+    "english": "this one",
+    "soundmark": "/ðɪs/ /wʌn/"
+  },
+  {
+    "chinese": "那个",
+    "english": "that one",
+    "soundmark": "/ðæt/ /wʌn/"
+  },
+  {
+    "chinese": "两者都",
+    "english": "both",
+    "soundmark": "/boʊθ/"
+  },
+  {
+    "chinese": "都不",
+    "english": "neither",
+    "soundmark": "/ˈniːðər/"
+  },
+  {
+    "chinese": "所有",
+    "english": "all",
+    "soundmark": "/ɔːl/"
+  },
+  {
+    "chinese": "一些",
+    "english": "some",
+    "soundmark": "/sʌm/"
+  },
+  {
+    "chinese": "任何",
+    "english": "any",
+    "soundmark": "/ˈeni/"
+  },
+  {
+    "chinese": "每",
+    "english": "each",
+    "soundmark": "/iːtʃ/"
+  },
+  {
+    "chinese": "每个",
+    "english": "every",
+    "soundmark": "/ˈevri/"
+  },
+  {
+    "chinese": "左边",
+    "english": "left",
+    "soundmark": "/left/"
+  },
+  {
+    "chinese": "右边",
+    "english": "right",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "chinese": "中间",
+    "english": "middle",
+    "soundmark": "/ˈmɪdəl/"
+  },
+  {
+    "chinese": "薄的",
+    "english": "thin",
+    "soundmark": "/θɪn/"
+  },
+  {
+    "chinese": "厚的",
+    "english": "thick",
+    "soundmark": "/θɪk/"
+  },
+  {
+    "chinese": "重的",
+    "english": "heavy",
+    "soundmark": "/ˈhevi/"
+  },
+  {
+    "chinese": "轻的",
+    "english": "light",
+    "soundmark": "/laɪt/"
+  },
+  {
+    "chinese": "空的",
+    "english": "empty",
+    "soundmark": "/ˈempti/"
+  },
+  {
+    "chinese": "满的",
+    "english": "full",
+    "soundmark": "/fʊl/"
+  },
+  {
+    "chinese": "你更喜欢哪本书",
+    "english": "Which book do you prefer",
+    "soundmark": "/wɪtʃ/ /bʊk/ /duː/ /juː/ /prɪˈfɜːr/",
+    "grammar": [
+      {
+        "text": "Which",
+        "role": "Det",
+        "phonetic": "/wɪtʃ/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "prefer",
+        "role": "V",
+        "phonetic": "/prɪˈfɜːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "给我那本红书",
+    "english": "Give me the red book",
+    "soundmark": "/ɡɪv/ /miː/ /ðə/ /red/ /bʊk/",
+    "grammar": [
+      {
+        "text": "Give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "red",
+        "role": "C",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢哪个左边的还是右边的",
+    "english": "Which one do you like the left one or the right one",
+    "soundmark": "/wɪtʃ/ /wʌn/ /duː/ /juː/ /laɪk/ /ðə/ /left/ /wʌn/ /ɔːr/ /ðə/ /raɪt/ /wʌn/",
+    "grammar": [
+      {
+        "text": "Which",
+        "role": "Det",
+        "phonetic": "/wɪtʃ/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "left",
+        "role": "C",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "right",
+        "role": "C",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "两个我都要",
+    "english": "I want both",
+    "soundmark": "/aɪ/ /wɑːnt/ /boʊθ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "both",
+        "role": "O",
+        "phonetic": "/boʊθ/",
+        "chinese": "两者都"
+      }
+    ]
+  },
+  {
+    "chinese": "这本词典比那本厚",
+    "english": "This dictionary is thicker than that one",
+    "soundmark": "/ðɪs/ /ˈdɪkʃəneri/ /ɪz/ /ˈθɪkər/ /ðæn/ /ðæt/ /wʌn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "dictionary",
+        "role": "S",
+        "phonetic": "/ˈdɪkʃəneri/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "thicker",
+        "role": "C",
+        "phonetic": "/ˈθɪkər/",
+        "chinese": "更…的/…者(厚的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "one",
+        "role": "C",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "这个箱子是重的还是轻的",
+    "english": "Is this case heavy or light",
+    "soundmark": "/ɪz/ /ðɪs/ /keɪs/ /ˈhevi/ /ɔːr/ /laɪt/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "case",
+        "role": "S",
+        "phonetic": "/keɪs/",
+        "chinese": "情况/案例"
+      },
+      {
+        "text": "heavy",
+        "role": "C",
+        "phonetic": "/ˈhevi/",
+        "chinese": "重的"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "light",
+        "role": "C",
+        "phonetic": "/laɪt/",
+        "chinese": "轻的/浅色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个瓶子是空的那个是满的",
+    "english": "This bottle is empty that one is full",
+    "soundmark": "/ðɪs/ /ˈbɑːtəl/ /ɪz/ /ˈempti/ /ðæt/ /wʌn/ /ɪz/ /fʊl/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "bottle",
+        "role": "S",
+        "phonetic": "/ˈbɑːtəl/",
+        "chinese": "瓶子"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "empty",
+        "role": "C",
+        "phonetic": "/ˈempti/",
+        "chinese": "空的"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "full",
+        "role": "C",
+        "phonetic": "/fʊl/",
+        "chinese": "满的/饱的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们两个都不喜欢",
+    "english": "We like neither of them",
+    "soundmark": "/wiː/ /laɪk/ /ˈniːðər/ /əv/ /ðem/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "neither",
+        "role": "O",
+        "phonetic": "/ˈniːðər/",
+        "chinese": "也不"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðem/",
+        "chinese": "他们"
+      }
+    ]
+  },
+  {
+    "chinese": "给",
+    "english": "give",
+    "soundmark": "/ɡɪv/"
+  },
+  {
+    "chinese": "想要",
+    "english": "want",
+    "soundmark": "/wɑːnt/"
+  },
+  {
+    "chinese": "更喜欢",
+    "english": "prefer",
+    "soundmark": "/prɪˈfɜːr/"
+  },
+  {
+    "chinese": "比",
+    "english": "than",
+    "soundmark": "/ðæn/"
+  },
+  {
+    "chinese": "字典",
+    "english": "dictionary",
+    "soundmark": "/ˈdɪkʃəneri/"
+  },
+  {
+    "chinese": "瓶子",
+    "english": "bottle",
+    "soundmark": "/ˈbɑːtəl/"
+  },
+  {
+    "chinese": "他们",
+    "english": "them",
+    "soundmark": "/ðem/"
+  },
+  {
+    "chinese": "哪一个",
+    "english": "which one",
+    "soundmark": "/wɪtʃ/ /wʌn/"
+  },
+  {
+    "chinese": "架子",
+    "english": "shelf",
+    "soundmark": "/ʃelf/"
+  },
+  {
+    "chinese": "另一本",
+    "english": "the other one",
+    "soundmark": "/ði/ /ˈʌðər/ /wʌn/"
+  }
+]

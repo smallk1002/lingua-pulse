@@ -1,0 +1,435 @@
+[
+  {
+    "chinese": "飞机(airplane)",
+    "english": "airplane",
+    "soundmark": "/ˈerpleɪn/"
+  },
+  {
+    "chinese": "收藏家(collector)",
+    "english": "collector",
+    "soundmark": "/kəˈlektər/"
+  },
+  {
+    "chinese": "修复(restore)",
+    "english": "restore",
+    "soundmark": "/rɪˈstɔːr/"
+  },
+  {
+    "chinese": "古董(antique)",
+    "english": "antique",
+    "soundmark": "/ænˈtiːk/"
+  },
+  {
+    "chinese": "价值(value)",
+    "english": "value",
+    "soundmark": "/ˈvæljuː/"
+  },
+  {
+    "chinese": "发动机(engine)",
+    "english": "engine",
+    "soundmark": "/ˈendʒɪn/"
+  },
+  {
+    "chinese": "机翼(wing)",
+    "english": "wing",
+    "soundmark": "/wɪŋ/"
+  },
+  {
+    "chinese": "修理(repair)",
+    "english": "repair",
+    "soundmark": "/rɪˈper/"
+  },
+  {
+    "chinese": "我去理发了",
+    "english": "I had my hair cut",
+    "soundmark": "/aɪ hæd maɪ her kʌt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "hair",
+        "role": "O",
+        "phonetic": "/her/",
+        "chinese": ""
+      },
+      {
+        "text": "cut",
+        "role": "V",
+        "phonetic": "/kʌt/",
+        "chinese": "剪/切"
+      }
+    ]
+  },
+  {
+    "chinese": "他让人修了车",
+    "english": "He had his car repaired",
+    "soundmark": "/hiː hæd hɪz kɑːr rɪˈperd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "repaired",
+        "role": "V",
+        "phonetic": "/rɪˈperd/",
+        "chinese": "修理"
+      }
+    ]
+  },
+  {
+    "chinese": "她让人打扫了房子",
+    "english": "She had her house cleaned",
+    "soundmark": "/ʃiː hæd hɜːr haʊs kliːnd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "cleaned",
+        "role": "V",
+        "phonetic": "/kliːnd/",
+        "chinese": "清洁"
+      }
+    ]
+  },
+  {
+    "chinese": "我们要让人粉刷房子",
+    "english": "We are going to have the house painted",
+    "soundmark": "/wiː ɑːr ˈɡoʊɪŋ tuː hæv ðə haʊs ˈpeɪntɪd/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "painted",
+        "role": "V",
+        "phonetic": "/ˈpeɪntɪd/",
+        "chinese": "画/油漆"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天让人把窗户修好了",
+    "english": "I had the window repaired yesterday",
+    "soundmark": "/aɪ hæd ðə ˈwɪndoʊ rɪˈperd ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "O",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "repaired",
+        "role": "V",
+        "phonetic": "/rɪˈperd/",
+        "chinese": "修理"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他把电脑拿去升级了",
+    "english": "He had his computer upgraded",
+    "soundmark": "/hiː hæd hɪz kəmˈpjuːtər ʌpˈɡreɪdɪd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "computer",
+        "role": "O",
+        "phonetic": "/kəmˈpjuːtər/",
+        "chinese": "电脑"
+      },
+      {
+        "text": "upgraded",
+        "role": "V",
+        "phonetic": "/ʌpˈɡreɪdɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她让人把婚纱定制好了",
+    "english": "She had her wedding dress made",
+    "soundmark": "/ʃiː hæd hɜːr ˈwedɪŋ dres meɪd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "wedding",
+        "role": "C",
+        "phonetic": "/ˈwedɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "dress",
+        "role": "O",
+        "phonetic": "/dres/",
+        "chinese": "穿衣"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      }
+    ]
+  },
+  {
+    "chinese": "他们让人检查了屋顶",
+    "english": "They had the roof checked",
+    "soundmark": "/ðeɪ hæd ðə ruːf tʃekt/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "roof",
+        "role": "O",
+        "phonetic": "/ruːf/",
+        "chinese": ""
+      },
+      {
+        "text": "checked",
+        "role": "V",
+        "phonetic": "/tʃekt/",
+        "chinese": "检查"
+      }
+    ]
+  },
+  {
+    "chinese": "我让人洗了车",
+    "english": "I had my car washed",
+    "soundmark": "/aɪ hæd maɪ kɑːr wɒʃt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "washed",
+        "role": "V",
+        "phonetic": "/wɒʃt/",
+        "chinese": "洗"
+      }
+    ]
+  },
+  {
+    "chinese": "飞机(airplane)",
+    "english": "airplane",
+    "soundmark": "/ˈerpleɪn/"
+  },
+  {
+    "chinese": "修复(restore)",
+    "english": "restore",
+    "soundmark": "/rɪˈstɔːr/"
+  },
+  {
+    "chinese": "古董(antique)",
+    "english": "antique",
+    "soundmark": "/ænˈtiːk/"
+  },
+  {
+    "chinese": "发动机(engine)",
+    "english": "engine",
+    "soundmark": "/ˈendʒɪn/"
+  },
+  {
+    "chinese": "机翼(wing)",
+    "english": "wing",
+    "soundmark": "/wɪŋ/"
+  },
+  {
+    "chinese": "让人做(have sth done)",
+    "english": "have something done",
+    "soundmark": "/hæv ˈsʌmθɪŋ dʌn/"
+  }
+]

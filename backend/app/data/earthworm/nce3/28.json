@@ -1,0 +1,745 @@
+[
+  {
+    "chinese": "英镑",
+    "english": "pound",
+    "soundmark": "/paʊnd/"
+  },
+  {
+    "chinese": "太贵",
+    "english": "too dear",
+    "soundmark": "/tuː/ /dɪr/"
+  },
+  {
+    "chinese": "讨价还价",
+    "english": "bargain",
+    "soundmark": "/ˈbɑːrɡɪn/"
+  },
+  {
+    "chinese": "便宜的",
+    "english": "cheap",
+    "soundmark": "/tʃiːp/"
+  },
+  {
+    "chinese": "昂贵的",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "价格",
+    "english": "price",
+    "soundmark": "/praɪs/"
+  },
+  {
+    "chinese": "店主",
+    "english": "shopkeeper",
+    "soundmark": "/ˈʃɑːpˌkiːpər/"
+  },
+  {
+    "chinese": "顾客",
+    "english": "customer",
+    "soundmark": "/ˈkʌstəmər/"
+  },
+  {
+    "chinese": "还价",
+    "english": "counteroffer",
+    "soundmark": "/ˈkaʊntərˌɔːfər/"
+  },
+  {
+    "chinese": "过高的",
+    "english": "overpriced",
+    "soundmark": "/ˌoʊvərˈpraɪst/"
+  },
+  {
+    "chinese": "划算",
+    "english": "good value",
+    "soundmark": "/ɡʊd/ /ˈvæljuː/"
+  },
+  {
+    "chinese": "讲价",
+    "english": "haggle",
+    "soundmark": "/ˈhæɡəl/"
+  },
+  {
+    "chinese": "折扣",
+    "english": "discount",
+    "soundmark": "/ˈdɪskaʊnt/"
+  },
+  {
+    "chinese": "市场",
+    "english": "market",
+    "soundmark": "/ˈmɑːrkɪt/"
+  },
+  {
+    "chinese": "要价过高",
+    "english": "ask too much",
+    "soundmark": "/æsk/ /tuː/ /mʌtʃ/"
+  },
+  {
+    "chinese": "店主开价太高因此顾客拒绝购买",
+    "english": "The shopkeeper asked too much so the customer refused to buy",
+    "soundmark": "/ðə/ /ˈʃɑːpˌkiːpər/ /æskt/ /tuː/ /mʌtʃ/ /soʊ/ /ðə/ /ˈkʌstəmər/ /rɪˈfjuːzd/ /tuː/ /baɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shopkeeper",
+        "role": "S",
+        "phonetic": "/ˈʃɑːpˌkiːpər/",
+        "chinese": ""
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "much",
+        "role": "O",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "so",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "customer",
+        "role": "S",
+        "phonetic": "/ˈkʌstəmər/",
+        "chinese": "顾客"
+      },
+      {
+        "text": "refused",
+        "role": "V",
+        "phonetic": "/rɪˈfjuːzd/",
+        "chinese": "拒绝"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      }
+    ]
+  },
+  {
+    "chinese": "那件商品贵了五英镑",
+    "english": "That item was five pounds too dear",
+    "soundmark": "/ðæt/ /ˈaɪtəm/ /wʌz/ /faɪv/ /paʊndz/ /tuː/ /dɪr/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "item",
+        "role": "S",
+        "phonetic": "/ˈaɪtəm/",
+        "chinese": "物品/项目"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "pounds",
+        "role": "A",
+        "phonetic": "/paʊndz/",
+        "chinese": ""
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "dear",
+        "role": "C",
+        "phonetic": "/dɪr/",
+        "chinese": "亲爱的/贵的"
+      }
+    ]
+  },
+  {
+    "chinese": "她在市场上和小贩讨价还价了好一阵子",
+    "english": "She haggled with the vendor at the market for quite a while",
+    "soundmark": "/ʃiː/ /ˈhæɡəld/ /wɪð/ /ðə/ /ˈvendər/ /æt/ /ðə/ /ˈmɑːrkɪt/ /fɔːr/ /kwɪt/ /ə/ /waɪl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "haggled",
+        "role": "V",
+        "phonetic": "/ˈhæɡəld/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "vendor",
+        "role": "O",
+        "phonetic": "/ˈvendər/",
+        "chinese": ""
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "market",
+        "role": "A",
+        "phonetic": "/ˈmɑːrkɪt/",
+        "chinese": "市场"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "quite",
+        "role": "Adv",
+        "phonetic": "/kwɪt/",
+        "chinese": "相当"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "while",
+        "role": "A",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      }
+    ]
+  },
+  {
+    "chinese": "他提出降价但店主坚持原价",
+    "english": "He offered a lower price but the shopkeeper insisted on the original price",
+    "soundmark": "/hiː/ /ˈɔːfərd/ /ə/ /ˈloʊər/ /praɪs/ /bʌt/ /ðə/ /ˈʃɑːpˌkiːpər/ /ɪnˈsɪstɪd/ /ɑːn/ /ði/ /əˈrɪdʒɪnəl/ /praɪs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "offered",
+        "role": "V",
+        "phonetic": "/ˈɔːfərd/",
+        "chinese": "提供"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lower",
+        "role": "A",
+        "phonetic": "/ˈloʊər/",
+        "chinese": "降低"
+      },
+      {
+        "text": "price",
+        "role": "O",
+        "phonetic": "/praɪs/",
+        "chinese": "价格"
+      },
+      {
+        "text": "but",
+        "role": "A",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shopkeeper",
+        "role": "S",
+        "phonetic": "/ˈʃɑːpˌkiːpər/",
+        "chinese": ""
+      },
+      {
+        "text": "insisted",
+        "role": "V",
+        "phonetic": "/ɪnˈsɪstɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "original",
+        "role": "A",
+        "phonetic": "/əˈrɪdʒɪnəl/",
+        "chinese": ""
+      },
+      {
+        "text": "price",
+        "role": "O",
+        "phonetic": "/praɪs/",
+        "chinese": "价格"
+      }
+    ]
+  },
+  {
+    "chinese": "这件东西实际上根本不值他要的那么多",
+    "english": "The thing was not worth nearly as much as he asked for it",
+    "soundmark": "/ðə/ /θɪŋ/ /wʌz/ /nɑːt/ /wɜːrθ/ /ˈnɪrli/ /əz/ /mʌtʃ/ /əz/ /hiː/ /æskt/ /fɔːr/ /ɪt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thing",
+        "role": "S",
+        "phonetic": "/θɪŋ/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "worth",
+        "role": "C",
+        "phonetic": "/wɜːrθ/",
+        "chinese": ""
+      },
+      {
+        "text": "nearly",
+        "role": "Adv",
+        "phonetic": "/ˈnɪrli/",
+        "chinese": "差不多"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "经过一番激烈的讨价还价她终于以较低的价格买下了它",
+    "english": "After intense bargaining she finally bought it at a lower price",
+    "soundmark": "/ˈæftər/ /ɪnˈtens/ /ˈbɑːrɡɪnɪŋ/ /ʃiː/ /ˈfaɪnəli/ /bɑːt/ /ɪt/ /æt/ /ə/ /ˈloʊər/ /praɪs/",
+    "grammar": [
+      {
+        "text": "After",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "intense",
+        "role": "A",
+        "phonetic": "/ɪnˈtens/",
+        "chinese": ""
+      },
+      {
+        "text": "bargaining",
+        "role": "O",
+        "phonetic": "/ˈbɑːrɡɪnɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "finally",
+        "role": "Adv",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɑːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lower",
+        "role": "A",
+        "phonetic": "/ˈloʊər/",
+        "chinese": "降低"
+      },
+      {
+        "text": "price",
+        "role": "A",
+        "phonetic": "/praɪs/",
+        "chinese": "价格"
+      }
+    ]
+  },
+  {
+    "chinese": "这件商品质量很好所以不算贵",
+    "english": "The quality of this item is good so it is not overpriced",
+    "soundmark": "/ðə/ /ˈkwɑːləti/ /əv/ /ðɪs/ /ˈaɪtəm/ /ɪz/ /ɡʊd/ /soʊ/ /ɪt/ /ɪz/ /nɑːt/ /ˌoʊvərˈpraɪst/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "quality",
+        "role": "S",
+        "phonetic": "/ˈkwɑːləti/",
+        "chinese": "质量/品质"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "item",
+        "role": "O",
+        "phonetic": "/ˈaɪtəm/",
+        "chinese": "物品/项目"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "so",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "overpriced",
+        "role": "C",
+        "phonetic": "/ˌoʊvərˈpraɪst/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "商贩们通常在旅游区要价更高",
+    "english": "Vendors usually charge higher prices in tourist areas",
+    "soundmark": "/ˈvendərz/ /ˈjuːʒuəli/ /tʃɑːrdʒ/ /ˈhaɪər/ /ˈpraɪsɪz/ /ɪn/ /ˈtʊrɪst/ /ˈeriəz/",
+    "grammar": [
+      {
+        "text": "Vendors",
+        "role": "S",
+        "phonetic": "/ˈvendərz/",
+        "chinese": ""
+      },
+      {
+        "text": "usually",
+        "role": "Adv",
+        "phonetic": "/ˈjuːʒuəli/",
+        "chinese": "通常"
+      },
+      {
+        "text": "charge",
+        "role": "V",
+        "phonetic": "/tʃɑːrdʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "higher",
+        "role": "A",
+        "phonetic": "/ˈhaɪər/",
+        "chinese": "更…的/…者(高的)"
+      },
+      {
+        "text": "prices",
+        "role": "O",
+        "phonetic": "/ˈpraɪsɪz/",
+        "chinese": "价格"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "tourist",
+        "role": "A",
+        "phonetic": "/ˈtʊrɪst/",
+        "chinese": "游客"
+      },
+      {
+        "text": "areas",
+        "role": "A",
+        "phonetic": "/ˈeriəz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他认为五英镑的折扣已经足够多了",
+    "english": "He thought a five-pound discount was generous enough",
+    "soundmark": "/hiː/ /θɑːt/ /ə/ /faɪv/ /paʊnd/ /ˈdɪskaʊnt/ /wʌz/ /ˈdʒenərəs/ /ɪˈnʌf/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɑːt/",
+        "chinese": "想/认为（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "five-pound",
+        "role": "A",
+        "phonetic": "/faɪv/ /paʊnd/",
+        "chinese": ""
+      },
+      {
+        "text": "discount",
+        "role": "S",
+        "phonetic": "/ˈdɪskaʊnt/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "generous",
+        "role": "C",
+        "phonetic": "/ˈdʒenərəs/",
+        "chinese": "慷慨的"
+      },
+      {
+        "text": "enough",
+        "role": "Adv",
+        "phonetic": "/ɪˈnʌf/",
+        "chinese": "足够"
+      }
+    ]
+  },
+  {
+    "chinese": "商贩",
+    "english": "vendor",
+    "soundmark": "/ˈvendər/"
+  },
+  {
+    "chinese": "讨价",
+    "english": "offer",
+    "soundmark": "/ˈɔːfər/"
+  },
+  {
+    "chinese": "坚持",
+    "english": "insist",
+    "soundmark": "/ɪnˈsɪst/"
+  },
+  {
+    "chinese": "划算",
+    "english": "value",
+    "soundmark": "/ˈvæljuː/"
+  },
+  {
+    "chinese": "旅游区",
+    "english": "tourist area",
+    "soundmark": "/ˈtʊrɪst/ /ˈeriə/"
+  },
+  {
+    "chinese": "慷慨的",
+    "english": "generous",
+    "soundmark": "/ˈdʒenərəs/"
+  },
+  {
+    "chinese": "原来的",
+    "english": "original",
+    "soundmark": "/əˈrɪdʒɪnəl/"
+  }
+]

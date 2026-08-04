@@ -1,0 +1,523 @@
+[
+  {
+    "chinese": "火山(volcano)",
+    "english": "volcano",
+    "soundmark": "/vɒlˈkeɪnoʊ/"
+  },
+  {
+    "chinese": "喷发(erupt)",
+    "english": "erupt",
+    "soundmark": "/ɪˈrʌpt/"
+  },
+  {
+    "chinese": "活跃的(active)",
+    "english": "active",
+    "soundmark": "/ˈæktɪv/"
+  },
+  {
+    "chinese": "岩浆(lava)",
+    "english": "lava",
+    "soundmark": "/ˈlɑːvə/"
+  },
+  {
+    "chinese": "毁灭(destroy)",
+    "english": "destroy",
+    "soundmark": "/dɪˈstrɔɪ/"
+  },
+  {
+    "chinese": "灰烬(ash)",
+    "english": "ash",
+    "soundmark": "/æʃ/"
+  },
+  {
+    "chinese": "火山口(crater)",
+    "english": "crater",
+    "soundmark": "/ˈkreɪtər/"
+  },
+  {
+    "chinese": "科学家(scientist)",
+    "english": "scientist",
+    "soundmark": "/ˈsaɪəntɪst/"
+  },
+  {
+    "chinese": "地震(earthquake)",
+    "english": "earthquake",
+    "soundmark": "/ˈɜːrθkweɪk/"
+  },
+  {
+    "chinese": "火山爆发",
+    "english": "volcanic eruption",
+    "soundmark": "/vɒlˈkænɪk ɪˈrʌpʃən/"
+  },
+  {
+    "chinese": "活火山",
+    "english": "an active volcano",
+    "soundmark": "/ən ˈæktɪv vɒlˈkeɪnoʊ/"
+  },
+  {
+    "chinese": "已经一直在喷发",
+    "english": "had been erupting",
+    "soundmark": "/hæd biːn ɪˈrʌptɪŋ/"
+  },
+  {
+    "chinese": "火山在喷发前已经冒烟好几天了",
+    "english": "The volcano had been smoking for days before it erupted",
+    "soundmark": "/ðə vɒlˈkeɪnoʊ hæd biːn ˈsmoʊkɪŋ fɔːr deɪz bɪˈfɔːr ɪt ɪˈrʌptɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "volcano",
+        "role": "S",
+        "phonetic": "/vɒlˈkeɪnoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "smoking",
+        "role": "V",
+        "phonetic": "/ˈsmoʊkɪŋ/",
+        "chinese": "抽烟/烟"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "days",
+        "role": "A",
+        "phonetic": "/deɪz/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "erupted",
+        "role": "V",
+        "phonetic": "/ɪˈrʌptɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在我遇到他之前他已经在那家公司工作了十年",
+    "english": "He had been working for that company for ten years before I met him",
+    "soundmark": "/hiː hæd biːn ˈwɜːrkɪŋ fɔːr ðæt ˈkʌmpəni fɔːr ten jɪrz bɪˈfɔːr aɪ met hɪm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "working",
+        "role": "V",
+        "phonetic": "/ˈwɜːrkɪŋ/",
+        "chinese": "工作的/有效的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "company",
+        "role": "A",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "ten",
+        "role": "Det",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "met",
+        "role": "V",
+        "phonetic": "/met/",
+        "chinese": "遇见（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "她一直在等这个电话等了整整一天",
+    "english": "She had been waiting for the call all day",
+    "soundmark": "/ʃiː hæd biːn ˈweɪtɪŋ fɔːr ðə kɔːl ɔːl deɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "call",
+        "role": "O",
+        "phonetic": "/kɔːl/",
+        "chinese": "打电话/叫"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "他们赶了几个小时的路所以非常疲惫",
+    "english": "They had been driving for hours so they were very tired",
+    "soundmark": "/ðeɪ hæd biːn ˈdraɪvɪŋ fɔːr aʊərz soʊ ðeɪ wɜːr ˈveri taɪərd/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/aʊərz/",
+        "chinese": "小时"
+      },
+      {
+        "text": "so",
+        "role": "P",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/taɪərd/",
+        "chinese": "累的"
+      }
+    ]
+  },
+  {
+    "chinese": "地一直在震了好几个小时才停下来",
+    "english": "The ground had been shaking for hours before it stopped",
+    "soundmark": "/ðə ɡraʊnd hæd biːn ˈʃeɪkɪŋ fɔːr aʊərz bɪˈfɔːr ɪt stɒpt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ground",
+        "role": "S",
+        "phonetic": "/ɡraʊnd/",
+        "chinese": "地面"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "shaking",
+        "role": "V",
+        "phonetic": "/ˈʃeɪkɪŋ/",
+        "chinese": "摇"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/aʊərz/",
+        "chinese": "小时"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "stopped",
+        "role": "V",
+        "phonetic": "/stɒpt/",
+        "chinese": "停止（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "在我到这里之前雨已经下了三天了",
+    "english": "It had been raining for three days before I arrived",
+    "soundmark": "/ɪt hæd biːn ˈreɪnɪŋ fɔːr θriː deɪz bɪˈfɔːr aɪ əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "days",
+        "role": "A",
+        "phonetic": "/deɪz/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "火山(volcano)",
+    "english": "volcano",
+    "soundmark": "/vɒlˈkeɪnoʊ/"
+  },
+  {
+    "chinese": "喷发(erupt)",
+    "english": "erupt",
+    "soundmark": "/ɪˈrʌpt/"
+  },
+  {
+    "chinese": "活跃的(active)",
+    "english": "active",
+    "soundmark": "/ˈæktɪv/"
+  },
+  {
+    "chinese": "岩浆(lava)",
+    "english": "lava",
+    "soundmark": "/ˈlɑːvə/"
+  },
+  {
+    "chinese": "灰烬(ash)",
+    "english": "ash",
+    "soundmark": "/æʃ/"
+  },
+  {
+    "chinese": "地震(earthquake)",
+    "english": "earthquake",
+    "soundmark": "/ˈɜːrθkweɪk/"
+  },
+  {
+    "chinese": "一直在做(had been doing)",
+    "english": "had been doing",
+    "soundmark": "/hæd biːn ˈduːɪŋ/"
+  }
+]

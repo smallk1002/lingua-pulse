@@ -1,0 +1,275 @@
+[
+  {
+    "chinese": "本能",
+    "english": "instinct",
+    "soundmark": "/ˈɪnstɪŋkt/"
+  },
+  {
+    "chinese": "聪明",
+    "english": "cleverness",
+    "soundmark": "/ˈklevərnəs/"
+  },
+  {
+    "chinese": "昆虫",
+    "english": "insect",
+    "soundmark": "/ˈɪnsekt/"
+  },
+  {
+    "chinese": "行为",
+    "english": "behaviour",
+    "soundmark": "/bɪˈheɪvjər/"
+  },
+  {
+    "chinese": "生存",
+    "english": "survival",
+    "soundmark": "/sərˈvaɪvəl/"
+  },
+  {
+    "chinese": "适应",
+    "english": "adapt",
+    "soundmark": "/əˈdæpt/"
+  },
+  {
+    "chinese": "蜘蛛",
+    "english": "spider",
+    "soundmark": "/ˈspaɪdər/"
+  },
+  {
+    "chinese": "织网",
+    "english": "spin a web",
+    "soundmark": "/spɪn ə web/"
+  },
+  {
+    "chinese": "绝不",
+    "english": "by no means",
+    "soundmark": "/baɪ noʊ miːnz/"
+  },
+  {
+    "chinese": "正是本能",
+    "english": "it is instinct that",
+    "soundmark": "/ɪt ɪz ˈɪnstɪŋkt ðæt/"
+  },
+  {
+    "chinese": "正是本能引导它们。",
+    "english": "It is instinct that guides them",
+    "soundmark": "/ɪt ɪz ˈɪnstɪŋkt ðæt ɡaɪdz ðem/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "instinct",
+        "role": "C",
+        "phonetic": "/ˈɪnstɪŋkt/",
+        "chinese": "本能"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "guides",
+        "role": "V",
+        "phonetic": "/ɡaɪdz/",
+        "chinese": ""
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðem/",
+        "chinese": "他们"
+      }
+    ]
+  },
+  {
+    "chinese": "只有通过观察我们才能理解它们的行为。",
+    "english": "Only by observing can we understand their behaviour",
+    "soundmark": "/ˈoʊnli baɪ əbˈzɜːrvɪŋ kæn wiː ˌʌndərˈstænd ðer bɪˈheɪvjər/",
+    "grammar": [
+      {
+        "text": "Only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "observing",
+        "role": "V",
+        "phonetic": "/əbˈzɜːrvɪŋ/",
+        "chinese": "观察"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "behaviour",
+        "role": "O",
+        "phonetic": "/bɪˈheɪvjər/",
+        "chinese": "行为"
+      }
+    ]
+  },
+  {
+    "chinese": "蜘蛛织网显示的是本能而非聪明。",
+    "english": "What the spider shows in spinning a web is instinct rather than cleverness",
+    "soundmark": "/wʌt ðə ˈspaɪdər ʃoʊz ɪn ˈspɪnɪŋ ə web ɪz ˈɪnstɪŋkt ˈræðər ðæn ˈklevərnəs/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "spider",
+        "role": "S",
+        "phonetic": "/ˈspaɪdər/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "shows",
+        "role": "V",
+        "phonetic": "/ʃoʊz/",
+        "chinese": "展示"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "spinning",
+        "role": "V",
+        "phonetic": "/ˈspɪnɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "web",
+        "role": "O",
+        "phonetic": "/web/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "instinct",
+        "role": "C",
+        "phonetic": "/ˈɪnstɪŋkt/",
+        "chinese": "本能"
+      },
+      {
+        "text": "rather",
+        "role": "Adv",
+        "phonetic": "/ˈræðər/",
+        "chinese": "相当/宁愿"
+      },
+      {
+        "text": "than",
+        "role": "A",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "cleverness",
+        "role": "C",
+        "phonetic": "/ˈklevərnəs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "本能",
+    "english": "instinct",
+    "soundmark": "/ˈɪnstɪŋkt/"
+  },
+  {
+    "chinese": "聪明",
+    "english": "cleverness",
+    "soundmark": "/ˈklevərnəs/"
+  },
+  {
+    "chinese": "昆虫",
+    "english": "insect",
+    "soundmark": "/ˈɪnsekt/"
+  },
+  {
+    "chinese": "行为",
+    "english": "behaviour",
+    "soundmark": "/bɪˈheɪvjər/"
+  },
+  {
+    "chinese": "生存",
+    "english": "survival",
+    "soundmark": "/sərˈvaɪvəl/"
+  },
+  {
+    "chinese": "适应",
+    "english": "adapt",
+    "soundmark": "/əˈdæpt/"
+  },
+  {
+    "chinese": "蜘蛛",
+    "english": "spider",
+    "soundmark": "/ˈspaɪdər/"
+  },
+  {
+    "chinese": "引导",
+    "english": "guide",
+    "soundmark": "/ɡaɪd/"
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "chinese": "音乐的",
+    "english": "musical",
+    "soundmark": "/ˈmjuːzɪkl/"
+  },
+  {
+    "chinese": "蛇",
+    "english": "snake",
+    "soundmark": "/sneɪk/"
+  },
+  {
+    "chinese": "跳舞",
+    "english": "dance",
+    "soundmark": "/dæns/"
+  },
+  {
+    "chinese": "市场",
+    "english": "market",
+    "soundmark": "/ˈmɑːrkɪt/"
+  },
+  {
+    "chinese": "篮子",
+    "english": "basket",
+    "soundmark": "/ˈbæskɪt/"
+  },
+  {
+    "chinese": "移动",
+    "english": "movement",
+    "soundmark": "/ˈmuːvmənt/"
+  },
+  {
+    "chinese": "继续",
+    "english": "continue",
+    "soundmark": "/kənˈtɪnjuː/"
+  },
+  {
+    "chinese": "区别",
+    "english": "difference",
+    "soundmark": "/ˈdɪfrəns/"
+  },
+  {
+    "chinese": "我们散步吧。",
+    "english": "Let us have a walk",
+    "soundmark": "/let ʌs hæv ə wɔːk/",
+    "grammar": [
+      {
+        "text": "Let us",
+        "role": "V",
+        "phonetic": "/let ʌs/",
+        "chinese": "让（过去式/过去分词）/我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a walk",
+        "role": "O",
+        "phonetic": "/ə wɔːk/",
+        "chinese": "一个/走"
+      }
+    ]
+  },
+  {
+    "chinese": "我想休息一下。",
+    "english": "I want to have a rest",
+    "soundmark": "/aɪ wɑːnt tuː hæv ə rest/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to have",
+        "role": "V",
+        "phonetic": "/tuː hæv/",
+        "chinese": "到/向/有/助动词"
+      },
+      {
+        "text": "a rest",
+        "role": "O",
+        "phonetic": "/ə rest/",
+        "chinese": "一个/休息/剩余"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨晚做了一个奇怪的梦。",
+    "english": "I had a strange dream last night",
+    "soundmark": "/aɪ hæd ə streɪndʒ driːm læst naɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a strange dream",
+        "role": "O",
+        "phonetic": "/ə streɪndʒ driːm/",
+        "chinese": "一个/奇怪的/梦/梦想"
+      },
+      {
+        "text": "last night",
+        "role": "A",
+        "phonetic": "/læst naɪt/",
+        "chinese": "昨晚"
+      }
+    ]
+  },
+  {
+    "chinese": "能看看你的新手机吗？",
+    "english": "May I have a look at your new phone",
+    "soundmark": "/meɪ aɪ hæv ə lʊk æt jɔːr nuː foʊn/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a look",
+        "role": "O",
+        "phonetic": "/ə lʊk/",
+        "chinese": "一个/看起来"
+      },
+      {
+        "text": "at your new phone",
+        "role": "A",
+        "phonetic": "/æt jɔːr nuː foʊn/",
+        "chinese": "在/你的/你们的/新的/电话"
+      }
+    ]
+  },
+  {
+    "chinese": "蛇跟着音乐移动。",
+    "english": "The snake moved to the music",
+    "soundmark": "/ðə sneɪk muːvd tuː ðə ˈmjuːzɪk/",
+    "grammar": [
+      {
+        "text": "The snake",
+        "role": "S",
+        "phonetic": "/ðə sneɪk/",
+        "chinese": "这个/那个/蛇"
+      },
+      {
+        "text": "moved",
+        "role": "V",
+        "phonetic": "/muːvd/",
+        "chinese": "移动"
+      },
+      {
+        "text": "to the music",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈmjuːzɪk/",
+        "chinese": "到/向/这个/那个/音乐"
+      }
+    ]
+  },
+  {
+    "chinese": "他不太懂音乐。",
+    "english": "He is not very musical",
+    "soundmark": "/hiː ɪz nɑːt ˈveri ˈmjuːzɪkl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "very musical",
+        "role": "C",
+        "phonetic": "/ˈveri ˈmjuːzɪkl/",
+        "chinese": "非常"
+      }
+    ]
+  },
+  {
+    "chinese": "我们来聊聊天吧。",
+    "english": "Let us have a chat",
+    "soundmark": "/let ʌs hæv ə tʃæt/",
+    "grammar": [
+      {
+        "text": "Let us",
+        "role": "V",
+        "phonetic": "/let ʌs/",
+        "chinese": "让（过去式/过去分词）/我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a chat",
+        "role": "O",
+        "phonetic": "/ə tʃæt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "她游完泳后洗了个澡。",
+    "english": "She had a bath after swimming",
+    "soundmark": "/ʃiː hæd ə bæθ ˈæftər ˈswɪmɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a bath",
+        "role": "O",
+        "phonetic": "/ə bæθ/",
+        "chinese": "一个"
+      },
+      {
+        "text": "after swimming",
+        "role": "A",
+        "phonetic": "/ˈæftər ˈswɪmɪŋ/",
+        "chinese": "在…之后/正在…(游泳)"
+      }
+    ]
+  },
+  {
+    "chinese": "吹笛子的人能在市场上赚到很多钱。",
+    "english": "The snake charmer could make a lot of money at the market",
+    "soundmark": "/ðə sneɪk ˈtʃɑːrmər kʊd meɪk ə lɑːt əv ˈmʌni æt ðə ˈmɑːrkɪt/",
+    "grammar": [
+      {
+        "text": "The snake charmer",
+        "role": "S",
+        "phonetic": "/ðə sneɪk ˈtʃɑːrmər/",
+        "chinese": "这个/那个/蛇"
+      },
+      {
+        "text": "could make",
+        "role": "V",
+        "phonetic": "/kʊd meɪk/",
+        "chinese": "可以/能（过去式）/做/让"
+      },
+      {
+        "text": "a lot of money",
+        "role": "O",
+        "phonetic": "/ə lɑːt əv ˈmʌni/",
+        "chinese": "一个/许多/…的/钱"
+      },
+      {
+        "text": "at the market",
+        "role": "A",
+        "phonetic": "/æt ðə ˈmɑːrkɪt/",
+        "chinese": "在/这个/那个/市场"
+      }
+    ]
+  },
+  {
+    "chinese": "这两种音乐有很大区别。",
+    "english": "There is a big difference between the two kinds of music",
+    "soundmark": "/ðer ɪz ə bɪɡ ˈdɪfrəns bɪˈtwiːn ðə tuː kaɪndz əv ˈmjuːzɪk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a big difference",
+        "role": "C",
+        "phonetic": "/ə bɪɡ ˈdɪfrəns/",
+        "chinese": "一个/大的"
+      },
+      {
+        "text": "between the two kinds of music",
+        "role": "A",
+        "phonetic": "/bɪˈtwiːn ðə tuː kaɪndz əv ˈmjuːzɪk/",
+        "chinese": "在…之间/这个/那个/二/…们/复数(善良的)/…的/音乐"
+      }
+    ]
+  },
+  {
+    "chinese": "他吃了一顿丰盛的晚餐。",
+    "english": "He had a big dinner last night",
+    "soundmark": "/hiː hæd ə bɪɡ ˈdɪnər læst naɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a big dinner",
+        "role": "O",
+        "phonetic": "/ə bɪɡ ˈdɪnər/",
+        "chinese": "一个/大的"
+      },
+      {
+        "text": "last night",
+        "role": "A",
+        "phonetic": "/læst naɪt/",
+        "chinese": "昨晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我们来试一下吧。",
+    "english": "Let us have a try",
+    "soundmark": "/let ʌs hæv ə traɪ/",
+    "grammar": [
+      {
+        "text": "Let us",
+        "role": "V",
+        "phonetic": "/let ʌs/",
+        "chinese": "让（过去式/过去分词）/我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a try",
+        "role": "O",
+        "phonetic": "/ə traɪ/",
+        "chinese": "一个/尝试"
+      }
+    ]
+  },
+  {
+    "chinese": "休息",
+    "english": "rest",
+    "soundmark": "/rest/"
+  },
+  {
+    "chinese": "梦",
+    "english": "dream",
+    "soundmark": "/driːm/"
+  },
+  {
+    "chinese": "澡",
+    "english": "bath",
+    "soundmark": "/bæθ/"
+  },
+  {
+    "chinese": "聊天",
+    "english": "chat",
+    "soundmark": "/tʃæt/"
+  },
+  {
+    "chinese": "尝试",
+    "english": "try",
+    "soundmark": "/traɪ/"
+  },
+  {
+    "chinese": "手机",
+    "english": "phone",
+    "soundmark": "/foʊn/"
+  },
+  {
+    "chinese": "赚",
+    "english": "make",
+    "soundmark": "/meɪk/"
+  },
+  {
+    "chinese": "之间",
+    "english": "between",
+    "soundmark": "/bɪˈtwiːn/"
+  }
+]

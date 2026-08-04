@@ -1,0 +1,692 @@
+[
+  {
+    "chinese": "荒岛",
+    "english": "desert island",
+    "soundmark": "/ˈdezərt/ /ˈaɪlənd/"
+  },
+  {
+    "chinese": "生存",
+    "english": "survive",
+    "soundmark": "/sərˈvaɪv/"
+  },
+  {
+    "chinese": "椰子",
+    "english": "coconut",
+    "soundmark": "/ˈkoʊkənʌt/"
+  },
+  {
+    "chinese": "淡水",
+    "english": "fresh water",
+    "soundmark": "/freʃ/ /ˈwɔːtər/"
+  },
+  {
+    "chinese": "棚屋",
+    "english": "hut",
+    "soundmark": "/hʌt/"
+  },
+  {
+    "chinese": "孤独",
+    "english": "loneliness",
+    "soundmark": "/ˈloʊnlinəs/"
+  },
+  {
+    "chinese": "鱼",
+    "english": "fish",
+    "soundmark": "/fɪʃ/"
+  },
+  {
+    "chinese": "贝壳",
+    "english": "shell",
+    "soundmark": "/ʃel/"
+  },
+  {
+    "chinese": "希望",
+    "english": "hope",
+    "soundmark": "/hoʊp/"
+  },
+  {
+    "chinese": "获救",
+    "english": "be rescued",
+    "soundmark": "/biː/ /ˈreskjuːd/"
+  },
+  {
+    "chinese": "生火",
+    "english": "make a fire",
+    "soundmark": "/meɪk/ /ə/ /faɪər/"
+  },
+  {
+    "chinese": "捕鱼",
+    "english": "catch fish",
+    "soundmark": "/kætʃ/ /fɪʃ/"
+  },
+  {
+    "chinese": "搭建棚屋",
+    "english": "build a hut",
+    "soundmark": "/bɪld/ /ə/ /hʌt/"
+  },
+  {
+    "chinese": "如果你被困荒岛你会怎么办",
+    "english": "What would you do if you were stranded on a desert island",
+    "soundmark": "/wʌt/ /wʊd/ /juː/ /duː/ /ɪf/ /juː/ /wɜːr/ /ˈstrændɪd/ /ɑːn/ /ə/ /ˈdezərt/ /ˈaɪlənd/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "stranded",
+        "role": "C",
+        "phonetic": "/ˈstrændɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "desert",
+        "role": "A",
+        "phonetic": "/ˈdezərt/",
+        "chinese": ""
+      },
+      {
+        "text": "island",
+        "role": "A",
+        "phonetic": "/ˈaɪlənd/",
+        "chinese": "岛屿"
+      }
+    ]
+  },
+  {
+    "chinese": "大多数人认为荒岛生活很浪漫",
+    "english": "Most people think life on a desert island is romantic",
+    "soundmark": "/moʊst/ /ˈpiːpəl/ /θɪŋk/ /laɪf/ /ɑːn/ /ə/ /ˈdezərt/ /ˈaɪlənd/ /ɪz/ /roʊˈmæntɪk/",
+    "grammar": [
+      {
+        "text": "Most",
+        "role": "Det",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "life",
+        "role": "S",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "desert",
+        "role": "A",
+        "phonetic": "/ˈdezərt/",
+        "chinese": ""
+      },
+      {
+        "text": "island",
+        "role": "A",
+        "phonetic": "/ˈaɪlənd/",
+        "chinese": "岛屿"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "romantic",
+        "role": "C",
+        "phonetic": "/roʊˈmæntɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果你有椰子树你就有食物了",
+    "english": "If you have coconut trees you have food",
+    "soundmark": "/ɪf/ /juː/ /hæv/ /ˈkoʊkənʌt/ /triːz/ /juː/ /hæv/ /fuːd/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "coconut",
+        "role": "A",
+        "phonetic": "/ˈkoʊkənʌt/",
+        "chinese": ""
+      },
+      {
+        "text": "trees",
+        "role": "O",
+        "phonetic": "/triːz/",
+        "chinese": "树"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "food",
+        "role": "O",
+        "phonetic": "/fuːd/",
+        "chinese": "食物"
+      }
+    ]
+  },
+  {
+    "chinese": "如果没有淡水你就活不下去",
+    "english": "If you had no fresh water you would not survive",
+    "soundmark": "/ɪf/ /juː/ /hæd/ /noʊ/ /freʃ/ /ˈwɔːtər/ /juː/ /wʊd/ /nɑːt/ /sərˈvaɪv/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "fresh",
+        "role": "A",
+        "phonetic": "/freʃ/",
+        "chinese": "新鲜的"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "survive",
+        "role": "V",
+        "phonetic": "/sərˈvaɪv/",
+        "chinese": "幸存"
+      }
+    ]
+  },
+  {
+    "chinese": "他们不会感到孤独",
+    "english": "They would not feel lonely",
+    "soundmark": "/ðeɪ/ /wʊd/ /nɑːt/ /fiːl/ /ˈloʊnli/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "feel",
+        "role": "V",
+        "phonetic": "/fiːl/",
+        "chinese": "感觉"
+      },
+      {
+        "text": "lonely",
+        "role": "C",
+        "phonetic": "/ˈloʊnli/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "要是我会捕鱼就好了",
+    "english": "If only I could catch fish",
+    "soundmark": "/ɪf/ /ˈoʊnli/ /aɪ/ /kʊd/ /kætʃ/ /fɪʃ/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "catch",
+        "role": "V",
+        "phonetic": "/kætʃ/",
+        "chinese": "抓住"
+      },
+      {
+        "text": "fish",
+        "role": "O",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "如果他没有工具他就无法建棚屋",
+    "english": "If he had no tools he could not build a hut",
+    "soundmark": "/ɪf/ /hiː/ /hæd/ /noʊ/ /tuːlz/ /hiː/ /kʊd/ /nɑːt/ /bɪld/ /ə/ /hʌt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "tools",
+        "role": "O",
+        "phonetic": "/tuːlz/",
+        "chinese": "工具"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "build",
+        "role": "V",
+        "phonetic": "/bɪld/",
+        "chinese": "建造"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "hut",
+        "role": "O",
+        "phonetic": "/hʌt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "即使你有食物你也需要火来烹饪",
+    "english": "Even if you had food you would need fire to cook",
+    "soundmark": "/ˈiːvən/ /ɪf/ /juː/ /hæd/ /fuːd/ /juː/ /wʊd/ /niːd/ /faɪər/ /tuː/ /kʊk/",
+    "grammar": [
+      {
+        "text": "Even",
+        "role": "Adv",
+        "phonetic": "/ˈiːvən/",
+        "chinese": "甚至"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "food",
+        "role": "O",
+        "phonetic": "/fuːd/",
+        "chinese": "食物"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "fire",
+        "role": "O",
+        "phonetic": "/faɪər/",
+        "chinese": "火"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "cook",
+        "role": "V",
+        "phonetic": "/kʊk/",
+        "chinese": "烹饪"
+      }
+    ]
+  },
+  {
+    "chinese": "荒岛",
+    "english": "desert island",
+    "soundmark": "/ˈdezərt/ /ˈaɪlənd/"
+  },
+  {
+    "chinese": "被困",
+    "english": "stranded",
+    "soundmark": "/ˈstrændɪd/"
+  },
+  {
+    "chinese": "浪漫的",
+    "english": "romantic",
+    "soundmark": "/roʊˈmæntɪk/"
+  },
+  {
+    "chinese": "工具",
+    "english": "tool",
+    "soundmark": "/tuːl/"
+  },
+  {
+    "chinese": "孤独的",
+    "english": "lonely",
+    "soundmark": "/ˈloʊnli/"
+  },
+  {
+    "chinese": "烹饪",
+    "english": "cook",
+    "soundmark": "/kʊk/"
+  },
+  {
+    "chinese": "火",
+    "english": "fire",
+    "soundmark": "/faɪər/"
+  },
+  {
+    "chinese": "即使",
+    "english": "even if",
+    "soundmark": "/ˈiːvən/ /ɪf/"
+  },
+  {
+    "chinese": "如果把他们单独留在荒岛上大多数人会发现生存极为困难",
+    "english": "If left alone on a desert island most people would find survival extremely difficult",
+    "soundmark": "/ɪf/ /left/ /əˈloʊn/ /ɑːn/ /ə/ /ˈdezərt/ /ˈaɪlənd/ /moʊst/ /ˈpiːpəl/ /wʊd/ /faɪnd/ /sərˈvaɪvəl/ /ɪkˈstriːmli/ /ˈdɪfɪkəlt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "alone",
+        "role": "C",
+        "phonetic": "/əˈloʊn/",
+        "chinese": "孤单的"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "desert",
+        "role": "A",
+        "phonetic": "/ˈdezərt/",
+        "chinese": ""
+      },
+      {
+        "text": "island",
+        "role": "A",
+        "phonetic": "/ˈaɪlənd/",
+        "chinese": "岛屿"
+      },
+      {
+        "text": "most",
+        "role": "Det",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "survival",
+        "role": "O",
+        "phonetic": "/sərˈvaɪvəl/",
+        "chinese": ""
+      },
+      {
+        "text": "extremely",
+        "role": "Adv",
+        "phonetic": "/ɪkˈstriːmli/",
+        "chinese": "极其"
+      },
+      {
+        "text": "difficult",
+        "role": "C",
+        "phonetic": "/ˈdɪfɪkəlt/",
+        "chinese": "困难的"
+      }
+    ]
+  }
+]

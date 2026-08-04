@@ -1,0 +1,1634 @@
+[
+  {
+    "chinese": "速度",
+    "english": "speed",
+    "soundmark": "/spiːd/"
+  },
+  {
+    "chinese": "声音",
+    "english": "sound",
+    "soundmark": "/saʊnd/"
+  },
+  {
+    "chinese": "比赛",
+    "english": "race",
+    "soundmark": "/reɪs/"
+  },
+  {
+    "chinese": "发动机",
+    "english": "engine",
+    "soundmark": "/ˈendʒɪn/"
+  },
+  {
+    "chinese": "打破纪录",
+    "english": "break the record",
+    "soundmark": "/breɪk ðə ˈrekərd/"
+  },
+  {
+    "chinese": "每小时",
+    "english": "per hour",
+    "soundmark": "/pɜːr aʊər/"
+  },
+  {
+    "chinese": "英里",
+    "english": "mile",
+    "soundmark": "/maɪl/"
+  },
+  {
+    "chinese": "公里",
+    "english": "kilometer",
+    "soundmark": "/kɪˈlɑːmɪtər/"
+  },
+  {
+    "chinese": "远距离",
+    "english": "distance",
+    "soundmark": "/ˈdɪstəns/"
+  },
+  {
+    "chinese": "测量",
+    "english": "measure",
+    "soundmark": "/ˈmeʒər/"
+  },
+  {
+    "chinese": "比声音更快",
+    "english": "faster than sound",
+    "soundmark": "/ˈfæstər ðæn saʊnd/"
+  },
+  {
+    "chinese": "和光一样快",
+    "english": "as fast as light",
+    "soundmark": "/æz fæst æz laɪt/"
+  },
+  {
+    "chinese": "最高速度",
+    "english": "top speed",
+    "soundmark": "/tɑːp spiːd/"
+  },
+  {
+    "chinese": "保持纪录",
+    "english": "hold a record",
+    "soundmark": "/hoʊld ə ˈrekərd/"
+  },
+  {
+    "chinese": "飞驰而过",
+    "english": "speed past",
+    "soundmark": "/spiːd pæst/"
+  },
+  {
+    "chinese": "造得更快",
+    "english": "build faster",
+    "soundmark": "/bɪld ˈfæstər/"
+  },
+  {
+    "chinese": "这辆车更快",
+    "english": "This car is faster",
+    "soundmark": "/ðɪs kɑːr ɪz ˈfæstər/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "faster",
+        "role": "C",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      }
+    ]
+  },
+  {
+    "chinese": "那辆旧车比他想象的要慢",
+    "english": "The old car was slower than he expected",
+    "soundmark": "/ðə oʊld kɑːr wʌz ˈsloʊər ðæn hiː ɪkˈspektɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "slower",
+        "role": "C",
+        "phonetic": "/ˈsloʊər/",
+        "chinese": "更…的/…者(慢的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "expected",
+        "role": "V",
+        "phonetic": "/ɪkˈspektɪd/",
+        "chinese": "预期的"
+      }
+    ]
+  },
+  {
+    "chinese": "这赛道比他之前跑的更长",
+    "english": "The track was longer than the one before",
+    "soundmark": "/ðə træk wʌz ˈlɔːŋɡər ðæn ðə wʌn bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "track",
+        "role": "S",
+        "phonetic": "/træk/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "longer",
+        "role": "C",
+        "phonetic": "/ˈlɔːŋɡər/",
+        "chinese": "更…的/…者(长的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "他的表和我的一样准",
+    "english": "His watch is as accurate as mine",
+    "soundmark": "/hɪz wɑːtʃ ɪz æz ˈækjərət æz maɪn/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "watch",
+        "role": "S",
+        "phonetic": "/wɑːtʃ/",
+        "chinese": "观看"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "accurate",
+        "role": "C",
+        "phonetic": "/ˈækjərət/",
+        "chinese": "准确的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "mine",
+        "role": "O",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "飞机不如火箭快",
+    "english": "A plane is not as fast as a rocket",
+    "soundmark": "/ə pleɪn ɪz nɑːt æz fæst æz ə ˈrɑːkɪt/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "plane",
+        "role": "S",
+        "phonetic": "/pleɪn/",
+        "chinese": "飞机"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "fast",
+        "role": "C",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "rocket",
+        "role": "O",
+        "phonetic": "/ˈrɑːkɪt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这个引擎马力比以前大得多",
+    "english": "This engine is much more powerful than before",
+    "soundmark": "/ðɪs ˈendʒɪn ɪz mʌtʃ mɔːr ˈpaʊərfəl ðæn bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "engine",
+        "role": "S",
+        "phonetic": "/ˈendʒɪn/",
+        "chinese": "引擎"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "powerful",
+        "role": "C",
+        "phonetic": "/ˈpaʊərfəl/",
+        "chinese": ""
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "他越老就越有智慧",
+    "english": "The older he gets the wiser he becomes",
+    "soundmark": "/ðə ˈoʊldər hiː ɡets ðə ˈwaɪzər hiː bɪˈkʌmz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "older",
+        "role": "C",
+        "phonetic": "/ˈoʊldər/",
+        "chinese": "更…的/…者(老的/旧的)"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "gets",
+        "role": "V",
+        "phonetic": "/ɡets/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wiser",
+        "role": "C",
+        "phonetic": "/ˈwaɪzər/",
+        "chinese": "更…的/…者(明智的)"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "becomes",
+        "role": "Lv",
+        "phonetic": "/bɪˈkʌmz/",
+        "chinese": "变成"
+      }
+    ]
+  },
+  {
+    "chinese": "它跑得越来越快了",
+    "english": "It is going faster and faster",
+    "soundmark": "/ɪt ɪz ˈɡoʊɪŋ ˈfæstər ænd ˈfæstər/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "faster",
+        "role": "Adv",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "faster",
+        "role": "Adv",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      }
+    ]
+  },
+  {
+    "chinese": "那是最快的一圈",
+    "english": "That was the fastest lap",
+    "soundmark": "/ðæt wʌz ðə ˈfæstɪst læp/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fastest",
+        "role": "A",
+        "phonetic": "/ˈfæstɪst/",
+        "chinese": "最快地"
+      },
+      {
+        "text": "lap",
+        "role": "C",
+        "phonetic": "/læp/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他们造出了世上最快的赛车",
+    "english": "They built the fastest racing car in the world",
+    "soundmark": "/ðeɪ bɪlt ðə ˈfæstɪst ˈreɪsɪŋ kɑːr ɪn ðə wɜːrld/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fastest",
+        "role": "A",
+        "phonetic": "/ˈfæstɪst/",
+        "chinese": "最快地"
+      },
+      {
+        "text": "racing",
+        "role": "A",
+        "phonetic": "/ˈreɪsɪŋ/",
+        "chinese": "赛跑"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "A",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      }
+    ]
+  },
+  {
+    "chinese": "他比别人跑得快得多",
+    "english": "He runs much faster than the others",
+    "soundmark": "/hiː rʌnz mʌtʃ ˈfæstər ðæn ðə ˈʌðərz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "runs",
+        "role": "V",
+        "phonetic": "/rʌnz/",
+        "chinese": "跑"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "faster",
+        "role": "Adv",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "others",
+        "role": "O",
+        "phonetic": "/ˈʌðərz/",
+        "chinese": "其他"
+      }
+    ]
+  },
+  {
+    "chinese": "我的车几乎和你的车一样快",
+    "english": "My car is almost as fast as yours",
+    "soundmark": "/maɪ kɑːr ɪz ˈɔːlmoʊst æz fæst æz jɔːrz/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "almost",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlmoʊst/",
+        "chinese": "几乎"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "fast",
+        "role": "C",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "yours",
+        "role": "O",
+        "phonetic": "/jɔːrz/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "一圈不同于一圈",
+    "english": "No two laps are exactly the same",
+    "soundmark": "/noʊ tuː læps ɑːr ɪɡˈzæktli ðə seɪm/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "laps",
+        "role": "S",
+        "phonetic": "/læps/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "exactly",
+        "role": "Adv",
+        "phonetic": "/ɪɡˈzæktli/",
+        "chinese": "确切地"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "same",
+        "role": "C",
+        "phonetic": "/seɪm/",
+        "chinese": "相同的"
+      }
+    ]
+  },
+  {
+    "chinese": "谁能跑得比车快",
+    "english": "Who can run faster than a car",
+    "soundmark": "/huː kæn rʌn ˈfæstər ðæn ə kɑːr/",
+    "grammar": [
+      {
+        "text": "Who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "faster",
+        "role": "Adv",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "他们的设计比我们的更先进",
+    "english": "Their design is more advanced than ours",
+    "soundmark": "/ðer dɪˈzaɪn ɪz mɔːr ədˈvænst ðæn aʊərz/",
+    "grammar": [
+      {
+        "text": "Their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "design",
+        "role": "S",
+        "phonetic": "/dɪˈzaɪn/",
+        "chinese": "设计"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "advanced",
+        "role": "C",
+        "phonetic": "/ədˈvænst/",
+        "chinese": ""
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "ours",
+        "role": "O",
+        "phonetic": "/aʊərz/",
+        "chinese": "我们的"
+      }
+    ]
+  },
+  {
+    "chinese": "你开的越快风险越大",
+    "english": "The faster you drive the greater the risk",
+    "soundmark": "/ðə ˈfæstər juː draɪv ðə ˈɡreɪtər ðə rɪsk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "faster",
+        "role": "Adv",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "drive",
+        "role": "V",
+        "phonetic": "/draɪv/",
+        "chinese": "驾驶"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "greater",
+        "role": "A",
+        "phonetic": "/ˈɡreɪtər/",
+        "chinese": "更…的/…者(伟大的/很棒的)"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "risk",
+        "role": "S",
+        "phonetic": "/rɪsk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那圈比我预想的快",
+    "english": "That lap was faster than I expected",
+    "soundmark": "/ðæt læp wʌz ˈfæstər ðæn aɪ ɪkˈspektɪd/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "lap",
+        "role": "S",
+        "phonetic": "/læp/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "faster",
+        "role": "C",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "expected",
+        "role": "V",
+        "phonetic": "/ɪkˈspektɪd/",
+        "chinese": "预期的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们的新引擎比旧的好出了不少",
+    "english": "Our new engine is a good deal better than the old one",
+    "soundmark": "/aʊər nuː ˈendʒɪn ɪz ə ɡʊd diːl ˈbetər ðæn ðə oʊld wʌn/",
+    "grammar": [
+      {
+        "text": "Our",
+        "role": "Det",
+        "phonetic": "/aʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "engine",
+        "role": "S",
+        "phonetic": "/ˈendʒɪn/",
+        "chinese": "引擎"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "A",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "deal",
+        "role": "Adv",
+        "phonetic": "/diːl/",
+        "chinese": ""
+      },
+      {
+        "text": "better",
+        "role": "C",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "这个赛道和以前的不一样",
+    "english": "This track is not the same as the old one",
+    "soundmark": "/ðɪs træk ɪz nɑːt ðə seɪm æz ðə oʊld wʌn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "track",
+        "role": "S",
+        "phonetic": "/træk/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "same",
+        "role": "C",
+        "phonetic": "/seɪm/",
+        "chinese": "相同的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我们没能像我们希望的那样赢得比赛",
+    "english": "We could not win the race as easily as we hoped",
+    "soundmark": "/wiː kʊd nɑːt wɪn ðə reɪs æz ˈiːzɪli æz wiː hoʊpt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "win",
+        "role": "V",
+        "phonetic": "/wɪn/",
+        "chinese": "赢"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "race",
+        "role": "O",
+        "phonetic": "/reɪs/",
+        "chinese": "赛跑"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "easily",
+        "role": "Adv",
+        "phonetic": "/ˈiːzɪli/",
+        "chinese": "…地(容易的)"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "hoped",
+        "role": "V",
+        "phonetic": "/hoʊpt/",
+        "chinese": "希望"
+      }
+    ]
+  },
+  {
+    "chinese": "这发动机没那台马力足",
+    "english": "This engine is less powerful than that one",
+    "soundmark": "/ðɪs ˈendʒɪn ɪz les ˈpaʊərfəl ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "engine",
+        "role": "S",
+        "phonetic": "/ˈendʒɪn/",
+        "chinese": "引擎"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "less",
+        "role": "Adv",
+        "phonetic": "/les/",
+        "chinese": "更少"
+      },
+      {
+        "text": "powerful",
+        "role": "C",
+        "phonetic": "/ˈpaʊərfəl/",
+        "chinese": ""
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "纪录后来被一名新选手打破了",
+    "english": "The record was later broken by a new driver",
+    "soundmark": "/ðə ˈrekərd wʌz ˈleɪtər ˈbroʊkən baɪ ə nuː ˈdraɪvər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "record",
+        "role": "S",
+        "phonetic": "/ˈrekərd/",
+        "chinese": "记录"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "later",
+        "role": "Adv",
+        "phonetic": "/ˈleɪtər/",
+        "chinese": "后来"
+      },
+      {
+        "text": "broken",
+        "role": "V",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "driver",
+        "role": "O",
+        "phonetic": "/ˈdraɪvər/",
+        "chinese": "司机"
+      }
+    ]
+  },
+  {
+    "chinese": "他以超音速行驶打破了好几次纪录",
+    "english": "He broke several records by driving faster than sound",
+    "soundmark": "/hiː broʊk ˈsevrəl ˈrekərdz baɪ ˈdraɪvɪŋ ˈfæstər ðæn saʊnd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "broke",
+        "role": "V",
+        "phonetic": "/broʊk/",
+        "chinese": ""
+      },
+      {
+        "text": "several",
+        "role": "Det",
+        "phonetic": "/ˈsevrəl/",
+        "chinese": "几个"
+      },
+      {
+        "text": "records",
+        "role": "O",
+        "phonetic": "/ˈrekərdz/",
+        "chinese": "记录"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "faster",
+        "role": "Adv",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "sound",
+        "role": "O",
+        "phonetic": "/saʊnd/",
+        "chinese": "声音"
+      }
+    ]
+  },
+  {
+    "chinese": "最快的圈速几乎是她去年创下的两倍",
+    "english": "The fastest lap was nearly twice what she did last year",
+    "soundmark": "/ðə ˈfæstɪst læp wʌz ˈnɪrli twaɪs wʌt ʃiː dɪd læst jɪr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fastest",
+        "role": "A",
+        "phonetic": "/ˈfæstɪst/",
+        "chinese": "最快地"
+      },
+      {
+        "text": "lap",
+        "role": "S",
+        "phonetic": "/læp/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "nearly",
+        "role": "Adv",
+        "phonetic": "/ˈnɪrli/",
+        "chinese": "差不多"
+      },
+      {
+        "text": "twice",
+        "role": "Adv",
+        "phonetic": "/twaɪs/",
+        "chinese": ""
+      },
+      {
+        "text": "what",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "从没造出过比这辆车还快的赛车",
+    "english": "No one has ever built a racing car faster than this one",
+    "soundmark": "/noʊ wʌn hæz ˈevər bɪlt ə ˈreɪsɪŋ kɑːr ˈfæstər ðæn ðɪs wʌn/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "racing",
+        "role": "A",
+        "phonetic": "/ˈreɪsɪŋ/",
+        "chinese": "赛跑"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "faster",
+        "role": "A",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "这辆车和上次用同一引擎的那辆一样快",
+    "english": "This car is just as fast as the one with the same engine last time",
+    "soundmark": "/ðɪs kɑːr ɪz dʒʌst æz fæst æz ðə wʌn wɪð ðə seɪm ˈendʒɪn læst taɪm/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "fast",
+        "role": "C",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "same",
+        "role": "A",
+        "phonetic": "/seɪm/",
+        "chinese": "相同的"
+      },
+      {
+        "text": "engine",
+        "role": "O",
+        "phonetic": "/ˈendʒɪn/",
+        "chinese": "引擎"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "速度",
+    "english": "velocity",
+    "soundmark": "/vəˈlɑːsəti/"
+  },
+  {
+    "chinese": "加速",
+    "english": "accelerate",
+    "soundmark": "/əkˈseləreɪt/"
+  },
+  {
+    "chinese": "圈",
+    "english": "lap",
+    "soundmark": "/læp/"
+  },
+  {
+    "chinese": "车手",
+    "english": "driver",
+    "soundmark": "/ˈdraɪvər/"
+  },
+  {
+    "chinese": "强大的",
+    "english": "powerful",
+    "soundmark": "/ˈpaʊərfəl/"
+  },
+  {
+    "chinese": "精确的",
+    "english": "accurate",
+    "soundmark": "/ˈækjərət/"
+  },
+  {
+    "chinese": "先进的",
+    "english": "advanced",
+    "soundmark": "/ədˈvænst/"
+  },
+  {
+    "chinese": "比赛",
+    "english": "competition",
+    "soundmark": "/ˌkɑːmpəˈtɪʃən/"
+  },
+  {
+    "chinese": "轨道",
+    "english": "track",
+    "soundmark": "/træk/"
+  },
+  {
+    "chinese": "比赛计时",
+    "english": "racing",
+    "soundmark": "/ˈreɪsɪŋ/"
+  }
+]

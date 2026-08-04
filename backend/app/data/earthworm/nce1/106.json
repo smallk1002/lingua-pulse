@@ -1,0 +1,226 @@
+[
+  {
+    "english": "expensive",
+    "chinese": "昂贵的",
+    "soundmark": "/ɪkˈspensɪv/"
+  },
+  {
+    "english": "cheap",
+    "chinese": "便宜的",
+    "soundmark": "/tʃiːp/"
+  },
+  {
+    "english": "price",
+    "chinese": "价格",
+    "soundmark": "/praɪs/"
+  },
+  {
+    "english": "cost",
+    "chinese": "花费",
+    "soundmark": "/kɔːst/"
+  },
+  {
+    "english": "afford",
+    "chinese": "负担得起",
+    "soundmark": "/əˈfɔːrd/"
+  },
+  {
+    "english": "discount",
+    "chinese": "折扣",
+    "soundmark": "/ˈdɪskaʊnt/"
+  },
+  {
+    "chinese": "这个太贵了",
+    "english": "This is too expensive",
+    "soundmark": "/ðɪs ɪz tuː ɪkˈspensɪv/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "expensive",
+        "role": "C",
+        "phonetic": "/ɪkˈspensɪv/",
+        "chinese": "昂贵的"
+      }
+    ]
+  },
+  {
+    "chinese": "我负担不起这个价格",
+    "english": "I can't afford this price",
+    "soundmark": "/aɪ kænt əˈfɔːrd ðɪs praɪs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can't",
+        "role": "V",
+        "phonetic": "/kænt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "afford",
+        "role": "V",
+        "phonetic": "/əˈfɔːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "price",
+        "role": "O",
+        "phonetic": "/praɪs/",
+        "chinese": "价格"
+      }
+    ]
+  },
+  {
+    "chinese": "有更便宜的版本吗？",
+    "english": "Is there a cheaper version?",
+    "soundmark": "/ɪz ðer ə ˈtʃiːpər ˈvɜːrʒən/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cheaper",
+        "role": "Det",
+        "phonetic": "/ˈtʃiːpər/",
+        "chinese": "更…的/…者(便宜的)"
+      },
+      {
+        "text": "version",
+        "role": "C",
+        "phonetic": "/ˈvɜːrʒən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他们在打折",
+    "english": "They're having a discount",
+    "soundmark": "/ðer ˈhævɪŋ ə ˈdɪskaʊnt/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "他们"
+      },
+      {
+        "text": "'re",
+        "role": "V",
+        "phonetic": "/ər/",
+        "chinese": ""
+      },
+      {
+        "text": "having",
+        "role": "V",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "discount",
+        "role": "O",
+        "phonetic": "/ˈdɪskaʊnt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这花了我五十美元",
+    "english": "It cost me fifty dollars",
+    "soundmark": "/ɪt kɔːst miː ˈfɪfti ˈdɑːlərz/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "cost",
+        "role": "V",
+        "phonetic": "/kɔːst/",
+        "chinese": "花费"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "fifty",
+        "role": "Det",
+        "phonetic": "/ˈfɪfti/",
+        "chinese": "五十"
+      },
+      {
+        "text": "dollars",
+        "role": "O",
+        "phonetic": "/ˈdɑːlərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "english": "reasonable",
+    "chinese": "合理的",
+    "soundmark": "/ˈriːzənəbəl/"
+  },
+  {
+    "english": "overpriced",
+    "chinese": "定价过高的",
+    "soundmark": "/ˌoʊvərˈpraɪst/"
+  },
+  {
+    "english": "budget",
+    "chinese": "预算",
+    "soundmark": "/ˈbʌdʒɪt/"
+  }
+]

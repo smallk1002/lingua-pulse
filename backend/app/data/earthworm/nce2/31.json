@@ -1,0 +1,771 @@
+[
+  {
+    "chinese": "成功",
+    "english": "success",
+    "soundmark": "/səkˈses/"
+  },
+  {
+    "chinese": "故事",
+    "english": "story",
+    "soundmark": "/ˈstɔːri/"
+  },
+  {
+    "chinese": "退休",
+    "english": "retire",
+    "soundmark": "/rɪˈtaɪər/"
+  },
+  {
+    "chinese": "自行车",
+    "english": "bicycle",
+    "soundmark": "/ˈbaɪsɪkl/"
+  },
+  {
+    "chinese": "车间",
+    "english": "workshop",
+    "soundmark": "/ˈwɜːrkʃɑːp/"
+  },
+  {
+    "chinese": "助手",
+    "english": "helper",
+    "soundmark": "/ˈhelpər/"
+  },
+  {
+    "chinese": "雇用",
+    "english": "employ",
+    "soundmark": "/ɪmˈplɔɪ/"
+  },
+  {
+    "chinese": "公司",
+    "english": "company",
+    "soundmark": "/ˈkʌmpəni/"
+  },
+  {
+    "chinese": "过去常常",
+    "english": "used to",
+    "soundmark": "/juːst tuː/"
+  },
+  {
+    "chinese": "节约",
+    "english": "save",
+    "soundmark": "/seɪv/"
+  },
+  {
+    "chinese": "成功的故事",
+    "english": "success story",
+    "soundmark": "/səkˈses ˈstɔːri/"
+  },
+  {
+    "chinese": "修自行车",
+    "english": "repair bicycles",
+    "soundmark": "/rɪˈper ˈbaɪsɪklz/"
+  },
+  {
+    "chinese": "一个小车间",
+    "english": "a small workshop",
+    "soundmark": "/ə smɔːl ˈwɜːrkʃɑːp/"
+  },
+  {
+    "chinese": "在他二十多岁时",
+    "english": "in his twenties",
+    "soundmark": "/ɪn hɪz ˈtwentiz/"
+  },
+  {
+    "chinese": "存钱",
+    "english": "save money",
+    "soundmark": "/seɪv ˈmʌni/"
+  },
+  {
+    "chinese": "成功的人",
+    "english": "a successful man",
+    "soundmark": "/ə səkˈsesfl mæn/"
+  },
+  {
+    "chinese": "他过去常常在一间小车库里工作。",
+    "english": "He used to work in a small garage",
+    "soundmark": "/hiː juːst tuː wɜːrk ɪn ə smɔːl ɡəˈrɑːʒ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "in a small garage",
+        "role": "A",
+        "phonetic": "/ɪn ə smɔːl ɡəˈrɑːʒ/",
+        "chinese": "在…里/一个/小的"
+      }
+    ]
+  },
+  {
+    "chinese": "我过去常常骑自行车去上班。",
+    "english": "I used to ride a bicycle to work",
+    "soundmark": "/aɪ juːst tuː raɪd ə ˈbaɪsɪkl tuː wɜːrk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "ride",
+        "role": "V",
+        "phonetic": "/raɪd/",
+        "chinese": "骑"
+      },
+      {
+        "text": "a bicycle",
+        "role": "O",
+        "phonetic": "/ə ˈbaɪsɪkl/",
+        "chinese": "一个/自行车"
+      },
+      {
+        "text": "to work",
+        "role": "A",
+        "phonetic": "/tuː wɜːrk/",
+        "chinese": "上班"
+      }
+    ]
+  },
+  {
+    "chinese": "弗兰克过去常常修自行车。",
+    "english": "Frank used to repair bicycles",
+    "soundmark": "/fræŋk juːst tuː rɪˈper ˈbaɪsɪklz/",
+    "grammar": [
+      {
+        "text": "Frank",
+        "role": "S",
+        "phonetic": "/fræŋk/",
+        "chinese": ""
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "repair",
+        "role": "V",
+        "phonetic": "/rɪˈper/",
+        "chinese": "修理"
+      },
+      {
+        "text": "bicycles",
+        "role": "O",
+        "phonetic": "/ˈbaɪsɪklz/",
+        "chinese": "…们/复数(自行车)"
+      }
+    ]
+  },
+  {
+    "chinese": "现在他是一家大公司的老板。",
+    "english": "Now he is the head of a large company",
+    "soundmark": "/naʊ hiː ɪz ðə hed əv ə lɑːrdʒ ˈkʌmpəni/",
+    "grammar": [
+      {
+        "text": "Now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the head",
+        "role": "C",
+        "phonetic": "/ðə hed/",
+        "chinese": "这个/那个/头"
+      },
+      {
+        "text": "of a large company",
+        "role": "A",
+        "phonetic": "/əv ə lɑːrdʒ ˈkʌmpəni/",
+        "chinese": "…的/一个/大的/公司"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去不富裕。",
+    "english": "He did not use to be rich",
+    "soundmark": "/hiː dɪd nɑːt juːs tuː biː rɪtʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "did not use to",
+        "role": "V",
+        "phonetic": "/dɪd nɑːt juːs tuː/",
+        "chinese": "做/助动词（过去式）/不/使用/到/向"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "rich",
+        "role": "C",
+        "phonetic": "/rɪtʃ/",
+        "chinese": "富有的"
+      }
+    ]
+  },
+  {
+    "chinese": "你过去常常游泳吗？",
+    "english": "Did you use to swim",
+    "soundmark": "/dɪd juː juːs tuː swɪm/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "use to",
+        "role": "A",
+        "phonetic": "/juːs tuː/",
+        "chinese": "使用/到/向"
+      },
+      {
+        "text": "swim",
+        "role": "V",
+        "phonetic": "/swɪm/",
+        "chinese": "游泳"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常工作到深夜。",
+    "english": "He used to work until late at night",
+    "soundmark": "/hiː juːst tuː wɜːrk ʌnˈtɪl leɪt æt naɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "until late at night",
+        "role": "A",
+        "phonetic": "/ʌnˈtɪl leɪt æt naɪt/",
+        "chinese": "直到/晚/在/夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我父亲过去常常给我讲故事。",
+    "english": "My father used to tell me stories",
+    "soundmark": "/maɪ ˈfɑːðər juːst tuː tel miː ˈstɔːriz/",
+    "grammar": [
+      {
+        "text": "My father",
+        "role": "S",
+        "phonetic": "/maɪ ˈfɑːðər/",
+        "chinese": "我的/父亲"
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "stories",
+        "role": "O",
+        "phonetic": "/ˈstɔːriz/",
+        "chinese": "故事"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常穿着一件旧外套。",
+    "english": "He used to wear an old coat",
+    "soundmark": "/hiː juːst tuː wer ən oʊld koʊt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "wear",
+        "role": "V",
+        "phonetic": "/wer/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "an old coat",
+        "role": "O",
+        "phonetic": "/ən oʊld koʊt/",
+        "chinese": "一个/老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "她过去常常住在伦敦。",
+    "english": "She used to live in London",
+    "soundmark": "/ʃiː juːst tuː lɪv ɪn ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in London",
+        "role": "A",
+        "phonetic": "/ɪn ˈlʌndən/",
+        "chinese": "在…里/伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "现在他不像以前那样穷了。",
+    "english": "Now he is no longer as poor as he used to be",
+    "soundmark": "/naʊ hiː ɪz noʊ ˈlɔːŋɡər æz pʊr æz hiː juːst tuː biː/",
+    "grammar": [
+      {
+        "text": "Now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "no longer",
+        "role": "A",
+        "phonetic": "/noʊ ˈlɔːŋɡər/",
+        "chinese": "不再"
+      },
+      {
+        "text": "as poor as he used to be",
+        "role": "C",
+        "phonetic": "/æz pʊr æz hiː juːst tuː biː/",
+        "chinese": "当…时/作为/因为/贫穷的/当…时/作为/因为/他/用过的/习惯的/到/向/是"
+      }
+    ]
+  },
+  {
+    "chinese": "他年轻时曾在部队服役过。",
+    "english": "He used to serve in the army when he was young",
+    "soundmark": "/hiː juːst tuː sɜːrv ɪn ðə ˈɑːrmi wen hiː wʌz jʌŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "serve",
+        "role": "V",
+        "phonetic": "/sɜːrv/",
+        "chinese": "服务/上菜"
+      },
+      {
+        "text": "in the army",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈɑːrmi/",
+        "chinese": "在…里/这个/那个/军队"
+      },
+      {
+        "text": "when he was young",
+        "role": "A",
+        "phonetic": "/wen hiː wʌz jʌŋ/",
+        "chinese": "什么时候/他/是（过去式）/年轻的"
+      }
+    ]
+  },
+  {
+    "chinese": "他攒够了钱就开了自己的店。",
+    "english": "He saved enough money and opened his own shop",
+    "soundmark": "/hiː seɪvd ɪˈnʌf ˈmʌni ænd ˈoʊpənd hɪz oʊn ʃɑːp/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "saved",
+        "role": "V",
+        "phonetic": "/seɪvd/",
+        "chinese": "保存/救"
+      },
+      {
+        "text": "enough money",
+        "role": "O",
+        "phonetic": "/ɪˈnʌf ˈmʌni/",
+        "chinese": "足够/钱"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "opened his own shop",
+        "role": "V",
+        "phonetic": "/ˈoʊpənd hɪz oʊn ʃɑːp/",
+        "chinese": "打开的/他的/自己的/商店"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常每天步行五英里去学校。",
+    "english": "He used to walk five miles to school every day",
+    "soundmark": "/hiː juːst tuː wɔːk faɪv maɪlz tuː skuːl ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "five miles",
+        "role": "A",
+        "phonetic": "/faɪv maɪlz/",
+        "chinese": "五"
+      },
+      {
+        "text": "to school",
+        "role": "A",
+        "phonetic": "/tuː skuːl/",
+        "chinese": "上学"
+      },
+      {
+        "text": "every day",
+        "role": "A",
+        "phonetic": "/ˈevri deɪ/",
+        "chinese": "每天"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常在业余时间学习英语。",
+    "english": "He used to learn English in his spare time",
+    "soundmark": "/hiː juːst tuː lɜːrn ˈɪŋɡlɪʃ ɪn hɪz sper taɪm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "learn",
+        "role": "V",
+        "phonetic": "/lɜːrn/",
+        "chinese": "学习"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "in his spare time",
+        "role": "A",
+        "phonetic": "/ɪn hɪz sper taɪm/",
+        "chinese": "在…里/他的/时间"
+      }
+    ]
+  },
+  {
+    "chinese": "过去他们常常在河里游泳。",
+    "english": "They used to swim in the river",
+    "soundmark": "/ðeɪ juːst tuː swɪm ɪn ðə ˈrɪvər/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "used to",
+        "role": "A",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "swim",
+        "role": "V",
+        "phonetic": "/swɪm/",
+        "chinese": "游泳"
+      },
+      {
+        "text": "in the river",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈrɪvər/",
+        "chinese": "在…里/这个/那个/河"
+      }
+    ]
+  },
+  {
+    "chinese": "他退休后想环游世界。",
+    "english": "He wants to travel around the world after he retires",
+    "soundmark": "/hiː wɑːnts tuː ˈtrævl əˈraʊnd ðə wɜːrld ˈæftər hiː rɪˈtaɪərz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "wants",
+        "role": "V",
+        "phonetic": "/wɑːnts/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to travel around the world",
+        "role": "O",
+        "phonetic": "/tuː ˈtrævl əˈraʊnd ðə wɜːrld/",
+        "chinese": "到/向/旅行/围绕/大约/这个/那个/世界"
+      },
+      {
+        "text": "after he retires",
+        "role": "A",
+        "phonetic": "/ˈæftər hiː rɪˈtaɪərz/",
+        "chinese": "在…之后/他"
+      }
+    ]
+  },
+  {
+    "chinese": "他雇用的人比过去多了很多。",
+    "english": "He employs many more people than he used to",
+    "soundmark": "/hiː ɪmˈplɔɪz ˈmeni mɔːr ˈpiːpl ðæn hiː juːst tuː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "employs",
+        "role": "V",
+        "phonetic": "/ɪmˈplɔɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "many more people",
+        "role": "O",
+        "phonetic": "/ˈmeni mɔːr ˈpiːpl/",
+        "chinese": "许多/更多/人们"
+      },
+      {
+        "text": "than he used to",
+        "role": "A",
+        "phonetic": "/ðæn hiː juːst tuː/",
+        "chinese": "比/他/用过的/习惯的/到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "他不再是那个害羞的男孩了。",
+    "english": "He is no longer the shy boy that he used to be",
+    "soundmark": "/hiː ɪz noʊ ˈlɔːŋɡər ðə ʃaɪ bɔɪ ðæt hiː juːst tuː biː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "no longer",
+        "role": "A",
+        "phonetic": "/noʊ ˈlɔːŋɡər/",
+        "chinese": "不再"
+      },
+      {
+        "text": "the shy boy",
+        "role": "C",
+        "phonetic": "/ðə ʃaɪ bɔɪ/",
+        "chinese": "这个/那个/害羞的/男孩"
+      },
+      {
+        "text": "that he used to be",
+        "role": "A",
+        "phonetic": "/ðæt hiː juːst tuː biː/",
+        "chinese": "那个/他/用过的/习惯的/到/向/是"
+      }
+    ]
+  },
+  {
+    "chinese": "头发(过去)",
+    "english": "used to have long hair",
+    "soundmark": "/juːst tuː hæv lɔːŋ her/"
+  },
+  {
+    "chinese": "车库",
+    "english": "garage",
+    "soundmark": "/ɡəˈrɑːʒ/"
+  },
+  {
+    "chinese": "富裕的",
+    "english": "rich",
+    "soundmark": "/rɪtʃ/"
+  },
+  {
+    "chinese": "头儿",
+    "english": "head",
+    "soundmark": "/hed/"
+  },
+  {
+    "chinese": "外套",
+    "english": "coat",
+    "soundmark": "/koʊt/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "travel",
+    "soundmark": "/ˈtrævl/"
+  },
+  {
+    "chinese": "害羞的",
+    "english": "shy",
+    "soundmark": "/ʃaɪ/"
+  },
+  {
+    "chinese": "部队",
+    "english": "army",
+    "soundmark": "/ˈɑːrmi/"
+  }
+]

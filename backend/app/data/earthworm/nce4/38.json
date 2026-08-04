@@ -1,0 +1,653 @@
+[
+  {
+    "chinese": "绿洲",
+    "english": "oasis",
+    "soundmark": "/əʊˈeɪsɪs/"
+  },
+  {
+    "chinese": "沙漠",
+    "english": "desert",
+    "soundmark": "/ˈdezət/"
+  },
+  {
+    "chinese": "水源",
+    "english": "water source",
+    "soundmark": "/ˈwɔːtə sɔːs/"
+  },
+  {
+    "chinese": "航行",
+    "english": "voyage",
+    "soundmark": "/ˈvɔɪɪdʒ/"
+  },
+  {
+    "chinese": "干旱",
+    "english": "drought",
+    "soundmark": "/draʊt/"
+  },
+  {
+    "chinese": "灌溉",
+    "english": "irrigation",
+    "soundmark": "/ˌɪrɪˈɡeɪʃən/"
+  },
+  {
+    "chinese": "泉水",
+    "english": "spring",
+    "soundmark": "/sprɪŋ/"
+  },
+  {
+    "chinese": "旅途",
+    "english": "journey",
+    "soundmark": "/ˈdʒɜːni/"
+  },
+  {
+    "chinese": "补给",
+    "english": "provision",
+    "soundmark": "/prəˈvɪʒən/"
+  },
+  {
+    "chinese": "干渴",
+    "english": "thirst",
+    "soundmark": "/θɜːst/"
+  },
+  {
+    "chinese": "溪流",
+    "english": "stream",
+    "soundmark": "/striːm/"
+  },
+  {
+    "chinese": "蓄水池",
+    "english": "reservoir",
+    "soundmark": "/ˈrezəvɔːr/"
+  },
+  {
+    "chinese": "水对旅行者来说比黄金还要珍贵",
+    "english": "water is more precious than gold to a traveler",
+    "soundmark": "/ˈwɔːtər ɪz mɔːr ˈpreʃəs ðən ɡəʊld tuː ə ˈtrævələ/",
+    "grammar": [
+      {
+        "text": "water",
+        "role": "S",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "precious",
+        "role": "C",
+        "phonetic": "/ˈpreʃəs/",
+        "chinese": ""
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðən/",
+        "chinese": "比"
+      },
+      {
+        "text": "gold",
+        "role": "O",
+        "phonetic": "/ɡəʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "traveler",
+        "role": "O",
+        "phonetic": "/ˈtrævələ/",
+        "chinese": "更…的/…者(旅行)"
+      }
+    ]
+  },
+  {
+    "chinese": "在古代人们沿着沙漠中的绿洲行进",
+    "english": "in ancient times people traveled along the oases in the desert",
+    "soundmark": "/ɪn ˈeɪnʃənt taɪmz ˈpiːpl ˈtrævəld əˈlɒŋ ði əʊˈeɪsiːz ɪn ðə ˈdezət/",
+    "grammar": [
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "ancient",
+        "role": "A",
+        "phonetic": "/ˈeɪnʃənt/",
+        "chinese": "古代的"
+      },
+      {
+        "text": "times",
+        "role": "O",
+        "phonetic": "/taɪmz/",
+        "chinese": "时间"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "traveled",
+        "role": "V",
+        "phonetic": "/ˈtrævəld/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "along",
+        "role": "P",
+        "phonetic": "/əˈlɒŋ/",
+        "chinese": "沿着"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "oases",
+        "role": "O",
+        "phonetic": "/əʊˈeɪsiːz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "desert",
+        "role": "O",
+        "phonetic": "/ˈdezət/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "没有可靠的水源长途旅行是不可能完成的",
+    "english": "without a reliable water source long journeys cannot be completed",
+    "soundmark": "/wɪˈðaʊt ə rɪˈlaɪəbl ˈwɔːtə sɔːs lɒŋ ˈdʒɜːniz ˈkænɒt bi kəmˈpliːtɪd/",
+    "grammar": [
+      {
+        "text": "without",
+        "role": "P",
+        "phonetic": "/wɪˈðaʊt/",
+        "chinese": "没有"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "reliable",
+        "role": "A",
+        "phonetic": "/rɪˈlaɪəbl/",
+        "chinese": "可靠的"
+      },
+      {
+        "text": "water",
+        "role": "A",
+        "phonetic": "/ˈwɔːtə/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "source",
+        "role": "O",
+        "phonetic": "/sɔːs/",
+        "chinese": ""
+      },
+      {
+        "text": "long",
+        "role": "A",
+        "phonetic": "/lɒŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "journeys",
+        "role": "S",
+        "phonetic": "/ˈdʒɜːniz/",
+        "chinese": "旅程"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/ɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/bi/",
+        "chinese": "是"
+      },
+      {
+        "text": "completed",
+        "role": "V",
+        "phonetic": "/kəmˈpliːtɪd/",
+        "chinese": "完成的"
+      }
+    ]
+  },
+  {
+    "chinese": "干旱迫使许多古代文明寻找新的居住地",
+    "english": "drought forced many ancient civilizations to seek new settlements",
+    "soundmark": "/draʊt fɔːst ˈmeni ˈeɪnʃənt ˌsɪvəlaɪˈzeɪʃənz tuː siːk njuː ˈsetəlmənts/",
+    "grammar": [
+      {
+        "text": "drought",
+        "role": "S",
+        "phonetic": "/draʊt/",
+        "chinese": ""
+      },
+      {
+        "text": "forced",
+        "role": "V",
+        "phonetic": "/fɔːst/",
+        "chinese": "被迫的"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "ancient",
+        "role": "A",
+        "phonetic": "/ˈeɪnʃənt/",
+        "chinese": "古代的"
+      },
+      {
+        "text": "civilizations",
+        "role": "O",
+        "phonetic": "/ˌsɪvəlaɪˈzeɪʃənz/",
+        "chinese": "文明"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "seek",
+        "role": "V",
+        "phonetic": "/siːk/",
+        "chinese": "寻找"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/njuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "settlements",
+        "role": "O",
+        "phonetic": "/ˈsetəlmənts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "灌溉系统的发展使得农业文明得以繁荣",
+    "english": "the development of irrigation systems enabled agricultural civilizations to flourish",
+    "soundmark": "/ðə dɪˈveləpmənt əv ˌɪrɪˈɡeɪʃən ˈsɪstəmz ɪˈneɪbld ˌæɡrɪˈkʌltʃərəl ˌsɪvəlaɪˈzeɪʃənz tuː ˈflʌrɪʃ/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "development",
+        "role": "S",
+        "phonetic": "/dɪˈveləpmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "irrigation",
+        "role": "A",
+        "phonetic": "/ˌɪrɪˈɡeɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "systems",
+        "role": "O",
+        "phonetic": "/ˈsɪstəmz/",
+        "chinese": ""
+      },
+      {
+        "text": "enabled",
+        "role": "V",
+        "phonetic": "/ɪˈneɪbld/",
+        "chinese": ""
+      },
+      {
+        "text": "agricultural",
+        "role": "A",
+        "phonetic": "/ˌæɡrɪˈkʌltʃərəl/",
+        "chinese": "农业的"
+      },
+      {
+        "text": "civilizations",
+        "role": "O",
+        "phonetic": "/ˌsɪvəlaɪˈzeɪʃənz/",
+        "chinese": "文明"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "flourish",
+        "role": "V",
+        "phonetic": "/ˈflʌrɪʃ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "沙漠中的泉水对旅行者而言是一种恩赐",
+    "english": "springs in the desert are a blessing to travelers",
+    "soundmark": "/sprɪŋz ɪn ðə ˈdezət ɑːr ə ˈblesɪŋ tuː ˈtrævələz/",
+    "grammar": [
+      {
+        "text": "springs",
+        "role": "S",
+        "phonetic": "/sprɪŋz/",
+        "chinese": "春天/泉"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "desert",
+        "role": "O",
+        "phonetic": "/ˈdezət/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "blessing",
+        "role": "C",
+        "phonetic": "/ˈblesɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "travelers",
+        "role": "O",
+        "phonetic": "/ˈtrævələz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "旅行者学会了在旅途中寻找和保存水源",
+    "english": "travelers learned to locate and conserve water during their journeys",
+    "soundmark": "/ˈtrævələz lɜːnd tuː ləʊˈkeɪt ənd kənˈsɜːv ˈwɔːtə ˈdjʊərɪŋ ðeə ˈdʒɜːniz/",
+    "grammar": [
+      {
+        "text": "travelers",
+        "role": "S",
+        "phonetic": "/ˈtrævələz/",
+        "chinese": ""
+      },
+      {
+        "text": "learned",
+        "role": "V",
+        "phonetic": "/lɜːnd/",
+        "chinese": "学习"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "locate",
+        "role": "V",
+        "phonetic": "/ləʊˈkeɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "conserve",
+        "role": "V",
+        "phonetic": "/kənˈsɜːv/",
+        "chinese": ""
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtə/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "during",
+        "role": "P",
+        "phonetic": "/ˈdjʊərɪŋ/",
+        "chinese": "在…期间"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðeə/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "journeys",
+        "role": "O",
+        "phonetic": "/ˈdʒɜːniz/",
+        "chinese": "旅程"
+      }
+    ]
+  },
+  {
+    "chinese": "每条河流都养育了沿岸的城镇和文明",
+    "english": "every river has nurtured the towns and civilizations along its banks",
+    "soundmark": "/ˈevri ˈrɪvə hæz ˈnɜːtʃəd ðə taʊnz ənd ˌsɪvəlaɪˈzeɪʃənz əˈlɒŋ ɪts bæŋks/",
+    "grammar": [
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "river",
+        "role": "S",
+        "phonetic": "/ˈrɪvə/",
+        "chinese": "河"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "nurtured",
+        "role": "V",
+        "phonetic": "/ˈnɜːtʃəd/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "towns",
+        "role": "O",
+        "phonetic": "/taʊnz/",
+        "chinese": "…们/复数(城镇)"
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "civilizations",
+        "role": "O",
+        "phonetic": "/ˌsɪvəlaɪˈzeɪʃənz/",
+        "chinese": "文明"
+      },
+      {
+        "text": "along",
+        "role": "P",
+        "phonetic": "/əˈlɒŋ/",
+        "chinese": "沿着"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "banks",
+        "role": "O",
+        "phonetic": "/bæŋks/",
+        "chinese": "银行"
+      }
+    ]
+  },
+  {
+    "chinese": "峡谷",
+    "english": "canyon",
+    "soundmark": "/ˈkænjən/"
+  },
+  {
+    "chinese": "瀑布",
+    "english": "waterfall",
+    "soundmark": "/ˈwɔːtəfɔːl/"
+  },
+  {
+    "chinese": "航海",
+    "english": "navigation",
+    "soundmark": "/ˌnævɪˈɡeɪʃən/"
+  },
+  {
+    "chinese": "运河",
+    "english": "canal",
+    "soundmark": "/kəˈnæl/"
+  },
+  {
+    "chinese": "港口",
+    "english": "harbour",
+    "soundmark": "/ˈhɑːbə/"
+  },
+  {
+    "chinese": "潮汐",
+    "english": "tide",
+    "soundmark": "/taɪd/"
+  },
+  {
+    "chinese": "独木舟",
+    "english": "canoe",
+    "soundmark": "/kəˈnuː/"
+  },
+  {
+    "chinese": "淡水",
+    "english": "freshwater",
+    "soundmark": "/freʃ ˈwɔːtə/"
+  },
+  {
+    "chinese": "盐湖",
+    "english": "salt lake",
+    "soundmark": "/sɔːlt leɪk/"
+  },
+  {
+    "chinese": "水坝",
+    "english": "dam",
+    "soundmark": "/dæm/"
+  },
+  {
+    "chinese": "水井",
+    "english": "well",
+    "soundmark": "/wel/"
+  }
+]

@@ -1,0 +1,663 @@
+[
+  {
+    "chinese": "英国人",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "chinese": "语言",
+    "english": "language",
+    "soundmark": "/ˈlæŋɡwɪdʒ/"
+  },
+  {
+    "chinese": "说",
+    "english": "speak",
+    "soundmark": "/spiːk/"
+  },
+  {
+    "chinese": "名词",
+    "english": "noun",
+    "soundmark": "/naʊn/"
+  },
+  {
+    "chinese": "定语",
+    "english": "attribute",
+    "soundmark": "/ˈætrɪbjuːt/"
+  },
+  {
+    "chinese": "外国",
+    "english": "foreign",
+    "soundmark": "/ˈfɒrɪn/"
+  },
+  {
+    "chinese": "访问者",
+    "english": "visitor",
+    "soundmark": "/ˈvɪzɪtər/"
+  },
+  {
+    "chinese": "奇怪",
+    "english": "strange",
+    "soundmark": "/streɪndʒ/"
+  },
+  {
+    "chinese": "有趣",
+    "english": "funny",
+    "soundmark": "/ˈfʌni/"
+  },
+  {
+    "chinese": "单词",
+    "english": "word",
+    "soundmark": "/wɜːrd/"
+  },
+  {
+    "chinese": "含义",
+    "english": "meaning",
+    "soundmark": "/ˈmiːnɪŋ/"
+  },
+  {
+    "chinese": "翻译",
+    "english": "translate",
+    "soundmark": "/trænzˈleɪt/"
+  },
+  {
+    "chinese": "规则",
+    "english": "rule",
+    "soundmark": "/ruːl/"
+  },
+  {
+    "chinese": "例外",
+    "english": "exception",
+    "soundmark": "/ɪkˈsepʃən/"
+  },
+  {
+    "chinese": "发音",
+    "english": "pronunciation",
+    "soundmark": "/prəˌnʌnsiˈeɪʃən/"
+  },
+  {
+    "chinese": "英国人说英语吗",
+    "english": "Do the English speak English",
+    "soundmark": "/duː/ /ði/ /ˈɪŋɡlɪʃ/ /spiːk/ /ˈɪŋɡlɪʃ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "English",
+        "role": "S",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      }
+    ]
+  },
+  {
+    "chinese": "英语名词可以修饰另一个名词",
+    "english": "An English noun can modify another noun",
+    "soundmark": "/ən/ /ˈɪŋɡlɪʃ/ /naʊn/ /kæn/ /ˈmɑːdɪfaɪ/ /əˈnʌðər/ /naʊn/",
+    "grammar": [
+      {
+        "text": "An",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "English",
+        "role": "A",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "noun",
+        "role": "S",
+        "phonetic": "/naʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "modify",
+        "role": "V",
+        "phonetic": "/ˈmɑːdɪfaɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "another",
+        "role": "Det",
+        "phonetic": "/əˈnʌðər/",
+        "chinese": "另一个"
+      },
+      {
+        "text": "noun",
+        "role": "O",
+        "phonetic": "/naʊn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这是一个足球名词复合词",
+    "english": "It is a football noun compound",
+    "soundmark": "/ɪt/ /ɪz/ /ə/ /ˈfʊtbɔːl/ /naʊn/ /ˈkɑːmpaʊnd/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "football",
+        "role": "A",
+        "phonetic": "/ˈfʊtbɔːl/",
+        "chinese": "足球"
+      },
+      {
+        "text": "noun",
+        "role": "A",
+        "phonetic": "/naʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "compound",
+        "role": "C",
+        "phonetic": "/ˈkɑːmpaʊnd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "外国访客发现英语很奇怪",
+    "english": "The foreign visitor found English very strange",
+    "soundmark": "/ðə/ /ˈfɒrɪn/ /ˈvɪzɪtər/ /faʊnd/ /ˈɪŋɡlɪʃ/ /ˈveri/ /streɪndʒ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "foreign",
+        "role": "A",
+        "phonetic": "/ˈfɒrɪn/",
+        "chinese": "外国的"
+      },
+      {
+        "text": "visitor",
+        "role": "S",
+        "phonetic": "/ˈvɪzɪtər/",
+        "chinese": ""
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "strange",
+        "role": "C",
+        "phonetic": "/streɪndʒ/",
+        "chinese": "奇怪的"
+      }
+    ]
+  },
+  {
+    "chinese": "在英语里我们说火车票",
+    "english": "In English we say railway ticket",
+    "soundmark": "/ɪn/ /ˈɪŋɡlɪʃ/ /wiː/ /seɪ/ /ˈreɪlweɪ/ /ˈtɪkɪt/",
+    "grammar": [
+      {
+        "text": "In",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "say",
+        "role": "V",
+        "phonetic": "/seɪ/",
+        "chinese": "说"
+      },
+      {
+        "text": "railway",
+        "role": "A",
+        "phonetic": "/ˈreɪlweɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "ticket",
+        "role": "O",
+        "phonetic": "/ˈtɪkɪt/",
+        "chinese": "票"
+      }
+    ]
+  },
+  {
+    "chinese": "火车票的英文是 railway ticket",
+    "english": "A railway ticket is a ticket for the railway",
+    "soundmark": "/ə/ /ˈreɪlweɪ/ /ˈtɪkɪt/ /ɪz/ /ə/ /ˈtɪkɪt/ /fɔːr/ /ðə/ /ˈreɪlweɪ/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "railway",
+        "role": "A",
+        "phonetic": "/ˈreɪlweɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "ticket",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪt/",
+        "chinese": "票"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "ticket",
+        "role": "C",
+        "phonetic": "/ˈtɪkɪt/",
+        "chinese": "票"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "railway",
+        "role": "O",
+        "phonetic": "/ˈreɪlweɪ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "英语语法规则有很多例外",
+    "english": "English grammar rules have many exceptions",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /ˈɡræmər/ /ruːlz/ /hæv/ /ˈmeni/ /ɪkˈsepʃənz/",
+    "grammar": [
+      {
+        "text": "English",
+        "role": "A",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "grammar",
+        "role": "A",
+        "phonetic": "/ˈɡræmər/",
+        "chinese": "语法"
+      },
+      {
+        "text": "rules",
+        "role": "S",
+        "phonetic": "/ruːlz/",
+        "chinese": "规则/统治"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "exceptions",
+        "role": "O",
+        "phonetic": "/ɪkˈsepʃənz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这个单词有两个含义",
+    "english": "This word has two meanings",
+    "soundmark": "/ðɪs/ /wɜːrd/ /hæz/ /tuː/ /ˈmiːnɪŋz/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "word",
+        "role": "S",
+        "phonetic": "/wɜːrd/",
+        "chinese": "单词"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "meanings",
+        "role": "O",
+        "phonetic": "/ˈmiːnɪŋz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "学英语的发音是很困难的",
+    "english": "The pronunciation of English is difficult",
+    "soundmark": "/ðə/ /prəˌnʌnsiˈeɪʃən/ /ʌv/ /ˈɪŋɡlɪʃ/ /ɪz/ /ˈdɪfɪkəlt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "pronunciation",
+        "role": "S",
+        "phonetic": "/prəˌnʌnsiˈeɪʃən/",
+        "chinese": "发音"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "difficult",
+        "role": "C",
+        "phonetic": "/ˈdɪfɪkəlt/",
+        "chinese": "困难的"
+      }
+    ]
+  },
+  {
+    "chinese": "你必须记住这些语法规则",
+    "english": "You must remember these grammar rules",
+    "soundmark": "/juː/ /mʌst/ /rɪˈmembər/ /ðiːz/ /ˈɡræmər/ /ruːlz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "remember",
+        "role": "V",
+        "phonetic": "/rɪˈmembər/",
+        "chinese": "记住"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "grammar",
+        "role": "A",
+        "phonetic": "/ˈɡræmər/",
+        "chinese": "语法"
+      },
+      {
+        "text": "rules",
+        "role": "O",
+        "phonetic": "/ruːlz/",
+        "chinese": "规则/统治"
+      }
+    ]
+  },
+  {
+    "chinese": "名词修饰名词在英语中很常见",
+    "english": "Noun modifying noun is common in English",
+    "soundmark": "/naʊn/ /ˈmɑːdɪfaɪɪŋ/ /naʊn/ /ɪz/ /ˈkɑːmən/ /ɪn/ /ˈɪŋɡlɪʃ/",
+    "grammar": [
+      {
+        "text": "Noun",
+        "role": "S",
+        "phonetic": "/naʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "modifying",
+        "role": "V",
+        "phonetic": "/ˈmɑːdɪfaɪɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "noun",
+        "role": "O",
+        "phonetic": "/naʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "common",
+        "role": "C",
+        "phonetic": "/ˈkɑːmən/",
+        "chinese": "普通的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      }
+    ]
+  },
+  {
+    "chinese": "英语里有很多复合名词",
+    "english": "There are many compound nouns in English",
+    "soundmark": "/ðer/ /ɑːr/ /ˈmeni/ /ˈkɑːmpaʊnd/ /naʊnz/ /ɪn/ /ˈɪŋɡlɪʃ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "compound",
+        "role": "A",
+        "phonetic": "/ˈkɑːmpaʊnd/",
+        "chinese": ""
+      },
+      {
+        "text": "nouns",
+        "role": "C",
+        "phonetic": "/naʊnz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      }
+    ]
+  },
+  {
+    "chinese": "外国",
+    "english": "foreign",
+    "soundmark": "/ˈfɒrɪn/"
+  },
+  {
+    "chinese": "访客",
+    "english": "visitor",
+    "soundmark": "/ˈvɪzɪtər/"
+  },
+  {
+    "chinese": "翻译",
+    "english": "translate",
+    "soundmark": "/trænzˈleɪt/"
+  },
+  {
+    "chinese": "规则",
+    "english": "rule",
+    "soundmark": "/ruːl/"
+  },
+  {
+    "chinese": "例外",
+    "english": "exception",
+    "soundmark": "/ɪkˈsepʃən/"
+  },
+  {
+    "chinese": "复合词",
+    "english": "compound",
+    "soundmark": "/ˈkɑːmpaʊnd/"
+  },
+  {
+    "chinese": "困难",
+    "english": "difficult",
+    "soundmark": "/ˈdɪfɪkəlt/"
+  },
+  {
+    "chinese": "常见的",
+    "english": "common",
+    "soundmark": "/ˈkɑːmən/"
+  }
+]

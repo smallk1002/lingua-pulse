@@ -1,0 +1,616 @@
+[
+  {
+    "chinese": "黑暗",
+    "english": "darkness",
+    "soundmark": "/ˈdɑːrknəs/"
+  },
+  {
+    "chinese": "解释",
+    "english": "explain",
+    "soundmark": "/ɪkˈspleɪn/"
+  },
+  {
+    "chinese": "海岸",
+    "english": "coast",
+    "soundmark": "/koʊst/"
+  },
+  {
+    "chinese": "风暴",
+    "english": "storm",
+    "soundmark": "/stɔːrm/"
+  },
+  {
+    "chinese": "朝着",
+    "english": "towards",
+    "soundmark": "/təˈwɔːrdz/"
+  },
+  {
+    "chinese": "岩石",
+    "english": "rock",
+    "soundmark": "/rɑːk/"
+  },
+  {
+    "chinese": "海岸",
+    "english": "shore",
+    "soundmark": "/ʃɔːr/"
+  },
+  {
+    "chinese": "灯光",
+    "english": "light",
+    "soundmark": "/laɪt/"
+  },
+  {
+    "chinese": "向前",
+    "english": "ahead",
+    "soundmark": "/əˈhed/"
+  },
+  {
+    "chinese": "奋斗",
+    "english": "struggle",
+    "soundmark": "/ˈstrʌɡl/"
+  },
+  {
+    "chinese": "向岸边游",
+    "english": "swim towards the shore",
+    "soundmark": "/swɪm təˈwɔːrdz ðə ʃɔːr/"
+  },
+  {
+    "chinese": "穿过黑暗",
+    "english": "through the darkness",
+    "soundmark": "/θruː ðə ˈdɑːrknəs/"
+  },
+  {
+    "chinese": "向前看",
+    "english": "look ahead",
+    "soundmark": "/lʊk əˈhed/"
+  },
+  {
+    "chinese": "爬上岩石",
+    "english": "climb onto the rocks",
+    "soundmark": "/klaɪm ˈɑːntuː ðə rɑːks/"
+  },
+  {
+    "chinese": "她朝海边走去。",
+    "english": "She walked towards the sea",
+    "soundmark": "/ʃiː wɔːkt təˈwɔːrdz ðə siː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "towards the sea",
+        "role": "A",
+        "phonetic": "/təˈwɔːrdz ðə siː/",
+        "chinese": "朝向/这个/那个/海"
+      }
+    ]
+  },
+  {
+    "chinese": "他从着火的房子里跑出来。",
+    "english": "He ran out of the burning house",
+    "soundmark": "/hiː ræn aʊt əv ðə ˈbɜːrnɪŋ haʊs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "ran",
+        "role": "V",
+        "phonetic": "/ræn/",
+        "chinese": "跑（过去式）"
+      },
+      {
+        "text": "out of the burning house",
+        "role": "A",
+        "phonetic": "/aʊt əv ðə ˈbɜːrnɪŋ haʊs/",
+        "chinese": "出去/…的/这个/那个/烧/房子"
+      }
+    ]
+  },
+  {
+    "chinese": "黑暗中她什么也看不见。",
+    "english": "She could see nothing in the darkness",
+    "soundmark": "/ʃiː kʊd siː ˈnʌθɪŋ ɪn ðə ˈdɑːrknəs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "could see",
+        "role": "V",
+        "phonetic": "/kʊd siː/",
+        "chinese": "可以/能（过去式）/看见"
+      },
+      {
+        "text": "nothing",
+        "role": "O",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "in the darkness",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈdɑːrknəs/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "她游向了远处的灯光。",
+    "english": "She swam towards the light in the distance",
+    "soundmark": "/ʃiː swæm təˈwɔːrdz ðə laɪt ɪn ðə ˈdɪstəns/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "swam",
+        "role": "V",
+        "phonetic": "/swæm/",
+        "chinese": "游泳（过去式）"
+      },
+      {
+        "text": "towards the light",
+        "role": "A",
+        "phonetic": "/təˈwɔːrdz ðə laɪt/",
+        "chinese": "朝向/这个/那个/轻的/浅色的"
+      },
+      {
+        "text": "in the distance",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈdɪstəns/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "风暴从海上席卷而来。",
+    "english": "The storm came in from the sea",
+    "soundmark": "/ðə stɔːrm keɪm ɪn frʌm ðə siː/",
+    "grammar": [
+      {
+        "text": "The storm",
+        "role": "S",
+        "phonetic": "/ðə stɔːrm/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "in from the sea",
+        "role": "A",
+        "phonetic": "/ɪn frʌm ðə siː/",
+        "chinese": "在…里/从/来自/这个/那个/海"
+      }
+    ]
+  },
+  {
+    "chinese": "她从悬崖上掉进了海里。",
+    "english": "She fell from the cliff into the sea",
+    "soundmark": "/ʃiː fel frʌm ðə klɪf ˈɪntuː ðə siː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "fell",
+        "role": "V",
+        "phonetic": "/fel/",
+        "chinese": "落下（过去式）"
+      },
+      {
+        "text": "from the cliff",
+        "role": "A",
+        "phonetic": "/frʌm ðə klɪf/",
+        "chinese": "从/来自/这个/那个"
+      },
+      {
+        "text": "into the sea",
+        "role": "A",
+        "phonetic": "/ˈɪntuː ðə siː/",
+        "chinese": "进入/这个/那个/海"
+      }
+    ]
+  },
+  {
+    "chinese": "他们朝那座房子走去。",
+    "english": "They went towards the house",
+    "soundmark": "/ðeɪ went təˈwɔːrdz ðə haʊs/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "towards the house",
+        "role": "A",
+        "phonetic": "/təˈwɔːrdz ðə haʊs/",
+        "chinese": "朝向/这个/那个/房子"
+      }
+    ]
+  },
+  {
+    "chinese": "船撞上了一块岩石。",
+    "english": "The boat hit a rock",
+    "soundmark": "/ðə boʊt hɪt ə rɑːk/",
+    "grammar": [
+      {
+        "text": "The boat",
+        "role": "S",
+        "phonetic": "/ðə boʊt/",
+        "chinese": "这个/那个/小船"
+      },
+      {
+        "text": "hit",
+        "role": "V",
+        "phonetic": "/hɪt/",
+        "chinese": "打/击中"
+      },
+      {
+        "text": "a rock",
+        "role": "O",
+        "phonetic": "/ə rɑːk/",
+        "chinese": "一个/岩石"
+      }
+    ]
+  },
+  {
+    "chinese": "他在黑暗中奋力向前游。",
+    "english": "He struggled to swim forward in the darkness",
+    "soundmark": "/hiː ˈstrʌɡld tuː swɪm ˈfɔːrwərd ɪn ðə ˈdɑːrknəs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "struggled",
+        "role": "V",
+        "phonetic": "/ˈstrʌɡld/",
+        "chinese": ""
+      },
+      {
+        "text": "to swim forward",
+        "role": "A",
+        "phonetic": "/tuː swɪm ˈfɔːrwərd/",
+        "chinese": "到/向/游泳/转发"
+      },
+      {
+        "text": "in the darkness",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈdɑːrknəs/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "她刚从水里出来。",
+    "english": "She had just come out of the water",
+    "soundmark": "/ʃiː hæd dʒʌst kʌm aʊt əv ðə ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had just come",
+        "role": "V",
+        "phonetic": "/hæd dʒʌst kʌm/",
+        "chinese": "有/助动词（过去式）/刚刚/只是/来"
+      },
+      {
+        "text": "out of the water",
+        "role": "A",
+        "phonetic": "/aʊt əv ðə ˈwɔːtər/",
+        "chinese": "出去/…的/这个/那个/水"
+      }
+    ]
+  },
+  {
+    "chinese": "他朝那栋楼的方向跑去。",
+    "english": "He ran towards the building",
+    "soundmark": "/hiː ræn təˈwɔːrdz ðə ˈbɪldɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "ran",
+        "role": "V",
+        "phonetic": "/ræn/",
+        "chinese": "跑（过去式）"
+      },
+      {
+        "text": "towards the building",
+        "role": "A",
+        "phonetic": "/təˈwɔːrdz ðə ˈbɪldɪŋ/",
+        "chinese": "朝向/这个/那个/建造"
+      }
+    ]
+  },
+  {
+    "chinese": "她碰巧发现近处有一个小海湾。",
+    "english": "She nearly found a small bay nearby",
+    "soundmark": "/ʃiː ˈnɪrli faʊnd ə smɔːl beɪ ˌnɪrˈbaɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "nearly found",
+        "role": "V",
+        "phonetic": "/ˈnɪrli faʊnd/",
+        "chinese": "差不多/找到的"
+      },
+      {
+        "text": "a small bay",
+        "role": "O",
+        "phonetic": "/ə smɔːl beɪ/",
+        "chinese": "一个/小的"
+      },
+      {
+        "text": "nearby",
+        "role": "A",
+        "phonetic": "/ˌnɪrˈbaɪ/",
+        "chinese": "附近的"
+      }
+    ]
+  },
+  {
+    "chinese": "一小时后她终于游到了岸上。",
+    "english": "After an hour she finally swam to the shore",
+    "soundmark": "/ˈæftər ən ˈaʊər ʃiː ˈfaɪnəli swæm tuː ðə ʃɔːr/",
+    "grammar": [
+      {
+        "text": "After an hour",
+        "role": "A",
+        "phonetic": "/ˈæftər ən ˈaʊər/",
+        "chinese": "在…之后/一个/小时"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "finally swam",
+        "role": "V",
+        "phonetic": "/ˈfaɪnəli swæm/",
+        "chinese": "最后/游泳（过去式）"
+      },
+      {
+        "text": "to the shore",
+        "role": "A",
+        "phonetic": "/tuː ðə ʃɔːr/",
+        "chinese": "到/向/这个/那个/岸"
+      }
+    ]
+  },
+  {
+    "chinese": "风暴把船吹向了岩石。",
+    "english": "The storm blew the boat towards the rocks",
+    "soundmark": "/ðə stɔːrm bluː ðə boʊt təˈwɔːrdz ðə rɑːks/",
+    "grammar": [
+      {
+        "text": "The storm",
+        "role": "S",
+        "phonetic": "/ðə stɔːrm/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "blew",
+        "role": "V",
+        "phonetic": "/bluː/",
+        "chinese": ""
+      },
+      {
+        "text": "the boat",
+        "role": "O",
+        "phonetic": "/ðə boʊt/",
+        "chinese": "这个/那个/小船"
+      },
+      {
+        "text": "towards the rocks",
+        "role": "A",
+        "phonetic": "/təˈwɔːrdz ðə rɑːks/",
+        "chinese": "朝向/这个/那个/…们/复数(岩石)"
+      }
+    ]
+  },
+  {
+    "chinese": "她朝悬崖脚下走去。",
+    "english": "She walked towards the foot of the cliff",
+    "soundmark": "/ʃiː wɔːkt təˈwɔːrdz ðə fʊt əv ðə klɪf/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "towards the foot of the cliff",
+        "role": "A",
+        "phonetic": "/təˈwɔːrdz ðə fʊt əv ðə klɪf/",
+        "chinese": "朝向/这个/那个/脚/…的/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "他入水后就不见了。",
+    "english": "He disappeared after he went into the water",
+    "soundmark": "/hiː ˌdɪsəˈpɪrd ˈæftər hiː went ˈɪntuː ðə ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "disappeared",
+        "role": "V",
+        "phonetic": "/ˌdɪsəˈpɪrd/",
+        "chinese": "消失"
+      },
+      {
+        "text": "after he went into the water",
+        "role": "A",
+        "phonetic": "/ˈæftər hiː went ˈɪntuː ðə ˈwɔːtər/",
+        "chinese": "在…之后/他/去（过去式）/进入/这个/那个/水"
+      }
+    ]
+  },
+  {
+    "chinese": "他醒来时发现自己躺在一张陌生的床上。",
+    "english": "He woke up to find himself lying in a strange bed",
+    "soundmark": "/hiː woʊk ʌp tuː faɪnd hɪmˈself ˈlaɪɪŋ ɪn ə streɪndʒ bed/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "woke up",
+        "role": "V",
+        "phonetic": "/woʊk ʌp/",
+        "chinese": "醒来（过去式）/向上"
+      },
+      {
+        "text": "to find",
+        "role": "A",
+        "phonetic": "/tuː faɪnd/",
+        "chinese": "到/向/找到"
+      },
+      {
+        "text": "himself lying in a strange bed",
+        "role": "O",
+        "phonetic": "/hɪmˈself ˈlaɪɪŋ ɪn ə streɪndʒ bed/",
+        "chinese": "他自己/在…里/一个/奇怪的"
+      }
+    ]
+  },
+  {
+    "chinese": "在黑暗中她分不清哪个方向是对的。",
+    "english": "She could not tell which direction was right in the darkness",
+    "soundmark": "/ʃiː kʊd nɑːt tel wɪtʃ dɪˈrekʃn wʌz raɪt ɪn ðə ˈdɑːrknəs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "could not tell",
+        "role": "V",
+        "phonetic": "/kʊd nɑːt tel/",
+        "chinese": "可以/能（过去式）/不/告诉"
+      },
+      {
+        "text": "which direction was right",
+        "role": "O",
+        "phonetic": "/wɪtʃ dɪˈrekʃn wʌz raɪt/",
+        "chinese": "哪个/是（过去式）/对的/右边的"
+      },
+      {
+        "text": "in the darkness",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈdɑːrknəs/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "悬崖",
+    "english": "cliff",
+    "soundmark": "/klɪf/"
+  },
+  {
+    "chinese": "海湾",
+    "english": "bay",
+    "soundmark": "/beɪ/"
+  },
+  {
+    "chinese": "距离",
+    "english": "distance",
+    "soundmark": "/ˈdɪstəns/"
+  },
+  {
+    "chinese": "方向",
+    "english": "direction",
+    "soundmark": "/dɪˈrekʃn/"
+  },
+  {
+    "chinese": "消失",
+    "english": "disappear",
+    "soundmark": "/ˌdɪsəˈpɪr/"
+  },
+  {
+    "chinese": "奇怪的",
+    "english": "strange",
+    "soundmark": "/streɪndʒ/"
+  },
+  {
+    "chinese": "近处",
+    "english": "nearby",
+    "soundmark": "/ˌnɪrˈbaɪ/"
+  },
+  {
+    "chinese": "吹",
+    "english": "blow",
+    "soundmark": "/bloʊ/"
+  }
+]

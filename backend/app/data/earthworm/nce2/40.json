@@ -1,0 +1,458 @@
+[
+  {
+    "chinese": "食物",
+    "english": "food",
+    "soundmark": "/fuːd/"
+  },
+  {
+    "chinese": "交谈",
+    "english": "talk",
+    "soundmark": "/tɔːk/"
+  },
+  {
+    "chinese": "紧挨着",
+    "english": "next to",
+    "soundmark": "/nekst tuː/"
+  },
+  {
+    "chinese": "礼貌的",
+    "english": "polite",
+    "soundmark": "/pəˈlaɪt/"
+  },
+  {
+    "chinese": "女士",
+    "english": "lady",
+    "soundmark": "/ˈleɪdi/"
+  },
+  {
+    "chinese": "盘子",
+    "english": "plate",
+    "soundmark": "/pleɪt/"
+  },
+  {
+    "chinese": "忙碌的",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "回答",
+    "english": "answer",
+    "soundmark": "/ˈænsər/"
+  },
+  {
+    "chinese": "盯着看",
+    "english": "stare at",
+    "soundmark": "/ster æt/"
+  },
+  {
+    "chinese": "绝望地",
+    "english": "in despair",
+    "soundmark": "/ɪn dɪˈsper/"
+  },
+  {
+    "chinese": "如果你吃太多会发胖的。",
+    "english": "If you eat too much you will get fat",
+    "soundmark": "/ɪf juː iːt tuː mʌtʃ juː wɪl ɡet fæt/",
+    "grammar": [
+      {
+        "text": "If you eat too much",
+        "role": "A",
+        "phonetic": "/ɪf juː iːt tuː mʌtʃ/",
+        "chinese": "如果/你/你们/吃/也/太/很多"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will get",
+        "role": "V",
+        "phonetic": "/wɪl ɡet/",
+        "chinese": "将要/得到/变得"
+      },
+      {
+        "text": "fat",
+        "role": "C",
+        "phonetic": "/fæt/",
+        "chinese": "胖的"
+      }
+    ]
+  },
+  {
+    "chinese": "如果你不快点就会迟到。",
+    "english": "If you do not hurry you will be late",
+    "soundmark": "/ɪf juː duː nɑːt ˈhɜːri juː wɪl biː leɪt/",
+    "grammar": [
+      {
+        "text": "If you do not hurry",
+        "role": "A",
+        "phonetic": "/ɪf juː duː nɑːt ˈhɜːri/",
+        "chinese": "如果/你/你们/做/助动词/不"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will be",
+        "role": "V",
+        "phonetic": "/wɪl biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "如果明天天气好我们就去公园。",
+    "english": "If it is fine tomorrow we will go to the park",
+    "soundmark": "/ɪf ɪt ɪz faɪn təˈmɑːroʊ wiː wɪl ɡoʊ tuː ðə pɑːrk/",
+    "grammar": [
+      {
+        "text": "If it is fine tomorrow",
+        "role": "A",
+        "phonetic": "/ɪf ɪt ɪz faɪn təˈmɑːroʊ/",
+        "chinese": "如果/它/是/好的/晴朗的/明天"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will go",
+        "role": "V",
+        "phonetic": "/wɪl ɡoʊ/",
+        "chinese": "将要/去"
+      },
+      {
+        "text": "to the park",
+        "role": "A",
+        "phonetic": "/tuː ðə pɑːrk/",
+        "chinese": "到/向/这个/那个/公园"
+      }
+    ]
+  },
+  {
+    "chinese": "如果你好好学你会通过考试的。",
+    "english": "If you study hard you will pass the exam",
+    "soundmark": "/ɪf juː ˈstʌdi hɑːrd juː wɪl pæs ðə ɪɡˈzæm/",
+    "grammar": [
+      {
+        "text": "If you study hard",
+        "role": "A",
+        "phonetic": "/ɪf juː ˈstʌdi hɑːrd/",
+        "chinese": "如果/你/你们/学习/研究/硬的/难的"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will pass",
+        "role": "V",
+        "phonetic": "/wɪl pæs/",
+        "chinese": "将要/通过/传递"
+      },
+      {
+        "text": "the exam",
+        "role": "O",
+        "phonetic": "/ðə ɪɡˈzæm/",
+        "chinese": "这个/那个/考试"
+      }
+    ]
+  },
+  {
+    "chinese": "他如果不道歉我就不跟他说话。",
+    "english": "If he does not apologize I will not talk to him",
+    "soundmark": "/ɪf hiː dʌz nɑːt əˈpɑːlədʒaɪz aɪ wɪl nɑːt tɔːk tuː hɪm/",
+    "grammar": [
+      {
+        "text": "If he does not apologize",
+        "role": "A",
+        "phonetic": "/ɪf hiː dʌz nɑːt əˈpɑːlədʒaɪz/",
+        "chinese": "如果/他/做/助动词/不/道歉"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will not talk",
+        "role": "V",
+        "phonetic": "/wɪl nɑːt tɔːk/",
+        "chinese": "将要/不/谈话"
+      },
+      {
+        "text": "to him",
+        "role": "A",
+        "phonetic": "/tuː hɪm/",
+        "chinese": "到/向/他"
+      }
+    ]
+  },
+  {
+    "chinese": "如果你需要帮忙就告诉我。",
+    "english": "If you need help please tell me",
+    "soundmark": "/ɪf juː niːd help pliːz tel miː/",
+    "grammar": [
+      {
+        "text": "If you need help",
+        "role": "A",
+        "phonetic": "/ɪf juː niːd help/",
+        "chinese": "如果/你/你们/需要/帮助"
+      },
+      {
+        "text": "please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "除非你邀请我否则我不会去。",
+    "english": "I will not go unless you invite me",
+    "soundmark": "/aɪ wɪl nɑːt ɡoʊ ənˈles juː ɪnˈvaɪt miː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will not go",
+        "role": "V",
+        "phonetic": "/wɪl nɑːt ɡoʊ/",
+        "chinese": "将要/不/去"
+      },
+      {
+        "text": "unless you invite me",
+        "role": "A",
+        "phonetic": "/ənˈles juː ɪnˈvaɪt miː/",
+        "chinese": "除非/你/你们/邀请/我"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我是你我会接受那份工作。",
+    "english": "If I were you I would take the job",
+    "soundmark": "/ɪf aɪ wɜːr juː aɪ wʊd teɪk ðə dʒɑːb/",
+    "grammar": [
+      {
+        "text": "If I were you",
+        "role": "A",
+        "phonetic": "/ɪf aɪ wɜːr juː/",
+        "chinese": "如果/我/是（过去式）/你/你们"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would take",
+        "role": "V",
+        "phonetic": "/wʊd teɪk/",
+        "chinese": "将会/拿/带"
+      },
+      {
+        "text": "the job",
+        "role": "O",
+        "phonetic": "/ðə dʒɑːb/",
+        "chinese": "这个/那个/工作"
+      }
+    ]
+  },
+  {
+    "chinese": "如果他有足够的钱他会买下那栋房子。",
+    "english": "If he had enough money he would buy that house",
+    "soundmark": "/ɪf hiː hæd ɪˈnʌf ˈmʌni hiː wʊd baɪ ðæt haʊs/",
+    "grammar": [
+      {
+        "text": "If he had enough money",
+        "role": "A",
+        "phonetic": "/ɪf hiː hæd ɪˈnʌf ˈmʌni/",
+        "chinese": "如果/他/有/助动词（过去式）/足够/钱"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would buy",
+        "role": "V",
+        "phonetic": "/wʊd baɪ/",
+        "chinese": "将会/买"
+      },
+      {
+        "text": "that house",
+        "role": "O",
+        "phonetic": "/ðæt haʊs/",
+        "chinese": "那个/房子"
+      }
+    ]
+  },
+  {
+    "chinese": "在晚宴上坐在一位女士旁边时你应该礼貌。",
+    "english": "When sitting next to a lady at dinner you should be polite",
+    "soundmark": "/wen ˈsɪtɪŋ nekst tuː ə ˈleɪdi æt ˈdɪnər juː ʃʊd biː pəˈlaɪt/",
+    "grammar": [
+      {
+        "text": "When sitting next to a lady at dinner",
+        "role": "A",
+        "phonetic": "/wen ˈsɪtɪŋ nekst tuː ə ˈleɪdi æt ˈdɪnər/",
+        "chinese": "什么时候/下一个/接下来/到/向/一个/在"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should be",
+        "role": "V",
+        "phonetic": "/ʃʊd biː/",
+        "chinese": "应该是"
+      },
+      {
+        "text": "polite",
+        "role": "C",
+        "phonetic": "/pəˈlaɪt/",
+        "chinese": "礼貌的"
+      }
+    ]
+  },
+  {
+    "chinese": "如果她早点出发本可以赶上火车。",
+    "english": "If she had left earlier she could have caught the train",
+    "soundmark": "/ɪf ʃiː hæd left ˈɜːrliər ʃiː kʊd hæv kɔːt ðə treɪn/",
+    "grammar": [
+      {
+        "text": "If she had left earlier",
+        "role": "A",
+        "phonetic": "/ɪf ʃiː hæd left ˈɜːrliər/",
+        "chinese": "如果/她/有/助动词（过去式）/左边的/更早/之前"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "could have caught",
+        "role": "V",
+        "phonetic": "/kʊd hæv kɔːt/",
+        "chinese": "可以/能（过去式）/有/助动词/抓住（过去式）"
+      },
+      {
+        "text": "the train",
+        "role": "O",
+        "phonetic": "/ðə treɪn/",
+        "chinese": "火车"
+      }
+    ]
+  },
+  {
+    "chinese": "除非下雨比赛都会如期举行。",
+    "english": "The match will be held as planned unless it rains",
+    "soundmark": "/ðə mætʃ wɪl biː held æz plænd ənˈles ɪt reɪnz/",
+    "grammar": [
+      {
+        "text": "The match",
+        "role": "S",
+        "phonetic": "/ðə mætʃ/",
+        "chinese": "这个/那个/火柴/比赛"
+      },
+      {
+        "text": "will be held",
+        "role": "V",
+        "phonetic": "/wɪl biː held/",
+        "chinese": "将要/是"
+      },
+      {
+        "text": "as planned",
+        "role": "A",
+        "phonetic": "/æz plænd/",
+        "chinese": "当…时/作为/因为/计划的"
+      },
+      {
+        "text": "unless it rains",
+        "role": "A",
+        "phonetic": "/ənˈles ɪt reɪnz/",
+        "chinese": "除非/它/…们/复数(雨)"
+      }
+    ]
+  },
+  {
+    "chinese": "道歉",
+    "english": "apologize",
+    "soundmark": "/əˈpɑːlədʒaɪz/"
+  },
+  {
+    "chinese": "除非",
+    "english": "unless",
+    "soundmark": "/ənˈles/"
+  },
+  {
+    "chinese": "邀请",
+    "english": "invite",
+    "soundmark": "/ɪnˈvaɪt/"
+  },
+  {
+    "chinese": "赶上",
+    "english": "catch",
+    "soundmark": "/kætʃ/"
+  },
+  {
+    "chinese": "更早",
+    "english": "earlier",
+    "soundmark": "/ˈɜːrliər/"
+  },
+  {
+    "chinese": "绝望",
+    "english": "despair",
+    "soundmark": "/dɪˈsper/"
+  },
+  {
+    "chinese": "通过",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "计划",
+    "english": "planned",
+    "soundmark": "/plænd/"
+  }
+]

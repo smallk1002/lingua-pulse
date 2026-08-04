@@ -1,0 +1,926 @@
+[
+  {
+    "chinese": "打电话",
+    "english": "phone call",
+    "soundmark": "/foʊn kɔːl/"
+  },
+  {
+    "chinese": "电话",
+    "english": "telephone",
+    "soundmark": "/ˈtelɪfoʊn/"
+  },
+  {
+    "chinese": "手机",
+    "english": "mobile phone",
+    "soundmark": "/ˈmoʊbɪl foʊn/"
+  },
+  {
+    "chinese": "拨号",
+    "english": "dial",
+    "soundmark": "/ˈdaɪəl/"
+  },
+  {
+    "chinese": "接电话",
+    "english": "answer the phone",
+    "soundmark": "/ˈænsər ðə foʊn/"
+  },
+  {
+    "chinese": "留言",
+    "english": "leave a message",
+    "soundmark": "/liːv ə ˈmesɪdʒ/"
+  },
+  {
+    "chinese": "打错电话",
+    "english": "wrong number",
+    "soundmark": "/rɔːŋ ˈnʌmbər/"
+  },
+  {
+    "chinese": "占线",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "稍等",
+    "english": "hold on",
+    "soundmark": "/hoʊld ɑːn/"
+  },
+  {
+    "chinese": "铃声",
+    "english": "ring",
+    "soundmark": "/rɪŋ/"
+  },
+  {
+    "chinese": "语音信箱",
+    "english": "voicemail",
+    "soundmark": "/ˈvɔɪsmeɪl/"
+  },
+  {
+    "chinese": "信号",
+    "english": "signal",
+    "soundmark": "/ˈsɪɡnəl/"
+  },
+  {
+    "chinese": "充电器",
+    "english": "charger",
+    "soundmark": "/ˈtʃɑːrdʒər/"
+  },
+  {
+    "chinese": "短信",
+    "english": "text message",
+    "soundmark": "/tekst ˈmesɪdʒ/"
+  },
+  {
+    "chinese": "通话中",
+    "english": "on the phone",
+    "soundmark": "/ɑːn ðə foʊn/"
+  },
+  {
+    "chinese": "挂断",
+    "english": "hang up",
+    "soundmark": "/hæŋ ʌp/"
+  },
+  {
+    "chinese": "给…打电话",
+    "english": "call someone",
+    "soundmark": "/kɔːl ˈsʌmwʌn/"
+  },
+  {
+    "chinese": "回电",
+    "english": "return a call",
+    "soundmark": "/rɪˈtɜːrn ə kɔːl/"
+  },
+  {
+    "chinese": "电话线",
+    "english": "phone line",
+    "soundmark": "/foʊn laɪn/"
+  },
+  {
+    "chinese": "你好请问汤姆在吗",
+    "english": "Hello may I speak to Tom please",
+    "soundmark": "/həˈloʊ meɪ aɪ spiːk tuː tɑːm pliːz/"
+  },
+  {
+    "chinese": "我就是",
+    "english": "this is Tom speaking",
+    "soundmark": "/ðɪs ɪz tɑːm ˈspiːkɪŋ/"
+  },
+  {
+    "chinese": "请稍等",
+    "english": "hold on please",
+    "soundmark": "/hoʊld ɑːn pliːz/"
+  },
+  {
+    "chinese": "他现在不在",
+    "english": "he is not here right now",
+    "soundmark": "/hiː ɪz nɑːt hɪr raɪt naʊ/"
+  },
+  {
+    "chinese": "您是哪位",
+    "english": "who is calling please",
+    "soundmark": "/huː ɪz ˈkɔːlɪŋ pliːz/"
+  },
+  {
+    "chinese": "你好请问汤姆在吗",
+    "english": "Hello may I speak to Tom please",
+    "soundmark": "/həˈloʊ meɪ aɪ spiːk tuː tɑːm pliːz/",
+    "grammar": [
+      {
+        "text": "Hello",
+        "role": "Int",
+        "phonetic": "/həˈloʊ/",
+        "chinese": "你好"
+      },
+      {
+        "text": "may",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "to Tom",
+        "role": "A",
+        "phonetic": "/tuː tɑːm/",
+        "chinese": "到/向/汤姆"
+      },
+      {
+        "text": "please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "我就是汤姆请讲",
+    "english": "This is Tom speaking",
+    "soundmark": "/ðɪs ɪz tɑːm ˈspiːkɪŋ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Tom",
+        "role": "C",
+        "phonetic": "/tɑːm/",
+        "chinese": "汤姆"
+      },
+      {
+        "text": "speaking",
+        "role": "V",
+        "phonetic": "/ˈspiːkɪŋ/",
+        "chinese": "发言的"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我留言吗",
+    "english": "Can you take a message for me",
+    "soundmark": "/kæn juː teɪk ə ˈmesɪdʒ fɔːr miː/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "a message",
+        "role": "O",
+        "phonetic": "/ə ˈmesɪdʒ/",
+        "chinese": "一个"
+      },
+      {
+        "text": "for me",
+        "role": "A",
+        "phonetic": "/fɔːr miː/",
+        "chinese": "为我"
+      }
+    ]
+  },
+  {
+    "chinese": "我稍后再打来",
+    "english": "I will call back later",
+    "soundmark": "/aɪ wɪl kɔːl bæk ˈleɪtər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will call back",
+        "role": "V",
+        "phonetic": "/wɪl kɔːl bæk/",
+        "chinese": "将要/打电话/叫/回/向后/背部"
+      },
+      {
+        "text": "later",
+        "role": "A",
+        "phonetic": "/ˈleɪtər/",
+        "chinese": "后来"
+      }
+    ]
+  },
+  {
+    "chinese": "对不起你打错了",
+    "english": "Sorry you have the wrong number",
+    "soundmark": "/ˈsɑːri juː hæv ðə rɔːŋ ˈnʌmbər/",
+    "grammar": [
+      {
+        "text": "Sorry",
+        "role": "Int",
+        "phonetic": "/ˈsɑːri/",
+        "chinese": "抱歉的"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "the wrong number",
+        "role": "O",
+        "phonetic": "/ðə rɔːŋ ˈnʌmbər/",
+        "chinese": "这个/那个/错的/数字"
+      }
+    ]
+  },
+  {
+    "chinese": "电话占线请稍等",
+    "english": "The line is busy please hold on",
+    "soundmark": "/ðə laɪn ɪz ˈbɪzi pliːz hoʊld ɑːn/",
+    "grammar": [
+      {
+        "text": "The line",
+        "role": "S",
+        "phonetic": "/ðə laɪn/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "busy",
+        "role": "C",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      },
+      {
+        "text": "please hold on",
+        "role": "A",
+        "phonetic": "/pliːz hoʊld ɑːn/",
+        "chinese": "握住/举办/在…上"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以留言吗他正在开会",
+    "english": "Can I leave a message he is in a meeting",
+    "soundmark": "/kæn aɪ liːv ə ˈmesɪdʒ hiː ɪz ɪn ə ˈmiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "a message",
+        "role": "O",
+        "phonetic": "/ə ˈmesɪdʒ/",
+        "chinese": "一个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in a meeting",
+        "role": "C",
+        "phonetic": "/ɪn ə ˈmiːtɪŋ/",
+        "chinese": "在…里/一个/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "请让他给我回电话",
+    "english": "Please ask him to call me back",
+    "soundmark": "/pliːz æsk hɪm tuː kɔːl miː bæk/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "ask",
+        "role": "V",
+        "phonetic": "/æsk/",
+        "chinese": "问"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "to call me back",
+        "role": "O",
+        "phonetic": "/tuː kɔːl miː bæk/",
+        "chinese": "到/向/打电话/叫/我/回/向后/背部"
+      }
+    ]
+  },
+  {
+    "chinese": "我的手机没电了",
+    "english": "My mobile phone is out of battery",
+    "soundmark": "/maɪ ˈmoʊbɪl foʊn ɪz aʊt ʌv ˈbætəri/",
+    "grammar": [
+      {
+        "text": "My mobile phone",
+        "role": "S",
+        "phonetic": "/maɪ ˈmoʊbɪl foʊn/",
+        "chinese": "我的/电话"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "out of battery",
+        "role": "C",
+        "phonetic": "/aʊt ʌv ˈbætəri/",
+        "chinese": "出去/…的/电池"
+      }
+    ]
+  },
+  {
+    "chinese": "你能大声一点吗信号不太好",
+    "english": "Can you speak louder the signal is not good",
+    "soundmark": "/kæn juː spiːk ˈlaʊdər ðə ˈsɪɡnəl ɪz nɑːt ɡʊd/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "speak louder",
+        "role": "V",
+        "phonetic": "/spiːk ˈlaʊdər/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "the signal",
+        "role": "S",
+        "phonetic": "/ðə ˈsɪɡnəl/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not good",
+        "role": "C",
+        "phonetic": "/nɑːt ɡʊd/",
+        "chinese": "不/好的"
+      }
+    ]
+  },
+  {
+    "chinese": "我一会儿再打过来",
+    "english": "I will call you back in a few minutes",
+    "soundmark": "/aɪ wɪl kɔːl juː bæk ɪn ə fjuː ˈmɪnɪts/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will call",
+        "role": "V",
+        "phonetic": "/wɪl kɔːl/",
+        "chinese": "将要/打电话/叫"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "back",
+        "role": "A",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "in a few minutes",
+        "role": "A",
+        "phonetic": "/ɪn ə fjuː ˈmɪnɪts/",
+        "chinese": "在…里/一个/很少/…们/复数(分钟)"
+      }
+    ]
+  },
+  {
+    "chinese": "你能把你的电话号码给我吗",
+    "english": "Can you give me your phone number",
+    "soundmark": "/kæn juː ɡɪv miː jɔːr foʊn ˈnʌmbər/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "your phone number",
+        "role": "O",
+        "phonetic": "/jɔːr foʊn ˈnʌmbər/",
+        "chinese": "你的/你们的/电话/数字"
+      }
+    ]
+  },
+  {
+    "chinese": "我稍后让他给你回电话好吗",
+    "english": "Shall I ask him to return your call later",
+    "soundmark": "/ʃæl aɪ æsk hɪm tuː rɪˈtɜːrn jɔːr kɔːl ˈleɪtər/",
+    "grammar": [
+      {
+        "text": "Shall",
+        "role": "V",
+        "phonetic": "/ʃæl/",
+        "chinese": "将要"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "ask",
+        "role": "V",
+        "phonetic": "/æsk/",
+        "chinese": "问"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "to return your call",
+        "role": "O",
+        "phonetic": "/tuː rɪˈtɜːrn jɔːr kɔːl/",
+        "chinese": "到/向/返回/你的/你们的/打电话/叫"
+      },
+      {
+        "text": "later",
+        "role": "A",
+        "phonetic": "/ˈleɪtər/",
+        "chinese": "后来"
+      }
+    ]
+  },
+  {
+    "chinese": "你刚才电话里说什么我没听清",
+    "english": "I did not hear what you said on the phone",
+    "soundmark": "/aɪ dɪd nɑːt hɪr wʌt juː sed ɑːn ðə foʊn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "did not hear",
+        "role": "V",
+        "phonetic": "/dɪd nɑːt hɪr/",
+        "chinese": "做/助动词（过去式）/不/听到"
+      },
+      {
+        "text": "what you said on the phone",
+        "role": "O",
+        "phonetic": "/wʌt juː sed ɑːn ðə foʊn/",
+        "chinese": "什么/你/你们/说（过去式）/在…上/这个/那个/电话"
+      }
+    ]
+  },
+  {
+    "chinese": "留言",
+    "english": "message",
+    "soundmark": "/ˈmesɪdʒ/"
+  },
+  {
+    "chinese": "号码",
+    "english": "number",
+    "soundmark": "/ˈnʌmbər/"
+  },
+  {
+    "chinese": "回电话",
+    "english": "call back",
+    "soundmark": "/kɔːl bæk/"
+  },
+  {
+    "chinese": "占线",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "线",
+    "english": "line",
+    "soundmark": "/laɪn/"
+  },
+  {
+    "chinese": "电池",
+    "english": "battery",
+    "soundmark": "/ˈbætəri/"
+  },
+  {
+    "chinese": "大声的",
+    "english": "louder",
+    "soundmark": "/ˈlaʊdər/"
+  },
+  {
+    "chinese": "会议",
+    "english": "meeting",
+    "soundmark": "/ˈmiːtɪŋ/"
+  },
+  {
+    "chinese": "文字",
+    "english": "text",
+    "soundmark": "/tekst/"
+  },
+  {
+    "chinese": "语音",
+    "english": "voice",
+    "soundmark": "/vɔɪs/"
+  },
+  {
+    "chinese": "我今天上午给你打了三次电话都没人接",
+    "english": "I called you three times this morning but no one answered",
+    "soundmark": "/aɪ kɔːld juː θriː taɪmz ðɪs ˈmɔːrnɪŋ bʌt noʊ wʌn ˈænsərd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "three times",
+        "role": "A",
+        "phonetic": "/θriː taɪmz/",
+        "chinese": "三/…们/复数(时间)"
+      },
+      {
+        "text": "this morning",
+        "role": "A",
+        "phonetic": "/ðɪs ˈmɔːrnɪŋ/",
+        "chinese": "今天早上"
+      },
+      {
+        "text": "but no one answered",
+        "role": "A",
+        "phonetic": "/bʌt noʊ wʌn ˈænsərd/",
+        "chinese": "但是/没有/一个/回答"
+      }
+    ]
+  },
+  {
+    "chinese": "我接了一个重要电话后忘记挂断了",
+    "english": "I forgot to hang up after an important call",
+    "soundmark": "/aɪ fərˈɡɑːt tuː hæŋ ʌp ˈæftər ən ɪmˈpɔːrtnt kɔːl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "forgot",
+        "role": "V",
+        "phonetic": "/fərˈɡɑːt/",
+        "chinese": "忘记（过去式）"
+      },
+      {
+        "text": "to hang up",
+        "role": "O",
+        "phonetic": "/tuː hæŋ ʌp/",
+        "chinese": "到/向/挂/向上"
+      },
+      {
+        "text": "after an important call",
+        "role": "A",
+        "phonetic": "/ˈæftər ən ɪmˈpɔːrtnt kɔːl/",
+        "chinese": "在…之后/一个/重要的/打电话/叫"
+      }
+    ]
+  },
+  {
+    "chinese": "请告诉我您的姓名和号码",
+    "english": "Please tell me your name and number",
+    "soundmark": "/pliːz tel miː jɔːr neɪm ænd ˈnʌmbər/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "your name and number",
+        "role": "O",
+        "phonetic": "/jɔːr neɪm ænd ˈnʌmbər/",
+        "chinese": "你的/你们的/名字/和/数字"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我不接电话请发短信给我",
+    "english": "If I do not answer please send me a text",
+    "soundmark": "/ɪf aɪ duː nɑːt ˈænsər pliːz send miː ə tekst/",
+    "grammar": [
+      {
+        "text": "If I do not answer",
+        "role": "A",
+        "phonetic": "/ɪf aɪ duː nɑːt ˈænsər/",
+        "chinese": "如果/我/做/助动词/不/回答"
+      },
+      {
+        "text": "please send",
+        "role": "V",
+        "phonetic": "/pliːz send/",
+        "chinese": "发送/寄"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a text",
+        "role": "O",
+        "phonetic": "/ə tekst/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我开会的时候你能等一下吗",
+    "english": "Can you hold on while I am in a meeting",
+    "soundmark": "/kæn juː hoʊld ɑːn waɪl aɪ æm ɪn ə ˈmiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "hold on",
+        "role": "V",
+        "phonetic": "/hoʊld ɑːn/",
+        "chinese": "等一下"
+      },
+      {
+        "text": "while I am in a meeting",
+        "role": "A",
+        "phonetic": "/waɪl aɪ æm ɪn ə ˈmiːtɪŋ/",
+        "chinese": "当…时/而/我/是/在…里/一个/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "我会把短信转告给他",
+    "english": "I will pass the message on to him",
+    "soundmark": "/aɪ wɪl pæs ðə ˈmesɪdʒ ɑːn tuː hɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will pass",
+        "role": "V",
+        "phonetic": "/wɪl pæs/",
+        "chinese": "将要/通过/传递"
+      },
+      {
+        "text": "the message",
+        "role": "O",
+        "phonetic": "/ðə ˈmesɪdʒ/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "on to him",
+        "role": "A",
+        "phonetic": "/ɑːn tuː hɪm/",
+        "chinese": "在…上/到/向/他"
+      }
+    ]
+  },
+  {
+    "chinese": "你能现在接电话吗有人在线上等",
+    "english": "Can you take the call now someone is on the line",
+    "soundmark": "/kæn juː teɪk ðə kɔːl naʊ ˈsʌmwʌn ɪz ɑːn ðə laɪn/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "the call",
+        "role": "O",
+        "phonetic": "/ðə kɔːl/",
+        "chinese": "这个/那个/打电话/叫"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "someone is on the line",
+        "role": "A",
+        "phonetic": "/ˈsʌmwʌn ɪz ɑːn ðə laɪn/",
+        "chinese": "某人/是/在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "传递",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "名字",
+    "english": "name",
+    "soundmark": "/neɪm/"
+  },
+  {
+    "chinese": "重要的",
+    "english": "important",
+    "soundmark": "/ɪmˈpɔːrtnt/"
+  },
+  {
+    "chinese": "忘记",
+    "english": "forget",
+    "soundmark": "/fərˈɡet/"
+  },
+  {
+    "chinese": "有人",
+    "english": "someone",
+    "soundmark": "/ˈsʌmwʌn/"
+  }
+]

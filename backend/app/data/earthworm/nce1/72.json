@@ -1,0 +1,536 @@
+[
+  {
+    "chinese": "红色的",
+    "english": "red",
+    "soundmark": "/red/"
+  },
+  {
+    "chinese": "蓝色的",
+    "english": "blue",
+    "soundmark": "/bluː/"
+  },
+  {
+    "chinese": "绿色的",
+    "english": "green",
+    "soundmark": "/griːn/"
+  },
+  {
+    "chinese": "黄色的",
+    "english": "yellow",
+    "soundmark": "/ˈjeləʊ/"
+  },
+  {
+    "chinese": "白色的",
+    "english": "white",
+    "soundmark": "/waɪt/"
+  },
+  {
+    "chinese": "黑色的",
+    "english": "black",
+    "soundmark": "/blæk/"
+  },
+  {
+    "chinese": "汽车；轿车",
+    "english": "car",
+    "soundmark": "/kɑː/"
+  },
+  {
+    "chinese": "颜色",
+    "english": "colour",
+    "soundmark": "/ˈkʌlə/"
+  },
+  {
+    "chinese": "浅色的",
+    "english": "light",
+    "soundmark": "/laɪt/"
+  },
+  {
+    "chinese": "深色的",
+    "english": "dark",
+    "soundmark": "/dɑːk/"
+  },
+  {
+    "chinese": "漂亮的",
+    "english": "pretty",
+    "soundmark": "/ˈprɪti/"
+  },
+  {
+    "chinese": "新的",
+    "english": "new",
+    "soundmark": "/njuː/"
+  },
+  {
+    "chinese": "旧的",
+    "english": "old",
+    "soundmark": "/əʊld/"
+  },
+  {
+    "chinese": "紫色的",
+    "english": "purple",
+    "soundmark": "/ˈpɜːpl/"
+  },
+  {
+    "chinese": "橙色的",
+    "english": "orange",
+    "soundmark": "/ˈɒrɪndʒ/"
+  },
+  {
+    "chinese": "灰色的",
+    "english": "grey",
+    "soundmark": "/greɪ/"
+  },
+  {
+    "chinese": "棕色的",
+    "english": "brown",
+    "soundmark": "/braʊn/"
+  },
+  {
+    "chinese": "粉色的",
+    "english": "pink",
+    "soundmark": "/pɪŋk/"
+  },
+  {
+    "chinese": "那是一辆红色的汽车。",
+    "english": "That is a red car.",
+    "soundmark": "/ðæt ɪz ə red kɑː/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "red",
+        "role": "C",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      },
+      {
+        "text": "car",
+        "role": "C",
+        "phonetic": "/kɑː/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "她的车是蓝色的。",
+    "english": "Her car is blue.",
+    "soundmark": "/hɜː kɑːr ɪz bluː/",
+    "grammar": [
+      {
+        "text": "Her",
+        "role": "Det",
+        "phonetic": "/hɜː/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "blue",
+        "role": "C",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      }
+    ]
+  },
+  {
+    "chinese": "他有一辆黑色的新车。",
+    "english": "He has a new black car.",
+    "soundmark": "/hiː hæz ə njuː blæk kɑː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/njuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "black",
+        "role": "C",
+        "phonetic": "/blæk/",
+        "chinese": "黑色的"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑː/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "这辆绿色的车很漂亮。",
+    "english": "This green car is pretty.",
+    "soundmark": "/ðɪs griːn kɑːr ɪz ˈprɪti/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "green",
+        "role": "C",
+        "phonetic": "/griːn/",
+        "chinese": "绿色的"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "pretty",
+        "role": "C",
+        "phonetic": "/ˈprɪti/",
+        "chinese": "漂亮的"
+      }
+    ]
+  },
+  {
+    "chinese": "我喜欢那辆白色的汽车。",
+    "english": "I like that white car.",
+    "soundmark": "/aɪ laɪk ðæt waɪt kɑː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "white",
+        "role": "C",
+        "phonetic": "/waɪt/",
+        "chinese": "白色的"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑː/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "你的车是什么颜色？",
+    "english": "What colour is your car?",
+    "soundmark": "/wɒt ˈkʌlə ɪz jɔː kɑː/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Int",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "colour",
+        "role": "S",
+        "phonetic": "/ˈkʌlə/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔː/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑː/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "那辆旧车是深色的。",
+    "english": "That old car is dark.",
+    "soundmark": "/ðæt əʊld kɑːr ɪz dɑːk/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/əʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "dark",
+        "role": "C",
+        "phonetic": "/dɑːk/",
+        "chinese": "黑暗的"
+      }
+    ]
+  },
+  {
+    "chinese": "她想要一辆红色的车。",
+    "english": "She wants a red car.",
+    "soundmark": "/ʃiː wɒnts ə red kɑː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "wants",
+        "role": "V",
+        "phonetic": "/wɒnts/",
+        "chinese": "想要"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "red",
+        "role": "C",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑː/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "我的车是浅色的。",
+    "english": "My car is light.",
+    "soundmark": "/maɪ kɑːr ɪz laɪt/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "light",
+        "role": "C",
+        "phonetic": "/laɪt/",
+        "chinese": "轻的/浅色的"
+      }
+    ]
+  },
+  {
+    "chinese": "黄色的车是旧的。",
+    "english": "The yellow car is old.",
+    "soundmark": "/ðə ˈjeləʊ kɑːr ɪz əʊld/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "yellow",
+        "role": "C",
+        "phonetic": "/ˈjeləʊ/",
+        "chinese": "黄色的"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/əʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "银色的",
+    "english": "silver",
+    "soundmark": "/ˈsɪlvə/"
+  },
+  {
+    "chinese": "金色的",
+    "english": "gold",
+    "soundmark": "/gəʊld/"
+  },
+  {
+    "chinese": "明亮的",
+    "english": "bright",
+    "soundmark": "/braɪt/"
+  },
+  {
+    "chinese": "暗淡的",
+    "english": "dull",
+    "soundmark": "/dʌl/"
+  },
+  {
+    "chinese": "鲜艳的",
+    "english": "vivid",
+    "soundmark": "/ˈvɪvɪd/"
+  },
+  {
+    "chinese": "苍白的",
+    "english": "pale",
+    "soundmark": "/peɪl/"
+  },
+  {
+    "chinese": "深红色的",
+    "english": "maroon",
+    "soundmark": "/məˈruːn/"
+  },
+  {
+    "chinese": "天蓝色的",
+    "english": "sky blue",
+    "soundmark": "/skaɪ bluː/"
+  },
+  {
+    "chinese": "草绿色的",
+    "english": "grass green",
+    "soundmark": "/grɑːs griːn/"
+  },
+  {
+    "chinese": "橙黄色的",
+    "english": "amber",
+    "soundmark": "/ˈæmbə/"
+  },
+  {
+    "chinese": "紫红色的",
+    "english": "magenta",
+    "soundmark": "/məˈdʒentə/"
+  },
+  {
+    "chinese": "蓝绿色的",
+    "english": "turquoise",
+    "soundmark": "/ˈtɜːkwɔɪz/"
+  },
+  {
+    "chinese": "米色的",
+    "english": "beige",
+    "soundmark": "/beɪʒ/"
+  },
+  {
+    "chinese": "象牙白的",
+    "english": "ivory",
+    "soundmark": "/ˈaɪvəri/"
+  },
+  {
+    "chinese": "炭黑色的",
+    "english": "charcoal",
+    "soundmark": "/ˈtʃɑːkəʊl/"
+  },
+  {
+    "chinese": "玫瑰色的",
+    "english": "rosy",
+    "soundmark": "/ˈrəʊzi/"
+  }
+]

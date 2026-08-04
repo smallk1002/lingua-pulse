@@ -1,0 +1,638 @@
+[
+  {
+    "chinese": "古董",
+    "english": "antique",
+    "soundmark": "/ænˈtiːk/"
+  },
+  {
+    "chinese": "着迷",
+    "english": "fascination",
+    "soundmark": "/ˌfæsɪˈneɪʃən/"
+  },
+  {
+    "chinese": "弯曲的",
+    "english": "bent",
+    "soundmark": "/bent/"
+  },
+  {
+    "chinese": "勉强",
+    "english": "reluctantly",
+    "soundmark": "/rɪˈlʌktəntli/"
+  },
+  {
+    "chinese": "奖励",
+    "english": "reward",
+    "soundmark": "/rɪˈwɔːrd/"
+  },
+  {
+    "chinese": "真品",
+    "english": "genuine",
+    "soundmark": "/ˈdʒenjuɪn/"
+  },
+  {
+    "chinese": "伪造的",
+    "english": "forgery",
+    "soundmark": "/ˈfɔːrdʒəri/"
+  },
+  {
+    "chinese": "检查",
+    "english": "examine",
+    "soundmark": "/ɪɡˈzæmɪn/"
+  },
+  {
+    "chinese": "正在寻找",
+    "english": "looking for",
+    "soundmark": "/ˈlʊkɪŋ fɔːr/"
+  },
+  {
+    "chinese": "正在检查",
+    "english": "examining",
+    "soundmark": "/ɪɡˈzæmɪnɪŋ/"
+  },
+  {
+    "chinese": "正在考虑",
+    "english": "considering",
+    "soundmark": "/kənˈsɪdərɪŋ/"
+  },
+  {
+    "chinese": "古董店",
+    "english": "antique shop",
+    "soundmark": "/ænˈtiːk ʃɒp/"
+  },
+  {
+    "chinese": "碰巧发现",
+    "english": "come across",
+    "soundmark": "/kʌm əˈkrɒs/"
+  },
+  {
+    "chinese": "他正在逛古董店。",
+    "english": "He was wandering around the antique shop",
+    "soundmark": "/hiː wʌz ˈwɒndərɪŋ əˈraʊnd ði ænˈtiːk ʃɒp/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "wandering",
+        "role": "V",
+        "phonetic": "/ˈwɒndərɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "around",
+        "role": "A",
+        "phonetic": "/əˈraʊnd/",
+        "chinese": "围绕/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "antique",
+        "role": "C",
+        "phonetic": "/ænˈtiːk/",
+        "chinese": "古董的"
+      },
+      {
+        "text": "shop",
+        "role": "A",
+        "phonetic": "/ʃɒp/",
+        "chinese": "商店"
+      }
+    ]
+  },
+  {
+    "chinese": "他正在仔细检查一幅画。",
+    "english": "He was carefully examining a painting",
+    "soundmark": "/hiː wʌz ˈkerfəli ɪɡˈzæmɪnɪŋ ə ˈpeɪntɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "carefully",
+        "role": "Adv",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      },
+      {
+        "text": "examining",
+        "role": "V",
+        "phonetic": "/ɪɡˈzæmɪnɪŋ/",
+        "chinese": "检查"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "painting",
+        "role": "O",
+        "phonetic": "/ˈpeɪntɪŋ/",
+        "chinese": "画的"
+      }
+    ]
+  },
+  {
+    "chinese": "我碰巧发现了一个有趣的物品。",
+    "english": "I happened to come across an interesting object",
+    "soundmark": "/aɪ ˈhæpənd tuː kʌm əˈkrɒs ən ˈɪntrəstɪŋ ˈɒbdʒɪkt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "across",
+        "role": "A",
+        "phonetic": "/əˈkrɒs/",
+        "chinese": "穿过/对面"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      },
+      {
+        "text": "object",
+        "role": "O",
+        "phonetic": "/ˈɒbdʒɪkt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "仔细看后他意识到这是一件真品。",
+    "english": "Examining it closely he realized it was a genuine article",
+    "soundmark": "/ɪɡˈzæmɪnɪŋ ɪt ˈkloʊsli hiː ˈriːəlaɪzd ɪt wʌz ə ˈdʒenjuɪn ˈɑːrtɪkəl/",
+    "grammar": [
+      {
+        "text": "Examining",
+        "role": "V",
+        "phonetic": "/ɪɡˈzæmɪnɪŋ/",
+        "chinese": "检查"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "closely",
+        "role": "Adv",
+        "phonetic": "/ˈkloʊsli/",
+        "chinese": "…地(关闭)"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "realized",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪzd/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "genuine",
+        "role": "C",
+        "phonetic": "/ˈdʒenjuɪn/",
+        "chinese": "真正的"
+      },
+      {
+        "text": "article",
+        "role": "C",
+        "phonetic": "/ˈɑːrtɪkəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "店主极不情愿地卖了它。",
+    "english": "The shopkeeper sold it very reluctantly",
+    "soundmark": "/ðə ˈʃɒpˌkiːpər soʊld ɪt ˈveri rɪˈlʌktəntli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shopkeeper",
+        "role": "S",
+        "phonetic": "/ˈʃɒpˌkiːpər/",
+        "chinese": ""
+      },
+      {
+        "text": "sold",
+        "role": "V",
+        "phonetic": "/soʊld/",
+        "chinese": "卖（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "reluctantly",
+        "role": "A",
+        "phonetic": "/rɪˈlʌktəntli/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "对古董着迷他花了整个下午浏览。",
+    "english": "Fascinated by antiques he spent the whole afternoon browsing",
+    "soundmark": "/ˈfæsɪneɪtɪd baɪ ænˈtiːks hiː spent ðə hoʊl ˌæftərˈnuːn ˈbraʊzɪŋ/",
+    "grammar": [
+      {
+        "text": "Fascinated",
+        "role": "V",
+        "phonetic": "/ˈfæsɪneɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "antiques",
+        "role": "A",
+        "phonetic": "/ænˈtiːks/",
+        "chinese": "…们/复数(古董的)"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "spent",
+        "role": "V",
+        "phonetic": "/spent/",
+        "chinese": "花费（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "C",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "afternoon",
+        "role": "O",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      },
+      {
+        "text": "browsing",
+        "role": "V",
+        "phonetic": "/ˈbraʊzɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "被赝品骗过多次他现在非常谨慎。",
+    "english": "Having been cheated by forgeries before he was now very cautious",
+    "soundmark": "/ˈhævɪŋ biːn ˈtʃiːtɪd baɪ ˈfɔːrdʒəriz bɪˈfɔːr hiː wʌz naʊ ˈveri ˈkɔːʃəs/",
+    "grammar": [
+      {
+        "text": "Having",
+        "role": "V",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "cheated",
+        "role": "V",
+        "phonetic": "/ˈtʃiːtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "forgeries",
+        "role": "A",
+        "phonetic": "/ˈfɔːrdʒəriz/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "cautious",
+        "role": "C",
+        "phonetic": "/ˈkɔːʃəs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在街上走着他突然注意到一家小店。",
+    "english": "Walking along the street he suddenly noticed a little shop",
+    "soundmark": "/ˈwɔːkɪŋ əˈlɔːŋ ðə striːt hiː ˈsʌdənli ˈnoʊtɪst ə ˈlɪtəl ʃɒp/",
+    "grammar": [
+      {
+        "text": "Walking",
+        "role": "V",
+        "phonetic": "/ˈwɔːkɪŋ/",
+        "chinese": "走路的"
+      },
+      {
+        "text": "along",
+        "role": "P",
+        "phonetic": "/əˈlɔːŋ/",
+        "chinese": "沿着"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "street",
+        "role": "A",
+        "phonetic": "/striːt/",
+        "chinese": "街道"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "suddenly",
+        "role": "Adv",
+        "phonetic": "/ˈsʌdənli/",
+        "chinese": "突然"
+      },
+      {
+        "text": "noticed",
+        "role": "V",
+        "phonetic": "/ˈnoʊtɪst/",
+        "chinese": "注意"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "little",
+        "role": "C",
+        "phonetic": "/ˈlɪtəl/",
+        "chinese": "小的/少的"
+      },
+      {
+        "text": "shop",
+        "role": "O",
+        "phonetic": "/ʃɒp/",
+        "chinese": "商店"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然价格不菲他觉得这奖励足以弥补风险。",
+    "english": "Though expensive he felt the reward was well worth the risk",
+    "soundmark": "/ðoʊ ɪkˈspensɪv hiː felt ðə rɪˈwɔːrd wʌz wel wɜːrθ ðə rɪsk/",
+    "grammar": [
+      {
+        "text": "Though",
+        "role": "A",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "expensive",
+        "role": "C",
+        "phonetic": "/ɪkˈspensɪv/",
+        "chinese": "昂贵的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "felt",
+        "role": "V",
+        "phonetic": "/felt/",
+        "chinese": "被感觉的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "reward",
+        "role": "S",
+        "phonetic": "/rɪˈwɔːrd/",
+        "chinese": "奖励"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "well",
+        "role": "Adv",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      },
+      {
+        "text": "worth",
+        "role": "C",
+        "phonetic": "/wɜːrθ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "risk",
+        "role": "O",
+        "phonetic": "/rɪsk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "古董",
+    "english": "antique",
+    "soundmark": "/ænˈtiːk/"
+  },
+  {
+    "chinese": "着迷",
+    "english": "fascination",
+    "soundmark": "/ˌfæsɪˈneɪʃən/"
+  },
+  {
+    "chinese": "勉强",
+    "english": "reluctantly",
+    "soundmark": "/rɪˈlʌktəntli/"
+  },
+  {
+    "chinese": "真品",
+    "english": "genuine",
+    "soundmark": "/ˈdʒenjuɪn/"
+  },
+  {
+    "chinese": "伪造的",
+    "english": "forgery",
+    "soundmark": "/ˈfɔːrdʒəri/"
+  },
+  {
+    "chinese": "检查",
+    "english": "examine",
+    "soundmark": "/ɪɡˈzæmɪn/"
+  },
+  {
+    "chinese": "谨慎的",
+    "english": "cautious",
+    "soundmark": "/ˈkɔːʃəs/"
+  },
+  {
+    "chinese": "奖励",
+    "english": "reward",
+    "soundmark": "/rɪˈwɔːrd/"
+  }
+]

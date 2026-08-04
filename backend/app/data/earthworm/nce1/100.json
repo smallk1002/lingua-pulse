@@ -1,0 +1,304 @@
+[
+  {
+    "english": "complaint",
+    "chinese": "投诉",
+    "soundmark": "/kəmˈpleɪnt/"
+  },
+  {
+    "english": "service",
+    "chinese": "服务",
+    "soundmark": "/ˈsɜːrvɪs/"
+  },
+  {
+    "english": "manager",
+    "chinese": "经理",
+    "soundmark": "/ˈmænɪdʒər/"
+  },
+  {
+    "english": "satisfied",
+    "chinese": "满意的",
+    "soundmark": "/ˈsætɪsfaɪd/"
+  },
+  {
+    "english": "refund",
+    "chinese": "退款",
+    "soundmark": "/ˈriːfʌnd/"
+  },
+  {
+    "english": "apologize",
+    "chinese": "道歉",
+    "soundmark": "/əˈpɑːlədʒaɪz/"
+  },
+  {
+    "chinese": "我想投诉一下你们的服务",
+    "english": "I'd like to make a complaint about your service",
+    "soundmark": "/aɪd laɪk tə meɪk ə kəmˈpleɪnt əˈbaʊt jʊr ˈsɜːrvɪs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "'d",
+        "role": "V",
+        "phonetic": "/d/",
+        "chinese": ""
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "make",
+        "role": "V",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "complaint",
+        "role": "O",
+        "phonetic": "/kəmˈpleɪnt/",
+        "chinese": ""
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jʊr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "service",
+        "role": "O",
+        "phonetic": "/ˈsɜːrvɪs/",
+        "chinese": "服务"
+      }
+    ]
+  },
+  {
+    "chinese": "我对产品很不满意",
+    "english": "I'm very dissatisfied with the product",
+    "soundmark": "/aɪm ˈveri dɪsˈsætɪsfaɪd wɪð ðə ˈprɑːdʌkt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "'m",
+        "role": "V",
+        "phonetic": "/m/",
+        "chinese": ""
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "dissatisfied",
+        "role": "C",
+        "phonetic": "/dɪsˈsætɪsfaɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "product",
+        "role": "O",
+        "phonetic": "/ˈprɑːdʌkt/",
+        "chinese": "产品"
+      }
+    ]
+  },
+  {
+    "chinese": "经理为此道歉了",
+    "english": "The manager apologized for this",
+    "soundmark": "/ðə ˈmænɪdʒər əˈpɑːlədʒaɪzd fɔːr ðɪs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "manager",
+        "role": "S",
+        "phonetic": "/ˈmænɪdʒər/",
+        "chinese": "更…的/…者(管理)"
+      },
+      {
+        "text": "apologized",
+        "role": "V",
+        "phonetic": "/əˈpɑːlədʒaɪzd/",
+        "chinese": "道歉"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "他们答应给我退款",
+    "english": "They promised to give me a refund",
+    "soundmark": "/ðeɪ ˈprɑːmɪst tə ɡɪv miː ə ˈriːfʌnd/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "promised",
+        "role": "V",
+        "phonetic": "/ˈprɑːmɪst/",
+        "chinese": "承诺"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "refund",
+        "role": "O",
+        "phonetic": "/ˈriːfʌnd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "希望问题能尽快解决",
+    "english": "I hope the problem can be resolved soon",
+    "soundmark": "/aɪ hoʊp ðə ˈprɑːbləm kæn biː rɪˈzɑːlvd suːn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hope",
+        "role": "V",
+        "phonetic": "/hoʊp/",
+        "chinese": "希望"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "problem",
+        "role": "S",
+        "phonetic": "/ˈprɑːbləm/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "resolved",
+        "role": "V",
+        "phonetic": "/rɪˈzɑːlvd/",
+        "chinese": ""
+      },
+      {
+        "text": "soon",
+        "role": "A",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      }
+    ]
+  },
+  {
+    "english": "frustrated",
+    "chinese": "沮丧的",
+    "soundmark": "/ˈfrʌstreɪtɪd/"
+  },
+  {
+    "english": "unacceptable",
+    "chinese": "不可接受的",
+    "soundmark": "/ˌʌnəkˈseptəbəl/"
+  },
+  {
+    "english": "solution",
+    "chinese": "解决方案",
+    "soundmark": "/səˈluːʃən/"
+  }
+]

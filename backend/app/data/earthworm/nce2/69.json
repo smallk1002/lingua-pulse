@@ -1,0 +1,301 @@
+[
+  {
+    "chinese": "谋杀(murder)",
+    "english": "murder",
+    "soundmark": "/ˈmɜːrdər/"
+  },
+  {
+    "chinese": "考试(exam)",
+    "english": "exam",
+    "soundmark": "/ɪɡˈzæm/"
+  },
+  {
+    "chinese": "考官(examiner)",
+    "english": "examiner",
+    "soundmark": "/ɪɡˈzæmɪnər/"
+  },
+  {
+    "chinese": "通过(pass)",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "驾驶(driving)",
+    "english": "driving",
+    "soundmark": "/ˈdraɪvɪŋ/"
+  },
+  {
+    "chinese": "刹车(brake)",
+    "english": "brake",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "chinese": "自信的(confident)",
+    "english": "confident",
+    "soundmark": "/ˈkɒnfɪdənt/"
+  },
+  {
+    "chinese": "紧张(nervous)",
+    "english": "nervous",
+    "soundmark": "/ˈnɜːrvəs/"
+  },
+  {
+    "chinese": "驾照",
+    "english": "driving licence",
+    "soundmark": "/ˈdraɪvɪŋ ˈlaɪsəns/"
+  },
+  {
+    "chinese": "驾驶考试",
+    "english": "the driving test",
+    "soundmark": "/ðə ˈdraɪvɪŋ test/"
+  },
+  {
+    "chinese": "踩刹车",
+    "english": "press the brake",
+    "soundmark": "/pres ðə breɪk/"
+  },
+  {
+    "chinese": "通过考试",
+    "english": "pass the exam",
+    "soundmark": "/pæs ði ɪɡˈzæm/"
+  },
+  {
+    "chinese": "这封信必须今天寄出",
+    "english": "This letter must be sent today",
+    "soundmark": "/ðɪs ˈletər mʌst biː sent təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "letter",
+        "role": "S",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "sent",
+        "role": "V",
+        "phonetic": "/sent/",
+        "chinese": "寄/发送（过去式）"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "这项工作应该立即完成",
+    "english": "This work should be done immediately",
+    "soundmark": "/ðɪs wɜːrk ʃʊd biː dʌn ɪˈmiːdiətli/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "work",
+        "role": "S",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "done",
+        "role": "V",
+        "phonetic": "/dʌn/",
+        "chinese": "做好的"
+      },
+      {
+        "text": "immediately",
+        "role": "A",
+        "phonetic": "/ɪˈmiːdiətli/",
+        "chinese": "立刻"
+      }
+    ]
+  },
+  {
+    "chinese": "这些规则必须被遵守",
+    "english": "These rules must be followed",
+    "soundmark": "/ðiːz ruːlz mʌst biː ˈfɒloʊd/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "rules",
+        "role": "S",
+        "phonetic": "/ruːlz/",
+        "chinese": "规则/统治"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "followed",
+        "role": "V",
+        "phonetic": "/ˈfɒloʊd/",
+        "chinese": "跟随"
+      }
+    ]
+  },
+  {
+    "chinese": "考试可以被再次安排",
+    "english": "The exam can be arranged again",
+    "soundmark": "/ði ɪɡˈzæm kæn biː əˈreɪndʒd əˈɡen/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "exam",
+        "role": "S",
+        "phonetic": "/ɪɡˈzæm/",
+        "chinese": "考试"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "arranged",
+        "role": "V",
+        "phonetic": "/əˈreɪndʒd/",
+        "chinese": "安排"
+      },
+      {
+        "text": "again",
+        "role": "A",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      }
+    ]
+  },
+  {
+    "chinese": "这道门不应该被锁上",
+    "english": "This door should not be locked",
+    "soundmark": "/ðɪs dɔːr ʃʊd nɒt biː lɒkt/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "door",
+        "role": "S",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "locked",
+        "role": "V",
+        "phonetic": "/lɒkt/",
+        "chinese": "锁"
+      }
+    ]
+  },
+  {
+    "chinese": "考试(exam)",
+    "english": "exam",
+    "soundmark": "/ɪɡˈzæm/"
+  },
+  {
+    "chinese": "通过(pass)",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "自信的(confident)",
+    "english": "confident",
+    "soundmark": "/ˈkɒnfɪdənt/"
+  },
+  {
+    "chinese": "紧张(nervous)",
+    "english": "nervous",
+    "soundmark": "/ˈnɜːrvəs/"
+  },
+  {
+    "chinese": "必须被(must be)",
+    "english": "must be",
+    "soundmark": "/mʌst biː/"
+  },
+  {
+    "chinese": "应该被(should be)",
+    "english": "should be",
+    "soundmark": "/ʃʊd biː/"
+  }
+]

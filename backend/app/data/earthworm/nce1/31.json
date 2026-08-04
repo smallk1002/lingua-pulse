@@ -1,0 +1,905 @@
+[
+  {
+    "chinese": "走",
+    "english": "walk",
+    "soundmark": "/wɔːk/"
+  },
+  {
+    "chinese": "跑",
+    "english": "run",
+    "soundmark": "/rʌn/"
+  },
+  {
+    "chinese": "坐",
+    "english": "sit",
+    "soundmark": "/sɪt/"
+  },
+  {
+    "chinese": "站",
+    "english": "stand",
+    "soundmark": "/stænd/"
+  },
+  {
+    "chinese": "读",
+    "english": "read",
+    "soundmark": "/riːd/"
+  },
+  {
+    "chinese": "写",
+    "english": "write",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "chinese": "听",
+    "english": "listen",
+    "soundmark": "/ˈlɪsən/"
+  },
+  {
+    "chinese": "看",
+    "english": "look",
+    "soundmark": "/lʊk/"
+  },
+  {
+    "chinese": "说",
+    "english": "speak",
+    "soundmark": "/spiːk/"
+  },
+  {
+    "chinese": "唱",
+    "english": "sing",
+    "soundmark": "/sɪŋ/"
+  },
+  {
+    "chinese": "跳舞",
+    "english": "dance",
+    "soundmark": "/dæns/"
+  },
+  {
+    "chinese": "玩",
+    "english": "play",
+    "soundmark": "/pleɪ/"
+  },
+  {
+    "chinese": "工作",
+    "english": "work",
+    "soundmark": "/wɜːrk/"
+  },
+  {
+    "chinese": "烹饪",
+    "english": "cook",
+    "soundmark": "/kʊk/"
+  },
+  {
+    "chinese": "清洁",
+    "english": "clean",
+    "soundmark": "/kliːn/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "chinese": "此刻",
+    "english": "at the moment",
+    "soundmark": "/æt/ /ðə/ /ˈmoʊmənt/"
+  },
+  {
+    "chinese": "正在看书",
+    "english": "reading a book",
+    "soundmark": "/ˈriːdɪŋ/ /ə/ /bʊk/"
+  },
+  {
+    "chinese": "在写信",
+    "english": "writing a letter",
+    "soundmark": "/ˈraɪtɪŋ/ /ə/ /ˈletər/"
+  },
+  {
+    "chinese": "在听音乐",
+    "english": "listening to music",
+    "soundmark": "/ˈlɪsənɪŋ/ /tuː/ /ˈmjuːzɪk/"
+  },
+  {
+    "chinese": "我正在读书",
+    "english": "I am reading a book",
+    "soundmark": "/aɪ/ /æm/ /ˈriːdɪŋ/ /ə/ /bʊk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "reading",
+        "role": "V",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "她正在唱歌",
+    "english": "She is singing",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈsɪŋɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "singing",
+        "role": "V",
+        "phonetic": "/ˈsɪŋɪŋ/",
+        "chinese": "唱歌的"
+      }
+    ]
+  },
+  {
+    "chinese": "他们正在踢足球",
+    "english": "They are playing football",
+    "soundmark": "/ðeɪ/ /ɑːr/ /ˈpleɪɪŋ/ /ˈfʊtbɔːl/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "playing",
+        "role": "V",
+        "phonetic": "/ˈpleɪɪŋ/",
+        "chinese": "玩的/演奏的"
+      },
+      {
+        "text": "football",
+        "role": "O",
+        "phonetic": "/ˈfʊtbɔːl/",
+        "chinese": "足球"
+      }
+    ]
+  },
+  {
+    "chinese": "他正在做饭",
+    "english": "He is cooking",
+    "soundmark": "/hiː/ /ɪz/ /ˈkʊkɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "cooking",
+        "role": "V",
+        "phonetic": "/ˈkʊkɪŋ/",
+        "chinese": "做饭的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们正在看电视",
+    "english": "We are watching television",
+    "soundmark": "/wiː/ /ɑːr/ /ˈwɑːtʃɪŋ/ /ˈteləvɪʒən/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "watching",
+        "role": "V",
+        "phonetic": "/ˈwɑːtʃɪŋ/",
+        "chinese": "看的"
+      },
+      {
+        "text": "television",
+        "role": "O",
+        "phonetic": "/ˈteləvɪʒən/",
+        "chinese": "电视"
+      }
+    ]
+  },
+  {
+    "chinese": "狗正在跑",
+    "english": "The dog is running",
+    "soundmark": "/ðə/ /dɔːɡ/ /ɪz/ /ˈrʌnɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "running",
+        "role": "V",
+        "phonetic": "/ˈrʌnɪŋ/",
+        "chinese": "跑步的/流动的"
+      }
+    ]
+  },
+  {
+    "chinese": "猫正在睡觉",
+    "english": "The cat is sleeping",
+    "soundmark": "/ðə/ /kæt/ /ɪz/ /ˈsliːpɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "sleeping",
+        "role": "V",
+        "phonetic": "/ˈsliːpɪŋ/",
+        "chinese": "睡觉的"
+      }
+    ]
+  },
+  {
+    "chinese": "我没在读书",
+    "english": "I am not reading",
+    "soundmark": "/aɪ/ /æm/ /nɑːt/ /ˈriːdɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "reading",
+        "role": "V",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      }
+    ]
+  },
+  {
+    "chinese": "她没在跳舞",
+    "english": "She is not dancing",
+    "soundmark": "/ʃiː/ /ɪz/ /nɑːt/ /ˈdænsɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "dancing",
+        "role": "V",
+        "phonetic": "/ˈdænsɪŋ/",
+        "chinese": "跳舞的"
+      }
+    ]
+  },
+  {
+    "chinese": "你在做什么",
+    "english": "What are you doing",
+    "soundmark": "/wʌt/ /ɑːr/ /juː/ /ˈduːɪŋ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "他正在跑步吗",
+    "english": "Is he running",
+    "soundmark": "/ɪz/ /hiː/ /ˈrʌnɪŋ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "running",
+        "role": "V",
+        "phonetic": "/ˈrʌnɪŋ/",
+        "chinese": "跑步的/流动的"
+      }
+    ]
+  },
+  {
+    "chinese": "孩子们在花园里玩吗",
+    "english": "Are the children playing in the garden",
+    "soundmark": "/ɑːr/ /ðə/ /ˈtʃɪldrən/ /ˈpleɪɪŋ/ /ɪn/ /ðə/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "children",
+        "role": "S",
+        "phonetic": "/ˈtʃɪldrən/",
+        "chinese": "孩子们"
+      },
+      {
+        "text": "playing",
+        "role": "V",
+        "phonetic": "/ˈpleɪɪŋ/",
+        "chinese": "玩的/演奏的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在打扫房间而他在看电视",
+    "english": "I am cleaning the room and he is watching TV",
+    "soundmark": "/aɪ/ /æm/ /ˈkliːnɪŋ/ /ðə/ /ruːm/ /ænd/ /hiː/ /ɪz/ /ˈwɑːtʃɪŋ/ /ˌtiːˈviː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "cleaning",
+        "role": "V",
+        "phonetic": "/ˈkliːnɪŋ/",
+        "chinese": "清洁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "room",
+        "role": "O",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "watching",
+        "role": "V",
+        "phonetic": "/ˈwɑːtʃɪŋ/",
+        "chinese": "看的"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      }
+    ]
+  },
+  {
+    "chinese": "她正在学英语因为她想去伦敦",
+    "english": "She is learning English because she wants to go to London",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈlɜːrnɪŋ/ /ˈɪŋɡlɪʃ/ /bɪˈkɔːz/ /ʃiː/ /wɑːnts/ /tuː/ /ɡoʊ/ /tuː/ /ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "learning",
+        "role": "V",
+        "phonetic": "/ˈlɜːrnɪŋ/",
+        "chinese": "学习"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "wants",
+        "role": "V",
+        "phonetic": "/wɑːnts/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "London",
+        "role": "O",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "太阳在照耀鸟儿在歌唱",
+    "english": "The sun is shining and the birds are singing",
+    "soundmark": "/ðə/ /sʌn/ /ɪz/ /ˈʃaɪnɪŋ/ /ænd/ /ðə/ /bɜːrdz/ /ɑːr/ /ˈsɪŋɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sun",
+        "role": "S",
+        "phonetic": "/sʌn/",
+        "chinese": "太阳"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "shining",
+        "role": "V",
+        "phonetic": "/ˈʃaɪnɪŋ/",
+        "chinese": "闪耀的/发光的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "birds",
+        "role": "S",
+        "phonetic": "/bɜːrdz/",
+        "chinese": "鸟"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "singing",
+        "role": "V",
+        "phonetic": "/ˈsɪŋɪŋ/",
+        "chinese": "唱歌的"
+      }
+    ]
+  },
+  {
+    "chinese": "学习",
+    "english": "learn",
+    "soundmark": "/lɜːrn/"
+  },
+  {
+    "chinese": "睡觉",
+    "english": "sleep",
+    "soundmark": "/sliːp/"
+  },
+  {
+    "chinese": "看(电视)",
+    "english": "watch",
+    "soundmark": "/wɑːtʃ/"
+  },
+  {
+    "chinese": "做",
+    "english": "do",
+    "soundmark": "/duː/"
+  },
+  {
+    "chinese": "正在...",
+    "english": "be doing",
+    "soundmark": "/biː/ /ˈduːɪŋ/"
+  },
+  {
+    "chinese": "电视",
+    "english": "television",
+    "soundmark": "/ˈteləvɪʒən/"
+  },
+  {
+    "chinese": "花园",
+    "english": "garden",
+    "soundmark": "/ˈɡɑːrdən/"
+  },
+  {
+    "chinese": "鸟",
+    "english": "bird",
+    "soundmark": "/bɜːrd/"
+  },
+  {
+    "chinese": "在看电视",
+    "english": "watching TV",
+    "soundmark": "/ˈwɑːtʃɪŋ/ /ˌtiːˈviː/"
+  },
+  {
+    "chinese": "在花园里玩",
+    "english": "playing in the garden",
+    "soundmark": "/ˈpleɪɪŋ/ /ɪn/ /ðə/ /ˈɡɑːrdən/"
+  },
+  {
+    "chinese": "雨停了太阳出来了",
+    "english": "The rain is stopping and the sun is coming out",
+    "soundmark": "/ðə/ /reɪn/ /ɪz/ /ˈstɑːpɪŋ/ /ænd/ /ðə/ /sʌn/ /ɪz/ /ˈkʌmɪŋ/ /aʊt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rain",
+        "role": "S",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "stopping",
+        "role": "V",
+        "phonetic": "/ˈstɑːpɪŋ/",
+        "chinese": "停止"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sun",
+        "role": "S",
+        "phonetic": "/sʌn/",
+        "chinese": "太阳"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "coming",
+        "role": "V",
+        "phonetic": "/ˈkʌmɪŋ/",
+        "chinese": "来"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      }
+    ]
+  },
+  {
+    "chinese": "你为什么在笑",
+    "english": "Why are you laughing",
+    "soundmark": "/waɪ/ /ɑːr/ /juː/ /ˈlæfɪŋ/",
+    "grammar": [
+      {
+        "text": "Why",
+        "role": "Adv",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "laughing",
+        "role": "V",
+        "phonetic": "/ˈlæfɪŋ/",
+        "chinese": "笑的"
+      }
+    ]
+  },
+  {
+    "chinese": "学生们正在教室里写作业",
+    "english": "The students are doing their homework in the classroom",
+    "soundmark": "/ðə/ /ˈstuːdənts/ /ɑːr/ /ˈduːɪŋ/ /ðer/ /ˈhoʊmwɜːrk/ /ɪn/ /ðə/ /ˈklæsrʊm/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "students",
+        "role": "S",
+        "phonetic": "/ˈstuːdənts/",
+        "chinese": "学生"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "classroom",
+        "role": "O",
+        "phonetic": "/ˈklæsrʊm/",
+        "chinese": "教室"
+      }
+    ]
+  },
+  {
+    "chinese": "笑",
+    "english": "laugh",
+    "soundmark": "/læf/"
+  },
+  {
+    "chinese": "作业",
+    "english": "homework",
+    "soundmark": "/ˈhoʊmwɜːrk/"
+  },
+  {
+    "chinese": "教室",
+    "english": "classroom",
+    "soundmark": "/ˈklæsrʊm/"
+  }
+]

@@ -1,0 +1,531 @@
+[
+  {
+    "chinese": "特快",
+    "english": "express",
+    "soundmark": "/ɪkˈspres/"
+  },
+  {
+    "chinese": "准时",
+    "english": "punctual",
+    "soundmark": "/ˈpʌŋktʃuəl/"
+  },
+  {
+    "chinese": "时刻表",
+    "english": "timetable",
+    "soundmark": "/ˈtaɪmˌteɪbəl/"
+  },
+  {
+    "chinese": "延误",
+    "english": "delay",
+    "soundmark": "/dɪˈleɪ/"
+  },
+  {
+    "chinese": "抱怨",
+    "english": "complain",
+    "soundmark": "/kəmˈpleɪn/"
+  },
+  {
+    "chinese": "怀疑的",
+    "english": "suspicious",
+    "soundmark": "/səˈspɪʃəs/"
+  },
+  {
+    "chinese": "不可能",
+    "english": "impossible",
+    "soundmark": "/ɪmˈpɒsɪbəl/"
+  },
+  {
+    "chinese": "查阅",
+    "english": "consult",
+    "soundmark": "/kənˈsʌlt/"
+  },
+  {
+    "chinese": "肯定已经",
+    "english": "must have been",
+    "soundmark": "/mʌst hæv biːn/"
+  },
+  {
+    "chinese": "可能已经",
+    "english": "might have been",
+    "soundmark": "/maɪt hæv biːn/"
+  },
+  {
+    "chinese": "不可能已经",
+    "english": "couldn't have been",
+    "soundmark": "/ˈkʊdnt hæv biːn/"
+  },
+  {
+    "chinese": "火车肯定已经晚点了。",
+    "english": "The train must have been delayed",
+    "soundmark": "/ðə treɪn mʌst hæv biːn dɪˈleɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "train",
+        "role": "S",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "delayed",
+        "role": "V",
+        "phonetic": "/dɪˈleɪd/",
+        "chinese": "延误"
+      }
+    ]
+  },
+  {
+    "chinese": "你可能看错时刻表了。",
+    "english": "You might have read the timetable wrong",
+    "soundmark": "/juː maɪt hæv red ðə ˈtaɪmˌteɪbəl rɒŋ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/red/",
+        "chinese": "读"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "timetable",
+        "role": "O",
+        "phonetic": "/ˈtaɪmˌteɪbəl/",
+        "chinese": ""
+      },
+      {
+        "text": "wrong",
+        "role": "C",
+        "phonetic": "/rɒŋ/",
+        "chinese": "错的"
+      }
+    ]
+  },
+  {
+    "chinese": "他不可能赶上那班火车的。",
+    "english": "He couldn't have caught that train",
+    "soundmark": "/hiː ˈkʊdnt hæv kɔːt ðæt treɪn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "couldn't",
+        "role": "V",
+        "phonetic": "/ˈkʊdnt/",
+        "chinese": "不能（过去）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "train",
+        "role": "O",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      }
+    ]
+  },
+  {
+    "chinese": "他们现在应该已经到了。",
+    "english": "They should have arrived by now",
+    "soundmark": "/ðeɪ ʃʊd hæv əˈraɪvd baɪ naʊ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "她肯定忘记看时刻表了。",
+    "english": "She must have forgotten to check the timetable",
+    "soundmark": "/ʃiː mʌst hæv fərˈɡɒtən tuː tʃek ðə ˈtaɪmˌteɪbəl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "forgotten",
+        "role": "V",
+        "phonetic": "/fərˈɡɒtən/",
+        "chinese": "被遗忘的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "check",
+        "role": "V",
+        "phonetic": "/tʃek/",
+        "chinese": "检查"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "timetable",
+        "role": "O",
+        "phonetic": "/ˈtaɪmˌteɪbəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "乘客开始抱怨延误了。",
+    "english": "The passengers began to complain about the delay",
+    "soundmark": "/ðə ˈpæsɪndʒərz bɪˈɡæn tuː kəmˈpleɪn əˈbaʊt ðə dɪˈleɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "passengers",
+        "role": "S",
+        "phonetic": "/ˈpæsɪndʒərz/",
+        "chinese": "乘客"
+      },
+      {
+        "text": "began",
+        "role": "V",
+        "phonetic": "/bɪˈɡæn/",
+        "chinese": "开始（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "complain",
+        "role": "V",
+        "phonetic": "/kəmˈpleɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "delay",
+        "role": "O",
+        "phonetic": "/dɪˈleɪ/",
+        "chinese": "延误"
+      }
+    ]
+  },
+  {
+    "chinese": "我怀疑我们可能上了错误的车站。",
+    "english": "I suspect we might have gone to the wrong station",
+    "soundmark": "/aɪ səˈspekt wiː maɪt hæv ɡɒn tuː ðə rɒŋ ˈsteɪʃən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "suspect",
+        "role": "V",
+        "phonetic": "/səˈspekt/",
+        "chinese": "怀疑"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɒn/",
+        "chinese": "去（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wrong",
+        "role": "C",
+        "phonetic": "/rɒŋ/",
+        "chinese": "错的"
+      },
+      {
+        "text": "station",
+        "role": "A",
+        "phonetic": "/ˈsteɪʃən/",
+        "chinese": "车站"
+      }
+    ]
+  },
+  {
+    "chinese": "看来这趟特快不像我想的那么准时。",
+    "english": "It appears that the express is not as punctual as I thought",
+    "soundmark": "/ɪt əˈpɪrz ðæt ði ɪkˈspres ɪz nɑːt æz ˈpʌŋktʃuəl æz aɪ θɔːt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "appears",
+        "role": "V",
+        "phonetic": "/əˈpɪrz/",
+        "chinese": "出现"
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "express",
+        "role": "S",
+        "phonetic": "/ɪkˈspres/",
+        "chinese": "表达"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "punctual",
+        "role": "C",
+        "phonetic": "/ˈpʌŋktʃuəl/",
+        "chinese": ""
+      },
+      {
+        "text": "as",
+        "role": "A",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɔːt/",
+        "chinese": "想/认为（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "特快",
+    "english": "express",
+    "soundmark": "/ɪkˈspres/"
+  },
+  {
+    "chinese": "准时",
+    "english": "punctual",
+    "soundmark": "/ˈpʌŋktʃuəl/"
+  },
+  {
+    "chinese": "时刻表",
+    "english": "timetable",
+    "soundmark": "/ˈtaɪmˌteɪbəl/"
+  },
+  {
+    "chinese": "延误",
+    "english": "delay",
+    "soundmark": "/dɪˈleɪ/"
+  },
+  {
+    "chinese": "抱怨",
+    "english": "complain",
+    "soundmark": "/kəmˈpleɪn/"
+  },
+  {
+    "chinese": "怀疑的",
+    "english": "suspicious",
+    "soundmark": "/səˈspɪʃəs/"
+  },
+  {
+    "chinese": "猜测",
+    "english": "suspect",
+    "soundmark": "/səˈspekt/"
+  },
+  {
+    "chinese": "乘客",
+    "english": "passenger",
+    "soundmark": "/ˈpæsɪndʒər/"
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "chinese": "汽车",
+    "english": "car",
+    "soundmark": "/kɑːr/"
+  },
+  {
+    "chinese": "纪录",
+    "english": "record",
+    "soundmark": "/ˈrekɔːrd/"
+  },
+  {
+    "chinese": "速度",
+    "english": "speed",
+    "soundmark": "/spiːd/"
+  },
+  {
+    "chinese": "比赛",
+    "english": "race",
+    "soundmark": "/reɪs/"
+  },
+  {
+    "chinese": "司机",
+    "english": "driver",
+    "soundmark": "/ˈdraɪvər/"
+  },
+  {
+    "chinese": "发动机",
+    "english": "engine",
+    "soundmark": "/ˈendʒɪn/"
+  },
+  {
+    "chinese": "设计",
+    "english": "design",
+    "soundmark": "/dɪˈzaɪn/"
+  },
+  {
+    "chinese": "打破",
+    "english": "break",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "chinese": "英里",
+    "english": "mile",
+    "soundmark": "/maɪl/"
+  },
+  {
+    "chinese": "平均",
+    "english": "average",
+    "soundmark": "/ˈævərɪdʒ/"
+  },
+  {
+    "chinese": "打破纪录",
+    "english": "break the record",
+    "soundmark": "/breɪk ðə ˈrekɔːrd/"
+  },
+  {
+    "chinese": "创下新纪录",
+    "english": "set a new record",
+    "soundmark": "/set ə nuː ˈrekɔːrd/"
+  },
+  {
+    "chinese": "以……速度",
+    "english": "at a speed of",
+    "soundmark": "/æt ə spiːd əv/"
+  },
+  {
+    "chinese": "到……时候",
+    "english": "by the time",
+    "soundmark": "/baɪ ðə taɪm/"
+  },
+  {
+    "chinese": "他已经创下了新的世界纪录",
+    "english": "He had already set a new world record",
+    "soundmark": "/hiː hæd ɔːlˈredi set ə nuː wɜːrld ˈrekɔːrd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "set",
+        "role": "V",
+        "phonetic": "/set/",
+        "chinese": "设置/安置"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "world",
+        "role": "C",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "record",
+        "role": "O",
+        "phonetic": "/ˈrekɔːrd/",
+        "chinese": "记录"
+      }
+    ]
+  },
+  {
+    "chinese": "到他三十岁时他已经赢了很多比赛",
+    "english": "By the time he was thirty he had won many races",
+    "soundmark": "/baɪ ðə taɪm hiː wʌz ˈθɜːrti hiː hæd wʌn ˈmeni ˈreɪsɪz/",
+    "grammar": [
+      {
+        "text": "By",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "thirty",
+        "role": "C",
+        "phonetic": "/ˈθɜːrti/",
+        "chinese": "三十"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "won",
+        "role": "V",
+        "phonetic": "/wʌn/",
+        "chinese": "赢（过去式）"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "races",
+        "role": "O",
+        "phonetic": "/ˈreɪsɪz/",
+        "chinese": "赛跑"
+      }
+    ]
+  },
+  {
+    "chinese": "这辆车是专门为这场比赛设计的",
+    "english": "The car had been specially designed for the race",
+    "soundmark": "/ðə kɑːr hæd biːn ˈspeʃəli dɪˈzaɪnd fɔːr ðə reɪs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "specially",
+        "role": "A",
+        "phonetic": "/ˈspeʃəli/",
+        "chinese": "…地(特别的)"
+      },
+      {
+        "text": "designed",
+        "role": "V",
+        "phonetic": "/dɪˈzaɪnd/",
+        "chinese": "设计的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "race",
+        "role": "A",
+        "phonetic": "/reɪs/",
+        "chinese": "赛跑"
+      }
+    ]
+  },
+  {
+    "chinese": "我到家之前他就已经把车修好了",
+    "english": "He had already repaired the car before I got home",
+    "soundmark": "/hiː hæd ɔːlˈredi rɪˈperd ðə kɑːr bɪˈfɔːr aɪ ɡɒt hoʊm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "repaired",
+        "role": "V",
+        "phonetic": "/rɪˈperd/",
+        "chinese": "修理"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "got",
+        "role": "V",
+        "phonetic": "/ɡɒt/",
+        "chinese": "得到（过去式）"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "她离开后我才想起我忘了钥匙",
+    "english": "After she had left I remembered I had forgotten the key",
+    "soundmark": "/ˈæftər ʃiː hæd left aɪ rɪˈmembərd aɪ hæd fərˈɡɒtən ðə kiː/",
+    "grammar": [
+      {
+        "text": "After",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "remembered",
+        "role": "V",
+        "phonetic": "/rɪˈmembərd/",
+        "chinese": "记住"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "forgotten",
+        "role": "V",
+        "phonetic": "/fərˈɡɒtən/",
+        "chinese": "被遗忘的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "key",
+        "role": "O",
+        "phonetic": "/kiː/",
+        "chinese": "钥匙"
+      }
+    ]
+  },
+  {
+    "chinese": "我以前从没开过这么快的车",
+    "english": "I had never driven such a fast car before",
+    "soundmark": "/aɪ hæd ˈnevər ˈdrɪvən sʌtʃ ə fæst kɑːr bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "driven",
+        "role": "V",
+        "phonetic": "/ˈdrɪvən/",
+        "chinese": "被驱动的"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fast",
+        "role": "C",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "汽车",
+    "english": "car",
+    "soundmark": "/kɑːr/"
+  },
+  {
+    "chinese": "纪录",
+    "english": "record",
+    "soundmark": "/ˈrekɔːrd/"
+  },
+  {
+    "chinese": "速度",
+    "english": "speed",
+    "soundmark": "/spiːd/"
+  },
+  {
+    "chinese": "比赛",
+    "english": "race",
+    "soundmark": "/reɪs/"
+  },
+  {
+    "chinese": "到……时候",
+    "english": "by the time",
+    "soundmark": "/baɪ ðə taɪm/"
+  },
+  {
+    "chinese": "已经……了",
+    "english": "had already",
+    "soundmark": "/hæd ɔːlˈredi/"
+  }
+]

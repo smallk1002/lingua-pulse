@@ -1,0 +1,462 @@
+[
+  {
+    "chinese": "手术",
+    "english": "operation",
+    "soundmark": "/ˌɑːpəˈreɪʃn/"
+  },
+  {
+    "chinese": "询问",
+    "english": "ask",
+    "soundmark": "/æsk/"
+  },
+  {
+    "chinese": "回答",
+    "english": "reply",
+    "soundmark": "/rɪˈplaɪ/"
+  },
+  {
+    "chinese": "亲戚",
+    "english": "relative",
+    "soundmark": "/ˈrelətɪv/"
+  },
+  {
+    "chinese": "病人",
+    "english": "patient",
+    "soundmark": "/ˈpeɪʃnt/"
+  },
+  {
+    "chinese": "秘密",
+    "english": "secret",
+    "soundmark": "/ˈsiːkrət/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɑːspɪtl/"
+  },
+  {
+    "chinese": "询问",
+    "english": "inquire",
+    "soundmark": "/ɪnˈkwaɪər/"
+  },
+  {
+    "chinese": "他说他感觉很好。",
+    "english": "He said that he felt very well",
+    "soundmark": "/hiː sed ðæt hiː felt ˈveri wel/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that he felt very well",
+        "role": "O",
+        "phonetic": "/ðæt hiː felt ˈveri wel/",
+        "chinese": "那个/他/被感觉的/非常/好"
+      }
+    ]
+  },
+  {
+    "chinese": "她问我是否认识那个人。",
+    "english": "She asked me if I knew that man",
+    "soundmark": "/ʃiː æskt miː ɪf aɪ nuː ðæt mæn/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "if I knew that man",
+        "role": "O",
+        "phonetic": "/ɪf aɪ nuː ðæt mæn/",
+        "chinese": "如果/我/知道（过去式）/那个/男人"
+      }
+    ]
+  },
+  {
+    "chinese": "他告诉她他第二天就会出院。",
+    "english": "He told her that he would leave the hospital the next day",
+    "soundmark": "/hiː toʊld hɜːr ðæt hiː wʊd liːv ðə ˈhɑːspɪtl ðə nekst deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "that he would leave the hospital the next day",
+        "role": "O",
+        "phonetic": "/ðæt hiː wʊd liːv ðə ˈhɑːspɪtl ðə nekst deɪ/",
+        "chinese": "那个/他/将会/离开/这个/那个/医院/这个/那个/下一个/接下来/天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "医生说我恢复得很好。",
+    "english": "The doctor said that I was recovering very well",
+    "soundmark": "/ðə ˈdɑːktər sed ðæt aɪ wʌz rɪˈkʌvərɪŋ ˈveri wel/",
+    "grammar": [
+      {
+        "text": "The doctor",
+        "role": "S",
+        "phonetic": "/ðə ˈdɑːktər/",
+        "chinese": "这个/那个/医生"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that I was recovering very well",
+        "role": "O",
+        "phonetic": "/ðæt aɪ wʌz rɪˈkʌvərɪŋ ˈveri wel/",
+        "chinese": "那个/我/是（过去式）/非常/好"
+      }
+    ]
+  },
+  {
+    "chinese": "他问她是否可以去看他。",
+    "english": "He asked her whether she could go to see him",
+    "soundmark": "/hiː æskt hɜːr ˈweðər ʃiː kʊd ɡoʊ tuː siː hɪm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "whether she could go to see him",
+        "role": "O",
+        "phonetic": "/ˈweðər ʃiː kʊd ɡoʊ tuː siː hɪm/",
+        "chinese": "是否/她/可以/能（过去式）/去/到/向/看见/他"
+      }
+    ]
+  },
+  {
+    "chinese": "她想知道手术是否成功。",
+    "english": "She wanted to know if the operation had been successful",
+    "soundmark": "/ʃiː ˈwɑːntɪd tuː noʊ ɪf ðə ˌɑːpəˈreɪʃn hæd biːn səkˈsesfl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "wanted to know",
+        "role": "V",
+        "phonetic": "/ˈwɑːntɪd tuː noʊ/",
+        "chinese": "想要/到/向/知道"
+      },
+      {
+        "text": "if the operation had been successful",
+        "role": "O",
+        "phonetic": "/ɪf ðə ˌɑːpəˈreɪʃn hæd biːn səkˈsesfl/",
+        "chinese": "如果/这个/那个/有/助动词（过去式）/是（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "他回答说他很好。",
+    "english": "He replied that he was all right",
+    "soundmark": "/hiː rɪˈplaɪd ðæt hiː wʌz ɔːl raɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "replied",
+        "role": "V",
+        "phonetic": "/rɪˈplaɪd/",
+        "chinese": "回复（过去式）"
+      },
+      {
+        "text": "that he was all right",
+        "role": "O",
+        "phonetic": "/ðæt hiː wʌz ɔːl raɪt/",
+        "chinese": "那个/他/是（过去式）/所有的/对的/右边的"
+      }
+    ]
+  },
+  {
+    "chinese": "护士告诉他不要太担心。",
+    "english": "The nurse told him not to worry too much",
+    "soundmark": "/ðə nɜːrs toʊld hɪm nɑːt tuː ˈwɜːri tuː mʌtʃ/",
+    "grammar": [
+      {
+        "text": "The nurse",
+        "role": "S",
+        "phonetic": "/ðə nɜːrs/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "not to worry too much",
+        "role": "O",
+        "phonetic": "/nɑːt tuː ˈwɜːri tuː mʌtʃ/",
+        "chinese": "不/到/向/担心/也/太/很多"
+      }
+    ]
+  },
+  {
+    "chinese": "她问手术什么时候做的。",
+    "english": "She asked when the operation had been done",
+    "soundmark": "/ʃiː æskt wen ðə ˌɑːpəˈreɪʃn hæd biːn dʌn/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "when the operation had been done",
+        "role": "O",
+        "phonetic": "/wen ðə ˌɑːpəˈreɪʃn hæd biːn dʌn/",
+        "chinese": "什么时候/这个/那个/有/助动词（过去式）/是（过去分词）/做好的"
+      }
+    ]
+  },
+  {
+    "chinese": "他问我是否感觉好些了。",
+    "english": "He asked me whether I felt better",
+    "soundmark": "/hiː æskt miː ˈweðər aɪ felt ˈbetər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "whether I felt better",
+        "role": "O",
+        "phonetic": "/ˈweðər aɪ felt ˈbetər/",
+        "chinese": "是否/我/被感觉的/更好"
+      }
+    ]
+  },
+  {
+    "chinese": "他说那个秘密他谁也没告诉。",
+    "english": "He said that he had told the secret to no one",
+    "soundmark": "/hiː sed ðæt hiː hæd toʊld ðə ˈsiːkrət tuː noʊ wʌn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that he had told the secret to no one",
+        "role": "O",
+        "phonetic": "/ðæt hiː hæd toʊld ðə ˈsiːkrət tuː noʊ wʌn/",
+        "chinese": "那个/他/有/助动词（过去式）/告诉（过去式）/这个/那个/秘密/到/向/没有/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "病人想知道他什么时候可以回家。",
+    "english": "The patient wanted to know when he could go home",
+    "soundmark": "/ðə ˈpeɪʃnt ˈwɑːntɪd tuː noʊ wen hiː kʊd ɡoʊ hoʊm/",
+    "grammar": [
+      {
+        "text": "The patient",
+        "role": "S",
+        "phonetic": "/ðə ˈpeɪʃnt/",
+        "chinese": "这个/那个/耐心的"
+      },
+      {
+        "text": "wanted to know",
+        "role": "V",
+        "phonetic": "/ˈwɑːntɪd tuː noʊ/",
+        "chinese": "想要/到/向/知道"
+      },
+      {
+        "text": "when he could go home",
+        "role": "O",
+        "phonetic": "/wen hiː kʊd ɡoʊ hoʊm/",
+        "chinese": "什么时候/他/可以/能（过去式）/去/家"
+      }
+    ]
+  },
+  {
+    "chinese": "她说她第二天上午会来看他。",
+    "english": "She said that she would come to see him the next morning",
+    "soundmark": "/ʃiː sed ðæt ʃiː wʊd kʌm tuː siː hɪm ðə nekst ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that she would come to see him the next morning",
+        "role": "O",
+        "phonetic": "/ðæt ʃiː wʊd kʌm tuː siː hɪm ðə nekst ˈmɔːrnɪŋ/",
+        "chinese": "那个/她/将会/来/到/向/看见/他/这个/那个/下一个/接下来/早上"
+      }
+    ]
+  },
+  {
+    "chinese": "他询问手术的结果。",
+    "english": "He inquired about the result of the operation",
+    "soundmark": "/hiː ɪnˈkwaɪərd əˈbaʊt ðə rɪˈzʌlt əv ðə ˌɑːpəˈreɪʃn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "inquired",
+        "role": "V",
+        "phonetic": "/ɪnˈkwaɪərd/",
+        "chinese": ""
+      },
+      {
+        "text": "about the result of the operation",
+        "role": "A",
+        "phonetic": "/əˈbaʊt ðə rɪˈzʌlt əv ðə ˌɑːpəˈreɪʃn/",
+        "chinese": "关于/大约/这个/那个/…的/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "护士",
+    "english": "nurse",
+    "soundmark": "/nɜːrs/"
+  },
+  {
+    "chinese": "恢复",
+    "english": "recover",
+    "soundmark": "/rɪˈkʌvər/"
+  },
+  {
+    "chinese": "担心",
+    "english": "worry",
+    "soundmark": "/ˈwɜːri/"
+  },
+  {
+    "chinese": "结果",
+    "english": "result",
+    "soundmark": "/rɪˈzʌlt/"
+  },
+  {
+    "chinese": "告诉",
+    "english": "tell",
+    "soundmark": "/tel/"
+  },
+  {
+    "chinese": "感觉",
+    "english": "feel",
+    "soundmark": "/fiːl/"
+  },
+  {
+    "chinese": "成功",
+    "english": "successful",
+    "soundmark": "/səkˈsesfl/"
+  },
+  {
+    "chinese": "更好",
+    "english": "better",
+    "soundmark": "/ˈbetər/"
+  }
+]

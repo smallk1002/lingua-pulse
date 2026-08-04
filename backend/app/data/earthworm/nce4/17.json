@@ -1,0 +1,475 @@
+[
+  {
+    "chinese": "疾病",
+    "english": "disease",
+    "soundmark": "/dɪˈziːz/"
+  },
+  {
+    "chinese": "人为的",
+    "english": "man-made",
+    "soundmark": "/mæn/ /meɪd/"
+  },
+  {
+    "chinese": "病毒",
+    "english": "virus",
+    "soundmark": "/ˈvaɪrəs/"
+  },
+  {
+    "chinese": "感染",
+    "english": "infection",
+    "soundmark": "/ɪnˈfekʃn/"
+  },
+  {
+    "chinese": "细菌",
+    "english": "bacteria",
+    "soundmark": "/bækˈtɪriə/"
+  },
+  {
+    "chinese": "接种",
+    "english": "inoculation",
+    "soundmark": "/ɪˌnɑːkjuˈleɪʃn/"
+  },
+  {
+    "chinese": "传播",
+    "english": "transmit",
+    "soundmark": "/trænzˈmɪt/"
+  },
+  {
+    "chinese": "流行病",
+    "english": "epidemic",
+    "soundmark": "/ˌepɪˈdemɪk/"
+  },
+  {
+    "chinese": "免疫",
+    "english": "immunity",
+    "soundmark": "/ɪˈmjuːnəti/"
+  },
+  {
+    "chinese": "抗体",
+    "english": "antibody",
+    "soundmark": "/ˈæntibɑːdi/"
+  },
+  {
+    "chinese": "基因突变",
+    "english": "genetic mutation",
+    "soundmark": "/dʒəˈnetɪk/ /mjuːˈteɪʃn/"
+  },
+  {
+    "chinese": "公共卫生",
+    "english": "public health",
+    "soundmark": "/ˈpʌblɪk/ /helθ/"
+  },
+  {
+    "chinese": "疫苗",
+    "english": "vaccine",
+    "soundmark": "/vækˈsiːn/"
+  },
+  {
+    "chinese": "症状",
+    "english": "symptom",
+    "soundmark": "/ˈsɪmptəm/"
+  },
+  {
+    "chinese": "由人类活动引发的疾病正在增加",
+    "english": "diseases caused by human activities are on the rise",
+    "soundmark": "/dɪˈziːzɪz/ /kɔːzd/ /baɪ/ /ˈhjuːmən/ /ækˈtɪvətiz/ /ɑːr/ /ɑːn/ /ðə/ /raɪz/",
+    "grammar": [
+      {
+        "text": "diseases",
+        "role": "S",
+        "phonetic": "/dɪˈziːzɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "caused",
+        "role": "V",
+        "phonetic": "/kɔːzd/",
+        "chinese": "原因/导致"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "human",
+        "role": "A",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "activities",
+        "role": "O",
+        "phonetic": "/ækˈtɪvətiz/",
+        "chinese": "活动"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rise",
+        "role": "O",
+        "phonetic": "/raɪz/",
+        "chinese": "上升"
+      }
+    ]
+  },
+  {
+    "chinese": "病毒通过受污染的水源传播到整个社区",
+    "english": "the virus was transmitted through contaminated water to the entire community",
+    "soundmark": "/ðə/ /ˈvaɪrəs/ /wʌz/ /trænzˈmɪtɪd/ /θruː/ /kənˈtæmɪneɪtɪd/ /ˈwɔːtər/ /tuː/ /ði/ /ɪnˈtaɪər/ /kəˈmjuːnəti/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "virus",
+        "role": "S",
+        "phonetic": "/ˈvaɪrəs/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "transmitted",
+        "role": "V",
+        "phonetic": "/trænzˈmɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "through",
+        "role": "P",
+        "phonetic": "/θruː/",
+        "chinese": "通过/穿过"
+      },
+      {
+        "text": "contaminated",
+        "role": "A",
+        "phonetic": "/kənˈtæmɪneɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "entire",
+        "role": "A",
+        "phonetic": "/ɪnˈtaɪər/",
+        "chinese": ""
+      },
+      {
+        "text": "community",
+        "role": "O",
+        "phonetic": "/kəˈmjuːnəti/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "广为人知的是许多流行病都是由环境变化引发的",
+    "english": "it is widely known that many epidemics are triggered by environmental changes",
+    "soundmark": "/ɪt/ /ɪz/ /ˈwaɪdli/ /noʊn/ /ðæt/ /ˈmeni/ /ˌepɪˈdemɪks/ /ɑːr/ /ˈtrɪɡərd/ /baɪ/ /ɪnˌvaɪrənˈmentl/ /ˈtʃeɪndʒɪz/",
+    "grammar": [
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "widely",
+        "role": "Adv",
+        "phonetic": "/ˈwaɪdli/",
+        "chinese": "…地(宽的)"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "epidemics",
+        "role": "S",
+        "phonetic": "/ˌepɪˈdemɪks/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "triggered",
+        "role": "V",
+        "phonetic": "/ˈtrɪɡərd/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "environmental",
+        "role": "A",
+        "phonetic": "/ɪnˌvaɪrənˈmentl/",
+        "chinese": ""
+      },
+      {
+        "text": "changes",
+        "role": "O",
+        "phonetic": "/ˈtʃeɪndʒɪz/",
+        "chinese": "改变"
+      }
+    ]
+  },
+  {
+    "chinese": "被抗生素杀死的细菌有时会被更具耐药性的菌株取代",
+    "english": "bacteria killed by antibiotics are sometimes replaced by more resistant strains",
+    "soundmark": "/bækˈtɪriə/ /kɪld/ /baɪ/ /ˌæntibaɪˈɑːtɪks/ /ɑːr/ /ˈsʌmtaɪmz/ /rɪˈpleɪst/ /baɪ/ /mɔːr/ /rɪˈzɪstənt/ /streɪnz/",
+    "grammar": [
+      {
+        "text": "bacteria",
+        "role": "S",
+        "phonetic": "/bækˈtɪriə/",
+        "chinese": ""
+      },
+      {
+        "text": "killed",
+        "role": "V",
+        "phonetic": "/kɪld/",
+        "chinese": "杀"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "antibiotics",
+        "role": "O",
+        "phonetic": "/ˌæntibaɪˈɑːtɪks/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "sometimes",
+        "role": "Adv",
+        "phonetic": "/ˈsʌmtaɪmz/",
+        "chinese": "有时"
+      },
+      {
+        "text": "replaced",
+        "role": "V",
+        "phonetic": "/rɪˈpleɪst/",
+        "chinese": "替换"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "resistant",
+        "role": "A",
+        "phonetic": "/rɪˈzɪstənt/",
+        "chinese": ""
+      },
+      {
+        "text": "strains",
+        "role": "O",
+        "phonetic": "/streɪnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "已经接种了疫苗的人对这种疾病具有免疫力",
+    "english": "people who have been vaccinated are immune to this disease",
+    "soundmark": "/ˈpiːpl/ /huː/ /hæv/ /bɪn/ /ˈvæksɪneɪtɪd/ /ɑːr/ /ɪˈmjuːn/ /tuː/ /ðɪs/ /dɪˈziːz/",
+    "grammar": [
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "vaccinated",
+        "role": "V",
+        "phonetic": "/ˈvæksɪneɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "immune",
+        "role": "C",
+        "phonetic": "/ɪˈmjuːn/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "disease",
+        "role": "O",
+        "phonetic": "/dɪˈziːz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "抗生素",
+    "english": "antibiotic",
+    "soundmark": "/ˌæntibaɪˈɑːtɪk/"
+  },
+  {
+    "chinese": "耐药的",
+    "english": "resistant",
+    "soundmark": "/rɪˈzɪstənt/"
+  },
+  {
+    "chinese": "菌株",
+    "english": "strain",
+    "soundmark": "/streɪn/"
+  },
+  {
+    "chinese": "免疫的",
+    "english": "immune",
+    "soundmark": "/ɪˈmjuːn/"
+  },
+  {
+    "chinese": "触发",
+    "english": "trigger",
+    "soundmark": "/ˈtrɪɡər/"
+  },
+  {
+    "chinese": "污染",
+    "english": "contaminated",
+    "soundmark": "/kənˈtæmɪneɪtɪd/"
+  },
+  {
+    "chinese": "社区的",
+    "english": "community",
+    "soundmark": "/kəˈmjuːnəti/"
+  },
+  {
+    "chinese": "广泛",
+    "english": "widely",
+    "soundmark": "/ˈwaɪdli/"
+  },
+  {
+    "chinese": "增加",
+    "english": "rise",
+    "soundmark": "/raɪz/"
+  },
+  {
+    "chinese": "整个",
+    "english": "entire",
+    "soundmark": "/ɪnˈtaɪər/"
+  }
+]

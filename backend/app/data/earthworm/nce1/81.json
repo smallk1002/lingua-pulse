@@ -1,0 +1,464 @@
+[
+  {
+    "chinese": "问题",
+    "english": "matter",
+    "soundmark": "/ˈmætə/"
+  },
+  {
+    "chinese": "头",
+    "english": "head",
+    "soundmark": "/hed/"
+  },
+  {
+    "chinese": "头痛",
+    "english": "headache",
+    "soundmark": "/ˈhedeɪk/"
+  },
+  {
+    "chinese": "胃",
+    "english": "stomach",
+    "soundmark": "/ˈstʌmək/"
+  },
+  {
+    "chinese": "牙",
+    "english": "tooth",
+    "soundmark": "/tuːθ/"
+  },
+  {
+    "chinese": "牙痛",
+    "english": "toothache",
+    "soundmark": "/ˈtuːθeɪk/"
+  },
+  {
+    "chinese": "感冒",
+    "english": "cold",
+    "soundmark": "/kəʊld/"
+  },
+  {
+    "chinese": "发烧",
+    "english": "fever",
+    "soundmark": "/ˈfiːvə/"
+  },
+  {
+    "chinese": "疲倦的",
+    "english": "tired",
+    "soundmark": "/ˈtaɪəd/"
+  },
+  {
+    "chinese": "生病的",
+    "english": "ill",
+    "soundmark": "/ɪl/"
+  },
+  {
+    "chinese": "休息",
+    "english": "rest",
+    "soundmark": "/rest/"
+  },
+  {
+    "chinese": "药",
+    "english": "medicine",
+    "soundmark": "/ˈmedsɪn/"
+  },
+  {
+    "chinese": "感觉",
+    "english": "feel",
+    "soundmark": "/fiːl/"
+  },
+  {
+    "chinese": "不舒服",
+    "english": "unwell",
+    "soundmark": "/ʌnˈwel/"
+  },
+  {
+    "chinese": "咳嗽",
+    "english": "cough",
+    "soundmark": "/kɒf/"
+  },
+  {
+    "chinese": "你怎么了？",
+    "english": "What is the matter?",
+    "soundmark": "/wɒt ɪz ðə ˈmætə/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the matter",
+        "role": "C",
+        "phonetic": "/ðə ˈmætə/",
+        "chinese": "这个/那个/要紧"
+      }
+    ]
+  },
+  {
+    "chinese": "我头痛。",
+    "english": "I have a headache.",
+    "soundmark": "/aɪ hæv ə ˈhedeɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a headache",
+        "role": "O",
+        "phonetic": "/ə ˈhedeɪk/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "她牙痛。",
+    "english": "She has a toothache.",
+    "soundmark": "/ʃiː hæz ə ˈtuːθeɪk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a toothache",
+        "role": "O",
+        "phonetic": "/ə ˈtuːθeɪk/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "他感觉不舒服。",
+    "english": "He does not feel well.",
+    "soundmark": "/hiː dʌz nɒt fiːl wel/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "does not feel",
+        "role": "Neg",
+        "phonetic": "/dʌz nɒt fiːl/",
+        "chinese": "做/助动词/不/感觉"
+      },
+      {
+        "text": "well",
+        "role": "C",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      }
+    ]
+  },
+  {
+    "chinese": "我感冒了。",
+    "english": "I have a cold.",
+    "soundmark": "/aɪ hæv ə kəʊld/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a cold",
+        "role": "O",
+        "phonetic": "/ə kəʊld/",
+        "chinese": "一个/冷的"
+      }
+    ]
+  },
+  {
+    "chinese": "她发烧了。",
+    "english": "She has a fever.",
+    "soundmark": "/ʃiː hæz ə ˈfiːvə/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a fever",
+        "role": "O",
+        "phonetic": "/ə ˈfiːvə/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "你看起来很累。",
+    "english": "You look tired.",
+    "soundmark": "/juː lʊk ˈtaɪəd/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "look",
+        "role": "V",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/ˈtaɪəd/",
+        "chinese": "累的"
+      }
+    ]
+  },
+  {
+    "chinese": "他胃痛。",
+    "english": "He has a stomach ache.",
+    "soundmark": "/hiː hæz ə ˈstʌmək eɪk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a stomach ache",
+        "role": "O",
+        "phonetic": "/ə ˈstʌmək eɪk/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要休息一下。",
+    "english": "You need a rest.",
+    "soundmark": "/juː niːd ə rest/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "a rest",
+        "role": "O",
+        "phonetic": "/ə rest/",
+        "chinese": "一个/休息/剩余"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该吃一些药。",
+    "english": "You should take some medicine.",
+    "soundmark": "/juː ʃʊd teɪk sʌm ˈmedsɪn/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should take",
+        "role": "V",
+        "phonetic": "/ʃʊd teɪk/",
+        "chinese": "应该/拿/带"
+      },
+      {
+        "text": "some medicine",
+        "role": "O",
+        "phonetic": "/sʌm ˈmedsɪn/",
+        "chinese": "一些"
+      }
+    ]
+  },
+  {
+    "chinese": "她生病了不能去学校。",
+    "english": "She is ill and cannot go to school.",
+    "soundmark": "/ʃiː ɪz ɪl ənd ˈkænɒt ɡəʊ tuː skuːl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is ill",
+        "role": "C",
+        "phonetic": "/ɪz ɪl/",
+        "chinese": "是/生病的"
+      },
+      {
+        "text": "and cannot go",
+        "role": "V",
+        "phonetic": "/ənd ˈkænɒt ɡəʊ/",
+        "chinese": "和/不能/去"
+      },
+      {
+        "text": "to school",
+        "role": "Adv",
+        "phonetic": "/tuː skuːl/",
+        "chinese": "上学"
+      }
+    ]
+  },
+  {
+    "chinese": "他怎么了？",
+    "english": "What is the matter with him?",
+    "soundmark": "/wɒt ɪz ðə ˈmætə wɪð hɪm/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the matter",
+        "role": "C",
+        "phonetic": "/ðə ˈmætə/",
+        "chinese": "这个/那个/要紧"
+      },
+      {
+        "text": "with him",
+        "role": "P",
+        "phonetic": "/wɪð hɪm/",
+        "chinese": "和/用/他"
+      }
+    ]
+  },
+  {
+    "chinese": "疼痛",
+    "english": "ache",
+    "soundmark": "/eɪk/"
+  },
+  {
+    "chinese": "背部",
+    "english": "back",
+    "soundmark": "/bæk/"
+  },
+  {
+    "chinese": "脖子",
+    "english": "neck",
+    "soundmark": "/nek/"
+  },
+  {
+    "chinese": "手臂",
+    "english": "arm",
+    "soundmark": "/ɑːm/"
+  },
+  {
+    "chinese": "腿",
+    "english": "leg",
+    "soundmark": "/leɡ/"
+  },
+  {
+    "chinese": "耳朵",
+    "english": "ear",
+    "soundmark": "/ɪə/"
+  },
+  {
+    "chinese": "眼睛",
+    "english": "eye",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "chinese": "喉咙",
+    "english": "throat",
+    "soundmark": "/θrəʊt/"
+  },
+  {
+    "chinese": "医生",
+    "english": "doctor",
+    "soundmark": "/ˈdɒktə/"
+  },
+  {
+    "chinese": "在床上",
+    "english": "in bed",
+    "soundmark": "/ɪn bed/"
+  },
+  {
+    "chinese": "更好的",
+    "english": "better",
+    "soundmark": "/ˈbetə/"
+  },
+  {
+    "chinese": "卧床休息",
+    "english": "bed rest",
+    "soundmark": "/bed rest/"
+  },
+  {
+    "chinese": "喝",
+    "english": "drink",
+    "soundmark": "/drɪŋk/"
+  },
+  {
+    "chinese": "水",
+    "english": "water",
+    "soundmark": "/ˈwɔːtə/"
+  },
+  {
+    "chinese": "多",
+    "english": "much",
+    "soundmark": "/mʌtʃ/"
+  }
+]

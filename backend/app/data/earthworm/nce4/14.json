@@ -1,0 +1,515 @@
+[
+  {
+    "chinese": "蝴蝶效应",
+    "english": "butterfly effect",
+    "soundmark": "/ˈbʌtərflaɪ/ /ɪˈfekt/"
+  },
+  {
+    "chinese": "混沌",
+    "english": "chaos",
+    "soundmark": "/ˈkeɪɑːs/"
+  },
+  {
+    "chinese": "预测",
+    "english": "prediction",
+    "soundmark": "/prɪˈdɪkʃn/"
+  },
+  {
+    "chinese": "天气",
+    "english": "weather",
+    "soundmark": "/ˈweðər/"
+  },
+  {
+    "chinese": "复杂性",
+    "english": "complexity",
+    "soundmark": "/kəmˈpleksəti/"
+  },
+  {
+    "chinese": "初始条件",
+    "english": "initial condition",
+    "soundmark": "/ɪˈnɪʃl/ /kənˈdɪʃn/"
+  },
+  {
+    "chinese": "敏感性",
+    "english": "sensitivity",
+    "soundmark": "/ˌsensəˈtɪvəti/"
+  },
+  {
+    "chinese": "不确定性",
+    "english": "uncertainty",
+    "soundmark": "/ʌnˈsɜːrtnti/"
+  },
+  {
+    "chinese": "连锁反应",
+    "english": "chain reaction",
+    "soundmark": "/tʃeɪn/ /riˈækʃn/"
+  },
+  {
+    "chinese": "微小变化",
+    "english": "tiny variation",
+    "soundmark": "/ˈtaɪni/ /ˌveriˈeɪʃn/"
+  },
+  {
+    "chinese": "动力系统",
+    "english": "dynamical system",
+    "soundmark": "/daɪˈnæmɪkl/ /ˈsɪstəm/"
+  },
+  {
+    "chinese": "计算机模拟",
+    "english": "computer simulation",
+    "soundmark": "/kəmˈpjuːtər/ /ˌsɪmjuˈleɪʃn/"
+  },
+  {
+    "chinese": "长期预测",
+    "english": "long-term prediction",
+    "soundmark": "/lɔːŋ/ /tɜːrm/ /prɪˈdɪkʃn/"
+  },
+  {
+    "chinese": "大气环流",
+    "english": "atmospheric circulation",
+    "soundmark": "/ˌætməsˈferɪk/ /ˌsɜːrkjəˈleɪʃn/"
+  },
+  {
+    "chinese": "气象学",
+    "english": "meteorology",
+    "soundmark": "/ˌmiːtiəˈrɑːlədʒi/"
+  },
+  {
+    "chinese": "如果一只蝴蝶在巴西扇动翅膀它可能导致德克萨斯州的一场龙卷风",
+    "english": "if a butterfly flapped its wings in Brazil it could cause a tornado in Texas",
+    "soundmark": "/ɪf/ /ə/ /ˈbʌtərflaɪ/ /flæpt/ /ɪts/ /wɪŋz/ /ɪn/ /brəˈzɪl/ /ɪt/ /kʊd/ /kɔːz/ /ə/ /tɔːrˈneɪdoʊ/ /ɪn/ /ˈteksəs/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "butterfly",
+        "role": "S",
+        "phonetic": "/ˈbʌtərflaɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "flapped",
+        "role": "V",
+        "phonetic": "/flæpt/",
+        "chinese": ""
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "wings",
+        "role": "O",
+        "phonetic": "/wɪŋz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Brazil",
+        "role": "O",
+        "phonetic": "/brəˈzɪl/",
+        "chinese": "巴西"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "cause",
+        "role": "V",
+        "phonetic": "/kɔːz/",
+        "chinese": "原因/导致"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "tornado",
+        "role": "O",
+        "phonetic": "/tɔːrˈneɪdoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Texas",
+        "role": "O",
+        "phonetic": "/ˈteksəs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果我们可以精确测量大气中的每一个变量天气就能被完美预测",
+    "english": "if we could measure every variable in the atmosphere with precision the weather could be predicted perfectly",
+    "soundmark": "/ɪf/ /wiː/ /kʊd/ /ˈmeʒər/ /ˈevri/ /ˈveriəbl/ /ɪn/ /ði/ /ˈætməsfɪr/ /wɪð/ /prɪˈsɪʒn/ /ðə/ /ˈweðər/ /kʊd/ /biː/ /prɪˈdɪktɪd/ /ˈpɜːrfɪktli/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "measure",
+        "role": "V",
+        "phonetic": "/ˈmeʒər/",
+        "chinese": "测量"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "variable",
+        "role": "O",
+        "phonetic": "/ˈveriəbl/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "atmosphere",
+        "role": "O",
+        "phonetic": "/ˈætməsfɪr/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "precision",
+        "role": "O",
+        "phonetic": "/prɪˈsɪʒn/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "weather",
+        "role": "S",
+        "phonetic": "/ˈweðər/",
+        "chinese": "天气"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "predicted",
+        "role": "V",
+        "phonetic": "/prɪˈdɪktɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "perfectly",
+        "role": "Adv",
+        "phonetic": "/ˈpɜːrfɪktli/",
+        "chinese": "…地(完美的)"
+      }
+    ]
+  },
+  {
+    "chinese": "混沌理论表明即使是最简单的系统也会产生不可预测的行为",
+    "english": "chaos theory shows that even the simplest systems can produce unpredictable behavior",
+    "soundmark": "/ˈkeɪɑːs/ /ˈθɪəri/ /ʃoʊz/ /ðæt/ /ˈiːvn/ /ðə/ /ˈsɪmplɪst/ /ˈsɪstəmz/ /kæn/ /prəˈduːs/ /ˌʌnprɪˈdɪktəbl/ /bɪˈheɪvjər/",
+    "grammar": [
+      {
+        "text": "chaos",
+        "role": "A",
+        "phonetic": "/ˈkeɪɑːs/",
+        "chinese": ""
+      },
+      {
+        "text": "theory",
+        "role": "S",
+        "phonetic": "/ˈθɪəri/",
+        "chinese": ""
+      },
+      {
+        "text": "shows",
+        "role": "V",
+        "phonetic": "/ʃoʊz/",
+        "chinese": "展示"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "even",
+        "role": "Adv",
+        "phonetic": "/ˈiːvn/",
+        "chinese": "甚至"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "simplest",
+        "role": "A",
+        "phonetic": "/ˈsɪmplɪst/",
+        "chinese": "最…的(简单的)"
+      },
+      {
+        "text": "systems",
+        "role": "S",
+        "phonetic": "/ˈsɪstəmz/",
+        "chinese": ""
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "produce",
+        "role": "V",
+        "phonetic": "/prəˈduːs/",
+        "chinese": "生产"
+      },
+      {
+        "text": "unpredictable",
+        "role": "A",
+        "phonetic": "/ˌʌnprɪˈdɪktəbl/",
+        "chinese": ""
+      },
+      {
+        "text": "behavior",
+        "role": "O",
+        "phonetic": "/bɪˈheɪvjər/",
+        "chinese": "行为"
+      }
+    ]
+  },
+  {
+    "chinese": "假如不是因为初始条件的微小变化天气预测就会精确得多",
+    "english": "were it not for tiny variations in initial conditions weather prediction would be much more accurate",
+    "soundmark": "/wɜːr/ /ɪt/ /nɑːt/ /fɔːr/ /ˈtaɪni/ /ˌveriˈeɪʃnz/ /ɪn/ /ɪˈnɪʃl/ /kənˈdɪʃnz/ /ˈweðər/ /prɪˈdɪkʃn/ /wʊd/ /biː/ /mʌtʃ/ /mɔːr/ /ˈækjərət/",
+    "grammar": [
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "tiny",
+        "role": "A",
+        "phonetic": "/ˈtaɪni/",
+        "chinese": "微小的"
+      },
+      {
+        "text": "variations",
+        "role": "O",
+        "phonetic": "/ˌveriˈeɪʃnz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "initial",
+        "role": "A",
+        "phonetic": "/ɪˈnɪʃl/",
+        "chinese": ""
+      },
+      {
+        "text": "conditions",
+        "role": "O",
+        "phonetic": "/kənˈdɪʃnz/",
+        "chinese": "条件/状况"
+      },
+      {
+        "text": "weather",
+        "role": "A",
+        "phonetic": "/ˈweðər/",
+        "chinese": "天气"
+      },
+      {
+        "text": "prediction",
+        "role": "S",
+        "phonetic": "/prɪˈdɪkʃn/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "accurate",
+        "role": "C",
+        "phonetic": "/ˈækjərət/",
+        "chinese": "准确的"
+      }
+    ]
+  },
+  {
+    "chinese": "龙卷风",
+    "english": "tornado",
+    "soundmark": "/tɔːrˈneɪdoʊ/"
+  },
+  {
+    "chinese": "变量",
+    "english": "variable",
+    "soundmark": "/ˈveriəbl/"
+  },
+  {
+    "chinese": "精确",
+    "english": "precision",
+    "soundmark": "/prɪˈsɪʒn/"
+  },
+  {
+    "chinese": "完美的",
+    "english": "perfect",
+    "soundmark": "/ˈpɜːrfɪkt/"
+  },
+  {
+    "chinese": "行为",
+    "english": "behavior",
+    "soundmark": "/bɪˈheɪvjər/"
+  },
+  {
+    "chinese": "准确的",
+    "english": "accurate",
+    "soundmark": "/ˈækjərət/"
+  },
+  {
+    "chinese": "大气",
+    "english": "atmosphere",
+    "soundmark": "/ˈætməsfɪr/"
+  },
+  {
+    "chinese": "测量",
+    "english": "measure",
+    "soundmark": "/ˈmeʒər/"
+  },
+  {
+    "chinese": "引起",
+    "english": "cause",
+    "soundmark": "/kɔːz/"
+  },
+  {
+    "chinese": "扇动",
+    "english": "flap",
+    "soundmark": "/flæp/"
+  }
+]

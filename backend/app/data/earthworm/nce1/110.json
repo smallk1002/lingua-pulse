@@ -1,0 +1,467 @@
+[
+  {
+    "chinese": "我的",
+    "english": "mine",
+    "soundmark": "/maɪn/"
+  },
+  {
+    "chinese": "你的",
+    "english": "yours",
+    "soundmark": "/jɔːz/"
+  },
+  {
+    "chinese": "他的",
+    "english": "his",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "chinese": "她的",
+    "english": "hers",
+    "soundmark": "/hɜːz/"
+  },
+  {
+    "chinese": "我们的",
+    "english": "ours",
+    "soundmark": "/aʊəz/"
+  },
+  {
+    "chinese": "他们的",
+    "english": "theirs",
+    "soundmark": "/ðeəz/"
+  },
+  {
+    "chinese": "属于",
+    "english": "belong to",
+    "soundmark": "/bɪˈlɒŋ tuː/"
+  },
+  {
+    "chinese": "归还",
+    "english": "give back",
+    "soundmark": "/ɡɪv bæk/"
+  },
+  {
+    "chinese": "拿走",
+    "english": "take away",
+    "soundmark": "/teɪk əˈweɪ/"
+  },
+  {
+    "chinese": "谁的",
+    "english": "whose",
+    "soundmark": "/huːz/"
+  },
+  {
+    "chinese": "外套",
+    "english": "coat",
+    "soundmark": "/kəʊt/"
+  },
+  {
+    "chinese": "伞",
+    "english": "umbrella",
+    "soundmark": "/ʌmˈbrelə/"
+  },
+  {
+    "chinese": "钥匙",
+    "english": "key",
+    "soundmark": "/kiː/"
+  },
+  {
+    "chinese": "护照",
+    "english": "passport",
+    "soundmark": "/ˈpɑːspɔːt/"
+  },
+  {
+    "chinese": "那是我的帽子不是你的",
+    "english": "That is my hat, not yours",
+    "soundmark": "/ðæt ɪz maɪ hæt nɒt jɔːz/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my hat",
+        "role": "C",
+        "phonetic": "/maɪ hæt/",
+        "chinese": "我的/帽子"
+      },
+      {
+        "text": "not yours",
+        "role": "C",
+        "phonetic": "/nɒt jɔːz/",
+        "chinese": "不/你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "这不是我的，是她的",
+    "english": "This isn't mine, it's hers",
+    "soundmark": "/ðɪs ˈɪznt maɪn ɪts hɜːz/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "isn't",
+        "role": "V",
+        "phonetic": "/ˈɪznt/",
+        "chinese": "不是"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      },
+      {
+        "text": "it's",
+        "role": "S",
+        "phonetic": "/ɪts/",
+        "chinese": "它是"
+      },
+      {
+        "text": "hers",
+        "role": "C",
+        "phonetic": "/hɜːz/",
+        "chinese": "她的"
+      }
+    ]
+  },
+  {
+    "chinese": "这些鞋是谁的",
+    "english": "Whose shoes are these",
+    "soundmark": "/huːz ʃuːz ɑːr ðiːz/",
+    "grammar": [
+      {
+        "text": "Whose shoes",
+        "role": "C",
+        "phonetic": "/huːz ʃuːz/",
+        "chinese": "谁的/…们/复数(鞋)"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "these",
+        "role": "S",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      }
+    ]
+  },
+  {
+    "chinese": "它们是我弟弟的",
+    "english": "They are my brother's",
+    "soundmark": "/ðeɪ ɑːr maɪ ˈbrʌðəz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "my brother's",
+        "role": "C",
+        "phonetic": "/maɪ ˈbrʌðəz/",
+        "chinese": "我的/兄弟"
+      }
+    ]
+  },
+  {
+    "chinese": "这不是我的伞，请还给我",
+    "english": "That isn't my umbrella, give it back please",
+    "soundmark": "/ðæt ˈɪznt maɪ ʌmˈbrelə ɡɪv ɪt bæk pliːz/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "isn't",
+        "role": "V",
+        "phonetic": "/ˈɪznt/",
+        "chinese": "不是"
+      },
+      {
+        "text": "my umbrella",
+        "role": "C",
+        "phonetic": "/maɪ ʌmˈbrelə/",
+        "chinese": "我的/雨伞"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "back",
+        "role": "Adv",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "这些是我们的座位，那些是他们的",
+    "english": "These are our seats, those are theirs",
+    "soundmark": "/ðiːz ɑːr aʊə siːts ðəʊz ɑːr ðeəz/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "S",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "our seats",
+        "role": "C",
+        "phonetic": "/aʊə siːts/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "those",
+        "role": "S",
+        "phonetic": "/ðəʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "theirs",
+        "role": "C",
+        "phonetic": "/ðeəz/",
+        "chinese": "他们的"
+      }
+    ]
+  },
+  {
+    "chinese": "这不是你的外套，是我的",
+    "english": "This isn't your coat, it's mine",
+    "soundmark": "/ðɪs ˈɪznt jɔːr kəʊt ɪts maɪn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "isn't",
+        "role": "V",
+        "phonetic": "/ˈɪznt/",
+        "chinese": "不是"
+      },
+      {
+        "text": "your coat",
+        "role": "C",
+        "phonetic": "/jɔːr kəʊt/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "it's",
+        "role": "S",
+        "phonetic": "/ɪts/",
+        "chinese": "它是"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "这些花是给她们的",
+    "english": "These flowers belong to them",
+    "soundmark": "/ðiːz flaʊəz bɪˈlɒŋ tuː ðem/",
+    "grammar": [
+      {
+        "text": "These flowers",
+        "role": "S",
+        "phonetic": "/ðiːz flaʊəz/",
+        "chinese": "这些/…们/复数(花)"
+      },
+      {
+        "text": "belong to",
+        "role": "V",
+        "phonetic": "/bɪˈlɒŋ tuː/",
+        "chinese": "属于"
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðem/",
+        "chinese": "他们"
+      }
+    ]
+  },
+  {
+    "chinese": "那是他的护照吗",
+    "english": "Is that his passport",
+    "soundmark": "/ɪz ðæt hɪz ˈpɑːspɔːt/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "his passport",
+        "role": "C",
+        "phonetic": "/hɪz ˈpɑːspɔːt/",
+        "chinese": "他的"
+      }
+    ]
+  },
+  {
+    "chinese": "那些不是我的钥匙，是你的",
+    "english": "Those aren't my keys, they're yours",
+    "soundmark": "/ðəʊz ɑːnt maɪ kiːz ðeə jɔːz/",
+    "grammar": [
+      {
+        "text": "Those",
+        "role": "S",
+        "phonetic": "/ðəʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "aren't",
+        "role": "V",
+        "phonetic": "/ɑːnt/",
+        "chinese": "不是"
+      },
+      {
+        "text": "my keys",
+        "role": "C",
+        "phonetic": "/maɪ kiːz/",
+        "chinese": "我的/钥匙"
+      },
+      {
+        "text": "they're",
+        "role": "S",
+        "phonetic": "/ðeə/",
+        "chinese": "他们是"
+      },
+      {
+        "text": "yours",
+        "role": "C",
+        "phonetic": "/jɔːz/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "请把那个包递给我",
+    "english": "Please pass me that bag",
+    "soundmark": "/pliːz pɑːs miː ðæt bæɡ/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "pass",
+        "role": "V",
+        "phonetic": "/pɑːs/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that bag",
+        "role": "O",
+        "phonetic": "/ðæt bæɡ/",
+        "chinese": "那个/包"
+      }
+    ]
+  },
+  {
+    "chinese": "座位",
+    "english": "seat",
+    "soundmark": "/siːt/"
+  },
+  {
+    "chinese": "鞋",
+    "english": "shoe",
+    "soundmark": "/ʃuː/"
+  },
+  {
+    "chinese": "包",
+    "english": "bag",
+    "soundmark": "/bæɡ/"
+  },
+  {
+    "chinese": "帽子",
+    "english": "hat",
+    "soundmark": "/hæt/"
+  },
+  {
+    "chinese": "弟弟",
+    "english": "brother",
+    "soundmark": "/ˈbrʌðər/"
+  },
+  {
+    "chinese": "花",
+    "english": "flower",
+    "soundmark": "/flaʊər/"
+  }
+]

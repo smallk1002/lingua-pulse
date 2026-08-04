@@ -1,0 +1,385 @@
+[
+  {
+    "chinese": "速度",
+    "english": "speed",
+    "soundmark": "/spiːd/"
+  },
+  {
+    "chinese": "舒适",
+    "english": "comfort",
+    "soundmark": "/ˈkʌmfərt/"
+  },
+  {
+    "chinese": "交通工具",
+    "english": "transport",
+    "soundmark": "/ˈtrænspɔːrt/"
+  },
+  {
+    "chinese": "比较",
+    "english": "compare",
+    "soundmark": "/kəmˈper/"
+  },
+  {
+    "chinese": "优点",
+    "english": "advantage",
+    "soundmark": "/ədˈvæntɪdʒ/"
+  },
+  {
+    "chinese": "缺点",
+    "english": "disadvantage",
+    "soundmark": "/ˌdɪsədˈvæntɪdʒ/"
+  },
+  {
+    "chinese": "高铁",
+    "english": "high-speed train",
+    "soundmark": "/haɪ spiːd treɪn/"
+  },
+  {
+    "chinese": "飞机",
+    "english": "aeroplane",
+    "soundmark": "/ˈerəpleɪn/"
+  },
+  {
+    "chinese": "比...更快",
+    "english": "faster than",
+    "soundmark": "/ˈfæstər ðæn/"
+  },
+  {
+    "chinese": "不如...舒适",
+    "english": "less comfortable than",
+    "soundmark": "/les ˈkʌmftəbəl ðæn/"
+  },
+  {
+    "chinese": "火车比飞机更舒适。",
+    "english": "Trains are more comfortable than aeroplanes",
+    "soundmark": "/treɪnz ɑːr mɔːr ˈkʌmftəbəl ðæn ˈerəpleɪnz/",
+    "grammar": [
+      {
+        "text": "Trains",
+        "role": "S",
+        "phonetic": "/treɪnz/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "comfortable",
+        "role": "C",
+        "phonetic": "/ˈkʌmftəbəl/",
+        "chinese": "舒适的"
+      },
+      {
+        "text": "than",
+        "role": "A",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "aeroplanes",
+        "role": "A",
+        "phonetic": "/ˈerəpleɪnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "飞机是速度最快的交通工具。",
+    "english": "The aeroplane is the fastest means of transport",
+    "soundmark": "/ði ˈerəpleɪn ɪz ðə ˈfæstɪst miːnz əv ˈtrænspɔːrt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "aeroplane",
+        "role": "S",
+        "phonetic": "/ˈerəpleɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fastest",
+        "role": "C",
+        "phonetic": "/ˈfæstɪst/",
+        "chinese": "最快地"
+      },
+      {
+        "text": "means",
+        "role": "C",
+        "phonetic": "/miːnz/",
+        "chinese": "意思是/刻薄的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "transport",
+        "role": "A",
+        "phonetic": "/ˈtrænspɔːrt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你走得越快到达得就越早。",
+    "english": "The faster you go the sooner you will arrive",
+    "soundmark": "/ðə ˈfæstər juː ɡoʊ ðə ˈsuːnər juː wɪl əˈraɪv/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "faster",
+        "role": "A",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sooner",
+        "role": "A",
+        "phonetic": "/ˈsuːnər/",
+        "chinese": "更…的/…者(不久)"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "arrive",
+        "role": "V",
+        "phonetic": "/əˈraɪv/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "比较各种选项后他们选择了高铁。",
+    "english": "Comparing all the options they chose the high-speed train",
+    "soundmark": "/kəmˈperɪŋ ɔːl ði ˈɒpʃənz ðeɪ tʃoʊz ðə haɪ spiːd treɪn/",
+    "grammar": [
+      {
+        "text": "Comparing",
+        "role": "V",
+        "phonetic": "/kəmˈperɪŋ/",
+        "chinese": "比较"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "options",
+        "role": "O",
+        "phonetic": "/ˈɒpʃənz/",
+        "chinese": ""
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "chose",
+        "role": "V",
+        "phonetic": "/tʃoʊz/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "high-speed",
+        "role": "C",
+        "phonetic": "/haɪ spiːd/",
+        "chinese": ""
+      },
+      {
+        "text": "train",
+        "role": "O",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然没那么快卧铺火车要舒适得多。",
+    "english": "Though not as fast the sleeper train is far more comfortable",
+    "soundmark": "/ðoʊ nɑːt æz fæst ðə ˈsliːpər treɪn ɪz fɑːr mɔːr ˈkʌmftəbəl/",
+    "grammar": [
+      {
+        "text": "Though",
+        "role": "A",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "fast",
+        "role": "C",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sleeper",
+        "role": "C",
+        "phonetic": "/ˈsliːpər/",
+        "chinese": "更…的/…者(睡觉)"
+      },
+      {
+        "text": "train",
+        "role": "S",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "far",
+        "role": "Adv",
+        "phonetic": "/fɑːr/",
+        "chinese": "远"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "comfortable",
+        "role": "C",
+        "phonetic": "/ˈkʌmftəbəl/",
+        "chinese": "舒适的"
+      }
+    ]
+  },
+  {
+    "chinese": "速度",
+    "english": "speed",
+    "soundmark": "/spiːd/"
+  },
+  {
+    "chinese": "舒适",
+    "english": "comfort",
+    "soundmark": "/ˈkʌmfərt/"
+  },
+  {
+    "chinese": "交通工具",
+    "english": "transport",
+    "soundmark": "/ˈtrænspɔːrt/"
+  },
+  {
+    "chinese": "比较",
+    "english": "compare",
+    "soundmark": "/kəmˈper/"
+  },
+  {
+    "chinese": "优点",
+    "english": "advantage",
+    "soundmark": "/ədˈvæntɪdʒ/"
+  },
+  {
+    "chinese": "缺点",
+    "english": "disadvantage",
+    "soundmark": "/ˌdɪsədˈvæntɪdʒ/"
+  },
+  {
+    "chinese": "卧铺",
+    "english": "sleeper",
+    "soundmark": "/ˈsliːpər/"
+  },
+  {
+    "chinese": "选项",
+    "english": "option",
+    "soundmark": "/ˈɒpʃən/"
+  }
+]

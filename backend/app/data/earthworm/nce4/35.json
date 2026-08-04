@@ -1,0 +1,611 @@
+[
+  {
+    "chinese": "宇宙飞船",
+    "english": "spaceship",
+    "soundmark": "/ˈspeɪsʃɪp/"
+  },
+  {
+    "chinese": "宇航员",
+    "english": "astronaut",
+    "soundmark": "/ˈæstrənɔːt/"
+  },
+  {
+    "chinese": "银河系",
+    "english": "galaxy",
+    "soundmark": "/ˈɡæləksi/"
+  },
+  {
+    "chinese": "轨道",
+    "english": "orbit",
+    "soundmark": "/ˈɔːbɪt/"
+  },
+  {
+    "chinese": "发射",
+    "english": "launch",
+    "soundmark": "/lɔːntʃ/"
+  },
+  {
+    "chinese": "探索",
+    "english": "explore",
+    "soundmark": "/ɪkˈsplɔːr/"
+  },
+  {
+    "chinese": "无限的",
+    "english": "infinite",
+    "soundmark": "/ˈɪnfɪnət/"
+  },
+  {
+    "chinese": "大气层",
+    "english": "atmosphere",
+    "soundmark": "/ˈætməsfɪər/"
+  },
+  {
+    "chinese": "重力",
+    "english": "gravity",
+    "soundmark": "/ˈɡrævɪti/"
+  },
+  {
+    "chinese": "推进",
+    "english": "propel",
+    "soundmark": "/prəˈpel/"
+  },
+  {
+    "chinese": "星际的",
+    "english": "interstellar",
+    "soundmark": "/ˌɪntərˈstelər/"
+  },
+  {
+    "chinese": "太空舱",
+    "english": "capsule",
+    "soundmark": "/ˈkæpsjuːl/"
+  },
+  {
+    "chinese": "人类已经向太空发射了数百艘航天器",
+    "english": "mankind has launched hundreds of spacecraft into space",
+    "soundmark": "/mænˈkaɪnd/ /hæz/ /lɔːntʃt/ /ˈhʌndrədz/ /əv/ /ˈspeɪskrɑːft/ /ˈɪntuː/ /speɪs/",
+    "grammar": [
+      {
+        "text": "mankind",
+        "role": "S",
+        "phonetic": "/mænˈkaɪnd/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "launched",
+        "role": "V",
+        "phonetic": "/lɔːntʃt/",
+        "chinese": ""
+      },
+      {
+        "text": "hundreds",
+        "role": "O",
+        "phonetic": "/ˈhʌndrədz/",
+        "chinese": "百"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "spacecraft",
+        "role": "O",
+        "phonetic": "/ˈspeɪskrɑːft/",
+        "chinese": ""
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "space",
+        "role": "O",
+        "phonetic": "/speɪs/",
+        "chinese": "太空/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "宇航员正在绕地球轨道运行",
+    "english": "the astronauts are orbiting the earth",
+    "soundmark": "/ði/ /ˈæstrənɔːts/ /ɑːr/ /ˈɔːbɪtɪŋ/ /ði/ /ɜːθ/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "astronauts",
+        "role": "S",
+        "phonetic": "/ˈæstrənɔːts/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "orbiting",
+        "role": "V",
+        "phonetic": "/ˈɔːbɪtɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "earth",
+        "role": "O",
+        "phonetic": "/ɜːθ/",
+        "chinese": "地球/泥土"
+      }
+    ]
+  },
+  {
+    "chinese": "宇宙飞船必须克服地球引力才能进入太空",
+    "english": "the spaceship must overcome the earth's gravity to enter space",
+    "soundmark": "/ðə/ /ˈspeɪsʃɪp/ /mʌst/ /ˌəʊvərˈkʌm/ /ði/ /ɜːθs/ /ˈɡrævɪti/ /tuː/ /ˈentər/ /speɪs/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "spaceship",
+        "role": "S",
+        "phonetic": "/ˈspeɪsʃɪp/",
+        "chinese": ""
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "overcome",
+        "role": "V",
+        "phonetic": "/ˌəʊvərˈkʌm/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "earth's",
+        "role": "Det",
+        "phonetic": "/ɜːθs/",
+        "chinese": "地球/泥土"
+      },
+      {
+        "text": "gravity",
+        "role": "O",
+        "phonetic": "/ˈɡrævɪti/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "enter",
+        "role": "V",
+        "phonetic": "/ˈentər/",
+        "chinese": "进入"
+      },
+      {
+        "text": "space",
+        "role": "O",
+        "phonetic": "/speɪs/",
+        "chinese": "太空/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "星际旅行对人类来说仍然是一个巨大的挑战",
+    "english": "interstellar travel remains a tremendous challenge for mankind",
+    "soundmark": "/ˌɪntərˈstelər/ /ˈtrævəl/ /rɪˈmeɪnz/ /ə/ /trɪˈmendəs/ /ˈtʃælɪndʒ/ /fɔːr/ /mænˈkaɪnd/",
+    "grammar": [
+      {
+        "text": "interstellar",
+        "role": "A",
+        "phonetic": "/ˌɪntərˈstelər/",
+        "chinese": ""
+      },
+      {
+        "text": "travel",
+        "role": "S",
+        "phonetic": "/ˈtrævəl/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "remains",
+        "role": "Lv",
+        "phonetic": "/rɪˈmeɪnz/",
+        "chinese": "保持"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "tremendous",
+        "role": "A",
+        "phonetic": "/trɪˈmendəs/",
+        "chinese": ""
+      },
+      {
+        "text": "challenge",
+        "role": "C",
+        "phonetic": "/ˈtʃælɪndʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "mankind",
+        "role": "O",
+        "phonetic": "/mænˈkaɪnd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "没有人知道宇宙的边界在哪里",
+    "english": "no one knows where the boundary of the universe lies",
+    "soundmark": "/nəʊ/ /wʌn/ /nəʊz/ /weər/ /ðə/ /ˈbaʊndri/ /əv/ /ðə/ /ˈjuːnɪvɜːs/ /laɪz/",
+    "grammar": [
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/nəʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "knows",
+        "role": "V",
+        "phonetic": "/nəʊz/",
+        "chinese": "知道"
+      },
+      {
+        "text": "where",
+        "role": "Adv",
+        "phonetic": "/weər/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "boundary",
+        "role": "S",
+        "phonetic": "/ˈbaʊndri/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "universe",
+        "role": "O",
+        "phonetic": "/ˈjuːnɪvɜːs/",
+        "chinese": "宇宙"
+      },
+      {
+        "text": "lies",
+        "role": "V",
+        "phonetic": "/laɪz/",
+        "chinese": "…们/复数(躺/说谎)"
+      }
+    ]
+  },
+  {
+    "chinese": "人类已经登上了月球但尚未踏上其他星球",
+    "english": "man has landed on the moon but has not yet set foot on other planets",
+    "soundmark": "/mæn/ /hæz/ /ˈlændɪd/ /ɒn/ /ðə/ /muːn/ /bʌt/ /hæz/ /nɒt/ /jet/ /set/ /fʊt/ /ɒn/ /ˈʌðər/ /ˈplænɪts/",
+    "grammar": [
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "landed",
+        "role": "V",
+        "phonetic": "/ˈlændɪd/",
+        "chinese": "着陆/土地"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "moon",
+        "role": "O",
+        "phonetic": "/muːn/",
+        "chinese": "月亮"
+      },
+      {
+        "text": "but",
+        "role": "C",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "yet",
+        "role": "Adv",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      },
+      {
+        "text": "set",
+        "role": "V",
+        "phonetic": "/set/",
+        "chinese": "设置/安置"
+      },
+      {
+        "text": "foot",
+        "role": "O",
+        "phonetic": "/fʊt/",
+        "chinese": "脚"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "other",
+        "role": "Det",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      },
+      {
+        "text": "planets",
+        "role": "O",
+        "phonetic": "/ˈplænɪts/",
+        "chinese": "行星"
+      }
+    ]
+  },
+  {
+    "chinese": "浩瀚的银河系包含了数千亿颗恒星",
+    "english": "the vast galaxy contains hundreds of billions of stars",
+    "soundmark": "/ðə/ /vɑːst/ /ˈɡæləksi/ /kənˈteɪnz/ /ˈhʌndrədz/ /əv/ /ˈbɪljənz/ /əv/ /stɑːz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "vast",
+        "role": "A",
+        "phonetic": "/vɑːst/",
+        "chinese": "广阔的"
+      },
+      {
+        "text": "galaxy",
+        "role": "S",
+        "phonetic": "/ˈɡæləksi/",
+        "chinese": ""
+      },
+      {
+        "text": "contains",
+        "role": "V",
+        "phonetic": "/kənˈteɪnz/",
+        "chinese": "包含"
+      },
+      {
+        "text": "hundreds",
+        "role": "O",
+        "phonetic": "/ˈhʌndrədz/",
+        "chinese": "百"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "billions",
+        "role": "O",
+        "phonetic": "/ˈbɪljənz/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "stars",
+        "role": "O",
+        "phonetic": "/stɑːz/",
+        "chinese": "星星"
+      }
+    ]
+  },
+  {
+    "chinese": "太空探索极大地扩展了我们的知识",
+    "english": "space exploration has enormously expanded our knowledge",
+    "soundmark": "/speɪs/ /ˌekspləˈreɪʃn/ /hæz/ /ɪˈnɔːməsli/ /ɪkˈspændɪd/ /ˈaʊər/ /ˈnɒlɪdʒ/",
+    "grammar": [
+      {
+        "text": "space",
+        "role": "A",
+        "phonetic": "/speɪs/",
+        "chinese": "太空/空间"
+      },
+      {
+        "text": "exploration",
+        "role": "S",
+        "phonetic": "/ˌekspləˈreɪʃn/",
+        "chinese": "探索"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "enormously",
+        "role": "Adv",
+        "phonetic": "/ɪˈnɔːməsli/",
+        "chinese": "…地(庞大的)"
+      },
+      {
+        "text": "expanded",
+        "role": "V",
+        "phonetic": "/ɪkˈspændɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/ˈaʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "knowledge",
+        "role": "O",
+        "phonetic": "/ˈnɒlɪdʒ/",
+        "chinese": "知识"
+      }
+    ]
+  },
+  {
+    "chinese": "推进器",
+    "english": "propulsion",
+    "soundmark": "/prəˈpʌlʃn/"
+  },
+  {
+    "chinese": "真空",
+    "english": "vacuum",
+    "soundmark": "/ˈvækjuːm/"
+  },
+  {
+    "chinese": "失重",
+    "english": "weightlessness",
+    "soundmark": "/ˈweɪtləsnəs/"
+  },
+  {
+    "chinese": "火箭",
+    "english": "rocket",
+    "soundmark": "/ˈrɒkɪt/"
+  },
+  {
+    "chinese": "着陆",
+    "english": "landing",
+    "soundmark": "/ˈlændɪŋ/"
+  },
+  {
+    "chinese": "望远镜",
+    "english": "telescope",
+    "soundmark": "/ˈtelɪskəʊp/"
+  },
+  {
+    "chinese": "航天器",
+    "english": "spacecraft",
+    "soundmark": "/ˈspeɪskrɑːft/"
+  },
+  {
+    "chinese": "太空行走",
+    "english": "spacewalk",
+    "soundmark": "/ˈspeɪswɔːk/"
+  },
+  {
+    "chinese": "空间站",
+    "english": "space station",
+    "soundmark": "/speɪs ˈsteɪʃn/"
+  },
+  {
+    "chinese": "轨道舱",
+    "english": "orbital module",
+    "soundmark": "/ˈɔːbɪtl ˈmɒdjuːl/"
+  },
+  {
+    "chinese": "宇航服",
+    "english": "spacesuit",
+    "soundmark": "/ˈspeɪssuːt/"
+  }
+]

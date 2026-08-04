@@ -1,0 +1,1208 @@
+[
+  {
+    "chinese": "距离",
+    "english": "distance",
+    "soundmark": "/ˈdɪstəns/"
+  },
+  {
+    "chinese": "信息",
+    "english": "message",
+    "soundmark": "/ˈmesɪdʒ/"
+  },
+  {
+    "chinese": "遮盖",
+    "english": "cover",
+    "soundmark": "/ˈkʌvər/"
+  },
+  {
+    "chinese": "麻雀",
+    "english": "sparrow",
+    "soundmark": "/ˈspæroʊ/"
+  },
+  {
+    "chinese": "鸽子",
+    "english": "pigeon",
+    "soundmark": "/ˈpɪdʒɪn/"
+  },
+  {
+    "chinese": "请求",
+    "english": "request",
+    "soundmark": "/rɪˈkwest/"
+  },
+  {
+    "chinese": "服务",
+    "english": "service",
+    "soundmark": "/ˈsɜːrvɪs/"
+  },
+  {
+    "chinese": "零件",
+    "english": "spare part",
+    "soundmark": "/sper/ /pɑːrt/"
+  },
+  {
+    "chinese": "紧急的",
+    "english": "urgent",
+    "soundmark": "/ˈɜːrdʒənt/"
+  },
+  {
+    "chinese": "打电话",
+    "english": "telephone",
+    "soundmark": "/ˈtelɪfoʊn/"
+  },
+  {
+    "chinese": "三英里",
+    "english": "three miles",
+    "soundmark": "/θriː/ /maɪlz/"
+  },
+  {
+    "chinese": "打电话",
+    "english": "make a telephone call",
+    "soundmark": "/meɪk/ /ə/ /ˈtelɪfoʊn/ /kɔːl/"
+  },
+  {
+    "chinese": "业务信件",
+    "english": "business letter",
+    "soundmark": "/ˈbɪznɪs/ /ˈletər/"
+  },
+  {
+    "chinese": "送消息",
+    "english": "carry messages",
+    "soundmark": "/ˈkæri/ /ˈmesɪdʒɪz/"
+  },
+  {
+    "chinese": "用鸽子送信",
+    "english": "send messages by pigeon",
+    "soundmark": "/send/ /ˈmesɪdʒɪz/ /baɪ/ /ˈpɪdʒɪn/"
+  },
+  {
+    "chinese": "三英里的距离",
+    "english": "across a distance of three miles",
+    "soundmark": "/əˈkrɔːs/ /ə/ /ˈdɪstəns/ /ʌv/ /θriː/ /maɪlz/"
+  },
+  {
+    "chinese": "平彻先生有一家零件店",
+    "english": "Mr Pincher had a shop selling spare parts",
+    "soundmark": "/ˈmɪstər/ /ˈpɪntʃər/ /hæd/ /ə/ /ʃɑːp/ /ˈselɪŋ/ /sper/ /pɑːrts/",
+    "grammar": [
+      {
+        "text": "Mr",
+        "role": "S",
+        "phonetic": "/ˈmɪstər/",
+        "chinese": ""
+      },
+      {
+        "text": "Pincher",
+        "role": "S",
+        "phonetic": "/ˈpɪntʃər/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "shop",
+        "role": "O",
+        "phonetic": "/ʃɑːp/",
+        "chinese": "商店"
+      },
+      {
+        "text": "selling",
+        "role": "V",
+        "phonetic": "/ˈselɪŋ/",
+        "chinese": "卖的"
+      },
+      {
+        "text": "spare",
+        "role": "A",
+        "phonetic": "/sper/",
+        "chinese": ""
+      },
+      {
+        "text": "parts",
+        "role": "O",
+        "phonetic": "/pɑːrts/",
+        "chinese": "部分"
+      }
+    ]
+  },
+  {
+    "chinese": "他离最近的电话亭有三英里",
+    "english": "He was three miles from the nearest telephone",
+    "soundmark": "/hiː/ /wʌz/ /θriː/ /maɪlz/ /frʌm/ /ðə/ /ˈnɪrɪst/ /ˈtelɪfoʊn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "miles",
+        "role": "A",
+        "phonetic": "/maɪlz/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "nearest",
+        "role": "A",
+        "phonetic": "/ˈnɪrɪst/",
+        "chinese": "最…的(在…附近)"
+      },
+      {
+        "text": "telephone",
+        "role": "O",
+        "phonetic": "/ˈtelɪfoʊn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "所以他刚买了一打鸽子",
+    "english": "So he has just bought twelve pigeons",
+    "soundmark": "/soʊ/ /hiː/ /hæz/ /dʒʌst/ /bɔːt/ /twelv/ /ˈpɪdʒɪnz/",
+    "grammar": [
+      {
+        "text": "So",
+        "role": "P",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "twelve",
+        "role": "Det",
+        "phonetic": "/twelv/",
+        "chinese": "十二"
+      },
+      {
+        "text": "pigeons",
+        "role": "O",
+        "phonetic": "/ˈpɪdʒɪnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "昨天一只鸽子把第一封信送到了平彻",
+    "english": "Yesterday a pigeon carried the first message to Pincher",
+    "soundmark": "/ˈjestərdeɪ/ /ə/ /ˈpɪdʒɪn/ /ˈkærid/ /ðə/ /fɜːrst/ /ˈmesɪdʒ/ /tuː/ /ˈpɪntʃər/",
+    "grammar": [
+      {
+        "text": "Yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pigeon",
+        "role": "S",
+        "phonetic": "/ˈpɪdʒɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "carried",
+        "role": "V",
+        "phonetic": "/ˈkærid/",
+        "chinese": "搬运"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "first",
+        "role": "A",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      },
+      {
+        "text": "message",
+        "role": "O",
+        "phonetic": "/ˈmesɪdʒ/",
+        "chinese": "消息"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "Pincher",
+        "role": "O",
+        "phonetic": "/ˈpɪntʃər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "鸽子只用了三分钟就飞完了全程",
+    "english": "The bird covered the distance in three minutes",
+    "soundmark": "/ðə/ /bɜːrd/ /ˈkʌvərd/ /ðə/ /ˈdɪstəns/ /ɪn/ /θriː/ /ˈmɪnɪts/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bird",
+        "role": "S",
+        "phonetic": "/bɜːrd/",
+        "chinese": "鸟"
+      },
+      {
+        "text": "covered",
+        "role": "V",
+        "phonetic": "/ˈkʌvərd/",
+        "chinese": "覆盖"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "distance",
+        "role": "O",
+        "phonetic": "/ˈdɪstəns/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "minutes",
+        "role": "A",
+        "phonetic": "/ˈmɪnɪts/",
+        "chinese": "分钟"
+      }
+    ]
+  },
+  {
+    "chinese": "到现在为止平彻先生已经收到了很多信件",
+    "english": "Up to now Mr Pincher has received many messages",
+    "soundmark": "/ʌp/ /tuː/ /naʊ/ /ˈmɪstər/ /ˈpɪntʃər/ /hæz/ /rɪˈsiːvd/ /ˈmeni/ /ˈmesɪdʒɪz/",
+    "grammar": [
+      {
+        "text": "Up",
+        "role": "P",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "Mr",
+        "role": "S",
+        "phonetic": "/ˈmɪstər/",
+        "chinese": ""
+      },
+      {
+        "text": "Pincher",
+        "role": "S",
+        "phonetic": "/ˈpɪntʃər/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "messages",
+        "role": "O",
+        "phonetic": "/ˈmesɪdʒɪz/",
+        "chinese": "消息"
+      }
+    ]
+  },
+  {
+    "chinese": "他用鸽子来发送紧急信息",
+    "english": "He uses pigeons to send urgent messages",
+    "soundmark": "/hiː/ /ˈjuːzɪz/ /ˈpɪdʒɪnz/ /tuː/ /send/ /ˈɜːrdʒənt/ /ˈmesɪdʒɪz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "uses",
+        "role": "V",
+        "phonetic": "/ˈjuːzɪz/",
+        "chinese": "我们"
+      },
+      {
+        "text": "pigeons",
+        "role": "O",
+        "phonetic": "/ˈpɪdʒɪnz/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "send",
+        "role": "V",
+        "phonetic": "/send/",
+        "chinese": "发送"
+      },
+      {
+        "text": "urgent",
+        "role": "A",
+        "phonetic": "/ˈɜːrdʒənt/",
+        "chinese": ""
+      },
+      {
+        "text": "messages",
+        "role": "O",
+        "phonetic": "/ˈmesɪdʒɪz/",
+        "chinese": "消息"
+      }
+    ]
+  },
+  {
+    "chinese": "这条信息非常重要",
+    "english": "This message is very important",
+    "soundmark": "/ðɪs/ /ˈmesɪdʒ/ /ɪz/ /ˈveri/ /ɪmˈpɔːrtənt/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "message",
+        "role": "S",
+        "phonetic": "/ˈmesɪdʒ/",
+        "chinese": "消息"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "important",
+        "role": "C",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      }
+    ]
+  },
+  {
+    "chinese": "你有备用零件吗",
+    "english": "Do you have any spare parts",
+    "soundmark": "/duː/ /juː/ /hæv/ /ˈeni/ /sper/ /pɑːrts/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "spare",
+        "role": "A",
+        "phonetic": "/sper/",
+        "chinese": ""
+      },
+      {
+        "text": "parts",
+        "role": "O",
+        "phonetic": "/pɑːrts/",
+        "chinese": "部分"
+      }
+    ]
+  },
+  {
+    "chinese": "你能给我发条信息吗",
+    "english": "Can you send me a message",
+    "soundmark": "/kæn/ /juː/ /send/ /miː/ /ə/ /ˈmesɪdʒ/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "send",
+        "role": "V",
+        "phonetic": "/send/",
+        "chinese": "发送"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "message",
+        "role": "O",
+        "phonetic": "/ˈmesɪdʒ/",
+        "chinese": "消息"
+      }
+    ]
+  },
+  {
+    "chinese": "那只鸟很快就飞过了那段距离",
+    "english": "The bird flew across the distance very quickly",
+    "soundmark": "/ðə/ /bɜːrd/ /fluː/ /əˈkrɔːs/ /ðə/ /ˈdɪstəns/ /ˈveri/ /ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bird",
+        "role": "S",
+        "phonetic": "/bɜːrd/",
+        "chinese": "鸟"
+      },
+      {
+        "text": "flew",
+        "role": "V",
+        "phonetic": "/fluː/",
+        "chinese": "飞（过去式）"
+      },
+      {
+        "text": "across",
+        "role": "P",
+        "phonetic": "/əˈkrɔːs/",
+        "chinese": "穿过/对面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "distance",
+        "role": "O",
+        "phonetic": "/ˈdɪstəns/",
+        "chinese": ""
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "quickly",
+        "role": "Adv",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "他在五分钟之内就回信了",
+    "english": "He replied to the message in five minutes",
+    "soundmark": "/hiː/ /rɪˈplaɪd/ /tuː/ /ðə/ /ˈmesɪdʒ/ /ɪn/ /faɪv/ /ˈmɪnɪts/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "replied",
+        "role": "V",
+        "phonetic": "/rɪˈplaɪd/",
+        "chinese": "回复（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "message",
+        "role": "O",
+        "phonetic": "/ˈmesɪdʒ/",
+        "chinese": "消息"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "minutes",
+        "role": "A",
+        "phonetic": "/ˈmɪnɪts/",
+        "chinese": "分钟"
+      }
+    ]
+  },
+  {
+    "chinese": "最近的邮局离这里两英里",
+    "english": "The nearest post office is two miles away",
+    "soundmark": "/ðə/ /ˈnɪrɪst/ /poʊst/ /ˈɑːfɪs/ /ɪz/ /tuː/ /maɪlz/ /əˈweɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "nearest",
+        "role": "A",
+        "phonetic": "/ˈnɪrɪst/",
+        "chinese": "最…的(在…附近)"
+      },
+      {
+        "text": "post",
+        "role": "A",
+        "phonetic": "/poʊst/",
+        "chinese": ""
+      },
+      {
+        "text": "office",
+        "role": "S",
+        "phonetic": "/ˈɑːfɪs/",
+        "chinese": "办公室"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "miles",
+        "role": "A",
+        "phonetic": "/maɪlz/",
+        "chinese": ""
+      },
+      {
+        "text": "away",
+        "role": "A",
+        "phonetic": "/əˈweɪ/",
+        "chinese": "离开/远"
+      }
+    ]
+  },
+  {
+    "chinese": "我收到一个紧急请求",
+    "english": "I received an urgent request",
+    "soundmark": "/aɪ/ /rɪˈsiːvd/ /ən/ /ˈɜːrdʒənt/ /rɪˈkwest/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "urgent",
+        "role": "A",
+        "phonetic": "/ˈɜːrdʒənt/",
+        "chinese": ""
+      },
+      {
+        "text": "request",
+        "role": "O",
+        "phonetic": "/rɪˈkwest/",
+        "chinese": "请求"
+      }
+    ]
+  },
+  {
+    "chinese": "这家商店提供优质服务",
+    "english": "This shop provides excellent service",
+    "soundmark": "/ðɪs/ /ʃɑːp/ /prəˈvaɪdz/ /ˈeksələnt/ /ˈsɜːrvɪs/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "shop",
+        "role": "S",
+        "phonetic": "/ʃɑːp/",
+        "chinese": "商店"
+      },
+      {
+        "text": "provides",
+        "role": "V",
+        "phonetic": "/prəˈvaɪdz/",
+        "chinese": "提供"
+      },
+      {
+        "text": "excellent",
+        "role": "A",
+        "phonetic": "/ˈeksələnt/",
+        "chinese": "极好的"
+      },
+      {
+        "text": "service",
+        "role": "O",
+        "phonetic": "/ˈsɜːrvɪs/",
+        "chinese": "服务"
+      }
+    ]
+  },
+  {
+    "chinese": "麻雀比鸽子小多了",
+    "english": "A sparrow is much smaller than a pigeon",
+    "soundmark": "/ə/ /ˈspæroʊ/ /ɪz/ /mʌtʃ/ /ˈsmɔːlər/ /ðæn/ /ə/ /ˈpɪdʒɪn/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "sparrow",
+        "role": "S",
+        "phonetic": "/ˈspæroʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "smaller",
+        "role": "C",
+        "phonetic": "/ˈsmɔːlər/",
+        "chinese": "更…的/…者(小的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pigeon",
+        "role": "O",
+        "phonetic": "/ˈpɪdʒɪn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "信息已经成功地送到了",
+    "english": "The message has been delivered successfully",
+    "soundmark": "/ðə/ /ˈmesɪdʒ/ /hæz/ /biːn/ /dɪˈlɪvərd/ /səkˈsesfəli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "message",
+        "role": "S",
+        "phonetic": "/ˈmesɪdʒ/",
+        "chinese": "消息"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "delivered",
+        "role": "V",
+        "phonetic": "/dɪˈlɪvərd/",
+        "chinese": "递送（过去式/过去分词）"
+      },
+      {
+        "text": "successfully",
+        "role": "Adv",
+        "phonetic": "/səkˈsesfəli/",
+        "chinese": "…地(成功的)"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我送这条消息吗",
+    "english": "Can you help me carry this message",
+    "soundmark": "/kæn/ /juː/ /help/ /miː/ /ˈkæri/ /ðɪs/ /ˈmesɪdʒ/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "carry",
+        "role": "V",
+        "phonetic": "/ˈkæri/",
+        "chinese": "搬运"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "message",
+        "role": "O",
+        "phonetic": "/ˈmesɪdʒ/",
+        "chinese": "消息"
+      }
+    ]
+  },
+  {
+    "chinese": "他需要从伦敦订购零件",
+    "english": "He needed to order spare parts from London",
+    "soundmark": "/hiː/ /ˈniːdɪd/ /tuː/ /ˈɔːrdər/ /sper/ /pɑːrts/ /frʌm/ /ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "needed",
+        "role": "V",
+        "phonetic": "/ˈniːdɪd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "order",
+        "role": "V",
+        "phonetic": "/ˈɔːrdər/",
+        "chinese": "点餐/命令/顺序"
+      },
+      {
+        "text": "spare",
+        "role": "A",
+        "phonetic": "/sper/",
+        "chinese": ""
+      },
+      {
+        "text": "parts",
+        "role": "O",
+        "phonetic": "/pɑːrts/",
+        "chinese": "部分"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "London",
+        "role": "O",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "你在十分钟内覆盖了十英里的距离",
+    "english": "You covered a distance of ten miles in ten minutes",
+    "soundmark": "/juː/ /ˈkʌvərd/ /ə/ /ˈdɪstəns/ /ʌv/ /ten/ /maɪlz/ /ɪn/ /ten/ /ˈmɪnɪts/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "covered",
+        "role": "V",
+        "phonetic": "/ˈkʌvərd/",
+        "chinese": "覆盖"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "distance",
+        "role": "O",
+        "phonetic": "/ˈdɪstəns/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "ten",
+        "role": "Det",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "miles",
+        "role": "O",
+        "phonetic": "/maɪlz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "ten",
+        "role": "Det",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "minutes",
+        "role": "A",
+        "phonetic": "/ˈmɪnɪts/",
+        "chinese": "分钟"
+      }
+    ]
+  },
+  {
+    "chinese": "最近的学校离这儿有多远",
+    "english": "How far is the nearest school from here",
+    "soundmark": "/haʊ/ /fɑːr/ /ɪz/ /ðə/ /ˈnɪrɪst/ /skuːl/ /frʌm/ /hɪr/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "far",
+        "role": "Adv",
+        "phonetic": "/fɑːr/",
+        "chinese": "远"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "nearest",
+        "role": "A",
+        "phonetic": "/ˈnɪrɪst/",
+        "chinese": "最…的(在…附近)"
+      },
+      {
+        "text": "school",
+        "role": "S",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "英里",
+    "english": "mile",
+    "soundmark": "/maɪl/"
+  },
+  {
+    "chinese": "分钟",
+    "english": "minute",
+    "soundmark": "/ˈmɪnɪt/"
+  },
+  {
+    "chinese": "鸟",
+    "english": "bird",
+    "soundmark": "/bɜːrd/"
+  },
+  {
+    "chinese": "商店",
+    "english": "shop",
+    "soundmark": "/ʃɑːp/"
+  },
+  {
+    "chinese": "信息",
+    "english": "message",
+    "soundmark": "/ˈmesɪdʒ/"
+  },
+  {
+    "chinese": "最近的",
+    "english": "nearest",
+    "soundmark": "/ˈnɪrɪst/"
+  },
+  {
+    "chinese": "订单",
+    "english": "order",
+    "soundmark": "/ˈɔːrdər/"
+  },
+  {
+    "chinese": "回复",
+    "english": "reply",
+    "soundmark": "/rɪˈplaɪ/"
+  },
+  {
+    "chinese": "提供",
+    "english": "provide",
+    "soundmark": "/prəˈvaɪd/"
+  },
+  {
+    "chinese": "重要的",
+    "english": "important",
+    "soundmark": "/ɪmˈpɔːrtənt/"
+  },
+  {
+    "chinese": "送递",
+    "english": "deliver",
+    "soundmark": "/dɪˈlɪvər/"
+  }
+]

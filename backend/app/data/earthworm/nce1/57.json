@@ -1,0 +1,790 @@
+[
+  {
+    "chinese": "不寻常的",
+    "english": "unusual",
+    "soundmark": "/ʌnˈjuːʒuəl/"
+  },
+  {
+    "chinese": "奇怪的",
+    "english": "strange",
+    "soundmark": "/streɪndʒ/"
+  },
+  {
+    "chinese": "精彩的",
+    "english": "wonderful",
+    "soundmark": "/ˈwʌndərfl/"
+  },
+  {
+    "chinese": "可怕的",
+    "english": "terrible",
+    "soundmark": "/ˈterəbl/"
+  },
+  {
+    "chinese": "兴奋的",
+    "english": "excited",
+    "soundmark": "/ɪkˈsaɪtɪd/"
+  },
+  {
+    "chinese": "无聊的",
+    "english": "boring",
+    "soundmark": "/ˈbɔːrɪŋ/"
+  },
+  {
+    "chinese": "特别的",
+    "english": "special",
+    "soundmark": "/ˈspeʃl/"
+  },
+  {
+    "chinese": "通常",
+    "english": "usually",
+    "soundmark": "/ˈjuːʒuəli/"
+  },
+  {
+    "chinese": "今天是个特别的日子",
+    "english": "Today is a special day",
+    "soundmark": "/təˈdeɪ ɪz ə ˈspeʃl deɪ/",
+    "grammar": [
+      {
+        "text": "Today",
+        "role": "S",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a special day",
+        "role": "C",
+        "phonetic": "/ə ˈspeʃl deɪ/",
+        "chinese": "一个/特别的/天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "发生了什么不寻常的事吗",
+    "english": "Did anything unusual happen",
+    "soundmark": "/dɪd ˈeniθɪŋ ʌnˈjuːʒuəl ˈhæpən/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "anything unusual",
+        "role": "S",
+        "phonetic": "/ˈeniθɪŋ ʌnˈjuːʒuəl/",
+        "chinese": "任何东西"
+      },
+      {
+        "text": "happen",
+        "role": "V",
+        "phonetic": "/ˈhæpən/",
+        "chinese": "发生"
+      }
+    ]
+  },
+  {
+    "chinese": "我度过了精彩的一天",
+    "english": "I had a wonderful day",
+    "soundmark": "/aɪ hæd ə ˈwʌndərfl deɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a wonderful day",
+        "role": "O",
+        "phonetic": "/ə ˈwʌndərfl deɪ/",
+        "chinese": "一个/精彩的/天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "这太令人兴奋了",
+    "english": "This is so exciting",
+    "soundmark": "/ðɪs ɪz soʊ ɪkˈsaɪtɪŋ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "so exciting",
+        "role": "C",
+        "phonetic": "/soʊ ɪkˈsaɪtɪŋ/",
+        "chinese": "如此/所以/令人兴奋的"
+      }
+    ]
+  },
+  {
+    "chinese": "通常我八点起床但今天我六点就起了",
+    "english": "Usually I get up at eight but today I got up at six",
+    "soundmark": "/ˈjuːʒuəli aɪ ɡet ʌp æt eɪt bʌt təˈdeɪ aɪ ɡɑːt ʌp æt sɪks/",
+    "grammar": [
+      {
+        "text": "Usually",
+        "role": "A",
+        "phonetic": "/ˈjuːʒuəli/",
+        "chinese": "通常"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "get up",
+        "role": "V",
+        "phonetic": "/ɡet ʌp/",
+        "chinese": "起床"
+      },
+      {
+        "text": "at eight",
+        "role": "A",
+        "phonetic": "/æt eɪt/",
+        "chinese": "在/八"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "got up",
+        "role": "V",
+        "phonetic": "/ɡɑːt ʌp/",
+        "chinese": "得到（过去式）/向上"
+      },
+      {
+        "text": "at six",
+        "role": "A",
+        "phonetic": "/æt sɪks/",
+        "chinese": "在/六"
+      }
+    ]
+  },
+  {
+    "chinese": "发生了很奇怪的事",
+    "english": "Something very strange happened",
+    "soundmark": "/ˈsʌmθɪŋ ˈveri streɪndʒ ˈhæpənd/",
+    "grammar": [
+      {
+        "text": "Something very strange",
+        "role": "S",
+        "phonetic": "/ˈsʌmθɪŋ ˈveri streɪndʒ/",
+        "chinese": "某物/非常/奇怪的"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      }
+    ]
+  },
+  {
+    "chinese": "天气真是糟透了",
+    "english": "The weather was really terrible",
+    "soundmark": "/ðə ˈweðər wʌz ˈriːəli ˈterəbl/",
+    "grammar": [
+      {
+        "text": "The weather",
+        "role": "S",
+        "phonetic": "/ðə ˈweðər/",
+        "chinese": "这个/那个/天气"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "really terrible",
+        "role": "C",
+        "phonetic": "/ˈriːəli ˈterəbl/",
+        "chinese": "真正地/糟糕的"
+      }
+    ]
+  },
+  {
+    "chinese": "发生",
+    "english": "happen",
+    "soundmark": "/ˈhæpən/"
+  },
+  {
+    "chinese": "某事",
+    "english": "something",
+    "soundmark": "/ˈsʌmθɪŋ/"
+  },
+  {
+    "chinese": "精彩的",
+    "english": "wonderful",
+    "soundmark": "/ˈwʌndərfl/"
+  },
+  {
+    "chinese": "可怕的",
+    "english": "terrible",
+    "soundmark": "/ˈterəbl/"
+  },
+  {
+    "chinese": "令人兴奋的",
+    "english": "exciting",
+    "soundmark": "/ɪkˈsaɪtɪŋ/"
+  },
+  {
+    "chinese": "今天真是一个奇怪的日子",
+    "english": "What a strange day today is",
+    "soundmark": "/wʌt ə streɪndʒ deɪ təˈdeɪ ɪz/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "a strange day",
+        "role": "C",
+        "phonetic": "/ə streɪndʒ deɪ/",
+        "chinese": "一个/奇怪的/天/日"
+      },
+      {
+        "text": "today",
+        "role": "S",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      }
+    ]
+  },
+  {
+    "chinese": "我从没经历过这么奇怪的事情",
+    "english": "I have never experienced anything so strange",
+    "soundmark": "/aɪ hæv ˈnevər ɪkˈspɪriənst ˈeniθɪŋ soʊ streɪndʒ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never experienced",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər ɪkˈspɪriənst/",
+        "chinese": "有/助动词/从不/经历/经验"
+      },
+      {
+        "text": "anything so strange",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ soʊ streɪndʒ/",
+        "chinese": "任何东西/如此/所以/奇怪的"
+      }
+    ]
+  },
+  {
+    "chinese": "今天早上我在公园看到了一头鹿",
+    "english": "I saw a deer in the park this morning",
+    "soundmark": "/aɪ sɔː ə dɪr ɪn ðə pɑːrk ðɪs ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "a deer",
+        "role": "O",
+        "phonetic": "/ə dɪr/",
+        "chinese": "一个"
+      },
+      {
+        "text": "in the park",
+        "role": "A",
+        "phonetic": "/ɪn ðə pɑːrk/",
+        "chinese": "在公园里"
+      },
+      {
+        "text": "this morning",
+        "role": "A",
+        "phonetic": "/ðɪs ˈmɔːrnɪŋ/",
+        "chinese": "今天早上"
+      }
+    ]
+  },
+  {
+    "chinese": "那真是太不寻常了",
+    "english": "That was really unusual",
+    "soundmark": "/ðæt wʌz ˈriːəli ʌnˈjuːʒuəl/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "really unusual",
+        "role": "C",
+        "phonetic": "/ˈriːəli ʌnˈjuːʒuəl/",
+        "chinese": "真正地"
+      }
+    ]
+  },
+  {
+    "chinese": "通常他不开玩笑但今天他讲了一个",
+    "english": "Usually he does not tell jokes but today he told one",
+    "soundmark": "/ˈjuːʒuəli hiː dʌz nɑːt tel dʒoʊks bʌt təˈdeɪ hiː toʊld wʌn/",
+    "grammar": [
+      {
+        "text": "Usually",
+        "role": "A",
+        "phonetic": "/ˈjuːʒuəli/",
+        "chinese": "通常"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "does not tell",
+        "role": "V",
+        "phonetic": "/dʌz nɑːt tel/",
+        "chinese": "做/助动词/不/告诉"
+      },
+      {
+        "text": "jokes",
+        "role": "O",
+        "phonetic": "/dʒoʊks/",
+        "chinese": ""
+      },
+      {
+        "text": "but today he told one",
+        "role": "A",
+        "phonetic": "/bʌt təˈdeɪ hiː toʊld wʌn/",
+        "chinese": "但是/今天/他/告诉（过去式）/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我度过了一生中最棒的一天",
+    "english": "I had the best day of my life",
+    "soundmark": "/aɪ hæd ðə best deɪ ʌv maɪ laɪf/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "the best day",
+        "role": "O",
+        "phonetic": "/ðə best deɪ/",
+        "chinese": "这个/那个/最好/天/日"
+      },
+      {
+        "text": "of my life",
+        "role": "A",
+        "phonetic": "/ʌv maɪ laɪf/",
+        "chinese": "我一生中"
+      }
+    ]
+  },
+  {
+    "chinese": "怎么回事你看起来好开心",
+    "english": "What happened you look so happy",
+    "soundmark": "/wʌt ˈhæpənd juː lʊk soʊ ˈhæpi/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "look",
+        "role": "V",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "so happy",
+        "role": "C",
+        "phonetic": "/soʊ ˈhæpi/",
+        "chinese": "如此开心"
+      }
+    ]
+  },
+  {
+    "chinese": "我中了彩票简直不敢相信",
+    "english": "I won the lottery I cannot believe it",
+    "soundmark": "/aɪ wʌn ðə ˈlɑːtəri aɪ ˈkænɑːt bɪˈliːv ɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "won",
+        "role": "V",
+        "phonetic": "/wʌn/",
+        "chinese": "赢（过去式）"
+      },
+      {
+        "text": "the lottery",
+        "role": "O",
+        "phonetic": "/ðə ˈlɑːtəri/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "I cannot believe it",
+        "role": "A",
+        "phonetic": "/aɪ ˈkænɑːt bɪˈliːv ɪt/",
+        "chinese": "我/不能/相信/它"
+      }
+    ]
+  },
+  {
+    "chinese": "鹿",
+    "english": "deer",
+    "soundmark": "/dɪr/"
+  },
+  {
+    "chinese": "玩笑",
+    "english": "joke",
+    "soundmark": "/dʒoʊk/"
+  },
+  {
+    "chinese": "生命",
+    "english": "life",
+    "soundmark": "/laɪf/"
+  },
+  {
+    "chinese": "经历",
+    "english": "experience",
+    "soundmark": "/ɪkˈspɪriəns/"
+  },
+  {
+    "chinese": "中奖",
+    "english": "win the lottery",
+    "soundmark": "/wɪn ðə ˈlɑːtəri/"
+  },
+  {
+    "chinese": "彩票",
+    "english": "lottery",
+    "soundmark": "/ˈlɑːtəri/"
+  },
+  {
+    "chinese": "今天一切都出错了",
+    "english": "Everything went wrong today",
+    "soundmark": "/ˈevriθɪŋ went rɔːŋ təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "Everything",
+        "role": "S",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "wrong",
+        "role": "C",
+        "phonetic": "/rɔːŋ/",
+        "chinese": "错的"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "你永远不会相信发生了什么",
+    "english": "You will never believe what happened",
+    "soundmark": "/juː wɪl ˈnevər bɪˈliːv wʌt ˈhæpənd/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will never believe",
+        "role": "V",
+        "phonetic": "/wɪl ˈnevər bɪˈliːv/",
+        "chinese": "将要/从不/相信"
+      },
+      {
+        "text": "what happened",
+        "role": "O",
+        "phonetic": "/wʌt ˈhæpənd/",
+        "chinese": "什么/发生"
+      }
+    ]
+  },
+  {
+    "chinese": "我在街上遇到了我的小学老师",
+    "english": "I ran into my primary school teacher on the street",
+    "soundmark": "/aɪ ræn ˈɪntə maɪ ˈpraɪmeri skuːl ˈtiːtʃər ɑːn ðə striːt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "ran into",
+        "role": "V",
+        "phonetic": "/ræn ˈɪntə/",
+        "chinese": "跑（过去式）/进入"
+      },
+      {
+        "text": "my primary school teacher",
+        "role": "O",
+        "phonetic": "/maɪ ˈpraɪmeri skuːl ˈtiːtʃər/",
+        "chinese": "我的/学校/老师"
+      },
+      {
+        "text": "on the street",
+        "role": "A",
+        "phonetic": "/ɑːn ðə striːt/",
+        "chinese": "在…上/这个/那个/街道"
+      }
+    ]
+  },
+  {
+    "chinese": "太巧了我们竟然穿了同样的衣服",
+    "english": "What a coincidence we are wearing the same outfit",
+    "soundmark": "/wʌt ə koʊˈɪnsɪdəns wiː ɑːr ˈwerɪŋ ðə seɪm ˈaʊtfɪt/",
+    "grammar": [
+      {
+        "text": "What a coincidence",
+        "role": "S",
+        "phonetic": "/wʌt ə koʊˈɪnsɪdəns/",
+        "chinese": "什么/一个"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are wearing",
+        "role": "V",
+        "phonetic": "/ɑːr ˈwerɪŋ/",
+        "chinese": "是/穿/戴"
+      },
+      {
+        "text": "the same outfit",
+        "role": "O",
+        "phonetic": "/ðə seɪm ˈaʊtfɪt/",
+        "chinese": "这个/那个/相同的"
+      }
+    ]
+  },
+  {
+    "chinese": "我差点被车撞了还好我及时跳开了",
+    "english": "I almost got hit by a car but luckily I jumped away in time",
+    "soundmark": "/aɪ ˈɔːlmoʊst ɡɑːt hɪt baɪ ə kɑːr bʌt ˈlʌkɪli aɪ dʒʌmpt əˈweɪ ɪn taɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "almost got hit",
+        "role": "V",
+        "phonetic": "/ˈɔːlmoʊst ɡɑːt hɪt/",
+        "chinese": "几乎/得到（过去式）/打/击中"
+      },
+      {
+        "text": "by a car",
+        "role": "A",
+        "phonetic": "/baɪ ə kɑːr/",
+        "chinese": "通过/被/在…旁/一个/汽车"
+      },
+      {
+        "text": "but luckily I jumped away in time",
+        "role": "A",
+        "phonetic": "/bʌt ˈlʌkɪli aɪ dʒʌmpt əˈweɪ ɪn taɪm/",
+        "chinese": "但是/…地(幸运的)/我/跳/离开/远/在…里/时间"
+      }
+    ]
+  },
+  {
+    "chinese": "这个故事我永远都不会忘记",
+    "english": "I will never forget this story",
+    "soundmark": "/aɪ wɪl ˈnevər fərˈɡet ðɪs ˈstɔːri/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will never forget",
+        "role": "V",
+        "phonetic": "/wɪl ˈnevər fərˈɡet/",
+        "chinese": "将要/从不/忘记"
+      },
+      {
+        "text": "this story",
+        "role": "O",
+        "phonetic": "/ðɪs ˈstɔːri/",
+        "chinese": "这个/故事"
+      }
+    ]
+  },
+  {
+    "chinese": "所有事",
+    "english": "everything",
+    "soundmark": "/ˈevriθɪŋ/"
+  },
+  {
+    "chinese": "出错了",
+    "english": "go wrong",
+    "soundmark": "/ɡoʊ rɔːŋ/"
+  },
+  {
+    "chinese": "遇见",
+    "english": "run into",
+    "soundmark": "/rʌn ˈɪntə/"
+  },
+  {
+    "chinese": "巧合",
+    "english": "coincidence",
+    "soundmark": "/koʊˈɪnsɪdəns/"
+  },
+  {
+    "chinese": "相同的",
+    "english": "same",
+    "soundmark": "/seɪm/"
+  },
+  {
+    "chinese": "衣服",
+    "english": "outfit",
+    "soundmark": "/ˈaʊtfɪt/"
+  },
+  {
+    "chinese": "几乎",
+    "english": "almost",
+    "soundmark": "/ˈɔːlmoʊst/"
+  },
+  {
+    "chinese": "幸运地",
+    "english": "luckily",
+    "soundmark": "/ˈlʌkɪli/"
+  },
+  {
+    "chinese": "故事",
+    "english": "story",
+    "soundmark": "/ˈstɔːri/"
+  },
+  {
+    "chinese": "永远不会",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  },
+  {
+    "chinese": "及时的",
+    "english": "in time",
+    "soundmark": "/ɪn taɪm/"
+  },
+  {
+    "chinese": "相信",
+    "english": "believe",
+    "soundmark": "/bɪˈliːv/"
+  }
+]

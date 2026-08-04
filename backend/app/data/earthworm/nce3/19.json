@@ -1,0 +1,631 @@
+[
+  {
+    "chinese": "赎金",
+    "english": "ransom",
+    "soundmark": "/ˈrænsəm/"
+  },
+  {
+    "chinese": "绑架",
+    "english": "kidnap",
+    "soundmark": "/ˈkɪdnæp/"
+  },
+  {
+    "chinese": "猫",
+    "english": "cat",
+    "soundmark": "/kæt/"
+  },
+  {
+    "chinese": "亲爱的",
+    "english": "dear",
+    "soundmark": "/dɪr/"
+  },
+  {
+    "chinese": "主人",
+    "english": "owner",
+    "soundmark": "/ˈoʊnər/"
+  },
+  {
+    "chinese": "付款",
+    "english": "pay",
+    "soundmark": "/peɪ/"
+  },
+  {
+    "chinese": "释放",
+    "english": "release",
+    "soundmark": "/rɪˈliːs/"
+  },
+  {
+    "chinese": "威胁",
+    "english": "threaten",
+    "soundmark": "/ˈθretən/"
+  },
+  {
+    "chinese": "巨款",
+    "english": "fortune",
+    "soundmark": "/ˈfɔːrtʃən/"
+  },
+  {
+    "chinese": "支付赎金",
+    "english": "pay a ransom",
+    "soundmark": "/peɪ/ /ə/ /ˈrænsəm/"
+  },
+  {
+    "chinese": "贵重的宝贝猫",
+    "english": "a very dear cat",
+    "soundmark": "/ə/ /ˈveri/ /dɪr/ /kæt/"
+  },
+  {
+    "chinese": "如果猫被绑架了主人会支付大笔赎金的",
+    "english": "If the cat had been kidnapped the owner would have paid a large ransom",
+    "soundmark": "/ɪf/ /ðə/ /kæt/ /hæd/ /bɪn/ /ˈkɪdnæpt/ /ði/ /ˈoʊnər/ /wʊd/ /hæv/ /peɪd/ /ə/ /lɑːrdʒ/ /ˈrænsəm/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "kidnapped",
+        "role": "V",
+        "phonetic": "/ˈkɪdnæpt/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "owner",
+        "role": "S",
+        "phonetic": "/ˈoʊnər/",
+        "chinese": "更…的/…者(自己的)"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "paid",
+        "role": "V",
+        "phonetic": "/peɪd/",
+        "chinese": "付钱（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "large",
+        "role": "A",
+        "phonetic": "/lɑːrdʒ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "ransom",
+        "role": "O",
+        "phonetic": "/ˈrænsəm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "要是她没有付钱猫就不会被释放",
+    "english": "If she had not paid the cat would not have been released",
+    "soundmark": "/ɪf/ /ʃiː/ /hæd/ /nɑːt/ /peɪd/ /ðə/ /kæt/ /wʊd/ /nɑːt/ /hæv/ /bɪn/ /rɪˈliːst/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "paid",
+        "role": "V",
+        "phonetic": "/peɪd/",
+        "chinese": "付钱（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "released",
+        "role": "V",
+        "phonetic": "/rɪˈliːst/",
+        "chinese": "被释放的/发布的"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我知道她在哪我一定会告诉你的",
+    "english": "If I had known where she was I would have told you",
+    "soundmark": "/ɪf/ /aɪ/ /hæd/ /noʊn/ /wer/ /ʃiː/ /wʌz/ /aɪ/ /wʊd/ /hæv/ /toʊld/ /juː/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "如果她报警了绑匪就会被抓住",
+    "english": "If she had called the police the kidnappers would have been caught",
+    "soundmark": "/ɪf/ /ʃiː/ /hæd/ /kɔːld/ /ðə/ /pəˈliːs/ /ðə/ /ˈkɪdnæpərz/ /wʊd/ /hæv/ /bɪn/ /kɔːt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "O",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "kidnappers",
+        "role": "S",
+        "phonetic": "/ˈkɪdnæpərz/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "绑匪威胁说如果不付钱就杀了猫",
+    "english": "The kidnappers threatened to kill the cat if they were not paid",
+    "soundmark": "/ðə/ /ˈkɪdnæpərz/ /ˈθretənd/ /tuː/ /kɪl/ /ðə/ /kæt/ /ɪf/ /ðeɪ/ /wɜːr/ /nɑːt/ /peɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "kidnappers",
+        "role": "S",
+        "phonetic": "/ˈkɪdnæpərz/",
+        "chinese": ""
+      },
+      {
+        "text": "threatened",
+        "role": "V",
+        "phonetic": "/ˈθretənd/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "kill",
+        "role": "V",
+        "phonetic": "/kɪl/",
+        "chinese": "杀"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cat",
+        "role": "O",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "paid",
+        "role": "V",
+        "phonetic": "/peɪd/",
+        "chinese": "付钱（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "赎金",
+    "english": "ransom",
+    "soundmark": "/ˈrænsəm/"
+  },
+  {
+    "chinese": "绑匪",
+    "english": "kidnapper",
+    "soundmark": "/ˈkɪdnæpər/"
+  },
+  {
+    "chinese": "释放",
+    "english": "release",
+    "soundmark": "/rɪˈliːs/"
+  },
+  {
+    "chinese": "威胁",
+    "english": "threaten",
+    "soundmark": "/ˈθretən/"
+  },
+  {
+    "chinese": "巨款",
+    "english": "fortune",
+    "soundmark": "/ˈfɔːrtʃən/"
+  },
+  {
+    "chinese": "报警",
+    "english": "call the police",
+    "soundmark": "/kɔːl/ /ðə/ /pəˈliːs/"
+  },
+  {
+    "chinese": "杀死",
+    "english": "kill",
+    "soundmark": "/kɪl/"
+  },
+  {
+    "chinese": "知道",
+    "english": "know",
+    "soundmark": "/noʊ/"
+  },
+  {
+    "chinese": "如果主人早知道她的猫会成为目标她绝不会让它独自外出",
+    "english": "If the owner had known her cat would be a target she would never have let it go out alone",
+    "soundmark": "/ɪf/ /ði/ /ˈoʊnər/ /hæd/ /noʊn/ /hɜːr/ /kæt/ /wʊd/ /biː/ /ə/ /ˈtɑːrɡɪt/ /ʃiː/ /wʊd/ /ˈnevər/ /hæv/ /let/ /ɪt/ /ɡoʊ/ /aʊt/ /əˈloʊn/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "owner",
+        "role": "S",
+        "phonetic": "/ˈoʊnər/",
+        "chinese": "更…的/…者(自己的)"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "target",
+        "role": "C",
+        "phonetic": "/ˈtɑːrɡɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "alone",
+        "role": "Adv",
+        "phonetic": "/əˈloʊn/",
+        "chinese": "孤单的"
+      }
+    ]
+  }
+]

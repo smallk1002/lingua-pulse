@@ -1,0 +1,397 @@
+[
+  {
+    "chinese": "预测",
+    "english": "predict",
+    "soundmark": "/prɪˈdɪkt/"
+  },
+  {
+    "chinese": "未来的",
+    "english": "future",
+    "soundmark": "/ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "技术",
+    "english": "technology",
+    "soundmark": "/tekˈnɒlədʒi/"
+  },
+  {
+    "chinese": "人工智能",
+    "english": "artificial intelligence",
+    "soundmark": "/ˌɑːrtɪˈfɪʃəl ɪnˈtelɪdʒəns/"
+  },
+  {
+    "chinese": "机器人",
+    "english": "robot",
+    "soundmark": "/ˈroʊbɒt/"
+  },
+  {
+    "chinese": "自动化",
+    "english": "automation",
+    "soundmark": "/ˌɔːtəˈmeɪʃən/"
+  },
+  {
+    "chinese": "发明",
+    "english": "invent",
+    "soundmark": "/ɪnˈvent/"
+  },
+  {
+    "chinese": "趋势",
+    "english": "trend",
+    "soundmark": "/trend/"
+  },
+  {
+    "chinese": "将来会",
+    "english": "will be",
+    "soundmark": "/wɪl biː/"
+  },
+  {
+    "chinese": "将会发生",
+    "english": "is going to happen",
+    "soundmark": "/ɪz ˈɡoʊɪŋ tuː ˈhæpən/"
+  },
+  {
+    "chinese": "科技将会改变我们的生活方式。",
+    "english": "Technology will change the way we live",
+    "soundmark": "/tekˈnɒlədʒi wɪl tʃeɪndʒ ðə weɪ wiː lɪv/",
+    "grammar": [
+      {
+        "text": "Technology",
+        "role": "S",
+        "phonetic": "/tekˈnɒlədʒi/",
+        "chinese": "技术"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "change",
+        "role": "V",
+        "phonetic": "/tʃeɪndʒ/",
+        "chinese": "改变"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "way",
+        "role": "O",
+        "phonetic": "/weɪ/",
+        "chinese": "路/方式"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      }
+    ]
+  },
+  {
+    "chinese": "到2030年机器人将会完成大部分家务。",
+    "english": "By 2030 robots will be doing most of the housework",
+    "soundmark": "/baɪ twɛnti ˈθɜːrti ˈroʊbɒts wɪl biː ˈduːɪŋ moʊst əv ðə ˈhaʊswɜːrk/",
+    "grammar": [
+      {
+        "text": "By",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "2030",
+        "role": "A",
+        "phonetic": "/twɛnti ˈθɜːrti/",
+        "chinese": ""
+      },
+      {
+        "text": "robots",
+        "role": "S",
+        "phonetic": "/ˈroʊbɒts/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "most",
+        "role": "O",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "housework",
+        "role": "O",
+        "phonetic": "/ˈhaʊswɜːrk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们很快就要看到自驾车了。",
+    "english": "We are going to see self-driving cars very soon",
+    "soundmark": "/wiː ɑːr ˈɡoʊɪŋ tuː siː self-ˈdraɪvɪŋ kɑːrz ˈveri suːn/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "self-driving",
+        "role": "C",
+        "phonetic": "/self-ˈdraɪvɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "cars",
+        "role": "O",
+        "phonetic": "/kɑːrz/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "soon",
+        "role": "A",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      }
+    ]
+  },
+  {
+    "chinese": "人工智能将在许多领域取代人类工作。",
+    "english": "Artificial intelligence will replace human jobs in many fields",
+    "soundmark": "/ˌɑːrtɪˈfɪʃəl ɪnˈtelɪdʒəns wɪl rɪˈpleɪs ˈhjuːmən dʒɒbz ɪn ˈmeni fiːldz/",
+    "grammar": [
+      {
+        "text": "Artificial",
+        "role": "C",
+        "phonetic": "/ˌɑːrtɪˈfɪʃəl/",
+        "chinese": ""
+      },
+      {
+        "text": "intelligence",
+        "role": "S",
+        "phonetic": "/ɪnˈtelɪdʒəns/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "replace",
+        "role": "V",
+        "phonetic": "/rɪˈpleɪs/",
+        "chinese": "替换"
+      },
+      {
+        "text": "human",
+        "role": "C",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "jobs",
+        "role": "O",
+        "phonetic": "/dʒɒbz/",
+        "chinese": "工作"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "many",
+        "role": "C",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "fields",
+        "role": "A",
+        "phonetic": "/fiːldz/",
+        "chinese": "田野/领域"
+      }
+    ]
+  },
+  {
+    "chinese": "专家预测自动化将创造一个更高效的社会。",
+    "english": "Experts predict that automation will create a more efficient society",
+    "soundmark": "/ˈekspɜːrts prɪˈdɪkt ðæt ˌɔːtəˈmeɪʃən wɪl kriˈeɪt ə mɔːr ɪˈfɪʃənt səˈsaɪəti/",
+    "grammar": [
+      {
+        "text": "Experts",
+        "role": "S",
+        "phonetic": "/ˈekspɜːrts/",
+        "chinese": "专家们"
+      },
+      {
+        "text": "predict",
+        "role": "V",
+        "phonetic": "/prɪˈdɪkt/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "automation",
+        "role": "S",
+        "phonetic": "/ˌɔːtəˈmeɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "create",
+        "role": "V",
+        "phonetic": "/kriˈeɪt/",
+        "chinese": "创造"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "efficient",
+        "role": "C",
+        "phonetic": "/ɪˈfɪʃənt/",
+        "chinese": "高效的"
+      },
+      {
+        "text": "society",
+        "role": "O",
+        "phonetic": "/səˈsaɪəti/",
+        "chinese": "社会"
+      }
+    ]
+  },
+  {
+    "chinese": "预测",
+    "english": "predict",
+    "soundmark": "/prɪˈdɪkt/"
+  },
+  {
+    "chinese": "未来的",
+    "english": "future",
+    "soundmark": "/ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "技术",
+    "english": "technology",
+    "soundmark": "/tekˈnɒlədʒi/"
+  },
+  {
+    "chinese": "人工智能",
+    "english": "artificial intelligence",
+    "soundmark": "/ˌɑːrtɪˈfɪʃəl ɪnˈtelɪdʒəns/"
+  },
+  {
+    "chinese": "机器人",
+    "english": "robot",
+    "soundmark": "/ˈroʊbɒt/"
+  },
+  {
+    "chinese": "自动化",
+    "english": "automation",
+    "soundmark": "/ˌɔːtəˈmeɪʃən/"
+  },
+  {
+    "chinese": "高效的",
+    "english": "efficient",
+    "soundmark": "/ɪˈfɪʃənt/"
+  },
+  {
+    "chinese": "取代",
+    "english": "replace",
+    "soundmark": "/rɪˈpleɪs/"
+  }
+]

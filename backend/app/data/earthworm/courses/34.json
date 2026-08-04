@@ -1,0 +1,1243 @@
+[
+  {
+    "chinese": "总是",
+    "english": "always",
+    "soundmark": "/ˈɔːlweɪz/"
+  },
+  {
+    "chinese": "通常",
+    "english": "usually",
+    "soundmark": "/ˈjuːʒuəli/"
+  },
+  {
+    "chinese": "经常",
+    "english": "often",
+    "soundmark": "/ˈɔːfən/"
+  },
+  {
+    "chinese": "有时候",
+    "english": "sometimes",
+    "soundmark": "/ˈsʌmtaɪmz/"
+  },
+  {
+    "chinese": "从不",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  },
+  {
+    "chinese": "很少",
+    "english": "seldom",
+    "soundmark": "/ˈseldəm/"
+  },
+  {
+    "chinese": "几乎不",
+    "english": "hardly ever",
+    "soundmark": "/ˈhɑːrdli ˈevər/"
+  },
+  {
+    "chinese": "早起",
+    "english": "get up early",
+    "soundmark": "/ɡet ʌp ˈɜːrli/"
+  },
+  {
+    "chinese": "刷牙",
+    "english": "brush teeth",
+    "soundmark": "/brʌʃ tiːθ/"
+  },
+  {
+    "chinese": "吃早餐",
+    "english": "have breakfast",
+    "soundmark": "/hæv ˈbrekfəst/"
+  },
+  {
+    "chinese": "去健身房",
+    "english": "go to the gym",
+    "soundmark": "/ɡoʊ tuː ðə dʒɪm/"
+  },
+  {
+    "chinese": "散步",
+    "english": "take a walk",
+    "soundmark": "/teɪk ə wɔːk/"
+  },
+  {
+    "chinese": "准时",
+    "english": "on time",
+    "soundmark": "/ɑːn taɪm/"
+  },
+  {
+    "chinese": "垃圾食品",
+    "english": "junk food",
+    "soundmark": "/dʒʌŋk fuːd/"
+  },
+  {
+    "chinese": "我总是早起。",
+    "english": "I always get up early",
+    "soundmark": "/aɪ ˈɔːlweɪz ɡet ʌp ˈɜːrli/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "always get up",
+        "role": "V",
+        "phonetic": "/ˈɔːlweɪz ɡet ʌp/",
+        "chinese": "总是/得到/变得/向上"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      }
+    ]
+  },
+  {
+    "chinese": "他通常七点吃早餐。",
+    "english": "He usually has breakfast at seven",
+    "soundmark": "/hiː ˈjuːʒuəli hæz ˈbrekfəst æt ˈsevn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "usually has",
+        "role": "V",
+        "phonetic": "/ˈjuːʒuəli hæz/",
+        "chinese": "通常/有/助动词"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      },
+      {
+        "text": "at seven",
+        "role": "A",
+        "phonetic": "/æt ˈsevn/",
+        "chinese": "在/七"
+      }
+    ]
+  },
+  {
+    "chinese": "她经常去健身房。",
+    "english": "She often goes to the gym",
+    "soundmark": "/ʃiː ˈɔːfən ɡoʊz tuː ðə dʒɪm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "often goes",
+        "role": "V",
+        "phonetic": "/ˈɔːfən ɡoʊz/",
+        "chinese": "经常/去"
+      },
+      {
+        "text": "to the gym",
+        "role": "A",
+        "phonetic": "/tuː ðə dʒɪm/",
+        "chinese": "到/向/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我有时候周末看电视。",
+    "english": "I sometimes watch TV on weekends",
+    "soundmark": "/aɪ ˈsʌmtaɪmz wɑːtʃ ˌtiːˈviː ɑːn ˈwiːkendz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sometimes watch",
+        "role": "V",
+        "phonetic": "/ˈsʌmtaɪmz wɑːtʃ/",
+        "chinese": "有时/观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      },
+      {
+        "text": "on weekends",
+        "role": "A",
+        "phonetic": "/ɑːn ˈwiːkendz/",
+        "chinese": "在…上/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "我从不抽烟。",
+    "english": "I never smoke",
+    "soundmark": "/aɪ ˈnevər smoʊk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "never smoke",
+        "role": "V",
+        "phonetic": "/ˈnevər smoʊk/",
+        "chinese": "从不/抽烟/烟"
+      }
+    ]
+  },
+  {
+    "chinese": "他总是准时。",
+    "english": "He is always on time",
+    "soundmark": "/hiː ɪz ˈɔːlweɪz ɑːn taɪm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "on time",
+        "role": "C",
+        "phonetic": "/ɑːn taɪm/",
+        "chinese": "准时"
+      }
+    ]
+  },
+  {
+    "chinese": "她通常走路去上班。",
+    "english": "She usually walks to work",
+    "soundmark": "/ʃiː ˈjuːʒuəli wɔːks tuː wɜːrk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "usually walks",
+        "role": "V",
+        "phonetic": "/ˈjuːʒuəli wɔːks/",
+        "chinese": "通常/…们/复数(走)"
+      },
+      {
+        "text": "to work",
+        "role": "A",
+        "phonetic": "/tuː wɜːrk/",
+        "chinese": "上班"
+      }
+    ]
+  },
+  {
+    "chinese": "他们经常在公园散步。",
+    "english": "They often take a walk in the park",
+    "soundmark": "/ðeɪ ˈɔːfən teɪk ə wɔːk ɪn ðə pɑːrk/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "often take",
+        "role": "V",
+        "phonetic": "/ˈɔːfən teɪk/",
+        "chinese": "经常/拿/带"
+      },
+      {
+        "text": "a walk",
+        "role": "O",
+        "phonetic": "/ə wɔːk/",
+        "chinese": "一个/走"
+      },
+      {
+        "text": "in the park",
+        "role": "A",
+        "phonetic": "/ɪn ðə pɑːrk/",
+        "chinese": "在公园里"
+      }
+    ]
+  },
+  {
+    "chinese": "我有时候在家工作。",
+    "english": "I sometimes work from home",
+    "soundmark": "/aɪ ˈsʌmtaɪmz wɜːrk frʌm hoʊm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sometimes work",
+        "role": "V",
+        "phonetic": "/ˈsʌmtaɪmz wɜːrk/",
+        "chinese": "有时/工作"
+      },
+      {
+        "text": "from home",
+        "role": "A",
+        "phonetic": "/frʌm hoʊm/",
+        "chinese": "从/来自/家"
+      }
+    ]
+  },
+  {
+    "chinese": "她从不吃垃圾食品。",
+    "english": "She never eats junk food",
+    "soundmark": "/ʃiː ˈnevər iːts dʒʌŋk fuːd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "never eats",
+        "role": "V",
+        "phonetic": "/ˈnevər iːts/",
+        "chinese": "从不/吃（第三人称）"
+      },
+      {
+        "text": "junk food",
+        "role": "O",
+        "phonetic": "/dʒʌŋk fuːd/",
+        "chinese": "食物"
+      }
+    ]
+  },
+  {
+    "chinese": "我很少看电视。",
+    "english": "I seldom watch TV",
+    "soundmark": "/aɪ ˈseldəm wɑːtʃ ˌtiːˈviː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "seldom watch",
+        "role": "V",
+        "phonetic": "/ˈseldəm wɑːtʃ/",
+        "chinese": "很少/观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      }
+    ]
+  },
+  {
+    "chinese": "他几乎从不喝酒。",
+    "english": "He hardly ever drinks alcohol",
+    "soundmark": "/hiː ˈhɑːrdli ˈevər drɪŋks ˈælkəhɔːl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "hardly ever drinks",
+        "role": "V",
+        "phonetic": "/ˈhɑːrdli ˈevər drɪŋks/",
+        "chinese": "几乎不/曾经/…们/复数(饮料)"
+      },
+      {
+        "text": "alcohol",
+        "role": "O",
+        "phonetic": "/ˈælkəhɔːl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你总是这么忙吗？",
+    "english": "Are you always this busy",
+    "soundmark": "/ɑːr juː ˈɔːlweɪz ðɪs ˈbɪzi/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "this busy",
+        "role": "C",
+        "phonetic": "/ðɪs ˈbɪzi/",
+        "chinese": "这个/忙碌的"
+      }
+    ]
+  },
+  {
+    "chinese": "他通常几点起床？",
+    "english": "When does he usually get up",
+    "soundmark": "/wen dʌz hiː ˈjuːʒuəli ɡet ʌp/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "usually get up",
+        "role": "V",
+        "phonetic": "/ˈjuːʒuəli ɡet ʌp/",
+        "chinese": "通常/得到/变得/向上"
+      }
+    ]
+  },
+  {
+    "chinese": "你经常运动吗？",
+    "english": "Do you often exercise",
+    "soundmark": "/duː juː ˈɔːfən ˈeksərsaɪz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "often exercise",
+        "role": "V",
+        "phonetic": "/ˈɔːfən ˈeksərsaɪz/",
+        "chinese": "经常/练习"
+      }
+    ]
+  },
+  {
+    "chinese": "你有时候会想家吗？",
+    "english": "Do you sometimes miss home",
+    "soundmark": "/duː juː ˈsʌmtaɪmz mɪs hoʊm/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "sometimes miss",
+        "role": "V",
+        "phonetic": "/ˈsʌmtaɪmz mɪs/",
+        "chinese": "有时/错过/想念"
+      },
+      {
+        "text": "home",
+        "role": "O",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "你从不迟到吗？",
+    "english": "Do you never come late",
+    "soundmark": "/duː juː ˈnevər kʌm leɪt/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "never come",
+        "role": "V",
+        "phonetic": "/ˈnevər kʌm/",
+        "chinese": "从不/来"
+      },
+      {
+        "text": "late",
+        "role": "A",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他总是第一个到教室。",
+    "english": "He is always the first to arrive at the classroom",
+    "soundmark": "/hiː ɪz ˈɔːlweɪz ðə fɜːrst tuː əˈraɪv æt ðə ˈklæsruːm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "the first to arrive at the classroom",
+        "role": "C",
+        "phonetic": "/ðə fɜːrst tuː əˈraɪv æt ðə ˈklæsruːm/",
+        "chinese": "这个/那个/首先/到/向/到达/在/这个/那个/教室"
+      }
+    ]
+  },
+  {
+    "chinese": "她通常睡前看书。",
+    "english": "She usually reads before going to bed",
+    "soundmark": "/ʃiː ˈjuːʒuəli riːdz bɪˈfɔːr ˈɡoʊɪŋ tuː bed/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "usually reads",
+        "role": "V",
+        "phonetic": "/ˈjuːʒuəli riːdz/",
+        "chinese": "通常/…们/复数(读（过去式/过去分词）)"
+      },
+      {
+        "text": "before going to bed",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr ˈɡoʊɪŋ tuː bed/",
+        "chinese": "在…之前/到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "我们经常一起吃午饭。",
+    "english": "We often have lunch together",
+    "soundmark": "/wiː ˈɔːfən hæv lʌntʃ təˈɡeðər/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "often have",
+        "role": "V",
+        "phonetic": "/ˈɔːfən hæv/",
+        "chinese": "经常/有/助动词"
+      },
+      {
+        "text": "lunch",
+        "role": "O",
+        "phonetic": "/lʌntʃ/",
+        "chinese": "午餐"
+      },
+      {
+        "text": "together",
+        "role": "A",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      }
+    ]
+  },
+  {
+    "chinese": "我有时候忘记带钥匙。",
+    "english": "I sometimes forget to bring my keys",
+    "soundmark": "/aɪ ˈsʌmtaɪmz fərˈɡet tuː brɪŋ maɪ kiːz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sometimes forget",
+        "role": "V",
+        "phonetic": "/ˈsʌmtaɪmz fərˈɡet/",
+        "chinese": "有时/忘记"
+      },
+      {
+        "text": "to bring my keys",
+        "role": "O",
+        "phonetic": "/tuː brɪŋ maɪ kiːz/",
+        "chinese": "到/向/带来/我的/钥匙"
+      }
+    ]
+  },
+  {
+    "chinese": "我从不喝咖啡。",
+    "english": "I never drink coffee",
+    "soundmark": "/aɪ ˈnevər drɪŋk ˈkɔːfi/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "never drink",
+        "role": "V",
+        "phonetic": "/ˈnevər drɪŋk/",
+        "chinese": "从不/饮料"
+      },
+      {
+        "text": "coffee",
+        "role": "O",
+        "phonetic": "/ˈkɔːfi/",
+        "chinese": "咖啡"
+      }
+    ]
+  },
+  {
+    "chinese": "你爸爸总是起得很早吗？",
+    "english": "Does your father always get up very early",
+    "soundmark": "/dʌz jɔːr ˈfɑːðər ˈɔːlweɪz ɡet ʌp ˈveri ˈɜːrli/",
+    "grammar": [
+      {
+        "text": "Does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "your father",
+        "role": "S",
+        "phonetic": "/jɔːr ˈfɑːðər/",
+        "chinese": "你的/你们的/父亲"
+      },
+      {
+        "text": "always get up",
+        "role": "V",
+        "phonetic": "/ˈɔːlweɪz ɡet ʌp/",
+        "chinese": "总是/得到/变得/向上"
+      },
+      {
+        "text": "very early",
+        "role": "A",
+        "phonetic": "/ˈveri ˈɜːrli/",
+        "chinese": "非常/早"
+      }
+    ]
+  },
+  {
+    "chinese": "你为什么总是迟到？",
+    "english": "Why are you always late",
+    "soundmark": "/waɪ ɑːr juː ˈɔːlweɪz leɪt/",
+    "grammar": [
+      {
+        "text": "Why",
+        "role": "A",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他总是面带微笑。",
+    "english": "He always wears a smile",
+    "soundmark": "/hiː ˈɔːlweɪz werz ə smaɪl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "always wears",
+        "role": "V",
+        "phonetic": "/ˈɔːlweɪz werz/",
+        "chinese": "总是/…们/复数(穿/戴)"
+      },
+      {
+        "text": "a smile",
+        "role": "O",
+        "phonetic": "/ə smaɪl/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我们通常在周末去购物。",
+    "english": "We usually go shopping on weekends",
+    "soundmark": "/wiː ˈjuːʒuəli ɡoʊ ˈʃɑːpɪŋ ɑːn ˈwiːkendz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "usually go shopping",
+        "role": "V",
+        "phonetic": "/ˈjuːʒuəli ɡoʊ ˈʃɑːpɪŋ/",
+        "chinese": "通常/去/正在…(商店)"
+      },
+      {
+        "text": "on weekends",
+        "role": "A",
+        "phonetic": "/ɑːn ˈwiːkendz/",
+        "chinese": "在…上/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "我经常听音乐放松。",
+    "english": "I often listen to music to relax",
+    "soundmark": "/aɪ ˈɔːfən ˈlɪsn tuː ˈmjuːzɪk tuː rɪˈlæks/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "often listen",
+        "role": "V",
+        "phonetic": "/ˈɔːfən ˈlɪsn/",
+        "chinese": "经常/听"
+      },
+      {
+        "text": "to music",
+        "role": "A",
+        "phonetic": "/tuː ˈmjuːzɪk/",
+        "chinese": "到/向/音乐"
+      },
+      {
+        "text": "to relax",
+        "role": "A",
+        "phonetic": "/tuː rɪˈlæks/",
+        "chinese": "到/向/放松"
+      }
+    ]
+  },
+  {
+    "chinese": "他有时候在图书馆学习。",
+    "english": "He sometimes studies in the library",
+    "soundmark": "/hiː ˈsʌmtaɪmz ˈstʌdiz ɪn ðə ˈlaɪbreri/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "sometimes studies",
+        "role": "V",
+        "phonetic": "/ˈsʌmtaɪmz ˈstʌdiz/",
+        "chinese": "有时/学习/研究"
+      },
+      {
+        "text": "in the library",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈlaɪbreri/",
+        "chinese": "在…里/这个/那个/图书馆"
+      }
+    ]
+  },
+  {
+    "chinese": "我从不后悔自己的决定。",
+    "english": "I never regret my decisions",
+    "soundmark": "/aɪ ˈnevər rɪˈɡret maɪ dɪˈsɪʒnz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "never regret",
+        "role": "V",
+        "phonetic": "/ˈnevər rɪˈɡret/",
+        "chinese": "从不"
+      },
+      {
+        "text": "my decisions",
+        "role": "O",
+        "phonetic": "/maɪ dɪˈsɪʒnz/",
+        "chinese": "我的"
+      }
+    ]
+  },
+  {
+    "chinese": "你多久运动一次？",
+    "english": "How often do you exercise",
+    "soundmark": "/haʊ ˈɔːfən duː juː ˈeksərsaɪz/",
+    "grammar": [
+      {
+        "text": "How often",
+        "role": "A",
+        "phonetic": "/haʊ ˈɔːfən/",
+        "chinese": "多久一次"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "exercise",
+        "role": "V",
+        "phonetic": "/ˈeksərsaɪz/",
+        "chinese": "锻炼"
+      }
+    ]
+  },
+  {
+    "chinese": "她通常下班后直接回家。",
+    "english": "She usually goes straight home after work",
+    "soundmark": "/ʃiː ˈjuːʒuəli ɡoʊz streɪt hoʊm ˈæftər wɜːrk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "usually goes",
+        "role": "V",
+        "phonetic": "/ˈjuːʒuəli ɡoʊz/",
+        "chinese": "通常/去"
+      },
+      {
+        "text": "straight home",
+        "role": "A",
+        "phonetic": "/streɪt hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "after work",
+        "role": "A",
+        "phonetic": "/ˈæftər wɜːrk/",
+        "chinese": "在…之后/工作"
+      }
+    ]
+  },
+  {
+    "chinese": "孩子们通常放学后在公园玩。",
+    "english": "The children usually play in the park after school",
+    "soundmark": "/ðə ˈtʃɪldrən ˈjuːʒuəli pleɪ ɪn ðə pɑːrk ˈæftər skuːl/",
+    "grammar": [
+      {
+        "text": "The children",
+        "role": "S",
+        "phonetic": "/ðə ˈtʃɪldrən/",
+        "chinese": "这个/那个/孩子们"
+      },
+      {
+        "text": "usually play",
+        "role": "V",
+        "phonetic": "/ˈjuːʒuəli pleɪ/",
+        "chinese": "通常/玩"
+      },
+      {
+        "text": "in the park",
+        "role": "A",
+        "phonetic": "/ɪn ðə pɑːrk/",
+        "chinese": "在公园里"
+      },
+      {
+        "text": "after school",
+        "role": "A",
+        "phonetic": "/ˈæftər skuːl/",
+        "chinese": "在…之后/学校"
+      }
+    ]
+  },
+  {
+    "chinese": "他常常帮助有需要的人。",
+    "english": "He often helps people in need",
+    "soundmark": "/hiː ˈɔːfən helps ˈpiːpl ɪn niːd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "often helps",
+        "role": "V",
+        "phonetic": "/ˈɔːfən helps/",
+        "chinese": "经常/…们/复数(帮助)"
+      },
+      {
+        "text": "people in need",
+        "role": "O",
+        "phonetic": "/ˈpiːpl ɪn niːd/",
+        "chinese": "人们/在…里/需要"
+      }
+    ]
+  },
+  {
+    "chinese": "我有时候一个人吃晚饭。",
+    "english": "I sometimes have dinner alone",
+    "soundmark": "/aɪ ˈsʌmtaɪmz hæv ˈdɪnər əˈloʊn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sometimes have",
+        "role": "V",
+        "phonetic": "/ˈsʌmtaɪmz hæv/",
+        "chinese": "有时/有/助动词"
+      },
+      {
+        "text": "dinner",
+        "role": "O",
+        "phonetic": "/ˈdɪnər/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "alone",
+        "role": "A",
+        "phonetic": "/əˈloʊn/",
+        "chinese": "孤单的"
+      }
+    ]
+  },
+  {
+    "chinese": "天气总是这样变化无常。",
+    "english": "The weather is always so changeable",
+    "soundmark": "/ðə ˈweðər ɪz ˈɔːlweɪz soʊ ˈtʃeɪndʒəbl/",
+    "grammar": [
+      {
+        "text": "The weather",
+        "role": "S",
+        "phonetic": "/ðə ˈweðər/",
+        "chinese": "这个/那个/天气"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "so changeable",
+        "role": "C",
+        "phonetic": "/soʊ ˈtʃeɪndʒəbl/",
+        "chinese": "如此/所以"
+      }
+    ]
+  },
+  {
+    "chinese": "我从不相信谣言。",
+    "english": "I never believe in rumors",
+    "soundmark": "/aɪ ˈnevər bɪˈliːv ɪn ˈruːmərz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "never believe",
+        "role": "V",
+        "phonetic": "/ˈnevər bɪˈliːv/",
+        "chinese": "从不/相信"
+      },
+      {
+        "text": "in rumors",
+        "role": "A",
+        "phonetic": "/ɪn ˈruːmərz/",
+        "chinese": "在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "妈妈总是提醒我要多喝水。",
+    "english": "Mom always reminds me to drink more water",
+    "soundmark": "/mɑːm ˈɔːlweɪz rɪˈmaɪndz miː tuː drɪŋk mɔːr ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "Mom",
+        "role": "S",
+        "phonetic": "/mɑːm/",
+        "chinese": "妈妈"
+      },
+      {
+        "text": "always reminds",
+        "role": "V",
+        "phonetic": "/ˈɔːlweɪz rɪˈmaɪndz/",
+        "chinese": "总是/…们/复数(提醒)"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "to drink more water",
+        "role": "O",
+        "phonetic": "/tuː drɪŋk mɔːr ˈwɔːtər/",
+        "chinese": "到/向/饮料/更多/水"
+      }
+    ]
+  },
+  {
+    "chinese": "你经常去看望你奶奶吗？",
+    "english": "Do you often visit your grandmother",
+    "soundmark": "/duː juː ˈɔːfən ˈvɪzɪt jɔːr ˈɡrænmʌðər/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "often visit",
+        "role": "V",
+        "phonetic": "/ˈɔːfən ˈvɪzɪt/",
+        "chinese": "经常/访问/参观"
+      },
+      {
+        "text": "your grandmother",
+        "role": "O",
+        "phonetic": "/jɔːr ˈɡrænmʌðər/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "我几乎不吃辣。",
+    "english": "I hardly ever eat spicy food",
+    "soundmark": "/aɪ ˈhɑːrdli ˈevər iːt ˈspaɪsi fuːd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hardly ever eat",
+        "role": "V",
+        "phonetic": "/ˈhɑːrdli ˈevər iːt/",
+        "chinese": "几乎不/曾经/吃"
+      },
+      {
+        "text": "spicy food",
+        "role": "O",
+        "phonetic": "/ˈspaɪsi fuːd/",
+        "chinese": "辣的/食物"
+      }
+    ]
+  },
+  {
+    "chinese": "他总是最后一个离开办公室。",
+    "english": "He is always the last to leave the office",
+    "soundmark": "/hiː ɪz ˈɔːlweɪz ðə læst tuː liːv ðə ˈɑːfɪs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "the last to leave the office",
+        "role": "C",
+        "phonetic": "/ðə læst tuː liːv ðə ˈɑːfɪs/",
+        "chinese": "这个/那个/最后/到/向/离开/这个/那个/办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "健身",
+    "english": "gym",
+    "soundmark": "/dʒɪm/"
+  },
+  {
+    "chinese": "放松",
+    "english": "relax",
+    "soundmark": "/rɪˈlæks/"
+  },
+  {
+    "chinese": "图书馆",
+    "english": "library",
+    "soundmark": "/ˈlaɪbreri/"
+  },
+  {
+    "chinese": "后悔",
+    "english": "regret",
+    "soundmark": "/rɪˈɡret/"
+  },
+  {
+    "chinese": "决定",
+    "english": "decision",
+    "soundmark": "/dɪˈsɪʒn/"
+  },
+  {
+    "chinese": "谣言",
+    "english": "rumor",
+    "soundmark": "/ˈruːmər/"
+  },
+  {
+    "chinese": "提醒",
+    "english": "remind",
+    "soundmark": "/rɪˈmaɪnd/"
+  },
+  {
+    "chinese": "辣的",
+    "english": "spicy",
+    "soundmark": "/ˈspaɪsi/"
+  },
+  {
+    "chinese": "办公室",
+    "english": "office",
+    "soundmark": "/ˈɑːfɪs/"
+  }
+]

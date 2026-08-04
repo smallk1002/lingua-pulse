@@ -1,0 +1,798 @@
+[
+  {
+    "chinese": "赛车",
+    "english": "car race",
+    "soundmark": "/kɑːr reɪs/"
+  },
+  {
+    "chinese": "比赛",
+    "english": "race",
+    "soundmark": "/reɪs/"
+  },
+  {
+    "chinese": "驾驶员",
+    "english": "driver",
+    "soundmark": "/ˈdraɪvər/"
+  },
+  {
+    "chinese": "速度",
+    "english": "speed",
+    "soundmark": "/spiːd/"
+  },
+  {
+    "chinese": "快",
+    "english": "fast",
+    "soundmark": "/fæst/"
+  },
+  {
+    "chinese": "终点线",
+    "english": "finish line",
+    "soundmark": "/ˈfɪnɪʃ laɪn/"
+  },
+  {
+    "chinese": "获胜者",
+    "english": "winner",
+    "soundmark": "/ˈwɪnər/"
+  },
+  {
+    "chinese": "第二名",
+    "english": "runner-up",
+    "soundmark": "/ˈrʌnər ʌp/"
+  },
+  {
+    "chinese": "奖杯",
+    "english": "trophy",
+    "soundmark": "/ˈtroʊfi/"
+  },
+  {
+    "chinese": "冠军",
+    "english": "champion",
+    "soundmark": "/ˈtʃæmpiən/"
+  },
+  {
+    "chinese": "赛道",
+    "english": "track",
+    "soundmark": "/træk/"
+  },
+  {
+    "chinese": "引擎",
+    "english": "engine",
+    "soundmark": "/ˈendʒɪn/"
+  },
+  {
+    "chinese": "观众",
+    "english": "crowd",
+    "soundmark": "/kraʊd/"
+  },
+  {
+    "chinese": "欢呼",
+    "english": "cheer",
+    "soundmark": "/tʃɪr/"
+  },
+  {
+    "chinese": "领先",
+    "english": "in the lead",
+    "soundmark": "/ɪn ðə liːd/"
+  },
+  {
+    "chinese": "超越",
+    "english": "overtake",
+    "soundmark": "/ˌoʊvərˈteɪk/"
+  },
+  {
+    "chinese": "事故",
+    "english": "crash",
+    "soundmark": "/kræʃ/"
+  },
+  {
+    "chinese": "安全车",
+    "english": "safety car",
+    "soundmark": "/ˈseɪfti kɑːr/"
+  },
+  {
+    "chinese": "完成",
+    "english": "finish",
+    "soundmark": "/ˈfɪnɪʃ/"
+  },
+  {
+    "chinese": "令人兴奋的",
+    "english": "exciting",
+    "soundmark": "/ɪkˈsaɪtɪŋ/"
+  },
+  {
+    "chinese": "去年有一场大型赛车比赛",
+    "english": "There was a big car race last year",
+    "soundmark": "/ðer wʌz ə bɪɡ kɑːr reɪs læst jɪr/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a big car race",
+        "role": "S",
+        "phonetic": "/ə bɪɡ kɑːr reɪs/",
+        "chinese": "一个/大的/汽车"
+      },
+      {
+        "text": "last year",
+        "role": "A",
+        "phonetic": "/læst jɪr/",
+        "chinese": "去年"
+      }
+    ]
+  },
+  {
+    "chinese": "比赛在我们的镇上举行",
+    "english": "The race was held in our town",
+    "soundmark": "/ðə reɪs wʌz held ɪn ˈaʊər taʊn/",
+    "grammar": [
+      {
+        "text": "The race",
+        "role": "S",
+        "phonetic": "/ðə reɪs/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "was held",
+        "role": "V",
+        "phonetic": "/wʌz held/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "in our town",
+        "role": "A",
+        "phonetic": "/ɪn ˈaʊər taʊn/",
+        "chinese": "在…里/我们的/城镇"
+      }
+    ]
+  },
+  {
+    "chinese": "有很多人来看比赛",
+    "english": "Many people came to watch the race",
+    "soundmark": "/ˈmeni ˈpiːpl keɪm tuː wɑːtʃ ðə reɪs/",
+    "grammar": [
+      {
+        "text": "Many people",
+        "role": "S",
+        "phonetic": "/ˈmeni ˈpiːpl/",
+        "chinese": "许多/人们"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "to watch the race",
+        "role": "A",
+        "phonetic": "/tuː wɑːtʃ ðə reɪs/",
+        "chinese": "到/向/观看/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "有五辆车参加了比赛",
+    "english": "There were five cars in the race",
+    "soundmark": "/ðer wɜːr faɪv kɑːrz ɪn ðə reɪs/",
+    "grammar": [
+      {
+        "text": "There were",
+        "role": "V",
+        "phonetic": "/ðer wɜːr/",
+        "chinese": "有（过去复数）"
+      },
+      {
+        "text": "five cars",
+        "role": "S",
+        "phonetic": "/faɪv kɑːrz/",
+        "chinese": "五/…们/复数(汽车)"
+      },
+      {
+        "text": "in the race",
+        "role": "A",
+        "phonetic": "/ɪn ðə reɪs/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "比赛开始时所有车都飞快地冲出",
+    "english": "When the race began all the cars sped off",
+    "soundmark": "/wen ðə reɪs bɪˈɡæn ɔːl ðə kɑːrz sped ɔːf/",
+    "grammar": [
+      {
+        "text": "When the race began",
+        "role": "A",
+        "phonetic": "/wen ðə reɪs bɪˈɡæn/",
+        "chinese": "什么时候/这个/那个/开始（过去式）"
+      },
+      {
+        "text": "all the cars",
+        "role": "S",
+        "phonetic": "/ɔːl ðə kɑːrz/",
+        "chinese": "所有的/这个/那个/…们/复数(汽车)"
+      },
+      {
+        "text": "sped off",
+        "role": "V",
+        "phonetic": "/sped ɔːf/",
+        "chinese": "离开/关"
+      }
+    ]
+  },
+  {
+    "chinese": "起初比尔的车领先",
+    "english": "At first Bill's car was in the lead",
+    "soundmark": "/æt fɜːrst bɪlz kɑːr wʌz ɪn ðə liːd/",
+    "grammar": [
+      {
+        "text": "At first",
+        "role": "A",
+        "phonetic": "/æt fɜːrst/",
+        "chinese": "起初"
+      },
+      {
+        "text": "Bill's car",
+        "role": "S",
+        "phonetic": "/bɪlz kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "was in the lead",
+        "role": "C",
+        "phonetic": "/wʌz ɪn ðə liːd/",
+        "chinese": "是（过去式）/在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "但汤姆很快追了上来",
+    "english": "But Tom soon caught up",
+    "soundmark": "/bʌt tɑːm suːn kɔːt ʌp/",
+    "grammar": [
+      {
+        "text": "But",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "Tom",
+        "role": "S",
+        "phonetic": "/tɑːm/",
+        "chinese": "汤姆"
+      },
+      {
+        "text": "soon",
+        "role": "A",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      },
+      {
+        "text": "caught up",
+        "role": "V",
+        "phonetic": "/kɔːt ʌp/",
+        "chinese": "抓住（过去式）/向上"
+      }
+    ]
+  },
+  {
+    "chinese": "然后汤姆超过了比尔",
+    "english": "Then Tom overtook Bill",
+    "soundmark": "/ðen tɑːm ˌoʊvərˈtʊk bɪl/",
+    "grammar": [
+      {
+        "text": "Then",
+        "role": "A",
+        "phonetic": "/ðen/",
+        "chinese": "然后"
+      },
+      {
+        "text": "Tom",
+        "role": "S",
+        "phonetic": "/tɑːm/",
+        "chinese": "汤姆"
+      },
+      {
+        "text": "overtook",
+        "role": "V",
+        "phonetic": "/ˌoʊvərˈtʊk/",
+        "chinese": ""
+      },
+      {
+        "text": "Bill",
+        "role": "O",
+        "phonetic": "/bɪl/",
+        "chinese": "账单"
+      }
+    ]
+  },
+  {
+    "chinese": "当汤姆超过比尔时观众大声欢呼",
+    "english": "The crowd cheered loudly when Tom overtook Bill",
+    "soundmark": "/ðə kraʊd tʃɪrd ˈlaʊdli wen tɑːm ˌoʊvərˈtʊk bɪl/",
+    "grammar": [
+      {
+        "text": "The crowd",
+        "role": "S",
+        "phonetic": "/ðə kraʊd/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cheered",
+        "role": "V",
+        "phonetic": "/tʃɪrd/",
+        "chinese": ""
+      },
+      {
+        "text": "loudly",
+        "role": "A",
+        "phonetic": "/ˈlaʊdli/",
+        "chinese": ""
+      },
+      {
+        "text": "when Tom overtook Bill",
+        "role": "A",
+        "phonetic": "/wen tɑːm ˌoʊvərˈtʊk bɪl/",
+        "chinese": "什么时候/汤姆"
+      }
+    ]
+  },
+  {
+    "chinese": "汤姆以最快速度驾驶",
+    "english": "Tom was driving at top speed",
+    "soundmark": "/tɑːm wʌz ˈdraɪvɪŋ æt tɑːp spiːd/",
+    "grammar": [
+      {
+        "text": "Tom",
+        "role": "S",
+        "phonetic": "/tɑːm/",
+        "chinese": "汤姆"
+      },
+      {
+        "text": "was driving",
+        "role": "V",
+        "phonetic": "/wʌz ˈdraɪvɪŋ/",
+        "chinese": "是（过去式）/正在…(驾驶)"
+      },
+      {
+        "text": "at top speed",
+        "role": "A",
+        "phonetic": "/æt tɑːp spiːd/",
+        "chinese": "在/顶部/速度"
+      }
+    ]
+  },
+  {
+    "chinese": "突然前方发生了一起事故",
+    "english": "Suddenly there was a crash up ahead",
+    "soundmark": "/ˈsʌdnli ðer wʌz ə kræʃ ʌp əˈhed/",
+    "grammar": [
+      {
+        "text": "Suddenly",
+        "role": "A",
+        "phonetic": "/ˈsʌdnli/",
+        "chinese": "突然"
+      },
+      {
+        "text": "there was",
+        "role": "V",
+        "phonetic": "/ðer wʌz/",
+        "chinese": "有（过去单数）"
+      },
+      {
+        "text": "a crash",
+        "role": "S",
+        "phonetic": "/ə kræʃ/",
+        "chinese": "一个/坠毁"
+      },
+      {
+        "text": "up ahead",
+        "role": "A",
+        "phonetic": "/ʌp əˈhed/",
+        "chinese": "向上"
+      }
+    ]
+  },
+  {
+    "chinese": "一辆车撞上了护栏",
+    "english": "One car crashed into the barrier",
+    "soundmark": "/wʌn kɑːr kræʃt ˈɪntuː ðə ˈbæriər/",
+    "grammar": [
+      {
+        "text": "One car",
+        "role": "S",
+        "phonetic": "/wʌn kɑːr/",
+        "chinese": "一个/汽车"
+      },
+      {
+        "text": "crashed",
+        "role": "V",
+        "phonetic": "/kræʃt/",
+        "chinese": "坠毁"
+      },
+      {
+        "text": "into the barrier",
+        "role": "A",
+        "phonetic": "/ˈɪntuː ðə ˈbæriər/",
+        "chinese": "进入/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "幸好司机没有受伤",
+    "english": "Luckily the driver was not hurt",
+    "soundmark": "/ˈlʌkɪli ðə ˈdraɪvər wʌz nɑːt hɜːrt/",
+    "grammar": [
+      {
+        "text": "Luckily",
+        "role": "A",
+        "phonetic": "/ˈlʌkɪli/",
+        "chinese": "…地(幸运的)"
+      },
+      {
+        "text": "the driver",
+        "role": "S",
+        "phonetic": "/ðə ˈdraɪvər/",
+        "chinese": "这个/那个/更…的/…者(驾驶)"
+      },
+      {
+        "text": "was not hurt",
+        "role": "C",
+        "phonetic": "/wʌz nɑːt hɜːrt/",
+        "chinese": "是（过去式）/不/伤害"
+      }
+    ]
+  },
+  {
+    "chinese": "安全车出来领跑赛道",
+    "english": "The safety car came out to lead the track",
+    "soundmark": "/ðə ˈseɪfti kɑːr keɪm aʊt tuː liːd ðə træk/",
+    "grammar": [
+      {
+        "text": "The safety car",
+        "role": "S",
+        "phonetic": "/ðə ˈseɪfti kɑːr/",
+        "chinese": "这个/那个/汽车"
+      },
+      {
+        "text": "came out",
+        "role": "V",
+        "phonetic": "/keɪm aʊt/",
+        "chinese": "来（过去式）/出去"
+      },
+      {
+        "text": "to lead the track",
+        "role": "A",
+        "phonetic": "/tuː liːd ðə træk/",
+        "chinese": "到/向/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "比赛重新开始时汤姆仍保持领先",
+    "english": "When the race started again Tom was still in the lead",
+    "soundmark": "/wen ðə reɪs ˈstɑːrtɪd əˈɡen tɑːm wʌz stɪl ɪn ðə liːd/",
+    "grammar": [
+      {
+        "text": "When the race started again",
+        "role": "A",
+        "phonetic": "/wen ðə reɪs ˈstɑːrtɪd əˈɡen/",
+        "chinese": "什么时候/这个/那个/开始/再"
+      },
+      {
+        "text": "Tom",
+        "role": "S",
+        "phonetic": "/tɑːm/",
+        "chinese": "汤姆"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "still in the lead",
+        "role": "C",
+        "phonetic": "/stɪl ɪn ðə liːd/",
+        "chinese": "仍然/在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "在最后一圈汤姆赢得了比赛",
+    "english": "On the last lap Tom won the race",
+    "soundmark": "/ɑːn ðə læst læp tɑːm wʌn ðə reɪs/",
+    "grammar": [
+      {
+        "text": "On the last lap",
+        "role": "A",
+        "phonetic": "/ɑːn ðə læst læp/",
+        "chinese": "在…上/这个/那个/最后"
+      },
+      {
+        "text": "Tom",
+        "role": "S",
+        "phonetic": "/tɑːm/",
+        "chinese": "汤姆"
+      },
+      {
+        "text": "won",
+        "role": "V",
+        "phonetic": "/wʌn/",
+        "chinese": "赢（过去式）"
+      },
+      {
+        "text": "the race",
+        "role": "O",
+        "phonetic": "/ðə reɪs/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "每个人都为他精彩的表现欢呼",
+    "english": "Everyone cheered for his wonderful performance",
+    "soundmark": "/ˈevriwʌn tʃɪrd fɔːr hɪz ˈwʌndərfl pərˈfɔːrməns/",
+    "grammar": [
+      {
+        "text": "Everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "cheered",
+        "role": "V",
+        "phonetic": "/tʃɪrd/",
+        "chinese": ""
+      },
+      {
+        "text": "for his wonderful performance",
+        "role": "A",
+        "phonetic": "/fɔːr hɪz ˈwʌndərfl pərˈfɔːrməns/",
+        "chinese": "为了/对于/他的/精彩的"
+      }
+    ]
+  },
+  {
+    "chinese": "他获得了奖杯成为冠军",
+    "english": "He received the trophy and became the champion",
+    "soundmark": "/hiː rɪˈsiːvd ðə ˈtroʊfi ænd bɪˈkeɪm ðə ˈtʃæmpiən/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "the trophy",
+        "role": "O",
+        "phonetic": "/ðə ˈtroʊfi/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "became",
+        "role": "V",
+        "phonetic": "/bɪˈkeɪm/",
+        "chinese": "变成（过去式）"
+      },
+      {
+        "text": "the champion",
+        "role": "C",
+        "phonetic": "/ðə ˈtʃæmpiən/",
+        "chinese": "这个/那个/冠军"
+      }
+    ]
+  },
+  {
+    "chinese": "比尔第二名完赛也很开心",
+    "english": "Bill was happy to finish second as well",
+    "soundmark": "/bɪl wʌz ˈhæpi tuː ˈfɪnɪʃ ˈsekənd æz wel/",
+    "grammar": [
+      {
+        "text": "Bill",
+        "role": "S",
+        "phonetic": "/bɪl/",
+        "chinese": "账单"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "happy",
+        "role": "C",
+        "phonetic": "/ˈhæpi/",
+        "chinese": "快乐的"
+      },
+      {
+        "text": "to finish second",
+        "role": "A",
+        "phonetic": "/tuː ˈfɪnɪʃ ˈsekənd/",
+        "chinese": "到/向/完成/秒/第二"
+      },
+      {
+        "text": "as well",
+        "role": "A",
+        "phonetic": "/æz wel/",
+        "chinese": "也"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我见过的最激动人心的比赛",
+    "english": "It was the most exciting race I have ever seen",
+    "soundmark": "/ɪt wʌz ðə moʊst ɪkˈsaɪtɪŋ reɪs aɪ hæv ˈevər siːn/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the most exciting race",
+        "role": "C",
+        "phonetic": "/ðə moʊst ɪkˈsaɪtɪŋ reɪs/",
+        "chinese": "这个/那个/大多数/令人兴奋的"
+      },
+      {
+        "text": "I have ever seen",
+        "role": "A",
+        "phonetic": "/aɪ hæv ˈevər siːn/",
+        "chinese": "我/有/助动词/曾经/看见（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "每个人都同意那是一个很棒的一天",
+    "english": "Everyone agreed it was a great day",
+    "soundmark": "/ˈevriwʌn əˈɡriːd ɪt wʌz ə ɡreɪt deɪ/",
+    "grammar": [
+      {
+        "text": "Everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "agreed",
+        "role": "V",
+        "phonetic": "/əˈɡriːd/",
+        "chinese": "同意"
+      },
+      {
+        "text": "it was a great day",
+        "role": "O",
+        "phonetic": "/ɪt wʌz ə ɡreɪt deɪ/",
+        "chinese": "它/是（过去式）/一个/伟大的/很棒的/天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望明年还能再看比赛",
+    "english": "I hope to watch the race again next year",
+    "soundmark": "/aɪ hoʊp tuː wɑːtʃ ðə reɪs əˈɡen nekst jɪr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hope",
+        "role": "V",
+        "phonetic": "/hoʊp/",
+        "chinese": "希望"
+      },
+      {
+        "text": "to watch",
+        "role": "V",
+        "phonetic": "/tuː wɑːtʃ/",
+        "chinese": "到/向/观看"
+      },
+      {
+        "text": "the race",
+        "role": "O",
+        "phonetic": "/ðə reɪs/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "again",
+        "role": "A",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      },
+      {
+        "text": "next year",
+        "role": "A",
+        "phonetic": "/nekst jɪr/",
+        "chinese": "明年"
+      }
+    ]
+  },
+  {
+    "chinese": "护栏",
+    "english": "barrier",
+    "soundmark": "/ˈbæriər/"
+  },
+  {
+    "chinese": "一圈",
+    "english": "lap",
+    "soundmark": "/læp/"
+  },
+  {
+    "chinese": "表现",
+    "english": "performance",
+    "soundmark": "/pərˈfɔːrməns/"
+  },
+  {
+    "chinese": "同意",
+    "english": "agree",
+    "soundmark": "/əˈɡriː/"
+  },
+  {
+    "chinese": "幸运地",
+    "english": "luckily",
+    "soundmark": "/ˈlʌkɪli/"
+  },
+  {
+    "chinese": "成为",
+    "english": "become",
+    "soundmark": "/bɪˈkʌm/"
+  },
+  {
+    "chinese": "追上",
+    "english": "catch up",
+    "soundmark": "/kætʃ ʌp/"
+  },
+  {
+    "chinese": "前方",
+    "english": "ahead",
+    "soundmark": "/əˈhed/"
+  },
+  {
+    "chinese": "快乐",
+    "english": "happy",
+    "soundmark": "/ˈhæpi/"
+  },
+  {
+    "chinese": "最…的",
+    "english": "the most",
+    "soundmark": "/ðə moʊst/"
+  }
+]

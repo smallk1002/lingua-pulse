@@ -1,0 +1,765 @@
+[
+  {
+    "chinese": "欢迎",
+    "english": "welcome",
+    "soundmark": "/ˈwelkəm/"
+  },
+  {
+    "chinese": "人群",
+    "english": "crowd",
+    "soundmark": "/kraʊd/"
+  },
+  {
+    "chinese": "聚集",
+    "english": "gather",
+    "soundmark": "/ˈɡæðər/"
+  },
+  {
+    "chinese": "钟表",
+    "english": "clock",
+    "soundmark": "/klɑːk/"
+  },
+  {
+    "chinese": "敲响",
+    "english": "strike",
+    "soundmark": "/straɪk/"
+  },
+  {
+    "chinese": "午夜",
+    "english": "midnight",
+    "soundmark": "/ˈmɪdnaɪt/"
+  },
+  {
+    "chinese": "拒绝",
+    "english": "refuse",
+    "soundmark": "/rɪˈfjuːz/"
+  },
+  {
+    "chinese": "大喊",
+    "english": "shout",
+    "soundmark": "/ʃaʊt/"
+  },
+  {
+    "chinese": "开始",
+    "english": "begin",
+    "soundmark": "/bɪˈɡɪn/"
+  },
+  {
+    "chinese": "时刻",
+    "english": "moment",
+    "soundmark": "/ˈmoʊmənt/"
+  },
+  {
+    "chinese": "一大群人",
+    "english": "a large crowd",
+    "soundmark": "/ə/ /lɑːrdʒ/ /kraʊd/"
+  },
+  {
+    "chinese": "聚集在钟下",
+    "english": "gather under the clock",
+    "soundmark": "/ˈɡæðər/ /ˈʌndər/ /ðə/ /klɑːk/"
+  },
+  {
+    "chinese": "在午夜",
+    "english": "at midnight",
+    "soundmark": "/æt/ /ˈmɪdnaɪt/"
+  },
+  {
+    "chinese": "在星期三晚上",
+    "english": "on Wednesday evening",
+    "soundmark": "/ɑːn/ /ˈwenzdeɪ/ /ˈiːvnɪŋ/"
+  },
+  {
+    "chinese": "人群聚集在市政厅的钟下面",
+    "english": "A crowd gathered under the Town Hall clock",
+    "soundmark": "/ə/ /kraʊd/ /ˈɡæðərd/ /ˈʌndər/ /ðə/ /taʊn/ /hɔːl/ /klɑːk/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "crowd",
+        "role": "S",
+        "phonetic": "/kraʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "gathered",
+        "role": "V",
+        "phonetic": "/ˈɡæðərd/",
+        "chinese": "聚集"
+      },
+      {
+        "text": "under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Town",
+        "role": "A",
+        "phonetic": "/taʊn/",
+        "chinese": "城镇"
+      },
+      {
+        "text": "Hall",
+        "role": "A",
+        "phonetic": "/hɔːl/",
+        "chinese": ""
+      },
+      {
+        "text": "clock",
+        "role": "O",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      }
+    ]
+  },
+  {
+    "chinese": "它会在午夜敲十二下",
+    "english": "It would strike twelve at midnight",
+    "soundmark": "/ɪt/ /wʊd/ /straɪk/ /twelv/ /æt/ /ˈmɪdnaɪt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "strike",
+        "role": "V",
+        "phonetic": "/straɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "twelve",
+        "role": "O",
+        "phonetic": "/twelv/",
+        "chinese": "十二"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "midnight",
+        "role": "A",
+        "phonetic": "/ˈmɪdnaɪt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "钟敲了十二下但是什么也没发生",
+    "english": "The clock struck twelve but nothing happened",
+    "soundmark": "/ðə/ /klɑːk/ /strʌk/ /twelv/ /bʌt/ /ˈnʌθɪŋ/ /ˈhæpənd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "struck",
+        "role": "V",
+        "phonetic": "/strʌk/",
+        "chinese": ""
+      },
+      {
+        "text": "twelve",
+        "role": "O",
+        "phonetic": "/twelv/",
+        "chinese": "十二"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "nothing",
+        "role": "S",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      }
+    ]
+  },
+  {
+    "chinese": "十五分钟过去了",
+    "english": "Fifteen minutes passed",
+    "soundmark": "/fɪfˈtiːn/ /ˈmɪnɪts/ /pæst/",
+    "grammar": [
+      {
+        "text": "Fifteen",
+        "role": "Det",
+        "phonetic": "/fɪfˈtiːn/",
+        "chinese": "十五"
+      },
+      {
+        "text": "minutes",
+        "role": "S",
+        "phonetic": "/ˈmɪnɪts/",
+        "chinese": "分钟"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pæst/",
+        "chinese": "通过/传递"
+      }
+    ]
+  },
+  {
+    "chinese": "他们等到了十二点过十分",
+    "english": "They waited until ten past twelve",
+    "soundmark": "/ðeɪ/ /ˈweɪtɪd/ /ʌnˈtɪl/ /ten/ /pæst/ /twelv/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "waited",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪd/",
+        "chinese": "等"
+      },
+      {
+        "text": "until",
+        "role": "P",
+        "phonetic": "/ʌnˈtɪl/",
+        "chinese": "直到"
+      },
+      {
+        "text": "ten",
+        "role": "A",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "past",
+        "role": "P",
+        "phonetic": "/pæst/",
+        "chinese": "过去"
+      },
+      {
+        "text": "twelve",
+        "role": "A",
+        "phonetic": "/twelv/",
+        "chinese": "十二"
+      }
+    ]
+  },
+  {
+    "chinese": "有人大声喊道已经十二点过二十分了",
+    "english": "Someone shouted it was twenty past twelve",
+    "soundmark": "/ˈsʌmwʌn/ /ˈʃaʊtɪd/ /ɪt/ /wʌz/ /ˈtwenti/ /pæst/ /twelv/",
+    "grammar": [
+      {
+        "text": "Someone",
+        "role": "S",
+        "phonetic": "/ˈsʌmwʌn/",
+        "chinese": "某人"
+      },
+      {
+        "text": "shouted",
+        "role": "V",
+        "phonetic": "/ˈʃaʊtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "twenty",
+        "role": "C",
+        "phonetic": "/ˈtwenti/",
+        "chinese": "二十"
+      },
+      {
+        "text": "past",
+        "role": "P",
+        "phonetic": "/pæst/",
+        "chinese": "过去"
+      },
+      {
+        "text": "twelve",
+        "role": "A",
+        "phonetic": "/twelv/",
+        "chinese": "十二"
+      }
+    ]
+  },
+  {
+    "chinese": "钟停了",
+    "english": "The clock had stopped",
+    "soundmark": "/ðə/ /klɑːk/ /hæd/ /stɑːpt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "stopped",
+        "role": "V",
+        "phonetic": "/stɑːpt/",
+        "chinese": "停止（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "人群开始笑了起来",
+    "english": "The crowd began to laugh",
+    "soundmark": "/ðə/ /kraʊd/ /bɪˈɡæn/ /tuː/ /læf/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "crowd",
+        "role": "S",
+        "phonetic": "/kraʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "began",
+        "role": "V",
+        "phonetic": "/bɪˈɡæn/",
+        "chinese": "开始（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "laugh",
+        "role": "V",
+        "phonetic": "/læf/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们将在十二月三十一日晚上聚会",
+    "english": "We will meet on the evening of December the thirty first",
+    "soundmark": "/wiː/ /wɪl/ /miːt/ /ɑːn/ /ðə/ /ˈiːvnɪŋ/ /ʌv/ /dɪˈsembər/ /ðə/ /ˈθɜːrti/ /fɜːrst/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "evening",
+        "role": "A",
+        "phonetic": "/ˈiːvnɪŋ/",
+        "chinese": "晚上"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "December",
+        "role": "O",
+        "phonetic": "/dɪˈsembər/",
+        "chinese": "十二月"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thirty",
+        "role": "Det",
+        "phonetic": "/ˈθɜːrti/",
+        "chinese": "三十"
+      },
+      {
+        "text": "first",
+        "role": "O",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      }
+    ]
+  },
+  {
+    "chinese": "到了那个时刻大家都开始倒数",
+    "english": "At that moment everyone began to count down",
+    "soundmark": "/æt/ /ðæt/ /ˈmoʊmənt/ /ˈevriwʌn/ /bɪˈɡæn/ /tuː/ /kaʊnt/ /daʊn/",
+    "grammar": [
+      {
+        "text": "At",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "moment",
+        "role": "A",
+        "phonetic": "/ˈmoʊmənt/",
+        "chinese": "时刻"
+      },
+      {
+        "text": "everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "began",
+        "role": "V",
+        "phonetic": "/bɪˈɡæn/",
+        "chinese": "开始（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "count",
+        "role": "V",
+        "phonetic": "/kaʊnt/",
+        "chinese": "数"
+      },
+      {
+        "text": "down",
+        "role": "Adv",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      }
+    ]
+  },
+  {
+    "chinese": "他拒绝了她的邀请",
+    "english": "He refused her invitation",
+    "soundmark": "/hiː/ /rɪˈfjuːzd/ /hɜːr/ /ˌɪnvɪˈteɪʃən/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "refused",
+        "role": "V",
+        "phonetic": "/rɪˈfjuːzd/",
+        "chinese": "拒绝"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "invitation",
+        "role": "O",
+        "phonetic": "/ˌɪnvɪˈteɪʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "人们开始往广场聚集",
+    "english": "People began to gather in the square",
+    "soundmark": "/ˈpiːpəl/ /bɪˈɡæn/ /tuː/ /ˈɡæðər/ /ɪn/ /ðə/ /skwer/",
+    "grammar": [
+      {
+        "text": "People",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "began",
+        "role": "V",
+        "phonetic": "/bɪˈɡæn/",
+        "chinese": "开始（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "gather",
+        "role": "V",
+        "phonetic": "/ˈɡæðər/",
+        "chinese": "聚集"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "square",
+        "role": "O",
+        "phonetic": "/skwer/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "火车在整点准时到达",
+    "english": "The train arrived exactly on the hour",
+    "soundmark": "/ðə/ /treɪn/ /əˈraɪvd/ /ɪɡˈzæktli/ /ɑːn/ /ðə/ /ˈaʊər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "train",
+        "role": "S",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "exactly",
+        "role": "Adv",
+        "phonetic": "/ɪɡˈzæktli/",
+        "chinese": "确切地"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "hour",
+        "role": "A",
+        "phonetic": "/ˈaʊər/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "当时钟敲响时她站了起来",
+    "english": "When the clock struck she stood up",
+    "soundmark": "/wen/ /ðə/ /klɑːk/ /strʌk/ /ʃiː/ /stʊd/ /ʌp/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "struck",
+        "role": "V",
+        "phonetic": "/strʌk/",
+        "chinese": ""
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "stood",
+        "role": "V",
+        "phonetic": "/stʊd/",
+        "chinese": "站（过去式）"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      }
+    ]
+  },
+  {
+    "chinese": "新年快乐",
+    "english": "Happy New Year",
+    "soundmark": "/ˈhæpi/ /nuː/ /jɪr/"
+  },
+  {
+    "chinese": "广场",
+    "english": "square",
+    "soundmark": "/skwer/"
+  },
+  {
+    "chinese": "倒数",
+    "english": "count down",
+    "soundmark": "/kaʊnt/ /daʊn/"
+  },
+  {
+    "chinese": "发生了",
+    "english": "happened",
+    "soundmark": "/ˈhæpənd/"
+  },
+  {
+    "chinese": "停止",
+    "english": "stop",
+    "soundmark": "/stɑːp/"
+  },
+  {
+    "chinese": "笑",
+    "english": "laugh",
+    "soundmark": "/læf/"
+  },
+  {
+    "chinese": "等待",
+    "english": "wait",
+    "soundmark": "/weɪt/"
+  },
+  {
+    "chinese": "经过",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "十二月",
+    "english": "December",
+    "soundmark": "/dɪˈsembər/"
+  },
+  {
+    "chinese": "火车",
+    "english": "train",
+    "soundmark": "/treɪn/"
+  },
+  {
+    "chinese": "正好",
+    "english": "exactly",
+    "soundmark": "/ɪɡˈzæktli/"
+  }
+]

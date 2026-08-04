@@ -1,0 +1,200 @@
+[
+  {
+    "english": "dress",
+    "chinese": "连衣裙",
+    "soundmark": "/dres/"
+  },
+  {
+    "english": "beautiful",
+    "chinese": "美丽的",
+    "soundmark": "/ˈbjuːtɪfəl/"
+  },
+  {
+    "chinese": "一件美丽的裙子",
+    "english": "A beautiful dress",
+    "soundmark": "/ə ˈbjuːtɪfəl dres/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "beautiful",
+        "role": "Det",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "dress",
+        "role": "S",
+        "phonetic": "/dres/",
+        "chinese": "穿衣"
+      }
+    ]
+  },
+  {
+    "chinese": "她穿着新裙子",
+    "english": "She is wearing a new dress",
+    "soundmark": "/ʃiː ɪz ˈwerɪŋ ə nuː dres/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "wearing",
+        "role": "V",
+        "phonetic": "/ˈwerɪŋ/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "Det",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "dress",
+        "role": "O",
+        "phonetic": "/dres/",
+        "chinese": "穿衣"
+      }
+    ]
+  },
+  {
+    "chinese": "裙子很适合她",
+    "english": "The dress suits her well",
+    "soundmark": "/ðə dres suːts hɜːr wel/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dress",
+        "role": "S",
+        "phonetic": "/dres/",
+        "chinese": "穿衣"
+      },
+      {
+        "text": "suits",
+        "role": "V",
+        "phonetic": "/suːts/",
+        "chinese": "适合/套装"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "well",
+        "role": "A",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      }
+    ]
+  },
+  {
+    "chinese": "颜色很漂亮",
+    "english": "The color is very nice",
+    "soundmark": "/ðə ˈkʌlər ɪz ˈveri naɪs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "color",
+        "role": "S",
+        "phonetic": "/ˈkʌlər/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      }
+    ]
+  },
+  {
+    "chinese": "她看起来很优雅",
+    "english": "She looks very elegant",
+    "soundmark": "/ʃiː lʊks ˈveri ˈelɪɡənt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "looks",
+        "role": "V",
+        "phonetic": "/lʊks/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "elegant",
+        "role": "C",
+        "phonetic": "/ˈelɪɡənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "english": "elegant",
+    "chinese": "优雅的",
+    "soundmark": "/ˈelɪɡənt/"
+  },
+  {
+    "english": "fashion",
+    "chinese": "时尚",
+    "soundmark": "/ˈfæʃən/"
+  },
+  {
+    "english": "style",
+    "chinese": "风格",
+    "soundmark": "/staɪl/"
+  }
+]

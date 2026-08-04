@@ -1,0 +1,385 @@
+[
+  {
+    "chinese": "洞穴",
+    "english": "cave",
+    "soundmark": "/keɪv/"
+  },
+  {
+    "chinese": "勘探",
+    "english": "exploration",
+    "soundmark": "/ˌekspləˈreɪʃən/"
+  },
+  {
+    "chinese": "装备",
+    "english": "equipment",
+    "soundmark": "/ɪˈkwɪpmənt/"
+  },
+  {
+    "chinese": "绳索",
+    "english": "rope",
+    "soundmark": "/roʊp/"
+  },
+  {
+    "chinese": "裂缝",
+    "english": "crack",
+    "soundmark": "/kræk/"
+  },
+  {
+    "chinese": "下降",
+    "english": "descend",
+    "soundmark": "/dɪˈsend/"
+  },
+  {
+    "chinese": "黑暗",
+    "english": "darkness",
+    "soundmark": "/ˈdɑːrknəs/"
+  },
+  {
+    "chinese": "冒险",
+    "english": "adventure",
+    "soundmark": "/ədˈventʃər/"
+  },
+  {
+    "chinese": "正在下降",
+    "english": "descending",
+    "soundmark": "/dɪˈsendɪŋ/"
+  },
+  {
+    "chinese": "正在探索",
+    "english": "exploring",
+    "soundmark": "/ɪkˈsplɔːrɪŋ/"
+  },
+  {
+    "chinese": "他正沿着绳子下降进入黑暗之中。",
+    "english": "Descending the rope he disappeared into the darkness",
+    "soundmark": "/dɪˈsendɪŋ ðə roʊp hiː ˌdɪsəˈpɪrd ˈɪntuː ðə ˈdɑːrknəs/",
+    "grammar": [
+      {
+        "text": "Descending",
+        "role": "V",
+        "phonetic": "/dɪˈsendɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rope",
+        "role": "O",
+        "phonetic": "/roʊp/",
+        "chinese": "绳子"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "disappeared",
+        "role": "V",
+        "phonetic": "/ˌdɪsəˈpɪrd/",
+        "chinese": "消失"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "darkness",
+        "role": "A",
+        "phonetic": "/ˈdɑːrknəs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "戴着安全帽他们进入了最深处的通道。",
+    "english": "Wearing helmets they entered the deepest passage",
+    "soundmark": "/ˈwerɪŋ ˈhelmɪts ðeɪ ˈentərd ðə ˈdiːpɪst ˈpæsɪdʒ/",
+    "grammar": [
+      {
+        "text": "Wearing",
+        "role": "V",
+        "phonetic": "/ˈwerɪŋ/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "helmets",
+        "role": "O",
+        "phonetic": "/ˈhelmɪts/",
+        "chinese": ""
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "entered",
+        "role": "V",
+        "phonetic": "/ˈentərd/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "deepest",
+        "role": "C",
+        "phonetic": "/ˈdiːpɪst/",
+        "chinese": "最…的(深的)"
+      },
+      {
+        "text": "passage",
+        "role": "O",
+        "phonetic": "/ˈpæsɪdʒ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "勘探洞穴是一项危险的冒险。",
+    "english": "Exploring caves is a dangerous adventure",
+    "soundmark": "/ɪkˈsplɔːrɪŋ keɪvz ɪz ə ˈdeɪndʒərəs ədˈventʃər/",
+    "grammar": [
+      {
+        "text": "Exploring",
+        "role": "V",
+        "phonetic": "/ɪkˈsplɔːrɪŋ/",
+        "chinese": "探索"
+      },
+      {
+        "text": "caves",
+        "role": "O",
+        "phonetic": "/keɪvz/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "dangerous",
+        "role": "C",
+        "phonetic": "/ˈdeɪndʒərəs/",
+        "chinese": "危险的"
+      },
+      {
+        "text": "adventure",
+        "role": "C",
+        "phonetic": "/ədˈventʃər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "装备了专业工具他们能安全地下到最深处。",
+    "english": "Equipped with special tools they could safely descend to the deepest levels",
+    "soundmark": "/ɪˈkwɪpt wɪð ˈspeʃəl tuːlz ðeɪ kʊd ˈseɪfli dɪˈsend tuː ðə ˈdiːpɪst ˈlevəlz/",
+    "grammar": [
+      {
+        "text": "Equipped",
+        "role": "V",
+        "phonetic": "/ɪˈkwɪpt/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "special",
+        "role": "C",
+        "phonetic": "/ˈspeʃəl/",
+        "chinese": "特别的"
+      },
+      {
+        "text": "tools",
+        "role": "O",
+        "phonetic": "/tuːlz/",
+        "chinese": "工具"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "safely",
+        "role": "Adv",
+        "phonetic": "/ˈseɪfli/",
+        "chinese": "…地(安全的)"
+      },
+      {
+        "text": "descend",
+        "role": "V",
+        "phonetic": "/dɪˈsend/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "deepest",
+        "role": "C",
+        "phonetic": "/ˈdiːpɪst/",
+        "chinese": "最…的(深的)"
+      },
+      {
+        "text": "levels",
+        "role": "A",
+        "phonetic": "/ˈlevəlz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "从裂缝中挤过去他们发现了一个巨大的地下湖。",
+    "english": "Squeezing through the crack they discovered a huge underground lake",
+    "soundmark": "/ˈskwiːzɪŋ θruː ðə kræk ðeɪ dɪˈskʌvərd ə hjuːdʒ ˈʌndərɡraʊnd leɪk/",
+    "grammar": [
+      {
+        "text": "Squeezing",
+        "role": "V",
+        "phonetic": "/ˈskwiːzɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "through",
+        "role": "P",
+        "phonetic": "/θruː/",
+        "chinese": "通过/穿过"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "crack",
+        "role": "A",
+        "phonetic": "/kræk/",
+        "chinese": ""
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "huge",
+        "role": "C",
+        "phonetic": "/hjuːdʒ/",
+        "chinese": "巨大的"
+      },
+      {
+        "text": "underground",
+        "role": "C",
+        "phonetic": "/ˈʌndərɡraʊnd/",
+        "chinese": ""
+      },
+      {
+        "text": "lake",
+        "role": "O",
+        "phonetic": "/leɪk/",
+        "chinese": "湖"
+      }
+    ]
+  },
+  {
+    "chinese": "洞穴",
+    "english": "cave",
+    "soundmark": "/keɪv/"
+  },
+  {
+    "chinese": "勘探",
+    "english": "exploration",
+    "soundmark": "/ˌekspləˈreɪʃən/"
+  },
+  {
+    "chinese": "装备",
+    "english": "equipment",
+    "soundmark": "/ɪˈkwɪpmənt/"
+  },
+  {
+    "chinese": "绳索",
+    "english": "rope",
+    "soundmark": "/roʊp/"
+  },
+  {
+    "chinese": "裂缝",
+    "english": "crack",
+    "soundmark": "/kræk/"
+  },
+  {
+    "chinese": "下降",
+    "english": "descend",
+    "soundmark": "/dɪˈsend/"
+  },
+  {
+    "chinese": "头盔",
+    "english": "helmet",
+    "soundmark": "/ˈhelmɪt/"
+  },
+  {
+    "chinese": "地下的",
+    "english": "underground",
+    "soundmark": "/ˈʌndərɡraʊnd/"
+  }
+]

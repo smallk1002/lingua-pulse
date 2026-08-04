@@ -1,0 +1,454 @@
+[
+  {
+    "chinese": "南极",
+    "english": "South Pole",
+    "soundmark": "/saʊθ poʊl/"
+  },
+  {
+    "chinese": "飞行",
+    "english": "flight",
+    "soundmark": "/flaɪt/"
+  },
+  {
+    "chinese": "探险家",
+    "english": "explorer",
+    "soundmark": "/ɪkˈsplɔːrər/"
+  },
+  {
+    "chinese": "能",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "chinese": "能够",
+    "english": "be able to",
+    "soundmark": "/biː ˈeɪbl tuː/"
+  },
+  {
+    "chinese": "成功地",
+    "english": "successfully",
+    "soundmark": "/səkˈsesfəli/"
+  },
+  {
+    "chinese": "平原",
+    "english": "plain",
+    "soundmark": "/pleɪn/"
+  },
+  {
+    "chinese": "位于",
+    "english": "lie",
+    "soundmark": "/laɪ/"
+  },
+  {
+    "chinese": "我会讲英语。",
+    "english": "I can speak English",
+    "soundmark": "/aɪ kæn spiːk ˈɪŋɡlɪʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can speak",
+        "role": "V",
+        "phonetic": "/kæn spiːk/",
+        "chinese": "能/说/讲"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      }
+    ]
+  },
+  {
+    "chinese": "他们成功飞越了南极。",
+    "english": "They were able to fly over the South Pole",
+    "soundmark": "/ðeɪ wɜːr ˈeɪbl tuː flaɪ ˈoʊvər ðə saʊθ poʊl/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were able to",
+        "role": "V",
+        "phonetic": "/wɜːr ˈeɪbl tuː/",
+        "chinese": "是（过去式）/能够的/到/向"
+      },
+      {
+        "text": "fly",
+        "role": "V",
+        "phonetic": "/flaɪ/",
+        "chinese": "飞"
+      },
+      {
+        "text": "over the South Pole",
+        "role": "A",
+        "phonetic": "/ˈoʊvər ðə saʊθ poʊl/",
+        "chinese": "在…上方/这个/那个/杆/极"
+      }
+    ]
+  },
+  {
+    "chinese": "她能解出这道数学题。",
+    "english": "She is able to solve this math problem",
+    "soundmark": "/ʃiː ɪz ˈeɪbl tuː sɑːlv ðɪs mæθ ˈprɑːbləm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is able to",
+        "role": "V",
+        "phonetic": "/ɪz ˈeɪbl tuː/",
+        "chinese": "是/能够的/到/向"
+      },
+      {
+        "text": "solve",
+        "role": "V",
+        "phonetic": "/sɑːlv/",
+        "chinese": ""
+      },
+      {
+        "text": "this math problem",
+        "role": "O",
+        "phonetic": "/ðɪs mæθ ˈprɑːbləm/",
+        "chinese": "这个/问题/难题"
+      }
+    ]
+  },
+  {
+    "chinese": "探险家们终于能到达目的地了。",
+    "english": "The explorers were finally able to reach their destination",
+    "soundmark": "/ðə ɪkˈsplɔːrərz wɜːr ˈfaɪnəli ˈeɪbl tuː riːtʃ ðer ˌdestɪˈneɪʃn/",
+    "grammar": [
+      {
+        "text": "The explorers",
+        "role": "S",
+        "phonetic": "/ðə ɪkˈsplɔːrərz/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "were finally able to",
+        "role": "V",
+        "phonetic": "/wɜːr ˈfaɪnəli ˈeɪbl tuː/",
+        "chinese": "是（过去式）/最后/能够的/到/向"
+      },
+      {
+        "text": "reach",
+        "role": "V",
+        "phonetic": "/riːtʃ/",
+        "chinese": "到达"
+      },
+      {
+        "text": "their destination",
+        "role": "O",
+        "phonetic": "/ðer ˌdestɪˈneɪʃn/",
+        "chinese": "他们的"
+      }
+    ]
+  },
+  {
+    "chinese": "他不能来参加聚会。",
+    "english": "He cannot come to the party",
+    "soundmark": "/hiː ˈkænɑːt kʌm tuː ðə ˈpɑːrti/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "to the party",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈpɑːrti/",
+        "chinese": "到/向/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "在坏天气里他们没能起飞。",
+    "english": "They were not able to take off in the bad weather",
+    "soundmark": "/ðeɪ wɜːr nɑːt ˈeɪbl tuː teɪk ɔːf ɪn ðə bæd ˈweðər/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were not able to",
+        "role": "V",
+        "phonetic": "/wɜːr nɑːt ˈeɪbl tuː/",
+        "chinese": "是（过去式）/不/能够的/到/向"
+      },
+      {
+        "text": "take off",
+        "role": "V",
+        "phonetic": "/teɪk ɔːf/",
+        "chinese": "脱下/起飞"
+      },
+      {
+        "text": "in the bad weather",
+        "role": "A",
+        "phonetic": "/ɪn ðə bæd ˈweðər/",
+        "chinese": "在…里/这个/那个/坏的/天气"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我一下吗？",
+    "english": "Can you help me",
+    "soundmark": "/kæn juː help miː/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "到明天我就能完成这件事。",
+    "english": "I will be able to finish it by tomorrow",
+    "soundmark": "/aɪ wɪl biː ˈeɪbl tuː ˈfɪnɪʃ ɪt baɪ təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will be able to",
+        "role": "V",
+        "phonetic": "/wɪl biː ˈeɪbl tuː/",
+        "chinese": "将能够"
+      },
+      {
+        "text": "finish",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "chinese": "完成"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "by tomorrow",
+        "role": "A",
+        "phonetic": "/baɪ təˈmɑːroʊ/",
+        "chinese": "通过/被/在…旁/明天"
+      }
+    ]
+  },
+  {
+    "chinese": "她不用看乐谱就能弹钢琴。",
+    "english": "She can play the piano without looking at the music",
+    "soundmark": "/ʃiː kæn pleɪ ðə piˈænoʊ wɪˈðaʊt ˈlʊkɪŋ æt ðə ˈmjuːzɪk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "can play",
+        "role": "V",
+        "phonetic": "/kæn pleɪ/",
+        "chinese": "能/玩"
+      },
+      {
+        "text": "the piano",
+        "role": "O",
+        "phonetic": "/ðə piˈænoʊ/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "without looking at the music",
+        "role": "A",
+        "phonetic": "/wɪˈðaʊt ˈlʊkɪŋ æt ðə ˈmjuːzɪk/",
+        "chinese": "没有/看起来/在/这个/那个/音乐"
+      }
+    ]
+  },
+  {
+    "chinese": "我们可能能拍到一些好照片。",
+    "english": "We may be able to get some good photographs",
+    "soundmark": "/wiː meɪ biː ˈeɪbl tuː ɡet sʌm ɡʊd ˈfoʊtəɡræfs/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "may be able to",
+        "role": "V",
+        "phonetic": "/meɪ biː ˈeɪbl tuː/",
+        "chinese": "可以/是/能够的/到/向"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "some good photographs",
+        "role": "O",
+        "phonetic": "/sʌm ɡʊd ˈfoʊtəɡræfs/",
+        "chinese": "一些/好的"
+      }
+    ]
+  },
+  {
+    "chinese": "没人能在那种条件下生存。",
+    "english": "No one could survive under those conditions",
+    "soundmark": "/noʊ wʌn kʊd sərˈvaɪv ˈʌndər ðoʊz kənˈdɪʃnz/",
+    "grammar": [
+      {
+        "text": "No one",
+        "role": "S",
+        "phonetic": "/noʊ wʌn/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "could survive",
+        "role": "V",
+        "phonetic": "/kʊd sərˈvaɪv/",
+        "chinese": "可以/能（过去式）/幸存"
+      },
+      {
+        "text": "under those conditions",
+        "role": "A",
+        "phonetic": "/ˈʌndər ðoʊz kənˈdɪʃnz/",
+        "chinese": "在…下方/那些/…们/复数(条件/状况)"
+      }
+    ]
+  },
+  {
+    "chinese": "他通过努力能够按时完成任务。",
+    "english": "He was able to complete the task on time through hard work",
+    "soundmark": "/hiː wʌz ˈeɪbl tuː kəmˈpliːt ðə tæsk ɑːn taɪm θruː hɑːrd wɜːrk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was able to",
+        "role": "V",
+        "phonetic": "/wʌz ˈeɪbl tuː/",
+        "chinese": "是（过去式）/能够的/到/向"
+      },
+      {
+        "text": "complete",
+        "role": "V",
+        "phonetic": "/kəmˈpliːt/",
+        "chinese": "完整的"
+      },
+      {
+        "text": "the task",
+        "role": "O",
+        "phonetic": "/ðə tæsk/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "on time through hard work",
+        "role": "A",
+        "phonetic": "/ɑːn taɪm θruː hɑːrd wɜːrk/",
+        "chinese": "在…上/时间/通过/穿过/硬的/难的/工作"
+      }
+    ]
+  },
+  {
+    "chinese": "解决",
+    "english": "solve",
+    "soundmark": "/sɑːlv/"
+  },
+  {
+    "chinese": "目的地",
+    "english": "destination",
+    "soundmark": "/ˌdestɪˈneɪʃn/"
+  },
+  {
+    "chinese": "起飞",
+    "english": "take off",
+    "soundmark": "/teɪk ɔːf/"
+  },
+  {
+    "chinese": "摄影",
+    "english": "photograph",
+    "soundmark": "/ˈfoʊtəɡræf/"
+  },
+  {
+    "chinese": "生存",
+    "english": "survive",
+    "soundmark": "/sərˈvaɪv/"
+  },
+  {
+    "chinese": "条件",
+    "english": "condition",
+    "soundmark": "/kənˈdɪʃn/"
+  },
+  {
+    "chinese": "任务",
+    "english": "task",
+    "soundmark": "/tæsk/"
+  },
+  {
+    "chinese": "通过",
+    "english": "through",
+    "soundmark": "/θruː/"
+  }
+]

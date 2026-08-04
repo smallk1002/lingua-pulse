@@ -1,0 +1,195 @@
+[
+  {
+    "english": "telephone",
+    "chinese": "电话",
+    "soundmark": "/ˈtelɪfoʊn/"
+  },
+  {
+    "chinese": "通过电话",
+    "english": "Over the telephone",
+    "soundmark": "/ˈoʊvər ðə ˈtelɪfoʊn/",
+    "grammar": [
+      {
+        "text": "Over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "telephone",
+        "role": "O",
+        "phonetic": "/ˈtelɪfoʊn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他在电话里说的",
+    "english": "He said it over the telephone",
+    "soundmark": "/hiː sed ɪt ˈoʊvər ðə ˈtelɪfoʊn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "telephone",
+        "role": "O",
+        "phonetic": "/ˈtelɪfoʊn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我在电话中听到了",
+    "english": "I heard it on the phone",
+    "soundmark": "/aɪ hɜːrd ɪt ɒn ðə foʊn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "heard",
+        "role": "V",
+        "phonetic": "/hɜːrd/",
+        "chinese": "听到（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "phone",
+        "role": "O",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      }
+    ]
+  },
+  {
+    "chinese": "电话费很贵",
+    "english": "Telephone calls are expensive",
+    "soundmark": "/ˈtelɪfoʊn kɔːlz ɑːr ɪkˈspensɪv/",
+    "grammar": [
+      {
+        "text": "Telephone",
+        "role": "Det",
+        "phonetic": "/ˈtelɪfoʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "calls",
+        "role": "S",
+        "phonetic": "/kɔːlz/",
+        "chinese": "打电话/叫"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "expensive",
+        "role": "C",
+        "phonetic": "/ɪkˈspensɪv/",
+        "chinese": "昂贵的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们保持联系",
+    "english": "We keep in touch",
+    "soundmark": "/wiː kiːp ɪn tʌtʃ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "keep",
+        "role": "V",
+        "phonetic": "/kiːp/",
+        "chinese": "保持/保留"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "touch",
+        "role": "O",
+        "phonetic": "/tʌtʃ/",
+        "chinese": "触摸"
+      }
+    ]
+  },
+  {
+    "english": "call",
+    "chinese": "打电话",
+    "soundmark": "/kɔːl/"
+  },
+  {
+    "english": "conversation",
+    "chinese": "对话",
+    "soundmark": "/ˌkɑːnvərˈseɪʃən/"
+  },
+  {
+    "english": "message",
+    "chinese": "消息",
+    "soundmark": "/ˈmesɪdʒ/"
+  }
+]

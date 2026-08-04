@@ -1,0 +1,500 @@
+[
+  {
+    "chinese": "奥运会",
+    "english": "Olympic Games",
+    "soundmark": "/əˈlɪmpɪk ɡeɪmz/"
+  },
+  {
+    "chinese": "举办",
+    "english": "hold",
+    "soundmark": "/hoʊld/"
+  },
+  {
+    "chinese": "体育场",
+    "english": "stadium",
+    "soundmark": "/ˈsteɪdiəm/"
+  },
+  {
+    "chinese": "巨大的",
+    "english": "immense",
+    "soundmark": "/ɪˈmens/"
+  },
+  {
+    "chinese": "标准",
+    "english": "standard",
+    "soundmark": "/ˈstændərd/"
+  },
+  {
+    "chinese": "首都",
+    "english": "capital",
+    "soundmark": "/ˈkæpɪtl/"
+  },
+  {
+    "chinese": "设计",
+    "english": "design",
+    "soundmark": "/dɪˈzaɪn/"
+  },
+  {
+    "chinese": "完成",
+    "english": "complete",
+    "soundmark": "/kəmˈpliːt/"
+  },
+  {
+    "chinese": "政府",
+    "english": "government",
+    "soundmark": "/ˈɡʌvərnmənt/"
+  },
+  {
+    "chinese": "运动员",
+    "english": "athlete",
+    "soundmark": "/ˈæθliːt/"
+  },
+  {
+    "chinese": "被举办",
+    "english": "be held",
+    "soundmark": "/biː held/"
+  },
+  {
+    "chinese": "到……时候",
+    "english": "by the time",
+    "soundmark": "/baɪ ðə taɪm/"
+  },
+  {
+    "chinese": "运动会将在北京举办。",
+    "english": "The Games will be held in Beijing",
+    "soundmark": "/ðə ɡeɪmz wɪl biː held ɪn ˌbeɪˈdʒɪŋ/",
+    "grammar": [
+      {
+        "text": "The Games",
+        "role": "S",
+        "phonetic": "/ðə ɡeɪmz/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "will be held",
+        "role": "V",
+        "phonetic": "/wɪl biː held/",
+        "chinese": "将要/是"
+      },
+      {
+        "text": "in Beijing",
+        "role": "A",
+        "phonetic": "/ɪn ˌbeɪˈdʒɪŋ/",
+        "chinese": "在…里/北京"
+      }
+    ]
+  },
+  {
+    "chinese": "到明天这个时候一切都会准备好的。",
+    "english": "By this time tomorrow everything will have been ready",
+    "soundmark": "/baɪ ðɪs taɪm təˈmɑːroʊ ˈevriθɪŋ wɪl hæv biːn ˈredi/",
+    "grammar": [
+      {
+        "text": "By this time tomorrow",
+        "role": "A",
+        "phonetic": "/baɪ ðɪs taɪm təˈmɑːroʊ/",
+        "chinese": "通过/被/在…旁/这个/时间/明天"
+      },
+      {
+        "text": "everything",
+        "role": "S",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      },
+      {
+        "text": "will have been",
+        "role": "V",
+        "phonetic": "/wɪl hæv biːn/",
+        "chinese": "将要/有/助动词/是（过去分词）"
+      },
+      {
+        "text": "ready",
+        "role": "C",
+        "phonetic": "/ˈredi/",
+        "chinese": "准备好的"
+      }
+    ]
+  },
+  {
+    "chinese": "到年底他们就会完成工作。",
+    "english": "They will have completed the work by the end of the year",
+    "soundmark": "/ðeɪ wɪl hæv kəmˈpliːtɪd ðə wɜːrk baɪ ðə end əv ðə jɪr/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "will have completed",
+        "role": "V",
+        "phonetic": "/wɪl hæv kəmˈpliːtɪd/",
+        "chinese": "将要/有/助动词/完成的"
+      },
+      {
+        "text": "the work",
+        "role": "O",
+        "phonetic": "/ðə wɜːrk/",
+        "chinese": "这个/那个/工作"
+      },
+      {
+        "text": "by the end of the year",
+        "role": "A",
+        "phonetic": "/baɪ ðə end əv ðə jɪr/",
+        "chinese": "通过/被/在…旁/这个/那个/结束/…的/这个/那个/年"
+      }
+    ]
+  },
+  {
+    "chinese": "新体育场到开幕前就会建好。",
+    "english": "The new stadium will have been built before the opening",
+    "soundmark": "/ðə nuː ˈsteɪdiəm wɪl hæv biːn bɪlt bɪˈfɔːr ðə ˈoʊpənɪŋ/",
+    "grammar": [
+      {
+        "text": "The new stadium",
+        "role": "S",
+        "phonetic": "/ðə nuː ˈsteɪdiəm/",
+        "chinese": "这个/那个/新的"
+      },
+      {
+        "text": "will have been built",
+        "role": "V",
+        "phonetic": "/wɪl hæv biːn bɪlt/",
+        "chinese": "将要/有/助动词/是（过去分词）/建造的"
+      },
+      {
+        "text": "before the opening",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr ðə ˈoʊpənɪŋ/",
+        "chinese": "在…之前/这个/那个/打开"
+      }
+    ]
+  },
+  {
+    "chinese": "他到的时候我已经写完报告了。",
+    "english": "I will have finished the report by the time he arrives",
+    "soundmark": "/aɪ wɪl hæv ˈfɪnɪʃt ðə rɪˈpɔːrt baɪ ðə taɪm hiː əˈraɪvz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will have finished",
+        "role": "V",
+        "phonetic": "/wɪl hæv ˈfɪnɪʃt/",
+        "chinese": "将要/有/助动词/完成的"
+      },
+      {
+        "text": "the report",
+        "role": "O",
+        "phonetic": "/ðə rɪˈpɔːrt/",
+        "chinese": "这个/那个/报告"
+      },
+      {
+        "text": "by the time he arrives",
+        "role": "A",
+        "phonetic": "/baɪ ðə taɪm hiː əˈraɪvz/",
+        "chinese": "通过/被/在…旁/这个/那个/时间/他/…们/复数(到达)"
+      }
+    ]
+  },
+  {
+    "chinese": "到六点钟她应该已经到家了。",
+    "english": "She will have arrived home by six o'clock",
+    "soundmark": "/ʃiː wɪl hæv əˈraɪvd hoʊm baɪ sɪks əˈklɑːk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "will have arrived",
+        "role": "V",
+        "phonetic": "/wɪl hæv əˈraɪvd/",
+        "chinese": "将要/有/助动词/到达"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "by six o'clock",
+        "role": "A",
+        "phonetic": "/baɪ sɪks əˈklɑːk/",
+        "chinese": "通过/被/在…旁/六"
+      }
+    ]
+  },
+  {
+    "chinese": "到周末雨就会停了。",
+    "english": "The rain will have stopped by the weekend",
+    "soundmark": "/ðə reɪn wɪl hæv stɑːpt baɪ ðə ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "The rain",
+        "role": "S",
+        "phonetic": "/ðə reɪn/",
+        "chinese": "这个/那个/雨"
+      },
+      {
+        "text": "will have stopped",
+        "role": "V",
+        "phonetic": "/wɪl hæv stɑːpt/",
+        "chinese": "将要/有/助动词/停止（过去式）"
+      },
+      {
+        "text": "by the weekend",
+        "role": "A",
+        "phonetic": "/baɪ ðə ˈwiːkend/",
+        "chinese": "通过/被/在…旁/这个/那个/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "这么多国家将参加比赛。",
+    "english": "So many countries will take part in the Games",
+    "soundmark": "/soʊ ˈmeni ˈkʌntriz wɪl teɪk pɑːrt ɪn ðə ɡeɪmz/",
+    "grammar": [
+      {
+        "text": "So many countries",
+        "role": "S",
+        "phonetic": "/soʊ ˈmeni ˈkʌntriz/",
+        "chinese": "如此/所以/许多/国家"
+      },
+      {
+        "text": "will take part",
+        "role": "V",
+        "phonetic": "/wɪl teɪk pɑːrt/",
+        "chinese": "将要/拿/带/部分"
+      },
+      {
+        "text": "in the Games",
+        "role": "A",
+        "phonetic": "/ɪn ðə ɡeɪmz/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "到那时他已经当十年教练了。",
+    "english": "By then he will have been a coach for ten years",
+    "soundmark": "/baɪ ðen hiː wɪl hæv biːn ə koʊtʃ fɔːr ten jɪrz/",
+    "grammar": [
+      {
+        "text": "By then",
+        "role": "A",
+        "phonetic": "/baɪ ðen/",
+        "chinese": "通过/被/在…旁/那时/然后"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will have been",
+        "role": "V",
+        "phonetic": "/wɪl hæv biːn/",
+        "chinese": "将要/有/助动词/是（过去分词）"
+      },
+      {
+        "text": "a coach",
+        "role": "C",
+        "phonetic": "/ə koʊtʃ/",
+        "chinese": "一个"
+      },
+      {
+        "text": "for ten years",
+        "role": "A",
+        "phonetic": "/fɔːr ten jɪrz/",
+        "chinese": "为了/对于/十/…们/复数(年)"
+      }
+    ]
+  },
+  {
+    "chinese": "到下个月我就学英语满三年了。",
+    "english": "By next month I will have learned English for three years",
+    "soundmark": "/baɪ nekst mʌnθ aɪ wɪl hæv lɜːrnd ˈɪŋɡlɪʃ fɔːr θriː jɪrz/",
+    "grammar": [
+      {
+        "text": "By next month",
+        "role": "A",
+        "phonetic": "/baɪ nekst mʌnθ/",
+        "chinese": "通过/被/在…旁/下一个/接下来/月"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will have learned",
+        "role": "V",
+        "phonetic": "/wɪl hæv lɜːrnd/",
+        "chinese": "将要/有/助动词/博学的"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "for three years",
+        "role": "A",
+        "phonetic": "/fɔːr θriː jɪrz/",
+        "chinese": "为了/对于/三/…们/复数(年)"
+      }
+    ]
+  },
+  {
+    "chinese": "这是有史以来最大的体育场。",
+    "english": "This is the largest stadium ever built",
+    "soundmark": "/ðɪs ɪz ðə ˈlɑːrdʒɪst ˈsteɪdiəm ˈevər bɪlt/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the largest stadium",
+        "role": "C",
+        "phonetic": "/ðə ˈlɑːrdʒɪst ˈsteɪdiəm/",
+        "chinese": "这个/那个/最…的(大的)"
+      },
+      {
+        "text": "ever built",
+        "role": "A",
+        "phonetic": "/ˈevər bɪlt/",
+        "chinese": "曾经/建造的"
+      }
+    ]
+  },
+  {
+    "chinese": "来自世界各地的运动员将参加比赛。",
+    "english": "Athletes from all over the world will take part",
+    "soundmark": "/ˈæθliːts frʌm ɔːl ˈoʊvər ðə wɜːrld wɪl teɪk pɑːrt/",
+    "grammar": [
+      {
+        "text": "Athletes from all over the world",
+        "role": "S",
+        "phonetic": "/ˈæθliːts frʌm ɔːl ˈoʊvər ðə wɜːrld/",
+        "chinese": "从/来自/所有的/在…上方/这个/那个/世界"
+      },
+      {
+        "text": "will take part",
+        "role": "V",
+        "phonetic": "/wɪl teɪk pɑːrt/",
+        "chinese": "将要/拿/带/部分"
+      }
+    ]
+  },
+  {
+    "chinese": "等他们完成这座体育场时将花费数十亿。",
+    "english": "Billions will have been spent by the time they finish the stadium",
+    "soundmark": "/ˈbɪljənz wɪl hæv biːn spent baɪ ðə taɪm ðeɪ ˈfɪnɪʃ ðə ˈsteɪdiəm/",
+    "grammar": [
+      {
+        "text": "Billions",
+        "role": "S",
+        "phonetic": "/ˈbɪljənz/",
+        "chinese": ""
+      },
+      {
+        "text": "will have been spent",
+        "role": "V",
+        "phonetic": "/wɪl hæv biːn spent/",
+        "chinese": "将要/有/助动词/是（过去分词）/花费（过去式）"
+      },
+      {
+        "text": "by the time they finish the stadium",
+        "role": "A",
+        "phonetic": "/baɪ ðə taɪm ðeɪ ˈfɪnɪʃ ðə ˈsteɪdiəm/",
+        "chinese": "通过/被/在…旁/这个/那个/时间/他们/完成/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "到那时大部分道路都会修完。",
+    "english": "Most of the roads will have been repaired by then",
+    "soundmark": "/moʊst əv ðə roʊdz wɪl hæv biːn rɪˈperd baɪ ðen/",
+    "grammar": [
+      {
+        "text": "Most of the roads",
+        "role": "S",
+        "phonetic": "/moʊst əv ðə roʊdz/",
+        "chinese": "大多数/…的/这个/那个/…们/复数(路)"
+      },
+      {
+        "text": "will have been repaired",
+        "role": "V",
+        "phonetic": "/wɪl hæv biːn rɪˈperd/",
+        "chinese": "将要/有/助动词/是（过去分词）/被修理的"
+      },
+      {
+        "text": "by then",
+        "role": "A",
+        "phonetic": "/baɪ ðen/",
+        "chinese": "通过/被/在…旁/那时/然后"
+      }
+    ]
+  },
+  {
+    "chinese": "参加",
+    "english": "take part",
+    "soundmark": "/teɪk pɑːrt/"
+  },
+  {
+    "chinese": "教练",
+    "english": "coach",
+    "soundmark": "/koʊtʃ/"
+  },
+  {
+    "chinese": "花费",
+    "english": "spend",
+    "soundmark": "/spend/"
+  },
+  {
+    "chinese": "数十亿",
+    "english": "billions",
+    "soundmark": "/ˈbɪljənz/"
+  },
+  {
+    "chinese": "道路",
+    "english": "road",
+    "soundmark": "/roʊd/"
+  },
+  {
+    "chinese": "曾经",
+    "english": "ever",
+    "soundmark": "/ˈevər/"
+  },
+  {
+    "chinese": "完成",
+    "english": "finish",
+    "soundmark": "/ˈfɪnɪʃ/"
+  },
+  {
+    "chinese": "开幕",
+    "english": "opening",
+    "soundmark": "/ˈoʊpənɪŋ/"
+  }
+]

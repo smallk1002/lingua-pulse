@@ -1,0 +1,641 @@
+[
+  {
+    "chinese": "星系",
+    "english": "galaxy",
+    "soundmark": "/ˈɡæləksi/"
+  },
+  {
+    "chinese": "人类",
+    "english": "mankind",
+    "soundmark": "/mænˈkaɪnd/"
+  },
+  {
+    "chinese": "浩瀚的",
+    "english": "vast",
+    "soundmark": "/vɑːst/"
+  },
+  {
+    "chinese": "尺度",
+    "english": "scale",
+    "soundmark": "/skeɪl/"
+  },
+  {
+    "chinese": "演化",
+    "english": "evolution",
+    "soundmark": "/ˌiːvəˈluːʃən/"
+  },
+  {
+    "chinese": "宇宙学",
+    "english": "cosmology",
+    "soundmark": "/kɒzˈmɒlədʒi/"
+  },
+  {
+    "chinese": "起源",
+    "english": "origin",
+    "soundmark": "/ˈɒrɪdʒɪn/"
+  },
+  {
+    "chinese": "命运",
+    "english": "destiny",
+    "soundmark": "/ˈdestɪni/"
+  },
+  {
+    "chinese": "维度",
+    "english": "dimension",
+    "soundmark": "/daɪˈmenʃən/"
+  },
+  {
+    "chinese": "无穷尽的",
+    "english": "infinite",
+    "soundmark": "/ˈɪnfɪnət/"
+  },
+  {
+    "chinese": "星云",
+    "english": "nebula",
+    "soundmark": "/ˈnebjʊlə/"
+  },
+  {
+    "chinese": "相对论",
+    "english": "relativity",
+    "soundmark": "/ˌreləˈtɪvɪti/"
+  },
+  {
+    "chinese": "人类在宇宙中的地位是一个永恒的哲学问题",
+    "english": "man's place in the universe is an eternal philosophical question",
+    "soundmark": "/mænz pleɪs ɪn ðə ˈjuːnɪvɜːs ɪz ən ɪˈtɜːnəl fɪləˈsɒfɪkəl ˈkwestʃən/",
+    "grammar": [
+      {
+        "text": "man's",
+        "role": "Det",
+        "phonetic": "/mænz/",
+        "chinese": "男人"
+      },
+      {
+        "text": "place",
+        "role": "S",
+        "phonetic": "/pleɪs/",
+        "chinese": "地方"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "universe",
+        "role": "O",
+        "phonetic": "/ˈjuːnɪvɜːs/",
+        "chinese": "宇宙"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "eternal",
+        "role": "A",
+        "phonetic": "/ɪˈtɜːnəl/",
+        "chinese": ""
+      },
+      {
+        "text": "philosophical",
+        "role": "A",
+        "phonetic": "/fɪləˈsɒfɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "question",
+        "role": "C",
+        "phonetic": "/ˈkwestʃən/",
+        "chinese": "问题"
+      }
+    ]
+  },
+  {
+    "chinese": "星系的尺度之大超出了人类日常的想象能力",
+    "english": "the scale of galaxies exceeds mankind's everyday imagination",
+    "soundmark": "/ðə skeɪl əv ˈɡæləksiz ɪkˈsiːdz mænˈkaɪnz ˈevrideɪ ɪˌmædʒɪˈneɪʃən/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "scale",
+        "role": "S",
+        "phonetic": "/skeɪl/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "galaxies",
+        "role": "O",
+        "phonetic": "/ˈɡæləksiz/",
+        "chinese": ""
+      },
+      {
+        "text": "exceeds",
+        "role": "V",
+        "phonetic": "/ɪkˈsiːdz/",
+        "chinese": ""
+      },
+      {
+        "text": "mankind's",
+        "role": "Det",
+        "phonetic": "/mænˈkaɪnz/",
+        "chinese": ""
+      },
+      {
+        "text": "everyday",
+        "role": "A",
+        "phonetic": "/ˈevrideɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "imagination",
+        "role": "O",
+        "phonetic": "/ɪˌmædʒɪˈneɪʃən/",
+        "chinese": "想象力"
+      }
+    ]
+  },
+  {
+    "chinese": "天文学家已经发现了数十亿个星系",
+    "english": "astronomers have discovered billions of galaxies",
+    "soundmark": "/əˈstrɒnəməz hæv dɪˈskʌvəd ˈbɪljənz əv ˈɡæləksiz/",
+    "grammar": [
+      {
+        "text": "astronomers",
+        "role": "S",
+        "phonetic": "/əˈstrɒnəməz/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvəd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "billions",
+        "role": "O",
+        "phonetic": "/ˈbɪljənz/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "galaxies",
+        "role": "O",
+        "phonetic": "/ˈɡæləksiz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "宇宙似乎正在以越来越快的速度膨胀",
+    "english": "the universe appears to be expanding at an ever-increasing rate",
+    "soundmark": "/ðə ˈjuːnɪvɜːs əˈpɪəz tuː bi ɪkˈspændɪŋ ət ən ˈevər-ɪnˈkriːsɪŋ reɪt/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "universe",
+        "role": "S",
+        "phonetic": "/ˈjuːnɪvɜːs/",
+        "chinese": "宇宙"
+      },
+      {
+        "text": "appears",
+        "role": "V",
+        "phonetic": "/əˈpɪəz/",
+        "chinese": "出现"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/bi/",
+        "chinese": "是"
+      },
+      {
+        "text": "expanding",
+        "role": "V",
+        "phonetic": "/ɪkˈspændɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/ət/",
+        "chinese": "在"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "ever-increasing",
+        "role": "A",
+        "phonetic": "/ˈevər-ɪnˈkriːsɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "rate",
+        "role": "O",
+        "phonetic": "/reɪt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "光从遥远的星系到达地球需要数百万年",
+    "english": "light takes millions of years to reach the earth from distant galaxies",
+    "soundmark": "/laɪt teɪks ˈmɪljənz əv jɪəz tuː riːtʃ ðə ɜːθ frɒm ˈdɪstənt ˈɡæləksiz/",
+    "grammar": [
+      {
+        "text": "light",
+        "role": "S",
+        "phonetic": "/laɪt/",
+        "chinese": "轻的/浅色的"
+      },
+      {
+        "text": "takes",
+        "role": "V",
+        "phonetic": "/teɪks/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "millions",
+        "role": "O",
+        "phonetic": "/ˈmɪljənz/",
+        "chinese": "百万"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "years",
+        "role": "O",
+        "phonetic": "/jɪəz/",
+        "chinese": "年"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "reach",
+        "role": "V",
+        "phonetic": "/riːtʃ/",
+        "chinese": "到达"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "earth",
+        "role": "O",
+        "phonetic": "/ˈɜːθ/",
+        "chinese": "地球/泥土"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "distant",
+        "role": "A",
+        "phonetic": "/ˈdɪstənt/",
+        "chinese": "遥远的"
+      },
+      {
+        "text": "galaxies",
+        "role": "O",
+        "phonetic": "/ˈɡæləksiz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "人类的命运与星系的演化紧密相连",
+    "english": "the destiny of mankind is closely linked to the evolution of galaxies",
+    "soundmark": "/ðə ˈdestɪni əv mænˈkaɪnd ɪz ˈkləʊsli lɪŋkt tuː ðə ˌiːvəˈluːʃən əv ˈɡæləksiz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "destiny",
+        "role": "S",
+        "phonetic": "/ˈdestɪni/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "mankind",
+        "role": "O",
+        "phonetic": "/mænˈkaɪnd/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "closely",
+        "role": "Adv",
+        "phonetic": "/ˈkləʊsli/",
+        "chinese": "…地(关闭)"
+      },
+      {
+        "text": "linked",
+        "role": "V",
+        "phonetic": "/lɪŋkt/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "evolution",
+        "role": "O",
+        "phonetic": "/ˌiːvəˈluːʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "galaxies",
+        "role": "O",
+        "phonetic": "/ˈɡæləksiz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们观察到的每一个星系都有着数十亿颗恒星",
+    "english": "every galaxy we observe contains billions of stars",
+    "soundmark": "/ˈevri ˈɡæləksi wiː əbˈzɜːv kənˈteɪnz ˈbɪljənz əv stɑːz/",
+    "grammar": [
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "galaxy",
+        "role": "S",
+        "phonetic": "/ˈɡæləksi/",
+        "chinese": ""
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "observe",
+        "role": "V",
+        "phonetic": "/əbˈzɜːv/",
+        "chinese": "观察"
+      },
+      {
+        "text": "contains",
+        "role": "V",
+        "phonetic": "/kənˈteɪnz/",
+        "chinese": "包含"
+      },
+      {
+        "text": "billions",
+        "role": "O",
+        "phonetic": "/ˈbɪljənz/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "stars",
+        "role": "O",
+        "phonetic": "/stɑːz/",
+        "chinese": "星星"
+      }
+    ]
+  },
+  {
+    "chinese": "宇宙的尺寸几乎无法用人类的计量单位来衡量",
+    "english": "the dimensions of the universe can hardly be measured in human units",
+    "soundmark": "/ðə daɪˈmenʃənz əv ðə ˈjuːnɪvɜːs kən ˈhɑːdli bi ˈmeʒəd ɪn ˈhjuːmən ˈjuːnɪts/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dimensions",
+        "role": "S",
+        "phonetic": "/daɪˈmenʃənz/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "universe",
+        "role": "O",
+        "phonetic": "/ˈjuːnɪvɜːs/",
+        "chinese": "宇宙"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kən/",
+        "chinese": "能"
+      },
+      {
+        "text": "hardly",
+        "role": "Adv",
+        "phonetic": "/ˈhɑːdli/",
+        "chinese": "几乎不"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/bi/",
+        "chinese": "是"
+      },
+      {
+        "text": "measured",
+        "role": "V",
+        "phonetic": "/ˈmeʒəd/",
+        "chinese": "测量"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "human",
+        "role": "A",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "units",
+        "role": "O",
+        "phonetic": "/ˈjuːnɪts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "类星体",
+    "english": "quasar",
+    "soundmark": "/ˈkweɪzɑː/"
+  },
+  {
+    "chinese": "脉冲星",
+    "english": "pulsar",
+    "soundmark": "/ˈpʌlsɑː/"
+  },
+  {
+    "chinese": "红移",
+    "english": "redshift",
+    "soundmark": "/ˈredʃɪft/"
+  },
+  {
+    "chinese": "暗物质",
+    "english": "dark matter",
+    "soundmark": "/dɑːk ˈmætə/"
+  },
+  {
+    "chinese": "引力波",
+    "english": "gravitational wave",
+    "soundmark": "/ˌɡrævɪˈteɪʃənəl weɪv/"
+  },
+  {
+    "chinese": "大爆炸",
+    "english": "Big Bang",
+    "soundmark": "/bɪɡ bæŋ/"
+  },
+  {
+    "chinese": "反物质",
+    "english": "antimatter",
+    "soundmark": "/ˈæntimætə/"
+  },
+  {
+    "chinese": "星系团",
+    "english": "galaxy cluster",
+    "soundmark": "/ˈɡæləksi ˈklʌstə/"
+  },
+  {
+    "chinese": "超星系团",
+    "english": "supercluster",
+    "soundmark": "/ˈsuːpəklʌstə/"
+  },
+  {
+    "chinese": "银河",
+    "english": "Milky Way",
+    "soundmark": "/ˈmɪlki weɪ/"
+  },
+  {
+    "chinese": "仙女座星系",
+    "english": "Andromeda Galaxy",
+    "soundmark": "/ænˈdrɒmɪdə ˈɡæləksi/"
+  }
+]

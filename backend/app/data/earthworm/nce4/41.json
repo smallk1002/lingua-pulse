@@ -1,0 +1,725 @@
+[
+  {
+    "chinese": "大象",
+    "english": "elephant",
+    "soundmark": "/ˈelɪfənt/"
+  },
+  {
+    "chinese": "训练",
+    "english": "train",
+    "soundmark": "/treɪn/"
+  },
+  {
+    "chinese": "驯服",
+    "english": "tame",
+    "soundmark": "/teɪm/"
+  },
+  {
+    "chinese": "服从",
+    "english": "obedience",
+    "soundmark": "/əˈbiːdiəns/"
+  },
+  {
+    "chinese": "惩罚",
+    "english": "punishment",
+    "soundmark": "/ˈpʌnɪʃmənt/"
+  },
+  {
+    "chinese": "奖励",
+    "english": "reward",
+    "soundmark": "/rɪˈwɔːd/"
+  },
+  {
+    "chinese": "驯象人",
+    "english": "mahout",
+    "soundmark": "/məˈhaʊt/"
+  },
+  {
+    "chinese": "残忍的",
+    "english": "cruel",
+    "soundmark": "/ˈkruːəl/"
+  },
+  {
+    "chinese": "耐心",
+    "english": "patience",
+    "soundmark": "/ˈpeɪʃəns/"
+  },
+  {
+    "chinese": "本能",
+    "english": "instinct",
+    "soundmark": "/ˈɪnstɪŋkt/"
+  },
+  {
+    "chinese": "约束",
+    "english": "restrain",
+    "soundmark": "/rɪˈstreɪn/"
+  },
+  {
+    "chinese": "持久",
+    "english": "endurance",
+    "soundmark": "/ɪnˈdjʊərəns/"
+  },
+  {
+    "chinese": "训练大象需要极大的耐心和持久的毅力",
+    "english": "training elephants requires immense patience and lasting endurance",
+    "soundmark": "/ˈtreɪnɪŋ ˈelɪfənts rɪˈkwaɪəz ɪˈmens ˈpeɪʃəns ənd ˈlɑːstɪŋ ɪnˈdjʊərəns/",
+    "grammar": [
+      {
+        "text": "training",
+        "role": "A",
+        "phonetic": "/ˈtreɪnɪŋ/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "elephants",
+        "role": "S",
+        "phonetic": "/ˈelɪfənts/",
+        "chinese": "大象"
+      },
+      {
+        "text": "requires",
+        "role": "V",
+        "phonetic": "/rɪˈkwaɪəz/",
+        "chinese": "需要"
+      },
+      {
+        "text": "immense",
+        "role": "A",
+        "phonetic": "/ɪˈmens/",
+        "chinese": ""
+      },
+      {
+        "text": "patience",
+        "role": "O",
+        "phonetic": "/ˈpeɪʃəns/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "lasting",
+        "role": "A",
+        "phonetic": "/ˈlɑːstɪŋ/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "endurance",
+        "role": "O",
+        "phonetic": "/ɪnˈdjʊərəns/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "驯象人使用奖励和惩罚两种方法来教导大象",
+    "english": "the mahout uses both reward and punishment to teach the elephant",
+    "soundmark": "/ðə məˈhaʊt ˈjuːzɪz bəʊθ rɪˈwɔːd ənd ˈpʌnɪʃmənt tuː tiːtʃ ðə ˈelɪfənt/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mahout",
+        "role": "S",
+        "phonetic": "/məˈhaʊt/",
+        "chinese": ""
+      },
+      {
+        "text": "uses",
+        "role": "V",
+        "phonetic": "/ˈjuːzɪz/",
+        "chinese": "我们"
+      },
+      {
+        "text": "both",
+        "role": "Det",
+        "phonetic": "/bəʊθ/",
+        "chinese": "两者都"
+      },
+      {
+        "text": "reward",
+        "role": "O",
+        "phonetic": "/rɪˈwɔːd/",
+        "chinese": "奖励"
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "punishment",
+        "role": "O",
+        "phonetic": "/ˈpʌnɪʃmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "teach",
+        "role": "V",
+        "phonetic": "/tiːtʃ/",
+        "chinese": "教"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "elephant",
+        "role": "O",
+        "phonetic": "/ˈelɪfənt/",
+        "chinese": "大象"
+      }
+    ]
+  },
+  {
+    "chinese": "大象虽体型庞大却有着敏锐的记忆力",
+    "english": "although elephants are huge they possess a keen memory",
+    "soundmark": "/ɔːlˈðəʊ ˈelɪfənts ɑː hjuːdʒ ðeɪ pəˈzes ə kiːn ˈmeməri/",
+    "grammar": [
+      {
+        "text": "although",
+        "role": "C",
+        "phonetic": "/ɔːlˈðəʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "elephants",
+        "role": "S",
+        "phonetic": "/ˈelɪfənts/",
+        "chinese": "大象"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "huge",
+        "role": "C",
+        "phonetic": "/hjuːdʒ/",
+        "chinese": "巨大的"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "possess",
+        "role": "V",
+        "phonetic": "/pəˈzes/",
+        "chinese": "拥有"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "keen",
+        "role": "A",
+        "phonetic": "/kiːn/",
+        "chinese": ""
+      },
+      {
+        "text": "memory",
+        "role": "O",
+        "phonetic": "/ˈmeməri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "小象必须从幼年时就学会服从人类的指令",
+    "english": "young elephants must learn to obey human commands from an early age",
+    "soundmark": "/jʌŋ ˈelɪfənts mʌst lɜːn tuː əˈbeɪ ˈhjuːmən kəˈmɑːndz frɒm ən ˈɜːli eɪdʒ/",
+    "grammar": [
+      {
+        "text": "young",
+        "role": "A",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "elephants",
+        "role": "S",
+        "phonetic": "/ˈelɪfənts/",
+        "chinese": "大象"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "learn",
+        "role": "V",
+        "phonetic": "/lɜːn/",
+        "chinese": "学习"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "obey",
+        "role": "V",
+        "phonetic": "/əˈbeɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "human",
+        "role": "A",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "commands",
+        "role": "O",
+        "phonetic": "/kəˈmɑːndz/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːli/",
+        "chinese": "早"
+      },
+      {
+        "text": "age",
+        "role": "O",
+        "phonetic": "/eɪdʒ/",
+        "chinese": "年龄/时代"
+      }
+    ]
+  },
+  {
+    "chinese": "残忍的驯象方式已经被更为人道的方法所取代",
+    "english": "cruel methods of elephant training have been replaced by more humane approaches",
+    "soundmark": "/ˈkruːəl ˈmeθədz əv ˈelɪfənt ˈtreɪnɪŋ hæv biːn rɪˈpleɪst baɪ mɔː ˈhjuːmeɪn əˈprəʊtʃɪz/",
+    "grammar": [
+      {
+        "text": "cruel",
+        "role": "A",
+        "phonetic": "/ˈkruːəl/",
+        "chinese": ""
+      },
+      {
+        "text": "methods",
+        "role": "S",
+        "phonetic": "/ˈmeθədz/",
+        "chinese": "方法"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "elephant",
+        "role": "A",
+        "phonetic": "/ˈelɪfənt/",
+        "chinese": "大象"
+      },
+      {
+        "text": "training",
+        "role": "O",
+        "phonetic": "/ˈtreɪnɪŋ/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "replaced",
+        "role": "V",
+        "phonetic": "/rɪˈpleɪst/",
+        "chinese": "替换"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔː/",
+        "chinese": "更多"
+      },
+      {
+        "text": "humane",
+        "role": "A",
+        "phonetic": "/ˈhjuːmeɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "approaches",
+        "role": "O",
+        "phonetic": "/əˈprəʊtʃɪz/",
+        "chinese": "方法/靠近"
+      }
+    ]
+  },
+  {
+    "chinese": "大象的本能使它们能够记住水源的位置达数十年之久",
+    "english": "elephants' instinct enables them to remember the location of water sources for decades",
+    "soundmark": "/ˈelɪfənts ˈɪnstɪŋkt ɪˈneɪbəl ðəm tuː rɪˈmembə ðə ləʊˈkeɪʃən əv ˈwɔːtə ˈsɔːsɪz fɔː ˈdekeɪdz/",
+    "grammar": [
+      {
+        "text": "elephants'",
+        "role": "Det",
+        "phonetic": "/ˈelɪfənts/",
+        "chinese": ""
+      },
+      {
+        "text": "instinct",
+        "role": "S",
+        "phonetic": "/ˈɪnstɪŋkt/",
+        "chinese": "本能"
+      },
+      {
+        "text": "enables",
+        "role": "V",
+        "phonetic": "/ɪˈneɪbəl/",
+        "chinese": ""
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðəm/",
+        "chinese": "他们"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "remember",
+        "role": "V",
+        "phonetic": "/rɪˈmembə/",
+        "chinese": "记住"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "location",
+        "role": "O",
+        "phonetic": "/ləʊˈkeɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "water",
+        "role": "A",
+        "phonetic": "/ˈwɔːtə/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "sources",
+        "role": "O",
+        "phonetic": "/ˈsɔːsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔː/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "decades",
+        "role": "O",
+        "phonetic": "/ˈdekeɪdz/",
+        "chinese": "…们/复数(十年)"
+      }
+    ]
+  },
+  {
+    "chinese": "驯象人与大象之间建立了一种特殊的信任关系",
+    "english": "a special bond of trust is established between the mahout and the elephant",
+    "soundmark": "/ə ˈspeʃəl bɒnd əv trʌst ɪz ɪˈstæblɪʃt bɪˈtwiːn ðə məˈhaʊt ənd ðə ˈelɪfənt/",
+    "grammar": [
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "special",
+        "role": "A",
+        "phonetic": "/ˈspeʃəl/",
+        "chinese": "特别的"
+      },
+      {
+        "text": "bond",
+        "role": "S",
+        "phonetic": "/bɒnd/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "trust",
+        "role": "O",
+        "phonetic": "/trʌst/",
+        "chinese": "信任"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "established",
+        "role": "V",
+        "phonetic": "/ɪˈstæblɪʃt/",
+        "chinese": "建立"
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mahout",
+        "role": "O",
+        "phonetic": "/məˈhaʊt/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "elephant",
+        "role": "O",
+        "phonetic": "/ˈelɪfənt/",
+        "chinese": "大象"
+      }
+    ]
+  },
+  {
+    "chinese": "没有人能否认大象是地球上最聪明的动物之一",
+    "english": "no one can deny that elephants are among the most intelligent animals on earth",
+    "soundmark": "/nəʊ wʌn kən dɪˈnaɪ ðət ˈelɪfənts ɑːr əˈmʌŋ ðə məʊst ɪnˈtelɪdʒənt ˈænɪməlz ɒn ɜːθ/",
+    "grammar": [
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/nəʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kən/",
+        "chinese": "能"
+      },
+      {
+        "text": "deny",
+        "role": "V",
+        "phonetic": "/dɪˈnaɪ/",
+        "chinese": "否认"
+      },
+      {
+        "text": "that",
+        "role": "C",
+        "phonetic": "/ðət/",
+        "chinese": "那个"
+      },
+      {
+        "text": "elephants",
+        "role": "S",
+        "phonetic": "/ˈelɪfənts/",
+        "chinese": "大象"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "among",
+        "role": "P",
+        "phonetic": "/əˈmʌŋ/",
+        "chinese": "在…之中"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/məʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "intelligent",
+        "role": "A",
+        "phonetic": "/ɪnˈtelɪdʒənt/",
+        "chinese": ""
+      },
+      {
+        "text": "animals",
+        "role": "C",
+        "phonetic": "/ˈænɪməlz/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "earth",
+        "role": "O",
+        "phonetic": "/ɜːθ/",
+        "chinese": "地球/泥土"
+      }
+    ]
+  },
+  {
+    "chinese": "象牙",
+    "english": "ivory",
+    "soundmark": "/ˈaɪvəri/"
+  },
+  {
+    "chinese": "兽群",
+    "english": "herd",
+    "soundmark": "/hɜːd/"
+  },
+  {
+    "chinese": "象鼻",
+    "english": "trunk",
+    "soundmark": "/trʌŋk/"
+  },
+  {
+    "chinese": "温顺的",
+    "english": "docile",
+    "soundmark": "/ˈdəʊsaɪl/"
+  },
+  {
+    "chinese": "驯兽师",
+    "english": "trainer",
+    "soundmark": "/ˈtreɪnə/"
+  },
+  {
+    "chinese": "迁徙",
+    "english": "migration",
+    "soundmark": "/maɪˈɡreɪʃən/"
+  },
+  {
+    "chinese": "食草动物",
+    "english": "herbivore",
+    "soundmark": "/ˈhɜːbɪvɔː/"
+  },
+  {
+    "chinese": "驯兽",
+    "english": "animal training",
+    "soundmark": "/ˈænɪml ˈtreɪnɪŋ/"
+  },
+  {
+    "chinese": "马戏团",
+    "english": "circus",
+    "soundmark": "/ˈsɜːkəs/"
+  },
+  {
+    "chinese": "表演",
+    "english": "performance",
+    "soundmark": "/pəˈfɔːməns/"
+  },
+  {
+    "chinese": "驯化",
+    "english": "domestication",
+    "soundmark": "/dəˌmestɪˈkeɪʃn/"
+  }
+]

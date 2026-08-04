@@ -1,0 +1,232 @@
+[
+  {
+    "english": "mine",
+    "chinese": "我的",
+    "soundmark": "/maɪn/"
+  },
+  {
+    "english": "yours",
+    "chinese": "你的",
+    "soundmark": "/jʊrz/"
+  },
+  {
+    "english": "his",
+    "chinese": "他的",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "english": "hers",
+    "chinese": "她的",
+    "soundmark": "/hɜːrz/"
+  },
+  {
+    "english": "ours",
+    "chinese": "我们的",
+    "soundmark": "/ˈaʊərz/"
+  },
+  {
+    "english": "theirs",
+    "chinese": "他们的",
+    "soundmark": "/ðerz/"
+  },
+  {
+    "chinese": "这不是我的，是你的",
+    "english": "It isn't mine, it's yours",
+    "soundmark": "/ɪt ˈɪzənt maɪn, ɪts jʊrz/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "isn't",
+        "role": "V",
+        "phonetic": "/ˈɪzənt/",
+        "chinese": "不是"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "yours",
+        "role": "C",
+        "phonetic": "/jʊrz/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "这是她的包吗？",
+    "english": "Is this her bag?",
+    "soundmark": "/ɪz ðɪs hɜːr bæɡ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "bag",
+        "role": "C",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "不，那不是她的，是我们的",
+    "english": "No, that isn't hers, it's ours",
+    "soundmark": "/noʊ, ðæt ˈɪzənt hɜːrz, ɪts ˈaʊərz/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "isn't",
+        "role": "V",
+        "phonetic": "/ˈɪzənt/",
+        "chinese": "不是"
+      },
+      {
+        "text": "hers",
+        "role": "C",
+        "phonetic": "/hɜːrz/",
+        "chinese": "她的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "ours",
+        "role": "C",
+        "phonetic": "/ˈaʊərz/",
+        "chinese": "我们的"
+      }
+    ]
+  },
+  {
+    "chinese": "那些书是他们的",
+    "english": "Those books are theirs",
+    "soundmark": "/ðoʊz bʊks ɑːr ðerz/",
+    "grammar": [
+      {
+        "text": "Those",
+        "role": "Det",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "books",
+        "role": "S",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "theirs",
+        "role": "C",
+        "phonetic": "/ðerz/",
+        "chinese": "他们的"
+      }
+    ]
+  },
+  {
+    "chinese": "这支笔是我的吗？",
+    "english": "Is this pen mine?",
+    "soundmark": "/ɪz ðɪs pen maɪn/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "pen",
+        "role": "S",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "english": "belong",
+    "chinese": "属于",
+    "soundmark": "/bɪˈlɔːŋ/"
+  },
+  {
+    "english": "own",
+    "chinese": "自己的",
+    "soundmark": "/oʊn/"
+  },
+  {
+    "english": "possession",
+    "chinese": "所有物",
+    "soundmark": "/pəˈzeʃən/"
+  }
+]

@@ -1,0 +1,1224 @@
+[
+  {
+    "chinese": "他",
+    "english": "he",
+    "soundmark": "/hiː/"
+  },
+  {
+    "chinese": "她",
+    "english": "she",
+    "soundmark": "/ʃiː/"
+  },
+  {
+    "chinese": "他们",
+    "english": "they",
+    "soundmark": "/ðeɪ/"
+  },
+  {
+    "chinese": "我们",
+    "english": "we",
+    "soundmark": "/wiː/"
+  },
+  {
+    "chinese": "男人",
+    "english": "man",
+    "soundmark": "/mæn/"
+  },
+  {
+    "chinese": "女人",
+    "english": "woman",
+    "soundmark": "/ˈwʊmən/"
+  },
+  {
+    "chinese": "男孩",
+    "english": "boy",
+    "soundmark": "/bɔɪ/"
+  },
+  {
+    "chinese": "女孩",
+    "english": "girl",
+    "soundmark": "/ɡɜːrl/"
+  },
+  {
+    "chinese": "人们",
+    "english": "people",
+    "soundmark": "/ˈpiːpəl/"
+  },
+  {
+    "chinese": "孩子",
+    "english": "child",
+    "soundmark": "/tʃaɪld/"
+  },
+  {
+    "chinese": "婴儿",
+    "english": "baby",
+    "soundmark": "/ˈbeɪbi/"
+  },
+  {
+    "chinese": "先生",
+    "english": "gentleman",
+    "soundmark": "/ˈdʒentəlmən/"
+  },
+  {
+    "chinese": "女士",
+    "english": "lady",
+    "soundmark": "/ˈleɪdi/"
+  },
+  {
+    "chinese": "成年人",
+    "english": "adult",
+    "soundmark": "/əˈdʌlt/"
+  },
+  {
+    "chinese": "人的",
+    "english": "human",
+    "soundmark": "/ˈhjuːmən/"
+  },
+  {
+    "chinese": "个子高的",
+    "english": "tall",
+    "soundmark": "/tɔːl/"
+  },
+  {
+    "chinese": "个子矮的",
+    "english": "short",
+    "soundmark": "/ʃɔːrt/"
+  },
+  {
+    "chinese": "年轻的",
+    "english": "young",
+    "soundmark": "/jʌŋ/"
+  },
+  {
+    "chinese": "友好的",
+    "english": "friendly",
+    "soundmark": "/ˈfrendli/"
+  },
+  {
+    "chinese": "聪明的",
+    "english": "smart",
+    "soundmark": "/smɑːrt/"
+  },
+  {
+    "chinese": "他是",
+    "english": "he is",
+    "soundmark": "/hiː/ /ɪz/"
+  },
+  {
+    "chinese": "她是",
+    "english": "she is",
+    "soundmark": "/ʃiː/ /ɪz/"
+  },
+  {
+    "chinese": "他们是",
+    "english": "they are",
+    "soundmark": "/ðeɪ/ /ɑːr/"
+  },
+  {
+    "chinese": "我们是",
+    "english": "we are",
+    "soundmark": "/wiː/ /ɑːr/"
+  },
+  {
+    "chinese": "他是一个男孩",
+    "english": "He is a boy",
+    "soundmark": "/hiː/ /ɪz/ /ə/ /bɔɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "boy",
+        "role": "C",
+        "phonetic": "/bɔɪ/",
+        "chinese": "男孩"
+      }
+    ]
+  },
+  {
+    "chinese": "她是一个女孩",
+    "english": "She is a girl",
+    "soundmark": "/ʃiː/ /ɪz/ /ə/ /ɡɜːrl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "girl",
+        "role": "C",
+        "phonetic": "/ɡɜːrl/",
+        "chinese": "女孩"
+      }
+    ]
+  },
+  {
+    "chinese": "我们是学生",
+    "english": "We are students",
+    "soundmark": "/wiː/ /ɑːr/ /ˈstuːdənts/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "students",
+        "role": "C",
+        "phonetic": "/ˈstuːdənts/",
+        "chinese": "学生"
+      }
+    ]
+  },
+  {
+    "chinese": "他们是老师",
+    "english": "They are teachers",
+    "soundmark": "/ðeɪ/ /ɑːr/ /ˈtiːtʃərz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "teachers",
+        "role": "C",
+        "phonetic": "/ˈtiːtʃərz/",
+        "chinese": "老师"
+      }
+    ]
+  },
+  {
+    "chinese": "他高吗是的他很高",
+    "english": "Is he tall Yes he is tall",
+    "soundmark": "/ɪz/ /hiː/ /tɔːl/ /jes/ /hiː/ /ɪz/ /tɔːl/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "tall",
+        "role": "C",
+        "phonetic": "/tɔːl/",
+        "chinese": "高的"
+      },
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "tall",
+        "role": "C",
+        "phonetic": "/tɔːl/",
+        "chinese": "高的"
+      }
+    ]
+  },
+  {
+    "chinese": "她不高她很矮",
+    "english": "She is not tall she is short",
+    "soundmark": "/ʃiː/ /ɪz/ /nɑːt/ /tɔːl/ /ʃiː/ /ɪz/ /ʃɔːrt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "tall",
+        "role": "C",
+        "phonetic": "/tɔːl/",
+        "chinese": "高的"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "short",
+        "role": "C",
+        "phonetic": "/ʃɔːrt/",
+        "chinese": "短的"
+      }
+    ]
+  },
+  {
+    "chinese": "他们年轻吗是的他们很年轻",
+    "english": "Are they young Yes they are young",
+    "soundmark": "/ɑːr/ /ðeɪ/ /jʌŋ/ /jes/ /ðeɪ/ /ɑːr/ /jʌŋ/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们是朋友",
+    "english": "We are friends",
+    "soundmark": "/wiː/ /ɑːr/ /frendz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "friends",
+        "role": "C",
+        "phonetic": "/frendz/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "他是一个好男人",
+    "english": "He is a good man",
+    "soundmark": "/hiː/ /ɪz/ /ə/ /ɡʊd/ /mæn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "man",
+        "role": "C",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      }
+    ]
+  },
+  {
+    "chinese": "她是一个聪明的女孩",
+    "english": "She is a smart girl",
+    "soundmark": "/ʃiː/ /ɪz/ /ə/ /smɑːrt/ /ɡɜːrl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "smart",
+        "role": "C",
+        "phonetic": "/smɑːrt/",
+        "chinese": "聪明的"
+      },
+      {
+        "text": "girl",
+        "role": "C",
+        "phonetic": "/ɡɜːrl/",
+        "chinese": "女孩"
+      }
+    ]
+  },
+  {
+    "chinese": "这个小孩非常可爱",
+    "english": "The child is very cute",
+    "soundmark": "/ðə/ /tʃaɪld/ /ɪz/ /ˈveri/ /kjuːt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "child",
+        "role": "S",
+        "phonetic": "/tʃaɪld/",
+        "chinese": "孩子"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "cute",
+        "role": "C",
+        "phonetic": "/kjuːt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她是你妈妈吗",
+    "english": "Is she your mother",
+    "soundmark": "/ɪz/ /ʃiː/ /jɔːr/ /ˈmʌðər/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "mother",
+        "role": "C",
+        "phonetic": "/ˈmʌðər/",
+        "chinese": "母亲"
+      }
+    ]
+  },
+  {
+    "chinese": "他是你爸爸吗",
+    "english": "Is he your father",
+    "soundmark": "/ɪz/ /hiː/ /jɔːr/ /ˈfɑːðər/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "father",
+        "role": "C",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      }
+    ]
+  },
+  {
+    "chinese": "他们不是中国人",
+    "english": "They are not Chinese",
+    "soundmark": "/ðeɪ/ /ɑːr/ /nɑːt/ /tʃaɪˈniːz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "Chinese",
+        "role": "C",
+        "phonetic": "/tʃaɪˈniːz/",
+        "chinese": "中国人/中文"
+      }
+    ]
+  },
+  {
+    "chinese": "我们都是好朋友",
+    "english": "We are all good friends",
+    "soundmark": "/wiː/ /ɑːr/ /ɔːl/ /ɡʊd/ /frendz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "all",
+        "role": "Adv",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "friends",
+        "role": "C",
+        "phonetic": "/frendz/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "她是我妹妹不是我姐姐",
+    "english": "She is my sister not my sister",
+    "soundmark": "/ʃiː/ /ɪz/ /maɪ/ /ˈsɪstər/ /nɑːt/ /maɪ/ /ˈsɪstər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "sister",
+        "role": "C",
+        "phonetic": "/ˈsɪstər/",
+        "chinese": "姐妹"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "sister",
+        "role": "C",
+        "phonetic": "/ˈsɪstər/",
+        "chinese": "姐妹"
+      }
+    ]
+  },
+  {
+    "chinese": "她是那位漂亮的女士吗",
+    "english": "Is she that beautiful lady",
+    "soundmark": "/ɪz/ /ʃiː/ /ðæt/ /ˈbjuːtɪfəl/ /ˈleɪdi/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "lady",
+        "role": "C",
+        "phonetic": "/ˈleɪdi/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他是个高个子年轻人",
+    "english": "He is a tall young man",
+    "soundmark": "/hiː/ /ɪz/ /ə/ /tɔːl/ /jʌŋ/ /mæn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "tall",
+        "role": "C",
+        "phonetic": "/tɔːl/",
+        "chinese": "高的"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "man",
+        "role": "C",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      }
+    ]
+  },
+  {
+    "chinese": "这些人都很友好",
+    "english": "These people are very friendly",
+    "soundmark": "/ðiːz/ /ˈpiːpəl/ /ɑːr/ /ˈveri/ /ˈfrendli/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "friendly",
+        "role": "C",
+        "phonetic": "/ˈfrendli/",
+        "chinese": "…地(朋友)"
+      }
+    ]
+  },
+  {
+    "chinese": "他和他妹妹都是学生",
+    "english": "He and his sister are both students",
+    "soundmark": "/hiː/ /ænd/ /hɪz/ /ˈsɪstər/ /ɑːr/ /boʊθ/ /ˈstuːdənts/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "sister",
+        "role": "S",
+        "phonetic": "/ˈsɪstər/",
+        "chinese": "姐妹"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "both",
+        "role": "Adv",
+        "phonetic": "/boʊθ/",
+        "chinese": "两者都"
+      },
+      {
+        "text": "students",
+        "role": "C",
+        "phonetic": "/ˈstuːdənts/",
+        "chinese": "学生"
+      }
+    ]
+  },
+  {
+    "chinese": "她不是个婴儿她已经三岁了",
+    "english": "She is not a baby she is three",
+    "soundmark": "/ʃiː/ /ɪz/ /nɑːt/ /ə/ /ˈbeɪbi/ /ʃiː/ /ɪz/ /θriː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "baby",
+        "role": "C",
+        "phonetic": "/ˈbeɪbi/",
+        "chinese": "婴儿"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "three",
+        "role": "C",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      }
+    ]
+  },
+  {
+    "chinese": "他是你的哥哥还是你的朋友",
+    "english": "Is he your brother or your friend",
+    "soundmark": "/ɪz/ /hiː/ /jɔːr/ /ˈbrʌðər/ /ɔːr/ /jɔːr/ /frend/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "brother",
+        "role": "C",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "friend",
+        "role": "C",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "我们不是成年人我们才十岁",
+    "english": "We are not adults we are only ten",
+    "soundmark": "/wiː/ /ɑːr/ /nɑːt/ /əˈdʌlts/ /wiː/ /ɑːr/ /ˈoʊnli/ /ten/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "adults",
+        "role": "C",
+        "phonetic": "/əˈdʌlts/",
+        "chinese": ""
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "ten",
+        "role": "C",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      }
+    ]
+  },
+  {
+    "chinese": "这些男孩和女孩是同学",
+    "english": "These boys and girls are classmates",
+    "soundmark": "/ðiːz/ /bɔɪz/ /ænd/ /ɡɜːrlz/ /ɑːr/ /ˈklæsmeɪts/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "boys",
+        "role": "S",
+        "phonetic": "/bɔɪz/",
+        "chinese": "…们/复数(男孩)"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "girls",
+        "role": "S",
+        "phonetic": "/ɡɜːrlz/",
+        "chinese": "…们/复数(女孩)"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "classmates",
+        "role": "C",
+        "phonetic": "/ˈklæsmeɪts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那个女人很漂亮但她不友好",
+    "english": "That woman is beautiful but she is not friendly",
+    "soundmark": "/ðæt/ /ˈwʊmən/ /ɪz/ /ˈbjuːtɪfəl/ /bʌt/ /ʃiː/ /ɪz/ /nɑːt/ /ˈfrendli/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "woman",
+        "role": "S",
+        "phonetic": "/ˈwʊmən/",
+        "chinese": "女人"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "friendly",
+        "role": "C",
+        "phonetic": "/ˈfrendli/",
+        "chinese": "…地(朋友)"
+      }
+    ]
+  },
+  {
+    "chinese": "他们是谁他们是我的父母",
+    "english": "Who are they They are my parents",
+    "soundmark": "/huː/ /ɑːr/ /ðeɪ/ /ðeɪ/ /ɑːr/ /maɪ/ /ˈperənts/",
+    "grammar": [
+      {
+        "text": "Who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "they",
+        "role": "C",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "parents",
+        "role": "C",
+        "phonetic": "/ˈperənts/",
+        "chinese": "父母"
+      }
+    ]
+  },
+  {
+    "chinese": "妈妈",
+    "english": "mother",
+    "soundmark": "/ˈmʌðər/"
+  },
+  {
+    "chinese": "爸爸",
+    "english": "father",
+    "soundmark": "/ˈfɑːðər/"
+  },
+  {
+    "chinese": "哥哥",
+    "english": "brother",
+    "soundmark": "/ˈbrʌðər/"
+  },
+  {
+    "chinese": "姐姐",
+    "english": "sister",
+    "soundmark": "/ˈsɪstər/"
+  },
+  {
+    "chinese": "父母",
+    "english": "parents",
+    "soundmark": "/ˈperənts/"
+  },
+  {
+    "chinese": "同学",
+    "english": "classmate",
+    "soundmark": "/ˈklæsmeɪt/"
+  },
+  {
+    "chinese": "全",
+    "english": "all",
+    "soundmark": "/ɔːl/"
+  },
+  {
+    "chinese": "只",
+    "english": "only",
+    "soundmark": "/ˈoʊnli/"
+  },
+  {
+    "chinese": "两",
+    "english": "both",
+    "soundmark": "/boʊθ/"
+  },
+  {
+    "chinese": "每个",
+    "english": "every",
+    "soundmark": "/ˈevri/"
+  }
+]

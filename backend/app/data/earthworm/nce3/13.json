@@ -1,0 +1,646 @@
+[
+  {
+    "chinese": "幽灵",
+    "english": "ghost",
+    "soundmark": "/ɡoʊst/"
+  },
+  {
+    "chinese": "化妆",
+    "english": "costume",
+    "soundmark": "/ˈkɑːstuːm/"
+  },
+  {
+    "chinese": "吓唬",
+    "english": "frighten",
+    "soundmark": "/ˈfraɪtən/"
+  },
+  {
+    "chinese": "披着",
+    "english": "draped",
+    "soundmark": "/dreɪpt/"
+  },
+  {
+    "chinese": "床单",
+    "english": "sheet",
+    "soundmark": "/ʃiːt/"
+  },
+  {
+    "chinese": "楼梯",
+    "english": "staircase",
+    "soundmark": "/ˈsterkeɪs/"
+  },
+  {
+    "chinese": "脚步声",
+    "english": "footstep",
+    "soundmark": "/ˈfʊtstep/"
+  },
+  {
+    "chinese": "邻居",
+    "english": "neighbour",
+    "soundmark": "/ˈneɪbər/"
+  },
+  {
+    "chinese": "开玩笑",
+    "english": "play a joke",
+    "soundmark": "/pleɪ/ /ə/ /dʒoʊk/"
+  },
+  {
+    "chinese": "假扮成鬼",
+    "english": "dress up as a ghost",
+    "soundmark": "/dres/ /ʌp/ /æz/ /ə/ /ɡoʊst/"
+  },
+  {
+    "chinese": "披着白床单",
+    "english": "draped in a white sheet",
+    "soundmark": "/dreɪpt/ /ɪn/ /ə/ /waɪt/ /ʃiːt/"
+  },
+  {
+    "chinese": "脚步声越来越近",
+    "english": "footsteps coming closer",
+    "soundmark": "/ˈfʊtsteps/ /ˈkʌmɪŋ/ /ˈkloʊsər/"
+  },
+  {
+    "chinese": "她肯定是在开玩笑",
+    "english": "She must be playing a joke",
+    "soundmark": "/ʃiː/ /mʌst/ /biː/ /ˈpleɪɪŋ/ /ə/ /dʒoʊk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "playing",
+        "role": "V",
+        "phonetic": "/ˈpleɪɪŋ/",
+        "chinese": "玩的/演奏的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "joke",
+        "role": "O",
+        "phonetic": "/dʒoʊk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那不可能是鬼",
+    "english": "That cannot be a ghost",
+    "soundmark": "/ðæt/ /ˈkænɑːt/ /biː/ /ə/ /ɡoʊst/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "ghost",
+        "role": "C",
+        "phonetic": "/ɡoʊst/",
+        "chinese": "鬼"
+      }
+    ]
+  },
+  {
+    "chinese": "她一定是在吓唬我们",
+    "english": "She must be trying to frighten us",
+    "soundmark": "/ʃiː/ /mʌst/ /biː/ /ˈtraɪɪŋ/ /tuː/ /ˈfraɪtən/ /ʌs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "trying",
+        "role": "V",
+        "phonetic": "/ˈtraɪɪŋ/",
+        "chinese": "尝试的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "frighten",
+        "role": "V",
+        "phonetic": "/ˈfraɪtən/",
+        "chinese": "使害怕"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      }
+    ]
+  },
+  {
+    "chinese": "这不可能是真的",
+    "english": "This cannot be real",
+    "soundmark": "/ðɪs/ /ˈkænɑːt/ /biː/ /riːl/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "real",
+        "role": "C",
+        "phonetic": "/riːl/",
+        "chinese": "真实的"
+      }
+    ]
+  },
+  {
+    "chinese": "他们不可能把门锁上了",
+    "english": "They cannot have locked the door",
+    "soundmark": "/ðeɪ/ /ˈkænɑːt/ /hæv/ /lɑːkt/ /ðə/ /dɔːr/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "locked",
+        "role": "V",
+        "phonetic": "/lɑːkt/",
+        "chinese": "锁"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "O",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      }
+    ]
+  },
+  {
+    "chinese": "你确定那不是她的服装吗",
+    "english": "Are you sure it is not her costume",
+    "soundmark": "/ɑːr/ /juː/ /ʃʊr/ /ɪt/ /ɪz/ /nɑːt/ /hɜːr/ /ˈkɑːstuːm/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "sure",
+        "role": "C",
+        "phonetic": "/ʃʊr/",
+        "chinese": "确定的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "costume",
+        "role": "C",
+        "phonetic": "/ˈkɑːstuːm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她一定是在准备一个化装舞会",
+    "english": "She must be preparing for a fancy dress party",
+    "soundmark": "/ʃiː/ /mʌst/ /biː/ /prɪˈperɪŋ/ /fɔːr/ /ə/ /ˈfænsi/ /dres/ /ˈpɑːrti/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "preparing",
+        "role": "V",
+        "phonetic": "/prɪˈperɪŋ/",
+        "chinese": "准备"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fancy",
+        "role": "A",
+        "phonetic": "/ˈfænsi/",
+        "chinese": ""
+      },
+      {
+        "text": "dress",
+        "role": "A",
+        "phonetic": "/dres/",
+        "chinese": "穿衣"
+      },
+      {
+        "text": "party",
+        "role": "O",
+        "phonetic": "/ˈpɑːrti/",
+        "chinese": "派对"
+      }
+    ]
+  },
+  {
+    "chinese": "当她穿着鬼服走下楼梯时丈夫以为是幽灵",
+    "english": "When she came downstairs in her ghost costume her husband thought it was a spectre",
+    "soundmark": "/wen/ /ʃiː/ /keɪm/ /daʊnˈsterz/ /ɪn/ /hɜːr/ /ɡoʊst/ /ˈkɑːstuːm/ /hɜːr/ /ˈhʌzbənd/ /θɔːt/ /ɪt/ /wʌz/ /ə/ /ˈspektər/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "downstairs",
+        "role": "Adv",
+        "phonetic": "/daʊnˈsterz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "ghost",
+        "role": "A",
+        "phonetic": "/ɡoʊst/",
+        "chinese": "鬼"
+      },
+      {
+        "text": "costume",
+        "role": "O",
+        "phonetic": "/ˈkɑːstuːm/",
+        "chinese": ""
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "husband",
+        "role": "S",
+        "phonetic": "/ˈhʌzbənd/",
+        "chinese": "丈夫"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɔːt/",
+        "chinese": "想/认为（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "spectre",
+        "role": "C",
+        "phonetic": "/ˈspektər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她喊道是我别怕",
+    "english": "She cried out It is only me",
+    "soundmark": "/ʃiː/ /kraɪd/ /aʊt/ /ɪt/ /ɪz/ /ˈoʊnli/ /miː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "cried",
+        "role": "V",
+        "phonetic": "/kraɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "me",
+        "role": "C",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "幽灵",
+    "english": "spectre",
+    "soundmark": "/ˈspektər/"
+  },
+  {
+    "chinese": "化装舞会",
+    "english": "fancy dress party",
+    "soundmark": "/ˈfænsi/ /dres/ /ˈpɑːrti/"
+  },
+  {
+    "chinese": "准备",
+    "english": "prepare",
+    "soundmark": "/prɪˈper/"
+  },
+  {
+    "chinese": "锁",
+    "english": "lock",
+    "soundmark": "/lɑːk/"
+  },
+  {
+    "chinese": "丈夫",
+    "english": "husband",
+    "soundmark": "/ˈhʌzbənd/"
+  },
+  {
+    "chinese": "喊叫",
+    "english": "cry out",
+    "soundmark": "/kraɪ/ /aʊt/"
+  },
+  {
+    "chinese": "真实的",
+    "english": "real",
+    "soundmark": "/riːl/"
+  },
+  {
+    "chinese": "确定的",
+    "english": "sure",
+    "soundmark": "/ʃʊr/"
+  },
+  {
+    "chinese": "丈夫看到那个白影时一定吓坏了",
+    "english": "The husband must have been terrified when he saw the white figure",
+    "soundmark": "/ðə/ /ˈhʌzbənd/ /mʌst/ /hæv/ /bɪn/ /ˈterɪfaɪd/ /wen/ /hiː/ /sɔː/ /ðə/ /waɪt/ /ˈfɪɡjər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "husband",
+        "role": "S",
+        "phonetic": "/ˈhʌzbənd/",
+        "chinese": "丈夫"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "terrified",
+        "role": "V",
+        "phonetic": "/ˈterɪfaɪd/",
+        "chinese": "使恐惧"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "white",
+        "role": "A",
+        "phonetic": "/waɪt/",
+        "chinese": "白色的"
+      },
+      {
+        "text": "figure",
+        "role": "O",
+        "phonetic": "/ˈfɪɡjər/",
+        "chinese": "人物/数字"
+      }
+    ]
+  }
+]

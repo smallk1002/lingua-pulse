@@ -1,0 +1,364 @@
+[
+  {
+    "chinese": "化石",
+    "english": "fossil",
+    "soundmark": "/ˈfɒsl/"
+  },
+  {
+    "chinese": "进化",
+    "english": "evolution",
+    "soundmark": "/ˌiːvəˈluːʃn/"
+  },
+  {
+    "chinese": "物种",
+    "english": "species",
+    "soundmark": "/ˈspiːʃiːz/"
+  },
+  {
+    "chinese": "灭绝",
+    "english": "extinction",
+    "soundmark": "/ɪkˈstɪŋkʃn/"
+  },
+  {
+    "chinese": "适应",
+    "english": "adaptation",
+    "soundmark": "/ˌædæpˈteɪʃn/"
+  },
+  {
+    "chinese": "生物多样性",
+    "english": "biodiversity",
+    "soundmark": "/ˌbaɪəʊdaɪˈvɜːsɪti/"
+  },
+  {
+    "chinese": "古生物学",
+    "english": "palaeontology",
+    "soundmark": "/ˌpæliɒnˈtɒlədʒi/"
+  },
+  {
+    "chinese": "地质的",
+    "english": "geological",
+    "soundmark": "/ˌdʒiːəˈlɒdʒɪkəl/"
+  },
+  {
+    "chinese": "有机体",
+    "english": "organism",
+    "soundmark": "/ˈɔːɡənɪzəm/"
+  },
+  {
+    "chinese": "古代",
+    "english": "ancient",
+    "soundmark": "/ˈeɪnʃənt/"
+  },
+  {
+    "chinese": "沉积物",
+    "english": "sediment",
+    "soundmark": "/ˈsedɪmənt/"
+  },
+  {
+    "chinese": "寒武纪",
+    "english": "Cambrian",
+    "soundmark": "/ˈkæmbriən/"
+  },
+  {
+    "chinese": "恐龙",
+    "english": "dinosaur",
+    "soundmark": "/ˈdaɪnəsɔː/"
+  },
+  {
+    "chinese": "地层",
+    "english": "stratum",
+    "soundmark": "/ˈstrɑːtəm/"
+  },
+  {
+    "chinese": "化石记录揭示了一个残酷的事实：绝大多数曾经存在的物种都已灭绝。",
+    "english": "The fossil record reveals a stark fact: the vast majority of species that ever existed have gone extinct.",
+    "soundmark": "/ðə ˈfɒsl ˈrekɔːd rɪˈviːlz ə stɑːk fækt: ðə vɑːst məˈdʒɒrɪti əv ˈspiːʃiːz ðæt ˈevər ɪɡˈzɪstɪd hæv ɡɒn ɪkˈstɪŋkt/",
+    "grammar": [
+      {
+        "text": "The fossil record",
+        "role": "S",
+        "phonetic": "/ðə ˈfɒsl ˈrekɔːd/",
+        "chinese": "这个/那个/化石/记录"
+      },
+      {
+        "text": "reveals",
+        "role": "V",
+        "phonetic": "/rɪˈviːlz/",
+        "chinese": "揭露"
+      },
+      {
+        "text": "a stark fact",
+        "role": "O",
+        "phonetic": "/ə stɑːk fækt/",
+        "chinese": "一个/事实"
+      },
+      {
+        "text": "the vast majority of species",
+        "role": "S",
+        "phonetic": "/ðə vɑːst məˈdʒɒrɪti əv ˈspiːʃiːz/",
+        "chinese": "这个/那个/广阔的/…的"
+      },
+      {
+        "text": "that ever existed",
+        "role": "Det",
+        "phonetic": "/ðæt ˈevər ɪɡˈzɪstɪd/",
+        "chinese": "那个/曾经/存在"
+      },
+      {
+        "text": "have gone extinct",
+        "role": "V",
+        "phonetic": "/hæv ɡɒn ɪkˈstɪŋkt/",
+        "chinese": "有/助动词/去（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "寒武纪生命大爆发是地球历史上最引人注目的进化事件之一。",
+    "english": "The Cambrian explosion is one of the most remarkable evolutionary events in Earth's history.",
+    "soundmark": "/ðə ˈkæmbriən ɪkˈspləʊʒn ɪz wʌn əv ðə məʊst rɪˈmɑːkəbl ˌiːvəˈluːʃənəri ɪˈvents ɪn ɜːθs ˈhɪstri/",
+    "grammar": [
+      {
+        "text": "The Cambrian explosion",
+        "role": "S",
+        "phonetic": "/ðə ˈkæmbriən ɪkˈspləʊʒn/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "one of the most remarkable evolutionary events",
+        "role": "C",
+        "phonetic": "/wʌn əv ðə məʊst rɪˈmɑːkəbl ˌiːvəˈluːʃənəri ɪˈvents/",
+        "chinese": "一个/…的/这个/那个/大多数/卓越的"
+      },
+      {
+        "text": "in Earth's history",
+        "role": "P",
+        "phonetic": "/ɪn ɜːθs ˈhɪstri/",
+        "chinese": "在…里/地球/泥土/历史"
+      }
+    ]
+  },
+  {
+    "chinese": "适应环境的能力决定了一个物种的存亡，而非其力量。",
+    "english": "The ability to adapt to the environment, not strength, determines the survival of a species.",
+    "soundmark": "/ðə əˈbɪlɪti tuː əˈdæpt tuː ðə ɪnˈvaɪrənmənt, nɒt streŋθ, dɪˈtɜːmɪnz ðə səˈvaɪvl əv ə ˈspiːʃiːz/",
+    "grammar": [
+      {
+        "text": "The ability to adapt to the environment",
+        "role": "S",
+        "phonetic": "/ðə əˈbɪlɪti tuː əˈdæpt tuː ðə ɪnˈvaɪrənmənt/",
+        "chinese": "这个/那个/能力/到/向/到/向/这个/那个/环境"
+      },
+      {
+        "text": "not strength",
+        "role": "S",
+        "phonetic": "/nɒt streŋθ/",
+        "chinese": "不/力量"
+      },
+      {
+        "text": "determines",
+        "role": "V",
+        "phonetic": "/dɪˈtɜːmɪnz/",
+        "chinese": ""
+      },
+      {
+        "text": "the survival",
+        "role": "O",
+        "phonetic": "/ðə səˈvaɪvl/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "of a species",
+        "role": "P",
+        "phonetic": "/əv ə ˈspiːʃiːz/",
+        "chinese": "…的/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "每一层地层都忠实地记录着那个时代的环境与生命形态。",
+    "english": "Each stratum faithfully records the environment and life forms of its era.",
+    "soundmark": "/iːtʃ ˈstrɑːtəm ˈfeɪθfəli rɪˈkɔːdz ðə ɪnˈvaɪrənmənt ənd laɪf fɔːmz əv ɪts ˈɪərə/",
+    "grammar": [
+      {
+        "text": "Each stratum",
+        "role": "S",
+        "phonetic": "/iːtʃ ˈstrɑːtəm/",
+        "chinese": "每个"
+      },
+      {
+        "text": "faithfully records",
+        "role": "V",
+        "phonetic": "/ˈfeɪθfəli rɪˈkɔːdz/",
+        "chinese": "…们/复数(记录)"
+      },
+      {
+        "text": "the environment and life forms",
+        "role": "O",
+        "phonetic": "/ðə ɪnˈvaɪrənmənt ənd laɪf fɔːmz/",
+        "chinese": "这个/那个/环境/和/生活/生命"
+      },
+      {
+        "text": "of its era",
+        "role": "P",
+        "phonetic": "/əv ɪts ˈɪərə/",
+        "chinese": "…的/它的"
+      }
+    ]
+  },
+  {
+    "chinese": "古生物学家通过沉积物中的微小线索重建了远古生态系统的完整图景。",
+    "english": "Palaeontologists reconstruct the complete picture of ancient ecosystems from minute clues in sediment.",
+    "soundmark": "/ˌpæliɒnˈtɒlədʒɪsts ˌriːkənˈstrʌkt ðə kəmˈpliːt ˈpɪktʃər əv ˈeɪnʃənt ˈiːkəʊˌsɪstəmz frɒm mɪˈnjuːt kluːz ɪn ˈsedɪmənt/",
+    "grammar": [
+      {
+        "text": "Palaeontologists",
+        "role": "S",
+        "phonetic": "/ˌpæliɒnˈtɒlədʒɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "reconstruct",
+        "role": "V",
+        "phonetic": "/ˌriːkənˈstrʌkt/",
+        "chinese": ""
+      },
+      {
+        "text": "the complete picture",
+        "role": "O",
+        "phonetic": "/ðə kəmˈpliːt ˈpɪktʃər/",
+        "chinese": "这个/那个/完成/图片"
+      },
+      {
+        "text": "of ancient ecosystems",
+        "role": "P",
+        "phonetic": "/əv ˈeɪnʃənt ˈiːkəʊˌsɪstəmz/",
+        "chinese": "…的/古代的"
+      },
+      {
+        "text": "from minute clues in sediment",
+        "role": "P",
+        "phonetic": "/frɒm mɪˈnjuːt kluːz ɪn ˈsedɪmənt/",
+        "chinese": "从/来自/分钟/在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "地球上的生命并非线性进化，而是在多次大灭绝后反复重启。",
+    "english": "Life on Earth has not evolved linearly but has restarted repeatedly after multiple mass extinctions.",
+    "soundmark": "/laɪf ɒn ɜːθ hæz nɒt ɪˈvɒlvd ˈlɪniəli bʌt hæz ˌriːˈstɑːtɪd rɪˈpiːtɪdli ˈɑːftə ˈmʌltɪpl mæs ɪkˈstɪŋkʃnz/",
+    "grammar": [
+      {
+        "text": "Life on Earth",
+        "role": "S",
+        "phonetic": "/laɪf ɒn ɜːθ/",
+        "chinese": "生活/生命/在…上/地球/泥土"
+      },
+      {
+        "text": "has not evolved",
+        "role": "V",
+        "phonetic": "/hæz nɒt ɪˈvɒlvd/",
+        "chinese": "有/助动词/不"
+      },
+      {
+        "text": "linearly",
+        "role": "Adv",
+        "phonetic": "/ˈlɪniəli/",
+        "chinese": ""
+      },
+      {
+        "text": "but has restarted repeatedly",
+        "role": "V",
+        "phonetic": "/bʌt hæz ˌriːˈstɑːtɪd rɪˈpiːtɪdli/",
+        "chinese": "但是/有/助动词"
+      },
+      {
+        "text": "after multiple mass extinctions",
+        "role": "P",
+        "phonetic": "/ˈɑːftə ˈmʌltɪpl mæs ɪkˈstɪŋkʃnz/",
+        "chinese": "在…之后"
+      }
+    ]
+  },
+  {
+    "chinese": "生物多样性的丧失是当今最严峻的生态危机之一。",
+    "english": "The loss of biodiversity is one of the gravest ecological crises of our time.",
+    "soundmark": "/ðə lɒs əv ˌbaɪəʊdaɪˈvɜːsɪti ɪz wʌn əv ðə ˈɡrævest ˌiːkəˈlɒdʒɪkəl ˈkraɪsiːz əv aʊə taɪm/",
+    "grammar": [
+      {
+        "text": "The loss of biodiversity",
+        "role": "S",
+        "phonetic": "/ðə lɒs əv ˌbaɪəʊdaɪˈvɜːsɪti/",
+        "chinese": "这个/那个/…的"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "one of the gravest ecological crises",
+        "role": "C",
+        "phonetic": "/wʌn əv ðə ˈɡrævest ˌiːkəˈlɒdʒɪkəl ˈkraɪsiːz/",
+        "chinese": "一个/…的/这个/那个"
+      },
+      {
+        "text": "of our time",
+        "role": "P",
+        "phonetic": "/əv aʊə taɪm/",
+        "chinese": "…的/我们的/时间"
+      }
+    ]
+  },
+  {
+    "chinese": "fossil",
+    "english": "fossil",
+    "soundmark": "/ˈfɒsl/"
+  },
+  {
+    "chinese": "extinction",
+    "english": "extinction",
+    "soundmark": "/ɪkˈstɪŋkʃn/"
+  },
+  {
+    "chinese": "palaeontology",
+    "english": "palaeontology",
+    "soundmark": "/ˌpæliɒnˈtɒlədʒi/"
+  },
+  {
+    "chinese": "adaptation",
+    "english": "adaptation",
+    "soundmark": "/ˌædæpˈteɪʃn/"
+  },
+  {
+    "chinese": "biodiversity",
+    "english": "biodiversity",
+    "soundmark": "/ˌbaɪəʊdaɪˈvɜːsɪti/"
+  },
+  {
+    "chinese": "sediment",
+    "english": "sediment",
+    "soundmark": "/ˈsedɪmənt/"
+  },
+  {
+    "chinese": "stratum",
+    "english": "stratum",
+    "soundmark": "/ˈstrɑːtəm/"
+  },
+  {
+    "chinese": "evolution",
+    "english": "evolution",
+    "soundmark": "/ˌiːvəˈluːʃn/"
+  },
+  {
+    "chinese": "organism",
+    "english": "organism",
+    "soundmark": "/ˈɔːɡənɪzəm/"
+  }
+]

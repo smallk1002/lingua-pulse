@@ -1,0 +1,336 @@
+[
+  {
+    "chinese": "沉默的",
+    "english": "silent",
+    "soundmark": "/ˈsaɪlənt/"
+  },
+  {
+    "chinese": "村庄",
+    "english": "village",
+    "soundmark": "/ˈvɪlɪdʒ/"
+  },
+  {
+    "chinese": "被遗弃的",
+    "english": "abandoned",
+    "soundmark": "/əˈbændənd/"
+  },
+  {
+    "chinese": "荒凉的",
+    "english": "deserted",
+    "soundmark": "/dɪˈzɜːrtɪd/"
+  },
+  {
+    "chinese": "入侵",
+    "english": "invasion",
+    "soundmark": "/ɪnˈveɪʒən/"
+  },
+  {
+    "chinese": "逃离",
+    "english": "flee",
+    "soundmark": "/fliː/"
+  },
+  {
+    "chinese": "难民",
+    "english": "refugee",
+    "soundmark": "/ˌrefjuˈdʒiː/"
+  },
+  {
+    "chinese": "毁坏",
+    "english": "destroy",
+    "soundmark": "/dɪˈstrɔɪ/"
+  },
+  {
+    "chinese": "被遗弃的村庄",
+    "english": "abandoned village",
+    "soundmark": "/əˈbændənd ˈvɪlɪdʒ/"
+  },
+  {
+    "chinese": "被毁于战火",
+    "english": "destroyed by war",
+    "soundmark": "/dɪˈstrɔɪd baɪ wɔːr/"
+  },
+  {
+    "chinese": "被战争毁坏后村庄一片死寂。",
+    "english": "Destroyed by the war the village remained completely silent",
+    "soundmark": "/dɪˈstrɔɪd baɪ ðə wɔːr ðə ˈvɪlɪdʒ rɪˈmeɪnd kəmˈpliːtli ˈsaɪlənt/",
+    "grammar": [
+      {
+        "text": "Destroyed",
+        "role": "V",
+        "phonetic": "/dɪˈstrɔɪd/",
+        "chinese": "破坏"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "war",
+        "role": "A",
+        "phonetic": "/wɔːr/",
+        "chinese": "战争"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "village",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "chinese": "村庄"
+      },
+      {
+        "text": "remained",
+        "role": "Lv",
+        "phonetic": "/rɪˈmeɪnd/",
+        "chinese": "保持"
+      },
+      {
+        "text": "completely",
+        "role": "Adv",
+        "phonetic": "/kəmˈpliːtli/",
+        "chinese": "完全地"
+      },
+      {
+        "text": "silent",
+        "role": "C",
+        "phonetic": "/ˈsaɪlənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "被入侵吓坏了村民们都逃离了家园。",
+    "english": "Frightened by the invasion the villagers fled their homes",
+    "soundmark": "/ˈfraɪtənd baɪ ði ɪnˈveɪʒən ðə ˈvɪlɪdʒərz fled ðer hoʊmz/",
+    "grammar": [
+      {
+        "text": "Frightened",
+        "role": "V",
+        "phonetic": "/ˈfraɪtənd/",
+        "chinese": "害怕的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "invasion",
+        "role": "A",
+        "phonetic": "/ɪnˈveɪʒən/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "villagers",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒərz/",
+        "chinese": ""
+      },
+      {
+        "text": "fled",
+        "role": "V",
+        "phonetic": "/fled/",
+        "chinese": ""
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "homes",
+        "role": "O",
+        "phonetic": "/hoʊmz/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "被遗弃多年后村庄变成了废墟。",
+    "english": "Abandoned for years the village became a ruin",
+    "soundmark": "/əˈbændənd fɔːr jɪrz ðə ˈvɪlɪdʒ bɪˈkeɪm ə ˈruːɪn/",
+    "grammar": [
+      {
+        "text": "Abandoned",
+        "role": "V",
+        "phonetic": "/əˈbændənd/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "village",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "chinese": "村庄"
+      },
+      {
+        "text": "became",
+        "role": "Lv",
+        "phonetic": "/bɪˈkeɪm/",
+        "chinese": "变成（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "ruin",
+        "role": "C",
+        "phonetic": "/ˈruːɪn/",
+        "chinese": "毁灭"
+      }
+    ]
+  },
+  {
+    "chinese": "被遗忘在深山中这个村庄从未被发现。",
+    "english": "Hidden deep in the mountains the village was never discovered",
+    "soundmark": "/ˈhɪdən diːp ɪn ðə ˈmaʊntɪnz ðə ˈvɪlɪdʒ wʌz ˈnevər dɪˈskʌvərd/",
+    "grammar": [
+      {
+        "text": "Hidden",
+        "role": "V",
+        "phonetic": "/ˈhɪdən/",
+        "chinese": "隐藏的"
+      },
+      {
+        "text": "deep",
+        "role": "Adv",
+        "phonetic": "/diːp/",
+        "chinese": "深的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mountains",
+        "role": "A",
+        "phonetic": "/ˈmaʊntɪnz/",
+        "chinese": "山"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "village",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "chinese": "村庄"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      }
+    ]
+  },
+  {
+    "chinese": "沉默的",
+    "english": "silent",
+    "soundmark": "/ˈsaɪlənt/"
+  },
+  {
+    "chinese": "村庄",
+    "english": "village",
+    "soundmark": "/ˈvɪlɪdʒ/"
+  },
+  {
+    "chinese": "被遗弃的",
+    "english": "abandoned",
+    "soundmark": "/əˈbændənd/"
+  },
+  {
+    "chinese": "荒凉的",
+    "english": "deserted",
+    "soundmark": "/dɪˈzɜːrtɪd/"
+  },
+  {
+    "chinese": "入侵",
+    "english": "invasion",
+    "soundmark": "/ɪnˈveɪʒən/"
+  },
+  {
+    "chinese": "逃离",
+    "english": "flee",
+    "soundmark": "/fliː/"
+  },
+  {
+    "chinese": "难民",
+    "english": "refugee",
+    "soundmark": "/ˌrefjuˈdʒiː/"
+  },
+  {
+    "chinese": "废墟",
+    "english": "ruin",
+    "soundmark": "/ˈruːɪn/"
+  }
+]

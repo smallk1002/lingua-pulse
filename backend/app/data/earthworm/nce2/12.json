@@ -1,0 +1,698 @@
+[
+  {
+    "chinese": "运气",
+    "english": "luck",
+    "soundmark": "/lʌk/"
+  },
+  {
+    "chinese": "船长",
+    "english": "captain",
+    "soundmark": "/ˈkæptɪn/"
+  },
+  {
+    "chinese": "航行",
+    "english": "sail",
+    "soundmark": "/seɪl/"
+  },
+  {
+    "chinese": "港口",
+    "english": "harbour",
+    "soundmark": "/ˈhɑːrbər/"
+  },
+  {
+    "chinese": "自豪的",
+    "english": "proud",
+    "soundmark": "/praʊd/"
+  },
+  {
+    "chinese": "重要的",
+    "english": "important",
+    "soundmark": "/ɪmˈpɔːrtənt/"
+  },
+  {
+    "chinese": "大西洋",
+    "english": "Atlantic",
+    "soundmark": "/ətˈlæntɪk/"
+  },
+  {
+    "chinese": "启航",
+    "english": "set out",
+    "soundmark": "/set/ /aʊt/"
+  },
+  {
+    "chinese": "驶向",
+    "english": "sail for",
+    "soundmark": "/seɪl/ /fɔːr/"
+  },
+  {
+    "chinese": "为他送行",
+    "english": "see him off",
+    "soundmark": "/siː/ /hɪm/ /ɔːf/"
+  },
+  {
+    "chinese": "祝你好运",
+    "english": "Good luck",
+    "soundmark": "/ɡʊd/ /lʌk/"
+  },
+  {
+    "chinese": "查尔斯·艾利森船长明天将从朴茨茅斯启航",
+    "english": "Captain Charles Alison will sail from Portsmouth tomorrow",
+    "soundmark": "/ˈkæptɪn/ /tʃɑːrlz/ /ˈælɪsən/ /wɪl/ /seɪl/ /frʌm/ /ˈpɔːrtsməθ/ /təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "Captain",
+        "role": "S",
+        "phonetic": "/ˈkæptɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "Charles",
+        "role": "S",
+        "phonetic": "/tʃɑːrlz/",
+        "chinese": ""
+      },
+      {
+        "text": "Alison",
+        "role": "S",
+        "phonetic": "/ˈælɪsən/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "sail",
+        "role": "V",
+        "phonetic": "/seɪl/",
+        "chinese": "航行"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "Portsmouth",
+        "role": "O",
+        "phonetic": "/ˈpɔːrtsməθ/",
+        "chinese": ""
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "我们将在港口和他见面",
+    "english": "We shall meet him at the harbour",
+    "soundmark": "/wiː/ /ʃæl/ /miːt/ /hɪm/ /æt/ /ðə/ /ˈhɑːrbər/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "shall",
+        "role": "V",
+        "phonetic": "/ʃæl/",
+        "chinese": "将要"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "harbour",
+        "role": "O",
+        "phonetic": "/ˈhɑːrbər/",
+        "chinese": "港口"
+      }
+    ]
+  },
+  {
+    "chinese": "他将乘坐他的小船",
+    "english": "He will be in his small boat",
+    "soundmark": "/hiː/ /wɪl/ /biː/ /ɪn/ /hɪz/ /smɔːl/ /boʊt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "small",
+        "role": "A",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "boat",
+        "role": "O",
+        "phonetic": "/boʊt/",
+        "chinese": "小船"
+      }
+    ]
+  },
+  {
+    "chinese": "他将于早上八点出发",
+    "english": "He will set out at eight in the morning",
+    "soundmark": "/hiː/ /wɪl/ /set/ /aʊt/ /æt/ /eɪt/ /ɪn/ /ðə/ /ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "set",
+        "role": "V",
+        "phonetic": "/set/",
+        "chinese": "设置/安置"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "eight",
+        "role": "A",
+        "phonetic": "/eɪt/",
+        "chinese": "八"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "祝他好运",
+    "english": "We shall say goodbye to him",
+    "soundmark": "/wiː/ /ʃæl/ /seɪ/ /ɡʊdˈbaɪ/ /tuː/ /hɪm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "shall",
+        "role": "V",
+        "phonetic": "/ʃæl/",
+        "chinese": "将要"
+      },
+      {
+        "text": "say",
+        "role": "V",
+        "phonetic": "/seɪ/",
+        "chinese": "说"
+      },
+      {
+        "text": "goodbye",
+        "role": "O",
+        "phonetic": "/ɡʊdˈbaɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "他将航行穿越大西洋",
+    "english": "He will sail across the Atlantic",
+    "soundmark": "/hiː/ /wɪl/ /seɪl/ /əˈkrɔːs/ /ði/ /ətˈlæntɪk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "sail",
+        "role": "V",
+        "phonetic": "/seɪl/",
+        "chinese": "航行"
+      },
+      {
+        "text": "across",
+        "role": "P",
+        "phonetic": "/əˈkrɔːs/",
+        "chinese": "穿过/对面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Atlantic",
+        "role": "O",
+        "phonetic": "/ətˈlæntɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他为他的小船感到自豪",
+    "english": "He is proud of his small boat",
+    "soundmark": "/hiː/ /ɪz/ /praʊd/ /ʌv/ /hɪz/ /smɔːl/ /boʊt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "proud",
+        "role": "C",
+        "phonetic": "/praʊd/",
+        "chinese": "骄傲的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "small",
+        "role": "A",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "boat",
+        "role": "O",
+        "phonetic": "/boʊt/",
+        "chinese": "小船"
+      }
+    ]
+  },
+  {
+    "chinese": "明天这个时候他将正航行在大海上",
+    "english": "He will be sailing on the sea this time tomorrow",
+    "soundmark": "/hiː/ /wɪl/ /biː/ /ˈseɪlɪŋ/ /ɑːn/ /ðə/ /siː/ /ðɪs/ /taɪm/ /təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "sailing",
+        "role": "V",
+        "phonetic": "/ˈseɪlɪŋ/",
+        "chinese": "航行"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sea",
+        "role": "O",
+        "phonetic": "/siː/",
+        "chinese": "海"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "我们将去机场给他送行",
+    "english": "We shall go to the airport to see him off",
+    "soundmark": "/wiː/ /ʃæl/ /ɡoʊ/ /tuː/ /ði/ /ˈerpɔːrt/ /tuː/ /siː/ /hɪm/ /ɔːf/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "shall",
+        "role": "V",
+        "phonetic": "/ʃæl/",
+        "chinese": "将要"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "airport",
+        "role": "O",
+        "phonetic": "/ˈerpɔːrt/",
+        "chinese": "机场"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "off",
+        "role": "Adv",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      }
+    ]
+  },
+  {
+    "chinese": "这个任务对他非常重要",
+    "english": "This task is very important for him",
+    "soundmark": "/ðɪs/ /tæsk/ /ɪz/ /ˈveri/ /ɪmˈpɔːrtənt/ /fɔːr/ /hɪm/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "task",
+        "role": "S",
+        "phonetic": "/tæsk/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "important",
+        "role": "C",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "下周六你会做什么",
+    "english": "What will you be doing next Saturday",
+    "soundmark": "/wʌt/ /wɪl/ /juː/ /biː/ /ˈduːɪŋ/ /nekst/ /ˈsætərdeɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "Saturday",
+        "role": "A",
+        "phonetic": "/ˈsætərdeɪ/",
+        "chinese": "星期六"
+      }
+    ]
+  },
+  {
+    "chinese": "小船",
+    "english": "boat",
+    "soundmark": "/boʊt/"
+  },
+  {
+    "chinese": "大海",
+    "english": "sea",
+    "soundmark": "/siː/"
+  },
+  {
+    "chinese": "任务",
+    "english": "task",
+    "soundmark": "/tæsk/"
+  },
+  {
+    "chinese": "骄傲",
+    "english": "proud",
+    "soundmark": "/praʊd/"
+  },
+  {
+    "chinese": "再见",
+    "english": "goodbye",
+    "soundmark": "/ɡʊdˈbaɪ/"
+  },
+  {
+    "chinese": "穿过",
+    "english": "across",
+    "soundmark": "/əˈkrɔːs/"
+  },
+  {
+    "chinese": "明天",
+    "english": "tomorrow",
+    "soundmark": "/təˈmɑːroʊ/"
+  },
+  {
+    "chinese": "送行",
+    "english": "see off",
+    "soundmark": "/siː/ /ɔːf/"
+  },
+  {
+    "chinese": "出发",
+    "english": "set out",
+    "soundmark": "/set/ /aʊt/"
+  },
+  {
+    "chinese": "星期六",
+    "english": "Saturday",
+    "soundmark": "/ˈsætərdeɪ/"
+  },
+  {
+    "chinese": "港口",
+    "english": "harbour",
+    "soundmark": "/ˈhɑːrbər/"
+  },
+  {
+    "chinese": "船长",
+    "english": "captain",
+    "soundmark": "/ˈkæptɪn/"
+  }
+]

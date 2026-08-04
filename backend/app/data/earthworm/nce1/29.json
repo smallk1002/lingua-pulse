@@ -1,0 +1,970 @@
+[
+  {
+    "chinese": "汽车",
+    "english": "car",
+    "soundmark": "/kɑːr/"
+  },
+  {
+    "chinese": "公共汽车",
+    "english": "bus",
+    "soundmark": "/bʌs/"
+  },
+  {
+    "chinese": "火车",
+    "english": "train",
+    "soundmark": "/treɪn/"
+  },
+  {
+    "chinese": "飞机",
+    "english": "plane",
+    "soundmark": "/pleɪn/"
+  },
+  {
+    "chinese": "自行车",
+    "english": "bicycle",
+    "soundmark": "/ˈbaɪsɪkəl/"
+  },
+  {
+    "chinese": "出租车",
+    "english": "taxi",
+    "soundmark": "/ˈtæksi/"
+  },
+  {
+    "chinese": "船",
+    "english": "boat",
+    "soundmark": "/boʊt/"
+  },
+  {
+    "chinese": "轮船",
+    "english": "ship",
+    "soundmark": "/ʃɪp/"
+  },
+  {
+    "chinese": "地铁",
+    "english": "underground",
+    "soundmark": "/ˈʌndərɡraʊnd/"
+  },
+  {
+    "chinese": "车站",
+    "english": "station",
+    "soundmark": "/ˈsteɪʃən/"
+  },
+  {
+    "chinese": "机场",
+    "english": "airport",
+    "soundmark": "/ˈerpɔːrt/"
+  },
+  {
+    "chinese": "道路",
+    "english": "road",
+    "soundmark": "/roʊd/"
+  },
+  {
+    "chinese": "街道",
+    "english": "street",
+    "soundmark": "/striːt/"
+  },
+  {
+    "chinese": "票",
+    "english": "ticket",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "chinese": "司机",
+    "english": "driver",
+    "soundmark": "/ˈdraɪvər/"
+  },
+  {
+    "chinese": "乘客",
+    "english": "passenger",
+    "soundmark": "/ˈpæsəndʒər/"
+  },
+  {
+    "chinese": "交通",
+    "english": "traffic",
+    "soundmark": "/ˈtræfɪk/"
+  },
+  {
+    "chinese": "交通灯",
+    "english": "traffic light",
+    "soundmark": "/ˈtræfɪk/ /laɪt/"
+  },
+  {
+    "chinese": "乘公共汽车",
+    "english": "by bus",
+    "soundmark": "/baɪ/ /bʌs/"
+  },
+  {
+    "chinese": "乘火车",
+    "english": "by train",
+    "soundmark": "/baɪ/ /treɪn/"
+  },
+  {
+    "chinese": "乘飞机",
+    "english": "by plane",
+    "soundmark": "/baɪ/ /pleɪn/"
+  },
+  {
+    "chinese": "开车",
+    "english": "by car",
+    "soundmark": "/baɪ/ /kɑːr/"
+  },
+  {
+    "chinese": "步行",
+    "english": "on foot",
+    "soundmark": "/ɑːn/ /fʊt/"
+  },
+  {
+    "chinese": "我乘公共汽车去上班",
+    "english": "I go to work by bus",
+    "soundmark": "/aɪ/ /ɡoʊ/ /tuː/ /wɜːrk/ /baɪ/ /bʌs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "bus",
+        "role": "O",
+        "phonetic": "/bʌs/",
+        "chinese": "公交车"
+      }
+    ]
+  },
+  {
+    "chinese": "她每天开车去学校",
+    "english": "She drives to school every day",
+    "soundmark": "/ʃiː/ /draɪvz/ /tuː/ /skuːl/ /ˈevri/ /deɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "drives",
+        "role": "V",
+        "phonetic": "/draɪvz/",
+        "chinese": "驾驶"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "school",
+        "role": "O",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "火车站在哪里",
+    "english": "Where is the train station",
+    "soundmark": "/wer/ /ɪz/ /ðə/ /treɪn/ /ˈsteɪʃən/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "S",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "train",
+        "role": "C",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "station",
+        "role": "C",
+        "phonetic": "/ˈsteɪʃən/",
+        "chinese": "车站"
+      }
+    ]
+  },
+  {
+    "chinese": "我们坐出租车去机场",
+    "english": "We take a taxi to the airport",
+    "soundmark": "/wiː/ /teɪk/ /ə/ /ˈtæksi/ /tuː/ /ðə/ /ˈerpɔːrt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "taxi",
+        "role": "O",
+        "phonetic": "/ˈtæksi/",
+        "chinese": "出租车"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "airport",
+        "role": "O",
+        "phonetic": "/ˈerpɔːrt/",
+        "chinese": "机场"
+      }
+    ]
+  },
+  {
+    "chinese": "交通很堵",
+    "english": "The traffic is very heavy",
+    "soundmark": "/ðə/ /ˈtræfɪk/ /ɪz/ /ˈveri/ /ˈhevi/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "traffic",
+        "role": "S",
+        "phonetic": "/ˈtræfɪk/",
+        "chinese": "交通"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "heavy",
+        "role": "C",
+        "phonetic": "/ˈhevi/",
+        "chinese": "重的"
+      }
+    ]
+  },
+  {
+    "chinese": "走路到那要多久",
+    "english": "How long does it take to walk there",
+    "soundmark": "/haʊ/ /lɔːŋ/ /dʌz/ /ɪt/ /teɪk/ /tuː/ /wɔːk/ /ðer/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "long",
+        "role": "Adv",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "我不喜欢在高峰时间开车",
+    "english": "I do not like driving in the rush hour",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /laɪk/ /ˈdraɪvɪŋ/ /ɪn/ /ðə/ /rʌʃ/ /aʊr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "driving",
+        "role": "O",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rush",
+        "role": "C",
+        "phonetic": "/rʌʃ/",
+        "chinese": ""
+      },
+      {
+        "text": "hour",
+        "role": "O",
+        "phonetic": "/aʊr/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "你能送我去火车站吗",
+    "english": "Can you take me to the station",
+    "soundmark": "/kæn/ /juː/ /teɪk/ /miː/ /tuː/ /ðə/ /ˈsteɪʃən/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "station",
+        "role": "O",
+        "phonetic": "/ˈsteɪʃən/",
+        "chinese": "车站"
+      }
+    ]
+  },
+  {
+    "chinese": "这是去伦敦的火车吗",
+    "english": "Is this the train for London",
+    "soundmark": "/ɪz/ /ðɪs/ /ðə/ /treɪn/ /fɔːr/ /ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "train",
+        "role": "C",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "London",
+        "role": "O",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "有一辆公共汽车来了",
+    "english": "There is a bus coming",
+    "soundmark": "/ðer/ /ɪz/ /ə/ /bʌs/ /ˈkʌmɪŋ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bus",
+        "role": "C",
+        "phonetic": "/bʌs/",
+        "chinese": "公交车"
+      },
+      {
+        "text": "coming",
+        "role": "V",
+        "phonetic": "/ˈkʌmɪŋ/",
+        "chinese": "来"
+      }
+    ]
+  },
+  {
+    "chinese": "他骑自行车去上班因为健康又便宜",
+    "english": "He goes to work by bike because it is healthy and cheap",
+    "soundmark": "/hiː/ /ɡoʊz/ /tuː/ /wɜːrk/ /baɪ/ /baɪk/ /bɪˈkɔːz/ /ɪt/ /ɪz/ /ˈhelθi/ /ænd/ /tʃiːp/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "goes",
+        "role": "V",
+        "phonetic": "/ɡoʊz/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "bike",
+        "role": "O",
+        "phonetic": "/baɪk/",
+        "chinese": "自行车"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "healthy",
+        "role": "C",
+        "phonetic": "/ˈhelθi/",
+        "chinese": "健康的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "cheap",
+        "role": "C",
+        "phonetic": "/tʃiːp/",
+        "chinese": "便宜的"
+      }
+    ]
+  },
+  {
+    "chinese": "我错过了火车所以我不得不等下一班",
+    "english": "I missed the train so I had to wait for the next one",
+    "soundmark": "/aɪ/ /mɪst/ /ðə/ /treɪn/ /soʊ/ /aɪ/ /hæd/ /tuː/ /weɪt/ /fɔːr/ /ðə/ /nekst/ /wʌn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "missed",
+        "role": "V",
+        "phonetic": "/mɪst/",
+        "chinese": "错过/想念"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "train",
+        "role": "O",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "wait",
+        "role": "V",
+        "phonetic": "/weɪt/",
+        "chinese": "等"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "next",
+        "role": "Det",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "驾驶",
+    "english": "drive",
+    "soundmark": "/draɪv/"
+  },
+  {
+    "chinese": "走",
+    "english": "walk",
+    "soundmark": "/wɔːk/"
+  },
+  {
+    "chinese": "快的",
+    "english": "fast",
+    "soundmark": "/fæst/"
+  },
+  {
+    "chinese": "慢的",
+    "english": "slow",
+    "soundmark": "/sloʊ/"
+  },
+  {
+    "chinese": "错过",
+    "english": "miss",
+    "soundmark": "/mɪs/"
+  },
+  {
+    "chinese": "等待",
+    "english": "wait",
+    "soundmark": "/weɪt/"
+  },
+  {
+    "chinese": "下一个的",
+    "english": "next",
+    "soundmark": "/nekst/"
+  },
+  {
+    "chinese": "便宜的",
+    "english": "cheap",
+    "soundmark": "/tʃiːp/"
+  },
+  {
+    "chinese": "健康的",
+    "english": "healthy",
+    "soundmark": "/ˈhelθi/"
+  },
+  {
+    "chinese": "高峰时间",
+    "english": "rush hour",
+    "soundmark": "/rʌʃ/ /aʊr/"
+  },
+  {
+    "chinese": "交通堵塞",
+    "english": "traffic jam",
+    "soundmark": "/ˈtræfɪk/ /dʒæm/"
+  },
+  {
+    "chinese": "我通常走路去上班因为很近",
+    "english": "I usually walk to work because it is near",
+    "soundmark": "/aɪ/ /ˈjuːʒuəli/ /wɔːk/ /tuː/ /wɜːrk/ /bɪˈkɔːz/ /ɪt/ /ɪz/ /nɪr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "usually",
+        "role": "Adv",
+        "phonetic": "/ˈjuːʒuəli/",
+        "chinese": "通常"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "near",
+        "role": "C",
+        "phonetic": "/nɪr/",
+        "chinese": "在…附近"
+      }
+    ]
+  },
+  {
+    "chinese": "你多久坐一次地铁",
+    "english": "How often do you take the underground",
+    "soundmark": "/haʊ/ /ˈɔːfən/ /duː/ /juː/ /teɪk/ /ðə/ /ˈʌndərɡraʊnd/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "underground",
+        "role": "O",
+        "phonetic": "/ˈʌndərɡraʊnd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "飞机是最快的出行方式",
+    "english": "The plane is the fastest way to travel",
+    "soundmark": "/ðə/ /pleɪn/ /ɪz/ /ðə/ /ˈfæstɪst/ /weɪ/ /tuː/ /ˈtrævəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "plane",
+        "role": "S",
+        "phonetic": "/pleɪn/",
+        "chinese": "飞机"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fastest",
+        "role": "C",
+        "phonetic": "/ˈfæstɪst/",
+        "chinese": "最快地"
+      },
+      {
+        "text": "way",
+        "role": "C",
+        "phonetic": "/weɪ/",
+        "chinese": "路/方式"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "travel",
+        "role": "V",
+        "phonetic": "/ˈtrævəl/",
+        "chinese": "旅行"
+      }
+    ]
+  },
+  {
+    "chinese": "近的",
+    "english": "near",
+    "soundmark": "/nɪr/"
+  },
+  {
+    "chinese": "通常",
+    "english": "usually",
+    "soundmark": "/ˈjuːʒuəli/"
+  },
+  {
+    "chinese": "方式",
+    "english": "way",
+    "soundmark": "/weɪ/"
+  }
+]

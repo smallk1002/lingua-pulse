@@ -1,0 +1,309 @@
+[
+  {
+    "chinese": "信号",
+    "english": "signal",
+    "soundmark": "/ˈsɪɡnəl/"
+  },
+  {
+    "chinese": "乘客",
+    "english": "passenger",
+    "soundmark": "/ˈpæsɪndʒər/"
+  },
+  {
+    "chinese": "直升机",
+    "english": "helicopter",
+    "soundmark": "/ˈhelɪkɒptər/"
+  },
+  {
+    "chinese": "救援",
+    "english": "rescue",
+    "soundmark": "/ˈreskjuː/"
+  },
+  {
+    "chinese": "坠毁",
+    "english": "crash",
+    "soundmark": "/kræʃ/"
+  },
+  {
+    "chinese": "幸存者",
+    "english": "survivor",
+    "soundmark": "/sərˈvaɪvər/"
+  },
+  {
+    "chinese": "踩踏",
+    "english": "stamp",
+    "soundmark": "/stæmp/"
+  },
+  {
+    "chinese": "场景",
+    "english": "scene",
+    "soundmark": "/siːn/"
+  },
+  {
+    "chinese": "直升机救援",
+    "english": "helicopter rescue",
+    "soundmark": "/ˈhelɪkɒptər ˈreskjuː/"
+  },
+  {
+    "chinese": "求救信号",
+    "english": "SOS signal",
+    "soundmark": "/ˌes oʊ ˈes ˈsɪɡnəl/"
+  },
+  {
+    "chinese": "我正在看电视时电话响了",
+    "english": "While I was watching TV the phone rang",
+    "soundmark": "/waɪl aɪ wʌz ˈwɒtʃɪŋ ˌtiːˈviː ðə foʊn ræŋ/",
+    "grammar": [
+      {
+        "text": "While",
+        "role": "P",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "watching",
+        "role": "V",
+        "phonetic": "/ˈwɒtʃɪŋ/",
+        "chinese": "看的"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "phone",
+        "role": "S",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      },
+      {
+        "text": "rang",
+        "role": "V",
+        "phonetic": "/ræŋ/",
+        "chinese": "响（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "直升机到达时幸存者们在挥手",
+    "english": "When the helicopter arrived the survivors were waving",
+    "soundmark": "/wen ðə ˈhelɪkɒptər əˈraɪvd ðə sərˈvaɪvərz wɜːr ˈweɪvɪŋ/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "helicopter",
+        "role": "S",
+        "phonetic": "/ˈhelɪkɒptər/",
+        "chinese": "直升机"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "survivors",
+        "role": "S",
+        "phonetic": "/sərˈvaɪvərz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "waving",
+        "role": "V",
+        "phonetic": "/ˈweɪvɪŋ/",
+        "chinese": "挥手/波浪"
+      }
+    ]
+  },
+  {
+    "chinese": "我打电话时她正在读书",
+    "english": "She was reading when I called her",
+    "soundmark": "/ʃiː wʌz ˈriːdɪŋ wen aɪ kɔːld hɜːr/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "reading",
+        "role": "V",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      }
+    ]
+  },
+  {
+    "chinese": "他们沿海滩走时看到了鲸鱼",
+    "english": "They were walking along the beach when they saw the whale",
+    "soundmark": "/ðeɪ wɜːr ˈwɔːkɪŋ əˈlɒŋ ðə biːtʃ wen ðeɪ sɔː ðə weɪl/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "walking",
+        "role": "V",
+        "phonetic": "/ˈwɔːkɪŋ/",
+        "chinese": "走路的"
+      },
+      {
+        "text": "along",
+        "role": "P",
+        "phonetic": "/əˈlɒŋ/",
+        "chinese": "沿着"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "beach",
+        "role": "A",
+        "phonetic": "/biːtʃ/",
+        "chinese": "海滩"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whale",
+        "role": "O",
+        "phonetic": "/weɪl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "信号",
+    "english": "signal",
+    "soundmark": "/ˈsɪɡnəl/"
+  },
+  {
+    "chinese": "救援",
+    "english": "rescue",
+    "soundmark": "/ˈreskjuː/"
+  },
+  {
+    "chinese": "幸存者",
+    "english": "survivor",
+    "soundmark": "/sərˈvaɪvər/"
+  },
+  {
+    "chinese": "直升机",
+    "english": "helicopter",
+    "soundmark": "/ˈhelɪkɒptər/"
+  },
+  {
+    "chinese": "求救信号",
+    "english": "SOS",
+    "soundmark": "/ˌes oʊ ˈes/"
+  }
+]

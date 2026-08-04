@@ -1,0 +1,1261 @@
+[
+  {
+    "chinese": "桌子",
+    "english": "table",
+    "soundmark": "/ˈteɪbəl/"
+  },
+  {
+    "chinese": "椅子",
+    "english": "chair",
+    "soundmark": "/tʃer/"
+  },
+  {
+    "chinese": "门",
+    "english": "door",
+    "soundmark": "/dɔːr/"
+  },
+  {
+    "chinese": "窗户",
+    "english": "window",
+    "soundmark": "/ˈwɪndoʊ/"
+  },
+  {
+    "chinese": "包",
+    "english": "bag",
+    "soundmark": "/bæɡ/"
+  },
+  {
+    "chinese": "床",
+    "english": "bed",
+    "soundmark": "/bed/"
+  },
+  {
+    "chinese": "灯",
+    "english": "lamp",
+    "soundmark": "/læmp/"
+  },
+  {
+    "chinese": "钟",
+    "english": "clock",
+    "soundmark": "/klɑːk/"
+  },
+  {
+    "chinese": "盒子",
+    "english": "box",
+    "soundmark": "/bɑːks/"
+  },
+  {
+    "chinese": "杯子",
+    "english": "cup",
+    "soundmark": "/kʌp/"
+  },
+  {
+    "chinese": "盘子",
+    "english": "plate",
+    "soundmark": "/pleɪt/"
+  },
+  {
+    "chinese": "碗",
+    "english": "bowl",
+    "soundmark": "/boʊl/"
+  },
+  {
+    "chinese": "勺子",
+    "english": "spoon",
+    "soundmark": "/spuːn/"
+  },
+  {
+    "chinese": "镜子",
+    "english": "mirror",
+    "soundmark": "/ˈmɪrər/"
+  },
+  {
+    "chinese": "图片",
+    "english": "picture",
+    "soundmark": "/ˈpɪktʃər/"
+  },
+  {
+    "chinese": "地板",
+    "english": "floor",
+    "soundmark": "/flɔːr/"
+  },
+  {
+    "chinese": "墙",
+    "english": "wall",
+    "soundmark": "/wɔːl/"
+  },
+  {
+    "chinese": "房间",
+    "english": "room",
+    "soundmark": "/ruːm/"
+  },
+  {
+    "chinese": "东西",
+    "english": "thing",
+    "soundmark": "/θɪŋ/"
+  },
+  {
+    "chinese": "哪里",
+    "english": "where",
+    "soundmark": "/wer/"
+  },
+  {
+    "chinese": "桌子上有一本书",
+    "english": "There is a book on the table",
+    "soundmark": "/ðer/ /ɪz/ /ə/ /bʊk/ /ɑːn/ /ðə/ /ˈteɪbəl/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "book",
+        "role": "C",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "table",
+        "role": "A",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      }
+    ]
+  },
+  {
+    "chinese": "门是开着的",
+    "english": "The door is open",
+    "soundmark": "/ðə/ /dɔːr/ /ɪz/ /ˈoʊpən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "S",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "open",
+        "role": "C",
+        "phonetic": "/ˈoʊpən/",
+        "chinese": "打开"
+      }
+    ]
+  },
+  {
+    "chinese": "窗户是关着的",
+    "english": "The window is closed",
+    "soundmark": "/ðə/ /ˈwɪndoʊ/ /ɪz/ /kloʊzd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "S",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "closed",
+        "role": "C",
+        "phonetic": "/kloʊzd/",
+        "chinese": "关闭的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的包在椅子上",
+    "english": "My bag is on the chair",
+    "soundmark": "/maɪ/ /bæɡ/ /ɪz/ /ɑːn/ /ðə/ /tʃer/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bag",
+        "role": "S",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "chair",
+        "role": "A",
+        "phonetic": "/tʃer/",
+        "chinese": "椅子"
+      }
+    ]
+  },
+  {
+    "chinese": "灯在哪里它在桌子上",
+    "english": "Where is the lamp It is on the table",
+    "soundmark": "/wer/ /ɪz/ /ðə/ /læmp/ /ɪt/ /ɪz/ /ɑːn/ /ðə/ /ˈteɪbəl/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "lamp",
+        "role": "S",
+        "phonetic": "/læmp/",
+        "chinese": "灯"
+      },
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "table",
+        "role": "A",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      }
+    ]
+  },
+  {
+    "chinese": "房间里有床吗有",
+    "english": "Is there a bed in the room Yes there is",
+    "soundmark": "/ɪz/ /ðer/ /ə/ /bed/ /ɪn/ /ðə/ /ruːm/ /jes/ /ðer/ /ɪz/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bed",
+        "role": "C",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "room",
+        "role": "A",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      }
+    ]
+  },
+  {
+    "chinese": "杯子和盘子都在桌上",
+    "english": "The cup and the plate are on the table",
+    "soundmark": "/ðə/ /kʌp/ /ænd/ /ðə/ /pleɪt/ /ɑːr/ /ɑːn/ /ðə/ /ˈteɪbəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cup",
+        "role": "S",
+        "phonetic": "/kʌp/",
+        "chinese": "杯子"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "plate",
+        "role": "S",
+        "phonetic": "/pleɪt/",
+        "chinese": "盘子"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "table",
+        "role": "A",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      }
+    ]
+  },
+  {
+    "chinese": "请关门",
+    "english": "Close the door please",
+    "soundmark": "/kloʊz/ /ðə/ /dɔːr/ /pliːz/",
+    "grammar": [
+      {
+        "text": "Close",
+        "role": "V",
+        "phonetic": "/kloʊz/",
+        "chinese": "关闭"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "O",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      },
+      {
+        "text": "please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "请打开窗户",
+    "english": "Open the window please",
+    "soundmark": "/ˈoʊpən/ /ðə/ /ˈwɪndoʊ/ /pliːz/",
+    "grammar": [
+      {
+        "text": "Open",
+        "role": "V",
+        "phonetic": "/ˈoʊpən/",
+        "chinese": "打开"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "O",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "墙上有一面镜子",
+    "english": "There is a mirror on the wall",
+    "soundmark": "/ðer/ /ɪz/ /ə/ /ˈmɪrər/ /ɑːn/ /ðə/ /wɔːl/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "mirror",
+        "role": "C",
+        "phonetic": "/ˈmɪrər/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wall",
+        "role": "A",
+        "phonetic": "/wɔːl/",
+        "chinese": "墙"
+      }
+    ]
+  },
+  {
+    "chinese": "盒子里有什么有几支笔",
+    "english": "What is in the box There are some pens",
+    "soundmark": "/wʌt/ /ɪz/ /ɪn/ /ðə/ /bɑːks/ /ðer/ /ɑːr/ /sʌm/ /penz/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "box",
+        "role": "A",
+        "phonetic": "/bɑːks/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "pens",
+        "role": "C",
+        "phonetic": "/penz/",
+        "chinese": "钢笔"
+      }
+    ]
+  },
+  {
+    "chinese": "地板上的东西是什么是我的包",
+    "english": "What is that thing on the floor It is my bag",
+    "soundmark": "/wʌt/ /ɪz/ /ðæt/ /θɪŋ/ /ɑːn/ /ðə/ /flɔːr/ /ɪt/ /ɪz/ /maɪ/ /bæɡ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "thing",
+        "role": "C",
+        "phonetic": "/θɪŋ/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "floor",
+        "role": "A",
+        "phonetic": "/flɔːr/",
+        "chinese": "地板/楼层"
+      },
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bag",
+        "role": "C",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "这个房间里没有钟",
+    "english": "There is no clock in this room",
+    "soundmark": "/ðer/ /ɪz/ /noʊ/ /klɑːk/ /ɪn/ /ðɪs/ /ruːm/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "clock",
+        "role": "C",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "room",
+        "role": "A",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "碗和勺子在厨房里",
+    "english": "The bowl and spoon are in the kitchen",
+    "soundmark": "/ðə/ /boʊl/ /ænd/ /spuːn/ /ɑːr/ /ɪn/ /ðə/ /ˈkɪtʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bowl",
+        "role": "S",
+        "phonetic": "/boʊl/",
+        "chinese": "碗"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "spoon",
+        "role": "S",
+        "phonetic": "/spuːn/",
+        "chinese": "勺子"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "kitchen",
+        "role": "A",
+        "phonetic": "/ˈkɪtʃən/",
+        "chinese": "厨房"
+      }
+    ]
+  },
+  {
+    "chinese": "把图片挂在墙上",
+    "english": "Put the picture on the wall",
+    "soundmark": "/pʊt/ /ðə/ /ˈpɪktʃər/ /ɑːn/ /ðə/ /wɔːl/",
+    "grammar": [
+      {
+        "text": "Put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "picture",
+        "role": "O",
+        "phonetic": "/ˈpɪktʃər/",
+        "chinese": "图片"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wall",
+        "role": "A",
+        "phonetic": "/wɔːl/",
+        "chinese": "墙"
+      }
+    ]
+  },
+  {
+    "chinese": "桌上有几个盘子",
+    "english": "How many plates are on the table",
+    "soundmark": "/haʊ/ /ˈmeni/ /pleɪts/ /ɑːr/ /ɑːn/ /ðə/ /ˈteɪbəl/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "plates",
+        "role": "S",
+        "phonetic": "/pleɪts/",
+        "chinese": "…们/复数(盘子)"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "table",
+        "role": "A",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      }
+    ]
+  },
+  {
+    "chinese": "书在包里面不在椅子下面",
+    "english": "The book is in the bag not under the chair",
+    "soundmark": "/ðə/ /bʊk/ /ɪz/ /ɪn/ /ðə/ /bæɡ/ /nɑːt/ /ˈʌndər/ /ðə/ /tʃer/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bag",
+        "role": "A",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "chair",
+        "role": "A",
+        "phonetic": "/tʃer/",
+        "chinese": "椅子"
+      }
+    ]
+  },
+  {
+    "chinese": "一些",
+    "english": "some",
+    "soundmark": "/sʌm/"
+  },
+  {
+    "chinese": "打开",
+    "english": "open",
+    "soundmark": "/ˈoʊpən/"
+  },
+  {
+    "chinese": "关上",
+    "english": "close",
+    "soundmark": "/kloʊz/"
+  },
+  {
+    "chinese": "放",
+    "english": "put",
+    "soundmark": "/pʊt/"
+  },
+  {
+    "chinese": "厨房",
+    "english": "kitchen",
+    "soundmark": "/ˈkɪtʃən/"
+  },
+  {
+    "chinese": "哪里",
+    "english": "where",
+    "soundmark": "/wer/"
+  },
+  {
+    "chinese": "在……下面",
+    "english": "under",
+    "soundmark": "/ˈʌndər/"
+  },
+  {
+    "chinese": "有",
+    "english": "there is",
+    "soundmark": "/ðer/ /ɪz/"
+  },
+  {
+    "chinese": "在里面",
+    "english": "inside",
+    "soundmark": "/ɪnˈsaɪd/"
+  },
+  {
+    "chinese": "请把杯子放在桌子上",
+    "english": "Please put the cup on the table",
+    "soundmark": "/pliːz/ /pʊt/ /ðə/ /kʌp/ /ɑːn/ /ðə/ /ˈteɪbəl/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cup",
+        "role": "O",
+        "phonetic": "/kʌp/",
+        "chinese": "杯子"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "table",
+        "role": "A",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      }
+    ]
+  },
+  {
+    "chinese": "碗里有勺子吗有的",
+    "english": "Is there a spoon in the bowl Yes there is",
+    "soundmark": "/ɪz/ /ðer/ /ə/ /spuːn/ /ɪn/ /ðə/ /boʊl/ /jes/ /ðer/ /ɪz/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "spoon",
+        "role": "C",
+        "phonetic": "/spuːn/",
+        "chinese": "勺子"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bowl",
+        "role": "A",
+        "phonetic": "/boʊl/",
+        "chinese": "碗"
+      },
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      }
+    ]
+  },
+  {
+    "chinese": "我的房间有一扇大窗户和一个小门",
+    "english": "My room has a big window and a small door",
+    "soundmark": "/maɪ/ /ruːm/ /hæz/ /ə/ /bɪɡ/ /ˈwɪndoʊ/ /ænd/ /ə/ /smɔːl/ /dɔːr/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "room",
+        "role": "S",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "window",
+        "role": "O",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "small",
+        "role": "C",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "door",
+        "role": "O",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      }
+    ]
+  },
+  {
+    "chinese": "墙上的钟不走了",
+    "english": "The clock on the wall is not working",
+    "soundmark": "/ðə/ /klɑːk/ /ɑːn/ /ðə/ /wɔːl/ /ɪz/ /nɑːt/ /ˈwɜːrkɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wall",
+        "role": "A",
+        "phonetic": "/wɔːl/",
+        "chinese": "墙"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "working",
+        "role": "V",
+        "phonetic": "/ˈwɜːrkɪŋ/",
+        "chinese": "工作的/有效的"
+      }
+    ]
+  },
+  {
+    "chinese": "家具",
+    "english": "furniture",
+    "soundmark": "/ˈfɜːrnɪtʃər/"
+  },
+  {
+    "chinese": "毯子",
+    "english": "blanket",
+    "soundmark": "/ˈblæŋkɪt/"
+  },
+  {
+    "chinese": "枕头",
+    "english": "pillow",
+    "soundmark": "/ˈpɪloʊ/"
+  },
+  {
+    "chinese": "在里面",
+    "english": "inside",
+    "soundmark": "/ɪnˈsaɪd/"
+  },
+  {
+    "chinese": "在外面",
+    "english": "outside",
+    "soundmark": "/aʊtˈsaɪd/"
+  }
+]

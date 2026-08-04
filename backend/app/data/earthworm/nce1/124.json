@@ -1,0 +1,217 @@
+[
+  {
+    "english": "air",
+    "chinese": "空中",
+    "soundmark": "/er/"
+  },
+  {
+    "english": "fly",
+    "chinese": "飞行",
+    "soundmark": "/flaɪ/"
+  },
+  {
+    "english": "airplane",
+    "chinese": "飞机",
+    "soundmark": "/ˈerpleɪn/"
+  },
+  {
+    "chinese": "乘飞机旅行",
+    "english": "A trip by air",
+    "soundmark": "/ə trɪp baɪ er/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "trip",
+        "role": "S",
+        "phonetic": "/trɪp/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "air",
+        "role": "O",
+        "phonetic": "/er/",
+        "chinese": "空气"
+      }
+    ]
+  },
+  {
+    "chinese": "飞机准时起飞",
+    "english": "The airplane took off on time",
+    "soundmark": "/ði ˈerpleɪn tʊk ɔːf ɒn taɪm/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "airplane",
+        "role": "S",
+        "phonetic": "/ˈerpleɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "off",
+        "role": "A",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "飞行很平稳",
+    "english": "The flight was smooth",
+    "soundmark": "/ðə flaɪt wʌz smuːð/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "flight",
+        "role": "S",
+        "phonetic": "/flaɪt/",
+        "chinese": "航班"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "smooth",
+        "role": "C",
+        "phonetic": "/smuːð/",
+        "chinese": "光滑的"
+      }
+    ]
+  },
+  {
+    "chinese": "我喜欢坐在窗边",
+    "english": "I like sitting by the window",
+    "soundmark": "/aɪ laɪk ˈsɪtɪŋ baɪ ðə ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "sitting",
+        "role": "V",
+        "phonetic": "/ˈsɪtɪŋ/",
+        "chinese": "坐着的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "O",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "我们下午到达",
+    "english": "We arrived in the afternoon",
+    "soundmark": "/wiː əˈraɪvd ɪn ðə ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "afternoon",
+        "role": "O",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      }
+    ]
+  },
+  {
+    "english": "ticket",
+    "chinese": "票",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "english": "seat",
+    "chinese": "座位",
+    "soundmark": "/siːt/"
+  },
+  {
+    "english": "luggage",
+    "chinese": "行李",
+    "soundmark": "/ˈlʌɡɪdʒ/"
+  }
+]

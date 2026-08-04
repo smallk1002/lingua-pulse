@@ -1,0 +1,306 @@
+[
+  {
+    "chinese": "蛇",
+    "english": "snake",
+    "soundmark": "/sneɪk/"
+  },
+  {
+    "chinese": "热",
+    "english": "hot",
+    "soundmark": "/hɑːt/"
+  },
+  {
+    "chinese": "电线",
+    "english": "wire",
+    "soundmark": "/ˈwaɪər/"
+  },
+  {
+    "chinese": "引起",
+    "english": "cause",
+    "soundmark": "/kɔːz/"
+  },
+  {
+    "chinese": "火灾",
+    "english": "fire",
+    "soundmark": "/ˈfaɪər/"
+  },
+  {
+    "chinese": "检查",
+    "english": "examine",
+    "soundmark": "/ɪɡˈzæmɪn/"
+  },
+  {
+    "chinese": "解决",
+    "english": "solve",
+    "soundmark": "/sɑːlv/"
+  },
+  {
+    "chinese": "谜",
+    "english": "mystery",
+    "soundmark": "/ˈmɪstri/"
+  },
+  {
+    "chinese": "火灾是因为短路引起的。",
+    "english": "The fire was caused by a short circuit",
+    "soundmark": "/ðə ˈfaɪər wʌz kɔːzd baɪ ə ʃɔːrt ˈsɜːrkɪt/",
+    "grammar": [
+      {
+        "text": "The fire",
+        "role": "S",
+        "phonetic": "/ðə ˈfaɪər/",
+        "chinese": "这个/那个/火"
+      },
+      {
+        "text": "was caused",
+        "role": "V",
+        "phonetic": "/wʌz kɔːzd/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "by a short circuit",
+        "role": "A",
+        "phonetic": "/baɪ ə ʃɔːrt ˈsɜːrkɪt/",
+        "chinese": "通过/被/在…旁/一个/短的"
+      }
+    ]
+  },
+  {
+    "chinese": "蛇引起了火灾因为它碰到了电线。",
+    "english": "The snake caused the fire because it touched the wires",
+    "soundmark": "/ðə sneɪk kɔːzd ðə ˈfaɪər bɪˈkɔːz ɪt tʌtʃt ðə ˈwaɪərz/",
+    "grammar": [
+      {
+        "text": "The snake",
+        "role": "S",
+        "phonetic": "/ðə sneɪk/",
+        "chinese": "这个/那个/蛇"
+      },
+      {
+        "text": "caused",
+        "role": "V",
+        "phonetic": "/kɔːzd/",
+        "chinese": "原因/导致"
+      },
+      {
+        "text": "the fire",
+        "role": "O",
+        "phonetic": "/ðə ˈfaɪər/",
+        "chinese": "这个/那个/火"
+      },
+      {
+        "text": "because it touched the wires",
+        "role": "A",
+        "phonetic": "/bɪˈkɔːz ɪt tʌtʃt ðə ˈwaɪərz/",
+        "chinese": "因为/它/被触摸的/这个/那个/…们/复数(电线)"
+      }
+    ]
+  },
+  {
+    "chinese": "由于是夏天蛇都出来了。",
+    "english": "Since it was summer the snakes were out",
+    "soundmark": "/sɪns ɪt wʌz ˈsʌmər ðə sneɪks wɜːr aʊt/",
+    "grammar": [
+      {
+        "text": "Since it was summer",
+        "role": "A",
+        "phonetic": "/sɪns ɪt wʌz ˈsʌmər/",
+        "chinese": "自从/因为/它/是（过去式）/夏天"
+      },
+      {
+        "text": "the snakes",
+        "role": "S",
+        "phonetic": "/ðə sneɪks/",
+        "chinese": "这个/那个/…们/复数(蛇)"
+      },
+      {
+        "text": "were out",
+        "role": "V",
+        "phonetic": "/wɜːr aʊt/",
+        "chinese": "是（过去式）/出去"
+      }
+    ]
+  },
+  {
+    "chinese": "消防员检查了现场以查明原因。",
+    "english": "The firemen examined the scene to find the cause",
+    "soundmark": "/ðə ˈfaɪərmen ɪɡˈzæmɪnd ðə siːn tuː faɪnd ðə kɔːz/",
+    "grammar": [
+      {
+        "text": "The firemen",
+        "role": "S",
+        "phonetic": "/ðə ˈfaɪərmen/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "examined",
+        "role": "V",
+        "phonetic": "/ɪɡˈzæmɪnd/",
+        "chinese": "检查"
+      },
+      {
+        "text": "the scene",
+        "role": "O",
+        "phonetic": "/ðə siːn/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "to find the cause",
+        "role": "A",
+        "phonetic": "/tuː faɪnd ðə kɔːz/",
+        "chinese": "到/向/找到/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "这个谜终究被解决了。",
+    "english": "The mystery was solved at last",
+    "soundmark": "/ðə ˈmɪstri wʌz sɑːlvd æt læst/",
+    "grammar": [
+      {
+        "text": "The mystery",
+        "role": "S",
+        "phonetic": "/ðə ˈmɪstri/",
+        "chinese": "这个/那个/神秘"
+      },
+      {
+        "text": "was solved",
+        "role": "V",
+        "phonetic": "/wʌz sɑːlvd/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "at last",
+        "role": "A",
+        "phonetic": "/æt læst/",
+        "chinese": "最后"
+      }
+    ]
+  },
+  {
+    "chinese": "因为蛇缠住了电线所以引起了火灾。",
+    "english": "The fire started because a snake had wound itself around the wires",
+    "soundmark": "/ðə ˈfaɪər ˈstɑːrtɪd bɪˈkɔːz ə sneɪk hæd waʊnd ɪtˈself əˈraʊnd ðə ˈwaɪərz/",
+    "grammar": [
+      {
+        "text": "The fire",
+        "role": "S",
+        "phonetic": "/ðə ˈfaɪər/",
+        "chinese": "这个/那个/火"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "because a snake had wound itself around the wires",
+        "role": "A",
+        "phonetic": "/bɪˈkɔːz ə sneɪk hæd waʊnd ɪtˈself əˈraʊnd ðə ˈwaɪərz/",
+        "chinese": "因为/一个/蛇/有/助动词（过去式）/它自己/围绕/大约/这个/那个/…们/复数(电线)"
+      }
+    ]
+  },
+  {
+    "chinese": "他拔下插头以免引起火灾。",
+    "english": "He pulled out the plug so as not to cause a fire",
+    "soundmark": "/hiː pʊld aʊt ðə plʌɡ soʊ æz nɑːt tuː kɔːz ə ˈfaɪər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "pulled out",
+        "role": "V",
+        "phonetic": "/pʊld aʊt/",
+        "chinese": "拉/出去"
+      },
+      {
+        "text": "the plug",
+        "role": "O",
+        "phonetic": "/ðə plʌɡ/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "so as not to cause a fire",
+        "role": "A",
+        "phonetic": "/soʊ æz nɑːt tuː kɔːz ə ˈfaɪər/",
+        "chinese": "如此/所以/当…时/作为/因为/不/到/向/一个/火"
+      }
+    ]
+  },
+  {
+    "chinese": "由于没人知道原因这成了一个谜。",
+    "english": "It became a mystery since no one knew the reason",
+    "soundmark": "/ɪt bɪˈkeɪm ə ˈmɪstri sɪns noʊ wʌn nuː ðə ˈriːzn/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "became",
+        "role": "V",
+        "phonetic": "/bɪˈkeɪm/",
+        "chinese": "变成（过去式）"
+      },
+      {
+        "text": "a mystery",
+        "role": "C",
+        "phonetic": "/ə ˈmɪstri/",
+        "chinese": "一个/神秘"
+      },
+      {
+        "text": "since no one knew the reason",
+        "role": "A",
+        "phonetic": "/sɪns noʊ wʌn nuː ðə ˈriːzn/",
+        "chinese": "自从/因为/没有/一个/知道（过去式）/这个/那个/原因"
+      }
+    ]
+  },
+  {
+    "chinese": "短路",
+    "english": "short circuit",
+    "soundmark": "/ʃɔːrt ˈsɜːrkɪt/"
+  },
+  {
+    "chinese": "触碰",
+    "english": "touch",
+    "soundmark": "/tʌtʃ/"
+  },
+  {
+    "chinese": "因为",
+    "english": "since",
+    "soundmark": "/sɪns/"
+  },
+  {
+    "chinese": "消防员",
+    "english": "fireman",
+    "soundmark": "/ˈfaɪərmən/"
+  },
+  {
+    "chinese": "现场",
+    "english": "scene",
+    "soundmark": "/siːn/"
+  },
+  {
+    "chinese": "终于",
+    "english": "at last",
+    "soundmark": "/æt læst/"
+  },
+  {
+    "chinese": "缠绕",
+    "english": "wind",
+    "soundmark": "/waɪnd/"
+  },
+  {
+    "chinese": "插头",
+    "english": "plug",
+    "soundmark": "/plʌɡ/"
+  }
+]

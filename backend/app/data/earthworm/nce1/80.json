@@ -1,0 +1,477 @@
+[
+  {
+    "chinese": "路",
+    "english": "way",
+    "soundmark": "/weɪ/"
+  },
+  {
+    "chinese": "家",
+    "english": "home",
+    "soundmark": "/həʊm/"
+  },
+  {
+    "chinese": "街道",
+    "english": "street",
+    "soundmark": "/striːt/"
+  },
+  {
+    "chinese": "马路",
+    "english": "road",
+    "soundmark": "/rəʊd/"
+  },
+  {
+    "chinese": "桥",
+    "english": "bridge",
+    "soundmark": "/brɪdʒ/"
+  },
+  {
+    "chinese": "公园",
+    "english": "park",
+    "soundmark": "/pɑːk/"
+  },
+  {
+    "chinese": "车站",
+    "english": "station",
+    "soundmark": "/ˈsteɪʃən/"
+  },
+  {
+    "chinese": "公共汽车",
+    "english": "bus",
+    "soundmark": "/bʌs/"
+  },
+  {
+    "chinese": "走路",
+    "english": "walk",
+    "soundmark": "/wɔːk/"
+  },
+  {
+    "chinese": "经过",
+    "english": "pass",
+    "soundmark": "/pɑːs/"
+  },
+  {
+    "chinese": "穿过",
+    "english": "cross",
+    "soundmark": "/krɒs/"
+  },
+  {
+    "chinese": "拐角",
+    "english": "corner",
+    "soundmark": "/ˈkɔːnə/"
+  },
+  {
+    "chinese": "转弯",
+    "english": "turn",
+    "soundmark": "/tɜːn/"
+  },
+  {
+    "chinese": "左边",
+    "english": "left",
+    "soundmark": "/left/"
+  },
+  {
+    "chinese": "右边",
+    "english": "right",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "chinese": "他走在回家的路上。",
+    "english": "He is on his way home.",
+    "soundmark": "/hiː ɪz ɒn hɪz weɪ həʊm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on his way",
+        "role": "C",
+        "phonetic": "/ɒn hɪz weɪ/",
+        "chinese": "在…上/他的/路/方式"
+      },
+      {
+        "text": "home",
+        "role": "Adv",
+        "phonetic": "/həʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "她走过了那座桥。",
+    "english": "She went across the bridge.",
+    "soundmark": "/ʃiː went əˈkrɒs ðə brɪdʒ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "across the bridge",
+        "role": "Adv",
+        "phonetic": "/əˈkrɒs ðə brɪdʒ/",
+        "chinese": "穿过/对面/这个/那个/桥"
+      }
+    ]
+  },
+  {
+    "chinese": "我们穿过了公园。",
+    "english": "We walked through the park.",
+    "soundmark": "/wiː wɔːkt θruː ðə pɑːk/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "through the park",
+        "role": "Adv",
+        "phonetic": "/θruː ðə pɑːk/",
+        "chinese": "通过/穿过/这个/那个/公园"
+      }
+    ]
+  },
+  {
+    "chinese": "他在拐角处向左拐。",
+    "english": "He turned left at the corner.",
+    "soundmark": "/hiː tɜːnd left æt ðə ˈkɔːnə/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "turned",
+        "role": "V",
+        "phonetic": "/tɜːnd/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "left",
+        "role": "Adv",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "at the corner",
+        "role": "Adv",
+        "phonetic": "/æt ðə ˈkɔːnə/",
+        "chinese": "在/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "她沿着那条街走。",
+    "english": "She walked along the street.",
+    "soundmark": "/ʃiː wɔːkt əˈlɒŋ ðə striːt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "along the street",
+        "role": "Adv",
+        "phonetic": "/əˈlɒŋ ðə striːt/",
+        "chinese": "沿着/这个/那个/街道"
+      }
+    ]
+  },
+  {
+    "chinese": "我坐公共汽车回家。",
+    "english": "I went home by bus.",
+    "soundmark": "/aɪ went həʊm baɪ bʌs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "home",
+        "role": "Adv",
+        "phonetic": "/həʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "by bus",
+        "role": "Adv",
+        "phonetic": "/baɪ bʌs/",
+        "chinese": "通过/被/在…旁/公交车"
+      }
+    ]
+  },
+  {
+    "chinese": "他经过了车站。",
+    "english": "He passed the station.",
+    "soundmark": "/hiː pɑːst ðə ˈsteɪʃən/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pɑːst/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "the station",
+        "role": "O",
+        "phonetic": "/ðə ˈsteɪʃən/",
+        "chinese": "这个/那个/车站"
+      }
+    ]
+  },
+  {
+    "chinese": "这是一条很长的路。",
+    "english": "It is a long way.",
+    "soundmark": "/ɪt ɪz ə lɒŋ weɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a long way",
+        "role": "C",
+        "phonetic": "/ə lɒŋ weɪ/",
+        "chinese": "一个/长的/路/方式"
+      }
+    ]
+  },
+  {
+    "chinese": "她每天走这条路回家。",
+    "english": "She walks this way home every day.",
+    "soundmark": "/ʃiː wɔːks ðɪs weɪ həʊm ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walks",
+        "role": "V",
+        "phonetic": "/wɔːks/",
+        "chinese": "走"
+      },
+      {
+        "text": "this way",
+        "role": "Adv",
+        "phonetic": "/ðɪs weɪ/",
+        "chinese": "这个/路/方式"
+      },
+      {
+        "text": "home",
+        "role": "Adv",
+        "phonetic": "/həʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "every day",
+        "role": "A",
+        "phonetic": "/ˈevri deɪ/",
+        "chinese": "每天"
+      }
+    ]
+  },
+  {
+    "chinese": "我们穿过了马路。",
+    "english": "We crossed the road.",
+    "soundmark": "/wiː krɒst ðə rəʊd/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "crossed",
+        "role": "V",
+        "phonetic": "/krɒst/",
+        "chinese": "穿过"
+      },
+      {
+        "text": "the road",
+        "role": "O",
+        "phonetic": "/ðə rəʊd/",
+        "chinese": "这个/那个/路"
+      }
+    ]
+  },
+  {
+    "chinese": "学校在右边。",
+    "english": "The school is on the right.",
+    "soundmark": "/ðə skuːl ɪz ɒn ðə raɪt/",
+    "grammar": [
+      {
+        "text": "The school",
+        "role": "S",
+        "phonetic": "/ðə skuːl/",
+        "chinese": "这个/那个/学校"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on the right",
+        "role": "C",
+        "phonetic": "/ɒn ðə raɪt/",
+        "chinese": "在…上/这个/那个/对的/右边的"
+      }
+    ]
+  },
+  {
+    "chinese": "银行在左边。",
+    "english": "The bank is on the left.",
+    "soundmark": "/ðə bæŋk ɪz ɒn ðə left/",
+    "grammar": [
+      {
+        "text": "The bank",
+        "role": "S",
+        "phonetic": "/ðə bæŋk/",
+        "chinese": "这个/那个/银行"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on the left",
+        "role": "C",
+        "phonetic": "/ɒn ðə left/",
+        "chinese": "在…上/这个/那个/左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "沿着",
+    "english": "along",
+    "soundmark": "/əˈlɒŋ/"
+  },
+  {
+    "chinese": "穿过",
+    "english": "through",
+    "soundmark": "/θruː/"
+  },
+  {
+    "chinese": "对面",
+    "english": "opposite",
+    "soundmark": "/ˈɒpəzɪt/"
+  },
+  {
+    "chinese": "之间",
+    "english": "between",
+    "soundmark": "/bɪˈtwiːn/"
+  },
+  {
+    "chinese": "下一个",
+    "english": "next",
+    "soundmark": "/nekst/"
+  },
+  {
+    "chinese": "交通灯",
+    "english": "traffic lights",
+    "soundmark": "/ˈtræfɪk laɪts/"
+  },
+  {
+    "chinese": "十字路口",
+    "english": "crossing",
+    "soundmark": "/ˈkrɒsɪŋ/"
+  },
+  {
+    "chinese": "建筑物",
+    "english": "building",
+    "soundmark": "/ˈbɪldɪŋ/"
+  },
+  {
+    "chinese": "教堂",
+    "english": "church",
+    "soundmark": "/tʃɜːtʃ/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɒspɪtl/"
+  },
+  {
+    "chinese": "博物馆",
+    "english": "museum",
+    "soundmark": "/mjuːˈziːəm/"
+  },
+  {
+    "chinese": "河流",
+    "english": "river",
+    "soundmark": "/ˈrɪvə/"
+  },
+  {
+    "chinese": "远",
+    "english": "far",
+    "soundmark": "/fɑː/"
+  },
+  {
+    "chinese": "近的",
+    "english": "near",
+    "soundmark": "/nɪə/"
+  }
+]

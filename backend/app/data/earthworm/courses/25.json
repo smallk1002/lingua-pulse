@@ -1,0 +1,1047 @@
+[
+  {
+    "chinese": "走(现在)",
+    "english": "walk",
+    "soundmark": "/wɔːk/"
+  },
+  {
+    "chinese": "走(过去)",
+    "english": "walked",
+    "soundmark": "/wɔːkt/"
+  },
+  {
+    "chinese": "玩(现在)",
+    "english": "play",
+    "soundmark": "/pleɪ/"
+  },
+  {
+    "chinese": "玩(过去)",
+    "english": "played",
+    "soundmark": "/pleɪd/"
+  },
+  {
+    "chinese": "看(现在)",
+    "english": "watch",
+    "soundmark": "/wɑːtʃ/"
+  },
+  {
+    "chinese": "看(过去)",
+    "english": "watched",
+    "soundmark": "/wɑːtʃt/"
+  },
+  {
+    "chinese": "学习(现在)",
+    "english": "study",
+    "soundmark": "/ˈstʌdi/"
+  },
+  {
+    "chinese": "学习(过去)",
+    "english": "studied",
+    "soundmark": "/ˈstʌdid/"
+  },
+  {
+    "chinese": "工作(现在)",
+    "english": "work",
+    "soundmark": "/wɜːrk/"
+  },
+  {
+    "chinese": "工作(过去)",
+    "english": "worked",
+    "soundmark": "/wɜːrkt/"
+  },
+  {
+    "chinese": "昨天",
+    "english": "yesterday",
+    "soundmark": "/ˈjestərdeɪ/"
+  },
+  {
+    "chinese": "上周",
+    "english": "last week",
+    "soundmark": "/læst wiːk/"
+  },
+  {
+    "chinese": "去年",
+    "english": "last year",
+    "soundmark": "/læst jɪr/"
+  },
+  {
+    "chinese": "两小时前",
+    "english": "two hours ago",
+    "soundmark": "/tuː aʊrz əˈɡoʊ/"
+  },
+  {
+    "chinese": "昨天我走路去上学。",
+    "english": "I walked to school yesterday",
+    "soundmark": "/aɪ wɔːkt tuː skuːl ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "to school",
+        "role": "A",
+        "phonetic": "/tuː skuːl/",
+        "chinese": "上学"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "她上周弹了钢琴。",
+    "english": "She played the piano last week",
+    "soundmark": "/ʃiː pleɪd ðə piˈænoʊ læst wiːk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "played",
+        "role": "V",
+        "phonetic": "/pleɪd/",
+        "chinese": "玩"
+      },
+      {
+        "text": "the piano",
+        "role": "O",
+        "phonetic": "/ðə piˈænoʊ/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "last week",
+        "role": "A",
+        "phonetic": "/læst wiːk/",
+        "chinese": "上周"
+      }
+    ]
+  },
+  {
+    "chinese": "我们昨晚看了电视。",
+    "english": "We watched TV last night",
+    "soundmark": "/wiː wɑːtʃt ˌtiːˈviː læst naɪt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "watched",
+        "role": "V",
+        "phonetic": "/wɑːtʃt/",
+        "chinese": "观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      },
+      {
+        "text": "last night",
+        "role": "A",
+        "phonetic": "/læst naɪt/",
+        "chinese": "昨晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他昨晚学习到很晚。",
+    "english": "He studied late last night",
+    "soundmark": "/hiː ˈstʌdid leɪt læst naɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "studied",
+        "role": "V",
+        "phonetic": "/ˈstʌdid/",
+        "chinese": "学习（过去式）"
+      },
+      {
+        "text": "late",
+        "role": "A",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      },
+      {
+        "text": "last night",
+        "role": "A",
+        "phonetic": "/læst naɪt/",
+        "chinese": "昨晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天没有走路去上学。",
+    "english": "I did not walk to school yesterday",
+    "soundmark": "/aɪ dɪd nɑːt wɔːk tuː skuːl ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "did not walk",
+        "role": "V",
+        "phonetic": "/dɪd nɑːt wɔːk/",
+        "chinese": "做/助动词（过去式）/不/走"
+      },
+      {
+        "text": "to school",
+        "role": "A",
+        "phonetic": "/tuː skuːl/",
+        "chinese": "上学"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "她上周没弹钢琴。",
+    "english": "She didn't play the piano last week",
+    "soundmark": "/ʃiː ˈdɪdnt pleɪ ðə piˈænoʊ læst wiːk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "didn't play",
+        "role": "V",
+        "phonetic": "/ˈdɪdnt pleɪ/",
+        "chinese": "不（过去）/玩"
+      },
+      {
+        "text": "the piano",
+        "role": "O",
+        "phonetic": "/ðə piˈænoʊ/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "last week",
+        "role": "A",
+        "phonetic": "/læst wiːk/",
+        "chinese": "上周"
+      }
+    ]
+  },
+  {
+    "chinese": "你昨天看电视了吗？",
+    "english": "Did you watch TV yesterday",
+    "soundmark": "/dɪd juː wɑːtʃ ˌtiːˈviː ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "watch",
+        "role": "V",
+        "phonetic": "/wɑːtʃ/",
+        "chinese": "观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他昨晚学英语了吗？",
+    "english": "Did he study English last night",
+    "soundmark": "/dɪd hiː ˈstʌdi ˈɪŋɡlɪʃ læst naɪt/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "study",
+        "role": "V",
+        "phonetic": "/ˈstʌdi/",
+        "chinese": "学习/研究"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "last night",
+        "role": "A",
+        "phonetic": "/læst naɪt/",
+        "chinese": "昨晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我五年前住在北京。",
+    "english": "I lived in Beijing five years ago",
+    "soundmark": "/aɪ lɪvd ɪn beɪˈdʒɪŋ faɪv jɪrz əˈɡoʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "lived",
+        "role": "V",
+        "phonetic": "/lɪvd/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in Beijing",
+        "role": "A",
+        "phonetic": "/ɪn beɪˈdʒɪŋ/",
+        "chinese": "在…里/北京"
+      },
+      {
+        "text": "five years ago",
+        "role": "A",
+        "phonetic": "/faɪv jɪrz əˈɡoʊ/",
+        "chinese": "五/…们/复数(年)/以前"
+      }
+    ]
+  },
+  {
+    "chinese": "她去年在伦敦工作。",
+    "english": "She worked in London last year",
+    "soundmark": "/ʃiː wɜːrkt ɪn ˈlʌndən læst jɪr/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "worked",
+        "role": "V",
+        "phonetic": "/wɜːrkt/",
+        "chinese": "工作"
+      },
+      {
+        "text": "in London",
+        "role": "A",
+        "phonetic": "/ɪn ˈlʌndən/",
+        "chinese": "在…里/伦敦"
+      },
+      {
+        "text": "last year",
+        "role": "A",
+        "phonetic": "/læst jɪr/",
+        "chinese": "去年"
+      }
+    ]
+  },
+  {
+    "chinese": "他们十分钟前离开了。",
+    "english": "They left ten minutes ago",
+    "soundmark": "/ðeɪ left ten ˈmɪnɪts əˈɡoʊ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "ten minutes ago",
+        "role": "A",
+        "phonetic": "/ten ˈmɪnɪts əˈɡoʊ/",
+        "chinese": "十/…们/复数(分钟)/以前"
+      }
+    ]
+  },
+  {
+    "chinese": "他昨天下午打了篮球。",
+    "english": "He played basketball yesterday afternoon",
+    "soundmark": "/hiː pleɪd ˈbæskɪtbɔːl ˈjestərdeɪ ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "played",
+        "role": "V",
+        "phonetic": "/pleɪd/",
+        "chinese": "玩"
+      },
+      {
+        "text": "basketball",
+        "role": "O",
+        "phonetic": "/ˈbæskɪtbɔːl/",
+        "chinese": "篮球"
+      },
+      {
+        "text": "yesterday afternoon",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ ˌæftərˈnuːn/",
+        "chinese": "昨天下午"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天没吃晚饭。",
+    "english": "I didn't eat dinner yesterday",
+    "soundmark": "/aɪ ˈdɪdnt iːt ˈdɪnər ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "didn't eat",
+        "role": "V",
+        "phonetic": "/ˈdɪdnt iːt/",
+        "chinese": "不（过去）/吃"
+      },
+      {
+        "text": "dinner",
+        "role": "O",
+        "phonetic": "/ˈdɪnər/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "你上周去看电影了吗？",
+    "english": "Did you go to the movies last week",
+    "soundmark": "/dɪd juː ɡoʊ tuː ðə ˈmuːviz læst wiːk/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to the movies",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈmuːviz/",
+        "chinese": "去看电影"
+      },
+      {
+        "text": "last week",
+        "role": "A",
+        "phonetic": "/læst wiːk/",
+        "chinese": "上周"
+      }
+    ]
+  },
+  {
+    "chinese": "我们昨天打扫了房间。",
+    "english": "We cleaned the room yesterday",
+    "soundmark": "/wiː kliːnd ðə ruːm ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "cleaned",
+        "role": "V",
+        "phonetic": "/kliːnd/",
+        "chinese": "清洁"
+      },
+      {
+        "text": "the room",
+        "role": "O",
+        "phonetic": "/ðə ruːm/",
+        "chinese": "这个/那个/房间"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "她上周日拜访了她的祖母。",
+    "english": "She visited her grandmother last Sunday",
+    "soundmark": "/ʃiː ˈvɪzɪtɪd hɜːr ˈɡrænmʌðər læst ˈsʌndeɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "visited",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪtɪd/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "her grandmother",
+        "role": "O",
+        "phonetic": "/hɜːr ˈɡrænmʌðər/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "last Sunday",
+        "role": "A",
+        "phonetic": "/læst ˈsʌndeɪ/",
+        "chinese": "最后/星期日"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天没接电话。",
+    "english": "I didn't answer the phone yesterday",
+    "soundmark": "/aɪ ˈdɪdnt ˈænsər ðə foʊn ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "didn't answer",
+        "role": "V",
+        "phonetic": "/ˈdɪdnt ˈænsər/",
+        "chinese": "不（过去）/回答"
+      },
+      {
+        "text": "the phone",
+        "role": "O",
+        "phonetic": "/ðə foʊn/",
+        "chinese": "这个/那个/电话"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他们上个月搬家了吗？",
+    "english": "Did they move last month",
+    "soundmark": "/dɪd ðeɪ muːv læst mʌnθ/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "move",
+        "role": "V",
+        "phonetic": "/muːv/",
+        "chinese": "移动"
+      },
+      {
+        "text": "last month",
+        "role": "A",
+        "phonetic": "/læst mʌnθ/",
+        "chinese": "上个月"
+      }
+    ]
+  },
+  {
+    "chinese": "我小时候喜欢游泳。",
+    "english": "I liked swimming when I was young",
+    "soundmark": "/aɪ laɪkt ˈswɪmɪŋ wen aɪ wʌz jʌŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "liked",
+        "role": "V",
+        "phonetic": "/laɪkt/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "swimming",
+        "role": "O",
+        "phonetic": "/ˈswɪmɪŋ/",
+        "chinese": "游泳的"
+      },
+      {
+        "text": "when I was young",
+        "role": "A",
+        "phonetic": "/wen aɪ wʌz jʌŋ/",
+        "chinese": "什么时候/我/是（过去式）/年轻的"
+      }
+    ]
+  },
+  {
+    "chinese": "他们昨天玩了很长时间。",
+    "english": "They played for a long time yesterday",
+    "soundmark": "/ðeɪ pleɪd fɔːr ə lɔːŋ taɪm ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "played",
+        "role": "V",
+        "phonetic": "/pleɪd/",
+        "chinese": "玩"
+      },
+      {
+        "text": "for a long time",
+        "role": "A",
+        "phonetic": "/fɔːr ə lɔːŋ taɪm/",
+        "chinese": "很长时间"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "她昨天早上六点就起床了。",
+    "english": "She got up at six yesterday morning",
+    "soundmark": "/ʃiː ɡɑːt ʌp æt sɪks ˈjestərdeɪ ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "got up",
+        "role": "V",
+        "phonetic": "/ɡɑːt ʌp/",
+        "chinese": "得到（过去式）/向上"
+      },
+      {
+        "text": "at six",
+        "role": "A",
+        "phonetic": "/æt sɪks/",
+        "chinese": "在/六"
+      },
+      {
+        "text": "yesterday morning",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ ˈmɔːrnɪŋ/",
+        "chinese": "昨天早上"
+      }
+    ]
+  },
+  {
+    "chinese": "你昨天什么时候回家的？",
+    "english": "When did you go home yesterday",
+    "soundmark": "/wen dɪd juː ɡoʊ hoʊm ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他昨天在公园里待了一整天。",
+    "english": "He stayed in the park all day yesterday",
+    "soundmark": "/hiː steɪd ɪn ðə pɑːrk ɔːl deɪ ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "stayed",
+        "role": "V",
+        "phonetic": "/steɪd/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "in the park",
+        "role": "A",
+        "phonetic": "/ɪn ðə pɑːrk/",
+        "chinese": "在公园里"
+      },
+      {
+        "text": "all day",
+        "role": "A",
+        "phonetic": "/ɔːl deɪ/",
+        "chinese": "整天"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨晚看了一部很无聊的电影。",
+    "english": "I watched a very boring movie last night",
+    "soundmark": "/aɪ wɑːtʃt ə ˈveri ˈbɔːrɪŋ ˈmuːvi læst naɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "watched",
+        "role": "V",
+        "phonetic": "/wɑːtʃt/",
+        "chinese": "观看"
+      },
+      {
+        "text": "a very boring movie",
+        "role": "O",
+        "phonetic": "/ə ˈveri ˈbɔːrɪŋ ˈmuːvi/",
+        "chinese": "一个/非常/无聊的/电影"
+      },
+      {
+        "text": "last night",
+        "role": "A",
+        "phonetic": "/læst naɪt/",
+        "chinese": "昨晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他昨天没来上课。",
+    "english": "He didn't come to class yesterday",
+    "soundmark": "/hiː ˈdɪdnt kʌm tuː klæs ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "didn't come",
+        "role": "V",
+        "phonetic": "/ˈdɪdnt kʌm/",
+        "chinese": "没来"
+      },
+      {
+        "text": "to class",
+        "role": "A",
+        "phonetic": "/tuː klæs/",
+        "chinese": "去上课"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "你们上周末做了什么？",
+    "english": "What did you do last weekend",
+    "soundmark": "/wʌt dɪd juː duː læst ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "last weekend",
+        "role": "A",
+        "phonetic": "/læst ˈwiːkend/",
+        "chinese": "最后/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "我们去年去了海边。",
+    "english": "We traveled to the beach last year",
+    "soundmark": "/wiː ˈtrævld tuː ðə biːtʃ læst jɪr/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "traveled",
+        "role": "V",
+        "phonetic": "/ˈtrævld/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "to the beach",
+        "role": "A",
+        "phonetic": "/tuː ðə biːtʃ/",
+        "chinese": "到/向/这个/那个/海滩"
+      },
+      {
+        "text": "last year",
+        "role": "A",
+        "phonetic": "/læst jɪr/",
+        "chinese": "去年"
+      }
+    ]
+  },
+  {
+    "chinese": "她昨天没做作业。",
+    "english": "She didn't do her homework yesterday",
+    "soundmark": "/ʃiː ˈdɪdnt duː hɜːr ˈhoʊmwɜːrk ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "didn't do",
+        "role": "V",
+        "phonetic": "/ˈdɪdnt duː/",
+        "chinese": "不（过去）/做/助动词"
+      },
+      {
+        "text": "her homework",
+        "role": "O",
+        "phonetic": "/hɜːr ˈhoʊmwɜːrk/",
+        "chinese": "她/她的/家庭作业"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他们前天参观了博物馆。",
+    "english": "They visited the museum the day before yesterday",
+    "soundmark": "/ðeɪ ˈvɪzɪtɪd ðə mjuˈziːəm ðə deɪ bɪˈfɔːr ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "visited",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪtɪd/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "the museum",
+        "role": "O",
+        "phonetic": "/ðə mjuˈziːəm/",
+        "chinese": "这个/那个/博物馆"
+      },
+      {
+        "text": "the day before yesterday",
+        "role": "A",
+        "phonetic": "/ðə deɪ bɪˈfɔːr ˈjestərdeɪ/",
+        "chinese": "这个/那个/天/日/在…之前/昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "左(过去式)",
+    "english": "left",
+    "soundmark": "/left/"
+  },
+  {
+    "chinese": "居住(过去式)",
+    "english": "lived",
+    "soundmark": "/lɪvd/"
+  },
+  {
+    "chinese": "打扫(过去式)",
+    "english": "cleaned",
+    "soundmark": "/kliːnd/"
+  },
+  {
+    "chinese": "拜访(过去式)",
+    "english": "visited",
+    "soundmark": "/ˈvɪzɪtɪd/"
+  },
+  {
+    "chinese": "回答(过去式)",
+    "english": "answered",
+    "soundmark": "/ˈænsərd/"
+  },
+  {
+    "chinese": "搬家(过去式)",
+    "english": "moved",
+    "soundmark": "/muːvd/"
+  },
+  {
+    "chinese": "停留(过去式)",
+    "english": "stayed",
+    "soundmark": "/steɪd/"
+  },
+  {
+    "chinese": "旅行(过去式)",
+    "english": "traveled",
+    "soundmark": "/ˈtrævld/"
+  }
+]

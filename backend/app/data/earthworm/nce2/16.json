@@ -1,0 +1,597 @@
+[
+  {
+    "chinese": "泊车",
+    "english": "park",
+    "soundmark": "/pɑːrk/"
+  },
+  {
+    "chinese": "交通",
+    "english": "traffic",
+    "soundmark": "/ˈtræfɪk/"
+  },
+  {
+    "chinese": "罚单",
+    "english": "ticket",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "chinese": "区域",
+    "english": "area",
+    "soundmark": "/ˈeriə/"
+  },
+  {
+    "chinese": "标志",
+    "english": "sign",
+    "soundmark": "/saɪn/"
+  },
+  {
+    "chinese": "提醒",
+    "english": "reminder",
+    "soundmark": "/rɪˈmaɪndər/"
+  },
+  {
+    "chinese": "交警",
+    "english": "traffic policeman",
+    "soundmark": "/ˈtræfɪk/ /pəˈliːsmən/"
+  },
+  {
+    "chinese": "遵守",
+    "english": "obey",
+    "soundmark": "/oʊˈbeɪ/"
+  },
+  {
+    "chinese": "如果你把车停错了地方交警会很快发现的",
+    "english": "If you park your car in the wrong place a traffic policeman will soon find it",
+    "soundmark": "/ɪf/ /juː/ /pɑːrk/ /jɔːr/ /kɑːr/ /ɪn/ /ðə/ /rɔːŋ/ /pleɪs/ /ə/ /ˈtræfɪk/ /pəˈliːsmən/ /wɪl/ /suːn/ /faɪnd/ /ɪt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "park",
+        "role": "V",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wrong",
+        "role": "A",
+        "phonetic": "/rɔːŋ/",
+        "chinese": "错的"
+      },
+      {
+        "text": "place",
+        "role": "O",
+        "phonetic": "/pleɪs/",
+        "chinese": "地方"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "traffic",
+        "role": "A",
+        "phonetic": "/ˈtræfɪk/",
+        "chinese": "交通"
+      },
+      {
+        "text": "policeman",
+        "role": "S",
+        "phonetic": "/pəˈliːsmən/",
+        "chinese": "警察"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "soon",
+        "role": "Adv",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "你很少会收到这样的提醒",
+    "english": "You will rarely receive such a reminder",
+    "soundmark": "/juː/ /wɪl/ /ˈrerli/ /rɪˈsiːv/ /sʌtʃ/ /ə/ /rɪˈmaɪndər/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "rarely",
+        "role": "Adv",
+        "phonetic": "/ˈrerli/",
+        "chinese": "很少"
+      },
+      {
+        "text": "receive",
+        "role": "V",
+        "phonetic": "/rɪˈsiːv/",
+        "chinese": "接收"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "reminder",
+        "role": "O",
+        "phonetic": "/rɪˈmaɪndər/",
+        "chinese": "更…的/…者(提醒)"
+      }
+    ]
+  },
+  {
+    "chinese": "如果你收到罚单你就得交罚款",
+    "english": "If you receive a ticket you will have to pay a fine",
+    "soundmark": "/ɪf/ /juː/ /rɪˈsiːv/ /ə/ /ˈtɪkɪt/ /juː/ /wɪl/ /hæv/ /tuː/ /peɪ/ /ə/ /faɪn/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "receive",
+        "role": "V",
+        "phonetic": "/rɪˈsiːv/",
+        "chinese": "接收"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "ticket",
+        "role": "O",
+        "phonetic": "/ˈtɪkɪt/",
+        "chinese": "票"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "pay",
+        "role": "V",
+        "phonetic": "/peɪ/",
+        "chinese": "付钱"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fine",
+        "role": "O",
+        "phonetic": "/faɪn/",
+        "chinese": "好的/晴朗的"
+      }
+    ]
+  },
+  {
+    "chinese": "在这一区域禁止停车",
+    "english": "You are not allowed to park in this area",
+    "soundmark": "/juː/ /ɑːr/ /nɑːt/ /əˈlaʊd/ /tuː/ /pɑːrk/ /ɪn/ /ðɪs/ /ˈeriə/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "allowed",
+        "role": "V",
+        "phonetic": "/əˈlaʊd/",
+        "chinese": "允许"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "park",
+        "role": "V",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "area",
+        "role": "O",
+        "phonetic": "/ˈeriə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你应该遵守交通规则",
+    "english": "You should obey the traffic rules",
+    "soundmark": "/juː/ /ʃʊd/ /oʊˈbeɪ/ /ðə/ /ˈtræfɪk/ /ruːlz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "obey",
+        "role": "V",
+        "phonetic": "/oʊˈbeɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "traffic",
+        "role": "A",
+        "phonetic": "/ˈtræfɪk/",
+        "chinese": "交通"
+      },
+      {
+        "text": "rules",
+        "role": "O",
+        "phonetic": "/ruːlz/",
+        "chinese": "规则/统治"
+      }
+    ]
+  },
+  {
+    "chinese": "如果他来了我就告诉你",
+    "english": "If he comes I will tell you",
+    "soundmark": "/ɪf/ /hiː/ /kʌmz/ /aɪ/ /wɪl/ /tel/ /juː/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "comes",
+        "role": "V",
+        "phonetic": "/kʌmz/",
+        "chinese": "来"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "如果你不快点就会迟到",
+    "english": "If you do not hurry you will be late",
+    "soundmark": "/ɪf/ /juː/ /duː/ /nɑːt/ /ˈhɜːri/ /juː/ /wɪl/ /biː/ /leɪt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "hurry",
+        "role": "V",
+        "phonetic": "/ˈhɜːri/",
+        "chinese": ""
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "警察",
+    "english": "policeman",
+    "soundmark": "/pəˈliːsmən/"
+  },
+  {
+    "chinese": "罚款",
+    "english": "fine",
+    "soundmark": "/faɪn/"
+  },
+  {
+    "chinese": "规则",
+    "english": "rule",
+    "soundmark": "/ruːl/"
+  },
+  {
+    "chinese": "遵守",
+    "english": "obey",
+    "soundmark": "/oʊˈbeɪ/"
+  },
+  {
+    "chinese": "停车",
+    "english": "parking",
+    "soundmark": "/ˈpɑːrkɪŋ/"
+  },
+  {
+    "chinese": "区域",
+    "english": "area",
+    "soundmark": "/ˈeriə/"
+  },
+  {
+    "chinese": "标志",
+    "english": "sign",
+    "soundmark": "/saɪn/"
+  },
+  {
+    "chinese": "提醒",
+    "english": "reminder",
+    "soundmark": "/rɪˈmaɪndər/"
+  },
+  {
+    "chinese": "很少",
+    "english": "rarely",
+    "soundmark": "/ˈrerli/"
+  },
+  {
+    "chinese": "找到",
+    "english": "find",
+    "soundmark": "/faɪnd/"
+  },
+  {
+    "chinese": "支付",
+    "english": "pay",
+    "soundmark": "/peɪ/"
+  },
+  {
+    "chinese": "错误",
+    "english": "wrong",
+    "soundmark": "/rɔːŋ/"
+  },
+  {
+    "chinese": "地方",
+    "english": "place",
+    "soundmark": "/pleɪs/"
+  },
+  {
+    "chinese": "交通灯",
+    "english": "traffic light",
+    "soundmark": "/ˈtræfɪk/ /laɪt/"
+  },
+  {
+    "chinese": "如果",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "chinese": "将会",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "chinese": "应该",
+    "english": "should",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "chinese": "快速",
+    "english": "hurry",
+    "soundmark": "/ˈhɜːri/"
+  },
+  {
+    "chinese": "迟到",
+    "english": "late",
+    "soundmark": "/leɪt/"
+  },
+  {
+    "chinese": "允许",
+    "english": "allow",
+    "soundmark": "/əˈlaʊ/"
+  },
+  {
+    "chinese": "礼貌的",
+    "english": "polite",
+    "soundmark": "/pəˈlaɪt/"
+  },
+  {
+    "chinese": "请求",
+    "english": "request",
+    "soundmark": "/rɪˈkwest/"
+  }
+]

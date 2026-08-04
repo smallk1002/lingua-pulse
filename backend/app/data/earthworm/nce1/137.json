@@ -1,0 +1,194 @@
+[
+  {
+    "english": "dream",
+    "chinese": "梦",
+    "soundmark": "/driːm/"
+  },
+  {
+    "english": "pleasant",
+    "chinese": "愉快的",
+    "soundmark": "/ˈplezənt/"
+  },
+  {
+    "chinese": "一个美梦",
+    "english": "A pleasant dream",
+    "soundmark": "/ə ˈplezənt driːm/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pleasant",
+        "role": "Det",
+        "phonetic": "/ˈplezənt/",
+        "chinese": "愉快的"
+      },
+      {
+        "text": "dream",
+        "role": "S",
+        "phonetic": "/driːm/",
+        "chinese": "梦/梦想"
+      }
+    ]
+  },
+  {
+    "chinese": "我做了一个好梦",
+    "english": "I had a good dream",
+    "soundmark": "/aɪ hæd ə ɡʊd driːm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "Det",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "dream",
+        "role": "O",
+        "phonetic": "/driːm/",
+        "chinese": "梦/梦想"
+      }
+    ]
+  },
+  {
+    "chinese": "梦很愉快",
+    "english": "The dream was pleasant",
+    "soundmark": "/ðə driːm wʌz ˈplezənt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dream",
+        "role": "S",
+        "phonetic": "/driːm/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "pleasant",
+        "role": "C",
+        "phonetic": "/ˈplezənt/",
+        "chinese": "愉快的"
+      }
+    ]
+  },
+  {
+    "chinese": "我不想醒来",
+    "english": "I didn't want to wake up",
+    "soundmark": "/aɪ ˈdɪdənt wɑːnt tə weɪk ʌp/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "didn't",
+        "role": "V",
+        "phonetic": "/ˈdɪdənt/",
+        "chinese": "不（过去）"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "wake",
+        "role": "V",
+        "phonetic": "/weɪk/",
+        "chinese": "醒来"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      }
+    ]
+  },
+  {
+    "chinese": "睡得很好",
+    "english": "I slept very well",
+    "soundmark": "/aɪ slept ˈveri wel/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "slept",
+        "role": "V",
+        "phonetic": "/slept/",
+        "chinese": ""
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "well",
+        "role": "A",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      }
+    ]
+  },
+  {
+    "english": "sleep",
+    "chinese": "睡眠",
+    "soundmark": "/sliːp/"
+  },
+  {
+    "english": "nightmare",
+    "chinese": "噩梦",
+    "soundmark": "/ˈnaɪtmer/"
+  },
+  {
+    "english": "rest",
+    "chinese": "休息",
+    "soundmark": "/rest/"
+  }
+]

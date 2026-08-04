@@ -1,0 +1,663 @@
+[
+  {
+    "chinese": "高贵的",
+    "english": "noble",
+    "soundmark": "/ˈnoʊbəl/"
+  },
+  {
+    "chinese": "礼物",
+    "english": "gift",
+    "soundmark": "/ɡɪft/"
+  },
+  {
+    "chinese": "联合国",
+    "english": "United Nations",
+    "soundmark": "/juːˈnaɪtɪd/ /ˈneɪʃənz/"
+  },
+  {
+    "chinese": "慈善机构",
+    "english": "charity",
+    "soundmark": "/ˈtʃærɪti/"
+  },
+  {
+    "chinese": "慷慨的",
+    "english": "generous",
+    "soundmark": "/ˈdʒenərəs/"
+  },
+  {
+    "chinese": "捐赠",
+    "english": "donate",
+    "soundmark": "/ˈdoʊneɪt/"
+  },
+  {
+    "chinese": "贡献",
+    "english": "contribution",
+    "soundmark": "/ˌkɑːntrɪˈbjuːʃən/"
+  },
+  {
+    "chinese": "和平",
+    "english": "peace",
+    "soundmark": "/piːs/"
+  },
+  {
+    "chinese": "条约",
+    "english": "treaty",
+    "soundmark": "/ˈtriːti/"
+  },
+  {
+    "chinese": "签署",
+    "english": "sign",
+    "soundmark": "/saɪn/"
+  },
+  {
+    "chinese": "总部",
+    "english": "headquarters",
+    "soundmark": "/ˈhedkwɔːrtərz/"
+  },
+  {
+    "chinese": "价值",
+    "english": "value",
+    "soundmark": "/ˈvæljuː/"
+  },
+  {
+    "chinese": "为...作出贡献",
+    "english": "make a contribution to",
+    "soundmark": "/meɪk/ /ə/ /ˌkɑːntrɪˈbjuːʃən/ /tuː/"
+  },
+  {
+    "chinese": "慷慨地捐赠",
+    "english": "generously donate",
+    "soundmark": "/ˈdʒenərəsli/ /ˈdoʊneɪt/"
+  },
+  {
+    "chinese": "诺贝尔和平奖",
+    "english": "Nobel Peace Prize",
+    "soundmark": "/ˈnoʊbəl/ /piːs/ /praɪz/"
+  },
+  {
+    "chinese": "联合国总部设在纽约",
+    "english": "The United Nations headquarters is in New York",
+    "soundmark": "/ðə/ /juːˈnaɪtɪd/ /ˈneɪʃənz/ /ˈhedkwɔːrtərz/ /ɪz/ /ɪn/ /njuː/ /jɔːrk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "United",
+        "role": "A",
+        "phonetic": "/juːˈnaɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "Nations",
+        "role": "A",
+        "phonetic": "/ˈneɪʃənz/",
+        "chinese": ""
+      },
+      {
+        "text": "headquarters",
+        "role": "S",
+        "phonetic": "/ˈhedkwɔːrtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "New",
+        "role": "A",
+        "phonetic": "/njuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "York",
+        "role": "O",
+        "phonetic": "/jɔːrk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这份珍贵的礼物被赠送给了联合国",
+    "english": "This valuable gift was presented to the United Nations",
+    "soundmark": "/ðɪs/ /ˈvæljuəbəl/ /ɡɪft/ /wʌz/ /prɪˈzentɪd/ /tuː/ /ðə/ /juːˈnaɪtɪd/ /ˈneɪʃənz/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "valuable",
+        "role": "A",
+        "phonetic": "/ˈvæljuəbəl/",
+        "chinese": "有价值的"
+      },
+      {
+        "text": "gift",
+        "role": "S",
+        "phonetic": "/ɡɪft/",
+        "chinese": "礼物/天赋"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "presented",
+        "role": "V",
+        "phonetic": "/prɪˈzentɪd/",
+        "chinese": "礼物/现在"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "United",
+        "role": "A",
+        "phonetic": "/juːˈnaɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "Nations",
+        "role": "O",
+        "phonetic": "/ˈneɪʃənz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "和平条约在总部被签署了",
+    "english": "The peace treaty was signed at the headquarters",
+    "soundmark": "/ðə/ /piːs/ /ˈtriːti/ /wʌz/ /saɪnd/ /æt/ /ðə/ /ˈhedkwɔːrtərz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "peace",
+        "role": "A",
+        "phonetic": "/piːs/",
+        "chinese": "和平"
+      },
+      {
+        "text": "treaty",
+        "role": "S",
+        "phonetic": "/ˈtriːti/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "signed",
+        "role": "V",
+        "phonetic": "/saɪnd/",
+        "chinese": "签名"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "headquarters",
+        "role": "O",
+        "phonetic": "/ˈhedkwɔːrtərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他慷慨地向慈善机构捐了一大笔钱",
+    "english": "He generously donated a large sum to the charity",
+    "soundmark": "/hiː/ /ˈdʒenərəsli/ /ˈdoʊneɪtɪd/ /ə/ /lɑːrdʒ/ /sʌm/ /tuː/ /ðə/ /ˈtʃærɪti/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "generously",
+        "role": "Adv",
+        "phonetic": "/ˈdʒenərəsli/",
+        "chinese": "…地(慷慨的)"
+      },
+      {
+        "text": "donated",
+        "role": "V",
+        "phonetic": "/ˈdoʊneɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "large",
+        "role": "A",
+        "phonetic": "/lɑːrdʒ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "sum",
+        "role": "O",
+        "phonetic": "/sʌm/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "charity",
+        "role": "O",
+        "phonetic": "/ˈtʃærɪti/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这块土地是作为礼物赠送的",
+    "english": "The land was given as a gift",
+    "soundmark": "/ðə/ /lænd/ /wʌz/ /ˈɡɪvən/ /æz/ /ə/ /ɡɪft/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "land",
+        "role": "S",
+        "phonetic": "/lænd/",
+        "chinese": "着陆/土地"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "given",
+        "role": "V",
+        "phonetic": "/ˈɡɪvən/",
+        "chinese": "给定的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "gift",
+        "role": "C",
+        "phonetic": "/ɡɪft/",
+        "chinese": "礼物/天赋"
+      }
+    ]
+  },
+  {
+    "chinese": "他的贡献对世界和平很重要",
+    "english": "His contribution is important to world peace",
+    "soundmark": "/hɪz/ /ˌkɑːntrɪˈbjuːʃən/ /ɪz/ /ɪmˈpɔːrtənt/ /tuː/ /wɜːrld/ /piːs/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "contribution",
+        "role": "S",
+        "phonetic": "/ˌkɑːntrɪˈbjuːʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "important",
+        "role": "C",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "world",
+        "role": "A",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "peace",
+        "role": "O",
+        "phonetic": "/piːs/",
+        "chinese": "和平"
+      }
+    ]
+  },
+  {
+    "chinese": "各国代表被邀请参加了会议",
+    "english": "Representatives from many countries were invited to the meeting",
+    "soundmark": "/ˌreprɪˈzentətɪvz/ /frɑːm/ /ˈmeni/ /ˈkʌntriz/ /wɜːr/ /ɪnˈvaɪtɪd/ /tuː/ /ðə/ /ˈmiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "Representatives",
+        "role": "S",
+        "phonetic": "/ˌreprɪˈzentətɪvz/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɑːm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "countries",
+        "role": "O",
+        "phonetic": "/ˈkʌntriz/",
+        "chinese": "国家"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "invited",
+        "role": "V",
+        "phonetic": "/ɪnˈvaɪtɪd/",
+        "chinese": "邀请"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meeting",
+        "role": "O",
+        "phonetic": "/ˈmiːtɪŋ/",
+        "chinese": "会议的/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "这个高贵的行为受到了全世界的赞扬",
+    "english": "This noble act was praised all over the world",
+    "soundmark": "/ðɪs/ /ˈnoʊbəl/ /ækt/ /wʌz/ /preɪzd/ /ɔːl/ /ˈoʊvər/ /ðə/ /wɜːrld/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "noble",
+        "role": "A",
+        "phonetic": "/ˈnoʊbəl/",
+        "chinese": ""
+      },
+      {
+        "text": "act",
+        "role": "S",
+        "phonetic": "/ækt/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "praised",
+        "role": "V",
+        "phonetic": "/preɪzd/",
+        "chinese": ""
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "O",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      }
+    ]
+  },
+  {
+    "chinese": "大会正在讨论一个重要议题",
+    "english": "The assembly was discussing an important issue",
+    "soundmark": "/ði/ /əˈsembli/ /wʌz/ /dɪˈskʌsɪŋ/ /ən/ /ɪmˈpɔːrtənt/ /ˈɪʃuː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "assembly",
+        "role": "S",
+        "phonetic": "/əˈsembli/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "discussing",
+        "role": "V",
+        "phonetic": "/dɪˈskʌsɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "important",
+        "role": "A",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "issue",
+        "role": "O",
+        "phonetic": "/ˈɪʃuː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "和平的价值是无法衡量的",
+    "english": "The value of peace cannot be measured",
+    "soundmark": "/ðə/ /ˈvæljuː/ /ʌv/ /piːs/ /ˈkænɑːt/ /biː/ /ˈmeʒərd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "value",
+        "role": "S",
+        "phonetic": "/ˈvæljuː/",
+        "chinese": "价值"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "peace",
+        "role": "O",
+        "phonetic": "/piːs/",
+        "chinese": "和平"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "measured",
+        "role": "C",
+        "phonetic": "/ˈmeʒərd/",
+        "chinese": "测量"
+      }
+    ]
+  },
+  {
+    "chinese": "决心",
+    "english": "determination",
+    "soundmark": "/dɪˌtɜːrmɪˈneɪʃən/"
+  },
+  {
+    "chinese": "惩罚",
+    "english": "punishment",
+    "soundmark": "/ˈpʌnɪʃmənt/"
+  },
+  {
+    "chinese": "警告",
+    "english": "warn",
+    "soundmark": "/wɔːrn/"
+  },
+  {
+    "chinese": "障碍",
+    "english": "obstacle",
+    "soundmark": "/ˈɑːbstəkəl/"
+  },
+  {
+    "chinese": "坚持",
+    "english": "insist",
+    "soundmark": "/ɪnˈsɪst/"
+  },
+  {
+    "chinese": "克服",
+    "english": "overcome",
+    "soundmark": "/ˌoʊvərˈkʌm/"
+  }
+]

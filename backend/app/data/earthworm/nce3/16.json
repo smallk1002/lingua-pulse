@@ -1,0 +1,621 @@
+[
+  {
+    "chinese": "小羊羔",
+    "english": "lamb",
+    "soundmark": "/læm/"
+  },
+  {
+    "chinese": "宠物",
+    "english": "pet",
+    "soundmark": "/pet/"
+  },
+  {
+    "chinese": "农场",
+    "english": "farm",
+    "soundmark": "/fɑːrm/"
+  },
+  {
+    "chinese": "跟随",
+    "english": "follow",
+    "soundmark": "/ˈfɑːloʊ/"
+  },
+  {
+    "chinese": "学校",
+    "english": "school",
+    "soundmark": "/skuːl/"
+  },
+  {
+    "chinese": "栅栏",
+    "english": "fence",
+    "soundmark": "/fens/"
+  },
+  {
+    "chinese": "拴住",
+    "english": "tie",
+    "soundmark": "/taɪ/"
+  },
+  {
+    "chinese": "丢失",
+    "english": "lost",
+    "soundmark": "/lɔːst/"
+  },
+  {
+    "chinese": "引路",
+    "english": "lead",
+    "soundmark": "/liːd/"
+  },
+  {
+    "chinese": "小羊羔",
+    "english": "little lamb",
+    "soundmark": "/ˈlɪtəl/ /læm/"
+  },
+  {
+    "chinese": "跟着她去学校",
+    "english": "follow her to school",
+    "soundmark": "/ˈfɑːloʊ/ /hɜːr/ /tuː/ /skuːl/"
+  },
+  {
+    "chinese": "拴在栅栏上",
+    "english": "tie to a fence",
+    "soundmark": "/taɪ/ /tuː/ /ə/ /fens/"
+  },
+  {
+    "chinese": "玛丽有一只小羊羔",
+    "english": "Mary had a little lamb",
+    "soundmark": "/ˈmeri/ /hæd/ /ə/ /ˈlɪtəl/ /læm/",
+    "grammar": [
+      {
+        "text": "Mary",
+        "role": "S",
+        "phonetic": "/ˈmeri/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "little",
+        "role": "A",
+        "phonetic": "/ˈlɪtəl/",
+        "chinese": "小的/少的"
+      },
+      {
+        "text": "lamb",
+        "role": "O",
+        "phonetic": "/læm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "它每天跟着她去学校",
+    "english": "It followed her to school every day",
+    "soundmark": "/ɪt/ /ˈfɑːloʊd/ /hɜːr/ /tuː/ /skuːl/ /ˈevri/ /deɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "followed",
+        "role": "V",
+        "phonetic": "/ˈfɑːloʊd/",
+        "chinese": "跟随"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "school",
+        "role": "A",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "她过去常把它拴在栅栏上",
+    "english": "She used to tie it to the fence",
+    "soundmark": "/ʃiː/ /juːzd/ /tuː/ /taɪ/ /ɪt/ /tuː/ /ðə/ /fens/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "used",
+        "role": "Aux",
+        "phonetic": "/juːzd/",
+        "chinese": "用过的/二手的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "tie",
+        "role": "V",
+        "phonetic": "/taɪ/",
+        "chinese": "系/领带"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fence",
+        "role": "A",
+        "phonetic": "/fens/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她没有把羊羔拴紧",
+    "english": "She had not tied the lamb tightly",
+    "soundmark": "/ʃiː/ /hæd/ /nɑːt/ /taɪd/ /ðə/ /læm/ /ˈtaɪtli/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "tied",
+        "role": "V",
+        "phonetic": "/taɪd/",
+        "chinese": "系/领带"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "lamb",
+        "role": "O",
+        "phonetic": "/læm/",
+        "chinese": ""
+      },
+      {
+        "text": "tightly",
+        "role": "Adv",
+        "phonetic": "/ˈtaɪtli/",
+        "chinese": "…地(紧的)"
+      }
+    ]
+  },
+  {
+    "chinese": "小羊羔已经挣脱了绳子",
+    "english": "The lamb had broken loose from the rope",
+    "soundmark": "/ðə/ /læm/ /hæd/ /ˈbroʊkən/ /luːs/ /frʌm/ /ðə/ /roʊp/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "lamb",
+        "role": "S",
+        "phonetic": "/læm/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "broken",
+        "role": "V",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      },
+      {
+        "text": "loose",
+        "role": "C",
+        "phonetic": "/luːs/",
+        "chinese": "松的"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rope",
+        "role": "O",
+        "phonetic": "/roʊp/",
+        "chinese": "绳子"
+      }
+    ]
+  },
+  {
+    "chinese": "它之前有没有跑丢过",
+    "english": "Had it ever run away before",
+    "soundmark": "/hæd/ /ɪt/ /ˈevər/ /rʌn/ /əˈweɪ/ /bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "Had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "away",
+        "role": "Adv",
+        "phonetic": "/əˈweɪ/",
+        "chinese": "离开/远"
+      },
+      {
+        "text": "before",
+        "role": "Adv",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "当玛丽回到学校时她发现羊羔在她的课桌旁",
+    "english": "When Mary returned to school she found the lamb beside her desk",
+    "soundmark": "/wen/ /ˈmeri/ /rɪˈtɜːrnd/ /tuː/ /skuːl/ /ʃiː/ /faʊnd/ /ðə/ /læm/ /bɪˈsaɪd/ /hɜːr/ /desk/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "Mary",
+        "role": "S",
+        "phonetic": "/ˈmeri/",
+        "chinese": ""
+      },
+      {
+        "text": "returned",
+        "role": "V",
+        "phonetic": "/rɪˈtɜːrnd/",
+        "chinese": "返回"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "school",
+        "role": "A",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "lamb",
+        "role": "O",
+        "phonetic": "/læm/",
+        "chinese": ""
+      },
+      {
+        "text": "beside",
+        "role": "P",
+        "phonetic": "/bɪˈsaɪd/",
+        "chinese": "在…旁边"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "desk",
+        "role": "A",
+        "phonetic": "/desk/",
+        "chinese": "书桌"
+      }
+    ]
+  },
+  {
+    "chinese": "在玛丽拴住它之前它已经走丢了",
+    "english": "It had already got lost before Mary tied it up",
+    "soundmark": "/ɪt/ /hæd/ /ɔːlˈredi/ /ɡɑːt/ /lɔːst/ /bɪˈfɔːr/ /ˈmeri/ /taɪd/ /ɪt/ /ʌp/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "got",
+        "role": "Lv",
+        "phonetic": "/ɡɑːt/",
+        "chinese": "得到（过去式）"
+      },
+      {
+        "text": "lost",
+        "role": "C",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "Mary",
+        "role": "S",
+        "phonetic": "/ˈmeri/",
+        "chinese": ""
+      },
+      {
+        "text": "tied",
+        "role": "V",
+        "phonetic": "/taɪd/",
+        "chinese": "系/领带"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      }
+    ]
+  },
+  {
+    "chinese": "羊羔",
+    "english": "lamb",
+    "soundmark": "/læm/"
+  },
+  {
+    "chinese": "绳子",
+    "english": "rope",
+    "soundmark": "/roʊp/"
+  },
+  {
+    "chinese": "紧的",
+    "english": "tight",
+    "soundmark": "/taɪt/"
+  },
+  {
+    "chinese": "挣脱",
+    "english": "break loose",
+    "soundmark": "/breɪk/ /luːs/"
+  },
+  {
+    "chinese": "课桌",
+    "english": "desk",
+    "soundmark": "/desk/"
+  },
+  {
+    "chinese": "返回",
+    "english": "return",
+    "soundmark": "/rɪˈtɜːrn/"
+  },
+  {
+    "chinese": "旁边",
+    "english": "beside",
+    "soundmark": "/bɪˈsaɪd/"
+  },
+  {
+    "chinese": "逃跑",
+    "english": "run away",
+    "soundmark": "/rʌn/ /əˈweɪ/"
+  },
+  {
+    "chinese": "老师非常惊讶地看到羊羔安静地坐在玛丽的课桌旁",
+    "english": "The teacher was astonished to see the lamb sitting quietly beside Mary's desk",
+    "soundmark": "/ðə/ /ˈtiːtʃər/ /wʌz/ /əˈstɑːnɪʃt/ /tuː/ /siː/ /ðə/ /læm/ /ˈsɪtɪŋ/ /ˈkwaɪətli/ /bɪˈsaɪd/ /ˈmeriz/ /desk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "teacher",
+        "role": "S",
+        "phonetic": "/ˈtiːtʃər/",
+        "chinese": "老师"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "astonished",
+        "role": "C",
+        "phonetic": "/əˈstɑːnɪʃt/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "lamb",
+        "role": "O",
+        "phonetic": "/læm/",
+        "chinese": ""
+      },
+      {
+        "text": "sitting",
+        "role": "V",
+        "phonetic": "/ˈsɪtɪŋ/",
+        "chinese": "坐着的"
+      },
+      {
+        "text": "quietly",
+        "role": "Adv",
+        "phonetic": "/ˈkwaɪətli/",
+        "chinese": "…地(安静的)"
+      },
+      {
+        "text": "beside",
+        "role": "P",
+        "phonetic": "/bɪˈsaɪd/",
+        "chinese": "在…旁边"
+      },
+      {
+        "text": "Mary's",
+        "role": "Det",
+        "phonetic": "/ˈmeriz/",
+        "chinese": ""
+      },
+      {
+        "text": "desk",
+        "role": "A",
+        "phonetic": "/desk/",
+        "chinese": "书桌"
+      }
+    ]
+  }
+]

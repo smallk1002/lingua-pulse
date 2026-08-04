@@ -1,0 +1,391 @@
+[
+  {
+    "chinese": "危险的(dangerous)",
+    "english": "dangerous",
+    "soundmark": "/ˈdeɪndʒərəs/"
+  },
+  {
+    "chinese": "红色的(red)",
+    "english": "red",
+    "soundmark": "/red/"
+  },
+  {
+    "chinese": "斗牛(bullfight)",
+    "english": "bullfight",
+    "soundmark": "/ˈbʊlfaɪt/"
+  },
+  {
+    "chinese": "公牛(bull)",
+    "english": "bull",
+    "soundmark": "/bʊl/"
+  },
+  {
+    "chinese": "斗牛士(bullfighter)",
+    "english": "bullfighter",
+    "soundmark": "/ˈbʊlfaɪtər/"
+  },
+  {
+    "chinese": "披风(cape)",
+    "english": "cape",
+    "soundmark": "/keɪp/"
+  },
+  {
+    "chinese": "为……感到自豪",
+    "english": "proud of",
+    "soundmark": "/praʊd əv/"
+  },
+  {
+    "chinese": "对……感兴趣",
+    "english": "interested in",
+    "soundmark": "/ˈɪntrəstɪd ɪn/"
+  },
+  {
+    "chinese": "害怕……",
+    "english": "afraid of",
+    "soundmark": "/əˈfreɪd əv/"
+  },
+  {
+    "chinese": "擅长……",
+    "english": "good at",
+    "soundmark": "/ɡʊd æt/"
+  },
+  {
+    "chinese": "对……感到惊讶",
+    "english": "surprised at",
+    "soundmark": "/sərˈpraɪzd æt/"
+  },
+  {
+    "chinese": "对……感到满意",
+    "english": "satisfied with",
+    "soundmark": "/ˈsætɪsfaɪd wɪð/"
+  },
+  {
+    "chinese": "对……感到厌烦",
+    "english": "bored with",
+    "soundmark": "/bɔːrd wɪð/"
+  },
+  {
+    "chinese": "忙于……",
+    "english": "busy with",
+    "soundmark": "/ˈbɪzi wɪð/"
+  },
+  {
+    "chinese": "他为他儿子感到自豪",
+    "english": "He is proud of his son",
+    "soundmark": "/hiː ɪz praʊd əv hɪz sʌn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "proud",
+        "role": "C",
+        "phonetic": "/praʊd/",
+        "chinese": "骄傲的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "son",
+        "role": "A",
+        "phonetic": "/sʌn/",
+        "chinese": "儿子"
+      }
+    ]
+  },
+  {
+    "chinese": "她对这个故事很感兴趣",
+    "english": "She is interested in the story",
+    "soundmark": "/ʃiː ɪz ˈɪntrəstɪd ɪn ðə ˈstɔːri/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "interested",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪd/",
+        "chinese": "感兴趣的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "story",
+        "role": "A",
+        "phonetic": "/ˈstɔːri/",
+        "chinese": "故事"
+      }
+    ]
+  },
+  {
+    "chinese": "我害怕蛇",
+    "english": "I am afraid of snakes",
+    "soundmark": "/aɪ æm əˈfreɪd əv sneɪks/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "afraid",
+        "role": "C",
+        "phonetic": "/əˈfreɪd/",
+        "chinese": "害怕的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "snakes",
+        "role": "A",
+        "phonetic": "/sneɪks/",
+        "chinese": "…们/复数(蛇)"
+      }
+    ]
+  },
+  {
+    "chinese": "汤姆擅长数学",
+    "english": "Tom is good at math",
+    "soundmark": "/tɒm ɪz ɡʊd æt mæθ/",
+    "grammar": [
+      {
+        "text": "Tom",
+        "role": "S",
+        "phonetic": "/tɒm/",
+        "chinese": "汤姆"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "math",
+        "role": "A",
+        "phonetic": "/mæθ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们对结果很满意",
+    "english": "We are satisfied with the result",
+    "soundmark": "/wiː ɑːr ˈsætɪsfaɪd wɪð ðə rɪˈzʌlt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "satisfied",
+        "role": "C",
+        "phonetic": "/ˈsætɪsfaɪd/",
+        "chinese": "满意的"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "result",
+        "role": "A",
+        "phonetic": "/rɪˈzʌlt/",
+        "chinese": "结果"
+      }
+    ]
+  },
+  {
+    "chinese": "他对这个消息感到惊讶",
+    "english": "He was surprised at the news",
+    "soundmark": "/hiː wʌz sərˈpraɪzd æt ðə njuːz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "surprised",
+        "role": "C",
+        "phonetic": "/sərˈpraɪzd/",
+        "chinese": "惊讶的"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "news",
+        "role": "A",
+        "phonetic": "/njuːz/",
+        "chinese": "新闻"
+      }
+    ]
+  },
+  {
+    "chinese": "我对这个游戏感到厌烦了",
+    "english": "I am bored with this game",
+    "soundmark": "/aɪ æm bɔːrd wɪð ðɪs ɡeɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "bored",
+        "role": "C",
+        "phonetic": "/bɔːrd/",
+        "chinese": "无聊的"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "game",
+        "role": "A",
+        "phonetic": "/ɡeɪm/",
+        "chinese": "游戏/比赛"
+      }
+    ]
+  },
+  {
+    "chinese": "危险的(dangerous)",
+    "english": "dangerous",
+    "soundmark": "/ˈdeɪndʒərəs/"
+  },
+  {
+    "chinese": "自豪的(proud)",
+    "english": "proud",
+    "soundmark": "/praʊd/"
+  },
+  {
+    "chinese": "感兴趣的(interested)",
+    "english": "interested",
+    "soundmark": "/ˈɪntrəstɪd/"
+  },
+  {
+    "chinese": "害怕的(afraid)",
+    "english": "afraid",
+    "soundmark": "/əˈfreɪd/"
+  },
+  {
+    "chinese": "擅长的(good at)",
+    "english": "good at",
+    "soundmark": "/ɡʊd æt/"
+  },
+  {
+    "chinese": "满意的(satisfied with)",
+    "english": "satisfied with",
+    "soundmark": "/ˈsætɪsfaɪd wɪð/"
+  }
+]

@@ -1,0 +1,1076 @@
+[
+  {
+    "chinese": "明天",
+    "english": "tomorrow",
+    "soundmark": "/təˈmɑːroʊ/"
+  },
+  {
+    "chinese": "下周",
+    "english": "next week",
+    "soundmark": "/nekst/ /wiːk/"
+  },
+  {
+    "chinese": "明年",
+    "english": "next year",
+    "soundmark": "/nekst/ /jɪr/"
+  },
+  {
+    "chinese": "今晚",
+    "english": "tonight",
+    "soundmark": "/təˈnaɪt/"
+  },
+  {
+    "chinese": "很快",
+    "english": "soon",
+    "soundmark": "/suːn/"
+  },
+  {
+    "chinese": "以后",
+    "english": "later",
+    "soundmark": "/ˈleɪtər/"
+  },
+  {
+    "chinese": "将来",
+    "english": "future",
+    "soundmark": "/ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "计划",
+    "english": "plan",
+    "soundmark": "/plæn/"
+  },
+  {
+    "chinese": "打算",
+    "english": "intend",
+    "soundmark": "/ɪnˈtend/"
+  },
+  {
+    "chinese": "想要",
+    "english": "want",
+    "soundmark": "/wɑːnt/"
+  },
+  {
+    "chinese": "希望",
+    "english": "hope",
+    "soundmark": "/hoʊp/"
+  },
+  {
+    "chinese": "将要",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "chinese": "将不",
+    "english": "will not",
+    "soundmark": "/wɪl/ /nɑːt/"
+  },
+  {
+    "chinese": "将会",
+    "english": "shall",
+    "soundmark": "/ʃæl/"
+  },
+  {
+    "chinese": "买",
+    "english": "buy",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "chinese": "卖",
+    "english": "sell",
+    "soundmark": "/sel/"
+  },
+  {
+    "chinese": "见面",
+    "english": "meet",
+    "soundmark": "/miːt/"
+  },
+  {
+    "chinese": "到达",
+    "english": "arrive",
+    "soundmark": "/əˈraɪv/"
+  },
+  {
+    "chinese": "离开",
+    "english": "leave",
+    "soundmark": "/liːv/"
+  },
+  {
+    "chinese": "搬到",
+    "english": "move to",
+    "soundmark": "/muːv/ /tuː/"
+  },
+  {
+    "chinese": "我明天要去购物",
+    "english": "I am going to go shopping tomorrow",
+    "soundmark": "/aɪ/ /æm/ /ˈɡoʊɪŋ/ /tuː/ /ɡoʊ/ /ˈʃɑːpɪŋ/ /təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "shopping",
+        "role": "V",
+        "phonetic": "/ˈʃɑːpɪŋ/",
+        "chinese": "商店"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "她打算买一辆新车",
+    "english": "She is going to buy a new car",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈɡoʊɪŋ/ /tuː/ /baɪ/ /ə/ /nuː/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "我们今晚要去看电影",
+    "english": "We are going to see a film tonight",
+    "soundmark": "/wiː/ /ɑːr/ /ˈɡoʊɪŋ/ /tuː/ /siː/ /ə/ /fɪlm/ /təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "film",
+        "role": "O",
+        "phonetic": "/fɪlm/",
+        "chinese": "电影"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他马上要离开",
+    "english": "He is going to leave soon",
+    "soundmark": "/hiː/ /ɪz/ /ˈɡoʊɪŋ/ /tuː/ /liːv/ /suːn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "soon",
+        "role": "A",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      }
+    ]
+  },
+  {
+    "chinese": "他们下周要去伦敦",
+    "english": "They are going to London next week",
+    "soundmark": "/ðeɪ/ /ɑːr/ /ˈɡoʊɪŋ/ /tuː/ /ˈlʌndən/ /nekst/ /wiːk/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "London",
+        "role": "O",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      },
+      {
+        "text": "next",
+        "role": "Det",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "天要下雨了",
+    "english": "It is going to rain",
+    "soundmark": "/ɪt/ /ɪz/ /ˈɡoʊɪŋ/ /tuː/ /reɪn/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "rain",
+        "role": "V",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算做什么",
+    "english": "What are you going to do",
+    "soundmark": "/wʌt/ /ɑːr/ /juː/ /ˈɡoʊɪŋ/ /tuː/ /duː/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "我不打算买那个",
+    "english": "I am not going to buy that",
+    "soundmark": "/aɪ/ /æm/ /nɑːt/ /ˈɡoʊɪŋ/ /tuː/ /baɪ/ /ðæt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      }
+    ]
+  },
+  {
+    "chinese": "她不去参加派对",
+    "english": "She is not going to the party",
+    "soundmark": "/ʃiː/ /ɪz/ /nɑːt/ /ˈɡoʊɪŋ/ /tuː/ /ðə/ /ˈpɑːrti/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "party",
+        "role": "O",
+        "phonetic": "/ˈpɑːrti/",
+        "chinese": "派对"
+      }
+    ]
+  },
+  {
+    "chinese": "你要和我们一起吃晚饭吗",
+    "english": "Are you going to have dinner with us",
+    "soundmark": "/ɑːr/ /juː/ /ˈɡoʊɪŋ/ /tuː/ /hæv/ /ˈdɪnər/ /wɪð/ /ʌs/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "dinner",
+        "role": "O",
+        "phonetic": "/ˈdɪnər/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      }
+    ]
+  },
+  {
+    "chinese": "我打算学做饭但是我今晚没有时间",
+    "english": "I am going to learn to cook but I have no time tonight",
+    "soundmark": "/aɪ/ /æm/ /ˈɡoʊɪŋ/ /tuː/ /lɜːrn/ /tuː/ /kʊk/ /bʌt/ /aɪ/ /hæv/ /noʊ/ /taɪm/ /təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "learn",
+        "role": "V",
+        "phonetic": "/lɜːrn/",
+        "chinese": "学习"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "cook",
+        "role": "V",
+        "phonetic": "/kʊk/",
+        "chinese": "烹饪"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "天要黑了所以我们最好回家",
+    "english": "It is going to get dark so we had better go home",
+    "soundmark": "/ɪt/ /ɪz/ /ˈɡoʊɪŋ/ /tuː/ /ɡet/ /dɑːrk/ /soʊ/ /wiː/ /hæd/ /ˈbetər/ /ɡoʊ/ /hoʊm/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "get",
+        "role": "Lv",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "dark",
+        "role": "C",
+        "phonetic": "/dɑːrk/",
+        "chinese": "黑暗的"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "better",
+        "role": "Adv",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "他打算搬到纽约然后找一份新工作",
+    "english": "He is going to move to New York and find a new job",
+    "soundmark": "/hiː/ /ɪz/ /ˈɡoʊɪŋ/ /tuː/ /muːv/ /tuː/ /nuː/ /jɔːrk/ /ænd/ /faɪnd/ /ə/ /nuː/ /dʒɑːb/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "move",
+        "role": "V",
+        "phonetic": "/muːv/",
+        "chinese": "移动"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "New",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "York",
+        "role": "O",
+        "phonetic": "/jɔːrk/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "job",
+        "role": "O",
+        "phonetic": "/dʒɑːb/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "新的",
+    "english": "new",
+    "soundmark": "/nuː/"
+  },
+  {
+    "chinese": "电影",
+    "english": "film",
+    "soundmark": "/fɪlm/"
+  },
+  {
+    "chinese": "希望",
+    "english": "hope",
+    "soundmark": "/hoʊp/"
+  },
+  {
+    "chinese": "黑暗的",
+    "english": "dark",
+    "soundmark": "/dɑːrk/"
+  },
+  {
+    "chinese": "更好",
+    "english": "better",
+    "soundmark": "/ˈbetər/"
+  },
+  {
+    "chinese": "找到",
+    "english": "find",
+    "soundmark": "/faɪnd/"
+  },
+  {
+    "chinese": "和...一起",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "chinese": "没有",
+    "english": "no",
+    "soundmark": "/noʊ/"
+  },
+  {
+    "chinese": "计划一次旅行",
+    "english": "plan a trip",
+    "soundmark": "/plæn/ /ə/ /trɪp/"
+  },
+  {
+    "chinese": "存钱",
+    "english": "save money",
+    "soundmark": "/seɪv/ /ˈmʌni/"
+  },
+  {
+    "chinese": "我们这周末打算去乡下",
+    "english": "We are going to the countryside this weekend",
+    "soundmark": "/wiː/ /ɑːr/ /ˈɡoʊɪŋ/ /tuː/ /ðə/ /ˈkʌntrisaɪd/ /ðɪs/ /ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "countryside",
+        "role": "O",
+        "phonetic": "/ˈkʌntrisaɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "weekend",
+        "role": "A",
+        "phonetic": "/ˈwiːkend/",
+        "chinese": "周末"
+      }
+    ]
+  },
+  {
+    "chinese": "他打算申请一份更好的工作",
+    "english": "He is going to apply for a better job",
+    "soundmark": "/hiː/ /ɪz/ /ˈɡoʊɪŋ/ /tuː/ /əˈplaɪ/ /fɔːr/ /ə/ /ˈbetər/ /dʒɑːb/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "apply",
+        "role": "V",
+        "phonetic": "/əˈplaɪ/",
+        "chinese": "申请/应用"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "better",
+        "role": "C",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      },
+      {
+        "text": "job",
+        "role": "O",
+        "phonetic": "/dʒɑːb/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "我不久就要见到我的朋友了",
+    "english": "I am going to meet my friend soon",
+    "soundmark": "/aɪ/ /æm/ /ˈɡoʊɪŋ/ /tuː/ /miːt/ /maɪ/ /frend/ /suːn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "friend",
+        "role": "O",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      },
+      {
+        "text": "soon",
+        "role": "A",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      }
+    ]
+  },
+  {
+    "chinese": "乡下",
+    "english": "countryside",
+    "soundmark": "/ˈkʌntrisaɪd/"
+  },
+  {
+    "chinese": "申请",
+    "english": "apply",
+    "soundmark": "/əˈplaɪ/"
+  },
+  {
+    "chinese": "省钱",
+    "english": "save",
+    "soundmark": "/seɪv/"
+  },
+  {
+    "chinese": "钱",
+    "english": "money",
+    "soundmark": "/ˈmʌni/"
+  }
+]

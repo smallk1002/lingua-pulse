@@ -1,0 +1,411 @@
+[
+  {
+    "chinese": "车祸",
+    "english": "car crash",
+    "soundmark": "/kɑːr/ /kræʃ/"
+  },
+  {
+    "chinese": "碰撞",
+    "english": "crash",
+    "soundmark": "/kræʃ/"
+  },
+  {
+    "chinese": "撞",
+    "english": "hit",
+    "soundmark": "/hɪt/"
+  },
+  {
+    "chinese": "受伤",
+    "english": "hurt",
+    "soundmark": "/hɜːt/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɒspɪtl/"
+  },
+  {
+    "chinese": "救护车",
+    "english": "ambulance",
+    "soundmark": "/ˈæmbjələns/"
+  },
+  {
+    "chinese": "警察",
+    "english": "police",
+    "soundmark": "/pəˈliːs/"
+  },
+  {
+    "chinese": "警察",
+    "english": "policeman",
+    "soundmark": "/pəˈliːsmən/"
+  },
+  {
+    "chinese": "受伤",
+    "english": "injured",
+    "soundmark": "/ˈɪndʒəd/"
+  },
+  {
+    "chinese": "血",
+    "english": "blood",
+    "soundmark": "/blʌd/"
+  },
+  {
+    "chinese": "头",
+    "english": "head",
+    "soundmark": "/hed/"
+  },
+  {
+    "chinese": "手臂",
+    "english": "arm",
+    "soundmark": "/ɑːm/"
+  },
+  {
+    "chinese": "腿",
+    "english": "leg",
+    "soundmark": "/leɡ/"
+  },
+  {
+    "chinese": "疼的",
+    "english": "painful",
+    "soundmark": "/ˈpeɪnfl/"
+  },
+  {
+    "chinese": "严重的",
+    "english": "serious",
+    "soundmark": "/ˈsɪəriəs/"
+  },
+  {
+    "chinese": "那场车祸很严重",
+    "english": "The car crash was serious",
+    "soundmark": "/ðə/ /kɑːr/ /kræʃ/ /wɒz/ /ˈsɪəriəs/",
+    "grammar": [
+      {
+        "text": "The car crash",
+        "role": "S",
+        "phonetic": "/ðə/ /kɑːr/ /kræʃ/",
+        "chinese": "这个/那个/汽车/坠毁"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wɒz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "serious",
+        "role": "C",
+        "phonetic": "/ˈsɪəriəs/",
+        "chinese": "严肃的"
+      }
+    ]
+  },
+  {
+    "chinese": "两车相撞了",
+    "english": "Two cars crashed into each other",
+    "soundmark": "/tuː/ /kɑːz/ /kræʃt/ /ˈɪntə/ /iːtʃ/ /ˈʌðə/",
+    "grammar": [
+      {
+        "text": "Two cars",
+        "role": "S",
+        "phonetic": "/tuː/ /kɑːz/",
+        "chinese": "二/…们/复数(汽车)"
+      },
+      {
+        "text": "crashed",
+        "role": "V",
+        "phonetic": "/kræʃt/",
+        "chinese": "坠毁"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntə/",
+        "chinese": "进入"
+      },
+      {
+        "text": "each other",
+        "role": "O",
+        "phonetic": "/iːtʃ/ /ˈʌðə/",
+        "chinese": "彼此"
+      }
+    ]
+  },
+  {
+    "chinese": "司机受伤了",
+    "english": "The driver was hurt",
+    "soundmark": "/ðə/ /ˈdraɪvə/ /wɒz/ /hɜːt/",
+    "grammar": [
+      {
+        "text": "The driver",
+        "role": "S",
+        "phonetic": "/ðə/ /ˈdraɪvə/",
+        "chinese": "这个/那个/更…的/…者(驾驶)"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wɒz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "hurt",
+        "role": "C",
+        "phonetic": "/hɜːt/",
+        "chinese": "伤害"
+      }
+    ]
+  },
+  {
+    "chinese": "他被送进了医院",
+    "english": "He was taken to the hospital",
+    "soundmark": "/hiː/ /wɒz/ /ˈteɪkən/ /tə/ /ðə/ /ˈhɒspɪtl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was taken",
+        "role": "V",
+        "phonetic": "/wɒz/ /ˈteɪkən/",
+        "chinese": "是（过去式）/拿走的"
+      },
+      {
+        "text": "to the hospital",
+        "role": "L",
+        "phonetic": "/tə/ /ðə/ /ˈhɒspɪtl/",
+        "chinese": "到/向/这个/那个/医院"
+      }
+    ]
+  },
+  {
+    "chinese": "警察来了",
+    "english": "The police came",
+    "soundmark": "/ðə/ /pəˈliːs/ /keɪm/",
+    "grammar": [
+      {
+        "text": "The police",
+        "role": "S",
+        "phonetic": "/ðə/ /pəˈliːs/",
+        "chinese": "这个/那个/警察"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "车祸发生在昨天",
+    "english": "The car crash happened yesterday",
+    "soundmark": "/ðə/ /kɑːr/ /kræʃ/ /ˈhæpənd/ /ˈjestədeɪ/",
+    "grammar": [
+      {
+        "text": "The car crash",
+        "role": "S",
+        "phonetic": "/ðə/ /kɑːr/ /kræʃ/",
+        "chinese": "这个/那个/汽车/坠毁"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      },
+      {
+        "text": "yesterday",
+        "role": "Adv",
+        "phonetic": "/ˈjestədeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "她手臂受伤了",
+    "english": "She hurt her arm",
+    "soundmark": "/ʃiː/ /hɜːt/ /hɜːr/ /ɑːm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "hurt",
+        "role": "V",
+        "phonetic": "/hɜːt/",
+        "chinese": "伤害"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜː/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "arm",
+        "role": "O",
+        "phonetic": "/ɑːm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "救护车很快到了",
+    "english": "The ambulance arrived quickly",
+    "soundmark": "/ðə/ /ˈæmbjələns/ /əˈraɪvd/ /ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "The ambulance",
+        "role": "S",
+        "phonetic": "/ðə/ /ˈæmbjələns/",
+        "chinese": "这个/那个/救护车"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "quickly",
+        "role": "Adv",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "他头疼得厉害",
+    "english": "He has a bad headache",
+    "soundmark": "/hiː/ /hæz/ /ə/ /bæd/ /ˈhedeɪk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Det",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bad",
+        "role": "A",
+        "phonetic": "/bæd/",
+        "chinese": "坏的"
+      },
+      {
+        "text": "headache",
+        "role": "O",
+        "phonetic": "/ˈhedeɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "车祸造成了交通堵塞",
+    "english": "The crash caused a traffic jam",
+    "soundmark": "/ðə/ /kræʃ/ /kɔːzd/ /ə/ /ˈtræfɪk/ /dʒæm/",
+    "grammar": [
+      {
+        "text": "The crash",
+        "role": "S",
+        "phonetic": "/ðə/ /kræʃ/",
+        "chinese": "这个/那个/坠毁"
+      },
+      {
+        "text": "caused",
+        "role": "V",
+        "phonetic": "/kɔːzd/",
+        "chinese": "原因/导致"
+      },
+      {
+        "text": "a",
+        "role": "Det",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "traffic jam",
+        "role": "O",
+        "phonetic": "/ˈtræfɪk/ /dʒæm/",
+        "chinese": "交通/果酱"
+      }
+    ]
+  },
+  {
+    "chinese": "没有人丧生",
+    "english": "No one was killed",
+    "soundmark": "/nəʊ/ /wʌn/ /wɒz/ /kɪld/",
+    "grammar": [
+      {
+        "text": "No one",
+        "role": "S",
+        "phonetic": "/nəʊ/ /wʌn/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wɒz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "killed",
+        "role": "C",
+        "phonetic": "/kɪld/",
+        "chinese": "杀"
+      }
+    ]
+  },
+  {
+    "chinese": "发生",
+    "english": "happen",
+    "soundmark": "/ˈhæpən/"
+  },
+  {
+    "chinese": "到达",
+    "english": "arrive",
+    "soundmark": "/əˈraɪv/"
+  },
+  {
+    "chinese": "造成",
+    "english": "cause",
+    "soundmark": "/kɔːz/"
+  },
+  {
+    "chinese": "快速地",
+    "english": "quickly",
+    "soundmark": "/ˈkwɪkli/"
+  },
+  {
+    "chinese": "交通堵塞",
+    "english": "traffic jam",
+    "soundmark": "/ˈtræfɪk/ /dʒæm/"
+  },
+  {
+    "chinese": "死亡",
+    "english": "kill",
+    "soundmark": "/kɪl/"
+  },
+  {
+    "chinese": "丧生",
+    "english": "die",
+    "soundmark": "/daɪ/"
+  }
+]

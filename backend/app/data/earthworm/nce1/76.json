@@ -1,0 +1,543 @@
+[
+  {
+    "chinese": "表兄弟；表姐妹",
+    "english": "cousin",
+    "soundmark": "/ˈkʌzn/"
+  },
+  {
+    "chinese": "叔叔；伯父",
+    "english": "uncle",
+    "soundmark": "/ˈʌŋkl/"
+  },
+  {
+    "chinese": "阿姨；婶婶",
+    "english": "aunt",
+    "soundmark": "/ɑːnt/"
+  },
+  {
+    "chinese": "兄弟",
+    "english": "brother",
+    "soundmark": "/ˈbrʌðə/"
+  },
+  {
+    "chinese": "姐妹",
+    "english": "sister",
+    "soundmark": "/ˈsɪstə/"
+  },
+  {
+    "chinese": "父亲",
+    "english": "father",
+    "soundmark": "/ˈfɑːðə/"
+  },
+  {
+    "chinese": "母亲",
+    "english": "mother",
+    "soundmark": "/ˈmʌðə/"
+  },
+  {
+    "chinese": "侄子",
+    "english": "nephew",
+    "soundmark": "/ˈnefjuː/"
+  },
+  {
+    "chinese": "侄女",
+    "english": "niece",
+    "soundmark": "/niːs/"
+  },
+  {
+    "chinese": "家人",
+    "english": "family",
+    "soundmark": "/ˈfæmɪli/"
+  },
+  {
+    "chinese": "介绍",
+    "english": "introduce",
+    "soundmark": "/ˌɪntrəˈdjuːs/"
+  },
+  {
+    "chinese": "名字",
+    "english": "name",
+    "soundmark": "/neɪm/"
+  },
+  {
+    "chinese": "年轻的",
+    "english": "young",
+    "soundmark": "/jʌŋ/"
+  },
+  {
+    "chinese": "祖父母",
+    "english": "grandparents",
+    "soundmark": "/ˈgrænpeərənts/"
+  },
+  {
+    "chinese": "孙子",
+    "english": "grandson",
+    "soundmark": "/ˈgrænsʌn/"
+  },
+  {
+    "chinese": "孙女",
+    "english": "granddaughter",
+    "soundmark": "/ˈgrændɔːtə/"
+  },
+  {
+    "chinese": "堂兄弟",
+    "english": "relative",
+    "soundmark": "/ˈrelətɪv/"
+  },
+  {
+    "chinese": "丈夫",
+    "english": "husband",
+    "soundmark": "/ˈhʌzbənd/"
+  },
+  {
+    "chinese": "妻子",
+    "english": "wife",
+    "soundmark": "/waɪf/"
+  },
+  {
+    "chinese": "这是他的表兄。",
+    "english": "This is his cousin.",
+    "soundmark": "/ðɪs ɪz hɪz ˈkʌzn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "cousin",
+        "role": "C",
+        "phonetic": "/ˈkʌzn/",
+        "chinese": "表/堂兄弟姐妹"
+      }
+    ]
+  },
+  {
+    "chinese": "她是我阿姨。",
+    "english": "She is my aunt.",
+    "soundmark": "/ʃiː ɪz maɪ ɑːnt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "aunt",
+        "role": "C",
+        "phonetic": "/ɑːnt/",
+        "chinese": "阿姨/姑姑"
+      }
+    ]
+  },
+  {
+    "chinese": "他有一个兄弟和一个姐妹。",
+    "english": "He has a brother and a sister.",
+    "soundmark": "/hiː hæz ə ˈbrʌðər ənd ə ˈsɪstə/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "brother",
+        "role": "O",
+        "phonetic": "/ˈbrʌðə/",
+        "chinese": "兄弟"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "sister",
+        "role": "O",
+        "phonetic": "/ˈsɪstə/",
+        "chinese": "姐妹"
+      }
+    ]
+  },
+  {
+    "chinese": "让我介绍我的家人。",
+    "english": "Let me introduce my family.",
+    "soundmark": "/let miː ˌɪntrəˈdjuːs maɪ ˈfæmɪli/",
+    "grammar": [
+      {
+        "text": "Let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "introduce",
+        "role": "V",
+        "phonetic": "/ˌɪntrəˈdjuːs/",
+        "chinese": "介绍"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "family",
+        "role": "O",
+        "phonetic": "/ˈfæmɪli/",
+        "chinese": "家庭"
+      }
+    ]
+  },
+  {
+    "chinese": "他叔叔很年轻。",
+    "english": "His uncle is very young.",
+    "soundmark": "/hɪz ˈʌŋkl ɪz ˈveri jʌŋ/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "uncle",
+        "role": "S",
+        "phonetic": "/ˈʌŋkl/",
+        "chinese": "叔叔/舅舅"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      }
+    ]
+  },
+  {
+    "chinese": "那个女孩是他的侄女。",
+    "english": "That girl is his niece.",
+    "soundmark": "/ðæt gɜːl ɪz hɪz niːs/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "girl",
+        "role": "S",
+        "phonetic": "/gɜːl/",
+        "chinese": "女孩"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "niece",
+        "role": "C",
+        "phonetic": "/niːs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她和她母亲很像。",
+    "english": "She looks like her mother.",
+    "soundmark": "/ʃiː lʊks laɪk hɜː ˈmʌðə/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "looks like",
+        "role": "V",
+        "phonetic": "/lʊks laɪk/",
+        "chinese": "…们/复数(看起来)/喜欢"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜː/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "mother",
+        "role": "O",
+        "phonetic": "/ˈmʌðə/",
+        "chinese": "母亲"
+      }
+    ]
+  },
+  {
+    "chinese": "弗雷德的表兄叫什么名字？",
+    "english": "What is Fred's cousin's name?",
+    "soundmark": "/wɒt ɪz fredz ˈkʌznz neɪm/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Int",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Fred's",
+        "role": "Det",
+        "phonetic": "/fredz/",
+        "chinese": ""
+      },
+      {
+        "text": "cousin's",
+        "role": "Det",
+        "phonetic": "/ˈkʌznz/",
+        "chinese": "表/堂兄弟姐妹"
+      },
+      {
+        "text": "name",
+        "role": "S",
+        "phonetic": "/neɪm/",
+        "chinese": "名字"
+      }
+    ]
+  },
+  {
+    "chinese": "他们是一家人。",
+    "english": "They are a family.",
+    "soundmark": "/ðeɪ ɑːr ə ˈfæmɪli/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "family",
+        "role": "C",
+        "phonetic": "/ˈfæmɪli/",
+        "chinese": "家庭"
+      }
+    ]
+  },
+  {
+    "chinese": "爷爷",
+    "english": "grandfather",
+    "soundmark": "/ˈgrænfɑːðə/"
+  },
+  {
+    "chinese": "奶奶",
+    "english": "grandmother",
+    "soundmark": "/ˈgrænmʌðə/"
+  },
+  {
+    "chinese": "儿子",
+    "english": "son",
+    "soundmark": "/sʌn/"
+  },
+  {
+    "chinese": "女儿",
+    "english": "daughter",
+    "soundmark": "/ˈdɔːtə/"
+  },
+  {
+    "chinese": "婴儿",
+    "english": "baby",
+    "soundmark": "/ˈbeɪbi/"
+  },
+  {
+    "chinese": "孩子",
+    "english": "child",
+    "soundmark": "/tʃaɪld/"
+  },
+  {
+    "chinese": "孩子们",
+    "english": "children",
+    "soundmark": "/ˈtʃɪldrən/"
+  },
+  {
+    "chinese": "堂兄弟",
+    "english": "cousin brother",
+    "soundmark": "/ˈkʌzn ˈbrʌðə/"
+  },
+  {
+    "chinese": "堂姐妹",
+    "english": "cousin sister",
+    "soundmark": "/ˈkʌzn ˈsɪstə/"
+  },
+  {
+    "chinese": "继父",
+    "english": "stepfather",
+    "soundmark": "/ˈstepˌfɑːðə/"
+  },
+  {
+    "chinese": "继母",
+    "english": "stepmother",
+    "soundmark": "/ˈstepˌmʌðə/"
+  },
+  {
+    "chinese": "继子",
+    "english": "stepson",
+    "soundmark": "/ˈstepsʌn/"
+  },
+  {
+    "chinese": "继女",
+    "english": "stepdaughter",
+    "soundmark": "/ˈstepˌdɔːtə/"
+  },
+  {
+    "chinese": "同父异母的兄弟",
+    "english": "half-brother",
+    "soundmark": "/hɑːf ˈbrʌðə/"
+  },
+  {
+    "chinese": "同父异母的姐妹",
+    "english": "half-sister",
+    "soundmark": "/hɑːf ˈsɪstə/"
+  },
+  {
+    "chinese": "岳父",
+    "english": "father-in-law",
+    "soundmark": "/ˈfɑːðər ɪn lɔː/"
+  },
+  {
+    "chinese": "岳母",
+    "english": "mother-in-law",
+    "soundmark": "/ˈmʌðər ɪn lɔː/"
+  },
+  {
+    "chinese": "女婿",
+    "english": "son-in-law",
+    "soundmark": "/ˈsʌn ɪn lɔː/"
+  },
+  {
+    "chinese": "儿媳",
+    "english": "daughter-in-law",
+    "soundmark": "/ˈdɔːtər ɪn lɔː/"
+  },
+  {
+    "chinese": "姐夫",
+    "english": "brother-in-law",
+    "soundmark": "/ˈbrʌðər ɪn lɔː/"
+  },
+  {
+    "chinese": "嫂子",
+    "english": "sister-in-law",
+    "soundmark": "/ˈsɪstər ɪn lɔː/"
+  },
+  {
+    "chinese": "家庭聚会",
+    "english": "family gathering",
+    "soundmark": "/ˈfæmɪli ˈgæðərɪŋ/"
+  },
+  {
+    "chinese": "家庭照片",
+    "english": "family photo",
+    "soundmark": "/ˈfæmɪli ˈfəʊtəʊ/"
+  },
+  {
+    "chinese": "姓氏",
+    "english": "surname",
+    "soundmark": "/ˈsɜːneɪm/"
+  },
+  {
+    "chinese": "名字",
+    "english": "first name",
+    "soundmark": "/fɜːst neɪm/"
+  }
+]

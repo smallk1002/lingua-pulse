@@ -10,6 +10,7 @@ from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy import select, func, and_, or_
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.orm import selectinload
+import re
 
 from app.core.database import get_db
 from app.core.security import get_current_user, get_optional_user
@@ -233,7 +234,16 @@ async def get_course_detail(
 
     # 过滤掉已掌握的句子
     visible_statements = [
-        StatementOut.model_validate(s)
+        StatementOut(
+            id=s.id,
+            order=s.order,
+            chinese=s.chinese,
+            english=s.english,
+            soundmark=s.soundmark,
+            grammar=s.grammar,
+            tts_audio_url=s.tts_audio_url,
+            course_id=s.course_id,
+        )
         for s in course.statements
         if s.id not in mastered_ids
     ]
@@ -248,3 +258,130 @@ async def get_course_detail(
         statements=visible_statements,
         progress=progress,
     )
+
+
+# ============================================================
+# 更多例句 - 相似句子推荐
+# ============================================================
+
+def _extract_keywords(text: str) -> set[str]:
+    """从句子中提取关键词（英文实词）"""
+    # 停用词表
+    stop_words = {
+        'i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you',
+        'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his',
+        'himself', 'she', 'her', 'hers', 'herself', 'it', 'its', 'itself',
+        'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which',
+        'who', 'whom', 'this', 'that', 'these', 'those', 'am', 'is', 'are',
+        'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having',
+        'do', 'does', 'did', 'doing', 'would', 'should', 'could', 'ought',
+        'might', 'shall', 'can', 'need', 'dare', 'shall', 'will', 'the',
+        'a', 'an', 'and', 'but', 'or', 'nor', 'not', 'so', 'yet', 'both',
+        'either', 'either', 'neither', 'each', 'every', 'all', 'any', 'few',
+        'more', 'most', 'other', 'some', 'such', 'no', 'only', 'own', 'same',
+        'than', 'too', 'very', 'just', 'because', 'as', 'until', 'while',
+        'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between',
+        'into', 'through', 'during', 'before', 'after', 'above', 'below',
+        'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over',
+        'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when',
+        'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more',
+        'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own',
+        'same', 'so', 'than', 'too', 'very', 's', 't', 'm', 're', 've', 'll',
+        'd', 'o', 'ain', 'aren', 'couldn', 'didn', 'doesn', 'hadn', 'hasn',
+        'haven', 'isn', 'ma', 'mightn', 'mustn', 'needn', 'shan', 'shouldn',
+        'wasn', 'weren', 'won', 'wouldn',
+    }
+    words = re.findall(r'[a-z]+', text.lower())
+    return {w for w in words if w not in stop_words and len(w) > 2}
+
+
+def _grammar_structure(grammar: list | dict | None) -> str:
+    """从 grammar 提取结构签名（如 'SVO', 'SVA'）"""
+    if not grammar or not isinstance(grammar, list):
+        return ""
+    roles = []
+    for item in grammar:
+        if isinstance(item, dict):
+            role = item.get('role', '')
+            if role:
+                roles.append(role)
+    return ''.join(roles)
+
+
+@router.get("/{pack_id}/courses/{course_id}/more-examples/{statement_id}")
+async def get_more_examples(
+    pack_id: str,
+    course_id: str,
+    statement_id: str,
+    db: AsyncSession = Depends(get_db),
+    _: User = Depends(get_current_user),
+):
+    """
+    获取与当前句子相似的其他例句（最多 3 条）
+
+    相似规则（分优先级）：
+    1. 同课程包 + 其他课程（优先）
+    2. 相同语法结构（+3 分）
+    3. 关键词重叠（每个 +1 分）
+    4. 相同难度（+2 分）
+    """
+    # 获取当前句子
+    current_result = await db.execute(
+        select(Statement).where(Statement.id == statement_id)
+    )
+    current = current_result.scalar_one_or_none()
+    if not current:
+        raise HTTPException(status_code=404, detail="句子不存在")
+
+    # 获取课程包内所有其他课程的句子
+    all_result = await db.execute(
+        select(Statement, Course.difficulty)
+        .join(Course, Course.id == Statement.course_id)
+        .join(CoursePack, CoursePack.id == Course.course_pack_id)
+        .where(
+            CoursePack.id == pack_id,
+            Statement.id != statement_id,
+        )
+    )
+    rows = all_result.all()
+
+    if not rows:
+        return {"examples": []}
+
+    # 计算相似度分数
+    current_keywords = _extract_keywords(current.english)
+    current_structure = _grammar_structure(current.grammar)
+
+    scored = []
+    for stmt, diff in rows:
+        score = 0
+
+        # 相同语法结构
+        stmt_structure = _grammar_structure(stmt.grammar)
+        if current_structure and stmt_structure == current_structure:
+            score += 3
+
+        # 关键词重叠
+        stmt_keywords = _extract_keywords(stmt.english)
+        overlap = len(current_keywords & stmt_keywords)
+        score += overlap
+
+        # 相同难度
+        if diff == current.difficulty:
+            score += 2
+
+        scored.append((stmt, score))
+
+    # 排序 + 取前 3
+    scored.sort(key=lambda x: x[1], reverse=True)
+    examples = [
+        StatementOut.model_validate(stmt)
+        for stmt, score in scored[:3]
+    ]
+
+    # 添加 course_id 字段
+    for stmt, _ in scored[:3]:
+        pass
+
+    return {"examples": examples}
+

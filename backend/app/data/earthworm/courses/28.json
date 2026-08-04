@@ -1,0 +1,953 @@
+[
+  {
+    "chinese": "将/会",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "chinese": "不会",
+    "english": "won't",
+    "soundmark": "/woʊnt/"
+  },
+  {
+    "chinese": "明天",
+    "english": "tomorrow",
+    "soundmark": "/təˈmɑːroʊ/"
+  },
+  {
+    "chinese": "下周",
+    "english": "next week",
+    "soundmark": "/nekst wiːk/"
+  },
+  {
+    "chinese": "明年",
+    "english": "next year",
+    "soundmark": "/nekst jɪr/"
+  },
+  {
+    "chinese": "将来",
+    "english": "future",
+    "soundmark": "/ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "很快",
+    "english": "soon",
+    "soundmark": "/suːn/"
+  },
+  {
+    "chinese": "我明天会去。",
+    "english": "I will go tomorrow",
+    "soundmark": "/aɪ wɪl ɡoʊ təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will go",
+        "role": "V",
+        "phonetic": "/wɪl ɡoʊ/",
+        "chinese": "将要/去"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "她会打电话给你。",
+    "english": "She will call you",
+    "soundmark": "/ʃiː wɪl kɔːl juː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "will call",
+        "role": "V",
+        "phonetic": "/wɪl kɔːl/",
+        "chinese": "将要/打电话/叫"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "明天会下雨。",
+    "english": "It will rain tomorrow",
+    "soundmark": "/ɪt wɪl reɪn təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "will rain",
+        "role": "V",
+        "phonetic": "/wɪl reɪn/",
+        "chinese": "将要/雨"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "我们下周会见面。",
+    "english": "We will meet next week",
+    "soundmark": "/wiː wɪl miːt nekst wiːk/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will meet",
+        "role": "V",
+        "phonetic": "/wɪl miːt/",
+        "chinese": "将要/遇见/开会"
+      },
+      {
+        "text": "next week",
+        "role": "A",
+        "phonetic": "/nekst wiːk/",
+        "chinese": "下周"
+      }
+    ]
+  },
+  {
+    "chinese": "他会成为一名医生。",
+    "english": "He will be a doctor",
+    "soundmark": "/hiː wɪl biː ə ˈdɑːktər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will be",
+        "role": "V",
+        "phonetic": "/wɪl biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "a doctor",
+        "role": "C",
+        "phonetic": "/ə ˈdɑːktər/",
+        "chinese": "一名医生"
+      }
+    ]
+  },
+  {
+    "chinese": "我不会去。",
+    "english": "I will not go",
+    "soundmark": "/aɪ wɪl nɑːt ɡoʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will not go",
+        "role": "V",
+        "phonetic": "/wɪl nɑːt ɡoʊ/",
+        "chinese": "将要/不/去"
+      }
+    ]
+  },
+  {
+    "chinese": "她明天不会来。",
+    "english": "She won't come tomorrow",
+    "soundmark": "/ʃiː woʊnt kʌm təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "won't come",
+        "role": "V",
+        "phonetic": "/woʊnt kʌm/",
+        "chinese": "不会/来"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "你会帮我吗？",
+    "english": "Will you help me",
+    "soundmark": "/wɪl juː help miː/",
+    "grammar": [
+      {
+        "text": "Will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "他们明天会来吗？",
+    "english": "Will they come tomorrow",
+    "soundmark": "/wɪl ðeɪ kʌm təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "Will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "我今晚会给你打电话。",
+    "english": "I will call you tonight",
+    "soundmark": "/aɪ wɪl kɔːl juː təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will call",
+        "role": "V",
+        "phonetic": "/wɪl kɔːl/",
+        "chinese": "将要/打电话/叫"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我很快就会回来。",
+    "english": "I will be back soon",
+    "soundmark": "/aɪ wɪl biː bæk suːn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will be",
+        "role": "V",
+        "phonetic": "/wɪl biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "back",
+        "role": "C",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "soon",
+        "role": "A",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      }
+    ]
+  },
+  {
+    "chinese": "将来一切都不同了。",
+    "english": "Everything will be different in the future",
+    "soundmark": "/ˈevriθɪŋ wɪl biː ˈdɪfrənt ɪn ðə ˈfjuːtʃər/",
+    "grammar": [
+      {
+        "text": "Everything",
+        "role": "S",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      },
+      {
+        "text": "will be",
+        "role": "V",
+        "phonetic": "/wɪl biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "different",
+        "role": "C",
+        "phonetic": "/ˈdɪfrənt/",
+        "chinese": "不同的"
+      },
+      {
+        "text": "in the future",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈfjuːtʃər/",
+        "chinese": "在未来"
+      }
+    ]
+  },
+  {
+    "chinese": "我相信你会喜欢它。",
+    "english": "I am sure you will like it",
+    "soundmark": "/aɪ æm ʃʊr juː wɪl laɪk ɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "sure",
+        "role": "C",
+        "phonetic": "/ʃʊr/",
+        "chinese": "确定的"
+      },
+      {
+        "text": "you will like it",
+        "role": "O",
+        "phonetic": "/juː wɪl laɪk ɪt/",
+        "chinese": "你/你们/将要/喜欢/它"
+      }
+    ]
+  },
+  {
+    "chinese": "他下周不会在这里。",
+    "english": "He won't be here next week",
+    "soundmark": "/hiː woʊnt biː hɪr nekst wiːk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "won't be",
+        "role": "V",
+        "phonetic": "/woʊnt biː/",
+        "chinese": "不会/是"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "next week",
+        "role": "A",
+        "phonetic": "/nekst wiːk/",
+        "chinese": "下周"
+      }
+    ]
+  },
+  {
+    "chinese": "你有空的时候会来吗？",
+    "english": "Will you come when you are free",
+    "soundmark": "/wɪl juː kʌm wen juː ɑːr friː/",
+    "grammar": [
+      {
+        "text": "Will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "when you are free",
+        "role": "A",
+        "phonetic": "/wen juː ɑːr friː/",
+        "chinese": "什么时候/你/你们/是/自由的/免费的"
+      }
+    ]
+  },
+  {
+    "chinese": "我明天会早点起床。",
+    "english": "I will get up early tomorrow",
+    "soundmark": "/aɪ wɪl ɡet ʌp ˈɜːrli təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will get up",
+        "role": "V",
+        "phonetic": "/wɪl ɡet ʌp/",
+        "chinese": "将要/得到/变得/向上"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "我们今晚会去看电影吗？",
+    "english": "Will we go to the movies tonight",
+    "soundmark": "/wɪl wiː ɡoʊ tuː ðə ˈmuːviz təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "Will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to the movies",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈmuːviz/",
+        "chinese": "去看电影"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "她会告诉你一切的。",
+    "english": "She will tell you everything",
+    "soundmark": "/ʃiː wɪl tel juː ˈevriθɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "will tell",
+        "role": "V",
+        "phonetic": "/wɪl tel/",
+        "chinese": "会告诉"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "everything",
+        "role": "O",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      }
+    ]
+  },
+  {
+    "chinese": "我想明天会下雪。",
+    "english": "I think it will snow tomorrow",
+    "soundmark": "/aɪ θɪŋk ɪt wɪl snoʊ təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "it will snow tomorrow",
+        "role": "O",
+        "phonetic": "/ɪt wɪl snoʊ təˈmɑːroʊ/",
+        "chinese": "它/将要/雪/明天"
+      }
+    ]
+  },
+  {
+    "chinese": "他不会忘记你的。",
+    "english": "He won't forget you",
+    "soundmark": "/hiː woʊnt fərˈɡet juː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "won't forget",
+        "role": "V",
+        "phonetic": "/woʊnt fərˈɡet/",
+        "chinese": "不会/忘记"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "几年后你会感谢我的。",
+    "english": "You will thank me in a few years",
+    "soundmark": "/juː wɪl θæŋk miː ɪn ə fjuː jɪrz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will thank",
+        "role": "V",
+        "phonetic": "/wɪl θæŋk/",
+        "chinese": "将要"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "in a few years",
+        "role": "A",
+        "phonetic": "/ɪn ə fjuː jɪrz/",
+        "chinese": "在…里/一个/很少/…们/复数(年)"
+      }
+    ]
+  },
+  {
+    "chinese": "你下周五有空吗？",
+    "english": "Will you be free next Friday",
+    "soundmark": "/wɪl juː biː friː nekst ˈfraɪdeɪ/",
+    "grammar": [
+      {
+        "text": "Will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "free",
+        "role": "C",
+        "phonetic": "/friː/",
+        "chinese": "自由的/免费的"
+      },
+      {
+        "text": "next Friday",
+        "role": "A",
+        "phonetic": "/nekst ˈfraɪdeɪ/",
+        "chinese": "下一个/接下来/星期五"
+      }
+    ]
+  },
+  {
+    "chinese": "我们明年会搬到纽约。",
+    "english": "We will move to New York next year",
+    "soundmark": "/wiː wɪl muːv tuː nuː jɔːrk nekst jɪr/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will move",
+        "role": "V",
+        "phonetic": "/wɪl muːv/",
+        "chinese": "将要/移动"
+      },
+      {
+        "text": "to New York",
+        "role": "A",
+        "phonetic": "/tuː nuː jɔːrk/",
+        "chinese": "到/向/新的"
+      },
+      {
+        "text": "next year",
+        "role": "A",
+        "phonetic": "/nekst jɪr/",
+        "chinese": "明年"
+      }
+    ]
+  },
+  {
+    "chinese": "派对几点开始？",
+    "english": "What time will the party start",
+    "soundmark": "/wʌt taɪm wɪl ðə ˈpɑːrti stɑːrt/",
+    "grammar": [
+      {
+        "text": "What time",
+        "role": "A",
+        "phonetic": "/wʌt taɪm/",
+        "chinese": "几点"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "the party",
+        "role": "S",
+        "phonetic": "/ðə ˈpɑːrti/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "start",
+        "role": "V",
+        "phonetic": "/stɑːrt/",
+        "chinese": "开始"
+      }
+    ]
+  },
+  {
+    "chinese": "不用担心，一切都会好的。",
+    "english": "Don't worry everything will be fine",
+    "soundmark": "/doʊnt ˈwɜːri ˈevriθɪŋ wɪl biː faɪn/",
+    "grammar": [
+      {
+        "text": "Don't worry",
+        "role": "V",
+        "phonetic": "/doʊnt ˈwɜːri/",
+        "chinese": "不/担心"
+      },
+      {
+        "text": "everything",
+        "role": "S",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      },
+      {
+        "text": "will be",
+        "role": "V",
+        "phonetic": "/wɪl biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "fine",
+        "role": "C",
+        "phonetic": "/faɪn/",
+        "chinese": "好的/晴朗的"
+      }
+    ]
+  },
+  {
+    "chinese": "你明天什么时候来？",
+    "english": "When will you come tomorrow",
+    "soundmark": "/wen wɪl juː kʌm təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "如果明天下雨，我就不去了。",
+    "english": "If it rains tomorrow I won't go",
+    "soundmark": "/ɪf ɪt reɪnz təˈmɑːroʊ aɪ woʊnt ɡoʊ/",
+    "grammar": [
+      {
+        "text": "If it rains tomorrow",
+        "role": "A",
+        "phonetic": "/ɪf ɪt reɪnz təˈmɑːroʊ/",
+        "chinese": "如果/它/…们/复数(雨)/明天"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "won't go",
+        "role": "V",
+        "phonetic": "/woʊnt ɡoʊ/",
+        "chinese": "不会/去"
+      }
+    ]
+  },
+  {
+    "chinese": "她很快就会到这里。",
+    "english": "She will be here soon",
+    "soundmark": "/ʃiː wɪl biː hɪr suːn/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "will be",
+        "role": "V",
+        "phonetic": "/wɪl biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "soon",
+        "role": "A",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      }
+    ]
+  },
+  {
+    "chinese": "我相信他会成功的。",
+    "english": "I believe he will succeed",
+    "soundmark": "/aɪ bɪˈliːv hiː wɪl səkˈsiːd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "believe",
+        "role": "V",
+        "phonetic": "/bɪˈliːv/",
+        "chinese": "相信"
+      },
+      {
+        "text": "he will succeed",
+        "role": "O",
+        "phonetic": "/hiː wɪl səkˈsiːd/",
+        "chinese": "他/将要/成功"
+      }
+    ]
+  },
+  {
+    "chinese": "这个夏天会非常热。",
+    "english": "It will be very hot this summer",
+    "soundmark": "/ɪt wɪl biː ˈveri hɑːt ðɪs ˈsʌmər/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "will be",
+        "role": "V",
+        "phonetic": "/wɪl biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "very hot",
+        "role": "C",
+        "phonetic": "/ˈveri hɑːt/",
+        "chinese": "非常/热的"
+      },
+      {
+        "text": "this summer",
+        "role": "A",
+        "phonetic": "/ðɪs ˈsʌmər/",
+        "chinese": "这个/夏天"
+      }
+    ]
+  },
+  {
+    "chinese": "确信",
+    "english": "sure",
+    "soundmark": "/ʃʊr/"
+  },
+  {
+    "chinese": "早",
+    "english": "early",
+    "soundmark": "/ˈɜːrli/"
+  },
+  {
+    "chinese": "下雪",
+    "english": "snow",
+    "soundmark": "/snoʊ/"
+  },
+  {
+    "chinese": "成功",
+    "english": "succeed",
+    "soundmark": "/səkˈsiːd/"
+  },
+  {
+    "chinese": "不同的",
+    "english": "different",
+    "soundmark": "/ˈdɪfrənt/"
+  },
+  {
+    "chinese": "相信",
+    "english": "believe",
+    "soundmark": "/bɪˈliːv/"
+  },
+  {
+    "chinese": "担心",
+    "english": "worry",
+    "soundmark": "/ˈwɜːri/"
+  },
+  {
+    "chinese": "自由/有空",
+    "english": "free",
+    "soundmark": "/friː/"
+  }
+]

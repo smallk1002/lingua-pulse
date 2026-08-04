@@ -1,0 +1,199 @@
+[
+  {
+    "english": "trip",
+    "chinese": "旅行",
+    "soundmark": "/trɪp/"
+  },
+  {
+    "english": "Europe",
+    "chinese": "欧洲",
+    "soundmark": "/ˈjʊrəp/"
+  },
+  {
+    "english": "travel",
+    "chinese": "旅游",
+    "soundmark": "/ˈtrævəl/"
+  },
+  {
+    "chinese": "一次穿越欧洲的旅行",
+    "english": "A trip through Europe",
+    "soundmark": "/ə trɪp θruː ˈjʊrəp/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "trip",
+        "role": "S",
+        "phonetic": "/trɪp/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "through",
+        "role": "P",
+        "phonetic": "/θruː/",
+        "chinese": "通过/穿过"
+      },
+      {
+        "text": "Europe",
+        "role": "O",
+        "phonetic": "/ˈjʊrəp/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们参观了巴黎",
+    "english": "We visited Paris",
+    "soundmark": "/wiː ˈvɪzɪtɪd ˈpærɪs/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "visited",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪtɪd/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "Paris",
+        "role": "O",
+        "phonetic": "/ˈpærɪs/",
+        "chinese": "巴黎"
+      }
+    ]
+  },
+  {
+    "chinese": "旅行很有趣",
+    "english": "The trip was very interesting",
+    "soundmark": "/ðə trɪp wʌz ˈveri ˈɪntrəstɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "trip",
+        "role": "S",
+        "phonetic": "/trɪp/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们看到了很多名胜",
+    "english": "We saw many famous places",
+    "soundmark": "/wiː sɔː ˈmeni ˈfeɪməs ˈpleɪsɪz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "famous",
+        "role": "Det",
+        "phonetic": "/ˈfeɪməs/",
+        "chinese": "著名的"
+      },
+      {
+        "text": "places",
+        "role": "O",
+        "phonetic": "/ˈpleɪsɪz/",
+        "chinese": "地方"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望再去一次",
+    "english": "I hope to go again",
+    "soundmark": "/aɪ hoʊp tə ɡoʊ əˈɡen/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hope",
+        "role": "V",
+        "phonetic": "/hoʊp/",
+        "chinese": "希望"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "again",
+        "role": "A",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      }
+    ]
+  },
+  {
+    "english": "memorable",
+    "chinese": "难忘的",
+    "soundmark": "/ˈmemərəbəl/"
+  },
+  {
+    "english": "adventure",
+    "chinese": "冒险",
+    "soundmark": "/ədˈventʃər/"
+  },
+  {
+    "english": "sightseeing",
+    "chinese": "观光",
+    "soundmark": "/ˈsaɪtsiːɪŋ/"
+  }
+]

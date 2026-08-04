@@ -1,0 +1,619 @@
+[
+  {
+    "chinese": "可怕的；讨厌的",
+    "english": "awful",
+    "soundmark": "/ˈɔːfʊl/"
+  },
+  {
+    "chinese": "吝啬的；小气的",
+    "english": "mean",
+    "soundmark": "/miːn/"
+  },
+  {
+    "chinese": "懒惰的",
+    "english": "lazy",
+    "soundmark": "/ˈleɪzi/"
+  },
+  {
+    "chinese": "肮脏的",
+    "english": "dirty",
+    "soundmark": "/ˈdɜːti/"
+  },
+  {
+    "chinese": "粗鲁的",
+    "english": "rude",
+    "soundmark": "/ruːd/"
+  },
+  {
+    "chinese": "聪明的",
+    "english": "clever",
+    "soundmark": "/ˈklevə/"
+  },
+  {
+    "chinese": "勤快的；勤奋的",
+    "english": "hardworking",
+    "soundmark": "/ˌhɑːdˈwɜːkɪŋ/"
+  },
+  {
+    "chinese": "友好的",
+    "english": "friendly",
+    "soundmark": "/ˈfrendli/"
+  },
+  {
+    "chinese": "性格；品质",
+    "english": "character",
+    "soundmark": "/ˈkærɪktə/"
+  },
+  {
+    "chinese": "令人不快的",
+    "english": "unpleasant",
+    "soundmark": "/ʌnˈpleznt/"
+  },
+  {
+    "chinese": "慷慨的",
+    "english": "generous",
+    "soundmark": "/ˈdʒenərəs/"
+  },
+  {
+    "chinese": "耐心的",
+    "english": "patient",
+    "soundmark": "/ˈpeɪʃnt/"
+  },
+  {
+    "chinese": "可爱的",
+    "english": "lovely",
+    "soundmark": "/ˈlʌvli/"
+  },
+  {
+    "chinese": "漂亮的",
+    "english": "beautiful",
+    "soundmark": "/ˈbjuːtɪfʊl/"
+  },
+  {
+    "chinese": "善良的",
+    "english": "kind",
+    "soundmark": "/kaɪnd/"
+  },
+  {
+    "chinese": "愚蠢的",
+    "english": "stupid",
+    "soundmark": "/ˈstjuːpɪd/"
+  },
+  {
+    "chinese": "严肃的",
+    "english": "serious",
+    "soundmark": "/ˈsɪəriəs/"
+  },
+  {
+    "chinese": "安静的",
+    "english": "quiet",
+    "soundmark": "/ˈkwaɪət/"
+  },
+  {
+    "chinese": "他为人很吝啬。",
+    "english": "He is very mean.",
+    "soundmark": "/hiː ɪz ˈveri miːn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "mean",
+        "role": "C",
+        "phonetic": "/miːn/",
+        "chinese": "意思是/刻薄的"
+      }
+    ]
+  },
+  {
+    "chinese": "她是个懒惰的女孩。",
+    "english": "She is a lazy girl.",
+    "soundmark": "/ʃiː ɪz ə ˈleɪzi gɜːl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lazy",
+        "role": "C",
+        "phonetic": "/ˈleɪzi/",
+        "chinese": "懒惰的"
+      },
+      {
+        "text": "girl",
+        "role": "C",
+        "phonetic": "/gɜːl/",
+        "chinese": "女孩"
+      }
+    ]
+  },
+  {
+    "chinese": "他太粗鲁了！",
+    "english": "He is so rude!",
+    "soundmark": "/hiː ɪz səʊ ruːd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/səʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "rude",
+        "role": "C",
+        "phonetic": "/ruːd/",
+        "chinese": "粗鲁的"
+      }
+    ]
+  },
+  {
+    "chinese": "那个男人很脏。",
+    "english": "That man is dirty.",
+    "soundmark": "/ðæt mæn ɪz ˈdɜːti/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "dirty",
+        "role": "C",
+        "phonetic": "/ˈdɜːti/",
+        "chinese": "脏的"
+      }
+    ]
+  },
+  {
+    "chinese": "她非常聪明。",
+    "english": "She is very clever.",
+    "soundmark": "/ʃiː ɪz ˈveri ˈklevə/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "clever",
+        "role": "C",
+        "phonetic": "/ˈklevə/",
+        "chinese": "聪明的"
+      }
+    ]
+  },
+  {
+    "chinese": "他令人很不快。",
+    "english": "He is unpleasant.",
+    "soundmark": "/hiː ɪz ʌnˈpleznt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "unpleasant",
+        "role": "C",
+        "phonetic": "/ʌnˈpleznt/",
+        "chinese": "不愉快的"
+      }
+    ]
+  },
+  {
+    "chinese": "那个男孩很勤快。",
+    "english": "That boy is hardworking.",
+    "soundmark": "/ðæt bɔɪ ɪz ˌhɑːdˈwɜːkɪŋ/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "boy",
+        "role": "S",
+        "phonetic": "/bɔɪ/",
+        "chinese": "男孩"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "hardworking",
+        "role": "C",
+        "phonetic": "/ˌhɑːdˈwɜːkɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她为人慷慨。",
+    "english": "She is generous.",
+    "soundmark": "/ʃiː ɪz ˈdʒenərəs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "generous",
+        "role": "C",
+        "phonetic": "/ˈdʒenərəs/",
+        "chinese": "慷慨的"
+      }
+    ]
+  },
+  {
+    "chinese": "他有多糟糕啊！",
+    "english": "He's awful!",
+    "soundmark": "/hiːz ˈɔːfʊl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "awful",
+        "role": "C",
+        "phonetic": "/ˈɔːfʊl/",
+        "chinese": "糟糕的"
+      }
+    ]
+  },
+  {
+    "chinese": "那个人很友好。",
+    "english": "That person is friendly.",
+    "soundmark": "/ðæt ˈpɜːsn ɪz ˈfrendli/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "person",
+        "role": "S",
+        "phonetic": "/ˈpɜːsn/",
+        "chinese": "人"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "friendly",
+        "role": "C",
+        "phonetic": "/ˈfrendli/",
+        "chinese": "…地(朋友)"
+      }
+    ]
+  },
+  {
+    "chinese": "别那么粗鲁！",
+    "english": "Don't be so rude!",
+    "soundmark": "/dəʊnt biː səʊ ruːd/",
+    "grammar": [
+      {
+        "text": "Don't",
+        "role": "Neg",
+        "phonetic": "/dəʊnt/",
+        "chinese": "不"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/səʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "rude",
+        "role": "C",
+        "phonetic": "/ruːd/",
+        "chinese": "粗鲁的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个女孩很可爱。",
+    "english": "The girl is lovely.",
+    "soundmark": "/ðə gɜːl ɪz ˈlʌvli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "girl",
+        "role": "S",
+        "phonetic": "/gɜːl/",
+        "chinese": "女孩"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "lovely",
+        "role": "C",
+        "phonetic": "/ˈlʌvli/",
+        "chinese": "…地(爱)"
+      }
+    ]
+  },
+  {
+    "chinese": "她非常善良。",
+    "english": "She is very kind.",
+    "soundmark": "/ʃiː ɪz ˈveri kaɪnd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "kind",
+        "role": "C",
+        "phonetic": "/kaɪnd/",
+        "chinese": "善良的"
+      }
+    ]
+  },
+  {
+    "chinese": "那个男人很严肃。",
+    "english": "The man is serious.",
+    "soundmark": "/ðə mæn ɪz ˈsɪəriəs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "serious",
+        "role": "C",
+        "phonetic": "/ˈsɪəriəs/",
+        "chinese": "严肃的"
+      }
+    ]
+  },
+  {
+    "chinese": "他很安静。",
+    "english": "He is quiet.",
+    "soundmark": "/hiː ɪz ˈkwaɪət/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "quiet",
+        "role": "C",
+        "phonetic": "/ˈkwaɪət/",
+        "chinese": "安静的"
+      }
+    ]
+  },
+  {
+    "chinese": "吝啬的",
+    "english": "stingy",
+    "soundmark": "/ˈstɪndʒi/"
+  },
+  {
+    "chinese": "诚实的",
+    "english": "honest",
+    "soundmark": "/ˈɒnɪst/"
+  },
+  {
+    "chinese": "有礼貌的",
+    "english": "polite",
+    "soundmark": "/pəˈlaɪt/"
+  },
+  {
+    "chinese": "无礼的",
+    "english": "impolite",
+    "soundmark": "/ˌɪmpəˈlaɪt/"
+  },
+  {
+    "chinese": "聪明的",
+    "english": "smart",
+    "soundmark": "/smɑːt/"
+  },
+  {
+    "chinese": "愚蠢的",
+    "english": "foolish",
+    "soundmark": "/ˈfuːlɪʃ/"
+  },
+  {
+    "chinese": "勇敢的",
+    "english": "brave",
+    "soundmark": "/breɪv/"
+  },
+  {
+    "chinese": "害羞的",
+    "english": "shy",
+    "soundmark": "/ʃaɪ/"
+  },
+  {
+    "chinese": "骄傲的",
+    "english": "proud",
+    "soundmark": "/praʊd/"
+  },
+  {
+    "chinese": "谦虚的",
+    "english": "modest",
+    "soundmark": "/ˈmɒdɪst/"
+  },
+  {
+    "chinese": "幽默的",
+    "english": "humorous",
+    "soundmark": "/ˈhjuːmərəs/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "funny",
+    "soundmark": "/ˈfʌni/"
+  },
+  {
+    "chinese": "无聊的",
+    "english": "boring",
+    "soundmark": "/ˈbɔːrɪŋ/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "勤奋的",
+    "english": "diligent",
+    "soundmark": "/ˈdɪlɪdʒənt/"
+  },
+  {
+    "chinese": "健忘的",
+    "english": "forgetful",
+    "soundmark": "/fəˈgetfʊl/"
+  }
+]

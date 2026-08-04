@@ -1,0 +1,777 @@
+[
+  {
+    "chinese": "左转",
+    "english": "turn left",
+    "soundmark": "/tɜːrn left/"
+  },
+  {
+    "chinese": "右转",
+    "english": "turn right",
+    "soundmark": "/tɜːrn raɪt/"
+  },
+  {
+    "chinese": "直走",
+    "english": "go straight",
+    "soundmark": "/ɡoʊ streɪt/"
+  },
+  {
+    "chinese": "十字路口",
+    "english": "crossroads",
+    "soundmark": "/ˈkrɔːsroʊdz/"
+  },
+  {
+    "chinese": "红绿灯",
+    "english": "traffic lights",
+    "soundmark": "/ˈtræfɪk laɪts/"
+  },
+  {
+    "chinese": "拐角",
+    "english": "corner",
+    "soundmark": "/ˈkɔːrnər/"
+  },
+  {
+    "chinese": "在左边",
+    "english": "on the left",
+    "soundmark": "/ɑːn ðə left/"
+  },
+  {
+    "chinese": "在右边",
+    "english": "on the right",
+    "soundmark": "/ɑːn ðə raɪt/"
+  },
+  {
+    "chinese": "路标",
+    "english": "sign",
+    "soundmark": "/saɪn/"
+  },
+  {
+    "chinese": "地图",
+    "english": "map",
+    "soundmark": "/mæp/"
+  },
+  {
+    "chinese": "对不起请问怎么去车站",
+    "english": "Excuse me how can I get to the station",
+    "soundmark": "/ɪkˈskjuːz miː haʊ kæn aɪ ɡet tuː ðə ˈsteɪʃn/",
+    "grammar": [
+      {
+        "text": "Excuse me",
+        "role": "Int",
+        "phonetic": "/ɪkˈskjuːz miː/",
+        "chinese": "请原谅/我"
+      },
+      {
+        "text": "how",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "to the station",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈsteɪʃn/",
+        "chinese": "到/向/这个/那个/车站"
+      }
+    ]
+  },
+  {
+    "chinese": "一直往前走",
+    "english": "Go straight ahead",
+    "soundmark": "/ɡoʊ streɪt əˈhed/",
+    "grammar": [
+      {
+        "text": "Go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "straight ahead",
+        "role": "A",
+        "phonetic": "/streɪt əˈhed/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在红绿灯左转",
+    "english": "Turn left at the traffic lights",
+    "soundmark": "/tɜːrn left æt ðə ˈtræfɪk laɪts/",
+    "grammar": [
+      {
+        "text": "Turn",
+        "role": "V",
+        "phonetic": "/tɜːrn/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "left",
+        "role": "A",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "at the traffic lights",
+        "role": "A",
+        "phonetic": "/æt ðə ˈtræfɪk laɪts/",
+        "chinese": "在/这个/那个/交通/…们/复数(轻的/浅色的)"
+      }
+    ]
+  },
+  {
+    "chinese": "它就在你的右边",
+    "english": "It is on your right",
+    "soundmark": "/ɪt ɪz ɑːn jɔːr raɪt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on your right",
+        "role": "C",
+        "phonetic": "/ɑːn jɔːr raɪt/",
+        "chinese": "在…上/你的/你们的/对的/右边的"
+      }
+    ]
+  },
+  {
+    "chinese": "离这里远吗",
+    "english": "Is it far from here",
+    "soundmark": "/ɪz ɪt fɑːr frʌm hɪr/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "far from here",
+        "role": "C",
+        "phonetic": "/fɑːr frʌm hɪr/",
+        "chinese": "远/从/来自/这里"
+      }
+    ]
+  },
+  {
+    "chinese": "不不远走路五分钟就到",
+    "english": "No it is only five minutes on foot",
+    "soundmark": "/noʊ ɪt ɪz ˈoʊnli faɪv ˈmɪnɪts ɑːn fʊt/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "only five minutes on foot",
+        "role": "C",
+        "phonetic": "/ˈoʊnli faɪv ˈmɪnɪts ɑːn fʊt/",
+        "chinese": "只/五/…们/复数(分钟)/在…上/脚"
+      }
+    ]
+  },
+  {
+    "chinese": "在第二个路口右转",
+    "english": "Take the second turning on the right",
+    "soundmark": "/teɪk ðə ˈsekənd ˈtɜːrnɪŋ ɑːn ðə raɪt/",
+    "grammar": [
+      {
+        "text": "Take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "the second turning",
+        "role": "O",
+        "phonetic": "/ðə ˈsekənd ˈtɜːrnɪŋ/",
+        "chinese": "这个/那个/秒/第二/转/变得"
+      },
+      {
+        "text": "on the right",
+        "role": "A",
+        "phonetic": "/ɑːn ðə raɪt/",
+        "chinese": "在…上/这个/那个/对的/右边的"
+      }
+    ]
+  },
+  {
+    "chinese": "在拐角对面",
+    "english": "It is just around the corner",
+    "soundmark": "/ɪt ɪz dʒʌst əˈraʊnd ðə ˈkɔːrnər/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "just around the corner",
+        "role": "C",
+        "phonetic": "/dʒʌst əˈraʊnd ðə ˈkɔːrnər/",
+        "chinese": "刚刚/只是/围绕/大约/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "对不起我迷路了",
+    "english": "Excuse me I am lost",
+    "soundmark": "/ɪkˈskjuːz miː aɪ æm lɔːst/",
+    "grammar": [
+      {
+        "text": "Excuse me",
+        "role": "Int",
+        "phonetic": "/ɪkˈskjuːz miː/",
+        "chinese": "请原谅/我"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "lost",
+        "role": "C",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      }
+    ]
+  },
+  {
+    "chinese": "直走",
+    "english": "go straight",
+    "soundmark": "/ɡoʊ streɪt/"
+  },
+  {
+    "chinese": "迷路",
+    "english": "lost",
+    "soundmark": "/lɔːst/"
+  },
+  {
+    "chinese": "拐角处",
+    "english": "around the corner",
+    "soundmark": "/əˈraʊnd ðə ˈkɔːrnər/"
+  },
+  {
+    "chinese": "十字路口",
+    "english": "crossroads",
+    "soundmark": "/ˈkrɔːsroʊdz/"
+  },
+  {
+    "chinese": "路标",
+    "english": "sign",
+    "soundmark": "/saɪn/"
+  },
+  {
+    "chinese": "步行",
+    "english": "on foot",
+    "soundmark": "/ɑːn fʊt/"
+  },
+  {
+    "chinese": "对不起打扰了",
+    "english": "Excuse me",
+    "soundmark": "/ɪkˈskjuːz miː/"
+  },
+  {
+    "chinese": "邮局怎么走",
+    "english": "How do I get to the post office",
+    "soundmark": "/haʊ duː aɪ ɡet tuː ðə poʊst ˈɑːfɪs/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "to the post office",
+        "role": "A",
+        "phonetic": "/tuː ðə poʊst ˈɑːfɪs/",
+        "chinese": "到/向/这个/那个/办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "过了桥就到了",
+    "english": "Go over the bridge and you will see it",
+    "soundmark": "/ɡoʊ ˈoʊvər ðə brɪdʒ ænd juː wɪl siː ɪt/",
+    "grammar": [
+      {
+        "text": "Go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "over the bridge",
+        "role": "A",
+        "phonetic": "/ˈoʊvər ðə brɪdʒ/",
+        "chinese": "在…上方/这个/那个/桥"
+      },
+      {
+        "text": "and you will see it",
+        "role": "A",
+        "phonetic": "/ænd juː wɪl siː ɪt/",
+        "chinese": "和/你/你们/将要/看见/它"
+      }
+    ]
+  },
+  {
+    "chinese": "请问最近的银行在哪里",
+    "english": "Could you tell me where the nearest bank is",
+    "soundmark": "/kʊd juː tel miː wer ðə ˈnɪrɪst bæŋk ɪz/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "where the nearest bank is",
+        "role": "O",
+        "phonetic": "/wer ðə ˈnɪrɪst bæŋk ɪz/",
+        "chinese": "哪里/这个/那个/最…的(在…附近)/银行/是"
+      }
+    ]
+  },
+  {
+    "chinese": "沿着这条街一直走",
+    "english": "Go along this street",
+    "soundmark": "/ɡoʊ əˈlɔːŋ ðɪs striːt/",
+    "grammar": [
+      {
+        "text": "Go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "along this street",
+        "role": "A",
+        "phonetic": "/əˈlɔːŋ ðɪs striːt/",
+        "chinese": "沿着/这个/街道"
+      }
+    ]
+  },
+  {
+    "chinese": "然后你就会看到一个公园在左边",
+    "english": "Then you will see a park on your left",
+    "soundmark": "/ðen juː wɪl siː ə pɑːrk ɑːn jɔːr left/",
+    "grammar": [
+      {
+        "text": "Then",
+        "role": "A",
+        "phonetic": "/ðen/",
+        "chinese": "然后"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will see",
+        "role": "V",
+        "phonetic": "/wɪl siː/",
+        "chinese": "将要/看见"
+      },
+      {
+        "text": "a park",
+        "role": "O",
+        "phonetic": "/ə pɑːrk/",
+        "chinese": "一个公园"
+      },
+      {
+        "text": "on your left",
+        "role": "A",
+        "phonetic": "/ɑːn jɔːr left/",
+        "chinese": "在…上/你的/你们的/左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "从这里到机场要多久",
+    "english": "How far is the airport from here",
+    "soundmark": "/haʊ fɑːr ɪz ði ˈerpɔːrt frʌm hɪr/",
+    "grammar": [
+      {
+        "text": "How far",
+        "role": "S",
+        "phonetic": "/haʊ fɑːr/",
+        "chinese": "多远"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the airport",
+        "role": "S",
+        "phonetic": "/ði ˈerpɔːrt/",
+        "chinese": "这个/那个/机场"
+      },
+      {
+        "text": "from here",
+        "role": "A",
+        "phonetic": "/frʌm hɪr/",
+        "chinese": "从/来自/这里"
+      }
+    ]
+  },
+  {
+    "chinese": "大约二十分钟车程",
+    "english": "It is about a twenty-minute drive",
+    "soundmark": "/ɪt ɪz əˈbaʊt ə ˈtwenti ˈmɪnɪt draɪv/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "about a twenty-minute drive",
+        "role": "C",
+        "phonetic": "/əˈbaʊt ə ˈtwenti ˈmɪnɪt draɪv/",
+        "chinese": "关于/大约/一个/驾驶"
+      }
+    ]
+  },
+  {
+    "chinese": "穿过马路然后左转",
+    "english": "Cross the road and turn left",
+    "soundmark": "/krɔːs ðə roʊd ænd tɜːrn left/",
+    "grammar": [
+      {
+        "text": "Cross",
+        "role": "V",
+        "phonetic": "/krɔːs/",
+        "chinese": "穿过"
+      },
+      {
+        "text": "the road",
+        "role": "O",
+        "phonetic": "/ðə roʊd/",
+        "chinese": "这个/那个/路"
+      },
+      {
+        "text": "and turn left",
+        "role": "A",
+        "phonetic": "/ænd tɜːrn left/",
+        "chinese": "和/转/变得/左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "最近的",
+    "english": "nearest",
+    "soundmark": "/ˈnɪrɪst/"
+  },
+  {
+    "chinese": "沿着",
+    "english": "along",
+    "soundmark": "/əˈlɔːŋ/"
+  },
+  {
+    "chinese": "多远",
+    "english": "how far",
+    "soundmark": "/haʊ fɑːr/"
+  },
+  {
+    "chinese": "大约",
+    "english": "about",
+    "soundmark": "/əˈbaʊt/"
+  },
+  {
+    "chinese": "过马路",
+    "english": "cross the road",
+    "soundmark": "/krɔːs ðə roʊd/"
+  },
+  {
+    "chinese": "邮局",
+    "english": "post office",
+    "soundmark": "/poʊst ˈɑːfɪs/"
+  },
+  {
+    "chinese": "往前",
+    "english": "ahead",
+    "soundmark": "/əˈhed/"
+  },
+  {
+    "chinese": "附近有地铁站吗",
+    "english": "Is there a subway station nearby",
+    "soundmark": "/ɪz ðer ə ˈsʌbweɪ ˈsteɪʃn ˈnɪrbaɪ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a subway station",
+        "role": "C",
+        "phonetic": "/ə ˈsʌbweɪ ˈsteɪʃn/",
+        "chinese": "一个/地铁/车站"
+      },
+      {
+        "text": "nearby",
+        "role": "A",
+        "phonetic": "/ˈnɪrbaɪ/",
+        "chinese": "附近的"
+      }
+    ]
+  },
+  {
+    "chinese": "是的沿着这条路走大约十分钟",
+    "english": "Yes go down this road for about ten minutes",
+    "soundmark": "/jes ɡoʊ daʊn ðɪs roʊd fɔːr əˈbaʊt ten ˈmɪnɪts/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "down this road",
+        "role": "A",
+        "phonetic": "/daʊn ðɪs roʊd/",
+        "chinese": "向下/这个/路"
+      },
+      {
+        "text": "for about ten minutes",
+        "role": "A",
+        "phonetic": "/fɔːr əˈbaʊt ten ˈmɪnɪts/",
+        "chinese": "为了/对于/关于/大约/十/…们/复数(分钟)"
+      }
+    ]
+  },
+  {
+    "chinese": "你能在地图上指给我看吗",
+    "english": "Can you show me on the map",
+    "soundmark": "/kæn juː ʃoʊ miː ɑːn ðə mæp/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "show",
+        "role": "V",
+        "phonetic": "/ʃoʊ/",
+        "chinese": "展示"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "on the map",
+        "role": "A",
+        "phonetic": "/ɑːn ðə mæp/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "一直走到看见超市然后右转",
+    "english": "Keep going until you see a supermarket then turn right",
+    "soundmark": "/kiːp ˈɡoʊɪŋ ʌnˈtɪl juː siː ə ˈsuːpərmɑːrkɪt ðen tɜːrn raɪt/",
+    "grammar": [
+      {
+        "text": "Keep",
+        "role": "V",
+        "phonetic": "/kiːp/",
+        "chinese": "保持/保留"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "until you see a supermarket",
+        "role": "A",
+        "phonetic": "/ʌnˈtɪl juː siː ə ˈsuːpərmɑːrkɪt/",
+        "chinese": "直到/你/你们/看见/一个/超市"
+      },
+      {
+        "text": "then turn right",
+        "role": "A",
+        "phonetic": "/ðen tɜːrn raɪt/",
+        "chinese": "那时/然后/转/变得/对的/右边的"
+      }
+    ]
+  },
+  {
+    "chinese": "地铁站",
+    "english": "subway station",
+    "soundmark": "/ˈsʌbweɪ ˈsteɪʃn/"
+  },
+  {
+    "chinese": "附近",
+    "english": "nearby",
+    "soundmark": "/ˈnɪrbaɪ/"
+  },
+  {
+    "chinese": "沿着这条路",
+    "english": "go down this road",
+    "soundmark": "/ɡoʊ daʊn ðɪs roʊd/"
+  },
+  {
+    "chinese": "指给我看",
+    "english": "show me",
+    "soundmark": "/ʃoʊ miː/"
+  },
+  {
+    "chinese": "直到",
+    "english": "until",
+    "soundmark": "/ʌnˈtɪl/"
+  },
+  {
+    "chinese": "超市",
+    "english": "supermarket",
+    "soundmark": "/ˈsuːpərmɑːrkɪt/"
+  },
+  {
+    "chinese": "继续走",
+    "english": "keep going",
+    "soundmark": "/kiːp ˈɡoʊɪŋ/"
+  },
+  {
+    "chinese": "桥",
+    "english": "bridge",
+    "soundmark": "/brɪdʒ/"
+  }
+]

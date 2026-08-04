@@ -1,0 +1,679 @@
+[
+  {
+    "chinese": "有趣的",
+    "english": "funny",
+    "soundmark": "/ˈfʌni/"
+  },
+  {
+    "chinese": "幽默",
+    "english": "humour",
+    "soundmark": "/ˈhjuːmər/"
+  },
+  {
+    "chinese": "笑话",
+    "english": "joke",
+    "soundmark": "/dʒoʊk/"
+  },
+  {
+    "chinese": "幽默的",
+    "english": "humorous",
+    "soundmark": "/ˈhjuːmərəs/"
+  },
+  {
+    "chinese": "滑稽的",
+    "english": "comical",
+    "soundmark": "/ˈkɑːmɪkəl/"
+  },
+  {
+    "chinese": "令人发笑",
+    "english": "make someone laugh",
+    "soundmark": "/meɪk/ /ˈsʌmwʌn/ /læf/"
+  },
+  {
+    "chinese": "喜剧",
+    "english": "comedy",
+    "soundmark": "/ˈkɑːmədi/"
+  },
+  {
+    "chinese": "笑料",
+    "english": "punchline",
+    "soundmark": "/ˈpʌntʃlaɪn/"
+  },
+  {
+    "chinese": "故事",
+    "english": "story",
+    "soundmark": "/ˈstɔːri/"
+  },
+  {
+    "chinese": "讽刺",
+    "english": "satire",
+    "soundmark": "/ˈsætaɪər/"
+  },
+  {
+    "chinese": "双关语",
+    "english": "pun",
+    "soundmark": "/pʌn/"
+  },
+  {
+    "chinese": "荒谬的",
+    "english": "absurd",
+    "soundmark": "/əbˈsɜːrd/"
+  },
+  {
+    "chinese": "观众",
+    "english": "audience",
+    "soundmark": "/ˈɑːdiəns/"
+  },
+  {
+    "chinese": "笑声",
+    "english": "laughter",
+    "soundmark": "/ˈlæftər/"
+  },
+  {
+    "chinese": "引起共鸣",
+    "english": "resonate with",
+    "soundmark": "/ˈrezəneɪt/ /wɪð/"
+  },
+  {
+    "chinese": "这个笑话让每个人都笑了",
+    "english": "The joke made everyone laugh",
+    "soundmark": "/ðə/ /dʒoʊk/ /meɪd/ /ˈevriwʌn/ /læf/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "joke",
+        "role": "S",
+        "phonetic": "/dʒoʊk/",
+        "chinese": ""
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "everyone",
+        "role": "O",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "laugh",
+        "role": "C",
+        "phonetic": "/læf/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "有些人觉得好笑的事情对另一些人来说可能很无趣",
+    "english": "What some people find funny others may find boring",
+    "soundmark": "/wɑːt/ /sʌm/ /ˈpiːpəl/ /faɪnd/ /ˈfʌni/ /ˈʌðərz/ /meɪ/ /faɪnd/ /ˈbɔːrɪŋ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wɑːt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "funny",
+        "role": "C",
+        "phonetic": "/ˈfʌni/",
+        "chinese": ""
+      },
+      {
+        "text": "others",
+        "role": "S",
+        "phonetic": "/ˈʌðərz/",
+        "chinese": "其他"
+      },
+      {
+        "text": "may",
+        "role": "Aux",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "boring",
+        "role": "C",
+        "phonetic": "/ˈbɔːrɪŋ/",
+        "chinese": "令人无聊的"
+      }
+    ]
+  },
+  {
+    "chinese": "他讲了一个非常幽默的故事使得所有观众都大笑起来",
+    "english": "He told a very humorous story that made the whole audience laugh",
+    "soundmark": "/hiː/ /toʊld/ /ə/ /ˈveri/ /ˈhjuːmərəs/ /ˈstɔːri/ /ðæt/ /meɪd/ /ðə/ /hoʊl/ /ˈɑːdiəns/ /læf/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "humorous",
+        "role": "A",
+        "phonetic": "/ˈhjuːmərəs/",
+        "chinese": ""
+      },
+      {
+        "text": "story",
+        "role": "O",
+        "phonetic": "/ˈstɔːri/",
+        "chinese": "故事"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "A",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "audience",
+        "role": "O",
+        "phonetic": "/ˈɑːdiəns/",
+        "chinese": ""
+      },
+      {
+        "text": "laugh",
+        "role": "C",
+        "phonetic": "/læf/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "幽默感是一种很珍贵的品质",
+    "english": "A sense of humour is a very valuable quality",
+    "soundmark": "/ə/ /sens/ /əv/ /ˈhjuːmər/ /ɪz/ /ə/ /ˈveri/ /ˈvæljuəbəl/ /ˈkwɑːləti/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "sense",
+        "role": "S",
+        "phonetic": "/sens/",
+        "chinese": "感觉/意义"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "humour",
+        "role": "O",
+        "phonetic": "/ˈhjuːmər/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "valuable",
+        "role": "A",
+        "phonetic": "/ˈvæljuəbəl/",
+        "chinese": "有价值的"
+      },
+      {
+        "text": "quality",
+        "role": "C",
+        "phonetic": "/ˈkwɑːləti/",
+        "chinese": "质量/品质"
+      }
+    ]
+  },
+  {
+    "chinese": "这个双关语并不像他想象的那么有趣",
+    "english": "The pun was not as funny as he thought it was",
+    "soundmark": "/ðə/ /pʌn/ /wʌz/ /nɑːt/ /əz/ /ˈfʌni/ /əz/ /hiː/ /θɑːt/ /ɪt/ /wʌz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "pun",
+        "role": "S",
+        "phonetic": "/pʌn/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "funny",
+        "role": "C",
+        "phonetic": "/ˈfʌni/",
+        "chinese": ""
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɑːt/",
+        "chinese": "想/认为（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "讽刺作品通常揭露社会中的荒谬现象",
+    "english": "Satire usually exposes the absurdities in society",
+    "soundmark": "/ˈsætaɪər/ /ˈjuːʒuəli/ /ɪkˈspoʊzɪz/ /ði/ /əbˈsɜːrɪtiz/ /ɪn/ /səˈsaɪəti/",
+    "grammar": [
+      {
+        "text": "Satire",
+        "role": "S",
+        "phonetic": "/ˈsætaɪər/",
+        "chinese": ""
+      },
+      {
+        "text": "usually",
+        "role": "Adv",
+        "phonetic": "/ˈjuːʒuəli/",
+        "chinese": "通常"
+      },
+      {
+        "text": "exposes",
+        "role": "V",
+        "phonetic": "/ɪkˈspoʊzɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "absurdities",
+        "role": "O",
+        "phonetic": "/əbˈsɜːrɪtiz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "society",
+        "role": "O",
+        "phonetic": "/səˈsaɪəti/",
+        "chinese": "社会"
+      }
+    ]
+  },
+  {
+    "chinese": "他的喜剧表演让全场观众笑个不停",
+    "english": "His comedy performance kept the entire audience laughing",
+    "soundmark": "/hɪz/ /ˈkɑːmədi/ /pərˈfɔːrməns/ /kept/ /ði/ /ɪnˈtaɪər/ /ˈɑːdiəns/ /ˈlæfɪŋ/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "comedy",
+        "role": "A",
+        "phonetic": "/ˈkɑːmədi/",
+        "chinese": ""
+      },
+      {
+        "text": "performance",
+        "role": "S",
+        "phonetic": "/pərˈfɔːrməns/",
+        "chinese": ""
+      },
+      {
+        "text": "kept",
+        "role": "V",
+        "phonetic": "/kept/",
+        "chinese": "保持/保留（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "entire",
+        "role": "A",
+        "phonetic": "/ɪnˈtaɪər/",
+        "chinese": ""
+      },
+      {
+        "text": "audience",
+        "role": "O",
+        "phonetic": "/ˈɑːdiəns/",
+        "chinese": ""
+      },
+      {
+        "text": "laughing",
+        "role": "C",
+        "phonetic": "/ˈlæfɪŋ/",
+        "chinese": "笑的"
+      }
+    ]
+  },
+  {
+    "chinese": "真正的笑话不需要解释人人都能理解",
+    "english": "A truly funny joke does not need explanation everyone can understand it",
+    "soundmark": "/ə/ /ˈtruːli/ /ˈfʌni/ /dʒoʊk/ /dʌz/ /nɑːt/ /niːd/ /ˌekspləˈneɪʃən/ /ˈevriwʌn/ /kæn/ /ˌʌndərˈstænd/ /ɪt/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "truly",
+        "role": "Adv",
+        "phonetic": "/ˈtruːli/",
+        "chinese": "…地(真的)"
+      },
+      {
+        "text": "funny",
+        "role": "A",
+        "phonetic": "/ˈfʌni/",
+        "chinese": ""
+      },
+      {
+        "text": "joke",
+        "role": "S",
+        "phonetic": "/dʒoʊk/",
+        "chinese": ""
+      },
+      {
+        "text": "does",
+        "role": "Aux",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "explanation",
+        "role": "O",
+        "phonetic": "/ˌekspləˈneɪʃən/",
+        "chinese": "解释"
+      },
+      {
+        "text": "everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "不是所有的喜剧都能引起不同文化背景的人的共鸣",
+    "english": "Not all comedies can resonate with people from different cultural backgrounds",
+    "soundmark": "/nɑːt/ /ɔːl/ /ˈkɑːmədiz/ /kæn/ /ˈrezəneɪt/ /wɪð/ /ˈpiːpəl/ /frʌm/ /ˈdɪfərənt/ /ˈkʌltʃərəl/ /ˈbækɡraʊndz/",
+    "grammar": [
+      {
+        "text": "Not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "comedies",
+        "role": "S",
+        "phonetic": "/ˈkɑːmədiz/",
+        "chinese": ""
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "resonate",
+        "role": "V",
+        "phonetic": "/ˈrezəneɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "people",
+        "role": "O",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "different",
+        "role": "A",
+        "phonetic": "/ˈdɪfərənt/",
+        "chinese": "不同的"
+      },
+      {
+        "text": "cultural",
+        "role": "A",
+        "phonetic": "/ˈkʌltʃərəl/",
+        "chinese": "文化的"
+      },
+      {
+        "text": "backgrounds",
+        "role": "A",
+        "phonetic": "/ˈbækɡraʊndz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "笑",
+    "english": "laughter",
+    "soundmark": "/ˈlæftər/"
+  },
+  {
+    "chinese": "喜剧演员",
+    "english": "comedian",
+    "soundmark": "/kəˈmiːdiən/"
+  },
+  {
+    "chinese": "荒谬",
+    "english": "absurd",
+    "soundmark": "/əbˈsɜːrd/"
+  },
+  {
+    "chinese": "讽刺",
+    "english": "satirical",
+    "soundmark": "/səˈtɪrɪkəl/"
+  },
+  {
+    "chinese": "娱乐",
+    "english": "entertainment",
+    "soundmark": "/ˌentərˈteɪnmənt/"
+  },
+  {
+    "chinese": "理解",
+    "english": "comprehend",
+    "soundmark": "/ˌkɑːmprɪˈhend/"
+  },
+  {
+    "chinese": "共鸣",
+    "english": "resonance",
+    "soundmark": "/ˈrezənəns/"
+  }
+]

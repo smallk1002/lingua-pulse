@@ -1,0 +1,882 @@
+[
+  {
+    "chinese": "钓鱼",
+    "english": "fishing",
+    "soundmark": "/ˈfɪʃɪŋ/"
+  },
+  {
+    "chinese": "渔夫",
+    "english": "fisherman",
+    "soundmark": "/ˈfɪʃərmən/"
+  },
+  {
+    "chinese": "船",
+    "english": "boat",
+    "soundmark": "/boʊt/"
+  },
+  {
+    "chinese": "抓住",
+    "english": "catch",
+    "soundmark": "/kætʃ/"
+  },
+  {
+    "chinese": "鱼",
+    "english": "fish",
+    "soundmark": "/fɪʃ/"
+  },
+  {
+    "chinese": "河流",
+    "english": "river",
+    "soundmark": "/ˈrɪvər/"
+  },
+  {
+    "chinese": "运气",
+    "english": "luck",
+    "soundmark": "/lʌk/"
+  },
+  {
+    "chinese": "不幸的",
+    "english": "unlucky",
+    "soundmark": "/ʌnˈlʌki/"
+  },
+  {
+    "chinese": "虫子",
+    "english": "worm",
+    "soundmark": "/wɜːrm/"
+  },
+  {
+    "chinese": "诱饵",
+    "english": "bait",
+    "soundmark": "/beɪt/"
+  },
+  {
+    "chinese": "钓竿",
+    "english": "rod",
+    "soundmark": "/rɑːd/"
+  },
+  {
+    "chinese": "线",
+    "english": "line",
+    "soundmark": "/laɪn/"
+  },
+  {
+    "chinese": "一整天",
+    "english": "all day",
+    "soundmark": "/ɔːl/ /deɪ/"
+  },
+  {
+    "chinese": "一条鱼也没钓到",
+    "english": "catch no fish",
+    "soundmark": "/kætʃ/ /noʊ/ /fɪʃ/"
+  },
+  {
+    "chinese": "坐在船里",
+    "english": "sit in a boat",
+    "soundmark": "/sɪt/ /ɪn/ /ə/ /boʊt/"
+  },
+  {
+    "chinese": "那个人又在河里钓鱼了",
+    "english": "The man is fishing in the river again",
+    "soundmark": "/ðə/ /mæn/ /ɪz/ /ˈfɪʃɪŋ/ /ɪn/ /ðə/ /ˈrɪvər/ /əˈɡen/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "fishing",
+        "role": "V",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "chinese": "钓鱼"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "O",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      },
+      {
+        "text": "again",
+        "role": "Adv",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      }
+    ]
+  },
+  {
+    "chinese": "他已经在那儿待了一整天了",
+    "english": "He has been there all day",
+    "soundmark": "/hiː/ /hæz/ /biːn/ /ðer/ /ɔːl/ /deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "there",
+        "role": "Adv",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "他一条鱼也没钓到",
+    "english": "He has not caught any fish",
+    "soundmark": "/hiː/ /hæz/ /nɑːt/ /kɔːt/ /ˈeni/ /fɪʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "fish",
+        "role": "O",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "这个渔夫运气不好",
+    "english": "This fisherman is unlucky",
+    "soundmark": "/ðɪs/ /ˈfɪʃərmən/ /ɪz/ /ʌnˈlʌki/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "fisherman",
+        "role": "S",
+        "phonetic": "/ˈfɪʃərmən/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "unlucky",
+        "role": "C",
+        "phonetic": "/ʌnˈlʌki/",
+        "chinese": "不幸的"
+      }
+    ]
+  },
+  {
+    "chinese": "他从早上起就一直在钓鱼",
+    "english": "He has been fishing since morning",
+    "soundmark": "/hiː/ /hæz/ /biːn/ /ˈfɪʃɪŋ/ /sɪns/ /ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "fishing",
+        "role": "V",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "chinese": "钓鱼"
+      },
+      {
+        "text": "since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "morning",
+        "role": "O",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "船上有一个人",
+    "english": "There is a man in a boat",
+    "soundmark": "/ðer/ /ɪz/ /ə/ /mæn/ /ɪn/ /ə/ /boʊt/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "man",
+        "role": "C",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "boat",
+        "role": "O",
+        "phonetic": "/boʊt/",
+        "chinese": "小船"
+      }
+    ]
+  },
+  {
+    "chinese": "他正在用虫子做鱼饵",
+    "english": "He is putting a worm on the hook",
+    "soundmark": "/hiː/ /ɪz/ /ˈpʊtɪŋ/ /ə/ /wɜːrm/ /ɑːn/ /ðə/ /hʊk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "putting",
+        "role": "V",
+        "phonetic": "/ˈpʊtɪŋ/",
+        "chinese": "放"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "worm",
+        "role": "O",
+        "phonetic": "/wɜːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "hook",
+        "role": "O",
+        "phonetic": "/hʊk/",
+        "chinese": "钩子"
+      }
+    ]
+  },
+  {
+    "chinese": "他一直都没钓到鱼",
+    "english": "He has never caught a fish",
+    "soundmark": "/hiː/ /hæz/ /ˈnevər/ /kɔːt/ /ə/ /fɪʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fish",
+        "role": "O",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "别的渔夫都钓到了很多鱼",
+    "english": "The other fishermen have caught a lot of fish",
+    "soundmark": "/ðə/ /ˈʌðər/ /ˈfɪʃərmən/ /hæv/ /kɔːt/ /ə/ /lɑːt/ /ʌv/ /fɪʃ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "other",
+        "role": "A",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      },
+      {
+        "text": "fishermen",
+        "role": "S",
+        "phonetic": "/ˈfɪʃərmən/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lot",
+        "role": "O",
+        "phonetic": "/lɑːt/",
+        "chinese": "许多"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "fish",
+        "role": "O",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "他为什么总是在这条河钓鱼",
+    "english": "Why does he always fish in this river",
+    "soundmark": "/waɪ/ /dʌz/ /hiː/ /ˈɔːlweɪz/ /fɪʃ/ /ɪn/ /ðɪs/ /ˈrɪvər/",
+    "grammar": [
+      {
+        "text": "Why",
+        "role": "Adv",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "fish",
+        "role": "V",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "river",
+        "role": "O",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      }
+    ]
+  },
+  {
+    "chinese": "我确信他今天会钓到一条鱼",
+    "english": "I am sure he will catch a fish today",
+    "soundmark": "/aɪ/ /æm/ /ʃʊr/ /hiː/ /wɪl/ /kætʃ/ /ə/ /fɪʃ/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "sure",
+        "role": "C",
+        "phonetic": "/ʃʊr/",
+        "chinese": "确定的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "catch",
+        "role": "V",
+        "phonetic": "/kætʃ/",
+        "chinese": "抓住"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fish",
+        "role": "O",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "他还没有放弃希望",
+    "english": "He has not given up hope",
+    "soundmark": "/hiː/ /hæz/ /nɑːt/ /ˈɡɪvən/ /ʌp/ /hoʊp/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "given",
+        "role": "V",
+        "phonetic": "/ˈɡɪvən/",
+        "chinese": "给定的"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "hope",
+        "role": "O",
+        "phonetic": "/hoʊp/",
+        "chinese": "希望"
+      }
+    ]
+  },
+  {
+    "chinese": "他正在把鱼线放进水里",
+    "english": "He is dropping the line into the water",
+    "soundmark": "/hiː/ /ɪz/ /ˈdrɑːpɪŋ/ /ðə/ /laɪn/ /ˈɪntuː/ /ðə/ /ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "dropping",
+        "role": "V",
+        "phonetic": "/ˈdrɑːpɪŋ/",
+        "chinese": "落下/下降"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "line",
+        "role": "O",
+        "phonetic": "/laɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "他坐在船里等鱼上钩",
+    "english": "He is sitting in the boat waiting for a fish",
+    "soundmark": "/hiː/ /ɪz/ /ˈsɪtɪŋ/ /ɪn/ /ðə/ /boʊt/ /ˈweɪtɪŋ/ /fɔːr/ /ə/ /fɪʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "sitting",
+        "role": "V",
+        "phonetic": "/ˈsɪtɪŋ/",
+        "chinese": "坐着的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "boat",
+        "role": "O",
+        "phonetic": "/boʊt/",
+        "chinese": "小船"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fish",
+        "role": "O",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "他可能今天又得空手回家",
+    "english": "He will probably go home empty-handed again today",
+    "soundmark": "/hiː/ /wɪl/ /ˈprɑːbəbli/ /ɡoʊ/ /hoʊm/ /ˈempti/ /ˈhændɪd/ /əˈɡen/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "probably",
+        "role": "Adv",
+        "phonetic": "/ˈprɑːbəbli/",
+        "chinese": "可能"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "home",
+        "role": "Adv",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "empty",
+        "role": "A",
+        "phonetic": "/ˈempti/",
+        "chinese": "空的"
+      },
+      {
+        "text": "handed",
+        "role": "A",
+        "phonetic": "/ˈhændɪd/",
+        "chinese": "手"
+      },
+      {
+        "text": "again",
+        "role": "Adv",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "鱼竿",
+    "english": "fishing rod",
+    "soundmark": "/ˈfɪʃɪŋ/ /rɑːd/"
+  },
+  {
+    "chinese": "鱼钩",
+    "english": "hook",
+    "soundmark": "/hʊk/"
+  },
+  {
+    "chinese": "空的",
+    "english": "empty",
+    "soundmark": "/ˈempti/"
+  },
+  {
+    "chinese": "其他",
+    "english": "other",
+    "soundmark": "/ˈʌðər/"
+  },
+  {
+    "chinese": "希望",
+    "english": "hope",
+    "soundmark": "/hoʊp/"
+  },
+  {
+    "chinese": "可能",
+    "english": "probably",
+    "soundmark": "/ˈprɑːbəbli/"
+  },
+  {
+    "chinese": "放弃",
+    "english": "give up",
+    "soundmark": "/ɡɪv/ /ʌp/"
+  },
+  {
+    "chinese": "确信",
+    "english": "sure",
+    "soundmark": "/ʃʊr/"
+  }
+]

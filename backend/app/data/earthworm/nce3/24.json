@@ -1,0 +1,740 @@
+[
+  {
+    "chinese": "骷髅",
+    "english": "skeleton",
+    "soundmark": "/ˈskelɪtən/"
+  },
+  {
+    "chinese": "衣橱",
+    "english": "cupboard",
+    "soundmark": "/ˈkʌbərd/"
+  },
+  {
+    "chinese": "家丑",
+    "english": "family secret",
+    "soundmark": "/ˈfæmɪli/ /ˈsiːkrət/"
+  },
+  {
+    "chinese": "令人尴尬的",
+    "english": "embarrassing",
+    "soundmark": "/ɪmˈbærəsɪŋ/"
+  },
+  {
+    "chinese": "尴尬",
+    "english": "embarrassment",
+    "soundmark": "/ɪmˈbærəsmənt/"
+  },
+  {
+    "chinese": "隐藏",
+    "english": "hide",
+    "soundmark": "/haɪd/"
+  },
+  {
+    "chinese": "揭示",
+    "english": "reveal",
+    "soundmark": "/rɪˈviːl/"
+  },
+  {
+    "chinese": "秘密",
+    "english": "secret",
+    "soundmark": "/ˈsiːkrət/"
+  },
+  {
+    "chinese": "令人震惊的",
+    "english": "shocking",
+    "soundmark": "/ˈʃɑːkɪŋ/"
+  },
+  {
+    "chinese": "震惊",
+    "english": "shock",
+    "soundmark": "/ʃɑːk/"
+  },
+  {
+    "chinese": "坦白",
+    "english": "confess",
+    "soundmark": "/kənˈfes/"
+  },
+  {
+    "chinese": "承认",
+    "english": "admit",
+    "soundmark": "/ədˈmɪt/"
+  },
+  {
+    "chinese": "令人不安的",
+    "english": "disturbing",
+    "soundmark": "/dɪˈstɜːrbɪŋ/"
+  },
+  {
+    "chinese": "丑闻",
+    "english": "scandal",
+    "soundmark": "/ˈskændəl/"
+  },
+  {
+    "chinese": "不可告人的",
+    "english": "dark",
+    "soundmark": "/dɑːrk/"
+  },
+  {
+    "chinese": "他告诉我们他家里有一段不愿提起的往事",
+    "english": "He told us there was a dark chapter in his family he preferred not to discuss",
+    "soundmark": "/hiː/ /toʊld/ /ʌs/ /ðer/ /wʌz/ /ə/ /dɑːrk/ /ˈtʃæptər/ /ɪn/ /hɪz/ /ˈfæmɪli/ /hiː/ /prɪˈfɜːrd/ /nɑːt/ /tə/ /dɪˈskʌs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "dark",
+        "role": "A",
+        "phonetic": "/dɑːrk/",
+        "chinese": "黑暗的"
+      },
+      {
+        "text": "chapter",
+        "role": "C",
+        "phonetic": "/ˈtʃæptər/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "family",
+        "role": "A",
+        "phonetic": "/ˈfæmɪli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "preferred",
+        "role": "V",
+        "phonetic": "/prɪˈfɜːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "not",
+        "role": "Adv",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "discuss",
+        "role": "V",
+        "phonetic": "/dɪˈskʌs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "每个家庭都有不可告人的秘密",
+    "english": "Every family has its skeletons in the cupboard",
+    "soundmark": "/ˈevri/ /ˈfæmɪli/ /hæz/ /ɪts/ /ˈskelɪtənz/ /ɪn/ /ðə/ /ˈkʌbərd/",
+    "grammar": [
+      {
+        "text": "Every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "family",
+        "role": "S",
+        "phonetic": "/ˈfæmɪli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "skeletons",
+        "role": "O",
+        "phonetic": "/ˈskelɪtənz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cupboard",
+        "role": "A",
+        "phonetic": "/ˈkʌbərd/",
+        "chinese": "柜子"
+      }
+    ]
+  },
+  {
+    "chinese": "他坦白了自己过去的犯罪行为令所有人都感到震惊",
+    "english": "His confession of past crimes shocked everyone",
+    "soundmark": "/hɪz/ /kənˈfeʃən/ /əv/ /pæst/ /kraɪmz/ /ʃɑːkt/ /ˈevriwʌn/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "confession",
+        "role": "S",
+        "phonetic": "/kənˈfeʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "past",
+        "role": "A",
+        "phonetic": "/pæst/",
+        "chinese": "过去"
+      },
+      {
+        "text": "crimes",
+        "role": "O",
+        "phonetic": "/kraɪmz/",
+        "chinese": ""
+      },
+      {
+        "text": "shocked",
+        "role": "V",
+        "phonetic": "/ʃɑːkt/",
+        "chinese": "震惊的"
+      },
+      {
+        "text": "everyone",
+        "role": "O",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      }
+    ]
+  },
+  {
+    "chinese": "她把那个令人尴尬的秘密藏了多年",
+    "english": "She kept the embarrassing secret hidden for years",
+    "soundmark": "/ʃiː/ /kept/ /ði/ /ɪmˈbærəsɪŋ/ /ˈsiːkrət/ /ˈhɪdən/ /fɔːr/ /jɪrz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "kept",
+        "role": "V",
+        "phonetic": "/kept/",
+        "chinese": "保持/保留（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "embarrassing",
+        "role": "A",
+        "phonetic": "/ɪmˈbærəsɪŋ/",
+        "chinese": "令人尴尬的"
+      },
+      {
+        "text": "secret",
+        "role": "O",
+        "phonetic": "/ˈsiːkrət/",
+        "chinese": "秘密"
+      },
+      {
+        "text": "hidden",
+        "role": "C",
+        "phonetic": "/ˈhɪdən/",
+        "chinese": "隐藏的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "真相最终大白时没有人感到惊讶",
+    "english": "When the truth was finally revealed nobody was surprised",
+    "soundmark": "/wen/ /ðə/ /truːθ/ /wʌz/ /ˈfaɪnəli/ /rɪˈviːld/ /ˈnoʊbədi/ /wʌz/ /sərˈpraɪzd/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "truth",
+        "role": "S",
+        "phonetic": "/truːθ/",
+        "chinese": "真相"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "finally",
+        "role": "Adv",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "revealed",
+        "role": "V",
+        "phonetic": "/rɪˈviːld/",
+        "chinese": "揭露"
+      },
+      {
+        "text": "nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "surprised",
+        "role": "C",
+        "phonetic": "/sərˈpraɪzd/",
+        "chinese": "惊讶的"
+      }
+    ]
+  },
+  {
+    "chinese": "那个令人不安的消息使他整个晚上都心神不宁",
+    "english": "The disturbing news kept him uneasy all night",
+    "soundmark": "/ðə/ /dɪˈstɜːrbɪŋ/ /nuːz/ /kept/ /hɪm/ /ˈʌnˌiːzi/ /ɔːl/ /naɪt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "disturbing",
+        "role": "A",
+        "phonetic": "/dɪˈstɜːrbɪŋ/",
+        "chinese": "打扰"
+      },
+      {
+        "text": "news",
+        "role": "S",
+        "phonetic": "/nuːz/",
+        "chinese": "新闻"
+      },
+      {
+        "text": "kept",
+        "role": "V",
+        "phonetic": "/kept/",
+        "chinese": "保持/保留（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "uneasy",
+        "role": "C",
+        "phonetic": "/ˈʌnˌiːzi/",
+        "chinese": ""
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他承认自己曾经撒过谎",
+    "english": "He admitted that he had told a lie",
+    "soundmark": "/hiː/ /ədˈmɪtɪd/ /ðæt/ /hiː/ /hæd/ /toʊld/ /ə/ /laɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "admitted",
+        "role": "V",
+        "phonetic": "/ədˈmɪtɪd/",
+        "chinese": "承认"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lie",
+        "role": "O",
+        "phonetic": "/laɪ/",
+        "chinese": "躺/说谎"
+      }
+    ]
+  },
+  {
+    "chinese": "这个家族的丑闻在几十年后才被揭露",
+    "english": "The family scandal was not exposed until decades later",
+    "soundmark": "/ðə/ /ˈfæmɪli/ /ˈskændəl/ /wʌz/ /nɑːt/ /ɪkˈspoʊzd/ /ʌnˈtɪl/ /ˈdekeɪdz/ /ˈleɪtər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "family",
+        "role": "A",
+        "phonetic": "/ˈfæmɪli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "scandal",
+        "role": "S",
+        "phonetic": "/ˈskændəl/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "exposed",
+        "role": "V",
+        "phonetic": "/ɪkˈspoʊzd/",
+        "chinese": ""
+      },
+      {
+        "text": "until",
+        "role": "P",
+        "phonetic": "/ʌnˈtɪl/",
+        "chinese": "直到"
+      },
+      {
+        "text": "decades",
+        "role": "A",
+        "phonetic": "/ˈdekeɪdz/",
+        "chinese": "…们/复数(十年)"
+      },
+      {
+        "text": "later",
+        "role": "Adv",
+        "phonetic": "/ˈleɪtər/",
+        "chinese": "后来"
+      }
+    ]
+  },
+  {
+    "chinese": "我无意中发现了他的一个不愿为人知的秘密",
+    "english": "I accidentally discovered a secret he did not want anyone to know",
+    "soundmark": "/aɪ/ /ˌæksɪˈdentəli/ /dɪˈskʌvərd/ /ə/ /ˈsiːkrət/ /hiː/ /dɪd/ /nɑːt/ /wɑːnt/ /ˈeniwʌn/ /tuː/ /noʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "accidentally",
+        "role": "Adv",
+        "phonetic": "/ˌæksɪˈdentəli/",
+        "chinese": ""
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "secret",
+        "role": "O",
+        "phonetic": "/ˈsiːkrət/",
+        "chinese": "秘密"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "anyone",
+        "role": "O",
+        "phonetic": "/ˈeniwʌn/",
+        "chinese": "任何人"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      }
+    ]
+  },
+  {
+    "chinese": "没有人愿意谈论那件尴尬的事情",
+    "english": "Nobody wanted to talk about that embarrassing incident",
+    "soundmark": "/ˈnoʊbədi/ /ˈwɑːntɪd/ /tuː/ /tɔːk/ /əˈbaʊt/ /ðæt/ /ɪmˈbærəsɪŋ/ /ˈɪnsɪdənt/",
+    "grammar": [
+      {
+        "text": "Nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "wanted",
+        "role": "V",
+        "phonetic": "/ˈwɑːntɪd/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "talk",
+        "role": "V",
+        "phonetic": "/tɔːk/",
+        "chinese": "谈话"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "embarrassing",
+        "role": "A",
+        "phonetic": "/ɪmˈbærəsɪŋ/",
+        "chinese": "令人尴尬的"
+      },
+      {
+        "text": "incident",
+        "role": "O",
+        "phonetic": "/ˈɪnsɪdənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "揭露",
+    "english": "expose",
+    "soundmark": "/ɪkˈspoʊz/"
+  },
+  {
+    "chinese": "令人不安",
+    "english": "disturbing",
+    "soundmark": "/dɪˈstɜːrbɪŋ/"
+  },
+  {
+    "chinese": "过去的事",
+    "english": "past",
+    "soundmark": "/pæst/"
+  },
+  {
+    "chinese": "犯罪",
+    "english": "crime",
+    "soundmark": "/kraɪm/"
+  },
+  {
+    "chinese": "家族",
+    "english": "family",
+    "soundmark": "/ˈfæmɪli/"
+  },
+  {
+    "chinese": "意外地",
+    "english": "accidentally",
+    "soundmark": "/ˌæksɪˈdentəli/"
+  },
+  {
+    "chinese": "事件",
+    "english": "incident",
+    "soundmark": "/ˈɪnsɪdənt/"
+  }
+]

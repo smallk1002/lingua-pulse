@@ -1,0 +1,2827 @@
+[
+  {
+    "chinese": "本会(would have)",
+    "english": "would have",
+    "soundmark": "/wʊd hæv/"
+  },
+  {
+    "chinese": "本能(could have)",
+    "english": "could have",
+    "soundmark": "/kʊd hæv/"
+  },
+  {
+    "chinese": "本可能(might have)",
+    "english": "might have",
+    "soundmark": "/maɪt hæv/"
+  },
+  {
+    "chinese": "本应该(should have)",
+    "english": "should have",
+    "soundmark": "/ʃʊd hæv/"
+  },
+  {
+    "chinese": "如果我知道过(had known)",
+    "english": "had known",
+    "soundmark": "/hæd noʊn/"
+  },
+  {
+    "chinese": "如果我来过(had come)",
+    "english": "had come",
+    "soundmark": "/hæd kʌm/"
+  },
+  {
+    "chinese": "如果我看见过(had seen)",
+    "english": "had seen",
+    "soundmark": "/hæd siːn/"
+  },
+  {
+    "chinese": "如果我听过(had heard)",
+    "english": "had heard",
+    "soundmark": "/hæd hɜːrd/"
+  },
+  {
+    "chinese": "如果我知道",
+    "english": "if I had known",
+    "soundmark": "/ɪf aɪ hæd noʊn/"
+  },
+  {
+    "chinese": "如果我当时看见你了",
+    "english": "if I had seen you",
+    "soundmark": "/ɪf aɪ hæd siːn juː/"
+  },
+  {
+    "chinese": "如果当时下雨了",
+    "english": "if it had rained",
+    "soundmark": "/ɪf ɪt hæd reɪnd/"
+  },
+  {
+    "chinese": "如果我当时有足够的时间",
+    "english": "if I had had enough time",
+    "soundmark": "/ɪf aɪ hæd hæd ɪˈnʌf taɪm/"
+  },
+  {
+    "chinese": "如果我当时早点起床",
+    "english": "if I had woken up earlier",
+    "soundmark": "/ɪf aɪ hæd ˈwoʊkən ʌp ˈɜːrliər/"
+  },
+  {
+    "chinese": "如果我早知道我就来了",
+    "english": "If I had known I would have come",
+    "soundmark": "/ɪf aɪ hæd noʊn aɪ wʊd hæv kʌm/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      }
+    ]
+  },
+  {
+    "chinese": "如果当时下雨的话我就不出去了",
+    "english": "If it had rained I would have stayed home",
+    "soundmark": "/ɪf ɪt hæd reɪnd aɪ wʊd hæv steɪd hoʊm/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "rained",
+        "role": "V",
+        "phonetic": "/reɪnd/",
+        "chinese": "雨"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "stayed",
+        "role": "V",
+        "phonetic": "/steɪd/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我当时努力学习我就会通过考试",
+    "english": "If I had studied harder I would have passed the exam",
+    "soundmark": "/ɪf aɪ hæd ˈstʌdid ˈhɑːrdər aɪ wʊd hæv pæst ði ɪɡˈzæm/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "studied",
+        "role": "V",
+        "phonetic": "/ˈstʌdid/",
+        "chinese": "学习（过去式）"
+      },
+      {
+        "text": "harder",
+        "role": "A",
+        "phonetic": "/ˈhɑːrdər/",
+        "chinese": "更…的/…者(硬的/难的)"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pæst/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "exam",
+        "role": "O",
+        "phonetic": "/ɪɡˈzæm/",
+        "chinese": "考试"
+      }
+    ]
+  },
+  {
+    "chinese": "如果当时我看见你我就跟你打招呼了",
+    "english": "If I had seen you I would have said hello",
+    "soundmark": "/ɪf aɪ hæd siːn juː aɪ wʊd hæv sed həˈloʊ/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "hello",
+        "role": "O",
+        "phonetic": "/həˈloʊ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果她当时告诉我真相我就不会生气了",
+    "english": "If she had told me the truth I wouldn't have been angry",
+    "soundmark": "/ɪf ʃiː hæd toʊld miː ðə truːθ aɪ ˈwʊdənt hæv biːn ˈæŋɡri/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "truth",
+        "role": "O",
+        "phonetic": "/truːθ/",
+        "chinese": "真相"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "angry",
+        "role": "C",
+        "phonetic": "/ˈæŋɡri/",
+        "chinese": "生气的"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我当时没起那么晚我就赶上火车了",
+    "english": "If I hadn't woken up so late I would have caught the train",
+    "soundmark": "/ɪf aɪ ˈhædənt ˈwoʊkən ʌp soʊ leɪt aɪ wʊd hæv kɔːt ðə treɪn/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hadn't",
+        "role": "V",
+        "phonetic": "/ˈhædənt/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "woken",
+        "role": "V",
+        "phonetic": "/ˈwoʊkən/",
+        "chinese": "醒来（过去分词）"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "late",
+        "role": "A",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "train",
+        "role": "O",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      }
+    ]
+  },
+  {
+    "chinese": "如果他当时多带点钱他就能买了",
+    "english": "If he had brought more money he could have bought it",
+    "soundmark": "/ɪf hiː hæd brɔːt mɔːr ˈmʌni hiː kʊd hæv bɔːt ɪt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "brought",
+        "role": "V",
+        "phonetic": "/brɔːt/",
+        "chinese": ""
+      },
+      {
+        "text": "more",
+        "role": "Det",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "money",
+        "role": "O",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我当时知道路我就不会迷路了",
+    "english": "If I had known the way I wouldn't have gotten lost",
+    "soundmark": "/ɪf aɪ hæd noʊn ðə weɪ aɪ ˈwʊdənt hæv ˈɡɒtən lɔːst/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "way",
+        "role": "O",
+        "phonetic": "/weɪ/",
+        "chinese": "路/方式"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "gotten",
+        "role": "V",
+        "phonetic": "/ˈɡɒtən/",
+        "chinese": ""
+      },
+      {
+        "text": "lost",
+        "role": "C",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      }
+    ]
+  },
+  {
+    "chinese": "如果你当时叫了我我肯定会帮你",
+    "english": "If you had called me I would definitely have helped you",
+    "soundmark": "/ɪf juː hæd kɔːld miː aɪ wʊd ˈdefɪnətli hæv helpt juː/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "definitely",
+        "role": "A",
+        "phonetic": "/ˈdefɪnətli/",
+        "chinese": "肯定"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "helped",
+        "role": "V",
+        "phonetic": "/helpt/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "如果当时路上不那么堵我们就能准时到了",
+    "english": "If the traffic hadn't been so bad we could have arrived on time",
+    "soundmark": "/ɪf ðə ˈtræfɪk ˈhædənt biːn soʊ bæd wiː kʊd hæv əˈraɪvd ɒn taɪm/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "traffic",
+        "role": "S",
+        "phonetic": "/ˈtræfɪk/",
+        "chinese": "交通"
+      },
+      {
+        "text": "hadn't",
+        "role": "V",
+        "phonetic": "/ˈhædənt/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "bad",
+        "role": "C",
+        "phonetic": "/bæd/",
+        "chinese": "坏的"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我当时接受那份工作我现在就在纽约了",
+    "english": "If I had taken that job I would be in New York now",
+    "soundmark": "/ɪf aɪ hæd ˈteɪkən ðæt dʒɒb aɪ wʊd biː ɪn nuː jɔːrk naʊ/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "job",
+        "role": "O",
+        "phonetic": "/dʒɒb/",
+        "chinese": "工作"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "New",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "York",
+        "role": "A",
+        "phonetic": "/jɔːrk/",
+        "chinese": ""
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "如果她当时听了我的建议她就不会亏钱了",
+    "english": "If she had listened to my advice she wouldn't have lost money",
+    "soundmark": "/ɪf ʃiː hæd ˈlɪsənd tuː maɪ ədˈvaɪs ʃiː ˈwʊdənt hæv lɔːst ˈmʌni/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "listened",
+        "role": "V",
+        "phonetic": "/ˈlɪsənd/",
+        "chinese": "听"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "advice",
+        "role": "O",
+        "phonetic": "/ədˈvaɪs/",
+        "chinese": "建议"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "money",
+        "role": "O",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      }
+    ]
+  },
+  {
+    "chinese": "你当时要是提醒我我就不会忘记了",
+    "english": "If you had reminded me I wouldn't have forgotten",
+    "soundmark": "/ɪf juː hæd rɪˈmaɪndɪd miː aɪ ˈwʊdənt hæv fərˈɡɒtən/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "reminded",
+        "role": "V",
+        "phonetic": "/rɪˈmaɪndɪd/",
+        "chinese": "提醒"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "forgotten",
+        "role": "V",
+        "phonetic": "/fərˈɡɒtən/",
+        "chinese": "被遗忘的"
+      }
+    ]
+  },
+  {
+    "chinese": "假如当时我们有地图就不会走丢了",
+    "english": "If we had had a map we wouldn't have gotten lost",
+    "soundmark": "/ɪf wiː hæd hæd ə mæp wiː ˈwʊdənt hæv ˈɡɒtən lɔːst/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "map",
+        "role": "O",
+        "phonetic": "/mæp/",
+        "chinese": ""
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "gotten",
+        "role": "V",
+        "phonetic": "/ˈɡɒtən/",
+        "chinese": ""
+      },
+      {
+        "text": "lost",
+        "role": "C",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      }
+    ]
+  },
+  {
+    "chinese": "要是你当时在场就好了",
+    "english": "If only you had been there",
+    "soundmark": "/ɪf ˈoʊnli juː hæd biːn ðer/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我早知道这件事这么难我就不会尝试了",
+    "english": "If I had known it was so difficult I wouldn't have tried",
+    "soundmark": "/ɪf aɪ hæd noʊn ɪt wʌz soʊ ˈdɪfɪkəlt aɪ ˈwʊdənt hæv traɪd/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "difficult",
+        "role": "C",
+        "phonetic": "/ˈdɪfɪkəlt/",
+        "chinese": "困难的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "tried",
+        "role": "V",
+        "phonetic": "/traɪd/",
+        "chinese": "尝试（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "如果他当时没有帮我我现在就不会站在这里",
+    "english": "If he hadn't helped me I wouldn't be standing here now",
+    "soundmark": "/ɪf hiː ˈhædənt helpt miː aɪ ˈwʊdənt biː ˈstændɪŋ hɪər naʊ/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "hadn't",
+        "role": "V",
+        "phonetic": "/ˈhædənt/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "helped",
+        "role": "V",
+        "phonetic": "/helpt/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "standing",
+        "role": "V",
+        "phonetic": "/ˈstændɪŋ/",
+        "chinese": "站着的"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪər/",
+        "chinese": "这里"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我当时有钱我肯定就去了",
+    "english": "If I had had the money I would definitely have gone",
+    "soundmark": "/ɪf aɪ hæd hæd ðə ˈmʌni aɪ wʊd ˈdefɪnətli hæv ɡɒn/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "money",
+        "role": "O",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "definitely",
+        "role": "A",
+        "phonetic": "/ˈdefɪnətli/",
+        "chinese": "肯定"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɒn/",
+        "chinese": "去（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "假如我早点订票就能省很多钱了",
+    "english": "If I had booked the tickets earlier I could have saved a lot",
+    "soundmark": "/ɪf aɪ hæd bʊkt ðə ˈtɪkɪts ˈɜːrliər aɪ kʊd hæv seɪvd ə lɒt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "booked",
+        "role": "V",
+        "phonetic": "/bʊkt/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tickets",
+        "role": "O",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "earlier",
+        "role": "A",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "saved",
+        "role": "V",
+        "phonetic": "/seɪvd/",
+        "chinese": "保存/救"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lot",
+        "role": "O",
+        "phonetic": "/lɒt/",
+        "chinese": "许多"
+      }
+    ]
+  },
+  {
+    "chinese": "如果当时你在的话你会怎么做",
+    "english": "What would you have done if you had been there",
+    "soundmark": "/wʌt wʊd juː hæv dʌn ɪf juː hæd biːn ðer/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "done",
+        "role": "V",
+        "phonetic": "/dʌn/",
+        "chinese": "做好的"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "他当时应该告诉我的",
+    "english": "He should have told me",
+    "soundmark": "/hiː ʃʊd hæv toʊld miː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "你不应该一个人进去的",
+    "english": "You shouldn't have gone in alone",
+    "soundmark": "/juː ˈʃʊdənt hæv ɡɒn ɪn əˈloʊn/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "shouldn't",
+        "role": "V",
+        "phonetic": "/ˈʃʊdənt/",
+        "chinese": "不应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɒn/",
+        "chinese": "去（过去分词）"
+      },
+      {
+        "text": "in",
+        "role": "A",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "alone",
+        "role": "A",
+        "phonetic": "/əˈloʊn/",
+        "chinese": "孤单的"
+      }
+    ]
+  },
+  {
+    "chinese": "如果当时我听妈妈的话就好了",
+    "english": "If only I had listened to my mother",
+    "soundmark": "/ɪf ˈoʊnli aɪ hæd ˈlɪsənd tuː maɪ ˈmʌðər/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "listened",
+        "role": "V",
+        "phonetic": "/ˈlɪsənd/",
+        "chinese": "听"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "mother",
+        "role": "O",
+        "phonetic": "/ˈmʌðər/",
+        "chinese": "母亲"
+      }
+    ]
+  },
+  {
+    "chinese": "也许当时我不应该那么快做决定",
+    "english": "Maybe I shouldn't have decided so quickly",
+    "soundmark": "/ˈmeɪbi aɪ ˈʃʊdənt hæv dɪˈsaɪdɪd soʊ ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "Maybe",
+        "role": "A",
+        "phonetic": "/ˈmeɪbi/",
+        "chinese": "也许"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "shouldn't",
+        "role": "V",
+        "phonetic": "/ˈʃʊdənt/",
+        "chinese": "不应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "quickly",
+        "role": "A",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "要不是你的帮助我也不可能成功",
+    "english": "Without your help I couldn't have succeeded",
+    "soundmark": "/wɪˈðaʊt jɔːr help aɪ ˈkʊdənt hæv səkˈsiːdɪd/",
+    "grammar": [
+      {
+        "text": "Without",
+        "role": "P",
+        "phonetic": "/wɪˈðaʊt/",
+        "chinese": "没有"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "help",
+        "role": "A",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "couldn't",
+        "role": "V",
+        "phonetic": "/ˈkʊdənt/",
+        "chinese": "不能（过去）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "succeeded",
+        "role": "V",
+        "phonetic": "/səkˈsiːdɪd/",
+        "chinese": "成功"
+      }
+    ]
+  },
+  {
+    "chinese": "如果当时他们早点出发就可能躲过风暴了",
+    "english": "If they had left earlier they might have avoided the storm",
+    "soundmark": "/ɪf ðeɪ hæd left ˈɜːrliər ðeɪ maɪt hæv əˈvɔɪdɪd ðə stɔːrm/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "earlier",
+        "role": "A",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "avoided",
+        "role": "V",
+        "phonetic": "/əˈvɔɪdɪd/",
+        "chinese": "避免"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "storm",
+        "role": "O",
+        "phonetic": "/stɔːrm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果我知道会堵车我就走另一条路了",
+    "english": "If I had known about the traffic I would have taken another route",
+    "soundmark": "/ɪf aɪ hæd noʊn əˈbaʊt ðə ˈtræfɪk aɪ wʊd hæv ˈteɪkən əˈnʌðər ruːt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "traffic",
+        "role": "O",
+        "phonetic": "/ˈtræfɪk/",
+        "chinese": "交通"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "another",
+        "role": "Det",
+        "phonetic": "/əˈnʌðər/",
+        "chinese": "另一个"
+      },
+      {
+        "text": "route",
+        "role": "O",
+        "phonetic": "/ruːt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果他没有去那场聚会他就不会遇见她了",
+    "english": "If he hadn't gone to that party he wouldn't have met her",
+    "soundmark": "/ɪf hiː ˈhædənt ɡɒn tuː ðæt ˈpɑːrti hiː ˈwʊdənt hæv met hɜːr/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "hadn't",
+        "role": "V",
+        "phonetic": "/ˈhædənt/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɒn/",
+        "chinese": "去（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "party",
+        "role": "A",
+        "phonetic": "/ˈpɑːrti/",
+        "chinese": "派对"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "met",
+        "role": "V",
+        "phonetic": "/met/",
+        "chinese": "遇见（过去式）"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      }
+    ]
+  },
+  {
+    "chinese": "如果当时我没有犹豫现在就是完全不同的人生了",
+    "english": "If I hadn't hesitated my life would be completely different now",
+    "soundmark": "/ɪf aɪ ˈhædənt ˈhezɪteɪtɪd maɪ laɪf wʊd biː kəmˈpliːtli ˈdɪfərənt naʊ/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hadn't",
+        "role": "V",
+        "phonetic": "/ˈhædənt/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "hesitated",
+        "role": "V",
+        "phonetic": "/ˈhezɪteɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "life",
+        "role": "S",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "completely",
+        "role": "A",
+        "phonetic": "/kəmˈpliːtli/",
+        "chinese": "完全地"
+      },
+      {
+        "text": "different",
+        "role": "C",
+        "phonetic": "/ˈdɪfərənt/",
+        "chinese": "不同的"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我之前知道你生病了我就去看你了",
+    "english": "If I had known you were sick I would have visited you",
+    "soundmark": "/ɪf aɪ hæd noʊn juː wɜːr sɪk aɪ wʊd hæv ˈvɪzɪtɪd juː/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "sick",
+        "role": "C",
+        "phonetic": "/sɪk/",
+        "chinese": "生病的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "visited",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪtɪd/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我们当时早点开始现在就已经完成了",
+    "english": "If we had started earlier we would have finished by now",
+    "soundmark": "/ɪf wiː hæd ˈstɑːrtɪd ˈɜːrliər wiː wʊd hæv ˈfɪnɪʃt baɪ naʊ/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "earlier",
+        "role": "A",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "如果她学了医她本能成为医生",
+    "english": "She could have been a doctor if she had studied medicine",
+    "soundmark": "/ʃiː kʊd hæv biːn ə ˈdɒktər ɪf ʃiː hæd ˈstʌdid ˈmedɪsɪn/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "doctor",
+        "role": "C",
+        "phonetic": "/ˈdɒktər/",
+        "chinese": "医生"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "studied",
+        "role": "V",
+        "phonetic": "/ˈstʌdid/",
+        "chinese": "学习（过去式）"
+      },
+      {
+        "text": "medicine",
+        "role": "O",
+        "phonetic": "/ˈmedɪsɪn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果他们按说明操作就不会发生这种事",
+    "english": "If they had followed the instructions this wouldn't have happened",
+    "soundmark": "/ɪf ðeɪ hæd ˈfɒloʊd ði ɪnˈstrʌkʃənz ðɪs ˈwʊdənt hæv ˈhæpənd/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "followed",
+        "role": "V",
+        "phonetic": "/ˈfɒloʊd/",
+        "chinese": "跟随"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "instructions",
+        "role": "O",
+        "phonetic": "/ɪnˈstrʌkʃənz/",
+        "chinese": "指示"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      }
+    ]
+  },
+  {
+    "chinese": "如果当时有你的号码我一定会打给你",
+    "english": "I would have called you if I had had your number",
+    "soundmark": "/aɪ wʊd hæv kɔːld juː ɪf aɪ hæd hæd jɔːr ˈnʌmbər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "number",
+        "role": "O",
+        "phonetic": "/ˈnʌmbər/",
+        "chinese": "数字"
+      }
+    ]
+  },
+  {
+    "chinese": "如果天气更好我们就能去徒步了",
+    "english": "If the weather had been better we could have gone hiking",
+    "soundmark": "/ɪf ðə ˈweðər hæd biːn ˈbetər wiː kʊd hæv ɡɒn ˈhaɪkɪŋ/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "weather",
+        "role": "S",
+        "phonetic": "/ˈweðər/",
+        "chinese": "天气"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "better",
+        "role": "C",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɒn/",
+        "chinese": "去（过去分词）"
+      },
+      {
+        "text": "hiking",
+        "role": "V",
+        "phonetic": "/ˈhaɪkɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果他当时开得更小心事故就不会发生",
+    "english": "If he had driven more carefully the accident wouldn't have happened",
+    "soundmark": "/ɪf hiː hæd ˈdrɪvən mɔːr ˈkerfəli ði ˈæksɪdənt ˈwʊdənt hæv ˈhæpənd/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "driven",
+        "role": "V",
+        "phonetic": "/ˈdrɪvən/",
+        "chinese": "被驱动的"
+      },
+      {
+        "text": "more",
+        "role": "A",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "carefully",
+        "role": "A",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "accident",
+        "role": "S",
+        "phonetic": "/ˈæksɪdənt/",
+        "chinese": "事故"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      }
+    ]
+  },
+  {
+    "chinese": "如果你当时告诉我问题所在我或许能帮上忙",
+    "english": "If you had told me the problem I might have been able to help",
+    "soundmark": "/ɪf juː hæd toʊld miː ðə ˈprɒbləm aɪ maɪt hæv biːn ˈeɪbəl tuː help/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "problem",
+        "role": "O",
+        "phonetic": "/ˈprɒbləm/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "able",
+        "role": "C",
+        "phonetic": "/ˈeɪbəl/",
+        "chinese": "能够的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我早知道在打折我就会多买一些",
+    "english": "If I had known about the sale I would have bought more",
+    "soundmark": "/ɪf aɪ hæd noʊn əˈbaʊt ðə seɪl aɪ wʊd hæv bɔːt mɔːr/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sale",
+        "role": "O",
+        "phonetic": "/seɪl/",
+        "chinese": ""
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "more",
+        "role": "O",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      }
+    ]
+  },
+  {
+    "chinese": "你当时真应该跟我说实话",
+    "english": "You should have been honest with me",
+    "soundmark": "/juː ʃʊd hæv biːn ˈɒnɪst wɪð miː/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "honest",
+        "role": "C",
+        "phonetic": "/ˈɒnɪst/",
+        "chinese": "诚实的"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "me",
+        "role": "A",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "如果知道(had known)",
+    "english": "had known",
+    "soundmark": "/hæd noʊn/"
+  },
+  {
+    "chinese": "如果来过(had come)",
+    "english": "had come",
+    "soundmark": "/hæd kʌm/"
+  },
+  {
+    "chinese": "本会(would have)",
+    "english": "would have",
+    "soundmark": "/wʊd hæv/"
+  },
+  {
+    "chinese": "本能(could have)",
+    "english": "could have",
+    "soundmark": "/kʊd hæv/"
+  },
+  {
+    "chinese": "本应该(should have)",
+    "english": "should have",
+    "soundmark": "/ʃʊd hæv/"
+  },
+  {
+    "chinese": "本可能(might have)",
+    "english": "might have",
+    "soundmark": "/maɪt hæv/"
+  },
+  {
+    "chinese": "如果是那样就好了(if only)",
+    "english": "if only",
+    "soundmark": "/ɪf ˈoʊnli/"
+  },
+  {
+    "chinese": "要是……就不会(wouldn't have)",
+    "english": "wouldn't have",
+    "soundmark": "/ˈwʊdənt hæv/"
+  },
+  {
+    "chinese": "没有你的(without your)",
+    "english": "without your",
+    "soundmark": "/wɪˈðaʊt jɔːr/"
+  }
+]

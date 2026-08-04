@@ -1,0 +1,410 @@
+[
+  {
+    "chinese": "投保",
+    "english": "insure",
+    "soundmark": "/ɪnˈʃʊr/"
+  },
+  {
+    "chinese": "保险",
+    "english": "insurance",
+    "soundmark": "/ɪnˈʃʊrəns/"
+  },
+  {
+    "chinese": "保费",
+    "english": "premium",
+    "soundmark": "/ˈpriːmiəm/"
+  },
+  {
+    "chinese": "赔偿",
+    "english": "compensation",
+    "soundmark": "/ˌkɒmpənˈseɪʃən/"
+  },
+  {
+    "chinese": "索赔",
+    "english": "claim",
+    "soundmark": "/kleɪm/"
+  },
+  {
+    "chinese": "损坏",
+    "english": "damage",
+    "soundmark": "/ˈdæmɪdʒ/"
+  },
+  {
+    "chinese": "保单",
+    "english": "policy",
+    "soundmark": "/ˈpɒləsi/"
+  },
+  {
+    "chinese": "风险评估",
+    "english": "risk assessment",
+    "soundmark": "/rɪsk əˈsesmənt/"
+  },
+  {
+    "chinese": "全额投保",
+    "english": "fully insured",
+    "soundmark": "/ˈfʊli ɪnˈʃʊrd/"
+  },
+  {
+    "chinese": "投保后他们觉得安全多了。",
+    "english": "Insured against all risks they felt much safer",
+    "soundmark": "/ɪnˈʃʊrd əˈɡenst ɔːl rɪsks ðeɪ felt mʌtʃ ˈseɪfər/",
+    "grammar": [
+      {
+        "text": "Insured",
+        "role": "V",
+        "phonetic": "/ɪnˈʃʊrd/",
+        "chinese": ""
+      },
+      {
+        "text": "against",
+        "role": "P",
+        "phonetic": "/əˈɡenst/",
+        "chinese": "反对/靠着"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "risks",
+        "role": "O",
+        "phonetic": "/rɪsks/",
+        "chinese": ""
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "felt",
+        "role": "V",
+        "phonetic": "/felt/",
+        "chinese": "被感觉的"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "safer",
+        "role": "C",
+        "phonetic": "/ˈseɪfər/",
+        "chinese": "更…的/…者(安全的)"
+      }
+    ]
+  },
+  {
+    "chinese": "由专家评估后风险被降到了最低。",
+    "english": "Assessed by experts the risk was minimized",
+    "soundmark": "/əˈsest baɪ ˈekspɜːrts ðə rɪsk wʌz ˈmɪnɪmaɪzd/",
+    "grammar": [
+      {
+        "text": "Assessed",
+        "role": "V",
+        "phonetic": "/əˈsest/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "experts",
+        "role": "A",
+        "phonetic": "/ˈekspɜːrts/",
+        "chinese": "…们/复数(专家)"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "risk",
+        "role": "S",
+        "phonetic": "/rɪsk/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "minimized",
+        "role": "V",
+        "phonetic": "/ˈmɪnɪmaɪzd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "被损坏后他们立即提出了索赔。",
+    "english": "Damaged in the accident they immediately filed a claim",
+    "soundmark": "/ˈdæmɪdʒd ɪn ði ˈæksɪdənt ðeɪ ɪˈmiːdiətli faɪld ə kleɪm/",
+    "grammar": [
+      {
+        "text": "Damaged",
+        "role": "V",
+        "phonetic": "/ˈdæmɪdʒd/",
+        "chinese": "损坏的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "accident",
+        "role": "A",
+        "phonetic": "/ˈæksɪdənt/",
+        "chinese": "事故"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "immediately",
+        "role": "Adv",
+        "phonetic": "/ɪˈmiːdiətli/",
+        "chinese": "立刻"
+      },
+      {
+        "text": "filed",
+        "role": "V",
+        "phonetic": "/faɪld/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "claim",
+        "role": "O",
+        "phonetic": "/kleɪm/",
+        "chinese": "声称"
+      }
+    ]
+  },
+  {
+    "chinese": "这笔保费由双方商定以后他们签了保单。",
+    "english": "Agreed upon by both parties the premium was set and the policy signed",
+    "soundmark": "/əˈɡriːd əˈpɒn baɪ boʊθ ˈpɑːrtiz ðə ˈpriːmiəm wʌz set ænd ðə ˈpɒləsi saɪnd/",
+    "grammar": [
+      {
+        "text": "Agreed",
+        "role": "V",
+        "phonetic": "/əˈɡriːd/",
+        "chinese": "同意"
+      },
+      {
+        "text": "upon",
+        "role": "A",
+        "phonetic": "/əˈpɒn/",
+        "chinese": "在…之上"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "both",
+        "role": "Det",
+        "phonetic": "/boʊθ/",
+        "chinese": "两者都"
+      },
+      {
+        "text": "parties",
+        "role": "A",
+        "phonetic": "/ˈpɑːrtiz/",
+        "chinese": "派对"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "premium",
+        "role": "S",
+        "phonetic": "/ˈpriːmiəm/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "set",
+        "role": "V",
+        "phonetic": "/set/",
+        "chinese": "设置/安置"
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "policy",
+        "role": "S",
+        "phonetic": "/ˈpɒləsi/",
+        "chinese": "政策"
+      },
+      {
+        "text": "signed",
+        "role": "V",
+        "phonetic": "/saɪnd/",
+        "chinese": "签名"
+      }
+    ]
+  },
+  {
+    "chinese": "一旦投保了所有风险你就不必再担心了。",
+    "english": "Once insured against all risks you have nothing to worry about",
+    "soundmark": "/wʌns ɪnˈʃʊrd əˈɡenst ɔːl rɪsks juː hæv ˈnʌθɪŋ tuː ˈwʌri əˈbaʊt/",
+    "grammar": [
+      {
+        "text": "Once",
+        "role": "A",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      },
+      {
+        "text": "insured",
+        "role": "V",
+        "phonetic": "/ɪnˈʃʊrd/",
+        "chinese": ""
+      },
+      {
+        "text": "against",
+        "role": "P",
+        "phonetic": "/əˈɡenst/",
+        "chinese": "反对/靠着"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "risks",
+        "role": "O",
+        "phonetic": "/rɪsks/",
+        "chinese": ""
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "nothing",
+        "role": "O",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "worry",
+        "role": "V",
+        "phonetic": "/ˈwʌri/",
+        "chinese": "担心"
+      },
+      {
+        "text": "about",
+        "role": "A",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      }
+    ]
+  },
+  {
+    "chinese": "投保",
+    "english": "insure",
+    "soundmark": "/ɪnˈʃʊr/"
+  },
+  {
+    "chinese": "保险",
+    "english": "insurance",
+    "soundmark": "/ɪnˈʃʊrəns/"
+  },
+  {
+    "chinese": "保费",
+    "english": "premium",
+    "soundmark": "/ˈpriːmiəm/"
+  },
+  {
+    "chinese": "赔偿",
+    "english": "compensation",
+    "soundmark": "/ˌkɒmpənˈseɪʃən/"
+  },
+  {
+    "chinese": "索赔",
+    "english": "claim",
+    "soundmark": "/kleɪm/"
+  },
+  {
+    "chinese": "损坏",
+    "english": "damage",
+    "soundmark": "/ˈdæmɪdʒ/"
+  },
+  {
+    "chinese": "保单",
+    "english": "policy",
+    "soundmark": "/ˈpɒləsi/"
+  },
+  {
+    "chinese": "评估",
+    "english": "assess",
+    "soundmark": "/əˈses/"
+  }
+]

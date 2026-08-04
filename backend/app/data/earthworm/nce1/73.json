@@ -1,0 +1,580 @@
+[
+  {
+    "chinese": "路；道路",
+    "english": "street",
+    "soundmark": "/striːt/"
+  },
+  {
+    "chinese": "道路",
+    "english": "road",
+    "soundmark": "/rəʊd/"
+  },
+  {
+    "chinese": "方向",
+    "english": "way",
+    "soundmark": "/weɪ/"
+  },
+  {
+    "chinese": "转弯",
+    "english": "turn",
+    "soundmark": "/tɜːn/"
+  },
+  {
+    "chinese": "左边",
+    "english": "left",
+    "soundmark": "/left/"
+  },
+  {
+    "chinese": "右边",
+    "english": "right",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "chinese": "直的",
+    "english": "straight",
+    "soundmark": "/streɪt/"
+  },
+  {
+    "chinese": "沿着",
+    "english": "along",
+    "soundmark": "/əˈlɒŋ/"
+  },
+  {
+    "chinese": "交叉路口",
+    "english": "crossroads",
+    "soundmark": "/ˈkrɒsrəʊdz/"
+  },
+  {
+    "chinese": "交通灯",
+    "english": "traffic lights",
+    "soundmark": "/ˈtræfɪk laɪts/"
+  },
+  {
+    "chinese": "在…对面",
+    "english": "opposite",
+    "soundmark": "/ˈɒpəzɪt/"
+  },
+  {
+    "chinese": "在…旁边",
+    "english": "next to",
+    "soundmark": "/nekst tuː/"
+  },
+  {
+    "chinese": "在…和…之间",
+    "english": "between",
+    "soundmark": "/bɪˈtwiːn/"
+  },
+  {
+    "chinese": "走廊",
+    "english": "corridor",
+    "soundmark": "/ˈkɒrɪdɔː/"
+  },
+  {
+    "chinese": "拐角",
+    "english": "corner",
+    "soundmark": "/ˈkɔːnə/"
+  },
+  {
+    "chinese": "广场",
+    "english": "square",
+    "soundmark": "/skweə/"
+  },
+  {
+    "chinese": "桥",
+    "english": "bridge",
+    "soundmark": "/brɪdʒ/"
+  },
+  {
+    "chinese": "在…后面",
+    "english": "behind",
+    "soundmark": "/bɪˈhaɪnd/"
+  },
+  {
+    "chinese": "请问，去国王街怎么走？",
+    "english": "Excuse me, what's the way to King Street?",
+    "soundmark": "/ɪkˈskjuːz miː wɒts ðə weɪ tuː kɪŋ striːt/",
+    "grammar": [
+      {
+        "text": "Excuse",
+        "role": "V",
+        "phonetic": "/ɪkˈskjuːz/",
+        "chinese": "请原谅"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "what",
+        "role": "Int",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "way",
+        "role": "S",
+        "phonetic": "/weɪ/",
+        "chinese": "路/方式"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "King Street",
+        "role": "O",
+        "phonetic": "/kɪŋ striːt/",
+        "chinese": "街道"
+      }
+    ]
+  },
+  {
+    "chinese": "沿着这条街走。",
+    "english": "Go along this street.",
+    "soundmark": "/gəʊ əˈlɒŋ ðɪs striːt/",
+    "grammar": [
+      {
+        "text": "Go",
+        "role": "V",
+        "phonetic": "/gəʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "along",
+        "role": "P",
+        "phonetic": "/əˈlɒŋ/",
+        "chinese": "沿着"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "street",
+        "role": "O",
+        "phonetic": "/striːt/",
+        "chinese": "街道"
+      }
+    ]
+  },
+  {
+    "chinese": "在十字路口向左转。",
+    "english": "Turn left at the crossroads.",
+    "soundmark": "/tɜːn left æt ðə ˈkrɒsrəʊdz/",
+    "grammar": [
+      {
+        "text": "Turn",
+        "role": "V",
+        "phonetic": "/tɜːn/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "left",
+        "role": "Adv",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "crossroads",
+        "role": "O",
+        "phonetic": "/ˈkrɒsrəʊdz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在右边拐角处右转。",
+    "english": "Turn right at the corner.",
+    "soundmark": "/tɜːn raɪt æt ðə ˈkɔːnə/",
+    "grammar": [
+      {
+        "text": "Turn",
+        "role": "V",
+        "phonetic": "/tɜːn/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "right",
+        "role": "Adv",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "corner",
+        "role": "O",
+        "phonetic": "/ˈkɔːnə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "银行在邮局对面。",
+    "english": "The bank is opposite the post office.",
+    "soundmark": "/ðə bæŋk ɪz ˈɒpəzɪt ðə pəʊst ˈɒfɪs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bank",
+        "role": "S",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "opposite",
+        "role": "P",
+        "phonetic": "/ˈɒpəzɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "post office",
+        "role": "O",
+        "phonetic": "/pəʊst ˈɒfɪs/",
+        "chinese": "办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "商店在车站旁边。",
+    "english": "The shop is next to the station.",
+    "soundmark": "/ðə ʃɒp ɪz nekst tuː ðə ˈsteɪʃn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shop",
+        "role": "S",
+        "phonetic": "/ʃɒp/",
+        "chinese": "商店"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "next to",
+        "role": "P",
+        "phonetic": "/nekst tuː/",
+        "chinese": "下一个/接下来/到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "station",
+        "role": "O",
+        "phonetic": "/ˈsteɪʃn/",
+        "chinese": "车站"
+      }
+    ]
+  },
+  {
+    "chinese": "它在两个银行之间。",
+    "english": "It is between two banks.",
+    "soundmark": "/ɪt ɪz bɪˈtwiːn tuː bæŋks/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "banks",
+        "role": "O",
+        "phonetic": "/bæŋks/",
+        "chinese": "银行"
+      }
+    ]
+  },
+  {
+    "chinese": "一直往前走就到了。",
+    "english": "Go straight ahead.",
+    "soundmark": "/gəʊ streɪt əˈhed/",
+    "grammar": [
+      {
+        "text": "Go",
+        "role": "V",
+        "phonetic": "/gəʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "straight",
+        "role": "Adv",
+        "phonetic": "/streɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "ahead",
+        "role": "Adv",
+        "phonetic": "/əˈhed/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "谢谢你！",
+    "english": "Thank you very much!",
+    "soundmark": "/θæŋk juː ˈveri mʌtʃ/",
+    "grammar": [
+      {
+        "text": "Thank",
+        "role": "V",
+        "phonetic": "/θæŋk/",
+        "chinese": "感谢"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      }
+    ]
+  },
+  {
+    "chinese": "在公园前面有一所学校。",
+    "english": "There is a school in front of the park.",
+    "soundmark": "/ðeər ɪz ə skuːl ɪn frʌnt ɒv ðə pɑːk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðeər/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "school",
+        "role": "C",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      },
+      {
+        "text": "in front of",
+        "role": "P",
+        "phonetic": "/ɪn frʌnt ɒv/",
+        "chinese": "在…前面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "park",
+        "role": "O",
+        "phonetic": "/pɑːk/",
+        "chinese": "公园"
+      }
+    ]
+  },
+  {
+    "chinese": "公共汽车站",
+    "english": "bus stop",
+    "soundmark": "/bʌs stɒp/"
+  },
+  {
+    "chinese": "地铁站",
+    "english": "subway station",
+    "soundmark": "/ˈsʌbweɪ ˈsteɪʃn/"
+  },
+  {
+    "chinese": "加油站",
+    "english": "gas station",
+    "soundmark": "/gæs ˈsteɪʃn/"
+  },
+  {
+    "chinese": "停车场",
+    "english": "parking lot",
+    "soundmark": "/ˈpɑːkɪŋ lɒt/"
+  },
+  {
+    "chinese": "图书馆",
+    "english": "library",
+    "soundmark": "/ˈlaɪbrəri/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɒspɪtl/"
+  },
+  {
+    "chinese": "学校",
+    "english": "school",
+    "soundmark": "/skuːl/"
+  },
+  {
+    "chinese": "公园",
+    "english": "park",
+    "soundmark": "/pɑːk/"
+  },
+  {
+    "chinese": "博物馆",
+    "english": "museum",
+    "soundmark": "/mjuːˈziːəm/"
+  },
+  {
+    "chinese": "银行",
+    "english": "bank",
+    "soundmark": "/bæŋk/"
+  },
+  {
+    "chinese": "邮局",
+    "english": "post office",
+    "soundmark": "/pəʊst ˈɒfɪs/"
+  },
+  {
+    "chinese": "餐厅",
+    "english": "restaurant",
+    "soundmark": "/ˈrestrɒnt/"
+  },
+  {
+    "chinese": "酒店",
+    "english": "hotel",
+    "soundmark": "/həʊˈtel/"
+  },
+  {
+    "chinese": "商店",
+    "english": "shop",
+    "soundmark": "/ʃɒp/"
+  },
+  {
+    "chinese": "超市",
+    "english": "supermarket",
+    "soundmark": "/ˈsuːpəmɑːkɪt/"
+  },
+  {
+    "chinese": "药房",
+    "english": "pharmacy",
+    "soundmark": "/ˈfɑːməsi/"
+  },
+  {
+    "chinese": "教堂",
+    "english": "church",
+    "soundmark": "/tʃɜːtʃ/"
+  },
+  {
+    "chinese": "剧院",
+    "english": "theatre",
+    "soundmark": "/ˈθɪətə/"
+  },
+  {
+    "chinese": "电影院",
+    "english": "cinema",
+    "soundmark": "/ˈsɪnəmə/"
+  },
+  {
+    "chinese": "机场",
+    "english": "airport",
+    "soundmark": "/ˈeəpɔːt/"
+  }
+]

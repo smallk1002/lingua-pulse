@@ -1,0 +1,573 @@
+[
+  {
+    "chinese": "侦探",
+    "english": "detective",
+    "soundmark": "/dɪˈtektɪv/"
+  },
+  {
+    "chinese": "篮子",
+    "english": "basket",
+    "soundmark": "/ˈbæskɪt/"
+  },
+  {
+    "chinese": "气球",
+    "english": "balloon",
+    "soundmark": "/bəˈluːn/"
+  },
+  {
+    "chinese": "间谍",
+    "english": "spy",
+    "soundmark": "/spaɪ/"
+  },
+  {
+    "chinese": "捕获",
+    "english": "capture",
+    "soundmark": "/ˈkæptʃər/"
+  },
+  {
+    "chinese": "悬挂",
+    "english": "hang",
+    "soundmark": "/hæŋ/"
+  },
+  {
+    "chinese": "照耀",
+    "english": "shine",
+    "soundmark": "/ʃaɪn/"
+  },
+  {
+    "chinese": "吸引",
+    "english": "attract",
+    "soundmark": "/əˈtrækt/"
+  },
+  {
+    "chinese": "好奇的",
+    "english": "curious",
+    "soundmark": "/ˈkjʊriəs/"
+  },
+  {
+    "chinese": "陌生人",
+    "english": "stranger",
+    "soundmark": "/ˈstreɪndʒər/"
+  },
+  {
+    "chinese": "解释",
+    "english": "explain",
+    "soundmark": "/ɪkˈspleɪn/"
+  },
+  {
+    "chinese": "军事基地",
+    "english": "military base",
+    "soundmark": "/ˈmɪlɪteri/ /beɪs/"
+  },
+  {
+    "chinese": "注意到",
+    "english": "take notice of",
+    "soundmark": "/teɪk/ /ˈnoʊtɪs/ /ʌv/"
+  },
+  {
+    "chinese": "逮捕",
+    "english": "put under arrest",
+    "soundmark": "/pʊt/ /ˈʌndər/ /əˈrest/"
+  },
+  {
+    "chinese": "起飞",
+    "english": "take off",
+    "soundmark": "/teɪk/ /ɒf/"
+  },
+  {
+    "chinese": "侦探注意到三个陌生人正在进入工厂",
+    "english": "The detective noticed three strangers entering the factory",
+    "soundmark": "/ðə/ /dɪˈtektɪv/ /ˈnoʊtɪst/ /θriː/ /ˈstreɪndʒərz/ /ˈentərɪŋ/ /ðə/ /ˈfæktəri/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "detective",
+        "role": "S",
+        "phonetic": "/dɪˈtektɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "noticed",
+        "role": "V",
+        "phonetic": "/ˈnoʊtɪst/",
+        "chinese": "注意"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "strangers",
+        "role": "O",
+        "phonetic": "/ˈstreɪndʒərz/",
+        "chinese": ""
+      },
+      {
+        "text": "entering",
+        "role": "V",
+        "phonetic": "/ˈentərɪŋ/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "factory",
+        "role": "O",
+        "phonetic": "/ˈfæktəri/",
+        "chinese": "工厂"
+      }
+    ]
+  },
+  {
+    "chinese": "一个热气球正从基地上空升起",
+    "english": "A balloon was rising over the military base",
+    "soundmark": "/ə/ /bəˈluːn/ /wʌz/ /ˈraɪzɪŋ/ /ˈoʊvər/ /ðə/ /ˈmɪlɪteri/ /beɪs/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "balloon",
+        "role": "S",
+        "phonetic": "/bəˈluːn/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "rising",
+        "role": "V",
+        "phonetic": "/ˈraɪzɪŋ/",
+        "chinese": "上升"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "military",
+        "role": "A",
+        "phonetic": "/ˈmɪlɪteri/",
+        "chinese": ""
+      },
+      {
+        "text": "base",
+        "role": "O",
+        "phonetic": "/beɪs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "三个人正把东西装进篮子里",
+    "english": "Three men were putting things into a basket",
+    "soundmark": "/θriː/ /men/ /wɜːr/ /ˈpʊtɪŋ/ /θɪŋz/ /ˈɪntuː/ /ə/ /ˈbæskɪt/",
+    "grammar": [
+      {
+        "text": "Three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "men",
+        "role": "S",
+        "phonetic": "/men/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "putting",
+        "role": "V",
+        "phonetic": "/ˈpʊtɪŋ/",
+        "chinese": "放"
+      },
+      {
+        "text": "things",
+        "role": "O",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "basket",
+        "role": "O",
+        "phonetic": "/ˈbæskɪt/",
+        "chinese": "篮子"
+      }
+    ]
+  },
+  {
+    "chinese": "月亮正在明亮地照耀着",
+    "english": "The moon was shining brightly",
+    "soundmark": "/ðə/ /muːn/ /wʌz/ /ˈʃaɪnɪŋ/ /ˈbraɪtli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "moon",
+        "role": "S",
+        "phonetic": "/muːn/",
+        "chinese": "月亮"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "shining",
+        "role": "V",
+        "phonetic": "/ˈʃaɪnɪŋ/",
+        "chinese": "闪耀的/发光的"
+      },
+      {
+        "text": "brightly",
+        "role": "Adv",
+        "phonetic": "/ˈbraɪtli/",
+        "chinese": "…地(明亮的)"
+      }
+    ]
+  },
+  {
+    "chinese": "侦探把间谍逮捕了",
+    "english": "The detective captured the spy",
+    "soundmark": "/ðə/ /dɪˈtektɪv/ /ˈkæptʃərd/ /ðə/ /spaɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "detective",
+        "role": "S",
+        "phonetic": "/dɪˈtektɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "captured",
+        "role": "V",
+        "phonetic": "/ˈkæptʃərd/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "spy",
+        "role": "O",
+        "phonetic": "/spaɪ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "气球被挂在树上了",
+    "english": "The balloon was caught in the tree",
+    "soundmark": "/ðə/ /bəˈluːn/ /wʌz/ /kɔːt/ /ɪn/ /ðə/ /triː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "balloon",
+        "role": "S",
+        "phonetic": "/bəˈluːn/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "caught",
+        "role": "C",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tree",
+        "role": "O",
+        "phonetic": "/triː/",
+        "chinese": "树"
+      }
+    ]
+  },
+  {
+    "chinese": "好奇的人群围了过来",
+    "english": "A curious crowd gathered round",
+    "soundmark": "/ə/ /ˈkjʊriəs/ /kraʊd/ /ˈɡæðərd/ /raʊnd/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "curious",
+        "role": "A",
+        "phonetic": "/ˈkjʊriəs/",
+        "chinese": "好奇的"
+      },
+      {
+        "text": "crowd",
+        "role": "S",
+        "phonetic": "/kraʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "gathered",
+        "role": "V",
+        "phonetic": "/ˈɡæðərd/",
+        "chinese": "聚集"
+      },
+      {
+        "text": "round",
+        "role": "Adv",
+        "phonetic": "/raʊnd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "间谍试图解释他的行为",
+    "english": "The spy tried to explain his actions",
+    "soundmark": "/ðə/ /spaɪ/ /traɪd/ /tuː/ /ɪkˈspleɪn/ /hɪz/ /ˈækʃənz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "spy",
+        "role": "S",
+        "phonetic": "/spaɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "tried",
+        "role": "V",
+        "phonetic": "/traɪd/",
+        "chinese": "尝试（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "explain",
+        "role": "V",
+        "phonetic": "/ɪkˈspleɪn/",
+        "chinese": "解释"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "actions",
+        "role": "O",
+        "phonetic": "/ˈækʃənz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他们正在监视那个陌生人",
+    "english": "They were watching the stranger",
+    "soundmark": "/ðeɪ/ /wɜːr/ /ˈwɑːtʃɪŋ/ /ðə/ /ˈstreɪndʒər/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "watching",
+        "role": "V",
+        "phonetic": "/ˈwɑːtʃɪŋ/",
+        "chinese": "看的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "stranger",
+        "role": "O",
+        "phonetic": "/ˈstreɪndʒər/",
+        "chinese": "更…的/…者(奇怪的)"
+      }
+    ]
+  },
+  {
+    "chinese": "那个人被带进了警察局",
+    "english": "The man was taken to the police station",
+    "soundmark": "/ðə/ /mæn/ /wʌz/ /ˈteɪkən/ /tuː/ /ðə/ /pəˈliːs/ /ˈsteɪʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "A",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "station",
+        "role": "O",
+        "phonetic": "/ˈsteɪʃən/",
+        "chinese": "车站"
+      }
+    ]
+  },
+  {
+    "chinese": "冠军",
+    "english": "champion",
+    "soundmark": "/ˈtʃæmpiən/"
+  },
+  {
+    "chinese": "决定",
+    "english": "decide",
+    "soundmark": "/dɪˈsaɪd/"
+  },
+  {
+    "chinese": "勇敢的",
+    "english": "brave",
+    "soundmark": "/breɪv/"
+  },
+  {
+    "chinese": "令人兴奋的",
+    "english": "exciting",
+    "soundmark": "/ɪkˈsaɪtɪŋ/"
+  },
+  {
+    "chinese": "获胜者",
+    "english": "winner",
+    "soundmark": "/ˈwɪnər/"
+  },
+  {
+    "chinese": "比赛",
+    "english": "match",
+    "soundmark": "/mætʃ/"
+  }
+]

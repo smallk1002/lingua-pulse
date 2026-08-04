@@ -1,0 +1,851 @@
+[
+  {
+    "chinese": "能",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "chinese": "不能",
+    "english": "cannot",
+    "soundmark": "/ˈkænɑːt/"
+  },
+  {
+    "chinese": "游泳",
+    "english": "swim",
+    "soundmark": "/swɪm/"
+  },
+  {
+    "chinese": "开车",
+    "english": "drive",
+    "soundmark": "/draɪv/"
+  },
+  {
+    "chinese": "做饭",
+    "english": "cook",
+    "soundmark": "/kʊk/"
+  },
+  {
+    "chinese": "跳舞",
+    "english": "dance",
+    "soundmark": "/dæns/"
+  },
+  {
+    "chinese": "唱歌",
+    "english": "sing",
+    "soundmark": "/sɪŋ/"
+  },
+  {
+    "chinese": "弹钢琴",
+    "english": "play the piano",
+    "soundmark": "/pleɪ ðə piˈænoʊ/"
+  },
+  {
+    "chinese": "说英语",
+    "english": "speak English",
+    "soundmark": "/spiːk ˈɪŋɡlɪʃ/"
+  },
+  {
+    "chinese": "骑自行车",
+    "english": "ride a bike",
+    "soundmark": "/raɪd ə baɪk/"
+  },
+  {
+    "chinese": "使用电脑",
+    "english": "use a computer",
+    "soundmark": "/juːz ə kəmˈpjuːtər/"
+  },
+  {
+    "chinese": "我会游泳",
+    "english": "I can swim",
+    "soundmark": "/aɪ kæn swɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "swim",
+        "role": "V",
+        "phonetic": "/swɪm/",
+        "chinese": "游泳"
+      }
+    ]
+  },
+  {
+    "chinese": "她会说英语",
+    "english": "She can speak English",
+    "soundmark": "/ʃiː kæn spiːk ˈɪŋɡlɪʃ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      }
+    ]
+  },
+  {
+    "chinese": "你能开车吗",
+    "english": "Can you drive",
+    "soundmark": "/kæn juː draɪv/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "drive",
+        "role": "V",
+        "phonetic": "/draɪv/",
+        "chinese": "驾驶"
+      }
+    ]
+  },
+  {
+    "chinese": "是的我会",
+    "english": "Yes I can",
+    "soundmark": "/jes aɪ kæn/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      }
+    ]
+  },
+  {
+    "chinese": "不我不会",
+    "english": "No I cannot",
+    "soundmark": "/noʊ aɪ ˈkænɑːt/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      }
+    ]
+  },
+  {
+    "chinese": "他不会做饭",
+    "english": "He cannot cook",
+    "soundmark": "/hiː ˈkænɑːt kʊk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "cook",
+        "role": "V",
+        "phonetic": "/kʊk/",
+        "chinese": "烹饪"
+      }
+    ]
+  },
+  {
+    "chinese": "他们不会跳舞",
+    "english": "They cannot dance",
+    "soundmark": "/ðeɪ ˈkænɑːt dæns/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "dance",
+        "role": "V",
+        "phonetic": "/dæns/",
+        "chinese": "跳舞"
+      }
+    ]
+  },
+  {
+    "chinese": "你会弹钢琴吗",
+    "english": "Can you play the piano",
+    "soundmark": "/kæn juː pleɪ ðə piˈænoʊ/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "play",
+        "role": "V",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "the piano",
+        "role": "O",
+        "phonetic": "/ðə piˈænoʊ/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "他能骑自行车吗",
+    "english": "Can he ride a bike",
+    "soundmark": "/kæn hiː raɪd ə baɪk/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "ride",
+        "role": "V",
+        "phonetic": "/raɪd/",
+        "chinese": "骑"
+      },
+      {
+        "text": "a bike",
+        "role": "O",
+        "phonetic": "/ə baɪk/",
+        "chinese": "一个/自行车"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以用你的电话吗",
+    "english": "Can I use your phone",
+    "soundmark": "/kæn aɪ juːz jɔːr foʊn/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "use",
+        "role": "V",
+        "phonetic": "/juːz/",
+        "chinese": "使用"
+      },
+      {
+        "text": "your phone",
+        "role": "O",
+        "phonetic": "/jɔːr foʊn/",
+        "chinese": "你的/你们的/电话"
+      }
+    ]
+  },
+  {
+    "chinese": "我当然可以",
+    "english": "Of course you can",
+    "soundmark": "/ʌv kɔːrs juː kæn/",
+    "grammar": [
+      {
+        "text": "Of course",
+        "role": "Adv",
+        "phonetic": "/ʌv kɔːrs/",
+        "chinese": "当然"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我吗",
+    "english": "Can you help me",
+    "soundmark": "/kæn juː help miː/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "这个婴儿可以走路了",
+    "english": "The baby can walk now",
+    "soundmark": "/ðə ˈbeɪbi kæn wɔːk naʊ/",
+    "grammar": [
+      {
+        "text": "The baby",
+        "role": "S",
+        "phonetic": "/ðə ˈbeɪbi/",
+        "chinese": "这个/那个/婴儿"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "我看不懂这个",
+    "english": "I cannot understand this",
+    "soundmark": "/aɪ ˈkænɑːt ˌʌndərˈstænd ðɪs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "你能说慢一点吗",
+    "english": "Can you speak more slowly",
+    "soundmark": "/kæn juː spiːk mɔːr ˈsloʊli/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "more slowly",
+        "role": "A",
+        "phonetic": "/mɔːr ˈsloʊli/",
+        "chinese": "更多/慢慢地"
+      }
+    ]
+  },
+  {
+    "chinese": "她会弹吉他又会唱歌",
+    "english": "She can play the guitar and sing",
+    "soundmark": "/ʃiː kæn pleɪ ðə ɡɪˈtɑːr ænd sɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "play the guitar",
+        "role": "V",
+        "phonetic": "/pleɪ ðə ɡɪˈtɑːr/",
+        "chinese": "玩/这个/那个/吉他"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "sing",
+        "role": "V",
+        "phonetic": "/sɪŋ/",
+        "chinese": "唱"
+      }
+    ]
+  },
+  {
+    "chinese": "当然",
+    "english": "of course",
+    "soundmark": "/ʌv kɔːrs/"
+  },
+  {
+    "chinese": "理解",
+    "english": "understand",
+    "soundmark": "/ˌʌndərˈstænd/"
+  },
+  {
+    "chinese": "慢慢地",
+    "english": "slowly",
+    "soundmark": "/ˈsloʊli/"
+  },
+  {
+    "chinese": "吉他",
+    "english": "guitar",
+    "soundmark": "/ɡɪˈtɑːr/"
+  },
+  {
+    "chinese": "钢琴",
+    "english": "piano",
+    "soundmark": "/piˈænoʊ/"
+  },
+  {
+    "chinese": "自行车",
+    "english": "bike",
+    "soundmark": "/baɪk/"
+  },
+  {
+    "chinese": "电话",
+    "english": "phone",
+    "soundmark": "/foʊn/"
+  },
+  {
+    "chinese": "使用",
+    "english": "use",
+    "soundmark": "/juːz/"
+  },
+  {
+    "chinese": "婴儿",
+    "english": "baby",
+    "soundmark": "/ˈbeɪbi/"
+  },
+  {
+    "chinese": "能力",
+    "english": "ability",
+    "soundmark": "/əˈbɪləti/"
+  },
+  {
+    "chinese": "他能解决这个问题吗",
+    "english": "Can he solve this problem",
+    "soundmark": "/kæn hiː sɑːlv ðɪs ˈprɑːbləm/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "solve",
+        "role": "V",
+        "phonetic": "/sɑːlv/",
+        "chinese": ""
+      },
+      {
+        "text": "this problem",
+        "role": "O",
+        "phonetic": "/ðɪs ˈprɑːbləm/",
+        "chinese": "这个/问题/难题"
+      }
+    ]
+  },
+  {
+    "chinese": "我不能参加明天的会议",
+    "english": "I cannot attend the meeting tomorrow",
+    "soundmark": "/aɪ ˈkænɑːt əˈtend ðə ˈmiːtɪŋ təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "attend",
+        "role": "V",
+        "phonetic": "/əˈtend/",
+        "chinese": "参加"
+      },
+      {
+        "text": "the meeting",
+        "role": "O",
+        "phonetic": "/ðə ˈmiːtɪŋ/",
+        "chinese": "这个/那个/会议"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "你能借给我一点钱吗",
+    "english": "Can you lend me some money",
+    "soundmark": "/kæn juː lend miː sʌm ˈmʌni/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "lend",
+        "role": "V",
+        "phonetic": "/lend/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "some money",
+        "role": "O",
+        "phonetic": "/sʌm ˈmʌni/",
+        "chinese": "一些/钱"
+      }
+    ]
+  },
+  {
+    "chinese": "抱歉我不能",
+    "english": "Sorry I cannot",
+    "soundmark": "/ˈsɑːri aɪ ˈkænɑːt/",
+    "grammar": [
+      {
+        "text": "Sorry",
+        "role": "Adv",
+        "phonetic": "/ˈsɑːri/",
+        "chinese": "抱歉的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      }
+    ]
+  },
+  {
+    "chinese": "我们今晚能见面吗",
+    "english": "Can we meet tonight",
+    "soundmark": "/kæn wiː miːt təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "她不会说法语但她会说西班牙语",
+    "english": "She cannot speak French but she can speak Spanish",
+    "soundmark": "/ʃiː ˈkænɑːt spiːk frentʃ bʌt ʃiː kæn spiːk ˈspænɪʃ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "French",
+        "role": "O",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      },
+      {
+        "text": "but she can speak Spanish",
+        "role": "A",
+        "phonetic": "/bʌt ʃiː kæn spiːk ˈspænɪʃ/",
+        "chinese": "但是/她/能/说/讲"
+      }
+    ]
+  },
+  {
+    "chinese": "你能跑得跟我一样快吗",
+    "english": "Can you run as fast as me",
+    "soundmark": "/kæn juː rʌn æz fæst æz miː/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "as fast as me",
+        "role": "A",
+        "phonetic": "/æz fæst æz miː/",
+        "chinese": "当…时/作为/因为/快地/当…时/作为/因为/我"
+      }
+    ]
+  },
+  {
+    "chinese": "我不相信他他能做那样的事",
+    "english": "I cannot believe he can do such a thing",
+    "soundmark": "/aɪ ˈkænɑːt bɪˈliːv hiː kæn duː sʌtʃ ə θɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot believe",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt bɪˈliːv/",
+        "chinese": "不能/相信"
+      },
+      {
+        "text": "he can do such a thing",
+        "role": "O",
+        "phonetic": "/hiː kæn duː sʌtʃ ə θɪŋ/",
+        "chinese": "他/能/做/助动词/这样的/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "解决",
+    "english": "solve",
+    "soundmark": "/sɑːlv/"
+  },
+  {
+    "chinese": "参加",
+    "english": "attend",
+    "soundmark": "/əˈtend/"
+  },
+  {
+    "chinese": "借出",
+    "english": "lend",
+    "soundmark": "/lend/"
+  },
+  {
+    "chinese": "西班牙语",
+    "english": "Spanish",
+    "soundmark": "/ˈspænɪʃ/"
+  },
+  {
+    "chinese": "快地",
+    "english": "fast",
+    "soundmark": "/fæst/"
+  },
+  {
+    "chinese": "相信",
+    "english": "believe",
+    "soundmark": "/bɪˈliːv/"
+  }
+]

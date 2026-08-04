@@ -1,0 +1,183 @@
+[
+  {
+    "english": "husband",
+    "chinese": "丈夫",
+    "soundmark": "/ˈhʌzbənd/"
+  },
+  {
+    "chinese": "那是你丈夫吗？",
+    "english": "Is that your husband?",
+    "soundmark": "/ɪz ðæt jʊr ˈhʌzbənd/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jʊr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "husband",
+        "role": "C",
+        "phonetic": "/ˈhʌzbənd/",
+        "chinese": "丈夫"
+      }
+    ]
+  },
+  {
+    "chinese": "他是做什么的？",
+    "english": "What does he do?",
+    "soundmark": "/wʌt dʌz hiː duː/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "他是个医生",
+    "english": "He is a doctor",
+    "soundmark": "/hiː ɪz ə ˈdɑːktər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "doctor",
+        "role": "C",
+        "phonetic": "/ˈdɑːktər/",
+        "chinese": "医生"
+      }
+    ]
+  },
+  {
+    "chinese": "他们很幸福",
+    "english": "They are very happy",
+    "soundmark": "/ðeɪ ɑːr ˈveri ˈhæpi/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "happy",
+        "role": "C",
+        "phonetic": "/ˈhæpi/",
+        "chinese": "快乐的"
+      }
+    ]
+  },
+  {
+    "chinese": "我见过他一次",
+    "english": "I've met him once",
+    "soundmark": "/aɪv met hɪm wʌns/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "'ve",
+        "role": "V",
+        "phonetic": "/v/",
+        "chinese": ""
+      },
+      {
+        "text": "met",
+        "role": "V",
+        "phonetic": "/met/",
+        "chinese": "遇见（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "once",
+        "role": "A",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      }
+    ]
+  },
+  {
+    "english": "wife",
+    "chinese": "妻子",
+    "soundmark": "/waɪf/"
+  },
+  {
+    "english": "couple",
+    "chinese": "夫妻",
+    "soundmark": "/ˈkʌpəl/"
+  },
+  {
+    "english": "married",
+    "chinese": "已婚的",
+    "soundmark": "/ˈmærid/"
+  }
+]

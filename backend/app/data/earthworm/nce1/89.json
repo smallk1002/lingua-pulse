@@ -1,0 +1,478 @@
+[
+  {
+    "chinese": "出售",
+    "english": "for sale",
+    "soundmark": "/fɔːr/ /seɪl/"
+  },
+  {
+    "chinese": "卖",
+    "english": "sell",
+    "soundmark": "/sel/"
+  },
+  {
+    "chinese": "买",
+    "english": "buy",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "chinese": "价格",
+    "english": "price",
+    "soundmark": "/praɪs/"
+  },
+  {
+    "chinese": "便宜的",
+    "english": "cheap",
+    "soundmark": "/tʃiːp/"
+  },
+  {
+    "chinese": "昂贵的",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "房子",
+    "english": "house",
+    "soundmark": "/haʊs/"
+  },
+  {
+    "chinese": "车",
+    "english": "car",
+    "soundmark": "/kɑː/"
+  },
+  {
+    "chinese": "商店",
+    "english": "shop",
+    "soundmark": "/ʃɒp/"
+  },
+  {
+    "chinese": "钱",
+    "english": "money",
+    "soundmark": "/ˈmʌni/"
+  },
+  {
+    "chinese": "元",
+    "english": "yuan",
+    "soundmark": "/jʊˈɑːn/"
+  },
+  {
+    "chinese": "多少钱",
+    "english": "how much",
+    "soundmark": "/haʊ/ /mʌtʃ/"
+  },
+  {
+    "chinese": "新",
+    "english": "new",
+    "soundmark": "/njuː/"
+  },
+  {
+    "chinese": "旧",
+    "english": "old",
+    "soundmark": "/əʊld/"
+  },
+  {
+    "chinese": "好的",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "chinese": "这辆车正在出售",
+    "english": "This car is for sale",
+    "soundmark": "/ðɪs/ /kɑːr/ /ɪz/ /fɔːr/ /seɪl/",
+    "grammar": [
+      {
+        "text": "This car",
+        "role": "S",
+        "phonetic": "/ðɪs/ /kɑːr/",
+        "chinese": "这个/汽车"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "for sale",
+        "role": "C",
+        "phonetic": "/fɔːr/ /seɪl/",
+        "chinese": "出售"
+      }
+    ]
+  },
+  {
+    "chinese": "这房子多少钱",
+    "english": "How much is the house",
+    "soundmark": "/haʊ/ /mʌtʃ/ /ɪz/ /ðə/ /haʊs/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "Adv",
+        "phonetic": "/haʊ/ /mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the house",
+        "role": "S",
+        "phonetic": "/ðə/ /haʊs/",
+        "chinese": "这个/那个/房子"
+      }
+    ]
+  },
+  {
+    "chinese": "它很便宜",
+    "english": "It is very cheap",
+    "soundmark": "/ɪt/ /ɪz/ /ˈveri/ /tʃiːp/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "cheap",
+        "role": "C",
+        "phonetic": "/tʃiːp/",
+        "chinese": "便宜的"
+      }
+    ]
+  },
+  {
+    "chinese": "我想买这辆车",
+    "english": "I want to buy this car",
+    "soundmark": "/aɪ/ /wɒnt/ /tə/ /baɪ/ /ðɪs/ /kɑː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɒnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to buy",
+        "role": "V",
+        "phonetic": "/tə/ /baɪ/",
+        "chinese": "到/向/买"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑː/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "她卖掉了她的房子",
+    "english": "She sold her house",
+    "soundmark": "/ʃiː/ /səʊld/ /hɜː/ /haʊs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "sold",
+        "role": "V",
+        "phonetic": "/səʊld/",
+        "chinese": "卖（过去式）"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜː/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      }
+    ]
+  },
+  {
+    "chinese": "商店里有很多东西卖",
+    "english": "There are many things for sale in the shop",
+    "soundmark": "/ðeər/ /ɑː/ /ˈmeni/ /θɪŋz/ /fɔːr/ /seɪl/ /ɪn/ /ðə/ /ʃɒp/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðeər/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "things",
+        "role": "C",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      },
+      {
+        "text": "for sale",
+        "role": "C",
+        "phonetic": "/fɔːr/ /seɪl/",
+        "chinese": "出售"
+      },
+      {
+        "text": "in the shop",
+        "role": "L",
+        "phonetic": "/ɪn/ /ðə/ /ʃɒp/",
+        "chinese": "在…里/这个/那个/商店"
+      }
+    ]
+  },
+  {
+    "chinese": "这太贵了",
+    "english": "This is too expensive",
+    "soundmark": "/ðɪs/ /ɪz/ /tuː/ /ɪkˈspensɪv/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "expensive",
+        "role": "C",
+        "phonetic": "/ɪkˈspensɪv/",
+        "chinese": "昂贵的"
+      }
+    ]
+  },
+  {
+    "chinese": "你能便宜一点吗",
+    "english": "Can you make it cheaper",
+    "soundmark": "/kən/ /juː/ /meɪk/ /ɪt/ /ˈtʃiːpə/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "Lv",
+        "phonetic": "/kən/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "make",
+        "role": "V",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "cheaper",
+        "role": "C",
+        "phonetic": "/ˈtʃiːpə/",
+        "chinese": "更…的/…者(便宜的)"
+      }
+    ]
+  },
+  {
+    "chinese": "这是新款式",
+    "english": "This is a new model",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /njuː/ /ˈmɒdl/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Det",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/njuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "model",
+        "role": "C",
+        "phonetic": "/ˈmɒdl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我花了五千元买这辆车",
+    "english": "I paid 5000 yuan for this car",
+    "soundmark": "/aɪ/ /peɪd/ /faɪv/ /ˈθaʊzənd/ /jʊˈɑːn/ /fɔː/ /ðɪs/ /kɑː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "paid",
+        "role": "V",
+        "phonetic": "/peɪd/",
+        "chinese": "付钱（过去式）"
+      },
+      {
+        "text": "5000",
+        "role": "Det",
+        "phonetic": "/faɪv/ /ˈθaʊzənd/",
+        "chinese": ""
+      },
+      {
+        "text": "yuan",
+        "role": "O",
+        "phonetic": "/jʊˈɑːn/",
+        "chinese": ""
+      },
+      {
+        "text": "for this car",
+        "role": "P",
+        "phonetic": "/fɔː/ /ðɪs/ /kɑː/",
+        "chinese": "为了/对于/这个/汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "这些旧书正在出售",
+    "english": "These old books are for sale",
+    "soundmark": "/ðiːz/ /əʊld/ /bʊks/ /ɑː/ /fɔːr/ /seɪl/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/əʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "books",
+        "role": "S",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "for sale",
+        "role": "C",
+        "phonetic": "/fɔːr/ /seɪl/",
+        "chinese": "出售"
+      }
+    ]
+  },
+  {
+    "chinese": "支付",
+    "english": "pay",
+    "soundmark": "/peɪ/"
+  },
+  {
+    "chinese": "花费",
+    "english": "cost",
+    "soundmark": "/kɒst/"
+  },
+  {
+    "chinese": "东西",
+    "english": "thing",
+    "soundmark": "/θɪŋ/"
+  },
+  {
+    "chinese": "书",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "模型",
+    "english": "model",
+    "soundmark": "/ˈmɒdl/"
+  },
+  {
+    "chinese": "款式",
+    "english": "style",
+    "soundmark": "/staɪl/"
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "chinese": "乘车",
+    "english": "take a ride",
+    "soundmark": "/teɪk ə raɪd/"
+  },
+  {
+    "chinese": "兴奋的",
+    "english": "excited",
+    "soundmark": "/ɪkˈsaɪtɪd/"
+  },
+  {
+    "chinese": "售票员",
+    "english": "conductor",
+    "soundmark": "/kənˈdʌktər/"
+  },
+  {
+    "chinese": "眺望",
+    "english": "view",
+    "soundmark": "/vjuː/"
+  },
+  {
+    "chinese": "意识到",
+    "english": "realize",
+    "soundmark": "/ˈriːəlaɪz/"
+  },
+  {
+    "chinese": "迷路",
+    "english": "lose one's way",
+    "soundmark": "/luːz wʌnz weɪ/"
+  },
+  {
+    "chinese": "农村",
+    "english": "countryside",
+    "soundmark": "/ˈkʌntrisaɪd/"
+  },
+  {
+    "chinese": "决定",
+    "english": "decide",
+    "soundmark": "/dɪˈsaɪd/"
+  },
+  {
+    "chinese": "我昨天乘车去了乡下。",
+    "english": "I went for a ride in the countryside yesterday",
+    "soundmark": "/aɪ went fɔːr ə raɪd ɪn ðə ˈkʌntrisaɪd ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "for a ride",
+        "role": "A",
+        "phonetic": "/fɔːr ə raɪd/",
+        "chinese": "为了/对于/一个/骑"
+      },
+      {
+        "text": "in the countryside",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈkʌntrisaɪd/",
+        "chinese": "在…里/这个/那个"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "售票员告诉我要转车。",
+    "english": "The conductor told me to change buses",
+    "soundmark": "/ðə kənˈdʌktər toʊld miː tuː tʃeɪndʒ ˈbʌsɪz/",
+    "grammar": [
+      {
+        "text": "The conductor",
+        "role": "S",
+        "phonetic": "/ðə kənˈdʌktər/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "to change buses",
+        "role": "O",
+        "phonetic": "/tuː tʃeɪndʒ ˈbʌsɪz/",
+        "chinese": "到/向/改变/公交车"
+      }
+    ]
+  },
+  {
+    "chinese": "这比我预期的要远得多。",
+    "english": "It was much farther than I expected",
+    "soundmark": "/ɪt wʌz mʌtʃ ˈfɑːrðər ðæn aɪ ɪkˈspektɪd/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "much farther",
+        "role": "C",
+        "phonetic": "/mʌtʃ ˈfɑːrðər/",
+        "chinese": "很多/更远"
+      },
+      {
+        "text": "than I expected",
+        "role": "A",
+        "phonetic": "/ðæn aɪ ɪkˈspektɪd/",
+        "chinese": "比/我/预期的"
+      }
+    ]
+  },
+  {
+    "chinese": "我意识到我已经迷路了。",
+    "english": "I realized that I had lost my way",
+    "soundmark": "/aɪ ˈriːəlaɪzd ðæt aɪ hæd lɔːst maɪ weɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "realized",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪzd/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "that I had lost my way",
+        "role": "O",
+        "phonetic": "/ðæt aɪ hæd lɔːst maɪ weɪ/",
+        "chinese": "那个/我/有/助动词（过去式）/丢失的/迷路的/我的/路/方式"
+      }
+    ]
+  },
+  {
+    "chinese": "这趟旅行花了比我想象更长的时间。",
+    "english": "The trip took longer than I thought",
+    "soundmark": "/ðə trɪp tʊk ˈlɔːŋɡər ðæn aɪ θɔːt/",
+    "grammar": [
+      {
+        "text": "The trip",
+        "role": "S",
+        "phonetic": "/ðə trɪp/",
+        "chinese": "这个/那个/旅行"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "longer",
+        "role": "O",
+        "phonetic": "/ˈlɔːŋɡər/",
+        "chinese": "更…的/…者(长的)"
+      },
+      {
+        "text": "than I thought",
+        "role": "A",
+        "phonetic": "/ðæn aɪ θɔːt/",
+        "chinese": "比/我/想/认为（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "他比我到得早。",
+    "english": "He arrived earlier than I did",
+    "soundmark": "/hiː əˈraɪvd ˈɜːrliər ðæn aɪ dɪd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "earlier",
+        "role": "A",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      },
+      {
+        "text": "than I did",
+        "role": "A",
+        "phonetic": "/ðæn aɪ dɪd/",
+        "chinese": "比/我/做/助动词（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "他在眺望乡村风光时迷路了。",
+    "english": "He lost his way while viewing the countryside",
+    "soundmark": "/hiː lɔːst hɪz weɪ waɪl ˈvjuːɪŋ ðə ˈkʌntrisaɪd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "his way",
+        "role": "O",
+        "phonetic": "/hɪz weɪ/",
+        "chinese": "他的/路/方式"
+      },
+      {
+        "text": "while viewing the countryside",
+        "role": "A",
+        "phonetic": "/waɪl ˈvjuːɪŋ ðə ˈkʌntrisaɪd/",
+        "chinese": "当…时/而/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我费了半天劲才发现被他骗了。",
+    "english": "I had taken a long time to realize I was taken for a ride",
+    "soundmark": "/aɪ hæd ˈteɪkən ə lɔːŋ taɪm tuː ˈriːəlaɪz aɪ wʌz ˈteɪkən fɔːr ə raɪd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had taken",
+        "role": "V",
+        "phonetic": "/hæd ˈteɪkən/",
+        "chinese": "有/助动词（过去式）/拿走的"
+      },
+      {
+        "text": "a long time",
+        "role": "O",
+        "phonetic": "/ə lɔːŋ taɪm/",
+        "chinese": "长时间"
+      },
+      {
+        "text": "to realize I was taken for a ride",
+        "role": "A",
+        "phonetic": "/tuː ˈriːəlaɪz aɪ wʌz ˈteɪkən fɔːr ə raɪd/",
+        "chinese": "到/向/意识到/我/是（过去式）/拿走的/为了/对于/一个/骑"
+      }
+    ]
+  },
+  {
+    "chinese": "公交车",
+    "english": "bus",
+    "soundmark": "/bʌs/"
+  },
+  {
+    "chinese": "转车",
+    "english": "change",
+    "soundmark": "/tʃeɪndʒ/"
+  },
+  {
+    "chinese": "更远",
+    "english": "farther",
+    "soundmark": "/ˈfɑːrðər/"
+  },
+  {
+    "chinese": "花费时间",
+    "english": "take time",
+    "soundmark": "/teɪk taɪm/"
+  },
+  {
+    "chinese": "更早",
+    "english": "earlier",
+    "soundmark": "/ˈɜːrliər/"
+  },
+  {
+    "chinese": "长的",
+    "english": "long",
+    "soundmark": "/lɔːŋ/"
+  },
+  {
+    "chinese": "想象",
+    "english": "think",
+    "soundmark": "/θɔːt/"
+  },
+  {
+    "chinese": "骗",
+    "english": "taken for a ride",
+    "soundmark": "/ˈteɪkən fɔːr ə raɪd/"
+  }
+]

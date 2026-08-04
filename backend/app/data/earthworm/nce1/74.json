@@ -1,0 +1,592 @@
+[
+  {
+    "chinese": "超市",
+    "english": "supermarket",
+    "soundmark": "/ˈsuːpəmɑːkɪt/"
+  },
+  {
+    "chinese": "购物",
+    "english": "shopping",
+    "soundmark": "/ˈʃɒpɪŋ/"
+  },
+  {
+    "chinese": "便宜的",
+    "english": "cheap",
+    "soundmark": "/tʃiːp/"
+  },
+  {
+    "chinese": "昂贵的",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "新鲜的",
+    "english": "fresh",
+    "soundmark": "/freʃ/"
+  },
+  {
+    "chinese": "商品",
+    "english": "goods",
+    "soundmark": "/gʊdz/"
+  },
+  {
+    "chinese": "水果",
+    "english": "fruit",
+    "soundmark": "/fruːt/"
+  },
+  {
+    "chinese": "蔬菜",
+    "english": "vegetable",
+    "soundmark": "/ˈvedʒtəbl/"
+  },
+  {
+    "chinese": "面包",
+    "english": "bread",
+    "soundmark": "/bred/"
+  },
+  {
+    "chinese": "牛奶",
+    "english": "milk",
+    "soundmark": "/mɪlk/"
+  },
+  {
+    "chinese": "肉",
+    "english": "meat",
+    "soundmark": "/miːt/"
+  },
+  {
+    "chinese": "鸡蛋",
+    "english": "egg",
+    "soundmark": "/eg/"
+  },
+  {
+    "chinese": "收银台",
+    "english": "counter",
+    "soundmark": "/ˈkaʊntə/"
+  },
+  {
+    "chinese": "购物者",
+    "english": "shopper",
+    "soundmark": "/ˈʃɒpə/"
+  },
+  {
+    "chinese": "鱼",
+    "english": "fish",
+    "soundmark": "/fɪʃ/"
+  },
+  {
+    "chinese": "米饭",
+    "english": "rice",
+    "soundmark": "/raɪs/"
+  },
+  {
+    "chinese": "糖",
+    "english": "sugar",
+    "soundmark": "/ˈʃʊgə/"
+  },
+  {
+    "chinese": "茶",
+    "english": "tea",
+    "soundmark": "/tiː/"
+  },
+  {
+    "chinese": "这个超市很新。",
+    "english": "This supermarket is very new.",
+    "soundmark": "/ðɪs ˈsuːpəmɑːkɪt ɪz ˈveri njuː/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "supermarket",
+        "role": "S",
+        "phonetic": "/ˈsuːpəmɑːkɪt/",
+        "chinese": "超市"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/njuː/",
+        "chinese": "新的"
+      }
+    ]
+  },
+  {
+    "chinese": "超市里的东西很便宜。",
+    "english": "Things are cheap in the supermarket.",
+    "soundmark": "/θɪŋz ɑː tʃiːp ɪn ðə ˈsuːpəmɑːkɪt/",
+    "grammar": [
+      {
+        "text": "Things",
+        "role": "S",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "cheap",
+        "role": "C",
+        "phonetic": "/tʃiːp/",
+        "chinese": "便宜的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "supermarket",
+        "role": "O",
+        "phonetic": "/ˈsuːpəmɑːkɪt/",
+        "chinese": "超市"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要买一些新鲜水果。",
+    "english": "I need some fresh fruit.",
+    "soundmark": "/aɪ niːd sʌm freʃ fruːt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "fresh",
+        "role": "C",
+        "phonetic": "/freʃ/",
+        "chinese": "新鲜的"
+      },
+      {
+        "text": "fruit",
+        "role": "O",
+        "phonetic": "/fruːt/",
+        "chinese": "水果"
+      }
+    ]
+  },
+  {
+    "chinese": "她正在超市购物。",
+    "english": "She is shopping in the supermarket.",
+    "soundmark": "/ʃiː ɪz ˈʃɒpɪŋ ɪn ðə ˈsuːpəmɑːkɪt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is shopping",
+        "role": "V",
+        "phonetic": "/ɪz ˈʃɒpɪŋ/",
+        "chinese": "是/正在…(商店)"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "supermarket",
+        "role": "O",
+        "phonetic": "/ˈsuːpəmɑːkɪt/",
+        "chinese": "超市"
+      }
+    ]
+  },
+  {
+    "chinese": "这些蔬菜不新鲜。",
+    "english": "These vegetables are not fresh.",
+    "soundmark": "/ðiːz ˈvedʒtəblz ɑː nɒt freʃ/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "vegetables",
+        "role": "S",
+        "phonetic": "/ˈvedʒtəblz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "fresh",
+        "role": "C",
+        "phonetic": "/freʃ/",
+        "chinese": "新鲜的"
+      }
+    ]
+  },
+  {
+    "chinese": "牛奶和面包在收银台旁边。",
+    "english": "The milk and bread are next to the counter.",
+    "soundmark": "/ðə mɪlk ənd bred ɑː nekst tuː ðə ˈkaʊntə/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "milk",
+        "role": "S",
+        "phonetic": "/mɪlk/",
+        "chinese": "挤奶/牛奶"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "bread",
+        "role": "S",
+        "phonetic": "/bred/",
+        "chinese": "面包"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "next to",
+        "role": "P",
+        "phonetic": "/nekst tuː/",
+        "chinese": "下一个/接下来/到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "counter",
+        "role": "O",
+        "phonetic": "/ˈkaʊntə/",
+        "chinese": "更…的/…者(数)"
+      }
+    ]
+  },
+  {
+    "chinese": "这家店的东西太贵了。",
+    "english": "Things in this shop are too expensive.",
+    "soundmark": "/θɪŋz ɪn ðɪs ʃɒp ɑː tuː ɪkˈspensɪv/",
+    "grammar": [
+      {
+        "text": "Things",
+        "role": "S",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "shop",
+        "role": "O",
+        "phonetic": "/ʃɒp/",
+        "chinese": "商店"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "expensive",
+        "role": "C",
+        "phonetic": "/ɪkˈspensɪv/",
+        "chinese": "昂贵的"
+      }
+    ]
+  },
+  {
+    "chinese": "他买了一些肉和鸡蛋。",
+    "english": "He bought some meat and eggs.",
+    "soundmark": "/hiː bɔːt sʌm miːt ənd egz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "meat",
+        "role": "O",
+        "phonetic": "/miːt/",
+        "chinese": "肉"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "eggs",
+        "role": "O",
+        "phonetic": "/egz/",
+        "chinese": "鸡蛋"
+      }
+    ]
+  },
+  {
+    "chinese": "这家超市很大。",
+    "english": "This supermarket is very large.",
+    "soundmark": "/ðɪs ˈsuːpəmɑːkɪt ɪz ˈveri lɑːdʒ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "supermarket",
+        "role": "S",
+        "phonetic": "/ˈsuːpəmɑːkɪt/",
+        "chinese": "超市"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "large",
+        "role": "C",
+        "phonetic": "/lɑːdʒ/",
+        "chinese": "大的"
+      }
+    ]
+  },
+  {
+    "chinese": "咖啡",
+    "english": "coffee",
+    "soundmark": "/ˈkɒfi/"
+  },
+  {
+    "chinese": "奶酪",
+    "english": "cheese",
+    "soundmark": "/tʃiːz/"
+  },
+  {
+    "chinese": "黄油",
+    "english": "butter",
+    "soundmark": "/ˈbʌtə/"
+  },
+  {
+    "chinese": "酸奶",
+    "english": "yogurt",
+    "soundmark": "/ˈjɒgət/"
+  },
+  {
+    "chinese": "果汁",
+    "english": "juice",
+    "soundmark": "/dʒuːs/"
+  },
+  {
+    "chinese": "饼干",
+    "english": "biscuit",
+    "soundmark": "/ˈbɪskɪt/"
+  },
+  {
+    "chinese": "蛋糕",
+    "english": "cake",
+    "soundmark": "/keɪk/"
+  },
+  {
+    "chinese": "巧克力",
+    "english": "chocolate",
+    "soundmark": "/ˈtʃɒklət/"
+  },
+  {
+    "chinese": "冰淇淋",
+    "english": "ice cream",
+    "soundmark": "/aɪs kriːm/"
+  },
+  {
+    "chinese": "苹果",
+    "english": "apple",
+    "soundmark": "/ˈæpl/"
+  },
+  {
+    "chinese": "香蕉",
+    "english": "banana",
+    "soundmark": "/bəˈnɑːnə/"
+  },
+  {
+    "chinese": "橙子",
+    "english": "orange",
+    "soundmark": "/ˈɒrɪndʒ/"
+  },
+  {
+    "chinese": "西红柿",
+    "english": "tomato",
+    "soundmark": "/təˈmɑːtəʊ/"
+  },
+  {
+    "chinese": "土豆",
+    "english": "potato",
+    "soundmark": "/pəˈteɪtəʊ/"
+  },
+  {
+    "chinese": "胡萝卜",
+    "english": "carrot",
+    "soundmark": "/ˈkærət/"
+  },
+  {
+    "chinese": "洋葱",
+    "english": "onion",
+    "soundmark": "/ˈʌnjən/"
+  },
+  {
+    "chinese": "鸡肉",
+    "english": "chicken",
+    "soundmark": "/ˈtʃɪkɪn/"
+  },
+  {
+    "chinese": "牛肉",
+    "english": "beef",
+    "soundmark": "/biːf/"
+  },
+  {
+    "chinese": "猪肉",
+    "english": "pork",
+    "soundmark": "/pɔːk/"
+  },
+  {
+    "chinese": "香肠",
+    "english": "sausage",
+    "soundmark": "/ˈsɒsɪdʒ/"
+  },
+  {
+    "chinese": "盐",
+    "english": "salt",
+    "soundmark": "/sɔːlt/"
+  },
+  {
+    "chinese": "胡椒",
+    "english": "pepper",
+    "soundmark": "/ˈpepə/"
+  },
+  {
+    "chinese": "面粉",
+    "english": "flour",
+    "soundmark": "/ˈflaʊə/"
+  },
+  {
+    "chinese": "油",
+    "english": "oil",
+    "soundmark": "/ɔɪl/"
+  },
+  {
+    "chinese": "醋",
+    "english": "vinegar",
+    "soundmark": "/ˈvɪnɪgə/"
+  }
+]

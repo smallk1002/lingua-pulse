@@ -1,0 +1,1702 @@
+[
+  {
+    "chinese": "河流",
+    "english": "river",
+    "soundmark": "/ˈrɪvər/"
+  },
+  {
+    "chinese": "邻居",
+    "english": "neighbour",
+    "soundmark": "/ˈneɪbər/"
+  },
+  {
+    "chinese": "洪水",
+    "english": "flood",
+    "soundmark": "/flʌd/"
+  },
+  {
+    "chinese": "河岸",
+    "english": "bank",
+    "soundmark": "/bæŋk/"
+  },
+  {
+    "chinese": "边界",
+    "english": "boundary",
+    "soundmark": "/ˈbaʊndəri/"
+  },
+  {
+    "chinese": "财产",
+    "english": "property",
+    "soundmark": "/ˈprɑːpərti/"
+  },
+  {
+    "chinese": "水流",
+    "english": "current",
+    "soundmark": "/ˈkɜːrənt/"
+  },
+  {
+    "chinese": "溢出",
+    "english": "overflow",
+    "soundmark": "/ˌoʊvərˈfloʊ/"
+  },
+  {
+    "chinese": "破坏性的",
+    "english": "destructive",
+    "soundmark": "/dɪˈstrʌktɪv/"
+  },
+  {
+    "chinese": "保险",
+    "english": "insurance",
+    "soundmark": "/ɪnˈʃʊrəns/"
+  },
+  {
+    "chinese": "淹没的",
+    "english": "submerged",
+    "soundmark": "/səbˈmɜːrdʒd/"
+  },
+  {
+    "chinese": "河岸",
+    "english": "river bank",
+    "soundmark": "/ˈrɪvər bæŋk/"
+  },
+  {
+    "chinese": "另一边",
+    "english": "the other side",
+    "soundmark": "/ðə ˈʌðər saɪd/"
+  },
+  {
+    "chinese": "被淹没",
+    "english": "was flooded",
+    "soundmark": "/wəz ˈflʌdɪd/"
+  },
+  {
+    "chinese": "被分开",
+    "english": "is divided by",
+    "soundmark": "/ɪz dɪˈvaɪdɪd baɪ/"
+  },
+  {
+    "chinese": "被冲走",
+    "english": "was washed away",
+    "soundmark": "/wəz wɑːʃt əˈweɪ/"
+  },
+  {
+    "chinese": "边界线",
+    "english": "boundary line",
+    "soundmark": "/ˈbaʊndəri laɪn/"
+  },
+  {
+    "chinese": "被淹没",
+    "english": "was submerged",
+    "soundmark": "/wəz səbˈmɜːrdʒd/"
+  },
+  {
+    "chinese": "这条河是我们最近的邻居。",
+    "english": "The river is our nearest neighbour",
+    "soundmark": "/ðə ˈrɪvər ɪz aʊər ˈnɪrɪst ˈneɪbər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "S",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "nearest",
+        "role": "C",
+        "phonetic": "/ˈnɪrɪst/",
+        "chinese": "最…的(在…附近)"
+      },
+      {
+        "text": "neighbour",
+        "role": "C",
+        "phonetic": "/ˈneɪbər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "房屋被洪水淹没了。",
+    "english": "The house was flooded by the river",
+    "soundmark": "/ðə haʊs wəz ˈflʌdɪd baɪ ðə ˈrɪvər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "S",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "flooded",
+        "role": "V",
+        "phonetic": "/ˈflʌdɪd/",
+        "chinese": "洪水"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "O",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      }
+    ]
+  },
+  {
+    "chinese": "田地被水覆盖了。",
+    "english": "The fields were covered with water",
+    "soundmark": "/ðə fiːldz wər ˈkʌvərd wɪð ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fields",
+        "role": "S",
+        "phonetic": "/fiːldz/",
+        "chinese": "田野/领域"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "covered",
+        "role": "V",
+        "phonetic": "/ˈkʌvərd/",
+        "chinese": "覆盖"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "那座桥被激流冲走了。",
+    "english": "The bridge was washed away by the strong current",
+    "soundmark": "/ðə brɪdʒ wəz wɑːʃt əˈweɪ baɪ ðə strɔːŋ ˈkɜːrənt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bridge",
+        "role": "S",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "washed",
+        "role": "V",
+        "phonetic": "/wɑːʃt/",
+        "chinese": "洗"
+      },
+      {
+        "text": "away",
+        "role": "A",
+        "phonetic": "/əˈweɪ/",
+        "chinese": "离开/远"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "strong",
+        "role": "C",
+        "phonetic": "/strɔːŋ/",
+        "chinese": "强壮的"
+      },
+      {
+        "text": "current",
+        "role": "O",
+        "phonetic": "/ˈkɜːrənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "财产被河流分成两半。",
+    "english": "The property is divided by the river",
+    "soundmark": "/ðə ˈprɑːpərti ɪz dɪˈvaɪdɪd baɪ ðə ˈrɪvər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "property",
+        "role": "S",
+        "phonetic": "/ˈprɑːpərti/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "divided",
+        "role": "V",
+        "phonetic": "/dɪˈvaɪdɪd/",
+        "chinese": "分"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "O",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      }
+    ]
+  },
+  {
+    "chinese": "每年春天河水都会泛滥。",
+    "english": "The river overflows its banks every spring",
+    "soundmark": "/ðə ˈrɪvər ˌoʊvərˈfloʊz ɪts bæŋks ˈevri sprɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "S",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      },
+      {
+        "text": "overflows",
+        "role": "V",
+        "phonetic": "/ˌoʊvərˈfloʊz/",
+        "chinese": ""
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "banks",
+        "role": "O",
+        "phonetic": "/bæŋks/",
+        "chinese": "银行"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "spring",
+        "role": "A",
+        "phonetic": "/sprɪŋ/",
+        "chinese": "春天/泉"
+      }
+    ]
+  },
+  {
+    "chinese": "洪水带来了巨大的破坏。",
+    "english": "The flood brought great destruction",
+    "soundmark": "/ðə flʌd brɔːt ɡreɪt dɪˈstrʌkʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "flood",
+        "role": "S",
+        "phonetic": "/flʌd/",
+        "chinese": "洪水"
+      },
+      {
+        "text": "brought",
+        "role": "V",
+        "phonetic": "/brɔːt/",
+        "chinese": ""
+      },
+      {
+        "text": "great",
+        "role": "C",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "destruction",
+        "role": "O",
+        "phonetic": "/dɪˈstrʌkʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "大量农作物被毁。",
+    "english": "A great many crops were destroyed",
+    "soundmark": "/ə ɡreɪt ˈmeni krɑːps wər dɪˈstrɔɪd/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "great",
+        "role": "C",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "crops",
+        "role": "S",
+        "phonetic": "/krɑːps/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "destroyed",
+        "role": "V",
+        "phonetic": "/dɪˈstrɔɪd/",
+        "chinese": "破坏"
+      }
+    ]
+  },
+  {
+    "chinese": "整个村庄被淹没在水下。",
+    "english": "The whole village was submerged under water",
+    "soundmark": "/ðə hoʊl ˈvɪlɪdʒ wəz səbˈmɜːrdʒd ˈʌndər ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "C",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "village",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "chinese": "村庄"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "submerged",
+        "role": "V",
+        "phonetic": "/səbˈmɜːrdʒd/",
+        "chinese": ""
+      },
+      {
+        "text": "under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "河水已经涨了三英尺。",
+    "english": "The river has risen by three feet",
+    "soundmark": "/ðə ˈrɪvər hæz ˈrɪzən baɪ θriː fiːt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "S",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "risen",
+        "role": "V",
+        "phonetic": "/ˈrɪzən/",
+        "chinese": "上升（过去分词）"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "feet",
+        "role": "O",
+        "phonetic": "/fiːt/",
+        "chinese": "脚（复数）"
+      }
+    ]
+  },
+  {
+    "chinese": "河水仍在快速上涨。",
+    "english": "The water level was still rising rapidly",
+    "soundmark": "/ðə ˈwɔːtər ˈlevəl wəz stɪl ˈraɪzɪŋ ˈræpɪdli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "water",
+        "role": "C",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "level",
+        "role": "S",
+        "phonetic": "/ˈlevəl/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "rising",
+        "role": "V",
+        "phonetic": "/ˈraɪzɪŋ/",
+        "chinese": "上升"
+      },
+      {
+        "text": "rapidly",
+        "role": "A",
+        "phonetic": "/ˈræpɪdli/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们被迫撤离家园。",
+    "english": "We were forced to leave our homes",
+    "soundmark": "/wiː wər fɔːrst tə liːv aʊər hoʊmz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "forced",
+        "role": "V",
+        "phonetic": "/fɔːrst/",
+        "chinese": "被迫的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "homes",
+        "role": "O",
+        "phonetic": "/hoʊmz/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "沙袋被用来阻挡洪水。",
+    "english": "Sandbags were used to hold back the flood",
+    "soundmark": "/ˈsændbæɡz wər juːzd tə hoʊld bæk ðə flʌd/",
+    "grammar": [
+      {
+        "text": "Sandbags",
+        "role": "S",
+        "phonetic": "/ˈsændbæɡz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "used",
+        "role": "V",
+        "phonetic": "/juːzd/",
+        "chinese": "用过的/二手的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "hold",
+        "role": "V",
+        "phonetic": "/hoʊld/",
+        "chinese": "握住/举办"
+      },
+      {
+        "text": "back",
+        "role": "A",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "flood",
+        "role": "O",
+        "phonetic": "/flʌd/",
+        "chinese": "洪水"
+      }
+    ]
+  },
+  {
+    "chinese": "警报被及时拉响。",
+    "english": "The alarm was sounded in time",
+    "soundmark": "/ðə əˈlɑːrm wəz ˈsaʊndɪd ɪn taɪm/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "alarm",
+        "role": "S",
+        "phonetic": "/əˈlɑːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "sounded",
+        "role": "V",
+        "phonetic": "/ˈsaʊndɪd/",
+        "chinese": "声音"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "损失由保险公司承担。",
+    "english": "The damage was covered by the insurance company",
+    "soundmark": "/ðə ˈdæmɪdʒ wəz ˈkʌvərd baɪ ðə ɪnˈʃʊrəns ˈkʌmpəni/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "damage",
+        "role": "S",
+        "phonetic": "/ˈdæmɪdʒ/",
+        "chinese": "损坏"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "covered",
+        "role": "V",
+        "phonetic": "/ˈkʌvərd/",
+        "chinese": "覆盖"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "insurance",
+        "role": "C",
+        "phonetic": "/ɪnˈʃʊrəns/",
+        "chinese": ""
+      },
+      {
+        "text": "company",
+        "role": "O",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      }
+    ]
+  },
+  {
+    "chinese": "我们被告知要到高地上去。",
+    "english": "We were told to go to higher ground",
+    "soundmark": "/wiː wər toʊld tə ɡoʊ tə ˈhaɪər ɡraʊnd/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "higher",
+        "role": "C",
+        "phonetic": "/ˈhaɪər/",
+        "chinese": "更…的/…者(高的)"
+      },
+      {
+        "text": "ground",
+        "role": "O",
+        "phonetic": "/ɡraʊnd/",
+        "chinese": "地面"
+      }
+    ]
+  },
+  {
+    "chinese": "这条河以破坏性洪水闻名。",
+    "english": "The river is known for its destructive floods",
+    "soundmark": "/ðə ˈrɪvər ɪz noʊn fɔːr ɪts dɪˈstrʌktɪv flʌdz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "S",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "destructive",
+        "role": "C",
+        "phonetic": "/dɪˈstrʌktɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "floods",
+        "role": "O",
+        "phonetic": "/flʌdz/",
+        "chinese": "…们/复数(洪水)"
+      }
+    ]
+  },
+  {
+    "chinese": "边界由河流自然形成。",
+    "english": "The boundary is naturally formed by the river",
+    "soundmark": "/ðə ˈbaʊndəri ɪz ˈnætʃərəli fɔːrmd baɪ ðə ˈrɪvər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "boundary",
+        "role": "S",
+        "phonetic": "/ˈbaʊndəri/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "naturally",
+        "role": "A",
+        "phonetic": "/ˈnætʃərəli/",
+        "chinese": "自然地"
+      },
+      {
+        "text": "formed",
+        "role": "V",
+        "phonetic": "/fɔːrmd/",
+        "chinese": "表格/形式"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "O",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      }
+    ]
+  },
+  {
+    "chinese": "我们家从祖辈起就住在这里。",
+    "english": "Our family has lived here for generations",
+    "soundmark": "/aʊər ˈfæməli hæz lɪvd hɪər fɔːr ˌdʒenəˈreɪʃənz/",
+    "grammar": [
+      {
+        "text": "Our",
+        "role": "Det",
+        "phonetic": "/aʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "family",
+        "role": "S",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "lived",
+        "role": "V",
+        "phonetic": "/lɪvd/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪər/",
+        "chinese": "这里"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "generations",
+        "role": "A",
+        "phonetic": "/ˌdʒenəˈreɪʃənz/",
+        "chinese": "一代人/产生"
+      }
+    ]
+  },
+  {
+    "chinese": "河对岸的村庄在洪水中被孤立了。",
+    "english": "The village on the other side was cut off by the flood",
+    "soundmark": "/ðə ˈvɪlɪdʒ ɑːn ðə ˈʌðər saɪd wəz kʌt ɔːf baɪ ðə flʌd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "village",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "chinese": "村庄"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "other",
+        "role": "C",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      },
+      {
+        "text": "side",
+        "role": "O",
+        "phonetic": "/saɪd/",
+        "chinese": "边/方面"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "cut",
+        "role": "V",
+        "phonetic": "/kʌt/",
+        "chinese": "剪/切"
+      },
+      {
+        "text": "off",
+        "role": "A",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "flood",
+        "role": "O",
+        "phonetic": "/flʌd/",
+        "chinese": "洪水"
+      }
+    ]
+  },
+  {
+    "chinese": "救援物资由直升机运送。",
+    "english": "Relief supplies were delivered by helicopter",
+    "soundmark": "/rɪˈliːf səˈplaɪz wər dɪˈlɪvərd baɪ ˈhelɪkɑːptər/",
+    "grammar": [
+      {
+        "text": "Relief",
+        "role": "C",
+        "phonetic": "/rɪˈliːf/",
+        "chinese": ""
+      },
+      {
+        "text": "supplies",
+        "role": "S",
+        "phonetic": "/səˈplaɪz/",
+        "chinese": "供应"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "delivered",
+        "role": "V",
+        "phonetic": "/dɪˈlɪvərd/",
+        "chinese": "递送（过去式/过去分词）"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "helicopter",
+        "role": "O",
+        "phonetic": "/ˈhelɪkɑːptər/",
+        "chinese": "直升机"
+      }
+    ]
+  },
+  {
+    "chinese": "那条路被倒下的树堵住了。",
+    "english": "The road was blocked by fallen trees",
+    "soundmark": "/ðə roʊd wəz blɑːkt baɪ ˈfɔːlən triːz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "road",
+        "role": "S",
+        "phonetic": "/roʊd/",
+        "chinese": "路"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "blocked",
+        "role": "V",
+        "phonetic": "/blɑːkt/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "fallen",
+        "role": "C",
+        "phonetic": "/ˈfɔːlən/",
+        "chinese": "落下的"
+      },
+      {
+        "text": "trees",
+        "role": "O",
+        "phonetic": "/triːz/",
+        "chinese": "树"
+      }
+    ]
+  },
+  {
+    "chinese": "河流涨水时我们院子总被淹。",
+    "english": "Our yard is always flooded when the river rises",
+    "soundmark": "/aʊər jɑːrd ɪz ˈɔːlweɪz ˈflʌdɪd wen ðə ˈrɪvər ˈraɪzɪz/",
+    "grammar": [
+      {
+        "text": "Our",
+        "role": "Det",
+        "phonetic": "/aʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "yard",
+        "role": "S",
+        "phonetic": "/jɑːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "flooded",
+        "role": "V",
+        "phonetic": "/ˈflʌdɪd/",
+        "chinese": "洪水"
+      },
+      {
+        "text": "when",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "S",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      },
+      {
+        "text": "rises",
+        "role": "V",
+        "phonetic": "/ˈraɪzɪz/",
+        "chinese": "上升"
+      }
+    ]
+  },
+  {
+    "chinese": "一座新堤坝正在修建。",
+    "english": "A new embankment is being built",
+    "soundmark": "/ə nuː ɪmˈbæŋkmənt ɪz ˈbiːɪŋ bɪlt/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "embankment",
+        "role": "S",
+        "phonetic": "/ɪmˈbæŋkmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "being",
+        "role": "V",
+        "phonetic": "/ˈbiːɪŋ/",
+        "chinese": "是（进行时）"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      }
+    ]
+  },
+  {
+    "chinese": "天气预报说还会有大雨。",
+    "english": "The forecast says more rain is expected",
+    "soundmark": "/ðə ˈfɔːrkæst sez mɔːr reɪn ɪz ɪkˈspektɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "forecast",
+        "role": "S",
+        "phonetic": "/ˈfɔːrkæst/",
+        "chinese": ""
+      },
+      {
+        "text": "says",
+        "role": "V",
+        "phonetic": "/sez/",
+        "chinese": "说"
+      },
+      {
+        "text": "more",
+        "role": "C",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "rain",
+        "role": "S",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "expected",
+        "role": "V",
+        "phonetic": "/ɪkˈspektɪd/",
+        "chinese": "预期的"
+      }
+    ]
+  },
+  {
+    "chinese": "那场洪水被记录为百年一遇。",
+    "english": "That flood was recorded as a once-in-a-century event",
+    "soundmark": "/ðæt flʌd wəz rɪˈkɔːrdɪd æz ə wʌns ɪn ə ˈsentʃəri ɪˈvent/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "flood",
+        "role": "S",
+        "phonetic": "/flʌd/",
+        "chinese": "洪水"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "recorded",
+        "role": "V",
+        "phonetic": "/rɪˈkɔːrdɪd/",
+        "chinese": "记录"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "once-in-a-century",
+        "role": "C",
+        "phonetic": "/wʌns ɪn ə ˈsentʃəri/",
+        "chinese": ""
+      },
+      {
+        "text": "event",
+        "role": "O",
+        "phonetic": "/ɪˈvent/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "村民们被警告不要靠近河岸。",
+    "english": "The villagers were warned not to approach the river bank",
+    "soundmark": "/ðə ˈvɪlɪdʒərz wər wɔːrnd nɑːt tə əˈproʊtʃ ðə ˈrɪvər bæŋk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "villagers",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒərz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "warned",
+        "role": "V",
+        "phonetic": "/wɔːrnd/",
+        "chinese": "警告"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "approach",
+        "role": "V",
+        "phonetic": "/əˈproʊtʃ/",
+        "chinese": "方法/靠近"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "C",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      },
+      {
+        "text": "bank",
+        "role": "O",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      }
+    ]
+  },
+  {
+    "chinese": "农作物被厚厚的泥浆覆盖。",
+    "english": "The crops were covered in thick mud",
+    "soundmark": "/ðə krɑːps wər ˈkʌvərd ɪn θɪk mʌd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "crops",
+        "role": "S",
+        "phonetic": "/krɑːps/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "covered",
+        "role": "V",
+        "phonetic": "/ˈkʌvərd/",
+        "chinese": "覆盖"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "thick",
+        "role": "C",
+        "phonetic": "/θɪk/",
+        "chinese": "厚的"
+      },
+      {
+        "text": "mud",
+        "role": "O",
+        "phonetic": "/mʌd/",
+        "chinese": "泥"
+      }
+    ]
+  },
+  {
+    "chinese": "电力供应被暴风雨切断。",
+    "english": "The electricity supply was cut off by the storm",
+    "soundmark": "/ðə ɪˌlekˈtrɪsəti səˈplaɪ wəz kʌt ɔːf baɪ ðə stɔːrm/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "electricity",
+        "role": "C",
+        "phonetic": "/ɪˌlekˈtrɪsəti/",
+        "chinese": ""
+      },
+      {
+        "text": "supply",
+        "role": "S",
+        "phonetic": "/səˈplaɪ/",
+        "chinese": "供应"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "cut",
+        "role": "V",
+        "phonetic": "/kʌt/",
+        "chinese": "剪/切"
+      },
+      {
+        "text": "off",
+        "role": "A",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "storm",
+        "role": "O",
+        "phonetic": "/stɔːrm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "河水最终退去后留下了厚厚的淤泥。",
+    "english": "When the river finally receded thick mud was left behind",
+    "soundmark": "/wen ðə ˈrɪvər ˈfaɪnəli rɪˈsiːdɪd θɪk mʌd wəz left bɪˈhaɪnd/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "river",
+        "role": "S",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      },
+      {
+        "text": "finally",
+        "role": "A",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "receded",
+        "role": "V",
+        "phonetic": "/rɪˈsiːdɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "thick",
+        "role": "C",
+        "phonetic": "/θɪk/",
+        "chinese": "厚的"
+      },
+      {
+        "text": "mud",
+        "role": "S",
+        "phonetic": "/mʌd/",
+        "chinese": "泥"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "behind",
+        "role": "A",
+        "phonetic": "/bɪˈhaɪnd/",
+        "chinese": "在…后面"
+      }
+    ]
+  },
+  {
+    "chinese": "河流",
+    "english": "river",
+    "soundmark": "/ˈrɪvər/"
+  },
+  {
+    "chinese": "洪水",
+    "english": "flood",
+    "soundmark": "/flʌd/"
+  },
+  {
+    "chinese": "河岸",
+    "english": "bank",
+    "soundmark": "/bæŋk/"
+  },
+  {
+    "chinese": "边界",
+    "english": "boundary",
+    "soundmark": "/ˈbaʊndəri/"
+  },
+  {
+    "chinese": "财产",
+    "english": "property",
+    "soundmark": "/ˈprɑːpərti/"
+  },
+  {
+    "chinese": "淹没的",
+    "english": "submerged",
+    "soundmark": "/səbˈmɜːrdʒd/"
+  },
+  {
+    "chinese": "破坏性的",
+    "english": "destructive",
+    "soundmark": "/dɪˈstrʌktɪv/"
+  },
+  {
+    "chinese": "保险",
+    "english": "insurance",
+    "soundmark": "/ɪnˈʃʊrəns/"
+  },
+  {
+    "chinese": "被分开",
+    "english": "is divided by",
+    "soundmark": "/ɪz dɪˈvaɪdɪd baɪ/"
+  },
+  {
+    "chinese": "被冲走",
+    "english": "was washed away",
+    "soundmark": "/wəz wɑːʃt əˈweɪ/"
+  }
+]

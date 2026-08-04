@@ -1,0 +1,335 @@
+[
+  {
+    "chinese": "可怜的",
+    "english": "poor",
+    "soundmark": "/pʊr/"
+  },
+  {
+    "chinese": "同情",
+    "english": "sympathy",
+    "soundmark": "/ˈsɪmpəθi/"
+  },
+  {
+    "chinese": "不幸的",
+    "english": "unlucky",
+    "soundmark": "/ʌnˈlʌki/"
+  },
+  {
+    "chinese": "故事",
+    "english": "story",
+    "soundmark": "/ˈstɔːri/"
+  },
+  {
+    "chinese": "麻烦",
+    "english": "trouble",
+    "soundmark": "/ˈtrʌbl/"
+  },
+  {
+    "chinese": "总是",
+    "english": "always",
+    "soundmark": "/ˈɔːlweɪz/"
+  },
+  {
+    "chinese": "碰巧",
+    "english": "happen",
+    "soundmark": "/ˈhæpən/"
+  },
+  {
+    "chinese": "困难的",
+    "english": "difficult",
+    "soundmark": "/ˈdɪfɪkəlt/"
+  },
+  {
+    "chinese": "帮助",
+    "english": "help",
+    "soundmark": "/help/"
+  },
+  {
+    "chinese": "朋友",
+    "english": "friend",
+    "soundmark": "/frend/"
+  },
+  {
+    "chinese": "昨天",
+    "english": "yesterday",
+    "soundmark": "/ˈjestərdeɪ/"
+  },
+  {
+    "chinese": "可怜的伊恩他总遇到麻烦",
+    "english": "Poor Ian he always has trouble",
+    "soundmark": "/pʊr iːn hi ˈɔːlweɪz hæz ˈtrʌbl/",
+    "grammar": [
+      {
+        "text": "Poor Ian",
+        "role": "S",
+        "phonetic": "/pʊr iːn/",
+        "chinese": "贫穷的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hi/",
+        "chinese": "他"
+      },
+      {
+        "text": "always has",
+        "role": "V",
+        "phonetic": "/ˈɔːlweɪz hæz/",
+        "chinese": "总是/有/助动词"
+      },
+      {
+        "text": "trouble",
+        "role": "O",
+        "phonetic": "/ˈtrʌbl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "昨天他的车坏了",
+    "english": "His car broke down yesterday",
+    "soundmark": "/hɪz kɑːr broʊk daʊn ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "His car",
+        "role": "S",
+        "phonetic": "/hɪz kɑːr/",
+        "chinese": "他的/汽车"
+      },
+      {
+        "text": "broke down",
+        "role": "V",
+        "phonetic": "/broʊk daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他总是遇到倒霉事",
+    "english": "Unlucky things always happen to him",
+    "soundmark": "/ʌnˈlʌki θɪŋz ˈɔːlweɪz ˈhæpən tuː hɪm/",
+    "grammar": [
+      {
+        "text": "Unlucky things",
+        "role": "S",
+        "phonetic": "/ʌnˈlʌki θɪŋz/",
+        "chinese": "东西/事情"
+      },
+      {
+        "text": "always happen",
+        "role": "V",
+        "phonetic": "/ˈɔːlweɪz ˈhæpən/",
+        "chinese": "总是/发生"
+      },
+      {
+        "text": "to him",
+        "role": "A",
+        "phonetic": "/tuː hɪm/",
+        "chinese": "到/向/他"
+      }
+    ]
+  },
+  {
+    "chinese": "可怜的伊恩需要帮助",
+    "english": "Poor Ian needs help",
+    "soundmark": "/pʊr iːn niːdz help/",
+    "grammar": [
+      {
+        "text": "Poor Ian",
+        "role": "S",
+        "phonetic": "/pʊr iːn/",
+        "chinese": "贫穷的"
+      },
+      {
+        "text": "needs",
+        "role": "V",
+        "phonetic": "/niːdz/",
+        "chinese": "需要"
+      },
+      {
+        "text": "help",
+        "role": "O",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      }
+    ]
+  },
+  {
+    "chinese": "他的朋友想帮他",
+    "english": "His friends want to help him",
+    "soundmark": "/hɪz frendz wɑːnt tuː help hɪm/",
+    "grammar": [
+      {
+        "text": "His friends",
+        "role": "S",
+        "phonetic": "/hɪz frendz/",
+        "chinese": "他的/…们/复数(朋友)"
+      },
+      {
+        "text": "want to help",
+        "role": "V",
+        "phonetic": "/wɑːnt tuː help/",
+        "chinese": "想要/到/向/帮助"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "事情变得很困难",
+    "english": "Things became very difficult",
+    "soundmark": "/θɪŋz bɪˈkeɪm ˈveri ˈdɪfɪkəlt/",
+    "grammar": [
+      {
+        "text": "Things",
+        "role": "S",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      },
+      {
+        "text": "became",
+        "role": "V",
+        "phonetic": "/bɪˈkeɪm/",
+        "chinese": "变成（过去式）"
+      },
+      {
+        "text": "very difficult",
+        "role": "C",
+        "phonetic": "/ˈveri ˈdɪfɪkəlt/",
+        "chinese": "非常/困难的"
+      }
+    ]
+  },
+  {
+    "chinese": "我不知道该怎么帮他",
+    "english": "I do not know how to help him",
+    "soundmark": "/aɪ duː nɑːt noʊ haʊ tuː help hɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do not know",
+        "role": "V",
+        "phonetic": "/duː nɑːt noʊ/",
+        "chinese": "做/助动词/不/知道"
+      },
+      {
+        "text": "how to help him",
+        "role": "O",
+        "phonetic": "/haʊ tuː help hɪm/",
+        "chinese": "怎么/到/向/帮助/他"
+      }
+    ]
+  },
+  {
+    "chinese": "可怜的伊恩昨天又遇到了麻烦",
+    "english": "Poor Ian got into trouble again yesterday",
+    "soundmark": "/pʊr iːn ɡɑːt ˈɪntu ˈtrʌbl əˈɡen ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Poor Ian",
+        "role": "S",
+        "phonetic": "/pʊr iːn/",
+        "chinese": "贫穷的"
+      },
+      {
+        "text": "got into",
+        "role": "V",
+        "phonetic": "/ɡɑːt ˈɪntu/",
+        "chinese": "得到（过去式）/进入"
+      },
+      {
+        "text": "trouble",
+        "role": "O",
+        "phonetic": "/ˈtrʌbl/",
+        "chinese": ""
+      },
+      {
+        "text": "again yesterday",
+        "role": "A",
+        "phonetic": "/əˈɡen ˈjestərdeɪ/",
+        "chinese": "再/昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "每个人都很同情他",
+    "english": "Everyone felt sympathy for him",
+    "soundmark": "/ˈevriwʌn felt ˈsɪmpəθi fɔːr hɪm/",
+    "grammar": [
+      {
+        "text": "Everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "felt",
+        "role": "V",
+        "phonetic": "/felt/",
+        "chinese": "被感觉的"
+      },
+      {
+        "text": "sympathy",
+        "role": "O",
+        "phonetic": "/ˈsɪmpəθi/",
+        "chinese": ""
+      },
+      {
+        "text": "for him",
+        "role": "A",
+        "phonetic": "/fɔːr hɪm/",
+        "chinese": "为了/对于/他"
+      }
+    ]
+  },
+  {
+    "chinese": "复习",
+    "english": "review",
+    "soundmark": "/rɪˈvjuː/"
+  },
+  {
+    "chinese": "不幸的",
+    "english": "unlucky",
+    "soundmark": "/ʌnˈlʌki/"
+  },
+  {
+    "chinese": "麻烦",
+    "english": "trouble",
+    "soundmark": "/ˈtrʌbl/"
+  },
+  {
+    "chinese": "同情",
+    "english": "sympathy",
+    "soundmark": "/ˈsɪmpəθi/"
+  },
+  {
+    "chinese": "困难的",
+    "english": "difficult",
+    "soundmark": "/ˈdɪfɪkəlt/"
+  },
+  {
+    "chinese": "碰巧",
+    "english": "happen",
+    "soundmark": "/ˈhæpən/"
+  },
+  {
+    "chinese": "总是",
+    "english": "always",
+    "soundmark": "/ˈɔːlweɪz/"
+  }
+]

@@ -1,0 +1,1214 @@
+[
+  {
+    "chinese": "乞丐",
+    "english": "beggar",
+    "soundmark": "/ˈbeɡər/"
+  },
+  {
+    "chinese": "饭菜",
+    "english": "meal",
+    "soundmark": "/miːl/"
+  },
+  {
+    "chinese": "食物",
+    "english": "food",
+    "soundmark": "/fuːd/"
+  },
+  {
+    "chinese": "敲击",
+    "english": "knock",
+    "soundmark": "/nɑːk/"
+  },
+  {
+    "chinese": "奶酪",
+    "english": "cheese",
+    "soundmark": "/tʃiːz/"
+  },
+  {
+    "chinese": "口袋",
+    "english": "pocket",
+    "soundmark": "/ˈpɑːkɪt/"
+  },
+  {
+    "chinese": "邻居",
+    "english": "neighbour",
+    "soundmark": "/ˈneɪbər/"
+  },
+  {
+    "chinese": "街道",
+    "english": "street",
+    "soundmark": "/striːt/"
+  },
+  {
+    "chinese": "倒置",
+    "english": "upside down",
+    "soundmark": "/ˈʌpsaɪd/ /daʊn/"
+  },
+  {
+    "chinese": "拜访",
+    "english": "call at",
+    "soundmark": "/kɔːl/ /æt/"
+  },
+  {
+    "chinese": "挨家挨户",
+    "english": "from house to house",
+    "soundmark": "/frʌm/ /haʊs/ /tuː/ /haʊs/"
+  },
+  {
+    "chinese": "敲门",
+    "english": "knock at the door",
+    "soundmark": "/nɑːk/ /æt/ /ðə/ /dɔːr/"
+  },
+  {
+    "chinese": "要饭",
+    "english": "ask for a meal",
+    "soundmark": "/æsk/ /fɔːr/ /ə/ /miːl/"
+  },
+  {
+    "chinese": "倒过来",
+    "english": "stand on his head",
+    "soundmark": "/stænd/ /ɑːn/ /hɪz/ /hed/"
+  },
+  {
+    "chinese": "我认识一个叫珀西·巴顿斯的人",
+    "english": "I know a man called Percy Buttons",
+    "soundmark": "/aɪ/ /noʊ/ /ə/ /mæn/ /kɔːld/ /ˈpɜːrsi/ /ˈbʌtənz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "man",
+        "role": "O",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      },
+      {
+        "text": "Percy",
+        "role": "O",
+        "phonetic": "/ˈpɜːrsi/",
+        "chinese": ""
+      },
+      {
+        "text": "Buttons",
+        "role": "O",
+        "phonetic": "/ˈbʌtənz/",
+        "chinese": "…们/复数(纽扣/按钮)"
+      }
+    ]
+  },
+  {
+    "chinese": "他每月来我们家要一次饭",
+    "english": "He calls at every house in the street once a month",
+    "soundmark": "/hiː/ /kɔːlz/ /æt/ /ˈevri/ /haʊs/ /ɪn/ /ðə/ /striːt/ /wʌns/ /ə/ /mʌnθ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "calls",
+        "role": "V",
+        "phonetic": "/kɔːlz/",
+        "chinese": "打电话/叫"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "street",
+        "role": "O",
+        "phonetic": "/striːt/",
+        "chinese": "街道"
+      },
+      {
+        "text": "once",
+        "role": "Adv",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "month",
+        "role": "A",
+        "phonetic": "/mʌnθ/",
+        "chinese": "月"
+      }
+    ]
+  },
+  {
+    "chinese": "他总向人要一顿饭和一杯啤酒",
+    "english": "He always asks for a meal and a glass of beer",
+    "soundmark": "/hiː/ /ˈɔːlweɪz/ /æsks/ /fɔːr/ /ə/ /miːl/ /ænd/ /ə/ /ɡlæs/ /ʌv/ /bɪr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "asks",
+        "role": "V",
+        "phonetic": "/æsks/",
+        "chinese": "问"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "meal",
+        "role": "O",
+        "phonetic": "/miːl/",
+        "chinese": "一餐"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "glass",
+        "role": "O",
+        "phonetic": "/ɡlæs/",
+        "chinese": "玻璃/玻璃杯"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "beer",
+        "role": "O",
+        "phonetic": "/bɪr/",
+        "chinese": "啤酒"
+      }
+    ]
+  },
+  {
+    "chinese": "作为回报他倒立着唱歌",
+    "english": "In return for this he stands on his head and sings songs",
+    "soundmark": "/ɪn/ /rɪˈtɜːrn/ /fɔːr/ /ðɪs/ /hiː/ /stændz/ /ɑːn/ /hɪz/ /hed/ /ænd/ /sɪŋz/ /sɔːŋz/",
+    "grammar": [
+      {
+        "text": "In",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "return",
+        "role": "O",
+        "phonetic": "/rɪˈtɜːrn/",
+        "chinese": "返回"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "stands",
+        "role": "V",
+        "phonetic": "/stændz/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "head",
+        "role": "O",
+        "phonetic": "/hed/",
+        "chinese": "头"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "sings",
+        "role": "V",
+        "phonetic": "/sɪŋz/",
+        "chinese": "唱"
+      },
+      {
+        "text": "songs",
+        "role": "O",
+        "phonetic": "/sɔːŋz/",
+        "chinese": "歌曲"
+      }
+    ]
+  },
+  {
+    "chinese": "他吃了食物然后走了",
+    "english": "He ate the food and went away",
+    "soundmark": "/hiː/ /eɪt/ /ðə/ /fuːd/ /ænd/ /went/ /əˈweɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "ate",
+        "role": "V",
+        "phonetic": "/eɪt/",
+        "chinese": "吃（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "food",
+        "role": "O",
+        "phonetic": "/fuːd/",
+        "chinese": "食物"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "away",
+        "role": "Adv",
+        "phonetic": "/əˈweɪ/",
+        "chinese": "离开/远"
+      }
+    ]
+  },
+  {
+    "chinese": "他在口袋里装了一块奶酪",
+    "english": "He put a piece of cheese in his pocket",
+    "soundmark": "/hiː/ /pʊt/ /ə/ /piːs/ /ʌv/ /tʃiːz/ /ɪn/ /hɪz/ /ˈpɑːkɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "piece",
+        "role": "O",
+        "phonetic": "/piːs/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "cheese",
+        "role": "O",
+        "phonetic": "/tʃiːz/",
+        "chinese": "奶酪"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "pocket",
+        "role": "O",
+        "phonetic": "/ˈpɑːkɪt/",
+        "chinese": "口袋"
+      }
+    ]
+  },
+  {
+    "chinese": "他拜访了这条街上的每一户人家",
+    "english": "He visited every house in the street",
+    "soundmark": "/hiː/ /ˈvɪzɪtɪd/ /ˈevri/ /haʊs/ /ɪn/ /ðə/ /striːt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "visited",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪtɪd/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "street",
+        "role": "O",
+        "phonetic": "/striːt/",
+        "chinese": "街道"
+      }
+    ]
+  },
+  {
+    "chinese": "我的邻居给了他一顿热饭",
+    "english": "My neighbour gave him a hot meal",
+    "soundmark": "/maɪ/ /ˈneɪbər/ /ɡeɪv/ /hɪm/ /ə/ /hɑːt/ /miːl/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "neighbour",
+        "role": "S",
+        "phonetic": "/ˈneɪbər/",
+        "chinese": ""
+      },
+      {
+        "text": "gave",
+        "role": "V",
+        "phonetic": "/ɡeɪv/",
+        "chinese": "给（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "hot",
+        "role": "A",
+        "phonetic": "/hɑːt/",
+        "chinese": "热的"
+      },
+      {
+        "text": "meal",
+        "role": "O",
+        "phonetic": "/miːl/",
+        "chinese": "一餐"
+      }
+    ]
+  },
+  {
+    "chinese": "有人正在敲门",
+    "english": "Someone is knocking at the door",
+    "soundmark": "/ˈsʌmwʌn/ /ɪz/ /ˈnɑːkɪŋ/ /æt/ /ðə/ /dɔːr/",
+    "grammar": [
+      {
+        "text": "Someone",
+        "role": "S",
+        "phonetic": "/ˈsʌmwʌn/",
+        "chinese": "某人"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "knocking",
+        "role": "V",
+        "phonetic": "/ˈnɑːkɪŋ/",
+        "chinese": "敲"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "O",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      }
+    ]
+  },
+  {
+    "chinese": "他把杯子倒过来放了",
+    "english": "He put the cup upside down",
+    "soundmark": "/hiː/ /pʊt/ /ðə/ /kʌp/ /ˈʌpsaɪd/ /daʊn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cup",
+        "role": "O",
+        "phonetic": "/kʌp/",
+        "chinese": "杯子"
+      },
+      {
+        "text": "upside",
+        "role": "Adv",
+        "phonetic": "/ˈʌpsaɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "down",
+        "role": "Adv",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      }
+    ]
+  },
+  {
+    "chinese": "你一个月挣多少钱",
+    "english": "How much do you earn a month",
+    "soundmark": "/haʊ/ /mʌtʃ/ /duː/ /juː/ /ɜːrn/ /ə/ /mʌnθ/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "earn",
+        "role": "V",
+        "phonetic": "/ɜːrn/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "month",
+        "role": "A",
+        "phonetic": "/mʌnθ/",
+        "chinese": "月"
+      }
+    ]
+  },
+  {
+    "chinese": "他唱了一首歌作为回报",
+    "english": "He sang a song in return",
+    "soundmark": "/hiː/ /sæŋ/ /ə/ /sɔːŋ/ /ɪn/ /rɪˈtɜːrn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "sang",
+        "role": "V",
+        "phonetic": "/sæŋ/",
+        "chinese": "唱（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "song",
+        "role": "O",
+        "phonetic": "/sɔːŋ/",
+        "chinese": "歌曲"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "return",
+        "role": "O",
+        "phonetic": "/rɪˈtɜːrn/",
+        "chinese": "返回"
+      }
+    ]
+  },
+  {
+    "chinese": "街上的每个人都认识这个乞丐",
+    "english": "Everyone in the street knew the beggar",
+    "soundmark": "/ˈevriwʌn/ /ɪn/ /ðə/ /striːt/ /nuː/ /ðə/ /ˈbeɡər/",
+    "grammar": [
+      {
+        "text": "Everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "street",
+        "role": "O",
+        "phonetic": "/striːt/",
+        "chinese": "街道"
+      },
+      {
+        "text": "knew",
+        "role": "V",
+        "phonetic": "/nuː/",
+        "chinese": "知道（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "beggar",
+        "role": "O",
+        "phonetic": "/ˈbeɡər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他想吃一顿饭和喝点水",
+    "english": "He wanted a meal and some water",
+    "soundmark": "/hiː/ /ˈwɑːntɪd/ /ə/ /miːl/ /ænd/ /sʌm/ /ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "wanted",
+        "role": "V",
+        "phonetic": "/ˈwɑːntɪd/",
+        "chinese": "想要"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "meal",
+        "role": "O",
+        "phonetic": "/miːl/",
+        "chinese": "一餐"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "那位老人每周来要一次食物",
+    "english": "The old man comes for food once a week",
+    "soundmark": "/ðə/ /oʊld/ /mæn/ /kʌmz/ /fɔːr/ /fuːd/ /wʌns/ /ə/ /wiːk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "comes",
+        "role": "V",
+        "phonetic": "/kʌmz/",
+        "chinese": "来"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "food",
+        "role": "O",
+        "phonetic": "/fuːd/",
+        "chinese": "食物"
+      },
+      {
+        "text": "once",
+        "role": "Adv",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "她给了我一片面包和奶酪",
+    "english": "She gave me a piece of bread and cheese",
+    "soundmark": "/ʃiː/ /ɡeɪv/ /miː/ /ə/ /piːs/ /ʌv/ /bred/ /ænd/ /tʃiːz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "gave",
+        "role": "V",
+        "phonetic": "/ɡeɪv/",
+        "chinese": "给（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "piece",
+        "role": "O",
+        "phonetic": "/piːs/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "bread",
+        "role": "O",
+        "phonetic": "/bred/",
+        "chinese": "面包"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "cheese",
+        "role": "O",
+        "phonetic": "/tʃiːz/",
+        "chinese": "奶酪"
+      }
+    ]
+  },
+  {
+    "chinese": "你能不能给我一杯水",
+    "english": "Could you give me a glass of water",
+    "soundmark": "/kʊd/ /juː/ /ɡɪv/ /miː/ /ə/ /ɡlæs/ /ʌv/ /ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "glass",
+        "role": "O",
+        "phonetic": "/ɡlæs/",
+        "chinese": "玻璃/玻璃杯"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "那个乞丐穿着旧衣服",
+    "english": "The beggar was wearing old clothes",
+    "soundmark": "/ðə/ /ˈbeɡər/ /wʌz/ /ˈwerɪŋ/ /oʊld/ /kloʊðz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "beggar",
+        "role": "S",
+        "phonetic": "/ˈbeɡər/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "wearing",
+        "role": "V",
+        "phonetic": "/ˈwerɪŋ/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "clothes",
+        "role": "O",
+        "phonetic": "/kloʊðz/",
+        "chinese": "布"
+      }
+    ]
+  },
+  {
+    "chinese": "我看到他正站在门外",
+    "english": "I saw him standing outside the door",
+    "soundmark": "/aɪ/ /sɔː/ /hɪm/ /ˈstændɪŋ/ /ˌaʊtˈsaɪd/ /ðə/ /dɔːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "standing",
+        "role": "V",
+        "phonetic": "/ˈstændɪŋ/",
+        "chinese": "站着的"
+      },
+      {
+        "text": "outside",
+        "role": "P",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "chinese": "在…外面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "O",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      }
+    ]
+  },
+  {
+    "chinese": "他从不向人要钱只向人要食物",
+    "english": "He never asks for money only for food",
+    "soundmark": "/hiː/ /ˈnevər/ /æsks/ /fɔːr/ /ˈmʌni/ /ˈoʊnli/ /fɔːr/ /fuːd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "asks",
+        "role": "V",
+        "phonetic": "/æsks/",
+        "chinese": "问"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "money",
+        "role": "O",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "food",
+        "role": "O",
+        "phonetic": "/fuːd/",
+        "chinese": "食物"
+      }
+    ]
+  },
+  {
+    "chinese": "敲门",
+    "english": "knock",
+    "soundmark": "/nɑːk/"
+  },
+  {
+    "chinese": "啤酒",
+    "english": "beer",
+    "soundmark": "/bɪr/"
+  },
+  {
+    "chinese": "面包",
+    "english": "bread",
+    "soundmark": "/bred/"
+  },
+  {
+    "chinese": "钱",
+    "english": "money",
+    "soundmark": "/ˈmʌni/"
+  },
+  {
+    "chinese": "水",
+    "english": "water",
+    "soundmark": "/ˈwɔːtər/"
+  },
+  {
+    "chinese": "唱歌",
+    "english": "sing",
+    "soundmark": "/sɪŋ/"
+  },
+  {
+    "chinese": "歌",
+    "english": "song",
+    "soundmark": "/sɔːŋ/"
+  },
+  {
+    "chinese": "衣服",
+    "english": "clothes",
+    "soundmark": "/kloʊðz/"
+  },
+  {
+    "chinese": "杯子",
+    "english": "cup",
+    "soundmark": "/kʌp/"
+  },
+  {
+    "chinese": "一杯",
+    "english": "a glass of",
+    "soundmark": "/ə/ /ɡlæs/ /ʌv/"
+  },
+  {
+    "chinese": "每月一次",
+    "english": "once a month",
+    "soundmark": "/wʌns/ /ə/ /mʌnθ/"
+  },
+  {
+    "chinese": "作为回报",
+    "english": "in return",
+    "soundmark": "/ɪn/ /rɪˈtɜːrn/"
+  }
+]

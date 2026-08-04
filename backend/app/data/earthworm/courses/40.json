@@ -1,0 +1,933 @@
+[
+  {
+    "chinese": "旅行",
+    "english": "travel",
+    "soundmark": "/ˈtrævl/"
+  },
+  {
+    "chinese": "票",
+    "english": "ticket",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "chinese": "航班",
+    "english": "flight",
+    "soundmark": "/flaɪt/"
+  },
+  {
+    "chinese": "酒店",
+    "english": "hotel",
+    "soundmark": "/hoʊˈtel/"
+  },
+  {
+    "chinese": "行李",
+    "english": "luggage",
+    "soundmark": "/ˈlʌɡɪdʒ/"
+  },
+  {
+    "chinese": "护照",
+    "english": "passport",
+    "soundmark": "/ˈpæspɔːrt/"
+  },
+  {
+    "chinese": "机场",
+    "english": "airport",
+    "soundmark": "/ˈerpɔːrt/"
+  },
+  {
+    "chinese": "登机牌",
+    "english": "boarding pass",
+    "soundmark": "/ˈbɔːrdɪŋ pæs/"
+  },
+  {
+    "chinese": "海关",
+    "english": "customs",
+    "soundmark": "/ˈkʌstəmz/"
+  },
+  {
+    "chinese": "签证",
+    "english": "visa",
+    "soundmark": "/ˈviːzə/"
+  },
+  {
+    "chinese": "预订",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "出发",
+    "english": "departure",
+    "soundmark": "/dɪˈpɑːrtʃər/"
+  },
+  {
+    "chinese": "到达",
+    "english": "arrival",
+    "soundmark": "/əˈraɪvl/"
+  },
+  {
+    "chinese": "单程票",
+    "english": "one-way ticket",
+    "soundmark": "/wʌn weɪ ˈtɪkɪt/"
+  },
+  {
+    "chinese": "往返票",
+    "english": "round-trip ticket",
+    "soundmark": "/raʊnd trɪp ˈtɪkɪt/"
+  },
+  {
+    "chinese": "办理登机",
+    "english": "check in",
+    "soundmark": "/tʃek ɪn/"
+  },
+  {
+    "chinese": "起飞",
+    "english": "take off",
+    "soundmark": "/teɪk ɔːf/"
+  },
+  {
+    "chinese": "我想订一张机票。",
+    "english": "I would like to book a flight",
+    "soundmark": "/aɪ wʊd laɪk tuː bʊk ə flaɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like",
+        "role": "V",
+        "phonetic": "/wʊd laɪk/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to book a flight",
+        "role": "O",
+        "phonetic": "/tuː bʊk ə flaɪt/",
+        "chinese": "到/向/预订/书/一个/航班"
+      }
+    ]
+  },
+  {
+    "chinese": "你的航班几点起飞？",
+    "english": "What time does your flight take off",
+    "soundmark": "/wɑːt taɪm dʌz jɔːr flaɪt teɪk ɔːf/",
+    "grammar": [
+      {
+        "text": "What time",
+        "role": "A",
+        "phonetic": "/wɑːt taɪm/",
+        "chinese": "几点"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "your flight",
+        "role": "S",
+        "phonetic": "/jɔːr flaɪt/",
+        "chinese": "你的/你们的/航班"
+      },
+      {
+        "text": "take off",
+        "role": "V",
+        "phonetic": "/teɪk ɔːf/",
+        "chinese": "脱下/起飞"
+      }
+    ]
+  },
+  {
+    "chinese": "请出示你的护照。",
+    "english": "Please show me your passport",
+    "soundmark": "/pliːz ʃoʊ miː jɔːr ˈpæspɔːrt/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "show",
+        "role": "V",
+        "phonetic": "/ʃoʊ/",
+        "chinese": "展示"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "your passport",
+        "role": "O",
+        "phonetic": "/jɔːr ˈpæspɔːrt/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "我订了一家靠海的酒店。",
+    "english": "I booked a hotel near the beach",
+    "soundmark": "/aɪ bʊkt ə hoʊˈtel nɪr ðə biːtʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "booked",
+        "role": "V",
+        "phonetic": "/bʊkt/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "a hotel",
+        "role": "O",
+        "phonetic": "/ə hoʊˈtel/",
+        "chinese": "一个/酒店"
+      },
+      {
+        "text": "near the beach",
+        "role": "A",
+        "phonetic": "/nɪr ðə biːtʃ/",
+        "chinese": "在…附近/这个/那个/海滩"
+      }
+    ]
+  },
+  {
+    "chinese": "我的行李在哪儿取？",
+    "english": "Where can I get my luggage",
+    "soundmark": "/wer kæn aɪ ɡet maɪ ˈlʌɡɪdʒ/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "my luggage",
+        "role": "O",
+        "phonetic": "/maɪ ˈlʌɡɪdʒ/",
+        "chinese": "我的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个航班晚点了。",
+    "english": "This flight has been delayed",
+    "soundmark": "/ðɪs flaɪt hæz biːn dɪˈleɪd/",
+    "grammar": [
+      {
+        "text": "This flight",
+        "role": "S",
+        "phonetic": "/ðɪs flaɪt/",
+        "chinese": "这个/航班"
+      },
+      {
+        "text": "has been delayed",
+        "role": "V",
+        "phonetic": "/hæz biːn dɪˈleɪd/",
+        "chinese": "有/助动词/是（过去分词）/延误"
+      }
+    ]
+  },
+  {
+    "chinese": "我想办签证。",
+    "english": "I want to apply for a visa",
+    "soundmark": "/aɪ wɑːnt tuː əˈplaɪ fɔːr ə ˈviːzə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to apply for a visa",
+        "role": "O",
+        "phonetic": "/tuː əˈplaɪ fɔːr ə ˈviːzə/",
+        "chinese": "到/向/申请/应用/为了/对于/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要一张单程票。",
+    "english": "I need a one-way ticket",
+    "soundmark": "/aɪ niːd ə wʌn weɪ ˈtɪkɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "a one-way ticket",
+        "role": "O",
+        "phonetic": "/ə wʌn weɪ ˈtɪkɪt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "请提前两小时到达机场。",
+    "english": "Please arrive at the airport two hours early",
+    "soundmark": "/pliːz əˈraɪv æt ðə ˈerpɔːrt tuː aʊərz ˈɜːrli/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "arrive",
+        "role": "V",
+        "phonetic": "/əˈraɪv/",
+        "chinese": "到达"
+      },
+      {
+        "text": "at the airport",
+        "role": "A",
+        "phonetic": "/æt ðə ˈerpɔːrt/",
+        "chinese": "在/这个/那个/机场"
+      },
+      {
+        "text": "two hours early",
+        "role": "A",
+        "phonetic": "/tuː aʊərz ˈɜːrli/",
+        "chinese": "二/…们/复数(小时)/早"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以看你的登机牌吗？",
+    "english": "May I see your boarding pass",
+    "soundmark": "/meɪ aɪ siː jɔːr ˈbɔːrdɪŋ pæs/",
+    "grammar": [
+      {
+        "text": "May",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "your boarding pass",
+        "role": "O",
+        "phonetic": "/jɔːr ˈbɔːrdɪŋ pæs/",
+        "chinese": "你的/你们的/通过/传递"
+      }
+    ]
+  },
+  {
+    "chinese": "我们已经在网上办理了登机。",
+    "english": "We already checked in online",
+    "soundmark": "/wiː ɔːlˈredi tʃekt ɪn ˈɑːnlaɪn/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "already checked in",
+        "role": "V",
+        "phonetic": "/ɔːlˈredi tʃekt ɪn/",
+        "chinese": "已经/被检查的/在…里"
+      },
+      {
+        "text": "online",
+        "role": "A",
+        "phonetic": "/ˈɑːnlaɪn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你的行李超重了。",
+    "english": "Your luggage is overweight",
+    "soundmark": "/jɔːr ˈlʌɡɪdʒ ɪz ˌoʊvərˈweɪt/",
+    "grammar": [
+      {
+        "text": "Your luggage",
+        "role": "S",
+        "phonetic": "/jɔːr ˈlʌɡɪdʒ/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "overweight",
+        "role": "C",
+        "phonetic": "/ˌoʊvərˈweɪt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我去了海关检查。",
+    "english": "I went through customs",
+    "soundmark": "/aɪ went θruː ˈkʌstəmz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went through",
+        "role": "V",
+        "phonetic": "/went θruː/",
+        "chinese": "去（过去式）/通过/穿过"
+      },
+      {
+        "text": "customs",
+        "role": "O",
+        "phonetic": "/ˈkʌstəmz/",
+        "chinese": "海关"
+      }
+    ]
+  },
+  {
+    "chinese": "这个城市太美了。",
+    "english": "This city is so beautiful",
+    "soundmark": "/ðɪs ˈsɪti ɪz soʊ ˈbjuːtɪfl/",
+    "grammar": [
+      {
+        "text": "This city",
+        "role": "S",
+        "phonetic": "/ðɪs ˈsɪti/",
+        "chinese": "这个/城市"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "so beautiful",
+        "role": "C",
+        "phonetic": "/soʊ ˈbjuːtɪfl/",
+        "chinese": "如此/所以/美丽的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的护照快过期了。",
+    "english": "My passport is about to expire",
+    "soundmark": "/maɪ ˈpæspɔːrt ɪz əˈbaʊt tuː ɪkˈspaɪər/",
+    "grammar": [
+      {
+        "text": "My passport",
+        "role": "S",
+        "phonetic": "/maɪ ˈpæspɔːrt/",
+        "chinese": "我的"
+      },
+      {
+        "text": "is about to expire",
+        "role": "V",
+        "phonetic": "/ɪz əˈbaʊt tuː ɪkˈspaɪər/",
+        "chinese": "是/关于/大约/到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "我们需要去3号登机口。",
+    "english": "We need to go to gate three",
+    "soundmark": "/wiː niːd tuː ɡoʊ tuː ɡeɪt θriː/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to go to gate three",
+        "role": "O",
+        "phonetic": "/tuː ɡoʊ tuː ɡeɪt θriː/",
+        "chinese": "到/向/去/到/向/三"
+      }
+    ]
+  },
+  {
+    "chinese": "你们有会说中文的导游吗？",
+    "english": "Do you have a tour guide who speaks Chinese",
+    "soundmark": "/duː juː hæv ə tʊr ɡaɪd huː spiːks ˌtʃaɪˈniːz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a tour guide who speaks Chinese",
+        "role": "O",
+        "phonetic": "/ə tʊr ɡaɪd huː spiːks ˌtʃaɪˈniːz/",
+        "chinese": "一个/谁/…们/复数(说/讲)"
+      }
+    ]
+  },
+  {
+    "chinese": "我们全家去年夏天去了巴黎。",
+    "english": "My whole family went to Paris last summer",
+    "soundmark": "/maɪ hoʊl ˈfæməli went tuː ˈpærɪs læst ˈsʌmər/",
+    "grammar": [
+      {
+        "text": "My whole family",
+        "role": "S",
+        "phonetic": "/maɪ hoʊl ˈfæməli/",
+        "chinese": "我的/整个的/家庭"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to Paris",
+        "role": "A",
+        "phonetic": "/tuː ˈpærɪs/",
+        "chinese": "到/向/巴黎"
+      },
+      {
+        "text": "last summer",
+        "role": "A",
+        "phonetic": "/læst ˈsʌmər/",
+        "chinese": "最后/夏天"
+      }
+    ]
+  },
+  {
+    "chinese": "我在旅途中拍了很多照片。",
+    "english": "I took many photos during the trip",
+    "soundmark": "/aɪ tʊk ˈmeni ˈfoʊtoʊz ˈdʊrɪŋ ðə trɪp/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "many photos",
+        "role": "O",
+        "phonetic": "/ˈmeni ˈfoʊtoʊz/",
+        "chinese": "许多/…们/复数(照片)"
+      },
+      {
+        "text": "during the trip",
+        "role": "A",
+        "phonetic": "/ˈdʊrɪŋ ðə trɪp/",
+        "chinese": "在…期间/这个/那个/旅行"
+      }
+    ]
+  },
+  {
+    "chinese": "机票比我想的贵。",
+    "english": "The ticket was more expensive than I thought",
+    "soundmark": "/ðə ˈtɪkɪt wʌz mɔːr ɪkˈspensɪv ðæn aɪ θɔːt/",
+    "grammar": [
+      {
+        "text": "The ticket",
+        "role": "S",
+        "phonetic": "/ðə ˈtɪkɪt/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "more expensive",
+        "role": "C",
+        "phonetic": "/mɔːr ɪkˈspensɪv/",
+        "chinese": "更贵的"
+      },
+      {
+        "text": "than I thought",
+        "role": "A",
+        "phonetic": "/ðæn aɪ θɔːt/",
+        "chinese": "比/我/想/认为（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "我们会在酒店大厅见面。",
+    "english": "We will meet at the hotel lobby",
+    "soundmark": "/wiː wɪl miːt æt ðə hoʊˈtel ˈlɑːbi/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will meet",
+        "role": "V",
+        "phonetic": "/wɪl miːt/",
+        "chinese": "将要/遇见/开会"
+      },
+      {
+        "text": "at the hotel lobby",
+        "role": "A",
+        "phonetic": "/æt ðə hoʊˈtel ˈlɑːbi/",
+        "chinese": "在/这个/那个/酒店"
+      }
+    ]
+  },
+  {
+    "chinese": "祝你旅途愉快！",
+    "english": "Have a safe trip",
+    "soundmark": "/hæv ə seɪf trɪp/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a safe trip",
+        "role": "O",
+        "phonetic": "/ə seɪf trɪp/",
+        "chinese": "一个/安全的/旅行"
+      }
+    ]
+  },
+  {
+    "chinese": "我应该在哪里转机？",
+    "english": "Where should I transfer",
+    "soundmark": "/wer ʃʊd aɪ ˈtrænsfɜːr/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "transfer",
+        "role": "V",
+        "phonetic": "/ˈtrænsfɜːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我要退房。",
+    "english": "I would like to check out",
+    "soundmark": "/aɪ wʊd laɪk tuː tʃek aʊt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like",
+        "role": "V",
+        "phonetic": "/wʊd laɪk/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to check out",
+        "role": "O",
+        "phonetic": "/tuː tʃek aʊt/",
+        "chinese": "到/向/出去"
+      }
+    ]
+  },
+  {
+    "chinese": "这趟列车会经过哪些城市？",
+    "english": "Which cities will this train pass through",
+    "soundmark": "/wɪtʃ ˈsɪtiz wɪl ðɪs treɪn pæs θruː/",
+    "grammar": [
+      {
+        "text": "Which cities",
+        "role": "O",
+        "phonetic": "/wɪtʃ ˈsɪtiz/",
+        "chinese": "哪个/城市"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "this train",
+        "role": "S",
+        "phonetic": "/ðɪs treɪn/",
+        "chinese": "这个/火车"
+      },
+      {
+        "text": "pass through",
+        "role": "V",
+        "phonetic": "/pæs θruː/",
+        "chinese": "通过/传递/通过/穿过"
+      }
+    ]
+  },
+  {
+    "chinese": "我的行李丢了。",
+    "english": "I have lost my luggage",
+    "soundmark": "/aɪ hæv lɔːst maɪ ˈlʌɡɪdʒ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have lost",
+        "role": "V",
+        "phonetic": "/hæv lɔːst/",
+        "chinese": "有/助动词/丢失的/迷路的"
+      },
+      {
+        "text": "my luggage",
+        "role": "O",
+        "phonetic": "/maɪ ˈlʌɡɪdʒ/",
+        "chinese": "我的"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要一个会说英语的导游。",
+    "english": "I need a tour guide who can speak English",
+    "soundmark": "/aɪ niːd ə tʊr ɡaɪd huː kæn spiːk ˈɪŋɡlɪʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "a tour guide who can speak English",
+        "role": "O",
+        "phonetic": "/ə tʊr ɡaɪd huː kæn spiːk ˈɪŋɡlɪʃ/",
+        "chinese": "一个/谁/能/说/讲"
+      }
+    ]
+  },
+  {
+    "chinese": "到伦敦的往返票多少钱？",
+    "english": "How much is a round-trip ticket to London",
+    "soundmark": "/haʊ mʌtʃ ɪz ə raʊnd trɪp ˈtɪkɪt tuː ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a round-trip ticket",
+        "role": "S",
+        "phonetic": "/ə raʊnd trɪp ˈtɪkɪt/",
+        "chinese": "一个"
+      },
+      {
+        "text": "to London",
+        "role": "A",
+        "phonetic": "/tuː ˈlʌndən/",
+        "chinese": "到/向/伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "这是第一次坐飞机。",
+    "english": "This is my first time flying",
+    "soundmark": "/ðɪs ɪz maɪ fɜːrst taɪm ˈflaɪɪŋ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my first time flying",
+        "role": "C",
+        "phonetic": "/maɪ fɜːrst taɪm ˈflaɪɪŋ/",
+        "chinese": "我的/首先/时间/飞"
+      }
+    ]
+  },
+  {
+    "chinese": "旅行",
+    "english": "travel",
+    "soundmark": "/ˈtrævl/"
+  },
+  {
+    "chinese": "护照",
+    "english": "passport",
+    "soundmark": "/ˈpæspɔːrt/"
+  },
+  {
+    "chinese": "签证",
+    "english": "visa",
+    "soundmark": "/ˈviːzə/"
+  },
+  {
+    "chinese": "登机口",
+    "english": "gate",
+    "soundmark": "/ɡeɪt/"
+  },
+  {
+    "chinese": "转机",
+    "english": "transfer",
+    "soundmark": "/ˈtrænsfɜːr/"
+  },
+  {
+    "chinese": "导游",
+    "english": "tour guide",
+    "soundmark": "/tʊr ɡaɪd/"
+  },
+  {
+    "chinese": "超重",
+    "english": "overweight",
+    "soundmark": "/ˌoʊvərˈweɪt/"
+  },
+  {
+    "chinese": "过期",
+    "english": "expire",
+    "soundmark": "/ɪkˈspaɪər/"
+  },
+  {
+    "chinese": "大厅",
+    "english": "lobby",
+    "soundmark": "/ˈlɑːbi/"
+  },
+  {
+    "chinese": "旅途",
+    "english": "trip",
+    "soundmark": "/trɪp/"
+  },
+  {
+    "chinese": "退房",
+    "english": "check out",
+    "soundmark": "/tʃek aʊt/"
+  }
+]

@@ -1,0 +1,411 @@
+[
+  {
+    "chinese": "甜点",
+    "english": "dessert",
+    "soundmark": "/dɪˈzɜːt/"
+  },
+  {
+    "chinese": "蛋糕",
+    "english": "cake",
+    "soundmark": "/keɪk/"
+  },
+  {
+    "chinese": "派",
+    "english": "pie",
+    "soundmark": "/paɪ/"
+  },
+  {
+    "chinese": "冰淇淋",
+    "english": "ice cream",
+    "soundmark": "/aɪs/ /kriːm/"
+  },
+  {
+    "chinese": "水果",
+    "english": "fruit",
+    "soundmark": "/fruːt/"
+  },
+  {
+    "chinese": "苹果",
+    "english": "apple",
+    "soundmark": "/ˈæpl/"
+  },
+  {
+    "chinese": "香蕉",
+    "english": "banana",
+    "soundmark": "/bəˈnɑːnə/"
+  },
+  {
+    "chinese": "橙子",
+    "english": "orange",
+    "soundmark": "/ˈɒrɪndʒ/"
+  },
+  {
+    "chinese": "葡萄",
+    "english": "grape",
+    "soundmark": "/ɡreɪp/"
+  },
+  {
+    "chinese": "甜的",
+    "english": "sweet",
+    "soundmark": "/swiːt/"
+  },
+  {
+    "chinese": "好吃的",
+    "english": "delicious",
+    "soundmark": "/dɪˈlɪʃəs/"
+  },
+  {
+    "chinese": "想要",
+    "english": "want",
+    "soundmark": "/wɒnt/"
+  },
+  {
+    "chinese": "选择",
+    "english": "choose",
+    "soundmark": "/tʃuːz/"
+  },
+  {
+    "chinese": "菜单",
+    "english": "menu",
+    "soundmark": "/ˈmenjuː/"
+  },
+  {
+    "chinese": "今天有什么甜点",
+    "english": "What's for dessert today",
+    "soundmark": "/wɒts/ /fɔː/ /dɪˈzɜːt/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wɒts/",
+        "chinese": "什么"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔː/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "dessert",
+        "role": "O",
+        "phonetic": "/dɪˈzɜːt/",
+        "chinese": ""
+      },
+      {
+        "text": "today",
+        "role": "Adv",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "我想要蛋糕",
+    "english": "I want some cake",
+    "soundmark": "/aɪ/ /wɒnt/ /sʌm/ /keɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɒnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "cake",
+        "role": "O",
+        "phonetic": "/keɪk/",
+        "chinese": "蛋糕"
+      }
+    ]
+  },
+  {
+    "chinese": "甜点有冰淇淋",
+    "english": "There is ice cream for dessert",
+    "soundmark": "/ðeər/ /ɪz/ /aɪs/ /kriːm/ /fɔː/ /dɪˈzɜːt/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðeər/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "ice cream",
+        "role": "C",
+        "phonetic": "/aɪs/ /kriːm/",
+        "chinese": ""
+      },
+      {
+        "text": "for dessert",
+        "role": "P",
+        "phonetic": "/fɔː/ /dɪˈzɜːt/",
+        "chinese": "为了/对于"
+      }
+    ]
+  },
+  {
+    "chinese": "她选择苹果派",
+    "english": "She chooses the apple pie",
+    "soundmark": "/ʃiː/ /ˈtʃuːzɪz/ /ði/ /ˈæpl/ /paɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "chooses",
+        "role": "V",
+        "phonetic": "/ˈtʃuːzɪz/",
+        "chinese": "选择"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "apple pie",
+        "role": "O",
+        "phonetic": "/ˈæpl/ /paɪ/",
+        "chinese": "苹果"
+      }
+    ]
+  },
+  {
+    "chinese": "这些水果很甜",
+    "english": "The fruit is very sweet",
+    "soundmark": "/ðə/ /fruːt/ /ɪz/ /ˈveri/ /swiːt/",
+    "grammar": [
+      {
+        "text": "The fruit",
+        "role": "S",
+        "phonetic": "/ðə/ /fruːt/",
+        "chinese": "这个/那个/水果"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "sweet",
+        "role": "C",
+        "phonetic": "/swiːt/",
+        "chinese": "甜的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们有几种甜点",
+    "english": "We have several desserts",
+    "soundmark": "/wiː/ /hæv/ /ˈsevrəl/ /dɪˈzɜːts/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "several",
+        "role": "Det",
+        "phonetic": "/ˈsevrəl/",
+        "chinese": "几个"
+      },
+      {
+        "text": "desserts",
+        "role": "O",
+        "phonetic": "/dɪˈzɜːts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我想吃冰淇淋",
+    "english": "I'd like some ice cream",
+    "soundmark": "/aɪd/ /laɪk/ /sʌm/ /aɪs/ /kriːm/",
+    "grammar": [
+      {
+        "text": "I'd like",
+        "role": "V",
+        "phonetic": "/aɪd/ /laɪk/",
+        "chinese": "我会/我本来/喜欢"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "ice cream",
+        "role": "O",
+        "phonetic": "/aɪs/ /kriːm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这个蛋糕很好吃",
+    "english": "This cake is delicious",
+    "soundmark": "/ðɪs/ /keɪk/ /ɪz/ /dɪˈlɪʃəs/",
+    "grammar": [
+      {
+        "text": "This cake",
+        "role": "S",
+        "phonetic": "/ðɪs/ /keɪk/",
+        "chinese": "这个/蛋糕"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "delicious",
+        "role": "C",
+        "phonetic": "/dɪˈlɪʃəs/",
+        "chinese": "美味的"
+      }
+    ]
+  },
+  {
+    "chinese": "甜点在菜单最后",
+    "english": "Desserts are at the end of the menu",
+    "soundmark": "/dɪˈzɜːts/ /ɑːr/ /æt/ /ði/ /end/ /əv/ /ðə/ /ˈmenjuː/",
+    "grammar": [
+      {
+        "text": "Desserts",
+        "role": "S",
+        "phonetic": "/dɪˈzɜːts/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "at the end",
+        "role": "L",
+        "phonetic": "/æt/ /ði/ /end/",
+        "chinese": "在末尾"
+      },
+      {
+        "text": "of the menu",
+        "role": "P",
+        "phonetic": "/əv/ /ðə/ /ˈmenjuː/",
+        "chinese": "…的/这个/那个/菜单"
+      }
+    ]
+  },
+  {
+    "chinese": "他们吃了派和冰淇淋",
+    "english": "They had pie and ice cream",
+    "soundmark": "/ðeɪ/ /hæd/ /paɪ/ /ənd/ /aɪs/ /kriːm/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "pie",
+        "role": "O",
+        "phonetic": "/paɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "ice cream",
+        "role": "O",
+        "phonetic": "/aɪs/ /kriːm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "食物",
+    "english": "food",
+    "soundmark": "/fuːd/"
+  },
+  {
+    "chinese": "饥饿的",
+    "english": "hungry",
+    "soundmark": "/ˈhʌŋɡri/"
+  },
+  {
+    "chinese": "糖",
+    "english": "sugar",
+    "soundmark": "/ˈʃʊɡə/"
+  },
+  {
+    "chinese": "巧克力",
+    "english": "chocolate",
+    "soundmark": "/ˈtʃɒklət/"
+  },
+  {
+    "chinese": "糖果",
+    "english": "candy",
+    "soundmark": "/ˈkændi/"
+  },
+  {
+    "chinese": "饼干",
+    "english": "biscuit",
+    "soundmark": "/ˈbɪskɪt/"
+  },
+  {
+    "chinese": "面包",
+    "english": "bread",
+    "soundmark": "/bred/"
+  }
+]

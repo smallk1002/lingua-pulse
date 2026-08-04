@@ -1,0 +1,554 @@
+[
+  {
+    "chinese": "吊桥",
+    "english": "suspension bridge",
+    "soundmark": "/səˈspenʃən/ /brɪdʒ/"
+  },
+  {
+    "chinese": "桥塔",
+    "english": "tower",
+    "soundmark": "/ˈtaʊər/"
+  },
+  {
+    "chinese": "跨度",
+    "english": "span",
+    "soundmark": "/spæn/"
+  },
+  {
+    "chinese": "缆索",
+    "english": "cable",
+    "soundmark": "/ˈkeɪbəl/"
+  },
+  {
+    "chinese": "工程师",
+    "english": "engineer",
+    "soundmark": "/ˌendʒɪˈnɪr/"
+  },
+  {
+    "chinese": "设计",
+    "english": "design",
+    "soundmark": "/dɪˈzaɪn/"
+  },
+  {
+    "chinese": "长度",
+    "english": "length",
+    "soundmark": "/leŋθ/"
+  },
+  {
+    "chinese": "更长的",
+    "english": "longer",
+    "soundmark": "/ˈlɔːŋər/"
+  },
+  {
+    "chinese": "最长的",
+    "english": "longest",
+    "soundmark": "/ˈlɔːŋəst/"
+  },
+  {
+    "chinese": "世界上最长的吊桥",
+    "english": "the longest suspension bridge in the world",
+    "soundmark": "/ðə/ /ˈlɔːŋəst/ /səˈspenʃən/ /brɪdʒ/ /ɪn/ /ðə/ /wɜːrld/"
+  },
+  {
+    "chinese": "悬索桥",
+    "english": "suspension bridge",
+    "soundmark": "/səˈspenʃən/ /brɪdʒ/"
+  },
+  {
+    "chinese": "设计桥梁",
+    "english": "design a bridge",
+    "soundmark": "/dɪˈzaɪn/ /ə/ /brɪdʒ/"
+  },
+  {
+    "chinese": "这座桥的跨度超过了一千米",
+    "english": "The bridge has a span of over a thousand metres",
+    "soundmark": "/ðə/ /brɪdʒ/ /hæz/ /ə/ /spæn/ /ʌv/ /ˈoʊvər/ /ə/ /ˈθaʊzənd/ /ˈmiːtərz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bridge",
+        "role": "S",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "span",
+        "role": "O",
+        "phonetic": "/spæn/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "over",
+        "role": "Adv",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "thousand",
+        "role": "A",
+        "phonetic": "/ˈθaʊzənd/",
+        "chinese": "千"
+      },
+      {
+        "text": "metres",
+        "role": "A",
+        "phonetic": "/ˈmiːtərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这座桥比旧桥长得多",
+    "english": "This bridge is much longer than the old one",
+    "soundmark": "/ðɪs/ /brɪdʒ/ /ɪz/ /mʌtʃ/ /ˈlɔːŋər/ /ðæn/ /ði/ /oʊld/ /wʌn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "bridge",
+        "role": "S",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "longer",
+        "role": "C",
+        "phonetic": "/ˈlɔːŋər/",
+        "chinese": "更…的/…者(长的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "它是世界上最大的桥梁工程",
+    "english": "It is the largest bridge project in the world",
+    "soundmark": "/ɪt/ /ɪz/ /ðə/ /ˈlɑːrdʒɪst/ /brɪdʒ/ /ˈprɑːdʒekt/ /ɪn/ /ðə/ /wɜːrld/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "largest",
+        "role": "A",
+        "phonetic": "/ˈlɑːrdʒɪst/",
+        "chinese": "最…的(大的)"
+      },
+      {
+        "text": "bridge",
+        "role": "A",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "project",
+        "role": "C",
+        "phonetic": "/ˈprɑːdʒekt/",
+        "chinese": "项目"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "A",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      }
+    ]
+  },
+  {
+    "chinese": "这座桥不如计划中设想的那么长",
+    "english": "The bridge is not as long as planned",
+    "soundmark": "/ðə/ /brɪdʒ/ /ɪz/ /nɑːt/ /æz/ /lɔːŋ/ /æz/ /plænd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bridge",
+        "role": "S",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "long",
+        "role": "C",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "planned",
+        "role": "C",
+        "phonetic": "/plænd/",
+        "chinese": "计划的"
+      }
+    ]
+  },
+  {
+    "chinese": "这座桥比其他任何桥都更令人印象深刻",
+    "english": "This bridge is more impressive than any other",
+    "soundmark": "/ðɪs/ /brɪdʒ/ /ɪz/ /mɔːr/ /ɪmˈpresɪv/ /ðæn/ /ˈeni/ /ˈʌðər/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "bridge",
+        "role": "S",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "impressive",
+        "role": "C",
+        "phonetic": "/ɪmˈpresɪv/",
+        "chinese": "令人印象深刻的"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "other",
+        "role": "O",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      }
+    ]
+  },
+  {
+    "chinese": "这些缆索比普通钢缆强两倍",
+    "english": "These cables are twice as strong as ordinary steel cables",
+    "soundmark": "/ðiːz/ /ˈkeɪbəlz/ /ɑːr/ /twaɪs/ /æz/ /strɔːŋ/ /æz/ /ˈɔːrdəneri/ /stiːl/ /ˈkeɪbəlz/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "cables",
+        "role": "S",
+        "phonetic": "/ˈkeɪbəlz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "twice",
+        "role": "Adv",
+        "phonetic": "/twaɪs/",
+        "chinese": ""
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "strong",
+        "role": "C",
+        "phonetic": "/strɔːŋ/",
+        "chinese": "强壮的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "ordinary",
+        "role": "A",
+        "phonetic": "/ˈɔːrdəneri/",
+        "chinese": "普通的"
+      },
+      {
+        "text": "steel",
+        "role": "A",
+        "phonetic": "/stiːl/",
+        "chinese": "钢"
+      },
+      {
+        "text": "cables",
+        "role": "O",
+        "phonetic": "/ˈkeɪbəlz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "跨度",
+    "english": "span",
+    "soundmark": "/spæn/"
+  },
+  {
+    "chinese": "缆索",
+    "english": "cable",
+    "soundmark": "/ˈkeɪbəl/"
+  },
+  {
+    "chinese": "令人印象深刻的",
+    "english": "impressive",
+    "soundmark": "/ɪmˈpresɪv/"
+  },
+  {
+    "chinese": "钢",
+    "english": "steel",
+    "soundmark": "/stiːl/"
+  },
+  {
+    "chinese": "工程",
+    "english": "project",
+    "soundmark": "/ˈprɑːdʒekt/"
+  },
+  {
+    "chinese": "两倍",
+    "english": "twice",
+    "soundmark": "/twaɪs/"
+  },
+  {
+    "chinese": "普通的",
+    "english": "ordinary",
+    "soundmark": "/ˈɔːrdəneri/"
+  },
+  {
+    "chinese": "尽管建造这座桥的工程量极大工程师们仍然按时完工了",
+    "english": "Despite the enormous amount of work involved the engineers finished the bridge on time",
+    "soundmark": "/dɪˈspaɪt/ /ði/ /ɪˈnɔːrməs/ /əˈmaʊnt/ /ʌv/ /wɜːrk/ /ɪnˈvɑːlvd/ /ði/ /ˌendʒɪˈnɪrz/ /ˈfɪnɪʃt/ /ðə/ /brɪdʒ/ /ɑːn/ /taɪm/",
+    "grammar": [
+      {
+        "text": "Despite",
+        "role": "P",
+        "phonetic": "/dɪˈspaɪt/",
+        "chinese": "尽管"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "enormous",
+        "role": "A",
+        "phonetic": "/ɪˈnɔːrməs/",
+        "chinese": "庞大的"
+      },
+      {
+        "text": "amount",
+        "role": "S",
+        "phonetic": "/əˈmaʊnt/",
+        "chinese": "数量"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "involved",
+        "role": "C",
+        "phonetic": "/ɪnˈvɑːlvd/",
+        "chinese": "涉及"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "engineers",
+        "role": "S",
+        "phonetic": "/ˌendʒɪˈnɪrz/",
+        "chinese": "工程师"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bridge",
+        "role": "O",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  }
+]

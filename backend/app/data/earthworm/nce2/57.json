@@ -1,0 +1,1651 @@
+[
+  {
+    "chinese": "女士",
+    "english": "madam",
+    "soundmark": "/ˈmædəm/"
+  },
+  {
+    "chinese": "衬衫",
+    "english": "blouse",
+    "soundmark": "/blaʊs/"
+  },
+  {
+    "chinese": "橱窗",
+    "english": "window",
+    "soundmark": "/ˈwɪndoʊ/"
+  },
+  {
+    "chinese": "试穿",
+    "english": "try on",
+    "soundmark": "/traɪ ɑːn/"
+  },
+  {
+    "chinese": "尺码",
+    "english": "size",
+    "soundmark": "/saɪz/"
+  },
+  {
+    "chinese": "合适",
+    "english": "fit",
+    "soundmark": "/fɪt/"
+  },
+  {
+    "chinese": "顾客",
+    "english": "customer",
+    "soundmark": "/ˈkʌstəmər/"
+  },
+  {
+    "chinese": "服务员",
+    "english": "assistant",
+    "soundmark": "/əˈsɪstənt/"
+  },
+  {
+    "chinese": "价格",
+    "english": "price",
+    "soundmark": "/praɪs/"
+  },
+  {
+    "chinese": "款式",
+    "english": "style",
+    "soundmark": "/staɪl/"
+  },
+  {
+    "chinese": "在商店里",
+    "english": "in the shop",
+    "soundmark": "/ɪn ðə ʃɑːp/"
+  },
+  {
+    "chinese": "在橱窗里",
+    "english": "in the window",
+    "soundmark": "/ɪn ðə ˈwɪndoʊ/"
+  },
+  {
+    "chinese": "在柜台后面",
+    "english": "behind the counter",
+    "soundmark": "/bɪˈhaɪnd ðə ˈkaʊntər/"
+  },
+  {
+    "chinese": "在衣架上",
+    "english": "on the hanger",
+    "soundmark": "/ɑːn ðə ˈhæŋər/"
+  },
+  {
+    "chinese": "对……感兴趣",
+    "english": "interested in",
+    "soundmark": "/ˈɪntrəstɪd ɪn/"
+  },
+  {
+    "chinese": "看着镜子",
+    "english": "look in the mirror",
+    "soundmark": "/lʊk ɪn ðə ˈmɪrər/"
+  },
+  {
+    "chinese": "我可以为您效劳吗",
+    "english": "Can I help you madam",
+    "soundmark": "/kæn aɪ help juː ˈmædəm/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "madam",
+        "role": "O",
+        "phonetic": "/ˈmædəm/",
+        "chinese": "女士"
+      }
+    ]
+  },
+  {
+    "chinese": "她在橱窗里看见一件衬衫",
+    "english": "She saw a blouse in the window",
+    "soundmark": "/ʃiː sɔː ə blaʊs ɪn ðə ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "blouse",
+        "role": "O",
+        "phonetic": "/blaʊs/",
+        "chinese": "女衬衫"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "A",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "她朝那家店走去",
+    "english": "She walked towards the shop",
+    "soundmark": "/ʃiː wɔːkt təˈwɔːrdz ðə ʃɑːp/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "towards",
+        "role": "P",
+        "phonetic": "/təˈwɔːrdz/",
+        "chinese": "朝向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shop",
+        "role": "O",
+        "phonetic": "/ʃɑːp/",
+        "chinese": "商店"
+      }
+    ]
+  },
+  {
+    "chinese": "服务员站在柜台后面",
+    "english": "The assistant stood behind the counter",
+    "soundmark": "/ðə əˈsɪstənt stʊd bɪˈhaɪnd ðə ˈkaʊntər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "assistant",
+        "role": "S",
+        "phonetic": "/əˈsɪstənt/",
+        "chinese": ""
+      },
+      {
+        "text": "stood",
+        "role": "V",
+        "phonetic": "/stʊd/",
+        "chinese": "站（过去式）"
+      },
+      {
+        "text": "behind",
+        "role": "P",
+        "phonetic": "/bɪˈhaɪnd/",
+        "chinese": "在…后面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "counter",
+        "role": "A",
+        "phonetic": "/ˈkaʊntər/",
+        "chinese": "更…的/…者(数)"
+      }
+    ]
+  },
+  {
+    "chinese": "她对那件衬衫很感兴趣",
+    "english": "She was interested in the blouse",
+    "soundmark": "/ʃiː wʌz ˈɪntrəstɪd ɪn ðə blaʊs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "interested",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪd/",
+        "chinese": "感兴趣的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "blouse",
+        "role": "O",
+        "phonetic": "/blaʊs/",
+        "chinese": "女衬衫"
+      }
+    ]
+  },
+  {
+    "chinese": "你在找什么东西吗",
+    "english": "Are you looking for something",
+    "soundmark": "/ɑːr juː ˈlʊkɪŋ fɔːr ˈsʌmθɪŋ/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "looking",
+        "role": "V",
+        "phonetic": "/ˈlʊkɪŋ/",
+        "chinese": "看的/看起来"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "something",
+        "role": "O",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      }
+    ]
+  },
+  {
+    "chinese": "她拿起衬衫对着镜子比了比",
+    "english": "She held the blouse up in front of the mirror",
+    "soundmark": "/ʃiː held ðə blaʊs ʌp ɪn frʌnt ʌv ðə ˈmɪrər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "held",
+        "role": "V",
+        "phonetic": "/held/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "blouse",
+        "role": "O",
+        "phonetic": "/blaʊs/",
+        "chinese": "女衬衫"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "front",
+        "role": "O",
+        "phonetic": "/frʌnt/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mirror",
+        "role": "O",
+        "phonetic": "/ˈmɪrər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那件衬衫标价太贵了",
+    "english": "The price on the blouse was too high",
+    "soundmark": "/ðə praɪs ɑːn ðə blaʊs wʌz tuː haɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "price",
+        "role": "S",
+        "phonetic": "/praɪs/",
+        "chinese": "价格"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "blouse",
+        "role": "O",
+        "phonetic": "/blaʊs/",
+        "chinese": "女衬衫"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "high",
+        "role": "C",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      }
+    ]
+  },
+  {
+    "chinese": "她从衣架上取下另一件",
+    "english": "She took another one off the hanger",
+    "soundmark": "/ʃiː tʊk əˈnʌðər wʌn ɔːf ðə ˈhæŋər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "another",
+        "role": "Det",
+        "phonetic": "/əˈnʌðər/",
+        "chinese": "另一个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "off",
+        "role": "P",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "hanger",
+        "role": "O",
+        "phonetic": "/ˈhæŋər/",
+        "chinese": "更…的/…者(挂)"
+      }
+    ]
+  },
+  {
+    "chinese": "您穿这件真好看",
+    "english": "It looks very nice on you",
+    "soundmark": "/ɪt lʊks ˈveri naɪs ɑːn juː/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "looks",
+        "role": "Lv",
+        "phonetic": "/lʊks/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "她走到柜台前结账",
+    "english": "She walked up to the counter to pay",
+    "soundmark": "/ʃiː wɔːkt ʌp tuː ðə ˈkaʊntər tuː peɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "counter",
+        "role": "O",
+        "phonetic": "/ˈkaʊntər/",
+        "chinese": "更…的/…者(数)"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "pay",
+        "role": "V",
+        "phonetic": "/peɪ/",
+        "chinese": "付钱"
+      }
+    ]
+  },
+  {
+    "chinese": "你能给我看看蓝色的那件吗",
+    "english": "Could you show me the blue one",
+    "soundmark": "/kʊd juː ʃoʊ miː ðə bluː wʌn/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "show",
+        "role": "V",
+        "phonetic": "/ʃoʊ/",
+        "chinese": "展示"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "blue",
+        "role": "A",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "她翻遍了店里所有的衬衫",
+    "english": "She looked through all the blouses in the shop",
+    "soundmark": "/ʃiː lʊkt θruː ɔːl ðə ˈblaʊzɪz ɪn ðə ʃɑːp/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "looked",
+        "role": "V",
+        "phonetic": "/lʊkt/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "through",
+        "role": "P",
+        "phonetic": "/θruː/",
+        "chinese": "通过/穿过"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "blouses",
+        "role": "O",
+        "phonetic": "/ˈblaʊzɪz/",
+        "chinese": "女衬衫"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shop",
+        "role": "A",
+        "phonetic": "/ʃɑːp/",
+        "chinese": "商店"
+      }
+    ]
+  },
+  {
+    "chinese": "那家店位于银行和邮局之间",
+    "english": "The shop is between the bank and the post office",
+    "soundmark": "/ðə ʃɑːp ɪz bɪˈtwiːn ðə bæŋk ænd ðə poʊst ˈɑːfɪs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shop",
+        "role": "S",
+        "phonetic": "/ʃɑːp/",
+        "chinese": "商店"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bank",
+        "role": "O",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "post",
+        "role": "A",
+        "phonetic": "/poʊst/",
+        "chinese": ""
+      },
+      {
+        "text": "office",
+        "role": "O",
+        "phonetic": "/ˈɑːfɪs/",
+        "chinese": "办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "她把衣服举过头顶",
+    "english": "She held the dress above her head",
+    "soundmark": "/ʃiː held ðə dres əˈbʌv hɜːr hed/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "held",
+        "role": "V",
+        "phonetic": "/held/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dress",
+        "role": "O",
+        "phonetic": "/dres/",
+        "chinese": "穿衣"
+      },
+      {
+        "text": "above",
+        "role": "P",
+        "phonetic": "/əˈbʌv/",
+        "chinese": "在…上面"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "head",
+        "role": "O",
+        "phonetic": "/hed/",
+        "chinese": "头"
+      }
+    ]
+  },
+  {
+    "chinese": "那只猫从柜台底下钻出来了",
+    "english": "The cat came out from under the counter",
+    "soundmark": "/ðə kæt keɪm aʊt frʌm ˈʌndər ðə ˈkaʊntər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "counter",
+        "role": "O",
+        "phonetic": "/ˈkaʊntər/",
+        "chinese": "更…的/…者(数)"
+      }
+    ]
+  },
+  {
+    "chinese": "她沿着街一直走到商店最后面的角落",
+    "english": "She walked right along the street to the back of the shop",
+    "soundmark": "/ʃiː wɔːkt raɪt əˈlɔːŋ ðə striːt tuː ðə bæk ʌv ðə ʃɑːp/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "right",
+        "role": "Adv",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "along",
+        "role": "P",
+        "phonetic": "/əˈlɔːŋ/",
+        "chinese": "沿着"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "street",
+        "role": "A",
+        "phonetic": "/striːt/",
+        "chinese": "街道"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "back",
+        "role": "O",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shop",
+        "role": "O",
+        "phonetic": "/ʃɑːp/",
+        "chinese": "商店"
+      }
+    ]
+  },
+  {
+    "chinese": "从店里出来的时候她撞上了一位先生",
+    "english": "She ran into a gentleman on her way out of the shop",
+    "soundmark": "/ʃiː ræn ˈɪntuː ə ˈdʒentəlmən ɑːn hɜːr weɪ aʊt ʌv ðə ʃɑːp/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "ran",
+        "role": "V",
+        "phonetic": "/ræn/",
+        "chinese": "跑（过去式）"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "gentleman",
+        "role": "O",
+        "phonetic": "/ˈdʒentəlmən/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "way",
+        "role": "A",
+        "phonetic": "/weɪ/",
+        "chinese": "路/方式"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shop",
+        "role": "O",
+        "phonetic": "/ʃɑːp/",
+        "chinese": "商店"
+      }
+    ]
+  },
+  {
+    "chinese": "你能把这件放在一边替我留着吗",
+    "english": "Could you put this aside for me",
+    "soundmark": "/kʊd juː pʊt ðɪs əˈsaɪd fɔːr miː/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "aside",
+        "role": "Adv",
+        "phonetic": "/əˈsaɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "她反复试穿了将近一个小时却一件也没买",
+    "english": "She tried on clothes for nearly an hour but bought nothing",
+    "soundmark": "/ʃiː traɪd ɑːn kloʊðz fɔːr ˈnɪrli ən aʊər bʌt bɔːt ˈnʌθɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "tried",
+        "role": "V",
+        "phonetic": "/traɪd/",
+        "chinese": "尝试（过去式）"
+      },
+      {
+        "text": "on",
+        "role": "Adv",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "clothes",
+        "role": "O",
+        "phonetic": "/kloʊðz/",
+        "chinese": "布"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "nearly",
+        "role": "Adv",
+        "phonetic": "/ˈnɪrli/",
+        "chinese": "差不多"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "hour",
+        "role": "A",
+        "phonetic": "/aʊər/",
+        "chinese": "小时"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "nothing",
+        "role": "O",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      }
+    ]
+  },
+  {
+    "chinese": "她从包里拿出信用卡",
+    "english": "She took out a credit card from her bag",
+    "soundmark": "/ʃiː tʊk aʊt ə ˈkredɪt kɑːrd frʌm hɜːr bæɡ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "credit",
+        "role": "A",
+        "phonetic": "/ˈkredɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "card",
+        "role": "O",
+        "phonetic": "/kɑːrd/",
+        "chinese": "卡片"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "bag",
+        "role": "O",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "帐单被放在柜台上",
+    "english": "The bill was placed on the counter",
+    "soundmark": "/ðə bɪl wʌz pleɪst ɑːn ðə ˈkaʊntər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bill",
+        "role": "S",
+        "phonetic": "/bɪl/",
+        "chinese": "账单"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "placed",
+        "role": "V",
+        "phonetic": "/pleɪst/",
+        "chinese": "地方"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "counter",
+        "role": "A",
+        "phonetic": "/ˈkaʊntər/",
+        "chinese": "更…的/…者(数)"
+      }
+    ]
+  },
+  {
+    "chinese": "她提着三个袋子走出商店",
+    "english": "She walked out of the shop with three bags",
+    "soundmark": "/ʃiː wɔːkt aʊt ʌv ðə ʃɑːp wɪð θriː bæɡz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shop",
+        "role": "O",
+        "phonetic": "/ʃɑːp/",
+        "chinese": "商店"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "bags",
+        "role": "O",
+        "phonetic": "/bæɡz/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "镜子",
+    "english": "mirror",
+    "soundmark": "/ˈmɪrər/"
+  },
+  {
+    "chinese": "柜台",
+    "english": "counter",
+    "soundmark": "/ˈkaʊntər/"
+  },
+  {
+    "chinese": "衣架",
+    "english": "hanger",
+    "soundmark": "/ˈhæŋər/"
+  },
+  {
+    "chinese": "绅士",
+    "english": "gentleman",
+    "soundmark": "/ˈdʒentəlmən/"
+  },
+  {
+    "chinese": "帐单",
+    "english": "bill",
+    "soundmark": "/bɪl/"
+  },
+  {
+    "chinese": "之上的",
+    "english": "above",
+    "soundmark": "/əˈbʌv/"
+  },
+  {
+    "chinese": "在……之间",
+    "english": "between",
+    "soundmark": "/bɪˈtwiːn/"
+  },
+  {
+    "chinese": "往……方向",
+    "english": "towards",
+    "soundmark": "/təˈwɔːrdz/"
+  },
+  {
+    "chinese": "沿着",
+    "english": "along",
+    "soundmark": "/əˈlɔːŋ/"
+  },
+  {
+    "chinese": "在衣架上",
+    "english": "on the hanger",
+    "soundmark": "/ɑːn ðə ˈhæŋər/"
+  },
+  {
+    "chinese": "她走进商店时铃响了",
+    "english": "The bell rang when she walked into the shop",
+    "soundmark": "/ðə bel ræŋ wen ʃiː wɔːkt ˈɪntuː ðə ʃɑːp/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bell",
+        "role": "S",
+        "phonetic": "/bel/",
+        "chinese": ""
+      },
+      {
+        "text": "rang",
+        "role": "V",
+        "phonetic": "/ræŋ/",
+        "chinese": "响（过去式）"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shop",
+        "role": "O",
+        "phonetic": "/ʃɑːp/",
+        "chinese": "商店"
+      }
+    ]
+  },
+  {
+    "chinese": "那件裙子挂在一排夹克旁边",
+    "english": "The dress was hanging beside a row of jackets",
+    "soundmark": "/ðə dres wʌz ˈhæŋɪŋ bɪˈsaɪd ə roʊ ʌv ˈdʒækɪts/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dress",
+        "role": "S",
+        "phonetic": "/dres/",
+        "chinese": "穿衣"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "hanging",
+        "role": "V",
+        "phonetic": "/ˈhæŋɪŋ/",
+        "chinese": "挂"
+      },
+      {
+        "text": "beside",
+        "role": "P",
+        "phonetic": "/bɪˈsaɪd/",
+        "chinese": "在…旁边"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "row",
+        "role": "O",
+        "phonetic": "/roʊ/",
+        "chinese": "划（船）/排"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "jackets",
+        "role": "O",
+        "phonetic": "/ˈdʒækɪts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她从那堆衣服当中抽出了最底下的一件",
+    "english": "She pulled one out from the bottom of the pile",
+    "soundmark": "/ʃiː pʊld wʌn aʊt frʌm ðə ˈbɑːtəm ʌv ðə paɪl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "pulled",
+        "role": "V",
+        "phonetic": "/pʊld/",
+        "chinese": "拉"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bottom",
+        "role": "O",
+        "phonetic": "/ˈbɑːtəm/",
+        "chinese": "底部"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "pile",
+        "role": "O",
+        "phonetic": "/paɪl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "店员在价签背面写了什么",
+    "english": "The assistant wrote something on the back of the price tag",
+    "soundmark": "/ðə əˈsɪstənt roʊt ˈsʌmθɪŋ ɑːn ðə bæk ʌv ðə praɪs tæɡ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "assistant",
+        "role": "S",
+        "phonetic": "/əˈsɪstənt/",
+        "chinese": ""
+      },
+      {
+        "text": "wrote",
+        "role": "V",
+        "phonetic": "/roʊt/",
+        "chinese": "写（过去式）"
+      },
+      {
+        "text": "something",
+        "role": "O",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "back",
+        "role": "O",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "price",
+        "role": "A",
+        "phonetic": "/praɪs/",
+        "chinese": "价格"
+      },
+      {
+        "text": "tag",
+        "role": "O",
+        "phonetic": "/tæɡ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "一排",
+    "english": "a row of",
+    "soundmark": "/ə roʊ ʌv/"
+  },
+  {
+    "chinese": "在旁边",
+    "english": "beside",
+    "soundmark": "/bɪˈsaɪd/"
+  }
+]

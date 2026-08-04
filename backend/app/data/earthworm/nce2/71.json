@@ -1,0 +1,567 @@
+[
+  {
+    "chinese": "钟(clock)",
+    "english": "clock",
+    "soundmark": "/klɒk/"
+  },
+  {
+    "chinese": "著名的(famous)",
+    "english": "famous",
+    "soundmark": "/ˈfeɪməs/"
+  },
+  {
+    "chinese": "塔(tower)",
+    "english": "tower",
+    "soundmark": "/ˈtaʊər/"
+  },
+  {
+    "chinese": "议会(parliament)",
+    "english": "parliament",
+    "soundmark": "/ˈpɑːrləmənt/"
+  },
+  {
+    "chinese": "准确的(accurate)",
+    "english": "accurate",
+    "soundmark": "/ˈækjərət/"
+  },
+  {
+    "chinese": "巨大的(huge)",
+    "english": "huge",
+    "soundmark": "/hjuːdʒ/"
+  },
+  {
+    "chinese": "报时(chime)",
+    "english": "chime",
+    "soundmark": "/tʃaɪm/"
+  },
+  {
+    "chinese": "看……(look at)",
+    "english": "look at",
+    "soundmark": "/lʊk æt/"
+  },
+  {
+    "chinese": "听……(listen to)",
+    "english": "listen to",
+    "soundmark": "/ˈlɪsən tuː/"
+  },
+  {
+    "chinese": "等……(wait for)",
+    "english": "wait for",
+    "soundmark": "/weɪt fɔːr/"
+  },
+  {
+    "chinese": "同意……(agree with)",
+    "english": "agree with",
+    "soundmark": "/əˈɡriː wɪð/"
+  },
+  {
+    "chinese": "取决于……(depend on)",
+    "english": "depend on",
+    "soundmark": "/dɪˈpend ɒn/"
+  },
+  {
+    "chinese": "属于……(belong to)",
+    "english": "belong to",
+    "soundmark": "/bɪˈlɒŋ tuː/"
+  },
+  {
+    "chinese": "谈论……(talk about)",
+    "english": "talk about",
+    "soundmark": "/tɔːk əˈbaʊt/"
+  },
+  {
+    "chinese": "想起……(think of)",
+    "english": "think of",
+    "soundmark": "/θɪŋk əv/"
+  },
+  {
+    "chinese": "到达小地方(arrive at)",
+    "english": "arrive at",
+    "soundmark": "/əˈraɪv æt/"
+  },
+  {
+    "chinese": "到达大地方(arrive in)",
+    "english": "arrive in",
+    "soundmark": "/əˈraɪv ɪn/"
+  },
+  {
+    "chinese": "大本钟",
+    "english": "Big Ben",
+    "soundmark": "/bɪɡ ben/"
+  },
+  {
+    "chinese": "我正在看那座钟",
+    "english": "I am looking at the clock",
+    "soundmark": "/aɪ æm ˈlʊkɪŋ æt ðə klɒk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "looking",
+        "role": "V",
+        "phonetic": "/ˈlʊkɪŋ/",
+        "chinese": "看的/看起来"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "O",
+        "phonetic": "/klɒk/",
+        "chinese": "钟"
+      }
+    ]
+  },
+  {
+    "chinese": "请仔细听导游讲解",
+    "english": "Please listen to the guide carefully",
+    "soundmark": "/pliːz ˈlɪsən tuː ðə ɡaɪd ˈkerfəli/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "listen",
+        "role": "V",
+        "phonetic": "/ˈlɪsən/",
+        "chinese": "听"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "guide",
+        "role": "O",
+        "phonetic": "/ɡaɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "carefully",
+        "role": "A",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      }
+    ]
+  },
+  {
+    "chinese": "我在等我的朋友",
+    "english": "I am waiting for my friend",
+    "soundmark": "/aɪ æm ˈweɪtɪŋ fɔːr maɪ frend/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "friend",
+        "role": "O",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "我完全同意你",
+    "english": "I totally agree with you",
+    "soundmark": "/aɪ ˈtoʊtəli əˈɡriː wɪð juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "totally",
+        "role": "A",
+        "phonetic": "/ˈtoʊtəli/",
+        "chinese": ""
+      },
+      {
+        "text": "agree",
+        "role": "V",
+        "phonetic": "/əˈɡriː/",
+        "chinese": "同意"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "成功取决于努力",
+    "english": "Success depends on hard work",
+    "soundmark": "/səkˈses dɪˈpendz ɒn hɑːrd wɜːrk/",
+    "grammar": [
+      {
+        "text": "Success",
+        "role": "S",
+        "phonetic": "/səkˈses/",
+        "chinese": "成功"
+      },
+      {
+        "text": "depends",
+        "role": "V",
+        "phonetic": "/dɪˈpendz/",
+        "chinese": "依赖"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "hard",
+        "role": "C",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      },
+      {
+        "text": "work",
+        "role": "A",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "这本书属于我妹妹",
+    "english": "This book belongs to my sister",
+    "soundmark": "/ðɪs bʊk bɪˈlɒŋz tuː maɪ ˈsɪstər/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "belongs",
+        "role": "V",
+        "phonetic": "/bɪˈlɒŋz/",
+        "chinese": "属于"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "sister",
+        "role": "O",
+        "phonetic": "/ˈsɪstər/",
+        "chinese": "姐妹"
+      }
+    ]
+  },
+  {
+    "chinese": "他们在讨论新项目",
+    "english": "They are talking about the new project",
+    "soundmark": "/ðeɪ ɑːr ˈtɔːkɪŋ əˈbaʊt ðə nuː ˈprɒdʒekt/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "talking",
+        "role": "V",
+        "phonetic": "/ˈtɔːkɪŋ/",
+        "chinese": "说话的"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "project",
+        "role": "A",
+        "phonetic": "/ˈprɒdʒekt/",
+        "chinese": "项目"
+      }
+    ]
+  },
+  {
+    "chinese": "你觉得这个主意怎么样",
+    "english": "What do you think of this idea",
+    "soundmark": "/wɒt duː juː θɪŋk əv ðɪs aɪˈdɪə/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "idea",
+        "role": "A",
+        "phonetic": "/aɪˈdɪə/",
+        "chinese": "想法"
+      }
+    ]
+  },
+  {
+    "chinese": "我们准时到达了车站",
+    "english": "We arrived at the station on time",
+    "soundmark": "/wiː əˈraɪvd æt ðə ˈsteɪʃən ɒn taɪm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "station",
+        "role": "A",
+        "phonetic": "/ˈsteɪʃən/",
+        "chinese": "车站"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "他们昨天到达了伦敦",
+    "english": "They arrived in London yesterday",
+    "soundmark": "/ðeɪ əˈraɪvd ɪn ˈlʌndən ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "London",
+        "role": "A",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "钟(clock)",
+    "english": "clock",
+    "soundmark": "/klɒk/"
+  },
+  {
+    "chinese": "著名的(famous)",
+    "english": "famous",
+    "soundmark": "/ˈfeɪməs/"
+  },
+  {
+    "chinese": "看(look at)",
+    "english": "look at",
+    "soundmark": "/lʊk æt/"
+  },
+  {
+    "chinese": "听(listen to)",
+    "english": "listen to",
+    "soundmark": "/ˈlɪsən tuː/"
+  },
+  {
+    "chinese": "等(wait for)",
+    "english": "wait for",
+    "soundmark": "/weɪt fɔːr/"
+  },
+  {
+    "chinese": "同意(agree with)",
+    "english": "agree with",
+    "soundmark": "/əˈɡriː wɪð/"
+  },
+  {
+    "chinese": "取决于(depend on)",
+    "english": "depend on",
+    "soundmark": "/dɪˈpend ɒn/"
+  },
+  {
+    "chinese": "属于(belong to)",
+    "english": "belong to",
+    "soundmark": "/bɪˈlɒŋ tuː/"
+  },
+  {
+    "chinese": "到达(arrive at/in)",
+    "english": "arrive at",
+    "soundmark": "/əˈraɪv æt/"
+  }
+]

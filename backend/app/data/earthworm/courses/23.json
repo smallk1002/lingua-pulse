@@ -1,0 +1,1165 @@
+[
+  {
+    "chinese": "高",
+    "english": "tall",
+    "soundmark": "/tɔːl/"
+  },
+  {
+    "chinese": "更高",
+    "english": "taller",
+    "soundmark": "/ˈtɔːlər/"
+  },
+  {
+    "chinese": "大",
+    "english": "big",
+    "soundmark": "/bɪɡ/"
+  },
+  {
+    "chinese": "更大",
+    "english": "bigger",
+    "soundmark": "/ˈbɪɡər/"
+  },
+  {
+    "chinese": "快",
+    "english": "fast",
+    "soundmark": "/fæst/"
+  },
+  {
+    "chinese": "更快",
+    "english": "faster",
+    "soundmark": "/ˈfæstər/"
+  },
+  {
+    "chinese": "小",
+    "english": "small",
+    "soundmark": "/smɔːl/"
+  },
+  {
+    "chinese": "更小",
+    "english": "smaller",
+    "soundmark": "/ˈsmɔːlər/"
+  },
+  {
+    "chinese": "贵",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "更贵",
+    "english": "more expensive",
+    "soundmark": "/mɔːr ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "漂亮",
+    "english": "beautiful",
+    "soundmark": "/ˈbjuːtɪfl/"
+  },
+  {
+    "chinese": "更漂亮",
+    "english": "more beautiful",
+    "soundmark": "/mɔːr ˈbjuːtɪfl/"
+  },
+  {
+    "chinese": "好",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "chinese": "更好",
+    "english": "better",
+    "soundmark": "/ˈbetər/"
+  },
+  {
+    "chinese": "比",
+    "english": "than",
+    "soundmark": "/ðæn/"
+  },
+  {
+    "chinese": "比我高",
+    "english": "taller than me",
+    "soundmark": "/ˈtɔːlər ðæn miː/"
+  },
+  {
+    "chinese": "比那本书大",
+    "english": "bigger than that book",
+    "soundmark": "/ˈbɪɡər ðæn ðæt bʊk/"
+  },
+  {
+    "chinese": "比汽车快",
+    "english": "faster than a car",
+    "soundmark": "/ˈfæstər ðæn ə kɑːr/"
+  },
+  {
+    "chinese": "比他更漂亮",
+    "english": "more beautiful than him",
+    "soundmark": "/mɔːr ˈbjuːtɪfl ðæn hɪm/"
+  },
+  {
+    "chinese": "他比我高。",
+    "english": "He is taller than me",
+    "soundmark": "/hiː ɪz ˈtɔːlər ðæn miː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "taller",
+        "role": "C",
+        "phonetic": "/ˈtɔːlər/",
+        "chinese": "更高的"
+      },
+      {
+        "text": "than me",
+        "role": "A",
+        "phonetic": "/ðæn miː/",
+        "chinese": "比我"
+      }
+    ]
+  },
+  {
+    "chinese": "这本书比那本大。",
+    "english": "This book is bigger than that one",
+    "soundmark": "/ðɪs bʊk ɪz ˈbɪɡər ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This book",
+        "role": "S",
+        "phonetic": "/ðɪs bʊk/",
+        "chinese": "这个/预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "bigger",
+        "role": "C",
+        "phonetic": "/ˈbɪɡər/",
+        "chinese": "更大的"
+      },
+      {
+        "text": "than that one",
+        "role": "A",
+        "phonetic": "/ðæn ðæt wʌn/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "她比我更漂亮。",
+    "english": "She is more beautiful than me",
+    "soundmark": "/ʃiː ɪz mɔːr ˈbjuːtɪfl ðæn miː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more beautiful",
+        "role": "C",
+        "phonetic": "/mɔːr ˈbjuːtɪfl/",
+        "chinese": "更多/美丽的"
+      },
+      {
+        "text": "than me",
+        "role": "A",
+        "phonetic": "/ðæn miː/",
+        "chinese": "比我"
+      }
+    ]
+  },
+  {
+    "chinese": "这辆车比那辆贵。",
+    "english": "This car is more expensive than that one",
+    "soundmark": "/ðɪs kɑːr ɪz mɔːr ɪkˈspensɪv ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This car",
+        "role": "S",
+        "phonetic": "/ðɪs kɑːr/",
+        "chinese": "这个/汽车"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more expensive",
+        "role": "C",
+        "phonetic": "/mɔːr ɪkˈspensɪv/",
+        "chinese": "更贵的"
+      },
+      {
+        "text": "than that one",
+        "role": "A",
+        "phonetic": "/ðæn ðæt wʌn/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我的房间比你的小。",
+    "english": "My room is smaller than yours",
+    "soundmark": "/maɪ ruːm ɪz ˈsmɔːlər ðæn jɔːrz/",
+    "grammar": [
+      {
+        "text": "My room",
+        "role": "S",
+        "phonetic": "/maɪ ruːm/",
+        "chinese": "我的/房间"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "smaller",
+        "role": "C",
+        "phonetic": "/ˈsmɔːlər/",
+        "chinese": "更…的/…者(小的)"
+      },
+      {
+        "text": "than yours",
+        "role": "A",
+        "phonetic": "/ðæn jɔːrz/",
+        "chinese": "比你的"
+      }
+    ]
+  },
+  {
+    "chinese": "你觉得这个更好吗？",
+    "english": "Do you think this one is better",
+    "soundmark": "/duː juː θɪŋk ðɪs wʌn ɪz ˈbetər/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "this one is better",
+        "role": "O",
+        "phonetic": "/ðɪs wʌn ɪz ˈbetər/",
+        "chinese": "这个/一个/是/更好"
+      }
+    ]
+  },
+  {
+    "chinese": "英语比数学容易吗？",
+    "english": "Is English easier than math",
+    "soundmark": "/ɪz ˈɪŋɡlɪʃ ˈiːziər ðæn mæθ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "English",
+        "role": "S",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "easier",
+        "role": "C",
+        "phonetic": "/ˈiːziər/",
+        "chinese": ""
+      },
+      {
+        "text": "than math",
+        "role": "A",
+        "phonetic": "/ðæn mæθ/",
+        "chinese": "比"
+      }
+    ]
+  },
+  {
+    "chinese": "他没有他哥哥高。",
+    "english": "He is not taller than his brother",
+    "soundmark": "/hiː ɪz nɑːt ˈtɔːlər ðæn hɪz ˈbrʌðər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "taller",
+        "role": "C",
+        "phonetic": "/ˈtɔːlər/",
+        "chinese": "更高的"
+      },
+      {
+        "text": "than his brother",
+        "role": "A",
+        "phonetic": "/ðæn hɪz ˈbrʌðər/",
+        "chinese": "比/他的/兄弟"
+      }
+    ]
+  },
+  {
+    "chinese": "今天比昨天冷。",
+    "english": "Today is colder than yesterday",
+    "soundmark": "/təˈdeɪ ɪz ˈkoʊldər ðæn ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Today",
+        "role": "S",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "colder",
+        "role": "C",
+        "phonetic": "/ˈkoʊldər/",
+        "chinese": "更…的/…者(冷的)"
+      },
+      {
+        "text": "than yesterday",
+        "role": "A",
+        "phonetic": "/ðæn ˈjestərdeɪ/",
+        "chinese": "比/昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "夏天比冬天热。",
+    "english": "Summer is hotter than winter",
+    "soundmark": "/ˈsʌmər ɪz ˈhɑːtər ðæn ˈwɪntər/",
+    "grammar": [
+      {
+        "text": "Summer",
+        "role": "S",
+        "phonetic": "/ˈsʌmər/",
+        "chinese": "夏天"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "hotter",
+        "role": "C",
+        "phonetic": "/ˈhɑːtər/",
+        "chinese": "更…的/…者(热的)"
+      },
+      {
+        "text": "than winter",
+        "role": "A",
+        "phonetic": "/ðæn ˈwɪntər/",
+        "chinese": "比/冬天"
+      }
+    ]
+  },
+  {
+    "chinese": "她跑得比我快。",
+    "english": "She runs faster than me",
+    "soundmark": "/ʃiː rʌnz ˈfæstər ðæn miː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "runs",
+        "role": "V",
+        "phonetic": "/rʌnz/",
+        "chinese": "跑"
+      },
+      {
+        "text": "faster",
+        "role": "A",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      },
+      {
+        "text": "than me",
+        "role": "A",
+        "phonetic": "/ðæn miː/",
+        "chinese": "比我"
+      }
+    ]
+  },
+  {
+    "chinese": "这个比那个有趣多了。",
+    "english": "This is much more interesting than that",
+    "soundmark": "/ðɪs ɪz mʌtʃ mɔːr ˈɪntrəstɪŋ ðæn ðæt/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "much more interesting",
+        "role": "C",
+        "phonetic": "/mʌtʃ mɔːr ˈɪntrəstɪŋ/",
+        "chinese": "很多/更多/有趣的"
+      },
+      {
+        "text": "than that",
+        "role": "A",
+        "phonetic": "/ðæn ðæt/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我的苹果比你的大。",
+    "english": "My apple is bigger than yours",
+    "soundmark": "/maɪ ˈæpl ɪz ˈbɪɡər ðæn jɔːrz/",
+    "grammar": [
+      {
+        "text": "My apple",
+        "role": "S",
+        "phonetic": "/maɪ ˈæpl/",
+        "chinese": "我的/苹果"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "bigger",
+        "role": "C",
+        "phonetic": "/ˈbɪɡər/",
+        "chinese": "更大的"
+      },
+      {
+        "text": "than yours",
+        "role": "A",
+        "phonetic": "/ðæn jɔːrz/",
+        "chinese": "比你的"
+      }
+    ]
+  },
+  {
+    "chinese": "你比我更努力。",
+    "english": "You work harder than me",
+    "soundmark": "/juː wɜːrk ˈhɑːrdər ðæn miː/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "harder",
+        "role": "A",
+        "phonetic": "/ˈhɑːrdər/",
+        "chinese": "更…的/…者(硬的/难的)"
+      },
+      {
+        "text": "than me",
+        "role": "A",
+        "phonetic": "/ðæn miː/",
+        "chinese": "比我"
+      }
+    ]
+  },
+  {
+    "chinese": "中国的面积比日本大。",
+    "english": "China is bigger than Japan",
+    "soundmark": "/ˈtʃaɪnə ɪz ˈbɪɡər ðæn dʒəˈpæn/",
+    "grammar": [
+      {
+        "text": "China",
+        "role": "S",
+        "phonetic": "/ˈtʃaɪnə/",
+        "chinese": "中国"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "bigger",
+        "role": "C",
+        "phonetic": "/ˈbɪɡər/",
+        "chinese": "更大的"
+      },
+      {
+        "text": "than Japan",
+        "role": "A",
+        "phonetic": "/ðæn dʒəˈpæn/",
+        "chinese": "比/日本"
+      }
+    ]
+  },
+  {
+    "chinese": "健康比财富更重要。",
+    "english": "Health is more important than wealth",
+    "soundmark": "/helθ ɪz mɔːr ɪmˈpɔːrtnt ðæn welθ/",
+    "grammar": [
+      {
+        "text": "Health",
+        "role": "S",
+        "phonetic": "/helθ/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more important",
+        "role": "C",
+        "phonetic": "/mɔːr ɪmˈpɔːrtnt/",
+        "chinese": "更多/重要的"
+      },
+      {
+        "text": "than wealth",
+        "role": "A",
+        "phonetic": "/ðæn welθ/",
+        "chinese": "比/财富"
+      }
+    ]
+  },
+  {
+    "chinese": "你比她更了解我。",
+    "english": "You know me better than she does",
+    "soundmark": "/juː noʊ miː ˈbetər ðæn ʃiː dʌz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "better",
+        "role": "A",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      },
+      {
+        "text": "than she does",
+        "role": "A",
+        "phonetic": "/ðæn ʃiː dʌz/",
+        "chinese": "比/她/做/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "这座山比那座高得多。",
+    "english": "This mountain is much taller than that one",
+    "soundmark": "/ðɪs ˈmaʊntn ɪz mʌtʃ ˈtɔːlər ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This mountain",
+        "role": "S",
+        "phonetic": "/ðɪs ˈmaʊntn/",
+        "chinese": "这个/山"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "much taller",
+        "role": "C",
+        "phonetic": "/mʌtʃ ˈtɔːlər/",
+        "chinese": "很多/更高的"
+      },
+      {
+        "text": "than that one",
+        "role": "A",
+        "phonetic": "/ðæn ðæt wʌn/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我比你更擅长游泳。",
+    "english": "I am better at swimming than you",
+    "soundmark": "/aɪ æm ˈbetər æt ˈswɪmɪŋ ðæn juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "better",
+        "role": "C",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      },
+      {
+        "text": "at swimming",
+        "role": "A",
+        "phonetic": "/æt ˈswɪmɪŋ/",
+        "chinese": "在/正在…(游泳)"
+      },
+      {
+        "text": "than you",
+        "role": "A",
+        "phonetic": "/ðæn juː/",
+        "chinese": "比你"
+      }
+    ]
+  },
+  {
+    "chinese": "她比她姐姐瘦。",
+    "english": "She is thinner than her sister",
+    "soundmark": "/ʃiː ɪz ˈθɪnər ðæn hɜːr ˈsɪstər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "thinner",
+        "role": "C",
+        "phonetic": "/ˈθɪnər/",
+        "chinese": "更…的/…者(薄的/瘦的)"
+      },
+      {
+        "text": "than her sister",
+        "role": "A",
+        "phonetic": "/ðæn hɜːr ˈsɪstər/",
+        "chinese": "比/她/她的/姐妹"
+      }
+    ]
+  },
+  {
+    "chinese": "这咖啡比茶好喝多了。",
+    "english": "This coffee is much better than tea",
+    "soundmark": "/ðɪs ˈkɑːfi ɪz mʌtʃ ˈbetər ðæn tiː/",
+    "grammar": [
+      {
+        "text": "This coffee",
+        "role": "S",
+        "phonetic": "/ðɪs ˈkɑːfi/",
+        "chinese": "这个/咖啡"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "much better",
+        "role": "C",
+        "phonetic": "/mʌtʃ ˈbetər/",
+        "chinese": "好多了"
+      },
+      {
+        "text": "than tea",
+        "role": "A",
+        "phonetic": "/ðæn tiː/",
+        "chinese": "比/茶"
+      }
+    ]
+  },
+  {
+    "chinese": "她比我赚更多钱。",
+    "english": "She makes more money than me",
+    "soundmark": "/ʃiː meɪks mɔːr ˈmʌni ðæn miː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "makes",
+        "role": "V",
+        "phonetic": "/meɪks/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "more money",
+        "role": "O",
+        "phonetic": "/mɔːr ˈmʌni/",
+        "chinese": "更多/钱"
+      },
+      {
+        "text": "than me",
+        "role": "A",
+        "phonetic": "/ðæn miː/",
+        "chinese": "比我"
+      }
+    ]
+  },
+  {
+    "chinese": "他变得越来越高。",
+    "english": "He is getting taller and taller",
+    "soundmark": "/hiː ɪz ˈɡetɪŋ ˈtɔːlər ænd ˈtɔːlər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is getting",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡetɪŋ/",
+        "chinese": "是/正在…(得到/变得)"
+      },
+      {
+        "text": "taller and taller",
+        "role": "C",
+        "phonetic": "/ˈtɔːlər ænd ˈtɔːlər/",
+        "chinese": "更高的/和/更高的"
+      }
+    ]
+  },
+  {
+    "chinese": "越快越好。",
+    "english": "The faster the better",
+    "soundmark": "/ðə ˈfæstər ðə ˈbetər/",
+    "grammar": [
+      {
+        "text": "The faster",
+        "role": "S",
+        "phonetic": "/ðə ˈfæstər/",
+        "chinese": "这个/那个/更快地"
+      },
+      {
+        "text": "the better",
+        "role": "C",
+        "phonetic": "/ðə ˈbetər/",
+        "chinese": "这个/那个/更好"
+      }
+    ]
+  },
+  {
+    "chinese": "你读得越多，懂得就越多。",
+    "english": "The more you read the more you know",
+    "soundmark": "/ðə mɔːr juː riːd ðə mɔːr juː noʊ/",
+    "grammar": [
+      {
+        "text": "The more",
+        "role": "A",
+        "phonetic": "/ðə mɔːr/",
+        "chinese": "这个/那个/更多"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/riːd/",
+        "chinese": "读"
+      },
+      {
+        "text": "the more",
+        "role": "A",
+        "phonetic": "/ðə mɔːr/",
+        "chinese": "这个/那个/更多"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      }
+    ]
+  },
+  {
+    "chinese": "我的房子比你的大两倍。",
+    "english": "My house is twice bigger than yours",
+    "soundmark": "/maɪ haʊs ɪz twaɪs ˈbɪɡər ðæn jɔːrz/",
+    "grammar": [
+      {
+        "text": "My house",
+        "role": "S",
+        "phonetic": "/maɪ haʊs/",
+        "chinese": "我的/房子"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "twice bigger",
+        "role": "C",
+        "phonetic": "/twaɪs ˈbɪɡər/",
+        "chinese": "更大的"
+      },
+      {
+        "text": "than yours",
+        "role": "A",
+        "phonetic": "/ðæn jɔːrz/",
+        "chinese": "比你的"
+      }
+    ]
+  },
+  {
+    "chinese": "这部电影没那部好。",
+    "english": "This movie is not as good as that one",
+    "soundmark": "/ðɪs ˈmuːvi ɪz nɑːt æz ɡʊd æz ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This movie",
+        "role": "S",
+        "phonetic": "/ðɪs ˈmuːvi/",
+        "chinese": "这个/电影"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not as good as",
+        "role": "C",
+        "phonetic": "/nɑːt æz ɡʊd æz/",
+        "chinese": "不/当…时/作为/因为/好的/当…时/作为/因为"
+      },
+      {
+        "text": "that one",
+        "role": "A",
+        "phonetic": "/ðæt wʌn/",
+        "chinese": "那个/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "她和她妈妈一样漂亮。",
+    "english": "She is as beautiful as her mother",
+    "soundmark": "/ʃiː ɪz æz ˈbjuːtɪfl æz hɜːr ˈmʌðər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "as beautiful as",
+        "role": "C",
+        "phonetic": "/æz ˈbjuːtɪfl æz/",
+        "chinese": "当…时/作为/因为/美丽的/当…时/作为/因为"
+      },
+      {
+        "text": "her mother",
+        "role": "A",
+        "phonetic": "/hɜːr ˈmʌðər/",
+        "chinese": "她/她的/母亲"
+      }
+    ]
+  },
+  {
+    "chinese": "你和她一样高吗？",
+    "english": "Are you as tall as her",
+    "soundmark": "/ɑːr juː æz tɔːl æz hɜːr/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "as tall as",
+        "role": "C",
+        "phonetic": "/æz tɔːl æz/",
+        "chinese": "当…时/作为/因为/高的/当…时/作为/因为"
+      },
+      {
+        "text": "her",
+        "role": "A",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      }
+    ]
+  },
+  {
+    "chinese": "我比你更有经验。",
+    "english": "I am more experienced than you",
+    "soundmark": "/aɪ æm mɔːr ɪkˈspɪriənst ðæn juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "more experienced",
+        "role": "C",
+        "phonetic": "/mɔːr ɪkˈspɪriənst/",
+        "chinese": "更多/经历/经验"
+      },
+      {
+        "text": "than you",
+        "role": "A",
+        "phonetic": "/ðæn juː/",
+        "chinese": "比你"
+      }
+    ]
+  },
+  {
+    "chinese": "哪个城市更大，北京还是上海？",
+    "english": "Which city is bigger Beijing or Shanghai",
+    "soundmark": "/wɪtʃ ˈsɪti ɪz ˈbɪɡər beɪˈdʒɪŋ ɔːr ʃæŋˈhaɪ/",
+    "grammar": [
+      {
+        "text": "Which city",
+        "role": "S",
+        "phonetic": "/wɪtʃ ˈsɪti/",
+        "chinese": "哪个/城市"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "bigger",
+        "role": "C",
+        "phonetic": "/ˈbɪɡər/",
+        "chinese": "更大的"
+      },
+      {
+        "text": "Beijing or Shanghai",
+        "role": "A",
+        "phonetic": "/beɪˈdʒɪŋ ɔːr ʃæŋˈhaɪ/",
+        "chinese": "北京/或者"
+      }
+    ]
+  },
+  {
+    "chinese": "我觉得走路比开车更健康。",
+    "english": "I think walking is healthier than driving",
+    "soundmark": "/aɪ θɪŋk ˈwɔːkɪŋ ɪz ˈhelθiər ðæn ˈdraɪvɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "walking is healthier than driving",
+        "role": "O",
+        "phonetic": "/ˈwɔːkɪŋ ɪz ˈhelθiər ðæn ˈdraɪvɪŋ/",
+        "chinese": "走/是/比/正在…(驾驶)"
+      }
+    ]
+  },
+  {
+    "chinese": "情况变得越来越糟。",
+    "english": "Things are getting worse and worse",
+    "soundmark": "/θɪŋz ɑːr ˈɡetɪŋ wɜːrs ænd wɜːrs/",
+    "grammar": [
+      {
+        "text": "Things",
+        "role": "S",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      },
+      {
+        "text": "are getting",
+        "role": "V",
+        "phonetic": "/ɑːr ˈɡetɪŋ/",
+        "chinese": "是/正在…(得到/变得)"
+      },
+      {
+        "text": "worse and worse",
+        "role": "C",
+        "phonetic": "/wɜːrs ænd wɜːrs/",
+        "chinese": "更糟/和/更糟"
+      }
+    ]
+  },
+  {
+    "chinese": "温暖",
+    "english": "warm",
+    "soundmark": "/wɔːrm/"
+  },
+  {
+    "chinese": "冷",
+    "english": "cold",
+    "soundmark": "/koʊld/"
+  },
+  {
+    "chinese": "容易",
+    "english": "easy",
+    "soundmark": "/ˈiːzi/"
+  },
+  {
+    "chinese": "困难",
+    "english": "difficult",
+    "soundmark": "/ˈdɪfɪkəlt/"
+  },
+  {
+    "chinese": "健康",
+    "english": "health",
+    "soundmark": "/helθ/"
+  },
+  {
+    "chinese": "重要",
+    "english": "important",
+    "soundmark": "/ɪmˈpɔːrtnt/"
+  },
+  {
+    "chinese": "有趣",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "夏天",
+    "english": "summer",
+    "soundmark": "/ˈsʌmər/"
+  },
+  {
+    "chinese": "冬天",
+    "english": "winter",
+    "soundmark": "/ˈwɪntər/"
+  }
+]

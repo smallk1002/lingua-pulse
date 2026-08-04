@@ -1,0 +1,620 @@
+[
+  {
+    "chinese": "停车",
+    "english": "parking",
+    "soundmark": "/ˈpɑːrkɪŋ/"
+  },
+  {
+    "chinese": "禁止",
+    "english": "no",
+    "soundmark": "/noʊ/"
+  },
+  {
+    "chinese": "标志",
+    "english": "sign",
+    "soundmark": "/saɪn/"
+  },
+  {
+    "chinese": "私人",
+    "english": "private",
+    "soundmark": "/ˈpraɪvɪt/"
+  },
+  {
+    "chinese": "车道",
+    "english": "driveway",
+    "soundmark": "/ˈdraɪvweɪ/"
+  },
+  {
+    "chinese": "邻居",
+    "english": "neighbour",
+    "soundmark": "/ˈneɪbər/"
+  },
+  {
+    "chinese": "讨厌",
+    "english": "hate",
+    "soundmark": "/heɪt/"
+  },
+  {
+    "chinese": "应该",
+    "english": "should",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "chinese": "已经",
+    "english": "have/has",
+    "soundmark": "/hæv/"
+  },
+  {
+    "chinese": "允许",
+    "english": "allow",
+    "soundmark": "/əˈlaʊ/"
+  },
+  {
+    "chinese": "讨厌的人",
+    "english": "nuisance",
+    "soundmark": "/ˈnuːsəns/"
+  },
+  {
+    "chinese": "树",
+    "english": "tree",
+    "soundmark": "/triː/"
+  },
+  {
+    "chinese": "院子",
+    "english": "yard",
+    "soundmark": "/jɑːrd/"
+  },
+  {
+    "chinese": "入口",
+    "english": "entrance",
+    "soundmark": "/ˈentrəns/"
+  },
+  {
+    "chinese": "禁止停车",
+    "english": "No parking",
+    "soundmark": "/noʊ/ /ˈpɑːrkɪŋ/"
+  },
+  {
+    "chinese": "那个人不应该把车停在我的车道上",
+    "english": "That man should not park in my driveway",
+    "soundmark": "/ðæt/ /mæn/ /ʃʊd/ /nɑːt/ /pɑːrk/ /ɪn/ /maɪ/ /ˈdraɪvweɪ/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "park",
+        "role": "V",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "driveway",
+        "role": "O",
+        "phonetic": "/ˈdraɪvweɪ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他已经在我的车道上停了一整天了",
+    "english": "He has parked in my driveway all day",
+    "soundmark": "/hiː/ /hæz/ /pɑːrkt/ /ɪn/ /maɪ/ /ˈdraɪvweɪ/ /ɔːl/ /deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "parked",
+        "role": "V",
+        "phonetic": "/pɑːrkt/",
+        "chinese": "公园"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "driveway",
+        "role": "O",
+        "phonetic": "/ˈdraɪvweɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "我已经在门口放了禁止停车的标志",
+    "english": "I have put a no parking sign at the entrance",
+    "soundmark": "/aɪ/ /hæv/ /pʊt/ /ə/ /noʊ/ /ˈpɑːrkɪŋ/ /saɪn/ /æt/ /ði/ /ˈentrəns/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "no",
+        "role": "A",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "parking",
+        "role": "A",
+        "phonetic": "/ˈpɑːrkɪŋ/",
+        "chinese": "公园"
+      },
+      {
+        "text": "sign",
+        "role": "O",
+        "phonetic": "/saɪn/",
+        "chinese": "签名"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "entrance",
+        "role": "O",
+        "phonetic": "/ˈentrəns/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他本不应该这样做",
+    "english": "He should not have done this",
+    "soundmark": "/hiː/ /ʃʊd/ /nɑːt/ /hæv/ /dʌn/ /ðɪs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "done",
+        "role": "V",
+        "phonetic": "/dʌn/",
+        "chinese": "做好的"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "那个邻居应该感到羞耻",
+    "english": "That neighbour should be ashamed",
+    "soundmark": "/ðæt/ /ˈneɪbər/ /ʃʊd/ /biː/ /əˈʃeɪmd/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "neighbour",
+        "role": "S",
+        "phonetic": "/ˈneɪbər/",
+        "chinese": ""
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "ashamed",
+        "role": "C",
+        "phonetic": "/əˈʃeɪmd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他应该已经被罚款了",
+    "english": "He should have been fined",
+    "soundmark": "/hiː/ /ʃʊd/ /hæv/ /biːn/ /faɪnd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "fined",
+        "role": "C",
+        "phonetic": "/faɪnd/",
+        "chinese": "好的/晴朗的"
+      }
+    ]
+  },
+  {
+    "chinese": "我不得不把那棵树移走",
+    "english": "I had to move that tree",
+    "soundmark": "/aɪ/ /hæd/ /tuː/ /muːv/ /ðæt/ /triː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "move",
+        "role": "V",
+        "phonetic": "/muːv/",
+        "chinese": "移动"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "tree",
+        "role": "O",
+        "phonetic": "/triː/",
+        "chinese": "树"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该已经看过那个标志了",
+    "english": "You should have seen the sign",
+    "soundmark": "/juː/ /ʃʊd/ /hæv/ /siːn/ /ðə/ /saɪn/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sign",
+        "role": "O",
+        "phonetic": "/saɪn/",
+        "chinese": "签名"
+      }
+    ]
+  },
+  {
+    "chinese": "这是你的私人车道",
+    "english": "This is your private driveway",
+    "soundmark": "/ðɪs/ /ɪz/ /jɔːr/ /ˈpraɪvɪt/ /ˈdraɪvweɪ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "private",
+        "role": "A",
+        "phonetic": "/ˈpraɪvɪt/",
+        "chinese": "私人的"
+      },
+      {
+        "text": "driveway",
+        "role": "C",
+        "phonetic": "/ˈdraɪvweɪ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那个讨厌的人又来了",
+    "english": "That nuisance has come again",
+    "soundmark": "/ðæt/ /ˈnuːsəns/ /hæz/ /kʌm/ /əˈɡen/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "nuisance",
+        "role": "S",
+        "phonetic": "/ˈnuːsəns/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "again",
+        "role": "Adv",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      }
+    ]
+  },
+  {
+    "chinese": "你不允许停在这里",
+    "english": "You are not allowed to park here",
+    "soundmark": "/juː/ /ɑːr/ /nɑːt/ /əˈlaʊd/ /tuː/ /pɑːrk/ /hɪr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "allowed",
+        "role": "V",
+        "phonetic": "/əˈlaʊd/",
+        "chinese": "允许"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "park",
+        "role": "V",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      },
+      {
+        "text": "here",
+        "role": "Adv",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "禁止停车",
+    "english": "no parking",
+    "soundmark": "/noʊ/ /ˈpɑːrkɪŋ/"
+  },
+  {
+    "chinese": "标志",
+    "english": "sign",
+    "soundmark": "/saɪn/"
+  },
+  {
+    "chinese": "车道",
+    "english": "driveway",
+    "soundmark": "/ˈdraɪvweɪ/"
+  },
+  {
+    "chinese": "讨厌的人",
+    "english": "nuisance",
+    "soundmark": "/ˈnuːsəns/"
+  },
+  {
+    "chinese": "罚款",
+    "english": "fine",
+    "soundmark": "/faɪn/"
+  },
+  {
+    "chinese": "允许",
+    "english": "allow",
+    "soundmark": "/əˈlaʊ/"
+  },
+  {
+    "chinese": "羞耻",
+    "english": "ashamed",
+    "soundmark": "/əˈʃeɪmd/"
+  },
+  {
+    "chinese": "入口",
+    "english": "entrance",
+    "soundmark": "/ˈentrəns/"
+  }
+]

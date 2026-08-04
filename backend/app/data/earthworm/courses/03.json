@@ -1,0 +1,1391 @@
+[
+  {
+    "chinese": "是",
+    "english": "yes",
+    "soundmark": "/jes/"
+  },
+  {
+    "chinese": "不",
+    "english": "no",
+    "soundmark": "/noʊ/"
+  },
+  {
+    "chinese": "不",
+    "english": "not",
+    "soundmark": "/nɑːt/"
+  },
+  {
+    "chinese": "它",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "chinese": "狗",
+    "english": "dog",
+    "soundmark": "/dɔːɡ/"
+  },
+  {
+    "chinese": "猫",
+    "english": "cat",
+    "soundmark": "/kæt/"
+  },
+  {
+    "chinese": "鸟",
+    "english": "bird",
+    "soundmark": "/bɜːrd/"
+  },
+  {
+    "chinese": "鱼",
+    "english": "fish",
+    "soundmark": "/fɪʃ/"
+  },
+  {
+    "chinese": "大",
+    "english": "big",
+    "soundmark": "/bɪɡ/"
+  },
+  {
+    "chinese": "小",
+    "english": "small",
+    "soundmark": "/smɔːl/"
+  },
+  {
+    "chinese": "长",
+    "english": "long",
+    "soundmark": "/lɔːŋ/"
+  },
+  {
+    "chinese": "短",
+    "english": "short",
+    "soundmark": "/ʃɔːrt/"
+  },
+  {
+    "chinese": "对",
+    "english": "right",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "chinese": "错",
+    "english": "wrong",
+    "soundmark": "/rɔːŋ/"
+  },
+  {
+    "chinese": "漂亮",
+    "english": "beautiful",
+    "soundmark": "/ˈbjuːtɪfəl/"
+  },
+  {
+    "chinese": "可爱的",
+    "english": "cute",
+    "soundmark": "/kjuːt/"
+  },
+  {
+    "chinese": "干净的",
+    "english": "clean",
+    "soundmark": "/kliːn/"
+  },
+  {
+    "chinese": "脏的",
+    "english": "dirty",
+    "soundmark": "/ˈdɜːrti/"
+  },
+  {
+    "chinese": "重的",
+    "english": "heavy",
+    "soundmark": "/ˈhevi/"
+  },
+  {
+    "chinese": "轻的",
+    "english": "light",
+    "soundmark": "/laɪt/"
+  },
+  {
+    "chinese": "它是一只狗",
+    "english": "It is a dog",
+    "soundmark": "/ɪt/ /ɪz/ /ə/ /dɔːɡ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "dog",
+        "role": "C",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      }
+    ]
+  },
+  {
+    "chinese": "它是一只猫",
+    "english": "It is a cat",
+    "soundmark": "/ɪt/ /ɪz/ /ə/ /kæt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cat",
+        "role": "C",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      }
+    ]
+  },
+  {
+    "chinese": "是的它是",
+    "english": "Yes it is",
+    "soundmark": "/jes/ /ɪt/ /ɪz/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      }
+    ]
+  },
+  {
+    "chinese": "不它不是",
+    "english": "No it is not",
+    "soundmark": "/noʊ/ /ɪt/ /ɪz/ /nɑːt/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      }
+    ]
+  },
+  {
+    "chinese": "它不是一只狗",
+    "english": "It is not a dog",
+    "soundmark": "/ɪt/ /ɪz/ /nɑːt/ /ə/ /dɔːɡ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "dog",
+        "role": "C",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      }
+    ]
+  },
+  {
+    "chinese": "它是一只鸟吗",
+    "english": "Is it a bird",
+    "soundmark": "/ɪz/ /ɪt/ /ə/ /bɜːrd/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bird",
+        "role": "C",
+        "phonetic": "/bɜːrd/",
+        "chinese": "鸟"
+      }
+    ]
+  },
+  {
+    "chinese": "是的它是一只鸟",
+    "english": "Yes it is a bird",
+    "soundmark": "/jes/ /ɪt/ /ɪz/ /ə/ /bɜːrd/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bird",
+        "role": "C",
+        "phonetic": "/bɜːrd/",
+        "chinese": "鸟"
+      }
+    ]
+  },
+  {
+    "chinese": "不它不是一只猫",
+    "english": "No it is not a cat",
+    "soundmark": "/noʊ/ /ɪt/ /ɪz/ /nɑːt/ /ə/ /kæt/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cat",
+        "role": "C",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      }
+    ]
+  },
+  {
+    "chinese": "它大吗是的它很大",
+    "english": "Is it big Yes it is big",
+    "soundmark": "/ɪz/ /ɪt/ /bɪɡ/ /jes/ /ɪt/ /ɪz/ /bɪɡ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      }
+    ]
+  },
+  {
+    "chinese": "这只猫很小",
+    "english": "The cat is small",
+    "soundmark": "/ðə/ /kæt/ /ɪz/ /smɔːl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "small",
+        "role": "C",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      }
+    ]
+  },
+  {
+    "chinese": "这条鱼很大",
+    "english": "The fish is big",
+    "soundmark": "/ðə/ /fɪʃ/ /ɪz/ /bɪɡ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fish",
+        "role": "S",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      }
+    ]
+  },
+  {
+    "chinese": "它干净吗不它很脏",
+    "english": "Is it clean No it is dirty",
+    "soundmark": "/ɪz/ /ɪt/ /kliːn/ /noʊ/ /ɪt/ /ɪz/ /ˈdɜːrti/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "clean",
+        "role": "C",
+        "phonetic": "/kliːn/",
+        "chinese": "清洁"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "dirty",
+        "role": "C",
+        "phonetic": "/ˈdɜːrti/",
+        "chinese": "脏的"
+      }
+    ]
+  },
+  {
+    "chinese": "它不对",
+    "english": "It is not right",
+    "soundmark": "/ɪt/ /ɪz/ /nɑːt/ /raɪt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "right",
+        "role": "C",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      }
+    ]
+  },
+  {
+    "chinese": "这是错的吗不这是对的",
+    "english": "Is this wrong No it is right",
+    "soundmark": "/ɪz/ /ðɪs/ /rɔːŋ/ /noʊ/ /ɪt/ /ɪz/ /raɪt/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "wrong",
+        "role": "C",
+        "phonetic": "/rɔːŋ/",
+        "chinese": "错的"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "right",
+        "role": "C",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      }
+    ]
+  },
+  {
+    "chinese": "它不重它很轻",
+    "english": "It is not heavy it is light",
+    "soundmark": "/ɪt/ /ɪz/ /nɑːt/ /ˈhevi/ /ɪt/ /ɪz/ /laɪt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "heavy",
+        "role": "C",
+        "phonetic": "/ˈhevi/",
+        "chinese": "重的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "light",
+        "role": "C",
+        "phonetic": "/laɪt/",
+        "chinese": "轻的/浅色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这只狗很可爱吗是的它很可爱",
+    "english": "Is the dog cute Yes it is cute",
+    "soundmark": "/ɪz/ /ðə/ /dɔːɡ/ /kjuːt/ /jes/ /ɪt/ /ɪz/ /kjuːt/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "cute",
+        "role": "C",
+        "phonetic": "/kjuːt/",
+        "chinese": ""
+      },
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "cute",
+        "role": "C",
+        "phonetic": "/kjuːt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这不是我的猫这是我的狗",
+    "english": "This is not my cat it is my dog",
+    "soundmark": "/ðɪs/ /ɪz/ /nɑːt/ /maɪ/ /kæt/ /ɪt/ /ɪz/ /maɪ/ /dɔːɡ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "cat",
+        "role": "C",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "dog",
+        "role": "C",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      }
+    ]
+  },
+  {
+    "chinese": "那是你的鱼吗不那不是我的",
+    "english": "Is that your fish No that is not mine",
+    "soundmark": "/ɪz/ /ðæt/ /jɔːr/ /fɪʃ/ /noʊ/ /ðæt/ /ɪz/ /nɑːt/ /maɪn/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "fish",
+        "role": "C",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "他的狗很大但很可爱",
+    "english": "His dog is big but it is cute",
+    "soundmark": "/hɪz/ /dɔːɡ/ /ɪz/ /bɪɡ/ /bʌt/ /ɪt/ /ɪz/ /kjuːt/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "cute",
+        "role": "C",
+        "phonetic": "/kjuːt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这是鸟吗不它不是它是一条鱼",
+    "english": "Is this a bird No it is not it is a fish",
+    "soundmark": "/ɪz/ /ðɪs/ /ə/ /bɜːrd/ /noʊ/ /ɪt/ /ɪz/ /nɑːt/ /ɪt/ /ɪz/ /ə/ /fɪʃ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bird",
+        "role": "C",
+        "phonetic": "/bɜːrd/",
+        "chinese": "鸟"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fish",
+        "role": "C",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "她的猫又小又漂亮",
+    "english": "Her cat is small and beautiful",
+    "soundmark": "/hɜːr/ /kæt/ /ɪz/ /smɔːl/ /ænd/ /ˈbjuːtɪfəl/",
+    "grammar": [
+      {
+        "text": "Her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "small",
+        "role": "C",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个箱子重吗不它不重",
+    "english": "Is this box heavy No it is not heavy",
+    "soundmark": "/ɪz/ /ðɪs/ /bɑːks/ /ˈhevi/ /noʊ/ /ɪt/ /ɪz/ /nɑːt/ /ˈhevi/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "box",
+        "role": "S",
+        "phonetic": "/bɑːks/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "heavy",
+        "role": "C",
+        "phonetic": "/ˈhevi/",
+        "chinese": "重的"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "heavy",
+        "role": "C",
+        "phonetic": "/ˈhevi/",
+        "chinese": "重的"
+      }
+    ]
+  },
+  {
+    "chinese": "它是一只漂亮的鸟吗是的它是",
+    "english": "Is it a beautiful bird Yes it is",
+    "soundmark": "/ɪz/ /ɪt/ /ə/ /ˈbjuːtɪfəl/ /bɜːrd/ /jes/ /ɪt/ /ɪz/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "bird",
+        "role": "C",
+        "phonetic": "/bɜːrd/",
+        "chinese": "鸟"
+      },
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      }
+    ]
+  },
+  {
+    "chinese": "这本书不长它很短",
+    "english": "This book is not long it is short",
+    "soundmark": "/ðɪs/ /bʊk/ /ɪz/ /nɑːt/ /lɔːŋ/ /ɪt/ /ɪz/ /ʃɔːrt/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "long",
+        "role": "C",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "short",
+        "role": "C",
+        "phonetic": "/ʃɔːrt/",
+        "chinese": "短的"
+      }
+    ]
+  },
+  {
+    "chinese": "它们是我的猫和我的狗",
+    "english": "They are my cat and my dog",
+    "soundmark": "/ðeɪ/ /ɑːr/ /maɪ/ /kæt/ /ænd/ /maɪ/ /dɔːɡ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "cat",
+        "role": "C",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "dog",
+        "role": "C",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      }
+    ]
+  },
+  {
+    "chinese": "这只猫不是白色的吗不它是白色的",
+    "english": "Is this cat not white No it is white",
+    "soundmark": "/ɪz/ /ðɪs/ /kæt/ /nɑːt/ /waɪt/ /noʊ/ /ɪt/ /ɪz/ /waɪt/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "white",
+        "role": "C",
+        "phonetic": "/waɪt/",
+        "chinese": "白色的"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "white",
+        "role": "C",
+        "phonetic": "/waɪt/",
+        "chinese": "白色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这些鱼很漂亮对不对",
+    "english": "These fish are beautiful are they not",
+    "soundmark": "/ðiːz/ /fɪʃ/ /ɑːr/ /ˈbjuːtɪfəl/ /ɑːr/ /ðeɪ/ /nɑːt/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "fish",
+        "role": "S",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      }
+    ]
+  },
+  {
+    "chinese": "是的",
+    "english": "Yes",
+    "soundmark": "/jes/"
+  },
+  {
+    "chinese": "但是",
+    "english": "but",
+    "soundmark": "/bʌt/"
+  },
+  {
+    "chinese": "和",
+    "english": "and",
+    "soundmark": "/ænd/"
+  },
+  {
+    "chinese": "或者",
+    "english": "or",
+    "soundmark": "/ɔːr/"
+  },
+  {
+    "chinese": "对的",
+    "english": "correct",
+    "soundmark": "/kəˈrekt/"
+  },
+  {
+    "chinese": "错的",
+    "english": "incorrect",
+    "soundmark": "/ˌɪnkəˈrekt/"
+  },
+  {
+    "chinese": "真的",
+    "english": "true",
+    "soundmark": "/truː/"
+  },
+  {
+    "chinese": "假的",
+    "english": "false",
+    "soundmark": "/fɔːls/"
+  },
+  {
+    "chinese": "可能",
+    "english": "maybe",
+    "soundmark": "/ˈmeɪbi/"
+  },
+  {
+    "chinese": "当然",
+    "english": "sure",
+    "soundmark": "/ʃʊr/"
+  }
+]

@@ -1,0 +1,471 @@
+[
+  {
+    "chinese": "超过",
+    "english": "over",
+    "soundmark": "/ˈəʊvə/"
+  },
+  {
+    "chinese": "岁",
+    "english": "year old",
+    "soundmark": "/jɪə/ /əʊld/"
+  },
+  {
+    "chinese": "年龄",
+    "english": "age",
+    "soundmark": "/eɪdʒ/"
+  },
+  {
+    "chinese": "老的",
+    "english": "old",
+    "soundmark": "/əʊld/"
+  },
+  {
+    "chinese": "年轻的",
+    "english": "young",
+    "soundmark": "/jʌŋ/"
+  },
+  {
+    "chinese": "年轻的",
+    "english": "younger",
+    "soundmark": "/ˈjʌŋɡə/"
+  },
+  {
+    "chinese": "年长的",
+    "english": "older",
+    "soundmark": "/ˈəʊldə/"
+  },
+  {
+    "chinese": "最老的",
+    "english": "oldest",
+    "soundmark": "/ˈəʊldɪst/"
+  },
+  {
+    "chinese": "最年轻的",
+    "english": "youngest",
+    "soundmark": "/ˈjʌŋɡɪst/"
+  },
+  {
+    "chinese": "百",
+    "english": "hundred",
+    "soundmark": "/ˈhʌndrəd/"
+  },
+  {
+    "chinese": "比较",
+    "english": "compare",
+    "soundmark": "/kəmˈpeə/"
+  },
+  {
+    "chinese": "之间",
+    "english": "between",
+    "soundmark": "/bɪˈtwiːn/"
+  },
+  {
+    "chinese": "祖父",
+    "english": "grandfather",
+    "soundmark": "/ˈɡrænfɑːðə/"
+  },
+  {
+    "chinese": "祖母",
+    "english": "grandmother",
+    "soundmark": "/ˈɡrænmʌðə/"
+  },
+  {
+    "chinese": "我爷爷超过一百岁了",
+    "english": "My grandfather is over 100 years old",
+    "soundmark": "/maɪ/ /ˈɡrænfɑːðə/ /ɪz/ /ˈəʊvə/ /wʌn/ /ˈhʌndrəd/ /jɪəz/ /əʊld/",
+    "grammar": [
+      {
+        "text": "My grandfather",
+        "role": "S",
+        "phonetic": "/maɪ/ /ˈɡrænfɑːðə/",
+        "chinese": "我的"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈəʊvə/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "100",
+        "role": "Det",
+        "phonetic": "/wʌn/ /ˈhʌndrəd/",
+        "chinese": ""
+      },
+      {
+        "text": "years old",
+        "role": "A",
+        "phonetic": "/jɪəz/ /əʊld/",
+        "chinese": "…们/复数(年)/老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "她比她姐姐年轻",
+    "english": "She is younger than her sister",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈjʌŋɡə/ /ðən/ /hɜː/ /ˈsɪstə/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "younger",
+        "role": "C",
+        "phonetic": "/ˈjʌŋɡə/",
+        "chinese": "更…的/…者(年轻的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðən/",
+        "chinese": "比"
+      },
+      {
+        "text": "her sister",
+        "role": "O",
+        "phonetic": "/hɜː/ /ˈsɪstə/",
+        "chinese": "她/她的/姐妹"
+      }
+    ]
+  },
+  {
+    "chinese": "他是家里年龄最大的",
+    "english": "He is the oldest in the family",
+    "soundmark": "/hiː/ /ɪz/ /ði/ /ˈəʊldɪst/ /ɪn/ /ðə/ /ˈfæmɪli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the oldest",
+        "role": "C",
+        "phonetic": "/ði/ /ˈəʊldɪst/",
+        "chinese": "这个/那个/最…的(老的/旧的)"
+      },
+      {
+        "text": "in the family",
+        "role": "L",
+        "phonetic": "/ɪn/ /ðə/ /ˈfæmɪli/",
+        "chinese": "在…里/这个/那个/家庭"
+      }
+    ]
+  },
+  {
+    "chinese": "我奶奶比爷爷年轻",
+    "english": "My grandmother is younger than my grandfather",
+    "soundmark": "/maɪ/ /ˈɡrænmʌðə/ /ɪz/ /ˈjʌŋɡə/ /ðən/ /maɪ/ /ˈɡrænfɑːðə/",
+    "grammar": [
+      {
+        "text": "My grandmother",
+        "role": "S",
+        "phonetic": "/maɪ/ /ˈɡrænmʌðə/",
+        "chinese": "我的"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "younger",
+        "role": "C",
+        "phonetic": "/ˈjʌŋɡə/",
+        "chinese": "更…的/…者(年轻的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðən/",
+        "chinese": "比"
+      },
+      {
+        "text": "my grandfather",
+        "role": "O",
+        "phonetic": "/maɪ/ /ˈɡrænfɑːðə/",
+        "chinese": "我的"
+      }
+    ]
+  },
+  {
+    "chinese": "她今年二十五岁",
+    "english": "She is twenty-five years old",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈtwenti/ /faɪv/ /jɪəz/ /əʊld/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "twenty-five",
+        "role": "A",
+        "phonetic": "/ˈtwenti/ /faɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "years old",
+        "role": "A",
+        "phonetic": "/jɪəz/ /əʊld/",
+        "chinese": "…们/复数(年)/老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "汤姆和玛丽同龄",
+    "english": "Tom and Mary are the same age",
+    "soundmark": "/tɒm/ /ənd/ /ˈmeəri/ /ɑː/ /ðə/ /seɪm/ /eɪdʒ/",
+    "grammar": [
+      {
+        "text": "Tom and Mary",
+        "role": "S",
+        "phonetic": "/tɒm/ /ənd/ /ˈmeəri/",
+        "chinese": "汤姆/和"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "the same",
+        "role": "Det",
+        "phonetic": "/ðə/ /seɪm/",
+        "chinese": "这个/那个/相同的"
+      },
+      {
+        "text": "age",
+        "role": "C",
+        "phonetic": "/eɪdʒ/",
+        "chinese": "年龄/时代"
+      }
+    ]
+  },
+  {
+    "chinese": "他十岁他姐姐十二岁",
+    "english": "He is ten years old and his sister is twelve",
+    "soundmark": "/hiː/ /ɪz/ /ten/ /jɪəz/ /əʊld/ /ənd/ /hɪz/ /ˈsɪstə/ /ɪz/ /twelv/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "ten",
+        "role": "A",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "years old",
+        "role": "A",
+        "phonetic": "/jɪəz/ /əʊld/",
+        "chinese": "…们/复数(年)/老的/旧的"
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "his sister",
+        "role": "S",
+        "phonetic": "/hɪz/ /ˈsɪstə/",
+        "chinese": "他的/姐妹"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "twelve",
+        "role": "C",
+        "phonetic": "/twelv/",
+        "chinese": "十二"
+      }
+    ]
+  },
+  {
+    "chinese": "谁是最年轻的学生",
+    "english": "Who is the youngest student",
+    "soundmark": "/huː/ /ɪz/ /ðə/ /ˈjʌŋɡɪst/ /ˈstjuːdənt/",
+    "grammar": [
+      {
+        "text": "Who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the youngest",
+        "role": "A",
+        "phonetic": "/ðə/ /ˈjʌŋɡɪst/",
+        "chinese": "这个/那个/最…的(年轻的)"
+      },
+      {
+        "text": "student",
+        "role": "C",
+        "phonetic": "/ˈstjuːdənt/",
+        "chinese": "学生"
+      }
+    ]
+  },
+  {
+    "chinese": "我比你大三岁",
+    "english": "I am three years older than you",
+    "soundmark": "/aɪ/ /æm/ /θriː/ /jɪəz/ /ˈəʊldə/ /ðən/ /juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "three",
+        "role": "A",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "years older",
+        "role": "C",
+        "phonetic": "/jɪəz/ /ˈəʊldə/",
+        "chinese": "…们/复数(年)/更…的/…者(老的/旧的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðən/",
+        "chinese": "比"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "她奶奶一百零二岁了",
+    "english": "Her grandmother is 102 years old",
+    "soundmark": "/hɜː/ /ˈɡrænmʌðə/ /ɪz/ /wʌn/ /ˈhʌndrəd/ /ənd/ /tuː/ /jɪəz/ /əʊld/",
+    "grammar": [
+      {
+        "text": "Her grandmother",
+        "role": "S",
+        "phonetic": "/hɜː/ /ˈɡrænmʌðə/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "102",
+        "role": "A",
+        "phonetic": "/wʌn/ /ˈhʌndrəd/ /ənd/ /tuː/",
+        "chinese": ""
+      },
+      {
+        "text": "years old",
+        "role": "A",
+        "phonetic": "/jɪəz/ /əʊld/",
+        "chinese": "…们/复数(年)/老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "哥哥",
+    "english": "brother",
+    "soundmark": "/ˈbrʌðə/"
+  },
+  {
+    "chinese": "姐姐",
+    "english": "sister",
+    "soundmark": "/ˈsɪstə/"
+  },
+  {
+    "chinese": "成年人",
+    "english": "adult",
+    "soundmark": "/ˈædʌlt/"
+  },
+  {
+    "chinese": "孩子",
+    "english": "child",
+    "soundmark": "/tʃaɪld/"
+  },
+  {
+    "chinese": "婴儿",
+    "english": "baby",
+    "soundmark": "/ˈbeɪbi/"
+  },
+  {
+    "chinese": "十几岁的",
+    "english": "teenager",
+    "soundmark": "/ˈtiːneɪdʒə/"
+  },
+  {
+    "chinese": "十几岁",
+    "english": "teenage",
+    "soundmark": "/ˈtiːneɪdʒ/"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "chinese": "奖赏",
+    "english": "reward",
+    "soundmark": "/rɪˈwɔːrd/"
+  },
+  {
+    "chinese": "美德",
+    "english": "virtue",
+    "soundmark": "/ˈvɜːrtʃuː/"
+  },
+  {
+    "chinese": "节食",
+    "english": "diet",
+    "soundmark": "/ˈdaɪət/"
+  },
+  {
+    "chinese": "严格地",
+    "english": "strictly",
+    "soundmark": "/ˈstrɪktli/"
+  },
+  {
+    "chinese": "禁食",
+    "english": "forbid",
+    "soundmark": "/fərˈbɪd/"
+  },
+  {
+    "chinese": "尴尬的",
+    "english": "embarrassed",
+    "soundmark": "/ɪmˈbærəst/"
+  },
+  {
+    "chinese": "奖励",
+    "english": "reward",
+    "soundmark": "/rɪˈwɔːrd/"
+  },
+  {
+    "chinese": "重量",
+    "english": "weight",
+    "soundmark": "/weɪt/"
+  },
+  {
+    "chinese": "我决定开始节食因为我已经胖了很多。",
+    "english": "I decided to go on a diet because I had put on a lot of weight",
+    "soundmark": "/aɪ dɪˈsaɪdɪd tuː ɡoʊ ɑːn ə ˈdaɪət bɪˈkɔːz aɪ hæd pʊt ɑːn ə lɑːt əv weɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "to go on a diet",
+        "role": "O",
+        "phonetic": "/tuː ɡoʊ ɑːn ə ˈdaɪət/",
+        "chinese": "到/向/去/在…上/一个"
+      },
+      {
+        "text": "because I had put on a lot of weight",
+        "role": "A",
+        "phonetic": "/bɪˈkɔːz aɪ hæd pʊt ɑːn ə lɑːt əv weɪt/",
+        "chinese": "因为/我/有/助动词（过去式）/放（过去式/过去分词）/在…上/一个/许多/…的/重量"
+      }
+    ]
+  },
+  {
+    "chinese": "在我开始节食之前我已经吃了太多甜食。",
+    "english": "Before I started the diet I had eaten too many sweets",
+    "soundmark": "/bɪˈfɔːr aɪ ˈstɑːrtɪd ðə ˈdaɪət aɪ hæd ˈiːtn tuː ˈmeni swiːts/",
+    "grammar": [
+      {
+        "text": "Before I started the diet",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr aɪ ˈstɑːrtɪd ðə ˈdaɪət/",
+        "chinese": "在…之前/我/开始/这个/那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had eaten",
+        "role": "V",
+        "phonetic": "/hæd ˈiːtn/",
+        "chinese": "有/助动词（过去式）/被吃掉的"
+      },
+      {
+        "text": "too many sweets",
+        "role": "O",
+        "phonetic": "/tuː ˈmeni swiːts/",
+        "chinese": "也/太/许多/…们/复数(甜的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我的朋友限制我吃巧克力。",
+    "english": "My friend had forbidden me to eat chocolate",
+    "soundmark": "/maɪ frend hæd fərˈbɪdn miː tuː iːt ˈtʃɔːklət/",
+    "grammar": [
+      {
+        "text": "My friend",
+        "role": "S",
+        "phonetic": "/maɪ frend/",
+        "chinese": "我的/朋友"
+      },
+      {
+        "text": "had forbidden",
+        "role": "V",
+        "phonetic": "/hæd fərˈbɪdn/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "to eat chocolate",
+        "role": "O",
+        "phonetic": "/tuː iːt ˈtʃɔːklət/",
+        "chinese": "到/向/吃/巧克力"
+      }
+    ]
+  },
+  {
+    "chinese": "他严格地遵守了节食计划。",
+    "english": "He had followed the diet strictly",
+    "soundmark": "/hiː hæd ˈfɑːloʊd ðə ˈdaɪət ˈstrɪktli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had followed",
+        "role": "V",
+        "phonetic": "/hæd ˈfɑːloʊd/",
+        "chinese": "有/助动词（过去式）/跟随"
+      },
+      {
+        "text": "the diet",
+        "role": "O",
+        "phonetic": "/ðə ˈdaɪət/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "strictly",
+        "role": "A",
+        "phonetic": "/ˈstrɪktli/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "当我看到那些甜食时我感到很尴尬。",
+    "english": "I felt embarrassed when I saw all those sweets",
+    "soundmark": "/aɪ felt ɪmˈbærəst wen aɪ sɔː ɔːl ðoʊz swiːts/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "felt",
+        "role": "V",
+        "phonetic": "/felt/",
+        "chinese": "被感觉的"
+      },
+      {
+        "text": "embarrassed",
+        "role": "C",
+        "phonetic": "/ɪmˈbærəst/",
+        "chinese": "尴尬的"
+      },
+      {
+        "text": "when I saw all those sweets",
+        "role": "A",
+        "phonetic": "/wen aɪ sɔː ɔːl ðoʊz swiːts/",
+        "chinese": "什么时候/我/看见（过去式）/所有的/那些/…们/复数(甜的)"
+      }
+    ]
+  },
+  {
+    "chinese": "他已经减掉了三十磅体重。",
+    "english": "He had lost thirty pounds in weight",
+    "soundmark": "/hiː hæd lɔːst ˈθɜːrti paʊndz ɪn weɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had lost",
+        "role": "V",
+        "phonetic": "/hæd lɔːst/",
+        "chinese": "有/助动词（过去式）/丢失的/迷路的"
+      },
+      {
+        "text": "thirty pounds",
+        "role": "O",
+        "phonetic": "/ˈθɜːrti paʊndz/",
+        "chinese": "三十"
+      },
+      {
+        "text": "in weight",
+        "role": "A",
+        "phonetic": "/ɪn weɪt/",
+        "chinese": "在…里/重量"
+      }
+    ]
+  },
+  {
+    "chinese": "他的节食美德得到了奖赏。",
+    "english": "His virtue of dieting was rewarded",
+    "soundmark": "/hɪz ˈvɜːrtʃuː əv ˈdaɪətɪŋ wʌz rɪˈwɔːrdɪd/",
+    "grammar": [
+      {
+        "text": "His virtue of dieting",
+        "role": "S",
+        "phonetic": "/hɪz ˈvɜːrtʃuː əv ˈdaɪətɪŋ/",
+        "chinese": "他的/…的"
+      },
+      {
+        "text": "was rewarded",
+        "role": "V",
+        "phonetic": "/wʌz rɪˈwɔːrdɪd/",
+        "chinese": "是（过去式）/奖励"
+      }
+    ]
+  },
+  {
+    "chinese": "他因为完成了挑战而获得了奖励。",
+    "english": "He had been rewarded for completing the challenge",
+    "soundmark": "/hiː hæd biːn rɪˈwɔːrdɪd fɔːr kəmˈpliːtɪŋ ðə ˈtʃælɪndʒ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had been rewarded",
+        "role": "V",
+        "phonetic": "/hæd biːn rɪˈwɔːrdɪd/",
+        "chinese": "有/助动词（过去式）/是（过去分词）/奖励"
+      },
+      {
+        "text": "for completing the challenge",
+        "role": "A",
+        "phonetic": "/fɔːr kəmˈpliːtɪŋ ðə ˈtʃælɪndʒ/",
+        "chinese": "为了/对于/正在…(完成)/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "甜的",
+    "english": "sweet",
+    "soundmark": "/swiːt/"
+  },
+  {
+    "chinese": "巧克力",
+    "english": "chocolate",
+    "soundmark": "/ˈtʃɔːklət/"
+  },
+  {
+    "chinese": "遵循",
+    "english": "follow",
+    "soundmark": "/ˈfɑːloʊ/"
+  },
+  {
+    "chinese": "三十",
+    "english": "thirty",
+    "soundmark": "/ˈθɜːrti/"
+  },
+  {
+    "chinese": "磅",
+    "english": "pound",
+    "soundmark": "/paʊnd/"
+  },
+  {
+    "chinese": "挑战",
+    "english": "challenge",
+    "soundmark": "/ˈtʃælɪndʒ/"
+  },
+  {
+    "chinese": "增加",
+    "english": "put on",
+    "soundmark": "/pʊt ɑːn/"
+  },
+  {
+    "chinese": "开始",
+    "english": "start",
+    "soundmark": "/stɑːrt/"
+  }
+]

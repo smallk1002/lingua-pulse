@@ -1,0 +1,472 @@
+[
+  {
+    "chinese": "帽子",
+    "english": "hat",
+    "soundmark": "/hæt/"
+  },
+  {
+    "chinese": "需要",
+    "english": "need",
+    "soundmark": "/niːd/"
+  },
+  {
+    "chinese": "镜子",
+    "english": "mirror",
+    "soundmark": "/ˈmɪrər/"
+  },
+  {
+    "chinese": "现代的",
+    "english": "modern",
+    "soundmark": "/ˈmɑːdərn/"
+  },
+  {
+    "chinese": "粗鲁的",
+    "english": "rude",
+    "soundmark": "/ruːd/"
+  },
+  {
+    "chinese": "样子",
+    "english": "look",
+    "soundmark": "/lʊk/"
+  },
+  {
+    "chinese": "妻子",
+    "english": "wife",
+    "soundmark": "/waɪf/"
+  },
+  {
+    "chinese": "提醒",
+    "english": "remind",
+    "soundmark": "/rɪˈmaɪnd/"
+  },
+  {
+    "chinese": "你不需要现在就走。",
+    "english": "You need not leave right now",
+    "soundmark": "/juː niːd nɑːt liːv raɪt naʊ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need not",
+        "role": "V",
+        "phonetic": "/niːd nɑːt/",
+        "chinese": "需要/不"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "right now",
+        "role": "A",
+        "phonetic": "/raɪt naʊ/",
+        "chinese": "现在/马上"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要买新衣服。",
+    "english": "You need to buy some new clothes",
+    "soundmark": "/juː niːd tuː baɪ sʌm nuː kloʊðz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to buy",
+        "role": "V",
+        "phonetic": "/tuː baɪ/",
+        "chinese": "到/向/买"
+      },
+      {
+        "text": "some new clothes",
+        "role": "O",
+        "phonetic": "/sʌm nuː kloʊðz/",
+        "chinese": "一些/新的/布"
+      }
+    ]
+  },
+  {
+    "chinese": "你不需要戴帽子。",
+    "english": "You need not wear a hat",
+    "soundmark": "/juː niːd nɑːt wer ə hæt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need not",
+        "role": "V",
+        "phonetic": "/niːd nɑːt/",
+        "chinese": "需要/不"
+      },
+      {
+        "text": "wear",
+        "role": "V",
+        "phonetic": "/wer/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "a hat",
+        "role": "O",
+        "phonetic": "/ə hæt/",
+        "chinese": "一个/帽子"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要照照镜子。",
+    "english": "You need to look in the mirror",
+    "soundmark": "/juː niːd tuː lʊk ɪn ðə ˈmɪrər/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to look",
+        "role": "V",
+        "phonetic": "/tuː lʊk/",
+        "chinese": "到/向/看起来"
+      },
+      {
+        "text": "in the mirror",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈmɪrər/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你不必为那种事情担心。",
+    "english": "You need not worry about that kind of thing",
+    "soundmark": "/juː niːd nɑːt ˈwɜːri əˈbaʊt ðæt kaɪnd əv θɪŋ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need not",
+        "role": "V",
+        "phonetic": "/niːd nɑːt/",
+        "chinese": "需要/不"
+      },
+      {
+        "text": "worry",
+        "role": "V",
+        "phonetic": "/ˈwɜːri/",
+        "chinese": "担心"
+      },
+      {
+        "text": "about that kind of thing",
+        "role": "A",
+        "phonetic": "/əˈbaʊt ðæt kaɪnd əv θɪŋ/",
+        "chinese": "关于/大约/那个/善良的/…的"
+      }
+    ]
+  },
+  {
+    "chinese": "他需要完成他的作业。",
+    "english": "He needs to finish his homework",
+    "soundmark": "/hiː niːdz tuː ˈfɪnɪʃ hɪz ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "needs",
+        "role": "V",
+        "phonetic": "/niːdz/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to finish",
+        "role": "V",
+        "phonetic": "/tuː ˈfɪnɪʃ/",
+        "chinese": "到/向/完成"
+      },
+      {
+        "text": "his homework",
+        "role": "O",
+        "phonetic": "/hɪz ˈhoʊmwɜːrk/",
+        "chinese": "他的/家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "你不必现在就做决定。",
+    "english": "You need not make a decision right now",
+    "soundmark": "/juː niːd nɑːt meɪk ə dɪˈsɪʒn raɪt naʊ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need not",
+        "role": "V",
+        "phonetic": "/niːd nɑːt/",
+        "chinese": "需要/不"
+      },
+      {
+        "text": "make",
+        "role": "V",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "a decision",
+        "role": "O",
+        "phonetic": "/ə dɪˈsɪʒn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "right now",
+        "role": "A",
+        "phonetic": "/raɪt naʊ/",
+        "chinese": "现在/马上"
+      }
+    ]
+  },
+  {
+    "chinese": "你管那叫帽子吗？",
+    "english": "Do you call that a hat",
+    "soundmark": "/duː juː kɔːl ðæt ə hæt/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "call",
+        "role": "V",
+        "phonetic": "/kɔːl/",
+        "chinese": "打电话/叫"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "a hat",
+        "role": "C",
+        "phonetic": "/ə hæt/",
+        "chinese": "一个/帽子"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要提醒你关于会议的事情。",
+    "english": "I need to remind you about the meeting",
+    "soundmark": "/aɪ niːd tuː rɪˈmaɪnd juː əˈbaʊt ðə ˈmiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to remind",
+        "role": "V",
+        "phonetic": "/tuː rɪˈmaɪnd/",
+        "chinese": "到/向/提醒"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "about the meeting",
+        "role": "A",
+        "phonetic": "/əˈbaʊt ðə ˈmiːtɪŋ/",
+        "chinese": "关于/大约/这个/那个/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "你不必对他那么粗鲁。",
+    "english": "You need not be so rude to him",
+    "soundmark": "/juː niːd nɑːt biː soʊ ruːd tuː hɪm/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need not",
+        "role": "V",
+        "phonetic": "/niːd nɑːt/",
+        "chinese": "需要/不"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "so rude",
+        "role": "C",
+        "phonetic": "/soʊ ruːd/",
+        "chinese": "如此/所以/粗鲁的"
+      },
+      {
+        "text": "to him",
+        "role": "A",
+        "phonetic": "/tuː hɪm/",
+        "chinese": "到/向/他"
+      }
+    ]
+  },
+  {
+    "chinese": "他妻子说他需要改变一下样子。",
+    "english": "His wife said he needed to change his look",
+    "soundmark": "/hɪz waɪf sed hiː ˈniːdɪd tuː tʃeɪndʒ hɪz lʊk/",
+    "grammar": [
+      {
+        "text": "His wife",
+        "role": "S",
+        "phonetic": "/hɪz waɪf/",
+        "chinese": "他的/妻子"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "he needed to change his look",
+        "role": "O",
+        "phonetic": "/hiː ˈniːdɪd tuː tʃeɪndʒ hɪz lʊk/",
+        "chinese": "他/需要/到/向/改变/他的/看起来"
+      }
+    ]
+  },
+  {
+    "chinese": "你不必紧张这只是一次小小的测试。",
+    "english": "You need not be nervous it is just a small test",
+    "soundmark": "/juː niːd nɑːt biː ˈnɜːrvəs ɪt ɪz dʒʌst ə smɔːl test/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need not",
+        "role": "V",
+        "phonetic": "/niːd nɑːt/",
+        "chinese": "需要/不"
+      },
+      {
+        "text": "be nervous",
+        "role": "C",
+        "phonetic": "/biː ˈnɜːrvəs/",
+        "chinese": "是/紧张的"
+      },
+      {
+        "text": "it is just a small test",
+        "role": "A",
+        "phonetic": "/ɪt ɪz dʒʌst ə smɔːl test/",
+        "chinese": "它/是/刚刚/只是/一个/小的/测试"
+      }
+    ]
+  },
+  {
+    "chinese": "决定",
+    "english": "decision",
+    "soundmark": "/dɪˈsɪʒn/"
+  },
+  {
+    "chinese": "改变",
+    "english": "change",
+    "soundmark": "/tʃeɪndʒ/"
+  },
+  {
+    "chinese": "紧张",
+    "english": "nervous",
+    "soundmark": "/ˈnɜːrvəs/"
+  },
+  {
+    "chinese": "家庭作业",
+    "english": "homework",
+    "soundmark": "/ˈhoʊmwɜːrk/"
+  },
+  {
+    "chinese": "测试",
+    "english": "test",
+    "soundmark": "/test/"
+  },
+  {
+    "chinese": "衣服",
+    "english": "clothes",
+    "soundmark": "/kloʊðz/"
+  },
+  {
+    "chinese": "东西",
+    "english": "thing",
+    "soundmark": "/θɪŋ/"
+  },
+  {
+    "chinese": "种类",
+    "english": "kind",
+    "soundmark": "/kaɪnd/"
+  }
+]

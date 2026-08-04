@@ -1,0 +1,1432 @@
+[
+  {
+    "chinese": "那里",
+    "english": "there",
+    "soundmark": "/ðer/"
+  },
+  {
+    "chinese": "是(单数)",
+    "english": "is",
+    "soundmark": "/ɪz/"
+  },
+  {
+    "chinese": "是(复数)",
+    "english": "are",
+    "soundmark": "/ɑːr/"
+  },
+  {
+    "chinese": "房间",
+    "english": "room",
+    "soundmark": "/ruːm/"
+  },
+  {
+    "chinese": "书桌",
+    "english": "desk",
+    "soundmark": "/desk/"
+  },
+  {
+    "chinese": "椅子",
+    "english": "chair",
+    "soundmark": "/tʃer/"
+  },
+  {
+    "chinese": "书",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "钢笔",
+    "english": "pen",
+    "soundmark": "/pen/"
+  },
+  {
+    "chinese": "学校",
+    "english": "school",
+    "soundmark": "/skuːl/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɑːspɪtl/"
+  },
+  {
+    "chinese": "公园",
+    "english": "park",
+    "soundmark": "/pɑːrk/"
+  },
+  {
+    "chinese": "桌子",
+    "english": "table",
+    "soundmark": "/ˈteɪbl/"
+  },
+  {
+    "chinese": "窗户",
+    "english": "window",
+    "soundmark": "/ˈwɪndoʊ/"
+  },
+  {
+    "chinese": "门",
+    "english": "door",
+    "soundmark": "/dɔːr/"
+  },
+  {
+    "chinese": "有(单数存在)",
+    "english": "there is",
+    "soundmark": "/ðer ɪz/"
+  },
+  {
+    "chinese": "有(复数存在)",
+    "english": "there are",
+    "soundmark": "/ðer ɑːr/"
+  },
+  {
+    "chinese": "在房间里",
+    "english": "in the room",
+    "soundmark": "/ɪn ðə ruːm/"
+  },
+  {
+    "chinese": "在书桌上",
+    "english": "on the desk",
+    "soundmark": "/ɑːn ðə desk/"
+  },
+  {
+    "chinese": "在学校附近",
+    "english": "near the school",
+    "soundmark": "/nɪr ðə skuːl/"
+  },
+  {
+    "chinese": "书桌上有一本书。",
+    "english": "There is a book on the desk",
+    "soundmark": "/ðer ɪz ə bʊk ɑːn ðə desk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a book",
+        "role": "O",
+        "phonetic": "/ə bʊk/",
+        "chinese": "一本书"
+      },
+      {
+        "text": "on the desk",
+        "role": "A",
+        "phonetic": "/ɑːn ðə desk/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "房间里有一支钢笔。",
+    "english": "There is a pen in the room",
+    "soundmark": "/ðer ɪz ə pen ɪn ðə ruːm/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a pen",
+        "role": "O",
+        "phonetic": "/ə pen/",
+        "chinese": "一个/钢笔"
+      },
+      {
+        "text": "in the room",
+        "role": "A",
+        "phonetic": "/ɪn ðə ruːm/",
+        "chinese": "在房间里"
+      }
+    ]
+  },
+  {
+    "chinese": "有两把椅子。",
+    "english": "There are two chairs",
+    "soundmark": "/ðer ɑːr tuː tʃerz/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "two chairs",
+        "role": "O",
+        "phonetic": "/tuː tʃerz/",
+        "chinese": "二"
+      }
+    ]
+  },
+  {
+    "chinese": "有三本书。",
+    "english": "There are three books",
+    "soundmark": "/ðer ɑːr θriː bʊks/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "three books",
+        "role": "O",
+        "phonetic": "/θriː bʊks/",
+        "chinese": "三/…们/复数(预订/书)"
+      }
+    ]
+  },
+  {
+    "chinese": "窗户旁边有一张桌子。",
+    "english": "There is a table near the window",
+    "soundmark": "/ðer ɪz ə ˈteɪbl nɪr ðə ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a table",
+        "role": "O",
+        "phonetic": "/ə ˈteɪbl/",
+        "chinese": "一个"
+      },
+      {
+        "text": "near the window",
+        "role": "A",
+        "phonetic": "/nɪr ðə ˈwɪndoʊ/",
+        "chinese": "在…附近/这个/那个/窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "房间里有一扇门。",
+    "english": "There is a door in the room",
+    "soundmark": "/ðer ɪz ə dɔːr ɪn ðə ruːm/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a door",
+        "role": "O",
+        "phonetic": "/ə dɔːr/",
+        "chinese": "一个/门"
+      },
+      {
+        "text": "in the room",
+        "role": "A",
+        "phonetic": "/ɪn ðə ruːm/",
+        "chinese": "在房间里"
+      }
+    ]
+  },
+  {
+    "chinese": "这里有一所学校。",
+    "english": "There is a school here",
+    "soundmark": "/ðer ɪz ə skuːl hɪr/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a school",
+        "role": "O",
+        "phonetic": "/ə skuːl/",
+        "chinese": "一个/学校"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "附近有一个公园。",
+    "english": "There is a park nearby",
+    "soundmark": "/ðer ɪz ə pɑːrk ˈnɪrbaɪ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a park",
+        "role": "O",
+        "phonetic": "/ə pɑːrk/",
+        "chinese": "一个公园"
+      },
+      {
+        "text": "nearby",
+        "role": "A",
+        "phonetic": "/ˈnɪrbaɪ/",
+        "chinese": "附近的"
+      }
+    ]
+  },
+  {
+    "chinese": "城市里有很多公园。",
+    "english": "There are many parks in the city",
+    "soundmark": "/ðer ɑːr ˈmeni pɑːrks ɪn ðə ˈsɪti/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "many parks",
+        "role": "O",
+        "phonetic": "/ˈmeni pɑːrks/",
+        "chinese": "许多/…们/复数(公园)"
+      },
+      {
+        "text": "in the city",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈsɪti/",
+        "chinese": "在…里/这个/那个/城市"
+      }
+    ]
+  },
+  {
+    "chinese": "没有椅子。",
+    "english": "There is not a chair",
+    "soundmark": "/ðer ɪz nɑːt ə tʃer/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "a chair",
+        "role": "O",
+        "phonetic": "/ə tʃer/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "书桌上没有钢笔。",
+    "english": "There isn't a pen on the desk",
+    "soundmark": "/ðer ˈɪznt ə pen ɑːn ðə desk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "isn't",
+        "role": "V",
+        "phonetic": "/ˈɪznt/",
+        "chinese": "不是"
+      },
+      {
+        "text": "a pen",
+        "role": "O",
+        "phonetic": "/ə pen/",
+        "chinese": "一个/钢笔"
+      },
+      {
+        "text": "on the desk",
+        "role": "A",
+        "phonetic": "/ɑːn ðə desk/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "没有书。",
+    "english": "There are not any books",
+    "soundmark": "/ðer ɑːr nɑːt ˈeni bʊks/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "any books",
+        "role": "O",
+        "phonetic": "/ˈeni bʊks/",
+        "chinese": "任何/…们/复数(预订/书)"
+      }
+    ]
+  },
+  {
+    "chinese": "房间里没有椅子。",
+    "english": "There aren't any chairs in the room",
+    "soundmark": "/ðer ɑːrnt ˈeni tʃerz ɪn ðə ruːm/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "aren't",
+        "role": "V",
+        "phonetic": "/ɑːrnt/",
+        "chinese": "不是"
+      },
+      {
+        "text": "any chairs",
+        "role": "O",
+        "phonetic": "/ˈeni tʃerz/",
+        "chinese": "任何"
+      },
+      {
+        "text": "in the room",
+        "role": "A",
+        "phonetic": "/ɪn ðə ruːm/",
+        "chinese": "在房间里"
+      }
+    ]
+  },
+  {
+    "chinese": "附近没有医院。",
+    "english": "There isn't a hospital near here",
+    "soundmark": "/ðer ˈɪznt ə ˈhɑːspɪtl nɪr hɪr/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "isn't",
+        "role": "V",
+        "phonetic": "/ˈɪznt/",
+        "chinese": "不是"
+      },
+      {
+        "text": "a hospital",
+        "role": "O",
+        "phonetic": "/ə ˈhɑːspɪtl/",
+        "chinese": "一个/医院"
+      },
+      {
+        "text": "near here",
+        "role": "A",
+        "phonetic": "/nɪr hɪr/",
+        "chinese": "在…附近/这里"
+      }
+    ]
+  },
+  {
+    "chinese": "书桌上有一本书吗？",
+    "english": "Is there a book on the desk",
+    "soundmark": "/ɪz ðer ə bʊk ɑːn ðə desk/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a book",
+        "role": "O",
+        "phonetic": "/ə bʊk/",
+        "chinese": "一本书"
+      },
+      {
+        "text": "on the desk",
+        "role": "A",
+        "phonetic": "/ɑːn ðə desk/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "这附近有学校吗？",
+    "english": "Is there a school near here",
+    "soundmark": "/ɪz ðer ə skuːl nɪr hɪr/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a school",
+        "role": "O",
+        "phonetic": "/ə skuːl/",
+        "chinese": "一个/学校"
+      },
+      {
+        "text": "near here",
+        "role": "A",
+        "phonetic": "/nɪr hɪr/",
+        "chinese": "在…附近/这里"
+      }
+    ]
+  },
+  {
+    "chinese": "城市里有公园吗？",
+    "english": "Are there any parks in the city",
+    "soundmark": "/ɑːr ðer ˈeni pɑːrks ɪn ðə ˈsɪti/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "any parks",
+        "role": "O",
+        "phonetic": "/ˈeni pɑːrks/",
+        "chinese": "任何/…们/复数(公园)"
+      },
+      {
+        "text": "in the city",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈsɪti/",
+        "chinese": "在…里/这个/那个/城市"
+      }
+    ]
+  },
+  {
+    "chinese": "你家附近有医院吗？",
+    "english": "Are there any hospitals near your home",
+    "soundmark": "/ɑːr ðer ˈeni ˈhɑːspɪtlz nɪr jɔːr hoʊm/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "any hospitals",
+        "role": "O",
+        "phonetic": "/ˈeni ˈhɑːspɪtlz/",
+        "chinese": "任何/…们/复数(医院)"
+      },
+      {
+        "text": "near your home",
+        "role": "A",
+        "phonetic": "/nɪr jɔːr hoʊm/",
+        "chinese": "在…附近/你的/你们的/家"
+      }
+    ]
+  },
+  {
+    "chinese": "房子里有多少个房间？",
+    "english": "How many rooms are there in the house",
+    "soundmark": "/haʊ ˈmeni ruːmz ɑːr ðer ɪn ðə haʊs/",
+    "grammar": [
+      {
+        "text": "How many rooms",
+        "role": "O",
+        "phonetic": "/haʊ ˈmeni ruːmz/",
+        "chinese": "怎么/许多/…们/复数(房间)"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "in the house",
+        "role": "A",
+        "phonetic": "/ɪn ðə haʊs/",
+        "chinese": "在…里/这个/那个/房子"
+      }
+    ]
+  },
+  {
+    "chinese": "你的桌子上有什么？",
+    "english": "What is there on your desk",
+    "soundmark": "/wʌt ɪz ðer ɑːn jɔːr desk/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "on your desk",
+        "role": "A",
+        "phonetic": "/ɑːn jɔːr desk/",
+        "chinese": "在…上/你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "书桌上有一本书和两支钢笔。",
+    "english": "There is a book and two pens on the desk",
+    "soundmark": "/ðer ɪz ə bʊk ænd tuː penz ɑːn ðə desk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a book and two pens",
+        "role": "O",
+        "phonetic": "/ə bʊk ænd tuː penz/",
+        "chinese": "一个/预订/书/和/二/钢笔"
+      },
+      {
+        "text": "on the desk",
+        "role": "A",
+        "phonetic": "/ɑːn ðə desk/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "房间里有一张桌子和四把椅子。",
+    "english": "There is a table and four chairs in the room",
+    "soundmark": "/ðer ɪz ə ˈteɪbl ænd fɔːr tʃerz ɪn ðə ruːm/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a table and four chairs",
+        "role": "O",
+        "phonetic": "/ə ˈteɪbl ænd fɔːr tʃerz/",
+        "chinese": "一个/和/四"
+      },
+      {
+        "text": "in the room",
+        "role": "A",
+        "phonetic": "/ɪn ðə ruːm/",
+        "chinese": "在房间里"
+      }
+    ]
+  },
+  {
+    "chinese": "桌子上有一些书。",
+    "english": "There are some books on the table",
+    "soundmark": "/ðer ɑːr sʌm bʊks ɑːn ðə ˈteɪbl/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "some books",
+        "role": "O",
+        "phonetic": "/sʌm bʊks/",
+        "chinese": "一些/…们/复数(预订/书)"
+      },
+      {
+        "text": "on the table",
+        "role": "A",
+        "phonetic": "/ɑːn ðə ˈteɪbl/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "门外有一辆车。",
+    "english": "There is a car outside the door",
+    "soundmark": "/ðer ɪz ə kɑːr ˌaʊtˈsaɪd ðə dɔːr/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a car",
+        "role": "O",
+        "phonetic": "/ə kɑːr/",
+        "chinese": "一辆汽车"
+      },
+      {
+        "text": "outside the door",
+        "role": "A",
+        "phonetic": "/ˌaʊtˈsaɪd ðə dɔːr/",
+        "chinese": "在…外面/这个/那个/门"
+      }
+    ]
+  },
+  {
+    "chinese": "树上有几只鸟。",
+    "english": "There are a few birds in the tree",
+    "soundmark": "/ðer ɑːr ə fjuː bɜːrdz ɪn ðə triː/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "a few birds",
+        "role": "O",
+        "phonetic": "/ə fjuː bɜːrdz/",
+        "chinese": "一个/很少"
+      },
+      {
+        "text": "in the tree",
+        "role": "A",
+        "phonetic": "/ɪn ðə triː/",
+        "chinese": "在…里/这个/那个/树"
+      }
+    ]
+  },
+  {
+    "chinese": "桌子上没有水。",
+    "english": "There isn't any water on the table",
+    "soundmark": "/ðer ˈɪznt ˈeni ˈwɔːtər ɑːn ðə ˈteɪbl/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "isn't",
+        "role": "V",
+        "phonetic": "/ˈɪznt/",
+        "chinese": "不是"
+      },
+      {
+        "text": "any water",
+        "role": "O",
+        "phonetic": "/ˈeni ˈwɔːtər/",
+        "chinese": "任何/水"
+      },
+      {
+        "text": "on the table",
+        "role": "A",
+        "phonetic": "/ɑːn ðə ˈteɪbl/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "冰箱里有牛奶吗？",
+    "english": "Is there any milk in the fridge",
+    "soundmark": "/ɪz ðer ˈeni mɪlk ɪn ðə frɪdʒ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "any milk",
+        "role": "O",
+        "phonetic": "/ˈeni mɪlk/",
+        "chinese": "任何牛奶"
+      },
+      {
+        "text": "in the fridge",
+        "role": "A",
+        "phonetic": "/ɪn ðə frɪdʒ/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "公园里有很多人。",
+    "english": "There are a lot of people in the park",
+    "soundmark": "/ðer ɑːr ə lɑːt ʌv ˈpiːpl ɪn ðə pɑːrk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "a lot of people",
+        "role": "O",
+        "phonetic": "/ə lɑːt ʌv ˈpiːpl/",
+        "chinese": "一个/许多/…的/人们"
+      },
+      {
+        "text": "in the park",
+        "role": "A",
+        "phonetic": "/ɪn ðə pɑːrk/",
+        "chinese": "在公园里"
+      }
+    ]
+  },
+  {
+    "chinese": "从前有一个国王。",
+    "english": "There was a king long ago",
+    "soundmark": "/ðer wʌz ə kɪŋ lɔːŋ əˈɡoʊ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a king",
+        "role": "O",
+        "phonetic": "/ə kɪŋ/",
+        "chinese": "一个"
+      },
+      {
+        "text": "long ago",
+        "role": "A",
+        "phonetic": "/lɔːŋ əˈɡoʊ/",
+        "chinese": "长的/以前"
+      }
+    ]
+  },
+  {
+    "chinese": "天空中有很多星星。",
+    "english": "There are many stars in the sky",
+    "soundmark": "/ðer ɑːr ˈmeni stɑːrz ɪn ðə skaɪ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "many stars",
+        "role": "O",
+        "phonetic": "/ˈmeni stɑːrz/",
+        "chinese": "许多/…们/复数(星星)"
+      },
+      {
+        "text": "in the sky",
+        "role": "A",
+        "phonetic": "/ɪn ðə skaɪ/",
+        "chinese": "在…里/这个/那个/天空"
+      }
+    ]
+  },
+  {
+    "chinese": "你的包里有什么东西吗？",
+    "english": "Is there anything in your bag",
+    "soundmark": "/ɪz ðer ˈeniθɪŋ ɪn jɔːr bæɡ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      },
+      {
+        "text": "in your bag",
+        "role": "A",
+        "phonetic": "/ɪn jɔːr bæɡ/",
+        "chinese": "在…里/你的/你们的/包"
+      }
+    ]
+  },
+  {
+    "chinese": "房间里没有人。",
+    "english": "There is no one in the room",
+    "soundmark": "/ðer ɪz noʊ wʌn ɪn ðə ruːm/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "no one",
+        "role": "O",
+        "phonetic": "/noʊ wʌn/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "in the room",
+        "role": "A",
+        "phonetic": "/ɪn ðə ruːm/",
+        "chinese": "在房间里"
+      }
+    ]
+  },
+  {
+    "chinese": "书桌下有一只猫。",
+    "english": "There is a cat under the desk",
+    "soundmark": "/ðer ɪz ə kæt ˈʌndər ðə desk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a cat",
+        "role": "O",
+        "phonetic": "/ə kæt/",
+        "chinese": "一个"
+      },
+      {
+        "text": "under the desk",
+        "role": "A",
+        "phonetic": "/ˈʌndər ðə desk/",
+        "chinese": "在…下方/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "墙上有一幅画。",
+    "english": "There is a picture on the wall",
+    "soundmark": "/ðer ɪz ə ˈpɪktʃər ɑːn ðə wɔːl/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a picture",
+        "role": "O",
+        "phonetic": "/ə ˈpɪktʃər/",
+        "chinese": "一个/图片"
+      },
+      {
+        "text": "on the wall",
+        "role": "A",
+        "phonetic": "/ɑːn ðə wɔːl/",
+        "chinese": "在…上/这个/那个/墙"
+      }
+    ]
+  },
+  {
+    "chinese": "桌子上有两杯茶。",
+    "english": "There are two cups of tea on the table",
+    "soundmark": "/ðer ɑːr tuː kʌps ʌv tiː ɑːn ðə ˈteɪbl/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "two cups of tea",
+        "role": "O",
+        "phonetic": "/tuː kʌps ʌv tiː/",
+        "chinese": "二/…们/复数(杯子)/…的/茶"
+      },
+      {
+        "text": "on the table",
+        "role": "A",
+        "phonetic": "/ɑːn ðə ˈteɪbl/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你们班有多少学生？",
+    "english": "How many students are there in your class",
+    "soundmark": "/haʊ ˈmeni ˈstuːdnts ɑːr ðer ɪn jɔːr klæs/",
+    "grammar": [
+      {
+        "text": "How many students",
+        "role": "O",
+        "phonetic": "/haʊ ˈmeni ˈstuːdnts/",
+        "chinese": "怎么/许多/…们/复数(学生)"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "in your class",
+        "role": "A",
+        "phonetic": "/ɪn jɔːr klæs/",
+        "chinese": "在…里/你的/你们的/班级/阶层"
+      }
+    ]
+  },
+  {
+    "chinese": "这周没有考试。",
+    "english": "There is no test this week",
+    "soundmark": "/ðer ɪz noʊ test ðɪs wiːk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "no test",
+        "role": "O",
+        "phonetic": "/noʊ test/",
+        "chinese": "没有/测试"
+      },
+      {
+        "text": "this week",
+        "role": "A",
+        "phonetic": "/ðɪs wiːk/",
+        "chinese": "这周"
+      }
+    ]
+  },
+  {
+    "chinese": "冰箱里有一些苹果。",
+    "english": "There are some apples in the fridge",
+    "soundmark": "/ðer ɑːr sʌm ˈæplz ɪn ðə frɪdʒ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "some apples",
+        "role": "O",
+        "phonetic": "/sʌm ˈæplz/",
+        "chinese": "一些苹果"
+      },
+      {
+        "text": "in the fridge",
+        "role": "A",
+        "phonetic": "/ɪn ðə frɪdʒ/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "那个盒子里面有什么？",
+    "english": "What is there in that box",
+    "soundmark": "/wʌt ɪz ðer ɪn ðæt bɑːks/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "in that box",
+        "role": "A",
+        "phonetic": "/ɪn ðæt bɑːks/",
+        "chinese": "在…里/那个/箱子/盒"
+      }
+    ]
+  },
+  {
+    "chinese": "花瓶里有花吗？",
+    "english": "Are there any flowers in the vase",
+    "soundmark": "/ɑːr ðer ˈeni ˈflaʊərz ɪn ðə veɪs/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "any flowers",
+        "role": "O",
+        "phonetic": "/ˈeni ˈflaʊərz/",
+        "chinese": "任何/…们/复数(花)"
+      },
+      {
+        "text": "in the vase",
+        "role": "A",
+        "phonetic": "/ɪn ðə veɪs/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "今天下午有一场会议。",
+    "english": "There is a meeting this afternoon",
+    "soundmark": "/ðer ɪz ə ˈmiːtɪŋ ðɪs ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a meeting",
+        "role": "O",
+        "phonetic": "/ə ˈmiːtɪŋ/",
+        "chinese": "一个/会议"
+      },
+      {
+        "text": "this afternoon",
+        "role": "A",
+        "phonetic": "/ðɪs ˌæftərˈnuːn/",
+        "chinese": "今天下午"
+      }
+    ]
+  },
+  {
+    "chinese": "没有时间了。",
+    "english": "There is no time left",
+    "soundmark": "/ðer ɪz noʊ taɪm left/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "no time",
+        "role": "O",
+        "phonetic": "/noʊ taɪm/",
+        "chinese": "没有/时间"
+      },
+      {
+        "text": "left",
+        "role": "C",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "图片",
+    "english": "picture",
+    "soundmark": "/ˈpɪktʃər/"
+  },
+  {
+    "chinese": "墙",
+    "english": "wall",
+    "soundmark": "/wɔːl/"
+  },
+  {
+    "chinese": "花",
+    "english": "flower",
+    "soundmark": "/ˈflaʊər/"
+  },
+  {
+    "chinese": "树",
+    "english": "tree",
+    "soundmark": "/triː/"
+  },
+  {
+    "chinese": "鸟",
+    "english": "bird",
+    "soundmark": "/bɜːrd/"
+  },
+  {
+    "chinese": "天空",
+    "english": "sky",
+    "soundmark": "/skaɪ/"
+  },
+  {
+    "chinese": "星星",
+    "english": "star",
+    "soundmark": "/stɑːr/"
+  },
+  {
+    "chinese": "牛奶",
+    "english": "milk",
+    "soundmark": "/mɪlk/"
+  },
+  {
+    "chinese": "水",
+    "english": "water",
+    "soundmark": "/ˈwɔːtər/"
+  }
+]

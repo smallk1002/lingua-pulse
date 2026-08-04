@@ -1,0 +1,697 @@
+[
+  {
+    "chinese": "饼干",
+    "english": "biscuit",
+    "soundmark": "/ˈbɪskɪt/"
+  },
+  {
+    "chinese": "罐头",
+    "english": "tin",
+    "soundmark": "/tɪn/"
+  },
+  {
+    "chinese": "广告",
+    "english": "advertisement",
+    "soundmark": "/ˌædvərˈtaɪzmənt/"
+  },
+  {
+    "chinese": "刊登广告",
+    "english": "advertise",
+    "soundmark": "/ˈædvərtaɪz/"
+  },
+  {
+    "chinese": "吸引",
+    "english": "attract",
+    "soundmark": "/əˈtrækt/"
+  },
+  {
+    "chinese": "顾客",
+    "english": "customer",
+    "soundmark": "/ˈkʌstəmər/"
+  },
+  {
+    "chinese": "设计",
+    "english": "design",
+    "soundmark": "/dɪˈzaɪn/"
+  },
+  {
+    "chinese": "尺寸",
+    "english": "size",
+    "soundmark": "/saɪz/"
+  },
+  {
+    "chinese": "巨大的",
+    "english": "enormous",
+    "soundmark": "/ɪˈnɔːrməs/"
+  },
+  {
+    "chinese": "宣传",
+    "english": "publicity",
+    "soundmark": "/pʌbˈlɪsəti/"
+  },
+  {
+    "chinese": "成功的",
+    "english": "successful",
+    "soundmark": "/səkˈsesfəl/"
+  },
+  {
+    "chinese": "引人注目",
+    "english": "eye-catching",
+    "soundmark": "/ˈaɪˌkætʃɪŋ/"
+  },
+  {
+    "chinese": "包装",
+    "english": "packaging",
+    "soundmark": "/ˈpækɪdʒɪŋ/"
+  },
+  {
+    "chinese": "产品",
+    "english": "product",
+    "soundmark": "/ˈprɑːdʌkt/"
+  },
+  {
+    "chinese": "促销",
+    "english": "promotion",
+    "soundmark": "/prəˈmoʊʃən/"
+  },
+  {
+    "chinese": "公司登广告征求一个大号饼干罐",
+    "english": "The company advertised for a large biscuit tin",
+    "soundmark": "/ðə/ /ˈkʌmpəni/ /ˈædvərtaɪzd/ /fɔːr/ /ə/ /lɑːrdʒ/ /ˈbɪskɪt/ /tɪn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "company",
+        "role": "S",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      },
+      {
+        "text": "advertised",
+        "role": "V",
+        "phonetic": "/ˈædvərtaɪzd/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "large",
+        "role": "A",
+        "phonetic": "/lɑːrdʒ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "biscuit",
+        "role": "A",
+        "phonetic": "/ˈbɪskɪt/",
+        "chinese": "饼干"
+      },
+      {
+        "text": "tin",
+        "role": "O",
+        "phonetic": "/tɪn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这个巨大的罐头是为了吸引顾客的注意而设计的",
+    "english": "The enormous tin was designed to attract customers' attention",
+    "soundmark": "/ði/ /ɪˈnɔːrməs/ /tɪn/ /wʌz/ /dɪˈzaɪnd/ /tuː/ /əˈtrækt/ /ˈkʌstəmərz/ /əˈtenʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "enormous",
+        "role": "A",
+        "phonetic": "/ɪˈnɔːrməs/",
+        "chinese": "庞大的"
+      },
+      {
+        "text": "tin",
+        "role": "S",
+        "phonetic": "/tɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "designed",
+        "role": "V",
+        "phonetic": "/dɪˈzaɪnd/",
+        "chinese": "设计的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "attract",
+        "role": "V",
+        "phonetic": "/əˈtrækt/",
+        "chinese": "吸引"
+      },
+      {
+        "text": "customers'",
+        "role": "Det",
+        "phonetic": "/ˈkʌstəmərz/",
+        "chinese": ""
+      },
+      {
+        "text": "attention",
+        "role": "O",
+        "phonetic": "/əˈtenʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "广告的目的是提升产品的知名度",
+    "english": "The purpose of the advertisement was to increase public awareness of the product",
+    "soundmark": "/ðə/ /ˈpɜːrpəs/ /əv/ /ði/ /ˌædvərˈtaɪzmənt/ /wʌz/ /tuː/ /ɪnˈkriːs/ /ˈpʌblɪk/ /əˈwernəs/ /əv/ /ðə/ /ˈprɑːdʌkt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "purpose",
+        "role": "S",
+        "phonetic": "/ˈpɜːrpəs/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "advertisement",
+        "role": "O",
+        "phonetic": "/ˌædvərˈtaɪzmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "increase",
+        "role": "V",
+        "phonetic": "/ɪnˈkriːs/",
+        "chinese": "增加"
+      },
+      {
+        "text": "public",
+        "role": "A",
+        "phonetic": "/ˈpʌblɪk/",
+        "chinese": "公共的"
+      },
+      {
+        "text": "awareness",
+        "role": "O",
+        "phonetic": "/əˈwernəs/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "product",
+        "role": "O",
+        "phonetic": "/ˈprɑːdʌkt/",
+        "chinese": "产品"
+      }
+    ]
+  },
+  {
+    "chinese": "这个引人注目的广告立刻吸引了所有人的目光",
+    "english": "The eye-catching advertisement immediately attracted everyone's attention",
+    "soundmark": "/ði/ /ˈaɪˌkætʃɪŋ/ /ˌædvərˈtaɪzmənt/ /ɪˈmiːdiətli/ /əˈtræktɪd/ /ˈevriwʌnz/ /əˈtenʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "eye-catching",
+        "role": "A",
+        "phonetic": "/ˈaɪˌkætʃɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "advertisement",
+        "role": "S",
+        "phonetic": "/ˌædvərˈtaɪzmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "immediately",
+        "role": "Adv",
+        "phonetic": "/ɪˈmiːdiətli/",
+        "chinese": "立刻"
+      },
+      {
+        "text": "attracted",
+        "role": "V",
+        "phonetic": "/əˈtræktɪd/",
+        "chinese": "吸引"
+      },
+      {
+        "text": "everyone's",
+        "role": "Det",
+        "phonetic": "/ˈevriwʌnz/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "attention",
+        "role": "O",
+        "phonetic": "/əˈtenʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "没有人会忽略如此成功的促销手段",
+    "english": "No one would ignore such a successful promotion",
+    "soundmark": "/noʊ/ /wʌn/ /wʊd/ /ɪɡˈnɔːr/ /sʌtʃ/ /ə/ /səkˈsesfəl/ /prəˈmoʊʃən/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "ignore",
+        "role": "V",
+        "phonetic": "/ɪɡˈnɔːr/",
+        "chinese": ""
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "successful",
+        "role": "A",
+        "phonetic": "/səkˈsesfəl/",
+        "chinese": "成功的"
+      },
+      {
+        "text": "promotion",
+        "role": "O",
+        "phonetic": "/prəˈmoʊʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这个包装的创意想法使销量大增",
+    "english": "The creative idea for the packaging led to a significant increase in sales",
+    "soundmark": "/ðə/ /kriˈeɪtɪv/ /aɪˈdiːə/ /fɔːr/ /ðə/ /ˈpækɪdʒɪŋ/ /led/ /tuː/ /ə/ /sɪɡˈnɪfɪkənt/ /ɪnˈkriːs/ /ɪn/ /seɪlz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "creative",
+        "role": "A",
+        "phonetic": "/kriˈeɪtɪv/",
+        "chinese": "有创造力的"
+      },
+      {
+        "text": "idea",
+        "role": "S",
+        "phonetic": "/aɪˈdiːə/",
+        "chinese": "想法"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "packaging",
+        "role": "O",
+        "phonetic": "/ˈpækɪdʒɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "led",
+        "role": "V",
+        "phonetic": "/led/",
+        "chinese": "领导/带领（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "significant",
+        "role": "A",
+        "phonetic": "/sɪɡˈnɪfɪkənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "increase",
+        "role": "O",
+        "phonetic": "/ɪnˈkriːs/",
+        "chinese": "增加"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "sales",
+        "role": "O",
+        "phonetic": "/seɪlz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "公司想要一种能引起公众注意的新设计",
+    "english": "The company wanted a new design that would catch the public's eye",
+    "soundmark": "/ðə/ /ˈkʌmpəni/ /ˈwɑːntɪd/ /ə/ /nuː/ /dɪˈzaɪn/ /ðæt/ /wʊd/ /kætʃ/ /ðə/ /ˈpʌblɪks/ /aɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "company",
+        "role": "S",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      },
+      {
+        "text": "wanted",
+        "role": "V",
+        "phonetic": "/ˈwɑːntɪd/",
+        "chinese": "想要"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "design",
+        "role": "O",
+        "phonetic": "/dɪˈzaɪn/",
+        "chinese": "设计"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "catch",
+        "role": "V",
+        "phonetic": "/kætʃ/",
+        "chinese": "抓住"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "public's",
+        "role": "Det",
+        "phonetic": "/ˈpʌblɪks/",
+        "chinese": "公共的"
+      },
+      {
+        "text": "eye",
+        "role": "O",
+        "phonetic": "/aɪ/",
+        "chinese": "眼睛"
+      }
+    ]
+  },
+  {
+    "chinese": "他们要求制造商做一个特别大的饼干罐",
+    "english": "They asked the manufacturer to make an unusually large biscuit tin",
+    "soundmark": "/ðeɪ/ /æskt/ /ðə/ /ˌmænjuˈfæktʃərər/ /tuː/ /meɪk/ /ən/ /ʌnˈjuːʒuəli/ /lɑːrdʒ/ /ˈbɪskɪt/ /tɪn/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "manufacturer",
+        "role": "O",
+        "phonetic": "/ˌmænjuˈfæktʃərər/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "make",
+        "role": "V",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "unusually",
+        "role": "Adv",
+        "phonetic": "/ʌnˈjuːʒuəli/",
+        "chinese": "…地(不寻常的)"
+      },
+      {
+        "text": "large",
+        "role": "A",
+        "phonetic": "/lɑːrdʒ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "biscuit",
+        "role": "A",
+        "phonetic": "/ˈbɪskɪt/",
+        "chinese": "饼干"
+      },
+      {
+        "text": "tin",
+        "role": "O",
+        "phonetic": "/tɪn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "宣传效果超出了所有人的预期",
+    "english": "The publicity effect exceeded everyone's expectations",
+    "soundmark": "/ðə/ /pʌbˈlɪsəti/ /ɪˈfekt/ /ɪkˈsiːdɪd/ /ˈevriwʌnz/ /ˌekspekˈteɪʃənz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "publicity",
+        "role": "A",
+        "phonetic": "/pʌbˈlɪsəti/",
+        "chinese": ""
+      },
+      {
+        "text": "effect",
+        "role": "S",
+        "phonetic": "/ɪˈfekt/",
+        "chinese": "效果"
+      },
+      {
+        "text": "exceeded",
+        "role": "V",
+        "phonetic": "/ɪkˈsiːdɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "everyone's",
+        "role": "Det",
+        "phonetic": "/ˈevriwʌnz/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "expectations",
+        "role": "O",
+        "phonetic": "/ˌekspekˈteɪʃənz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "制造商",
+    "english": "manufacturer",
+    "soundmark": "/ˌmænjuˈfæktʃərər/"
+  },
+  {
+    "chinese": "巨大的",
+    "english": "enormous",
+    "soundmark": "/ɪˈnɔːrməs/"
+  },
+  {
+    "chinese": "吸引",
+    "english": "attract",
+    "soundmark": "/əˈtrækt/"
+  },
+  {
+    "chinese": "创意",
+    "english": "creative",
+    "soundmark": "/kriˈeɪtɪv/"
+  },
+  {
+    "chinese": "销量",
+    "english": "sales",
+    "soundmark": "/seɪlz/"
+  },
+  {
+    "chinese": "超出",
+    "english": "exceed",
+    "soundmark": "/ɪkˈsiːd/"
+  },
+  {
+    "chinese": "预期",
+    "english": "expectation",
+    "soundmark": "/ˌekspekˈteɪʃən/"
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "chinese": "打算去",
+    "english": "going to go",
+    "soundmark": "/ˈɡoʊɪŋ tuː ɡoʊ/"
+  },
+  {
+    "chinese": "打算吃",
+    "english": "going to eat",
+    "soundmark": "/ˈɡoʊɪŋ tuː iːt/"
+  },
+  {
+    "chinese": "打算做",
+    "english": "going to do",
+    "soundmark": "/ˈɡoʊɪŋ tuː duː/"
+  },
+  {
+    "chinese": "打算买",
+    "english": "going to buy",
+    "soundmark": "/ˈɡoʊɪŋ tuː baɪ/"
+  },
+  {
+    "chinese": "我打算去睡觉了。",
+    "english": "I am going to sleep",
+    "soundmark": "/aɪ æm ˈɡoʊɪŋ tuː sliːp/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am going to",
+        "role": "V",
+        "phonetic": "/æm ˈɡoʊɪŋ tuː/",
+        "chinese": "是/到/向"
+      },
+      {
+        "text": "sleep",
+        "role": "V",
+        "phonetic": "/sliːp/",
+        "chinese": "睡觉"
+      }
+    ]
+  },
+  {
+    "chinese": "她打算买一辆新车。",
+    "english": "She is going to buy a new car",
+    "soundmark": "/ʃiː ɪz ˈɡoʊɪŋ tuː baɪ ə nuː kɑːr/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is going to",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "a new car",
+        "role": "O",
+        "phonetic": "/ə nuː kɑːr/",
+        "chinese": "一个/新的/汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "我们要去看电影。",
+    "english": "We are going to watch a movie",
+    "soundmark": "/wiː ɑːr ˈɡoʊɪŋ tuː wɑːtʃ ə ˈmuːvi/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are going to",
+        "role": "V",
+        "phonetic": "/ɑːr ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "watch",
+        "role": "V",
+        "phonetic": "/wɑːtʃ/",
+        "chinese": "观看"
+      },
+      {
+        "text": "a movie",
+        "role": "O",
+        "phonetic": "/ə ˈmuːvi/",
+        "chinese": "一个/电影"
+      }
+    ]
+  },
+  {
+    "chinese": "天要下雨了。",
+    "english": "It is going to rain",
+    "soundmark": "/ɪt ɪz ˈɡoʊɪŋ tuː reɪn/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is going to",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "rain",
+        "role": "V",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算做什么？",
+    "english": "What are you going to do",
+    "soundmark": "/wʌt ɑːr juː ˈɡoʊɪŋ tuː duː/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算去哪里？",
+    "english": "Where are you going to go",
+    "soundmark": "/wer ɑːr juː ˈɡoʊɪŋ tuː ɡoʊ/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      }
+    ]
+  },
+  {
+    "chinese": "他打算学中文。",
+    "english": "He is going to learn Chinese",
+    "soundmark": "/hiː ɪz ˈɡoʊɪŋ tuː lɜːrn tʃaɪˈniːz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is going to",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "learn",
+        "role": "V",
+        "phonetic": "/lɜːrn/",
+        "chinese": "学习"
+      },
+      {
+        "text": "Chinese",
+        "role": "O",
+        "phonetic": "/tʃaɪˈniːz/",
+        "chinese": "中国人/中文"
+      }
+    ]
+  },
+  {
+    "chinese": "我不打算去。",
+    "english": "I am not going to go",
+    "soundmark": "/aɪ æm nɑːt ˈɡoʊɪŋ tuː ɡoʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am not going to",
+        "role": "V",
+        "phonetic": "/æm nɑːt ˈɡoʊɪŋ tuː/",
+        "chinese": "不准备/不会"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      }
+    ]
+  },
+  {
+    "chinese": "她不打算来。",
+    "english": "She is not going to come",
+    "soundmark": "/ʃiː ɪz nɑːt ˈɡoʊɪŋ tuː kʌm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is not going to",
+        "role": "V",
+        "phonetic": "/ɪz nɑːt ˈɡoʊɪŋ tuː/",
+        "chinese": "不会/不打算"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算告诉他真相吗？",
+    "english": "Are you going to tell him the truth",
+    "soundmark": "/ɑːr juː ˈɡoʊɪŋ tuː tel hɪm ðə truːθ/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "the truth",
+        "role": "O",
+        "phonetic": "/ðə truːθ/",
+        "chinese": "真相"
+      }
+    ]
+  },
+  {
+    "chinese": "我今晚打算做晚饭。",
+    "english": "I am going to cook dinner tonight",
+    "soundmark": "/aɪ æm ˈɡoʊɪŋ tuː kʊk ˈdɪnər təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am going to",
+        "role": "V",
+        "phonetic": "/æm ˈɡoʊɪŋ tuː/",
+        "chinese": "是/到/向"
+      },
+      {
+        "text": "cook",
+        "role": "V",
+        "phonetic": "/kʊk/",
+        "chinese": "烹饪"
+      },
+      {
+        "text": "dinner",
+        "role": "O",
+        "phonetic": "/ˈdɪnər/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他们打算下周搬家。",
+    "english": "They are going to move next week",
+    "soundmark": "/ðeɪ ɑːr ˈɡoʊɪŋ tuː muːv nekst wiːk/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are going to",
+        "role": "V",
+        "phonetic": "/ɑːr ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "move",
+        "role": "V",
+        "phonetic": "/muːv/",
+        "chinese": "移动"
+      },
+      {
+        "text": "next week",
+        "role": "A",
+        "phonetic": "/nekst wiːk/",
+        "chinese": "下周"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算什么时候回家？",
+    "english": "When are you going to go home",
+    "soundmark": "/wen ɑːr juː ˈɡoʊɪŋ tuː ɡoʊ hoʊm/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "我打算明天去看医生。",
+    "english": "I am going to see a doctor tomorrow",
+    "soundmark": "/aɪ æm ˈɡoʊɪŋ tuː siː ə ˈdɑːktər təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am going to",
+        "role": "V",
+        "phonetic": "/æm ˈɡoʊɪŋ tuː/",
+        "chinese": "是/到/向"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "a doctor",
+        "role": "O",
+        "phonetic": "/ə ˈdɑːktər/",
+        "chinese": "一名医生"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "这个周末会很有趣。",
+    "english": "This weekend is going to be fun",
+    "soundmark": "/ðɪs ˈwiːkend ɪz ˈɡoʊɪŋ tuː biː fʌn/",
+    "grammar": [
+      {
+        "text": "This weekend",
+        "role": "S",
+        "phonetic": "/ðɪs ˈwiːkend/",
+        "chinese": "这个/周末"
+      },
+      {
+        "text": "is going to be",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡoʊɪŋ tuː biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "fun",
+        "role": "C",
+        "phonetic": "/fʌn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我相信他会通过考试的。",
+    "english": "I am sure he is going to pass the test",
+    "soundmark": "/aɪ æm ʃʊr hiː ɪz ˈɡoʊɪŋ tuː pæs ðə test/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "sure",
+        "role": "C",
+        "phonetic": "/ʃʊr/",
+        "chinese": "确定的"
+      },
+      {
+        "text": "he is going to pass the test",
+        "role": "O",
+        "phonetic": "/hiː ɪz ˈɡoʊɪŋ tuː pæs ðə test/",
+        "chinese": "他/是/到/向/通过/传递/这个/那个/测试"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算怎么去机场？",
+    "english": "How are you going to get to the airport",
+    "soundmark": "/haʊ ɑːr juː ˈɡoʊɪŋ tuː ɡet tuː ðə ˈerpɔːrt/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "A",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "to the airport",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈerpɔːrt/",
+        "chinese": "到/向/这个/那个/机场"
+      }
+    ]
+  },
+  {
+    "chinese": "我不打算再等了。",
+    "english": "I am not going to wait any longer",
+    "soundmark": "/aɪ æm nɑːt ˈɡoʊɪŋ tuː weɪt ˈeni ˈlɔːŋɡər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am not going to",
+        "role": "V",
+        "phonetic": "/æm nɑːt ˈɡoʊɪŋ tuː/",
+        "chinese": "不准备/不会"
+      },
+      {
+        "text": "wait",
+        "role": "V",
+        "phonetic": "/weɪt/",
+        "chinese": "等"
+      },
+      {
+        "text": "any longer",
+        "role": "A",
+        "phonetic": "/ˈeni ˈlɔːŋɡər/",
+        "chinese": "任何/更…的/…者(长的)"
+      }
+    ]
+  },
+  {
+    "chinese": "她打算毕业后开始创业。",
+    "english": "She is going to start a business after graduation",
+    "soundmark": "/ʃiː ɪz ˈɡoʊɪŋ tuː stɑːrt ə ˈbɪznəs ˈæftər ˌɡrædʒuˈeɪʃn/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is going to",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "start",
+        "role": "V",
+        "phonetic": "/stɑːrt/",
+        "chinese": "开始"
+      },
+      {
+        "text": "a business",
+        "role": "O",
+        "phonetic": "/ə ˈbɪznəs/",
+        "chinese": "一个/生意/商业"
+      },
+      {
+        "text": "after graduation",
+        "role": "A",
+        "phonetic": "/ˈæftər ˌɡrædʒuˈeɪʃn/",
+        "chinese": "在…之后"
+      }
+    ]
+  },
+  {
+    "chinese": "我们今晚打算出去吃饭。",
+    "english": "We are going to eat out tonight",
+    "soundmark": "/wiː ɑːr ˈɡoʊɪŋ tuː iːt aʊt təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are going to",
+        "role": "V",
+        "phonetic": "/ɑːr ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "eat out",
+        "role": "V",
+        "phonetic": "/iːt aʊt/",
+        "chinese": "吃/出去"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算跟谁一起去？",
+    "english": "Who are you going to go with",
+    "soundmark": "/huː ɑːr juː ˈɡoʊɪŋ tuː ɡoʊ wɪð/",
+    "grammar": [
+      {
+        "text": "Who",
+        "role": "O",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "with",
+        "role": "A",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      }
+    ]
+  },
+  {
+    "chinese": "这将会是一场很棒的旅行。",
+    "english": "It is going to be a great trip",
+    "soundmark": "/ɪt ɪz ˈɡoʊɪŋ tuː biː ə ɡreɪt trɪp/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is going to be",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡoʊɪŋ tuː biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "a great trip",
+        "role": "C",
+        "phonetic": "/ə ɡreɪt trɪp/",
+        "chinese": "一个/伟大的/很棒的/旅行"
+      }
+    ]
+  },
+  {
+    "chinese": "他打算今年夏天去日本。",
+    "english": "He is going to visit Japan this summer",
+    "soundmark": "/hiː ɪz ˈɡoʊɪŋ tuː ˈvɪzɪt dʒəˈpæn ðɪs ˈsʌmər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is going to",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "visit",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪt/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "Japan",
+        "role": "O",
+        "phonetic": "/dʒəˈpæn/",
+        "chinese": "日本"
+      },
+      {
+        "text": "this summer",
+        "role": "A",
+        "phonetic": "/ðɪs ˈsʌmər/",
+        "chinese": "这个/夏天"
+      }
+    ]
+  },
+  {
+    "chinese": "我不打算改变主意。",
+    "english": "I am not going to change my mind",
+    "soundmark": "/aɪ æm nɑːt ˈɡoʊɪŋ tuː tʃeɪndʒ maɪ maɪnd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am not going to",
+        "role": "V",
+        "phonetic": "/æm nɑːt ˈɡoʊɪŋ tuː/",
+        "chinese": "不准备/不会"
+      },
+      {
+        "text": "change",
+        "role": "V",
+        "phonetic": "/tʃeɪndʒ/",
+        "chinese": "改变"
+      },
+      {
+        "text": "my mind",
+        "role": "O",
+        "phonetic": "/maɪ maɪnd/",
+        "chinese": "我的/介意"
+      }
+    ]
+  },
+  {
+    "chinese": "你要参加派对吗？",
+    "english": "Are you going to join the party",
+    "soundmark": "/ɑːr juː ˈɡoʊɪŋ tuː dʒɔɪn ðə ˈpɑːrti/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "join",
+        "role": "V",
+        "phonetic": "/dʒɔɪn/",
+        "chinese": "加入"
+      },
+      {
+        "text": "the party",
+        "role": "O",
+        "phonetic": "/ðə ˈpɑːrti/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我打算下个月开始学吉他。",
+    "english": "I am going to learn guitar next month",
+    "soundmark": "/aɪ æm ˈɡoʊɪŋ tuː lɜːrn ɡɪˈtɑːr nekst mʌnθ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am going to",
+        "role": "V",
+        "phonetic": "/æm ˈɡoʊɪŋ tuː/",
+        "chinese": "是/到/向"
+      },
+      {
+        "text": "learn",
+        "role": "V",
+        "phonetic": "/lɜːrn/",
+        "chinese": "学习"
+      },
+      {
+        "text": "guitar",
+        "role": "O",
+        "phonetic": "/ɡɪˈtɑːr/",
+        "chinese": "吉他"
+      },
+      {
+        "text": "next month",
+        "role": "A",
+        "phonetic": "/nekst mʌnθ/",
+        "chinese": "下个月"
+      }
+    ]
+  },
+  {
+    "chinese": "她想成为一名老师。",
+    "english": "She is going to be a teacher",
+    "soundmark": "/ʃiː ɪz ˈɡoʊɪŋ tuː biː ə ˈtiːtʃər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is going to be",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡoʊɪŋ tuː biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "a teacher",
+        "role": "C",
+        "phonetic": "/ə ˈtiːtʃər/",
+        "chinese": "一名老师"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算告诉父母吗？",
+    "english": "Are you going to tell your parents",
+    "soundmark": "/ɑːr juː ˈɡoʊɪŋ tuː tel jɔːr ˈperənts/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "your parents",
+        "role": "O",
+        "phonetic": "/jɔːr ˈperənts/",
+        "chinese": "你的/你们的/父母"
+      }
+    ]
+  },
+  {
+    "chinese": "我们明年打算要一个宝宝。",
+    "english": "We are going to have a baby next year",
+    "soundmark": "/wiː ɑːr ˈɡoʊɪŋ tuː hæv ə ˈbeɪbi nekst jɪr/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are going to",
+        "role": "V",
+        "phonetic": "/ɑːr ˈɡoʊɪŋ tuː/",
+        "chinese": "将要"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a baby",
+        "role": "O",
+        "phonetic": "/ə ˈbeɪbi/",
+        "chinese": "一个/婴儿"
+      },
+      {
+        "text": "next year",
+        "role": "A",
+        "phonetic": "/nekst jɪr/",
+        "chinese": "明年"
+      }
+    ]
+  },
+  {
+    "chinese": "这看起来像要下雪了。",
+    "english": "It looks like it is going to snow",
+    "soundmark": "/ɪt lʊks laɪk ɪt ɪz ˈɡoʊɪŋ tuː snoʊ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "looks like",
+        "role": "V",
+        "phonetic": "/lʊks laɪk/",
+        "chinese": "…们/复数(看起来)/喜欢"
+      },
+      {
+        "text": "it is going to snow",
+        "role": "O",
+        "phonetic": "/ɪt ɪz ˈɡoʊɪŋ tuː snoʊ/",
+        "chinese": "它/是/到/向/雪"
+      }
+    ]
+  },
+  {
+    "chinese": "烹饪",
+    "english": "cook",
+    "soundmark": "/kʊk/"
+  },
+  {
+    "chinese": "通过",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "改变",
+    "english": "change",
+    "soundmark": "/tʃeɪndʒ/"
+  },
+  {
+    "chinese": "主意",
+    "english": "mind",
+    "soundmark": "/maɪnd/"
+  },
+  {
+    "chinese": "毕业",
+    "english": "graduation",
+    "soundmark": "/ˌɡrædʒuˈeɪʃn/"
+  },
+  {
+    "chinese": "生意",
+    "english": "business",
+    "soundmark": "/ˈbɪznəs/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "trip",
+    "soundmark": "/trɪp/"
+  },
+  {
+    "chinese": "吉他",
+    "english": "guitar",
+    "soundmark": "/ɡɪˈtɑːr/"
+  }
+]

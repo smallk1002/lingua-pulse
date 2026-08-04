@@ -1,0 +1,761 @@
+[
+  {
+    "chinese": "蝙蝠",
+    "english": "bat",
+    "soundmark": "/bæt/"
+  },
+  {
+    "chinese": "声呐",
+    "english": "sonar",
+    "soundmark": "/ˈsoʊnɑːr/"
+  },
+  {
+    "chinese": "回声定位",
+    "english": "echolocation",
+    "soundmark": "/ˌekoʊloʊˈkeɪʃn/"
+  },
+  {
+    "chinese": "超声波",
+    "english": "ultrasonic",
+    "soundmark": "/ˌʌltrəˈsɑːnɪk/"
+  },
+  {
+    "chinese": "频率",
+    "english": "frequency",
+    "soundmark": "/ˈfriːkwənsi/"
+  },
+  {
+    "chinese": "黑暗中",
+    "english": "darkness",
+    "soundmark": "/ˈdɑːrknəs/"
+  },
+  {
+    "chinese": "导航",
+    "english": "navigate",
+    "soundmark": "/ˈnævɪɡeɪt/"
+  },
+  {
+    "chinese": "探测",
+    "english": "detect",
+    "soundmark": "/dɪˈtekt/"
+  },
+  {
+    "chinese": "精确的",
+    "english": "precise",
+    "soundmark": "/prɪˈsaɪs/"
+  },
+  {
+    "chinese": "发射",
+    "english": "emit",
+    "soundmark": "/iˈmɪt/"
+  },
+  {
+    "chinese": "反射",
+    "english": "reflect",
+    "soundmark": "/rɪˈflekt/"
+  },
+  {
+    "chinese": "障碍物",
+    "english": "obstacle",
+    "soundmark": "/ˈɑːbstəkl/"
+  },
+  {
+    "chinese": "猎物",
+    "english": "prey",
+    "soundmark": "/preɪ/"
+  },
+  {
+    "chinese": "适应",
+    "english": "adaptation",
+    "soundmark": "/ˌædæpˈteɪʃn/"
+  },
+  {
+    "chinese": "感官",
+    "english": "sensory",
+    "soundmark": "/ˈsensəri/"
+  },
+  {
+    "chinese": "在黑暗中飞行",
+    "english": "fly in the dark",
+    "soundmark": "/flaɪ/ /ɪn/ /ðə/ /dɑːrk/"
+  },
+  {
+    "chinese": "发射超声波",
+    "english": "emit ultrasonic waves",
+    "soundmark": "/iˈmɪt/ /ˌʌltrəˈsɑːnɪk/ /weɪvz/"
+  },
+  {
+    "chinese": "声呐系统",
+    "english": "sonar system",
+    "soundmark": "/ˈsoʊnɑːr/ /ˈsɪstəm/"
+  },
+  {
+    "chinese": "精确定位",
+    "english": "precise location",
+    "soundmark": "/prɪˈsaɪs/ /loʊˈkeɪʃn/"
+  },
+  {
+    "chinese": "回声定位能力",
+    "english": "echolocation ability",
+    "soundmark": "/ˌekoʊloʊˈkeɪʃn/ /əˈbɪləti/"
+  },
+  {
+    "chinese": "蝙蝠发出高频率的声波",
+    "english": "bats emit high-frequency sounds",
+    "soundmark": "/bæts/ /iˈmɪt/ /haɪ/ /ˈfriːkwənsi/ /saʊndz/",
+    "grammar": [
+      {
+        "text": "bats",
+        "role": "S",
+        "phonetic": "/bæts/",
+        "chinese": "…们/复数(蝙蝠/球拍)"
+      },
+      {
+        "text": "emit",
+        "role": "V",
+        "phonetic": "/iˈmɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "high-frequency",
+        "role": "A",
+        "phonetic": "/haɪ/ /ˈfriːkwənsi/",
+        "chinese": ""
+      },
+      {
+        "text": "sounds",
+        "role": "O",
+        "phonetic": "/saʊndz/",
+        "chinese": "声音"
+      }
+    ]
+  },
+  {
+    "chinese": "它们通过接收回声来导航",
+    "english": "they navigate by receiving the echoes",
+    "soundmark": "/ðeɪ/ /ˈnævɪɡeɪt/ /baɪ/ /rɪˈsiːvɪŋ/ /ði/ /ˈekoʊz/",
+    "grammar": [
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "navigate",
+        "role": "V",
+        "phonetic": "/ˈnævɪɡeɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "receiving",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvɪŋ/",
+        "chinese": "接收的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "echoes",
+        "role": "O",
+        "phonetic": "/ˈekoʊz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "蝙蝠发出尖叫声这些尖叫声从障碍物上弹回",
+    "english": "the bat utters squeaks which bounce off obstacles",
+    "soundmark": "/ðə/ /bæt/ /ˈʌtərz/ /skwiːks/ /wɪtʃ/ /baʊns/ /ɔːf/ /ˈɑːbstəklz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bat",
+        "role": "S",
+        "phonetic": "/bæt/",
+        "chinese": "蝙蝠/球拍"
+      },
+      {
+        "text": "utters",
+        "role": "V",
+        "phonetic": "/ˈʌtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "squeaks",
+        "role": "O",
+        "phonetic": "/skwiːks/",
+        "chinese": ""
+      },
+      {
+        "text": "which",
+        "role": "S",
+        "phonetic": "/wɪtʃ/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "bounce",
+        "role": "V",
+        "phonetic": "/baʊns/",
+        "chinese": ""
+      },
+      {
+        "text": "off",
+        "role": "P",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "obstacles",
+        "role": "O",
+        "phonetic": "/ˈɑːbstəklz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "飞行中的蝙蝠发出的声音人类是听不见的",
+    "english": "the sounds emitted by flying bats are inaudible to humans",
+    "soundmark": "/ðə/ /saʊndz/ /iˈmɪtɪd/ /baɪ/ /ˈflaɪɪŋ/ /bæts/ /ɑːr/ /ɪnˈɔːdəbl/ /tuː/ /ˈhjuːmənz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sounds",
+        "role": "S",
+        "phonetic": "/saʊndz/",
+        "chinese": "声音"
+      },
+      {
+        "text": "emitted",
+        "role": "V",
+        "phonetic": "/iˈmɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "flying",
+        "role": "A",
+        "phonetic": "/ˈflaɪɪŋ/",
+        "chinese": "飞的"
+      },
+      {
+        "text": "bats",
+        "role": "O",
+        "phonetic": "/bæts/",
+        "chinese": "…们/复数(蝙蝠/球拍)"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "inaudible",
+        "role": "C",
+        "phonetic": "/ɪnˈɔːdəbl/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "humans",
+        "role": "O",
+        "phonetic": "/ˈhjuːmənz/",
+        "chinese": "…们/复数(人类)"
+      }
+    ]
+  },
+  {
+    "chinese": "蝙蝠具有极其精确的回声定位能力",
+    "english": "the bat is equipped with a remarkably precise echolocation system",
+    "soundmark": "/ðə/ /bæt/ /ɪz/ /ɪˈkwɪpt/ /wɪð/ /ə/ /rɪˈmɑːrkəbli/ /prɪˈsaɪs/ /ˌekoʊloʊˈkeɪʃn/ /ˈsɪstəm/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bat",
+        "role": "S",
+        "phonetic": "/bæt/",
+        "chinese": "蝙蝠/球拍"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "equipped",
+        "role": "V",
+        "phonetic": "/ɪˈkwɪpt/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "remarkably",
+        "role": "Adv",
+        "phonetic": "/rɪˈmɑːrkəbli/",
+        "chinese": ""
+      },
+      {
+        "text": "precise",
+        "role": "A",
+        "phonetic": "/prɪˈsaɪs/",
+        "chinese": "精确的"
+      },
+      {
+        "text": "echolocation",
+        "role": "A",
+        "phonetic": "/ˌekoʊloʊˈkeɪʃn/",
+        "chinese": ""
+      },
+      {
+        "text": "system",
+        "role": "O",
+        "phonetic": "/ˈsɪstəm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "蝙蝠不依赖眼睛飞行这一事实令人惊叹",
+    "english": "the fact that bats do not rely on their eyes to fly is astonishing",
+    "soundmark": "/ðə/ /fækt/ /ðæt/ /bæts/ /duː/ /nɑːt/ /rɪˈlaɪ/ /ɑːn/ /ðer/ /aɪz/ /tuː/ /flaɪ/ /ɪz/ /əˈstɑːnɪʃɪŋ/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fact",
+        "role": "S",
+        "phonetic": "/fækt/",
+        "chinese": "事实"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "bats",
+        "role": "S",
+        "phonetic": "/bæts/",
+        "chinese": "…们/复数(蝙蝠/球拍)"
+      },
+      {
+        "text": "do",
+        "role": "Aux",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "rely",
+        "role": "V",
+        "phonetic": "/rɪˈlaɪ/",
+        "chinese": "依靠"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "eyes",
+        "role": "O",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "fly",
+        "role": "V",
+        "phonetic": "/flaɪ/",
+        "chinese": "飞"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "astonishing",
+        "role": "C",
+        "phonetic": "/əˈstɑːnɪʃɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在完全黑暗中蝙蝠可以探测到像蚊子一样小的物体",
+    "english": "in total darkness a bat can detect an object as small as a mosquito",
+    "soundmark": "/ɪn/ /ˈtoʊtl/ /ˈdɑːrknəs/ /ə/ /bæt/ /kæn/ /dɪˈtekt/ /æn/ /ˈɑːbdʒekt/ /æz/ /smɔːl/ /æz/ /ə/ /məˈskiːtoʊ/",
+    "grammar": [
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "total",
+        "role": "A",
+        "phonetic": "/ˈtoʊtl/",
+        "chinese": ""
+      },
+      {
+        "text": "darkness",
+        "role": "O",
+        "phonetic": "/ˈdɑːrknəs/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bat",
+        "role": "S",
+        "phonetic": "/bæt/",
+        "chinese": "蝙蝠/球拍"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "detect",
+        "role": "V",
+        "phonetic": "/dɪˈtekt/",
+        "chinese": ""
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/æn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "object",
+        "role": "O",
+        "phonetic": "/ˈɑːbdʒekt/",
+        "chinese": ""
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "small",
+        "role": "A",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "mosquito",
+        "role": "O",
+        "phonetic": "/məˈskiːtoʊ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "回声定位的原理如今早已应用于潜艇的声呐系统",
+    "english": "the principle of echolocation has long been applied to sonar systems in submarines",
+    "soundmark": "/ðə/ /ˈprɪnsəpl/ /ʌv/ /ˌekoʊloʊˈkeɪʃn/ /hæz/ /lɔːŋ/ /bɪn/ /əˈplaɪd/ /tuː/ /ˈsoʊnɑːr/ /ˈsɪstəmz/ /ɪn/ /ˌsʌbməˈriːnz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "principle",
+        "role": "S",
+        "phonetic": "/ˈprɪnsəpl/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "echolocation",
+        "role": "O",
+        "phonetic": "/ˌekoʊloʊˈkeɪʃn/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "long",
+        "role": "Adv",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "applied",
+        "role": "V",
+        "phonetic": "/əˈplaɪd/",
+        "chinese": "申请/应用"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "sonar",
+        "role": "A",
+        "phonetic": "/ˈsoʊnɑːr/",
+        "chinese": ""
+      },
+      {
+        "text": "systems",
+        "role": "O",
+        "phonetic": "/ˈsɪstəmz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "submarines",
+        "role": "O",
+        "phonetic": "/ˌsʌbməˈriːnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "蝙蝠每秒可以发出多达二百次的高频脉冲",
+    "english": "a bat can emit up to two hundred high-frequency pulses per second",
+    "soundmark": "/ə/ /bæt/ /kæn/ /iˈmɪt/ /ʌp/ /tuː/ /tuː/ /ˈhʌndrəd/ /haɪ/ /ˈfriːkwənsi/ /ˈpʌlsɪz/ /pɜːr/ /ˈsekənd/",
+    "grammar": [
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bat",
+        "role": "S",
+        "phonetic": "/bæt/",
+        "chinese": "蝙蝠/球拍"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "emit",
+        "role": "V",
+        "phonetic": "/iˈmɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "two",
+        "role": "A",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "hundred",
+        "role": "A",
+        "phonetic": "/ˈhʌndrəd/",
+        "chinese": "百"
+      },
+      {
+        "text": "high-frequency",
+        "role": "A",
+        "phonetic": "/haɪ/ /ˈfriːkwənsi/",
+        "chinese": ""
+      },
+      {
+        "text": "pulses",
+        "role": "O",
+        "phonetic": "/ˈpʌlsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "per",
+        "role": "P",
+        "phonetic": "/pɜːr/",
+        "chinese": "每"
+      },
+      {
+        "text": "second",
+        "role": "O",
+        "phonetic": "/ˈsekənd/",
+        "chinese": "第二"
+      }
+    ]
+  },
+  {
+    "chinese": "令人惊叹",
+    "english": "astonishing",
+    "soundmark": "/əˈstɑːnɪʃɪŋ/"
+  },
+  {
+    "chinese": "听不见的",
+    "english": "inaudible",
+    "soundmark": "/ɪnˈɔːdəbl/"
+  },
+  {
+    "chinese": "装备",
+    "english": "equip",
+    "soundmark": "/ɪˈkwɪp/"
+  },
+  {
+    "chinese": "原理",
+    "english": "principle",
+    "soundmark": "/ˈprɪnsəpl/"
+  },
+  {
+    "chinese": "潜艇",
+    "english": "submarine",
+    "soundmark": "/ˌsʌbməˈriːn/"
+  },
+  {
+    "chinese": "蚊子",
+    "english": "mosquito",
+    "soundmark": "/məˈskiːtoʊ/"
+  },
+  {
+    "chinese": "脉冲",
+    "english": "pulse",
+    "soundmark": "/pʌls/"
+  },
+  {
+    "chinese": "尖叫",
+    "english": "squeak",
+    "soundmark": "/skwiːk/"
+  },
+  {
+    "chinese": "反弹",
+    "english": "bounce",
+    "soundmark": "/baʊns/"
+  },
+  {
+    "chinese": "发出",
+    "english": "utter",
+    "soundmark": "/ˈʌtər/"
+  }
+]

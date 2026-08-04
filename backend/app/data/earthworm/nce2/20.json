@@ -1,0 +1,1090 @@
+[
+  {
+    "chinese": "钓鱼",
+    "english": "fishing",
+    "soundmark": "/ˈfɪʃɪŋ/"
+  },
+  {
+    "chinese": "抓住",
+    "english": "catch",
+    "soundmark": "/kætʃ/"
+  },
+  {
+    "chinese": "渔夫",
+    "english": "fisherman",
+    "soundmark": "/ˈfɪʃərmən/"
+  },
+  {
+    "chinese": "靴子",
+    "english": "boot",
+    "soundmark": "/buːt/"
+  },
+  {
+    "chinese": "浪费",
+    "english": "waste",
+    "soundmark": "/weɪst/"
+  },
+  {
+    "chinese": "意识到",
+    "english": "realize",
+    "soundmark": "/ˈriːəlaɪz/"
+  },
+  {
+    "chinese": "重要的",
+    "english": "important",
+    "soundmark": "/ɪmˈpɔːrtənt/"
+  },
+  {
+    "chinese": "放弃",
+    "english": "give up",
+    "soundmark": "/ɡɪv/ /ʌp/"
+  },
+  {
+    "chinese": "钓鱼竿",
+    "english": "fishing rod",
+    "soundmark": "/ˈfɪʃɪŋ/ /rɑːd/"
+  },
+  {
+    "chinese": "一整天",
+    "english": "all day",
+    "soundmark": "/ɔːl/ /deɪ/"
+  },
+  {
+    "chinese": "坐在船上",
+    "english": "sit in a boat",
+    "soundmark": "/sɪt/ /ɪn/ /ə/ /boʊt/"
+  },
+  {
+    "chinese": "什么都没钓到",
+    "english": "catch nothing",
+    "soundmark": "/kætʃ/ /ˈnʌθɪŋ/"
+  },
+  {
+    "chinese": "浪费时间",
+    "english": "waste of time",
+    "soundmark": "/weɪst/ /ʌv/ /taɪm/"
+  },
+  {
+    "chinese": "别在意",
+    "english": "not care",
+    "soundmark": "/nɑːt/ /ker/"
+  },
+  {
+    "chinese": "河岸边",
+    "english": "river bank",
+    "soundmark": "/ˈrɪvər/ /bæŋk/"
+  },
+  {
+    "chinese": "我爱好钓鱼",
+    "english": "I am fond of fishing",
+    "soundmark": "/aɪ/ /æm/ /fɑːnd/ /ʌv/ /ˈfɪʃɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "fond",
+        "role": "C",
+        "phonetic": "/fɑːnd/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "fishing",
+        "role": "O",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "chinese": "钓鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "钓鱼是我最喜欢的消遣",
+    "english": "Fishing is my favourite sport",
+    "soundmark": "/ˈfɪʃɪŋ/ /ɪz/ /maɪ/ /ˈfeɪvərɪt/ /spɔːrt/",
+    "grammar": [
+      {
+        "text": "Fishing",
+        "role": "S",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "chinese": "钓鱼"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "favourite",
+        "role": "A",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "chinese": "最喜欢的"
+      },
+      {
+        "text": "sport",
+        "role": "C",
+        "phonetic": "/spɔːrt/",
+        "chinese": "运动"
+      }
+    ]
+  },
+  {
+    "chinese": "我经常一钓就是一整天",
+    "english": "I often sit in a boat all day",
+    "soundmark": "/aɪ/ /ˈɔːfən/ /sɪt/ /ɪn/ /ə/ /boʊt/ /ɔːl/ /deɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "sit",
+        "role": "V",
+        "phonetic": "/sɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "boat",
+        "role": "O",
+        "phonetic": "/boʊt/",
+        "chinese": "小船"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "我什么也没钓到",
+    "english": "I caught nothing",
+    "soundmark": "/aɪ/ /kɔːt/ /ˈnʌθɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "nothing",
+        "role": "O",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      }
+    ]
+  },
+  {
+    "chinese": "有些渔夫运气不好",
+    "english": "Some fishermen are unlucky",
+    "soundmark": "/sʌm/ /ˈfɪʃərmən/ /ɑːr/ /ʌnˈlʌki/",
+    "grammar": [
+      {
+        "text": "Some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "fishermen",
+        "role": "S",
+        "phonetic": "/ˈfɪʃərmən/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "unlucky",
+        "role": "C",
+        "phonetic": "/ʌnˈlʌki/",
+        "chinese": "不幸的"
+      }
+    ]
+  },
+  {
+    "chinese": "他们抓的是旧靴子和垃圾",
+    "english": "They catch old boots and rubbish",
+    "soundmark": "/ðeɪ/ /kætʃ/ /oʊld/ /buːts/ /ænd/ /ˈrʌbɪʃ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "catch",
+        "role": "V",
+        "phonetic": "/kætʃ/",
+        "chinese": "抓住"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "boots",
+        "role": "O",
+        "phonetic": "/buːts/",
+        "chinese": "靴子"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "rubbish",
+        "role": "O",
+        "phonetic": "/ˈrʌbɪʃ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我没钓到过任何东西",
+    "english": "I have never caught anything",
+    "soundmark": "/aɪ/ /hæv/ /ˈnevər/ /kɔːt/ /ˈeniθɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      }
+    ]
+  },
+  {
+    "chinese": "我不担心钓不到鱼",
+    "english": "I am not worried about catching no fish",
+    "soundmark": "/aɪ/ /æm/ /nɑːt/ /ˈwɜːrid/ /əˈbaʊt/ /ˈkætʃɪŋ/ /noʊ/ /fɪʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "worried",
+        "role": "C",
+        "phonetic": "/ˈwɜːrid/",
+        "chinese": "担心的"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "catching",
+        "role": "O",
+        "phonetic": "/ˈkætʃɪŋ/",
+        "chinese": "抓住"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "fish",
+        "role": "O",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "浪费时间对我而言不重要",
+    "english": "Wasting time is not important to me",
+    "soundmark": "/ˈweɪstɪŋ/ /taɪm/ /ɪz/ /nɑːt/ /ɪmˈpɔːrtənt/ /tuː/ /miː/",
+    "grammar": [
+      {
+        "text": "Wasting",
+        "role": "S",
+        "phonetic": "/ˈweɪstɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "important",
+        "role": "C",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "他放弃了钓鱼",
+    "english": "He gave up fishing",
+    "soundmark": "/hiː/ /ɡeɪv/ /ʌp/ /ˈfɪʃɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "gave",
+        "role": "V",
+        "phonetic": "/ɡeɪv/",
+        "chinese": "给（过去式）"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "fishing",
+        "role": "O",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "chinese": "钓鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "我喜欢在周末钓鱼",
+    "english": "I enjoy fishing on weekends",
+    "soundmark": "/aɪ/ /ɪnˈdʒɔɪ/ /ˈfɪʃɪŋ/ /ɑːn/ /ˈwiːkendz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "enjoy",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "fishing",
+        "role": "O",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "chinese": "钓鱼"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "weekends",
+        "role": "O",
+        "phonetic": "/ˈwiːkendz/",
+        "chinese": "周末"
+      }
+    ]
+  },
+  {
+    "chinese": "比起工作我更喜欢钓鱼",
+    "english": "I prefer fishing to working",
+    "soundmark": "/aɪ/ /prɪˈfɜːr/ /ˈfɪʃɪŋ/ /tuː/ /ˈwɜːrkɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "prefer",
+        "role": "V",
+        "phonetic": "/prɪˈfɜːr/",
+        "chinese": ""
+      },
+      {
+        "text": "fishing",
+        "role": "O",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "chinese": "钓鱼"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "working",
+        "role": "O",
+        "phonetic": "/ˈwɜːrkɪŋ/",
+        "chinese": "工作的/有效的"
+      }
+    ]
+  },
+  {
+    "chinese": "坐在船上等鱼上钩是一种享受",
+    "english": "Sitting in a boat and waiting for a bite is a pleasure",
+    "soundmark": "/ˈsɪtɪŋ/ /ɪn/ /ə/ /boʊt/ /ænd/ /ˈweɪtɪŋ/ /fɔːr/ /ə/ /baɪt/ /ɪz/ /ə/ /ˈpleʒər/",
+    "grammar": [
+      {
+        "text": "Sitting",
+        "role": "S",
+        "phonetic": "/ˈsɪtɪŋ/",
+        "chinese": "坐着的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "boat",
+        "role": "O",
+        "phonetic": "/boʊt/",
+        "chinese": "小船"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "waiting",
+        "role": "S",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bite",
+        "role": "O",
+        "phonetic": "/baɪt/",
+        "chinese": "咬"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pleasure",
+        "role": "C",
+        "phonetic": "/ˈpleʒər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他从不担心浪费时间",
+    "english": "He never worries about wasting time",
+    "soundmark": "/hiː/ /ˈnevər/ /ˈwɜːriz/ /əˈbaʊt/ /ˈweɪstɪŋ/ /taɪm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "worries",
+        "role": "V",
+        "phonetic": "/ˈwɜːriz/",
+        "chinese": "担心"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "wasting",
+        "role": "O",
+        "phonetic": "/ˈweɪstɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "我不在乎是否钓到鱼",
+    "english": "I do not care whether I catch any fish",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /ker/ /ˈweðər/ /aɪ/ /kætʃ/ /ˈeni/ /fɪʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "care",
+        "role": "V",
+        "phonetic": "/ker/",
+        "chinese": "关心"
+      },
+      {
+        "text": "whether",
+        "role": "P",
+        "phonetic": "/ˈweðər/",
+        "chinese": "是否"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "catch",
+        "role": "V",
+        "phonetic": "/kætʃ/",
+        "chinese": "抓住"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "fish",
+        "role": "O",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "他意识到钓鱼让他快乐",
+    "english": "He realized that fishing made him happy",
+    "soundmark": "/hiː/ /ˈriːəlaɪzd/ /ðæt/ /ˈfɪʃɪŋ/ /meɪd/ /hɪm/ /ˈhæpi/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "realized",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪzd/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "fishing",
+        "role": "S",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "chinese": "钓鱼"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "happy",
+        "role": "C",
+        "phonetic": "/ˈhæpi/",
+        "chinese": "快乐的"
+      }
+    ]
+  },
+  {
+    "chinese": "这条河里的鱼很难钓",
+    "english": "The fish in this river are hard to catch",
+    "soundmark": "/ðə/ /fɪʃ/ /ɪn/ /ðɪs/ /ˈrɪvər/ /ɑːr/ /hɑːrd/ /tuː/ /kætʃ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fish",
+        "role": "S",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "river",
+        "role": "O",
+        "phonetic": "/ˈrɪvər/",
+        "chinese": "河"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "hard",
+        "role": "C",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "catch",
+        "role": "V",
+        "phonetic": "/kætʃ/",
+        "chinese": "抓住"
+      }
+    ]
+  },
+  {
+    "chinese": "坐船很放松",
+    "english": "Sitting in a boat is relaxing",
+    "soundmark": "/ˈsɪtɪŋ/ /ɪn/ /ə/ /boʊt/ /ɪz/ /rɪˈlæksɪŋ/",
+    "grammar": [
+      {
+        "text": "Sitting",
+        "role": "S",
+        "phonetic": "/ˈsɪtɪŋ/",
+        "chinese": "坐着的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "boat",
+        "role": "O",
+        "phonetic": "/boʊt/",
+        "chinese": "小船"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "relaxing",
+        "role": "C",
+        "phonetic": "/rɪˈlæksɪŋ/",
+        "chinese": "放松"
+      }
+    ]
+  },
+  {
+    "chinese": "早点起床去钓鱼是值得的",
+    "english": "Getting up early to go fishing is worth it",
+    "soundmark": "/ˈɡetɪŋ/ /ʌp/ /ˈɜːrli/ /tuː/ /ɡoʊ/ /ˈfɪʃɪŋ/ /ɪz/ /wɜːrθ/ /ɪt/",
+    "grammar": [
+      {
+        "text": "Getting",
+        "role": "S",
+        "phonetic": "/ˈɡetɪŋ/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "early",
+        "role": "Adv",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "fishing",
+        "role": "O",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "chinese": "钓鱼"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "worth",
+        "role": "C",
+        "phonetic": "/wɜːrθ/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "我不喜欢空手而归",
+    "english": "I do not like coming home empty-handed",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /laɪk/ /ˈkʌmɪŋ/ /hoʊm/ /ˈempti/ /ˈhændɪd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "coming",
+        "role": "O",
+        "phonetic": "/ˈkʌmɪŋ/",
+        "chinese": "来"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "empty-handed",
+        "role": "A",
+        "phonetic": "/ˈempti/ /ˈhændɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "等待鱼上钩需要耐心",
+    "english": "Waiting for a bite requires patience",
+    "soundmark": "/ˈweɪtɪŋ/ /fɔːr/ /ə/ /baɪt/ /rɪˈkwaɪərz/ /ˈpeɪʃəns/",
+    "grammar": [
+      {
+        "text": "Waiting",
+        "role": "S",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bite",
+        "role": "O",
+        "phonetic": "/baɪt/",
+        "chinese": "咬"
+      },
+      {
+        "text": "requires",
+        "role": "V",
+        "phonetic": "/rɪˈkwaɪərz/",
+        "chinese": "需要"
+      },
+      {
+        "text": "patience",
+        "role": "O",
+        "phonetic": "/ˈpeɪʃəns/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "钓鱼竿",
+    "english": "fishing rod",
+    "soundmark": "/ˈfɪʃɪŋ/ /rɑːd/"
+  },
+  {
+    "chinese": "渔夫",
+    "english": "fisherman",
+    "soundmark": "/ˈfɪʃərmən/"
+  },
+  {
+    "chinese": "鱼饵",
+    "english": "fish bait",
+    "soundmark": "/fɪʃ/ /beɪt/"
+  },
+  {
+    "chinese": "钓到鱼",
+    "english": "catch a fish",
+    "soundmark": "/kætʃ/ /ə/ /fɪʃ/"
+  },
+  {
+    "chinese": "喜欢钓鱼",
+    "english": "be fond of fishing",
+    "soundmark": "/biː/ /fɑːnd/ /ʌv/ /ˈfɪʃɪŋ/"
+  },
+  {
+    "chinese": "钓鱼",
+    "english": "fishing",
+    "soundmark": "/ˈfɪʃɪŋ/"
+  },
+  {
+    "chinese": "放弃",
+    "english": "give up",
+    "soundmark": "/ɡɪv/ /ʌp/"
+  },
+  {
+    "chinese": "浪费",
+    "english": "waste",
+    "soundmark": "/weɪst/"
+  },
+  {
+    "chinese": "意识到",
+    "english": "realize",
+    "soundmark": "/ˈriːəlaɪz/"
+  },
+  {
+    "chinese": "重要的",
+    "english": "important",
+    "soundmark": "/ɪmˈpɔːrtənt/"
+  }
+]

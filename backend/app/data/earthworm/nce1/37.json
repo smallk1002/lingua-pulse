@@ -1,0 +1,934 @@
+[
+  {
+    "chinese": "做",
+    "english": "make",
+    "soundmark": "/meɪk/"
+  },
+  {
+    "chinese": "建造",
+    "english": "build",
+    "soundmark": "/bɪld/"
+  },
+  {
+    "chinese": "画画",
+    "english": "paint",
+    "soundmark": "/peɪnt/"
+  },
+  {
+    "chinese": "切",
+    "english": "cut",
+    "soundmark": "/kʌt/"
+  },
+  {
+    "chinese": "粘",
+    "english": "glue",
+    "soundmark": "/ɡluː/"
+  },
+  {
+    "chinese": "折叠",
+    "english": "fold",
+    "soundmark": "/foʊld/"
+  },
+  {
+    "chinese": "混合",
+    "english": "mix",
+    "soundmark": "/mɪks/"
+  },
+  {
+    "chinese": "倒",
+    "english": "pour",
+    "soundmark": "/pɔːr/"
+  },
+  {
+    "chinese": "搅拌",
+    "english": "stir",
+    "soundmark": "/stɜːr/"
+  },
+  {
+    "chinese": "烘烤",
+    "english": "bake",
+    "soundmark": "/beɪk/"
+  },
+  {
+    "chinese": "修理",
+    "english": "fix",
+    "soundmark": "/fɪks/"
+  },
+  {
+    "chinese": "打破",
+    "english": "break",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "chinese": "纸张",
+    "english": "paper",
+    "soundmark": "/ˈpeɪpər/"
+  },
+  {
+    "chinese": "木头",
+    "english": "wood",
+    "soundmark": "/wʊd/"
+  },
+  {
+    "chinese": "布料",
+    "english": "cloth",
+    "soundmark": "/klɔːθ/"
+  },
+  {
+    "chinese": "剪刀",
+    "english": "scissors",
+    "soundmark": "/ˈsɪzərz/"
+  },
+  {
+    "chinese": "锤子",
+    "english": "hammer",
+    "soundmark": "/ˈhæmər/"
+  },
+  {
+    "chinese": "做蛋糕",
+    "english": "make a cake",
+    "soundmark": "/meɪk ə keɪk/"
+  },
+  {
+    "chinese": "建房子",
+    "english": "build a house",
+    "soundmark": "/bɪld ə haʊs/"
+  },
+  {
+    "chinese": "画画",
+    "english": "paint a picture",
+    "soundmark": "/peɪnt ə ˈpɪktʃər/"
+  },
+  {
+    "chinese": "我正在做蛋糕",
+    "english": "I am making a cake",
+    "soundmark": "/aɪ æm ˈmeɪkɪŋ ə keɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am making",
+        "role": "V",
+        "phonetic": "/æm ˈmeɪkɪŋ/",
+        "chinese": "是/正在…(做/让)"
+      },
+      {
+        "text": "a cake",
+        "role": "O",
+        "phonetic": "/ə keɪk/",
+        "chinese": "一个/蛋糕"
+      }
+    ]
+  },
+  {
+    "chinese": "他在建一个鸟屋",
+    "english": "He is building a birdhouse",
+    "soundmark": "/hiː ɪz ˈbɪldɪŋ ə ˈbɜːrdhaʊs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is building",
+        "role": "V",
+        "phonetic": "/ɪz ˈbɪldɪŋ/",
+        "chinese": "是/建造"
+      },
+      {
+        "text": "a birdhouse",
+        "role": "O",
+        "phonetic": "/ə ˈbɜːrdhaʊs/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "她用纸做了一朵花",
+    "english": "She made a flower with paper",
+    "soundmark": "/ʃiː meɪd ə ˈflaʊər wɪð ˈpeɪpər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "a flower",
+        "role": "O",
+        "phonetic": "/ə ˈflaʊər/",
+        "chinese": "一个/花"
+      },
+      {
+        "text": "with paper",
+        "role": "A",
+        "phonetic": "/wɪð ˈpeɪpər/",
+        "chinese": "和/用/纸/论文"
+      }
+    ]
+  },
+  {
+    "chinese": "你会折纸飞机吗",
+    "english": "Can you make a paper plane",
+    "soundmark": "/kæn juː meɪk ə ˈpeɪpər pleɪn/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "make",
+        "role": "V",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "a paper plane",
+        "role": "O",
+        "phonetic": "/ə ˈpeɪpər pleɪn/",
+        "chinese": "一个/纸/论文/飞机"
+      }
+    ]
+  },
+  {
+    "chinese": "我不会剪纸",
+    "english": "I cannot cut the paper",
+    "soundmark": "/aɪ ˈkænɑːt kʌt ðə ˈpeɪpər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "cut",
+        "role": "V",
+        "phonetic": "/kʌt/",
+        "chinese": "剪/切"
+      },
+      {
+        "text": "the paper",
+        "role": "O",
+        "phonetic": "/ðə ˈpeɪpər/",
+        "chinese": "这个/那个/纸/论文"
+      }
+    ]
+  },
+  {
+    "chinese": "把这个粘到那张纸上",
+    "english": "Glue this onto that paper",
+    "soundmark": "/ɡluː ðɪs ˈɑːntuː ðæt ˈpeɪpər/",
+    "grammar": [
+      {
+        "text": "Glue",
+        "role": "V",
+        "phonetic": "/ɡluː/",
+        "chinese": ""
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "onto",
+        "role": "P",
+        "phonetic": "/ˈɑːntuː/",
+        "chinese": "到…上面"
+      },
+      {
+        "text": "that paper",
+        "role": "C",
+        "phonetic": "/ðæt ˈpeɪpər/",
+        "chinese": "那个/纸/论文"
+      }
+    ]
+  },
+  {
+    "chinese": "请把面粉和糖混在一起",
+    "english": "Please mix the flour and sugar together",
+    "soundmark": "/pliːz mɪks ðə flaʊər ænd ˈʃʊɡər təˈɡeðər/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "mix",
+        "role": "V",
+        "phonetic": "/mɪks/",
+        "chinese": ""
+      },
+      {
+        "text": "the flour and sugar",
+        "role": "O",
+        "phonetic": "/ðə flaʊər ænd ˈʃʊɡər/",
+        "chinese": "这个/那个/和/糖"
+      },
+      {
+        "text": "together",
+        "role": "A",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      }
+    ]
+  },
+  {
+    "chinese": "把牛奶倒进碗里",
+    "english": "Pour the milk into the bowl",
+    "soundmark": "/pɔːr ðə mɪlk ˈɪntuː ðə boʊl/",
+    "grammar": [
+      {
+        "text": "Pour",
+        "role": "V",
+        "phonetic": "/pɔːr/",
+        "chinese": ""
+      },
+      {
+        "text": "the milk",
+        "role": "O",
+        "phonetic": "/ðə mɪlk/",
+        "chinese": "这个/那个/牛奶"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the bowl",
+        "role": "C",
+        "phonetic": "/ðə boʊl/",
+        "chinese": "这个/那个/碗"
+      }
+    ]
+  },
+  {
+    "chinese": "搅拌鸡蛋五分钟",
+    "english": "Stir the eggs for five minutes",
+    "soundmark": "/stɜːr ðə eɡz fɔːr faɪv ˈmɪnɪts/",
+    "grammar": [
+      {
+        "text": "Stir",
+        "role": "V",
+        "phonetic": "/stɜːr/",
+        "chinese": ""
+      },
+      {
+        "text": "the eggs",
+        "role": "O",
+        "phonetic": "/ðə eɡz/",
+        "chinese": "这个/那个/…们/复数(鸡蛋)"
+      },
+      {
+        "text": "for five minutes",
+        "role": "A",
+        "phonetic": "/fɔːr faɪv ˈmɪnɪts/",
+        "chinese": "为了/对于/五/…们/复数(分钟)"
+      }
+    ]
+  },
+  {
+    "chinese": "我们在烤箱里烤面包",
+    "english": "We bake the bread in the oven",
+    "soundmark": "/wiː beɪk ðə bred ɪn ðə ˈʌvn/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "bake",
+        "role": "V",
+        "phonetic": "/beɪk/",
+        "chinese": "烤"
+      },
+      {
+        "text": "the bread",
+        "role": "O",
+        "phonetic": "/ðə bred/",
+        "chinese": "这个/那个/面包"
+      },
+      {
+        "text": "in the oven",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈʌvn/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我修这把椅子吗",
+    "english": "Can you help me fix this chair",
+    "soundmark": "/kæn juː help miː fɪks ðɪs tʃer/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "fix this chair",
+        "role": "O",
+        "phonetic": "/fɪks ðɪs tʃer/",
+        "chinese": "修理/固定/这个"
+      }
+    ]
+  },
+  {
+    "chinese": "我不小心打破了杯子",
+    "english": "I broke the cup by accident",
+    "soundmark": "/aɪ broʊk ðə kʌp baɪ ˈæksɪdənt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "broke",
+        "role": "V",
+        "phonetic": "/broʊk/",
+        "chinese": ""
+      },
+      {
+        "text": "the cup",
+        "role": "O",
+        "phonetic": "/ðə kʌp/",
+        "chinese": "这个/那个/杯子"
+      },
+      {
+        "text": "by accident",
+        "role": "A",
+        "phonetic": "/baɪ ˈæksɪdənt/",
+        "chinese": "通过/被/在…旁"
+      }
+    ]
+  },
+  {
+    "chinese": "他用锤子和钉子做了个书架",
+    "english": "He made a bookshelf with a hammer and nails",
+    "soundmark": "/hiː meɪd ə ˈbʊkʃelf wɪð ə ˈhæmər ænd neɪlz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "a bookshelf",
+        "role": "O",
+        "phonetic": "/ə ˈbʊkʃelf/",
+        "chinese": "一个"
+      },
+      {
+        "text": "with a hammer and nails",
+        "role": "A",
+        "phonetic": "/wɪð ə ˈhæmər ænd neɪlz/",
+        "chinese": "和/用/一个/和/…们/复数(钉子/指甲)"
+      }
+    ]
+  },
+  {
+    "chinese": "你做了什么",
+    "english": "What did you make",
+    "soundmark": "/wʌt dɪd juː meɪk/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "make",
+        "role": "V",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      }
+    ]
+  },
+  {
+    "chinese": "我做了一个风筝",
+    "english": "I made a kite",
+    "soundmark": "/aɪ meɪd ə kaɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "a kite",
+        "role": "O",
+        "phonetic": "/ə kaɪt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "这个桌子是用木头做的",
+    "english": "This table is made of wood",
+    "soundmark": "/ðɪs ˈteɪbl ɪz meɪd ʌv wʊd/",
+    "grammar": [
+      {
+        "text": "This table",
+        "role": "S",
+        "phonetic": "/ðɪs ˈteɪbl/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "of wood",
+        "role": "C",
+        "phonetic": "/ʌv wʊd/",
+        "chinese": "…的/木头"
+      }
+    ]
+  },
+  {
+    "chinese": "这条裙子是丝绸做的吗",
+    "english": "Is this dress made of silk",
+    "soundmark": "/ɪz ðɪs dres meɪd ʌv sɪlk/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this dress",
+        "role": "S",
+        "phonetic": "/ðɪs dres/",
+        "chinese": "这个/穿衣"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "of silk",
+        "role": "C",
+        "phonetic": "/ʌv sɪlk/",
+        "chinese": "…的/丝绸"
+      }
+    ]
+  },
+  {
+    "chinese": "我们为妈妈做了一个生日卡片",
+    "english": "We made a birthday card for mom",
+    "soundmark": "/wiː meɪd ə ˈbɜːrθdeɪ kɑːrd fɔːr mɑːm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "a birthday card",
+        "role": "O",
+        "phonetic": "/ə ˈbɜːrθdeɪ kɑːrd/",
+        "chinese": "一个/生日"
+      },
+      {
+        "text": "for mom",
+        "role": "A",
+        "phonetic": "/fɔːr mɑːm/",
+        "chinese": "为了/对于"
+      }
+    ]
+  },
+  {
+    "chinese": "先把纸对折",
+    "english": "First fold the paper in half",
+    "soundmark": "/fɜːrst foʊld ðə ˈpeɪpər ɪn hæf/",
+    "grammar": [
+      {
+        "text": "First",
+        "role": "A",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      },
+      {
+        "text": "fold",
+        "role": "V",
+        "phonetic": "/foʊld/",
+        "chinese": ""
+      },
+      {
+        "text": "the paper",
+        "role": "O",
+        "phonetic": "/ðə ˈpeɪpər/",
+        "chinese": "这个/那个/纸/论文"
+      },
+      {
+        "text": "in half",
+        "role": "A",
+        "phonetic": "/ɪn hæf/",
+        "chinese": "在…里/一半"
+      }
+    ]
+  },
+  {
+    "chinese": "然后用剪刀剪出形状",
+    "english": "Then cut out the shape with scissors",
+    "soundmark": "/ðen kʌt aʊt ðə ʃeɪp wɪð ˈsɪzərz/",
+    "grammar": [
+      {
+        "text": "Then",
+        "role": "A",
+        "phonetic": "/ðen/",
+        "chinese": "然后"
+      },
+      {
+        "text": "cut out",
+        "role": "V",
+        "phonetic": "/kʌt aʊt/",
+        "chinese": "切（过去式/过去分词）/出去"
+      },
+      {
+        "text": "the shape",
+        "role": "O",
+        "phonetic": "/ðə ʃeɪp/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "with scissors",
+        "role": "A",
+        "phonetic": "/wɪð ˈsɪzərz/",
+        "chinese": "和/用"
+      }
+    ]
+  },
+  {
+    "chinese": "我妈妈教我怎么织毛衣",
+    "english": "My mother taught me how to knit a sweater",
+    "soundmark": "/maɪ ˈmʌðər tɔːt miː haʊ tuː nɪt ə ˈswetər/",
+    "grammar": [
+      {
+        "text": "My mother",
+        "role": "S",
+        "phonetic": "/maɪ ˈmʌðər/",
+        "chinese": "我的/母亲"
+      },
+      {
+        "text": "taught",
+        "role": "V",
+        "phonetic": "/tɔːt/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "how to knit a sweater",
+        "role": "O",
+        "phonetic": "/haʊ tuː nɪt ə ˈswetər/",
+        "chinese": "怎么/到/向/一个/毛衣"
+      }
+    ]
+  },
+  {
+    "chinese": "他修好了我坏掉的自行车",
+    "english": "He fixed my broken bicycle",
+    "soundmark": "/hiː fɪkst maɪ ˈbroʊkən ˈbaɪsɪkl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "fixed",
+        "role": "V",
+        "phonetic": "/fɪkst/",
+        "chinese": "修理/固定"
+      },
+      {
+        "text": "my broken bicycle",
+        "role": "O",
+        "phonetic": "/maɪ ˈbroʊkən ˈbaɪsɪkl/",
+        "chinese": "我的/破碎的/自行车"
+      }
+    ]
+  },
+  {
+    "chinese": "这个玩具是中国制造的",
+    "english": "This toy is made in China",
+    "soundmark": "/ðɪs tɔɪ ɪz meɪd ɪn ˈtʃaɪnə/",
+    "grammar": [
+      {
+        "text": "This toy",
+        "role": "S",
+        "phonetic": "/ðɪs tɔɪ/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "in China",
+        "role": "A",
+        "phonetic": "/ɪn ˈtʃaɪnə/",
+        "chinese": "在…里/中国"
+      }
+    ]
+  },
+  {
+    "chinese": "我们需要三杯面粉和两个鸡蛋",
+    "english": "We need three cups of flour and two eggs",
+    "soundmark": "/wiː niːd θriː kʌps ʌv flaʊər ænd tuː eɡz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "three cups of flour and two eggs",
+        "role": "O",
+        "phonetic": "/θriː kʌps ʌv flaʊər ænd tuː eɡz/",
+        "chinese": "三/…们/复数(杯子)/…的/和/二/…们/复数(鸡蛋)"
+      }
+    ]
+  },
+  {
+    "chinese": "我们把墙刷成了蓝色",
+    "english": "We painted the wall blue",
+    "soundmark": "/wiː ˈpeɪntɪd ðə wɔːl bluː/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "painted",
+        "role": "V",
+        "phonetic": "/ˈpeɪntɪd/",
+        "chinese": "画/油漆"
+      },
+      {
+        "text": "the wall",
+        "role": "O",
+        "phonetic": "/ðə wɔːl/",
+        "chinese": "这个/那个/墙"
+      },
+      {
+        "text": "blue",
+        "role": "C",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      }
+    ]
+  },
+  {
+    "chinese": "不要再把它打破了",
+    "english": "Do not break it again",
+    "soundmark": "/duː nɑːt breɪk ɪt əˈɡen/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "break",
+        "role": "V",
+        "phonetic": "/breɪk/",
+        "chinese": "打破"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "again",
+        "role": "A",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      }
+    ]
+  },
+  {
+    "chinese": "面粉",
+    "english": "flour",
+    "soundmark": "/flaʊər/"
+  },
+  {
+    "chinese": "糖",
+    "english": "sugar",
+    "soundmark": "/ˈʃʊɡər/"
+  },
+  {
+    "chinese": "碗",
+    "english": "bowl",
+    "soundmark": "/boʊl/"
+  },
+  {
+    "chinese": "烤箱",
+    "english": "oven",
+    "soundmark": "/ˈʌvn/"
+  },
+  {
+    "chinese": "钉子",
+    "english": "nail",
+    "soundmark": "/neɪl/"
+  },
+  {
+    "chinese": "丝绸",
+    "english": "silk",
+    "soundmark": "/sɪlk/"
+  },
+  {
+    "chinese": "形状",
+    "english": "shape",
+    "soundmark": "/ʃeɪp/"
+  },
+  {
+    "chinese": "风筝",
+    "english": "kite",
+    "soundmark": "/kaɪt/"
+  },
+  {
+    "chinese": "由…制成",
+    "english": "made of",
+    "soundmark": "/meɪd ʌv/"
+  },
+  {
+    "chinese": "织",
+    "english": "knit",
+    "soundmark": "/nɪt/"
+  }
+]

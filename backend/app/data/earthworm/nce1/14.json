@@ -1,0 +1,654 @@
+[
+  {
+    "chinese": "衣服",
+    "english": "clothes",
+    "soundmark": "/kloʊðz/"
+  },
+  {
+    "chinese": "衬衫",
+    "english": "shirt",
+    "soundmark": "/ʃɜːrt/"
+  },
+  {
+    "chinese": "上衣",
+    "english": "blouse",
+    "soundmark": "/blaʊs/"
+  },
+  {
+    "chinese": "裙子",
+    "english": "skirt",
+    "soundmark": "/skɜːrt/"
+  },
+  {
+    "chinese": "连衣裙",
+    "english": "dress",
+    "soundmark": "/dres/"
+  },
+  {
+    "chinese": "裤子",
+    "english": "trousers",
+    "soundmark": "/ˈtraʊzərz/"
+  },
+  {
+    "chinese": "牛仔裤",
+    "english": "jeans",
+    "soundmark": "/dʒiːnz/"
+  },
+  {
+    "chinese": "外套",
+    "english": "coat",
+    "soundmark": "/koʊt/"
+  },
+  {
+    "chinese": "夹克",
+    "english": "jacket",
+    "soundmark": "/ˈdʒækɪt/"
+  },
+  {
+    "chinese": "毛衣",
+    "english": "sweater",
+    "soundmark": "/ˈswetər/"
+  },
+  {
+    "chinese": "帽子",
+    "english": "hat",
+    "soundmark": "/hæt/"
+  },
+  {
+    "chinese": "鞋子",
+    "english": "shoes",
+    "soundmark": "/ʃuːz/"
+  },
+  {
+    "chinese": "靴子",
+    "english": "boots",
+    "soundmark": "/buːts/"
+  },
+  {
+    "chinese": "领带",
+    "english": "tie",
+    "soundmark": "/taɪ/"
+  },
+  {
+    "chinese": "袜子",
+    "english": "socks",
+    "soundmark": "/sɑːks/"
+  },
+  {
+    "chinese": "手套",
+    "english": "gloves",
+    "soundmark": "/ɡlʌvz/"
+  },
+  {
+    "chinese": "围巾",
+    "english": "scarf",
+    "soundmark": "/skɑːrf/"
+  },
+  {
+    "chinese": "穿",
+    "english": "wear",
+    "soundmark": "/wer/"
+  },
+  {
+    "chinese": "穿上",
+    "english": "put on",
+    "soundmark": "/pʊt/ /ɑːn/"
+  },
+  {
+    "chinese": "脱下",
+    "english": "take off",
+    "soundmark": "/teɪk/ /ɔːf/"
+  },
+  {
+    "chinese": "你今天穿了一件漂亮的衬衫",
+    "english": "You are wearing a nice shirt today",
+    "soundmark": "/juː/ /ɑːr/ /ˈwerɪŋ/ /ə/ /naɪs/ /ʃɜːrt/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "wearing",
+        "role": "V",
+        "phonetic": "/ˈwerɪŋ/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "shirt",
+        "role": "O",
+        "phonetic": "/ʃɜːrt/",
+        "chinese": "衬衫"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "她穿着一条蓝裙子",
+    "english": "She is wearing a blue skirt",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈwerɪŋ/ /ə/ /bluː/ /skɜːrt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "wearing",
+        "role": "V",
+        "phonetic": "/ˈwerɪŋ/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "blue",
+        "role": "C",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      },
+      {
+        "text": "skirt",
+        "role": "O",
+        "phonetic": "/skɜːrt/",
+        "chinese": "裙子"
+      }
+    ]
+  },
+  {
+    "chinese": "请穿上你的外套天冷了",
+    "english": "Please put on your coat it is cold",
+    "soundmark": "/pliːz/ /pʊt/ /ɑːn/ /jɔːr/ /koʊt/ /ɪt/ /ɪz/ /koʊld/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "coat",
+        "role": "O",
+        "phonetic": "/koʊt/",
+        "chinese": "外套"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "cold",
+        "role": "C",
+        "phonetic": "/koʊld/",
+        "chinese": "冷的"
+      }
+    ]
+  },
+  {
+    "chinese": "他穿着黑色牛仔裤和白色T恤",
+    "english": "He is wearing black jeans and a white T-shirt",
+    "soundmark": "/hiː/ /ɪz/ /ˈwerɪŋ/ /blæk/ /dʒiːnz/ /ænd/ /ə/ /waɪt/ /ˈtiːʃɜːrt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "wearing",
+        "role": "V",
+        "phonetic": "/ˈwerɪŋ/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "black",
+        "role": "C",
+        "phonetic": "/blæk/",
+        "chinese": "黑色的"
+      },
+      {
+        "text": "jeans",
+        "role": "O",
+        "phonetic": "/dʒiːnz/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "white",
+        "role": "C",
+        "phonetic": "/waɪt/",
+        "chinese": "白色的"
+      },
+      {
+        "text": "T-shirt",
+        "role": "O",
+        "phonetic": "/ˈtiːʃɜːrt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这件毛衣多少钱",
+    "english": "How much is this sweater",
+    "soundmark": "/haʊ/ /mʌtʃ/ /ɪz/ /ðɪs/ /ˈswetər/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "sweater",
+        "role": "C",
+        "phonetic": "/ˈswetər/",
+        "chinese": "毛衣"
+      }
+    ]
+  },
+  {
+    "chinese": "请脱下你的靴子",
+    "english": "Please take off your boots",
+    "soundmark": "/pliːz/ /teɪk/ /ɔːf/ /jɔːr/ /buːts/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "off",
+        "role": "P",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "boots",
+        "role": "O",
+        "phonetic": "/buːts/",
+        "chinese": "靴子"
+      }
+    ]
+  },
+  {
+    "chinese": "我不喜欢这条领带",
+    "english": "I do not like this tie",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /laɪk/ /ðɪs/ /taɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "tie",
+        "role": "O",
+        "phonetic": "/taɪ/",
+        "chinese": "系/领带"
+      }
+    ]
+  },
+  {
+    "chinese": "她戴着一顶红帽子",
+    "english": "She is wearing a red hat",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈwerɪŋ/ /ə/ /red/ /hæt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "wearing",
+        "role": "V",
+        "phonetic": "/ˈwerɪŋ/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "red",
+        "role": "C",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      },
+      {
+        "text": "hat",
+        "role": "O",
+        "phonetic": "/hæt/",
+        "chinese": "帽子"
+      }
+    ]
+  },
+  {
+    "chinese": "我的袜子在哪里它们在椅子上",
+    "english": "Where are my socks they are on the chair",
+    "soundmark": "/wer/ /ɑːr/ /maɪ/ /sɑːks/ /ðeɪ/ /ɑːr/ /ɑːn/ /ðə/ /tʃer/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "socks",
+        "role": "S",
+        "phonetic": "/sɑːks/",
+        "chinese": "袜子"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "chair",
+        "role": "O",
+        "phonetic": "/tʃer/",
+        "chinese": "椅子"
+      }
+    ]
+  },
+  {
+    "chinese": "这件外套太大了你有小一点的吗",
+    "english": "This coat is too big do you have a smaller one",
+    "soundmark": "/ðɪs/ /koʊt/ /ɪz/ /tuː/ /bɪɡ/ /duː/ /juː/ /hæv/ /ə/ /smɔːlər/ /wʌn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "coat",
+        "role": "S",
+        "phonetic": "/koʊt/",
+        "chinese": "外套"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "smaller",
+        "role": "C",
+        "phonetic": "/smɔːlər/",
+        "chinese": "更…的/…者(小的)"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "多少钱",
+    "english": "how much",
+    "soundmark": "/haʊ/ /mʌtʃ/"
+  },
+  {
+    "chinese": "太大",
+    "english": "too big",
+    "soundmark": "/tuː/ /bɪɡ/"
+  },
+  {
+    "chinese": "太小",
+    "english": "too small",
+    "soundmark": "/tuː/ /smɔːl/"
+  },
+  {
+    "chinese": "椅子",
+    "english": "chair",
+    "soundmark": "/tʃer/"
+  },
+  {
+    "chinese": "T恤",
+    "english": "T-shirt",
+    "soundmark": "/ˈtiːʃɜːrt/"
+  },
+  {
+    "chinese": "短裤",
+    "english": "shorts",
+    "soundmark": "/ʃɔːrts/"
+  },
+  {
+    "chinese": "泳衣",
+    "english": "swimsuit",
+    "soundmark": "/ˈswɪmsuːt/"
+  },
+  {
+    "chinese": "睡衣",
+    "english": "pajamas",
+    "soundmark": "/pəˈdʒɑːməz/"
+  },
+  {
+    "chinese": "皮带",
+    "english": "belt",
+    "soundmark": "/belt/"
+  },
+  {
+    "chinese": "穿着",
+    "english": "wearing",
+    "soundmark": "/ˈwerɪŋ/"
+  }
+]

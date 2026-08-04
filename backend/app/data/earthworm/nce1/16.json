@@ -1,0 +1,528 @@
+[
+  {
+    "chinese": "家务",
+    "english": "housework",
+    "soundmark": "/ˈhaʊswɜːrk/"
+  },
+  {
+    "chinese": "打扫",
+    "english": "clean",
+    "soundmark": "/kliːn/"
+  },
+  {
+    "chinese": "洗",
+    "english": "wash",
+    "soundmark": "/wɑːʃ/"
+  },
+  {
+    "chinese": "洗碗",
+    "english": "wash the dishes",
+    "soundmark": "/wɑːʃ/ /ðə/ /ˈdɪʃɪz/"
+  },
+  {
+    "chinese": "扫地",
+    "english": "sweep the floor",
+    "soundmark": "/swiːp/ /ðə/ /flɔːr/"
+  },
+  {
+    "chinese": "拖地",
+    "english": "mop the floor",
+    "soundmark": "/mɑːp/ /ðə/ /flɔːr/"
+  },
+  {
+    "chinese": "整理床铺",
+    "english": "make the bed",
+    "soundmark": "/meɪk/ /ðə/ /bed/"
+  },
+  {
+    "chinese": "洗衣服",
+    "english": "do the laundry",
+    "soundmark": "/duː/ /ðə/ /ˈlɔːndri/"
+  },
+  {
+    "chinese": "做饭",
+    "english": "cook",
+    "soundmark": "/kʊk/"
+  },
+  {
+    "chinese": "购物",
+    "english": "go shopping",
+    "soundmark": "/ɡoʊ/ /ˈʃɑːpɪŋ/"
+  },
+  {
+    "chinese": "倒垃圾",
+    "english": "take out the rubbish",
+    "soundmark": "/teɪk/ /aʊt/ /ðə/ /ˈrʌbɪʃ/"
+  },
+  {
+    "chinese": "熨衣服",
+    "english": "iron the clothes",
+    "soundmark": "/ˈaɪərn/ /ðə/ /kloʊðz/"
+  },
+  {
+    "chinese": "浇花",
+    "english": "water the flowers",
+    "soundmark": "/ˈwɔːtər/ /ðə/ /ˈflaʊərz/"
+  },
+  {
+    "chinese": "吸尘",
+    "english": "vacuum",
+    "soundmark": "/ˈvækjuːm/"
+  },
+  {
+    "chinese": "你在做什么",
+    "english": "What are you doing",
+    "soundmark": "/wʌt/ /ɑːr/ /juː/ /ˈduːɪŋ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "我在打扫房间",
+    "english": "I am cleaning the room",
+    "soundmark": "/aɪ/ /æm/ /ˈkliːnɪŋ/ /ðə/ /ruːm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "cleaning",
+        "role": "V",
+        "phonetic": "/ˈkliːnɪŋ/",
+        "chinese": "清洁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "room",
+        "role": "O",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "她在洗碗",
+    "english": "She is washing the dishes",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈwɑːʃɪŋ/ /ðə/ /ˈdɪʃɪz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "washing",
+        "role": "V",
+        "phonetic": "/ˈwɑːʃɪŋ/",
+        "chinese": "洗"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dishes",
+        "role": "O",
+        "phonetic": "/ˈdɪʃɪz/",
+        "chinese": "碟子/菜"
+      }
+    ]
+  },
+  {
+    "chinese": "你整理床铺了吗",
+    "english": "Did you make the bed",
+    "soundmark": "/dɪd/ /juː/ /meɪk/ /ðə/ /bed/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "make",
+        "role": "V",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bed",
+        "role": "O",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      }
+    ]
+  },
+  {
+    "chinese": "不我还没整理",
+    "english": "No I have not made it yet",
+    "soundmark": "/noʊ/ /aɪ/ /hæv/ /nɑːt/ /meɪd/ /ɪt/ /jet/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "yet",
+        "role": "Adv",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "请把垃圾拿出去",
+    "english": "Please take out the rubbish",
+    "soundmark": "/pliːz/ /teɪk/ /aʊt/ /ðə/ /ˈrʌbɪʃ/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "out",
+        "role": "P",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rubbish",
+        "role": "O",
+        "phonetic": "/ˈrʌbɪʃ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他正在洗衣服吗",
+    "english": "Is he doing the laundry",
+    "soundmark": "/ɪz/ /hiː/ /ˈduːɪŋ/ /ðə/ /ˈlɔːndri/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "laundry",
+        "role": "O",
+        "phonetic": "/ˈlɔːndri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我妈妈正在做饭",
+    "english": "My mother is cooking",
+    "soundmark": "/maɪ/ /ˈmʌðər/ /ɪz/ /ˈkʊkɪŋ/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "mother",
+        "role": "S",
+        "phonetic": "/ˈmʌðər/",
+        "chinese": "母亲"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "cooking",
+        "role": "V",
+        "phonetic": "/ˈkʊkɪŋ/",
+        "chinese": "做饭的"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我浇花吗",
+    "english": "Can you help me water the flowers",
+    "soundmark": "/kæn/ /juː/ /help/ /miː/ /ˈwɔːtər/ /ðə/ /ˈflaʊərz/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "water",
+        "role": "V",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "flowers",
+        "role": "O",
+        "phonetic": "/ˈflaʊərz/",
+        "chinese": "花"
+      }
+    ]
+  },
+  {
+    "chinese": "今天下午我要去做家务",
+    "english": "I am going to do the housework this afternoon",
+    "soundmark": "/aɪ/ /æm/ /ˈɡoʊɪŋ/ /tuː/ /duː/ /ðə/ /ˈhaʊswɜːrk/ /ðɪs/ /ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "housework",
+        "role": "O",
+        "phonetic": "/ˈhaʊswɜːrk/",
+        "chinese": ""
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "afternoon",
+        "role": "A",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      }
+    ]
+  },
+  {
+    "chinese": "还",
+    "english": "yet",
+    "soundmark": "/jet/"
+  },
+  {
+    "chinese": "能",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "chinese": "帮助",
+    "english": "help",
+    "soundmark": "/help/"
+  },
+  {
+    "chinese": "地板",
+    "english": "floor",
+    "soundmark": "/flɔːr/"
+  },
+  {
+    "chinese": "垃圾",
+    "english": "rubbish",
+    "soundmark": "/ˈrʌbɪʃ/"
+  },
+  {
+    "chinese": "碗盘",
+    "english": "dishes",
+    "soundmark": "/ˈdɪʃɪz/"
+  },
+  {
+    "chinese": "脏衣服",
+    "english": "laundry",
+    "soundmark": "/ˈlɔːndri/"
+  },
+  {
+    "chinese": "晚饭",
+    "english": "dinner",
+    "soundmark": "/ˈdɪnər/"
+  },
+  {
+    "chinese": "午饭",
+    "english": "lunch",
+    "soundmark": "/lʌntʃ/"
+  },
+  {
+    "chinese": "早饭",
+    "english": "breakfast",
+    "soundmark": "/ˈbrekfəst/"
+  }
+]

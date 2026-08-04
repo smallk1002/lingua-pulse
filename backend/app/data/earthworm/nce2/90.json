@@ -1,0 +1,185 @@
+[
+  {
+    "chinese": "晚餐",
+    "english": "supper",
+    "soundmark": "/ˈsʌpər/"
+  },
+  {
+    "chinese": "牛排",
+    "english": "steak",
+    "soundmark": "/steɪk/"
+  },
+  {
+    "chinese": "薯条",
+    "english": "chips",
+    "soundmark": "/tʃɪps/"
+  },
+  {
+    "chinese": "服务员",
+    "english": "waiter",
+    "soundmark": "/ˈweɪtər/"
+  },
+  {
+    "chinese": "餐厅",
+    "english": "restaurant",
+    "soundmark": "/ˈrestərɒnt/"
+  },
+  {
+    "chinese": "菜单",
+    "english": "menu",
+    "soundmark": "/ˈmenjuː/"
+  },
+  {
+    "chinese": "点菜",
+    "english": "order",
+    "soundmark": "/ˈɔːrdər/"
+  },
+  {
+    "chinese": "一块蛋糕",
+    "english": "a piece of cake",
+    "soundmark": "/ə piːs əv keɪk/"
+  },
+  {
+    "chinese": "一杯水",
+    "english": "a glass of water",
+    "soundmark": "/ə ɡlæs əv ˈwɔːtər/"
+  },
+  {
+    "chinese": "一些面包",
+    "english": "some bread",
+    "soundmark": "/sʌm bred/"
+  },
+  {
+    "chinese": "最好的餐厅",
+    "english": "the best restaurant",
+    "soundmark": "/ðə best ˈrestərɒnt/"
+  },
+  {
+    "chinese": "你晚餐想吃什么",
+    "english": "What would you like for supper",
+    "soundmark": "/wɒt wʊd juː laɪk fɔːr ˈsʌpər/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "supper",
+        "role": "A",
+        "phonetic": "/ˈsʌpər/",
+        "chinese": "晚餐"
+      }
+    ]
+  },
+  {
+    "chinese": "我想要一份牛排和一些薯条",
+    "english": "I would like a steak and some chips",
+    "soundmark": "/aɪ wʊd laɪk ə steɪk ænd sʌm tʃɪps/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "steak",
+        "role": "O",
+        "phonetic": "/steɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "chips",
+        "role": "O",
+        "phonetic": "/tʃɪps/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "晚餐",
+    "english": "supper",
+    "soundmark": "/ˈsʌpər/"
+  },
+  {
+    "chinese": "牛排",
+    "english": "steak",
+    "soundmark": "/steɪk/"
+  },
+  {
+    "chinese": "服务员",
+    "english": "waiter",
+    "soundmark": "/ˈweɪtər/"
+  },
+  {
+    "chinese": "餐厅",
+    "english": "restaurant",
+    "soundmark": "/ˈrestərɒnt/"
+  },
+  {
+    "chinese": "点菜",
+    "english": "order",
+    "soundmark": "/ˈɔːrdər/"
+  },
+  {
+    "chinese": "一些",
+    "english": "some",
+    "soundmark": "/sʌm/"
+  }
+]

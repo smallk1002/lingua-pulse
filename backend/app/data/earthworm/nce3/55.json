@@ -1,0 +1,293 @@
+[
+  {
+    "chinese": "地球",
+    "english": "earth",
+    "soundmark": "/ɜːrθ/"
+  },
+  {
+    "chinese": "问候",
+    "english": "greeting",
+    "soundmark": "/ˈɡriːtɪŋ/"
+  },
+  {
+    "chinese": "外星",
+    "english": "extraterrestrial",
+    "soundmark": "/ˌekstrətɪˈrestriəl/"
+  },
+  {
+    "chinese": "宇宙",
+    "english": "universe",
+    "soundmark": "/ˈjuːnɪvɜːrs/"
+  },
+  {
+    "chinese": "信号",
+    "english": "signal",
+    "soundmark": "/ˈsɪɡnəl/"
+  },
+  {
+    "chinese": "发射",
+    "english": "transmit",
+    "soundmark": "/trænzˈmɪt/"
+  },
+  {
+    "chinese": "探测",
+    "english": "detect",
+    "soundmark": "/dɪˈtekt/"
+  },
+  {
+    "chinese": "文明",
+    "english": "civilization",
+    "soundmark": "/ˌsɪvəlaɪˈzeɪʃən/"
+  },
+  {
+    "chinese": "如果...就会",
+    "english": "if...will",
+    "soundmark": "/ɪf wɪl/"
+  },
+  {
+    "chinese": "假使",
+    "english": "provided that",
+    "soundmark": "/prəˈvaɪdɪd ðæt/"
+  },
+  {
+    "chinese": "如果我们发信号外星文明会收到吗？",
+    "english": "If we send a signal will extraterrestrial civilizations receive it",
+    "soundmark": "/ɪf wiː send ə ˈsɪɡnəl wɪl ˌekstrətɪˈrestriəl ˌsɪvəlaɪˈzeɪʃənz rɪˈsiːv ɪt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "A",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "send",
+        "role": "V",
+        "phonetic": "/send/",
+        "chinese": "发送"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "signal",
+        "role": "O",
+        "phonetic": "/ˈsɪɡnəl/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "extraterrestrial",
+        "role": "C",
+        "phonetic": "/ˌekstrətɪˈrestriəl/",
+        "chinese": ""
+      },
+      {
+        "text": "civilizations",
+        "role": "S",
+        "phonetic": "/ˌsɪvəlaɪˈzeɪʃənz/",
+        "chinese": "文明"
+      },
+      {
+        "text": "receive",
+        "role": "V",
+        "phonetic": "/rɪˈsiːv/",
+        "chinese": "接收"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "只要有足够的资金我们就可能发现外星生命。",
+    "english": "Provided that we have enough funding we may discover alien life",
+    "soundmark": "/prəˈvaɪdɪd ðæt wiː hæv ɪˈnʌf ˈfʌndɪŋ wiː meɪ dɪˈskʌvər ˈeɪliən laɪf/",
+    "grammar": [
+      {
+        "text": "Provided",
+        "role": "A",
+        "phonetic": "/prəˈvaɪdɪd/",
+        "chinese": "提供"
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "enough",
+        "role": "C",
+        "phonetic": "/ɪˈnʌf/",
+        "chinese": "足够"
+      },
+      {
+        "text": "funding",
+        "role": "O",
+        "phonetic": "/ˈfʌndɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "may",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "discover",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvər/",
+        "chinese": "发现"
+      },
+      {
+        "text": "alien",
+        "role": "C",
+        "phonetic": "/ˈeɪliən/",
+        "chinese": ""
+      },
+      {
+        "text": "life",
+        "role": "O",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      }
+    ]
+  },
+  {
+    "chinese": "除非我们发出信号否则没有人知道我们存在。",
+    "english": "Unless we transmit signals nobody will know we exist",
+    "soundmark": "/ʌnˈles wiː trænzˈmɪt ˈsɪɡnəlz ˈnoʊbədi wɪl noʊ wiː ɪɡˈzɪst/",
+    "grammar": [
+      {
+        "text": "Unless",
+        "role": "A",
+        "phonetic": "/ʌnˈles/",
+        "chinese": "除非"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "transmit",
+        "role": "V",
+        "phonetic": "/trænzˈmɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "signals",
+        "role": "O",
+        "phonetic": "/ˈsɪɡnəlz/",
+        "chinese": ""
+      },
+      {
+        "text": "nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "exist",
+        "role": "V",
+        "phonetic": "/ɪɡˈzɪst/",
+        "chinese": "存在"
+      }
+    ]
+  },
+  {
+    "chinese": "地球",
+    "english": "earth",
+    "soundmark": "/ɜːrθ/"
+  },
+  {
+    "chinese": "问候",
+    "english": "greeting",
+    "soundmark": "/ˈɡriːtɪŋ/"
+  },
+  {
+    "chinese": "外星",
+    "english": "extraterrestrial",
+    "soundmark": "/ˌekstrətɪˈrestriəl/"
+  },
+  {
+    "chinese": "宇宙",
+    "english": "universe",
+    "soundmark": "/ˈjuːnɪvɜːrs/"
+  },
+  {
+    "chinese": "信号",
+    "english": "signal",
+    "soundmark": "/ˈsɪɡnəl/"
+  },
+  {
+    "chinese": "发射",
+    "english": "transmit",
+    "soundmark": "/trænzˈmɪt/"
+  },
+  {
+    "chinese": "探测",
+    "english": "detect",
+    "soundmark": "/dɪˈtekt/"
+  },
+  {
+    "chinese": "资金",
+    "english": "funding",
+    "soundmark": "/ˈfʌndɪŋ/"
+  }
+]

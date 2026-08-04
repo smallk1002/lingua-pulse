@@ -1,0 +1,459 @@
+[
+  {
+    "chinese": "晚餐",
+    "english": "supper",
+    "soundmark": "/ˈsʌpə/"
+  },
+  {
+    "chinese": "肉",
+    "english": "meat",
+    "soundmark": "/miːt/"
+  },
+  {
+    "chinese": "鸡肉",
+    "english": "chicken",
+    "soundmark": "/ˈtʃɪkɪn/"
+  },
+  {
+    "chinese": "鱼肉",
+    "english": "fish",
+    "soundmark": "/fɪʃ/"
+  },
+  {
+    "chinese": "牛肉",
+    "english": "beef",
+    "soundmark": "/biːf/"
+  },
+  {
+    "chinese": "猪肉",
+    "english": "pork",
+    "soundmark": "/pɔːk/"
+  },
+  {
+    "chinese": "蔬菜",
+    "english": "vegetable",
+    "soundmark": "/ˈvedʒtəbl/"
+  },
+  {
+    "chinese": "土豆",
+    "english": "potato",
+    "soundmark": "/pəˈteɪtəʊ/"
+  },
+  {
+    "chinese": "西红柿",
+    "english": "tomato",
+    "soundmark": "/təˈmɑːtəʊ/"
+  },
+  {
+    "chinese": "汤",
+    "english": "soup",
+    "soundmark": "/suːp/"
+  },
+  {
+    "chinese": "米饭",
+    "english": "rice",
+    "soundmark": "/raɪs/"
+  },
+  {
+    "chinese": "面条",
+    "english": "noodles",
+    "soundmark": "/ˈnuːdlz/"
+  },
+  {
+    "chinese": "准备",
+    "english": "prepare",
+    "soundmark": "/prɪˈpeə/"
+  },
+  {
+    "chinese": "烹饪",
+    "english": "cook",
+    "soundmark": "/kʊk/"
+  },
+  {
+    "chinese": "厨房",
+    "english": "kitchen",
+    "soundmark": "/ˈkɪtʃɪn/"
+  },
+  {
+    "chinese": "晚餐吃什么",
+    "english": "What's for supper",
+    "soundmark": "/wɒts/ /fɔː/ /ˈsʌpə/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wɒts/",
+        "chinese": "什么"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔː/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "supper",
+        "role": "O",
+        "phonetic": "/ˈsʌpə/",
+        "chinese": "晚餐"
+      }
+    ]
+  },
+  {
+    "chinese": "今晚有鸡肉和米饭",
+    "english": "There is chicken and rice for supper",
+    "soundmark": "/ðeər/ /ɪz/ /ˈtʃɪkɪn/ /ənd/ /raɪs/ /fɔː/ /ˈsʌpə/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðeər/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "chicken",
+        "role": "C",
+        "phonetic": "/ˈtʃɪkɪn/",
+        "chinese": "鸡肉/鸡"
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "rice",
+        "role": "C",
+        "phonetic": "/raɪs/",
+        "chinese": ""
+      },
+      {
+        "text": "for supper",
+        "role": "P",
+        "phonetic": "/fɔː/ /ˈsʌpə/",
+        "chinese": "为了/对于"
+      }
+    ]
+  },
+  {
+    "chinese": "她正在做晚饭",
+    "english": "She is cooking supper",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈkʊkɪŋ/ /ˈsʌpə/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is cooking",
+        "role": "V",
+        "phonetic": "/ɪz/ /ˈkʊkɪŋ/",
+        "chinese": "是"
+      },
+      {
+        "text": "supper",
+        "role": "O",
+        "phonetic": "/ˈsʌpə/",
+        "chinese": "晚餐"
+      }
+    ]
+  },
+  {
+    "chinese": "汤很好喝",
+    "english": "The soup is very good",
+    "soundmark": "/ðə/ /suːp/ /ɪz/ /ˈveri/ /ɡʊd/",
+    "grammar": [
+      {
+        "text": "The soup",
+        "role": "S",
+        "phonetic": "/ðə/ /suːp/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      }
+    ]
+  },
+  {
+    "chinese": "我想吃面条",
+    "english": "I want some noodles",
+    "soundmark": "/aɪ/ /wɒnt/ /sʌm/ /ˈnuːdlz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɒnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "noodles",
+        "role": "O",
+        "phonetic": "/ˈnuːdlz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "晚餐六点钟准备好了",
+    "english": "Supper is ready at six",
+    "soundmark": "/ˈsʌpə/ /ɪz/ /ˈredi/ /æt/ /sɪks/",
+    "grammar": [
+      {
+        "text": "Supper",
+        "role": "S",
+        "phonetic": "/ˈsʌpə/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "ready",
+        "role": "C",
+        "phonetic": "/ˈredi/",
+        "chinese": "准备好的"
+      },
+      {
+        "text": "at six",
+        "role": "L",
+        "phonetic": "/æt/ /sɪks/",
+        "chinese": "在/六"
+      }
+    ]
+  },
+  {
+    "chinese": "他喜欢吃土豆和西红柿",
+    "english": "He likes potatoes and tomatoes",
+    "soundmark": "/hiː/ /laɪks/ /pəˈteɪtəʊz/ /ənd/ /təˈmɑːtəʊz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "likes",
+        "role": "V",
+        "phonetic": "/laɪks/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "potatoes",
+        "role": "O",
+        "phonetic": "/pəˈteɪtəʊz/",
+        "chinese": "土豆"
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "tomatoes",
+        "role": "O",
+        "phonetic": "/təˈmɑːtəʊz/",
+        "chinese": "西红柿"
+      }
+    ]
+  },
+  {
+    "chinese": "妈妈在厨房做饭",
+    "english": "Mother is cooking in the kitchen",
+    "soundmark": "/ˈmʌðə/ /ɪz/ /ˈkʊkɪŋ/ /ɪn/ /ðə/ /ˈkɪtʃɪn/",
+    "grammar": [
+      {
+        "text": "Mother",
+        "role": "S",
+        "phonetic": "/ˈmʌðə/",
+        "chinese": "母亲"
+      },
+      {
+        "text": "is cooking",
+        "role": "V",
+        "phonetic": "/ɪz/ /ˈkʊkɪŋ/",
+        "chinese": "是"
+      },
+      {
+        "text": "in the kitchen",
+        "role": "L",
+        "phonetic": "/ɪn/ /ðə/ /ˈkɪtʃɪn/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "晚餐有鱼和蔬菜",
+    "english": "There is fish and vegetables for supper",
+    "soundmark": "/ðeər/ /ɪz/ /fɪʃ/ /ənd/ /ˈvedʒtəblz/ /fɔː/ /ˈsʌpə/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðeər/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "fish",
+        "role": "C",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "vegetables",
+        "role": "C",
+        "phonetic": "/ˈvedʒtəblz/",
+        "chinese": ""
+      },
+      {
+        "text": "for supper",
+        "role": "P",
+        "phonetic": "/fɔː/ /ˈsʌpə/",
+        "chinese": "为了/对于"
+      }
+    ]
+  },
+  {
+    "chinese": "牛肉很好吃",
+    "english": "The beef is delicious",
+    "soundmark": "/ðə/ /biːf/ /ɪz/ /dɪˈlɪʃəs/",
+    "grammar": [
+      {
+        "text": "The beef",
+        "role": "S",
+        "phonetic": "/ðə/ /biːf/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "delicious",
+        "role": "C",
+        "phonetic": "/dɪˈlɪʃəs/",
+        "chinese": "美味的"
+      }
+    ]
+  },
+  {
+    "chinese": "猪肉太油腻了",
+    "english": "The pork is too greasy",
+    "soundmark": "/ðə/ /pɔːk/ /ɪz/ /tuː/ /ˈɡriːsi/",
+    "grammar": [
+      {
+        "text": "The pork",
+        "role": "S",
+        "phonetic": "/ðə/ /pɔːk/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "greasy",
+        "role": "C",
+        "phonetic": "/ˈɡriːsi/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "饥饿",
+    "english": "hungry",
+    "soundmark": "/ˈhʌŋɡri/"
+  },
+  {
+    "chinese": "饱的",
+    "english": "full",
+    "soundmark": "/fʊl/"
+  },
+  {
+    "chinese": "渴的",
+    "english": "thirsty",
+    "soundmark": "/ˈθɜːsti/"
+  },
+  {
+    "chinese": "盘子",
+    "english": "plate",
+    "soundmark": "/pleɪt/"
+  },
+  {
+    "chinese": "杯子",
+    "english": "cup",
+    "soundmark": "/kʌp/"
+  },
+  {
+    "chinese": "刀",
+    "english": "knife",
+    "soundmark": "/naɪf/"
+  },
+  {
+    "chinese": "叉子",
+    "english": "fork",
+    "soundmark": "/fɔːk/"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "english": "tea",
+    "chinese": "茶",
+    "soundmark": "/tiː/"
+  },
+  {
+    "english": "cup",
+    "chinese": "杯子",
+    "soundmark": "/kʌp/"
+  },
+  {
+    "english": "drink",
+    "chinese": "喝",
+    "soundmark": "/drɪŋk/"
+  },
+  {
+    "chinese": "两人喝茶",
+    "english": "Tea for two",
+    "soundmark": "/tiː fɔːr tuː/",
+    "grammar": [
+      {
+        "text": "Tea",
+        "role": "S",
+        "phonetic": "/tiː/",
+        "chinese": "茶"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "two",
+        "role": "O",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      }
+    ]
+  },
+  {
+    "chinese": "我们下午喝茶",
+    "english": "We had tea in the afternoon",
+    "soundmark": "/wiː hæd tiː ɪn ðə ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "tea",
+        "role": "O",
+        "phonetic": "/tiː/",
+        "chinese": "茶"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "afternoon",
+        "role": "O",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      }
+    ]
+  },
+  {
+    "chinese": "茶很热",
+    "english": "The tea is very hot",
+    "soundmark": "/ðə tiː ɪz ˈveri hɒt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tea",
+        "role": "S",
+        "phonetic": "/tiː/",
+        "chinese": "茶"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "hot",
+        "role": "C",
+        "phonetic": "/hɒt/",
+        "chinese": "热的"
+      }
+    ]
+  },
+  {
+    "chinese": "我喜欢绿茶",
+    "english": "I like green tea",
+    "soundmark": "/aɪ laɪk ɡriːn tiː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "green",
+        "role": "Det",
+        "phonetic": "/ɡriːn/",
+        "chinese": "绿色的"
+      },
+      {
+        "text": "tea",
+        "role": "O",
+        "phonetic": "/tiː/",
+        "chinese": "茶"
+      }
+    ]
+  },
+  {
+    "chinese": "给我倒一杯茶",
+    "english": "Pour me a cup of tea",
+    "soundmark": "/pɔːr miː ə kʌp əv tiː/",
+    "grammar": [
+      {
+        "text": "Pour",
+        "role": "V",
+        "phonetic": "/pɔːr/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cup",
+        "role": "O",
+        "phonetic": "/kʌp/",
+        "chinese": "杯子"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "tea",
+        "role": "O",
+        "phonetic": "/tiː/",
+        "chinese": "茶"
+      }
+    ]
+  },
+  {
+    "english": "sugar",
+    "chinese": "糖",
+    "soundmark": "/ˈʃʊɡər/"
+  },
+  {
+    "english": "milk",
+    "chinese": "牛奶",
+    "soundmark": "/mɪlk/"
+  },
+  {
+    "english": "pot",
+    "chinese": "壶",
+    "soundmark": "/pɒt/"
+  }
+]

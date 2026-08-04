@@ -1,0 +1,228 @@
+[
+  {
+    "english": "must",
+    "chinese": "必须",
+    "soundmark": "/mʌst/"
+  },
+  {
+    "english": "should",
+    "chinese": "应该",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "english": "have to",
+    "chinese": "不得不",
+    "soundmark": "/hæv tə/"
+  },
+  {
+    "english": "need",
+    "chinese": "需要",
+    "soundmark": "/niːd/"
+  },
+  {
+    "chinese": "你必须完成作业",
+    "english": "You must finish the homework",
+    "soundmark": "/juː mʌst ˈfɪnɪʃ ðə ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "finish",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "chinese": "完成"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "我应该早点睡",
+    "english": "I should go to bed earlier",
+    "soundmark": "/aɪ ʃʊd ɡoʊ tə bed ˈɜːrliər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "bed",
+        "role": "O",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      },
+      {
+        "text": "earlier",
+        "role": "A",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要多运动",
+    "english": "You need to exercise more",
+    "soundmark": "/juː niːd tə ˈeksərsaɪz mɔːr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "exercise",
+        "role": "V",
+        "phonetic": "/ˈeksərsaɪz/",
+        "chinese": "锻炼"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      }
+    ]
+  },
+  {
+    "chinese": "我们不得不现在走",
+    "english": "We have to go now",
+    "soundmark": "/wiː həv tə ɡoʊ naʊ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/həv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "now",
+        "role": "T",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "你必须遵守规则",
+    "english": "You must follow the rules",
+    "soundmark": "/juː mʌst ˈfɑːloʊ ðə ruːlz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "follow",
+        "role": "V",
+        "phonetic": "/ˈfɑːloʊ/",
+        "chinese": "跟随"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rules",
+        "role": "O",
+        "phonetic": "/ruːlz/",
+        "chinese": "规则/统治"
+      }
+    ]
+  },
+  {
+    "english": "obligation",
+    "chinese": "义务",
+    "soundmark": "/ˌɑːblɪˈɡeɪʃən/"
+  },
+  {
+    "english": "duty",
+    "chinese": "责任",
+    "soundmark": "/ˈduːti/"
+  },
+  {
+    "english": "necessary",
+    "chinese": "必要的",
+    "soundmark": "/ˈnesəseri/"
+  }
+]

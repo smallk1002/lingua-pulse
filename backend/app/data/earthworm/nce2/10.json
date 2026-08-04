@@ -1,0 +1,988 @@
+[
+  {
+    "chinese": "爵士乐",
+    "english": "jazz",
+    "soundmark": "/dʒæz/"
+  },
+  {
+    "chinese": "音乐的",
+    "english": "musical",
+    "soundmark": "/ˈmjuːzɪkəl/"
+  },
+  {
+    "chinese": "乐器",
+    "english": "instrument",
+    "soundmark": "/ˈɪnstrəmənt/"
+  },
+  {
+    "chinese": "损坏",
+    "english": "damage",
+    "soundmark": "/ˈdæmɪdʒ/"
+  },
+  {
+    "chinese": "钥匙",
+    "english": "key",
+    "soundmark": "/kiː/"
+  },
+  {
+    "chinese": "琴弦",
+    "english": "string",
+    "soundmark": "/strɪŋ/"
+  },
+  {
+    "chinese": "震动",
+    "english": "shock",
+    "soundmark": "/ʃɑːk/"
+  },
+  {
+    "chinese": "允许",
+    "english": "allow",
+    "soundmark": "/əˈlaʊ/"
+  },
+  {
+    "chinese": "触摸",
+    "english": "touch",
+    "soundmark": "/tʌtʃ/"
+  },
+  {
+    "chinese": "最近",
+    "english": "recently",
+    "soundmark": "/ˈriːsəntli/"
+  },
+  {
+    "chinese": "古钢琴",
+    "english": "clavichord",
+    "soundmark": "/ˈklævɪkɔːrd/"
+  },
+  {
+    "chinese": "乐器",
+    "english": "musical instrument",
+    "soundmark": "/ˈmjuːzɪkəl/ /ˈɪnstrəmənt/"
+  },
+  {
+    "chinese": "属于",
+    "english": "belong to",
+    "soundmark": "/bɪˈlɔːŋ/ /tuː/"
+  },
+  {
+    "chinese": "保管",
+    "english": "keep it in",
+    "soundmark": "/kiːp/ /ɪt/ /ɪn/"
+  },
+  {
+    "chinese": "我们有一件古老的乐器叫古钢琴",
+    "english": "We have an old musical instrument called a clavichord",
+    "soundmark": "/wiː/ /hæv/ /ən/ /oʊld/ /ˈmjuːzɪkəl/ /ˈɪnstrəmənt/ /kɔːld/ /ə/ /ˈklævɪkɔːrd/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "musical",
+        "role": "A",
+        "phonetic": "/ˈmjuːzɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "instrument",
+        "role": "O",
+        "phonetic": "/ˈɪnstrəmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "clavichord",
+        "role": "O",
+        "phonetic": "/ˈklævɪkɔːrd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "它是我们家一个亲戚很久以前做的",
+    "english": "It was made by a relative of ours a long time ago",
+    "soundmark": "/ɪt/ /wʌz/ /meɪd/ /baɪ/ /ə/ /ˈrelətɪv/ /ʌv/ /aʊrz/ /ə/ /lɔːŋ/ /taɪm/ /əˈɡoʊ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "relative",
+        "role": "O",
+        "phonetic": "/ˈrelətɪv/",
+        "chinese": "相对的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "ours",
+        "role": "O",
+        "phonetic": "/aʊrz/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "long",
+        "role": "A",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "ago",
+        "role": "A",
+        "phonetic": "/əˈɡoʊ/",
+        "chinese": "以前"
+      }
+    ]
+  },
+  {
+    "chinese": "最近它被我们家一个客人弄坏了",
+    "english": "Recently it was damaged by a visitor to our house",
+    "soundmark": "/ˈriːsəntli/ /ɪt/ /wʌz/ /ˈdæmɪdʒd/ /baɪ/ /ə/ /ˈvɪzɪtər/ /tuː/ /aʊr/ /haʊs/",
+    "grammar": [
+      {
+        "text": "Recently",
+        "role": "A",
+        "phonetic": "/ˈriːsəntli/",
+        "chinese": "最近"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "damaged",
+        "role": "V",
+        "phonetic": "/ˈdæmɪdʒd/",
+        "chinese": "损坏的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "visitor",
+        "role": "O",
+        "phonetic": "/ˈvɪzɪtər/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      }
+    ]
+  },
+  {
+    "chinese": "她试图在上面弹爵士乐",
+    "english": "She tried to play jazz on it",
+    "soundmark": "/ʃiː/ /traɪd/ /tuː/ /pleɪ/ /dʒæz/ /ɑːn/ /ɪt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "tried",
+        "role": "V",
+        "phonetic": "/traɪd/",
+        "chinese": "尝试（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "play",
+        "role": "V",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "jazz",
+        "role": "O",
+        "phonetic": "/dʒæz/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "她敲得太重以至于断了两根弦",
+    "english": "She struck the keys too hard and two of the strings were broken",
+    "soundmark": "/ʃiː/ /strʌk/ /ðə/ /kiːz/ /tuː/ /hɑːrd/ /ænd/ /tuː/ /ʌv/ /ðə/ /strɪŋz/ /wɜːr/ /ˈbroʊkən/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "struck",
+        "role": "V",
+        "phonetic": "/strʌk/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "keys",
+        "role": "O",
+        "phonetic": "/kiːz/",
+        "chinese": "钥匙"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "hard",
+        "role": "Adv",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "strings",
+        "role": "S",
+        "phonetic": "/strɪŋz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "broken",
+        "role": "V",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      }
+    ]
+  },
+  {
+    "chinese": "它正在被我父亲修理",
+    "english": "It is being repaired by my father",
+    "soundmark": "/ɪt/ /ɪz/ /ˈbiːɪŋ/ /rɪˈperd/ /baɪ/ /maɪ/ /ˈfɑːðər/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "being",
+        "role": "V",
+        "phonetic": "/ˈbiːɪŋ/",
+        "chinese": "是（进行时）"
+      },
+      {
+        "text": "repaired",
+        "role": "V",
+        "phonetic": "/rɪˈperd/",
+        "chinese": "修理"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "father",
+        "role": "O",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      }
+    ]
+  },
+  {
+    "chinese": "朋友不可以使用这个房间",
+    "english": "Friends are not allowed to use this room",
+    "soundmark": "/frendz/ /ɑːr/ /nɑːt/ /əˈlaʊd/ /tuː/ /juːz/ /ðɪs/ /ruːm/",
+    "grammar": [
+      {
+        "text": "Friends",
+        "role": "S",
+        "phonetic": "/frendz/",
+        "chinese": "朋友"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "allowed",
+        "role": "V",
+        "phonetic": "/əˈlaʊd/",
+        "chinese": "允许"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "use",
+        "role": "V",
+        "phonetic": "/juːz/",
+        "chinese": "使用"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "room",
+        "role": "O",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "那封信是被她写的",
+    "english": "The letter was written by her",
+    "soundmark": "/ðə/ /ˈletər/ /wʌz/ /ˈrɪtən/ /baɪ/ /hɜːr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "letter",
+        "role": "S",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "written",
+        "role": "V",
+        "phonetic": "/ˈrɪtən/",
+        "chinese": "书面的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      }
+    ]
+  },
+  {
+    "chinese": "这栋楼是去年建好的",
+    "english": "This building was built last year",
+    "soundmark": "/ðɪs/ /ˈbɪldɪŋ/ /wʌz/ /bɪlt/ /læst/ /jɪr/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "building",
+        "role": "S",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "chinese": "建筑的/建筑物"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "窗户是昨天被打破的",
+    "english": "The window was broken yesterday",
+    "soundmark": "/ðə/ /ˈwɪndoʊ/ /wʌz/ /ˈbroʊkən/ /ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "S",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "broken",
+        "role": "V",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "英语在全世界都被广泛使用",
+    "english": "English is widely spoken all over the world",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /ˈwaɪdli/ /ˈspoʊkən/ /ɔːl/ /ˈoʊvər/ /ðə/ /wɜːrld/",
+    "grammar": [
+      {
+        "text": "English",
+        "role": "S",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "widely",
+        "role": "Adv",
+        "phonetic": "/ˈwaɪdli/",
+        "chinese": "…地(宽的)"
+      },
+      {
+        "text": "spoken",
+        "role": "V",
+        "phonetic": "/ˈspoʊkən/",
+        "chinese": "口头的"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "O",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      }
+    ]
+  },
+  {
+    "chinese": "这些椅子是谁做的",
+    "english": "Who were these chairs made by",
+    "soundmark": "/huː/ /wɜːr/ /ðiːz/ /tʃerz/ /meɪd/ /baɪ/",
+    "grammar": [
+      {
+        "text": "Who",
+        "role": "O",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "chairs",
+        "role": "S",
+        "phonetic": "/tʃerz/",
+        "chinese": "椅子"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      }
+    ]
+  },
+  {
+    "chinese": "这部手机是在中国制造的",
+    "english": "This phone was made in China",
+    "soundmark": "/ðɪs/ /foʊn/ /wʌz/ /meɪd/ /ɪn/ /ˈtʃaɪnə/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "phone",
+        "role": "S",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "China",
+        "role": "O",
+        "phonetic": "/ˈtʃaɪnə/",
+        "chinese": "中国"
+      }
+    ]
+  },
+  {
+    "chinese": "所有票都已经卖完了",
+    "english": "All the tickets have been sold",
+    "soundmark": "/ɔːl/ /ðə/ /ˈtɪkɪts/ /hæv/ /biːn/ /soʊld/",
+    "grammar": [
+      {
+        "text": "All",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tickets",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "sold",
+        "role": "V",
+        "phonetic": "/soʊld/",
+        "chinese": "卖（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "不要把钥匙放在那儿",
+    "english": "Do not leave the keys there",
+    "soundmark": "/duː/ /nɑːt/ /liːv/ /ðə/ /kiːz/ /ðer/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "keys",
+        "role": "O",
+        "phonetic": "/kiːz/",
+        "chinese": "钥匙"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "你不被允许在这栋楼里抽烟",
+    "english": "You are not allowed to smoke in this building",
+    "soundmark": "/juː/ /ɑːr/ /nɑːt/ /əˈlaʊd/ /tuː/ /smoʊk/ /ɪn/ /ðɪs/ /ˈbɪldɪŋ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "allowed",
+        "role": "V",
+        "phonetic": "/əˈlaʊd/",
+        "chinese": "允许"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "smoke",
+        "role": "V",
+        "phonetic": "/smoʊk/",
+        "chinese": "抽烟/烟"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "building",
+        "role": "O",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "chinese": "建筑的/建筑物"
+      }
+    ]
+  },
+  {
+    "chinese": "钢琴",
+    "english": "piano",
+    "soundmark": "/piˈænoʊ/"
+  },
+  {
+    "chinese": "亲戚",
+    "english": "relative",
+    "soundmark": "/ˈrelətɪv/"
+  },
+  {
+    "chinese": "修理",
+    "english": "repair",
+    "soundmark": "/rɪˈper/"
+  },
+  {
+    "chinese": "被损坏",
+    "english": "damaged",
+    "soundmark": "/ˈdæmɪdʒd/"
+  },
+  {
+    "chinese": "被制造",
+    "english": "made",
+    "soundmark": "/meɪd/"
+  },
+  {
+    "chinese": "被写",
+    "english": "written",
+    "soundmark": "/ˈrɪtən/"
+  },
+  {
+    "chinese": "被卖",
+    "english": "sold",
+    "soundmark": "/soʊld/"
+  },
+  {
+    "chinese": "房屋",
+    "english": "house",
+    "soundmark": "/haʊs/"
+  },
+  {
+    "chinese": "窗户",
+    "english": "window",
+    "soundmark": "/ˈwɪndoʊ/"
+  },
+  {
+    "chinese": "建筑",
+    "english": "building",
+    "soundmark": "/ˈbɪldɪŋ/"
+  },
+  {
+    "chinese": "票",
+    "english": "ticket",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "chinese": "广泛地",
+    "english": "widely",
+    "soundmark": "/ˈwaɪdli/"
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "chinese": "计划",
+    "english": "plan",
+    "soundmark": "/plæn/"
+  },
+  {
+    "chinese": "夏天",
+    "english": "summer",
+    "soundmark": "/ˈsʌmə/"
+  },
+  {
+    "chinese": "出国",
+    "english": "abroad",
+    "soundmark": "/əˈbrɔːd/"
+  },
+  {
+    "chinese": "海边",
+    "english": "seaside",
+    "soundmark": "/ˈsiːsaɪd/"
+  },
+  {
+    "chinese": "护照",
+    "english": "passport",
+    "soundmark": "/ˈpɑːspɔːt/"
+  },
+  {
+    "chinese": "票",
+    "english": "ticket",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "chinese": "打包",
+    "english": "pack",
+    "soundmark": "/pæk/"
+  },
+  {
+    "chinese": "行李箱",
+    "english": "suitcase",
+    "soundmark": "/ˈsuːtkeɪs/"
+  },
+  {
+    "chinese": "机场",
+    "english": "airport",
+    "soundmark": "/ˈeəpɔːt/"
+  },
+  {
+    "chinese": "乘飞机",
+    "english": "fly",
+    "soundmark": "/flaɪ/"
+  },
+  {
+    "chinese": "离开",
+    "english": "leave",
+    "soundmark": "/liːv/"
+  },
+  {
+    "chinese": "回来",
+    "english": "return",
+    "soundmark": "/rɪˈtɜːn/"
+  },
+  {
+    "chinese": "预订",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "trip",
+    "soundmark": "/trɪp/"
+  },
+  {
+    "chinese": "准备",
+    "english": "prepare",
+    "soundmark": "/prɪˈpeə/"
+  },
+  {
+    "chinese": "我们打算去度假。",
+    "english": "We are going to go on holiday.",
+    "soundmark": "/wiː ə ˈɡəʊɪŋ tuː ɡəʊ ɒn ˈhɒlədeɪ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are going to go",
+        "role": "V",
+        "phonetic": "/ə ˈɡəʊɪŋ tuː ɡəʊ/",
+        "chinese": "是/到/向/去"
+      },
+      {
+        "text": "on holiday",
+        "role": "Adv",
+        "phonetic": "/ɒn ˈhɒlədeɪ/",
+        "chinese": "在度假"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算去哪里？",
+    "english": "Where are you going to go?",
+    "soundmark": "/weə ə juː ˈɡəʊɪŋ tuː ɡəʊ/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/weə/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ə/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to go",
+        "role": "V",
+        "phonetic": "/ˈɡəʊɪŋ tuː ɡəʊ/",
+        "chinese": "到/向/去"
+      }
+    ]
+  },
+  {
+    "chinese": "我们打算出国。",
+    "english": "We are going to go abroad.",
+    "soundmark": "/wiː ə ˈɡəʊɪŋ tuː ɡəʊ əˈbrɔːd/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are going to go",
+        "role": "V",
+        "phonetic": "/ə ˈɡəʊɪŋ tuː ɡəʊ/",
+        "chinese": "是/到/向/去"
+      },
+      {
+        "text": "abroad",
+        "role": "Adv",
+        "phonetic": "/əˈbrɔːd/",
+        "chinese": "国外"
+      }
+    ]
+  },
+  {
+    "chinese": "她正在收拾行李箱。",
+    "english": "She is packing her suitcase.",
+    "soundmark": "/ʃiː ɪz ˈpækɪŋ hɜː ˈsuːtkeɪs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is packing",
+        "role": "V",
+        "phonetic": "/ɪz ˈpækɪŋ/",
+        "chinese": "是"
+      },
+      {
+        "text": "her suitcase",
+        "role": "O",
+        "phonetic": "/hɜː ˈsuːtkeɪs/",
+        "chinese": "她/她的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们需要买机票。",
+    "english": "We need to buy tickets.",
+    "soundmark": "/wiː niːd tuː baɪ ˈtɪkɪts/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "need to buy",
+        "role": "V",
+        "phonetic": "/niːd tuː baɪ/",
+        "chinese": "需要/到/向/买"
+      },
+      {
+        "text": "tickets",
+        "role": "O",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      }
+    ]
+  },
+  {
+    "chinese": "我打算夏天去海边。",
+    "english": "I am going to go to the seaside in summer.",
+    "soundmark": "/aɪ ə ˈɡəʊɪŋ tuː ɡəʊ tuː ðə ˈsiːsaɪd ɪn ˈsʌmə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am going to go",
+        "role": "V",
+        "phonetic": "/ə ˈɡəʊɪŋ tuː ɡəʊ/",
+        "chinese": "是/到/向/去"
+      },
+      {
+        "text": "to the seaside",
+        "role": "Adv",
+        "phonetic": "/tuː ðə ˈsiːsaɪd/",
+        "chinese": "到/向/这个/那个"
+      },
+      {
+        "text": "in summer",
+        "role": "A",
+        "phonetic": "/ɪn ˈsʌmə/",
+        "chinese": "在…里/夏天"
+      }
+    ]
+  },
+  {
+    "chinese": "我们什么时候出发？",
+    "english": "When are we going to leave?",
+    "soundmark": "/wen ə wiː ˈɡəʊɪŋ tuː liːv/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ə/",
+        "chinese": "是"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "going to leave",
+        "role": "V",
+        "phonetic": "/ˈɡəʊɪŋ tuː liːv/",
+        "chinese": "到/向/离开"
+      }
+    ]
+  },
+  {
+    "chinese": "他需要申请护照。",
+    "english": "He needs to get a passport.",
+    "soundmark": "/hiː niːdz tuː ɡet ə ˈpɑːspɔːt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "needs to get",
+        "role": "V",
+        "phonetic": "/niːdz tuː ɡet/",
+        "chinese": "…们/复数(需要)/到/向/得到/变得"
+      },
+      {
+        "text": "a passport",
+        "role": "O",
+        "phonetic": "/ə ˈpɑːspɔːt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我们打算坐飞机去。",
+    "english": "We are going to fly there.",
+    "soundmark": "/wiː ə ˈɡəʊɪŋ tuː flaɪ ðeə/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are going to fly",
+        "role": "V",
+        "phonetic": "/ə ˈɡəʊɪŋ tuː flaɪ/",
+        "chinese": "是/到/向/飞"
+      },
+      {
+        "text": "there",
+        "role": "Adv",
+        "phonetic": "/ðeə/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算待多久？",
+    "english": "How long are you going to stay?",
+    "soundmark": "/haʊ lɒŋ ə juː ˈɡəʊɪŋ tuː steɪ/",
+    "grammar": [
+      {
+        "text": "How long",
+        "role": "Adv",
+        "phonetic": "/haʊ lɒŋ/",
+        "chinese": "多长时间"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ə/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to stay",
+        "role": "V",
+        "phonetic": "/ˈɡəʊɪŋ tuː steɪ/",
+        "chinese": "到/向/停留/保持"
+      }
+    ]
+  },
+  {
+    "chinese": "我们下个月回来。",
+    "english": "We are going to return next month.",
+    "soundmark": "/wiː ə ˈɡəʊɪŋ tuː rɪˈtɜːn nekst mʌnθ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are going to return",
+        "role": "V",
+        "phonetic": "/ə ˈɡəʊɪŋ tuː rɪˈtɜːn/",
+        "chinese": "是/到/向/返回"
+      },
+      {
+        "text": "next month",
+        "role": "A",
+        "phonetic": "/nekst mʌnθ/",
+        "chinese": "下个月"
+      }
+    ]
+  },
+  {
+    "chinese": "他们正在计划旅行。",
+    "english": "They are planning a trip.",
+    "soundmark": "/ðeɪ ə ˈplænɪŋ ə trɪp/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are planning",
+        "role": "V",
+        "phonetic": "/ə ˈplænɪŋ/",
+        "chinese": "是/正在…(计划)"
+      },
+      {
+        "text": "a trip",
+        "role": "O",
+        "phonetic": "/ə trɪp/",
+        "chinese": "一个/旅行"
+      }
+    ]
+  },
+  {
+    "chinese": "目的地",
+    "english": "destination",
+    "soundmark": "/ˌdestɪˈneɪʃən/"
+  },
+  {
+    "chinese": "行李",
+    "english": "luggage",
+    "soundmark": "/ˈlʌɡɪdʒ/"
+  },
+  {
+    "chinese": "日历",
+    "english": "calendar",
+    "soundmark": "/ˈkælɪndə/"
+  },
+  {
+    "chinese": "下个月",
+    "english": "next month",
+    "soundmark": "/nekst mʌnθ/"
+  },
+  {
+    "chinese": "下周",
+    "english": "next week",
+    "soundmark": "/nekst wiːk/"
+  },
+  {
+    "chinese": "航班",
+    "english": "flight",
+    "soundmark": "/flaɪt/"
+  },
+  {
+    "chinese": "轮船",
+    "english": "ship",
+    "soundmark": "/ʃɪp/"
+  },
+  {
+    "chinese": "火车",
+    "english": "train",
+    "soundmark": "/treɪn/"
+  },
+  {
+    "chinese": "旅馆",
+    "english": "inn",
+    "soundmark": "/ɪn/"
+  },
+  {
+    "chinese": "度假",
+    "english": "vacation",
+    "soundmark": "/vəˈkeɪʃən/"
+  },
+  {
+    "chinese": "观光",
+    "english": "sightsee",
+    "soundmark": "/ˈsaɪtsiː/"
+  },
+  {
+    "chinese": "照相机",
+    "english": "camera",
+    "soundmark": "/ˈkæmərə/"
+  },
+  {
+    "chinese": "地图",
+    "english": "map",
+    "soundmark": "/mæp/"
+  }
+]

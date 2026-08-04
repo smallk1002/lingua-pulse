@@ -1,0 +1,235 @@
+[
+  {
+    "english": "ring",
+    "chinese": "打电话",
+    "soundmark": "/rɪŋ/"
+  },
+  {
+    "english": "telephone",
+    "chinese": "电话",
+    "soundmark": "/ˈtelɪfoʊn/"
+  },
+  {
+    "english": "call",
+    "chinese": "打电话",
+    "soundmark": "/kɔːl/"
+  },
+  {
+    "chinese": "他说他会给我打电话",
+    "english": "He said he'd ring me up",
+    "soundmark": "/hiː sed hiːd rɪŋ miː ʌp/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "'d",
+        "role": "V",
+        "phonetic": "/d/",
+        "chinese": ""
+      },
+      {
+        "text": "ring",
+        "role": "V",
+        "phonetic": "/rɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天给他打了电话",
+    "english": "I called him yesterday",
+    "soundmark": "/aɪ kɔːld hɪm ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "yesterday",
+        "role": "T",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "电话响了很久",
+    "english": "The phone rang for a long time",
+    "soundmark": "/ðə foʊn ræŋ fɔːr ə lɔːŋ taɪm/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "phone",
+        "role": "S",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      },
+      {
+        "text": "rang",
+        "role": "V",
+        "phonetic": "/ræŋ/",
+        "chinese": "响（过去式）"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "long",
+        "role": "Det",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "他没接电话",
+    "english": "He didn't answer the phone",
+    "soundmark": "/hiː ˈdɪdənt ˈænsər ðə foʊn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "didn't",
+        "role": "V",
+        "phonetic": "/ˈdɪdənt/",
+        "chinese": "不（过去）"
+      },
+      {
+        "text": "answer",
+        "role": "V",
+        "phonetic": "/ˈænsər/",
+        "chinese": "回答"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "phone",
+        "role": "O",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      }
+    ]
+  },
+  {
+    "chinese": "我会再打给你的",
+    "english": "I'll call you again",
+    "soundmark": "/aɪl kɔːl juː əˈɡen/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "'ll",
+        "role": "V",
+        "phonetic": "/l/",
+        "chinese": ""
+      },
+      {
+        "text": "call",
+        "role": "V",
+        "phonetic": "/kɔːl/",
+        "chinese": "打电话/叫"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "again",
+        "role": "A",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      }
+    ]
+  },
+  {
+    "english": "message",
+    "chinese": "消息",
+    "soundmark": "/ˈmesɪdʒ/"
+  },
+  {
+    "english": "answer",
+    "chinese": "接听",
+    "soundmark": "/ˈænsər/"
+  },
+  {
+    "english": "later",
+    "chinese": "稍后",
+    "soundmark": "/ˈleɪtər/"
+  }
+]

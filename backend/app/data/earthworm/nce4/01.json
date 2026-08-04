@@ -1,0 +1,1291 @@
+[
+  {
+    "chinese": "化石",
+    "english": "fossil",
+    "soundmark": "/ˈfɑːsl/"
+  },
+  {
+    "chinese": "人类",
+    "english": "man",
+    "soundmark": "/mæn/"
+  },
+  {
+    "chinese": "发现",
+    "english": "find",
+    "soundmark": "/faɪnd/"
+  },
+  {
+    "chinese": "古代的",
+    "english": "ancient",
+    "soundmark": "/ˈeɪnʃənt/"
+  },
+  {
+    "chinese": "遗迹",
+    "english": "remains",
+    "soundmark": "/rɪˈmeɪnz/"
+  },
+  {
+    "chinese": "骨头",
+    "english": "bone",
+    "soundmark": "/boʊn/"
+  },
+  {
+    "chinese": "石器",
+    "english": "stone tool",
+    "soundmark": "/stoʊn/ /tuːl/"
+  },
+  {
+    "chinese": "考古学家",
+    "english": "archaeologist",
+    "soundmark": "/ˌɑːrkiˈɑːlədʒɪst/"
+  },
+  {
+    "chinese": "年代",
+    "english": "age",
+    "soundmark": "/eɪdʒ/"
+  },
+  {
+    "chinese": "证据",
+    "english": "evidence",
+    "soundmark": "/ˈevɪdəns/"
+  },
+  {
+    "chinese": "挖掘",
+    "english": "dig",
+    "soundmark": "/dɪɡ/"
+  },
+  {
+    "chinese": "埋藏",
+    "english": "bury",
+    "soundmark": "/ˈberi/"
+  },
+  {
+    "chinese": "地层",
+    "english": "layer",
+    "soundmark": "/ˈleɪər/"
+  },
+  {
+    "chinese": "史前的",
+    "english": "prehistoric",
+    "soundmark": "/ˌpriːhɪˈstɔːrɪk/"
+  },
+  {
+    "chinese": "文明",
+    "english": "civilization",
+    "soundmark": "/ˌsɪvələˈzeɪʃn/"
+  },
+  {
+    "chinese": "化石人",
+    "english": "fossil man",
+    "soundmark": "/ˈfɑːsl/ /mæn/"
+  },
+  {
+    "chinese": "古人",
+    "english": "ancient man",
+    "soundmark": "/ˈeɪnʃənt/ /mæn/"
+  },
+  {
+    "chinese": "人类遗骸",
+    "english": "human remains",
+    "soundmark": "/ˈhjuːmən/ /rɪˈmeɪnz/"
+  },
+  {
+    "chinese": "石器时代",
+    "english": "Stone Age",
+    "soundmark": "/stoʊn/ /eɪdʒ/"
+  },
+  {
+    "chinese": "考古发现",
+    "english": "archaeological discovery",
+    "soundmark": "/ˌɑːrkiəˈlɑːdʒɪkl/ /dɪˈskʌvəri/"
+  },
+  {
+    "chinese": "科学证据",
+    "english": "scientific evidence",
+    "soundmark": "/ˌsaɪənˈtɪfɪk/ /ˈevɪdəns/"
+  },
+  {
+    "chinese": "化石被发现",
+    "english": "fossils are found",
+    "soundmark": "/ˈfɑːslz/ /ɑːr/ /faʊnd/"
+  },
+  {
+    "chinese": "古生物学家发现了化石",
+    "english": "the paleontologist has discovered a fossil",
+    "soundmark": "/ðə/ /ˌpeɪliɑːnˈtɑːlədʒɪst/ /hæz/ /dɪˈskʌvərd/ /ə/ /ˈfɑːsl/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "paleontologist",
+        "role": "S",
+        "phonetic": "/ˌpeɪliɑːnˈtɑːlədʒɪst/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fossil",
+        "role": "O",
+        "phonetic": "/ˈfɑːsl/",
+        "chinese": "化石"
+      }
+    ]
+  },
+  {
+    "chinese": "考古学家已经挖掘出了古代遗骸",
+    "english": "archaeologists have dug up ancient remains",
+    "soundmark": "/ˌɑːrkiˈɑːlədʒɪsts/ /hæv/ /dʌɡ/ /ʌp/ /ˈeɪnʃənt/ /rɪˈmeɪnz/",
+    "grammar": [
+      {
+        "text": "archaeologists",
+        "role": "S",
+        "phonetic": "/ˌɑːrkiˈɑːlədʒɪsts/",
+        "chinese": "考古学家"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "dug",
+        "role": "V",
+        "phonetic": "/dʌɡ/",
+        "chinese": ""
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "ancient",
+        "role": "A",
+        "phonetic": "/ˈeɪnʃənt/",
+        "chinese": "古代的"
+      },
+      {
+        "text": "remains",
+        "role": "O",
+        "phonetic": "/rɪˈmeɪnz/",
+        "chinese": "保持"
+      }
+    ]
+  },
+  {
+    "chinese": "这些化石已有数百万年的历史",
+    "english": "these fossils are millions of years old",
+    "soundmark": "/ðiːz/ /ˈfɑːslz/ /ɑːr/ /ˈmɪljənz/ /ʌv/ /jɪrz/ /oʊld/",
+    "grammar": [
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "fossils",
+        "role": "S",
+        "phonetic": "/ˈfɑːslz/",
+        "chinese": "化石"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "millions",
+        "role": "C",
+        "phonetic": "/ˈmɪljənz/",
+        "chinese": "百万"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "years",
+        "role": "O",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "科学家还没有找到所有答案",
+    "english": "scientists have not found all the answers",
+    "soundmark": "/ˈsaɪəntɪsts/ /hæv/ /nɑːt/ /faʊnd/ /ɔːl/ /ði/ /ˈænsərz/",
+    "grammar": [
+      {
+        "text": "scientists",
+        "role": "S",
+        "phonetic": "/ˈsaɪəntɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "answers",
+        "role": "O",
+        "phonetic": "/ˈænsərz/",
+        "chinese": "回答"
+      }
+    ]
+  },
+  {
+    "chinese": "人类一直在寻找自己的起源",
+    "english": "man has been searching for his own origins",
+    "soundmark": "/mæn/ /hæz/ /bɪn/ /ˈsɜːrtʃɪŋ/ /fɔːr/ /hɪz/ /oʊn/ /ˈɔːrɪdʒɪnz/",
+    "grammar": [
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "searching",
+        "role": "V",
+        "phonetic": "/ˈsɜːrtʃɪŋ/",
+        "chinese": "搜索"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "own",
+        "role": "Det",
+        "phonetic": "/oʊn/",
+        "chinese": "自己的"
+      },
+      {
+        "text": "origins",
+        "role": "O",
+        "phonetic": "/ˈɔːrɪdʒɪnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他们在地底下发现了石器",
+    "english": "they have found stone tools under the ground",
+    "soundmark": "/ðeɪ/ /hæv/ /faʊnd/ /stoʊn/ /tuːlz/ /ˈʌndər/ /ðə/ /ɡraʊnd/",
+    "grammar": [
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "stone",
+        "role": "A",
+        "phonetic": "/stoʊn/",
+        "chinese": "石头"
+      },
+      {
+        "text": "tools",
+        "role": "O",
+        "phonetic": "/tuːlz/",
+        "chinese": "工具"
+      },
+      {
+        "text": "under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ground",
+        "role": "O",
+        "phonetic": "/ɡraʊnd/",
+        "chinese": "地面"
+      }
+    ]
+  },
+  {
+    "chinese": "这具骨架展示了一个早期人类的形态",
+    "english": "this skeleton shows the form of an early human",
+    "soundmark": "/ðɪs/ /ˈskelɪtn/ /ʃoʊz/ /ðə/ /fɔːrm/ /ʌv/ /æn/ /ˈɜːrli/ /ˈhjuːmən/",
+    "grammar": [
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "skeleton",
+        "role": "S",
+        "phonetic": "/ˈskelɪtn/",
+        "chinese": ""
+      },
+      {
+        "text": "shows",
+        "role": "V",
+        "phonetic": "/ʃoʊz/",
+        "chinese": "展示"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "form",
+        "role": "O",
+        "phonetic": "/fɔːrm/",
+        "chinese": "表格/形式"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/æn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "human",
+        "role": "O",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      }
+    ]
+  },
+  {
+    "chinese": "古生物学家已经在这片区域工作了数十年",
+    "english": "palaeontologists have worked in this area for decades",
+    "soundmark": "/ˌpeɪliɑːnˈtɑːlədʒɪsts/ /hæv/ /wɜːrkt/ /ɪn/ /ðɪs/ /ˈeriə/ /fɔːr/ /ˈdekeɪdz/",
+    "grammar": [
+      {
+        "text": "palaeontologists",
+        "role": "S",
+        "phonetic": "/ˌpeɪliɑːnˈtɑːlədʒɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "worked",
+        "role": "V",
+        "phonetic": "/wɜːrkt/",
+        "chinese": "工作"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "area",
+        "role": "O",
+        "phonetic": "/ˈeriə/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "decades",
+        "role": "O",
+        "phonetic": "/ˈdekeɪdz/",
+        "chinese": "…们/复数(十年)"
+      }
+    ]
+  },
+  {
+    "chinese": "没有人确切知道人类最早是何时出现的",
+    "english": "no one knows exactly when man first appeared",
+    "soundmark": "/noʊ/ /wʌn/ /noʊz/ /ɪɡˈzæktli/ /wen/ /mæn/ /fɜːrst/ /əˈpɪrd/",
+    "grammar": [
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "knows",
+        "role": "V",
+        "phonetic": "/noʊz/",
+        "chinese": "知道"
+      },
+      {
+        "text": "exactly",
+        "role": "Adv",
+        "phonetic": "/ɪɡˈzæktli/",
+        "chinese": "确切地"
+      },
+      {
+        "text": "when",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "first",
+        "role": "Adv",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      },
+      {
+        "text": "appeared",
+        "role": "V",
+        "phonetic": "/əˈpɪrd/",
+        "chinese": "出现"
+      }
+    ]
+  },
+  {
+    "chinese": "我们发现的证据表明人类进化是一个漫长的过程",
+    "english": "the evidence we have found shows that human evolution was a long process",
+    "soundmark": "/ði/ /ˈevɪdəns/ /wiː/ /hæv/ /faʊnd/ /ʃoʊz/ /ðæt/ /ˈhjuːmən/ /ˌevəˈluːʃn/ /wʌz/ /ə/ /lɔːŋ/ /ˈprɑːses/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "evidence",
+        "role": "S",
+        "phonetic": "/ˈevɪdəns/",
+        "chinese": "证据"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "shows",
+        "role": "V",
+        "phonetic": "/ʃoʊz/",
+        "chinese": "展示"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "human",
+        "role": "A",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "evolution",
+        "role": "S",
+        "phonetic": "/ˌevəˈluːʃn/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "long",
+        "role": "A",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "process",
+        "role": "C",
+        "phonetic": "/ˈprɑːses/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "自从达尔文以来我们对人类起源的了解已经大大加深了",
+    "english": "since Darwin our understanding of human origins has greatly deepened",
+    "soundmark": "/sɪns/ /ˈdɑːrwɪn/ /aʊr/ /ˌʌndərˈstændɪŋ/ /ʌv/ /ˈhjuːmən/ /ˈɔːrɪdʒɪnz/ /hæz/ /ˈɡreɪtli/ /ˈdiːpənd/",
+    "grammar": [
+      {
+        "text": "since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "Darwin",
+        "role": "O",
+        "phonetic": "/ˈdɑːrwɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "understanding",
+        "role": "S",
+        "phonetic": "/ˌʌndərˈstændɪŋ/",
+        "chinese": "理解的/谅解"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "human",
+        "role": "A",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "origins",
+        "role": "O",
+        "phonetic": "/ˈɔːrɪdʒɪnz/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "greatly",
+        "role": "Adv",
+        "phonetic": "/ˈɡreɪtli/",
+        "chinese": "…地(伟大的/很棒的)"
+      },
+      {
+        "text": "deepened",
+        "role": "V",
+        "phonetic": "/ˈdiːpənd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "许多人类化石已经在非洲被发掘出来",
+    "english": "many human fossils have been unearthed in Africa",
+    "soundmark": "/ˈmeni/ /ˈhjuːmən/ /ˈfɑːslz/ /hæv/ /bɪn/ /ʌnˈɜːrθt/ /ɪn/ /ˈæfrɪkə/",
+    "grammar": [
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "human",
+        "role": "A",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "fossils",
+        "role": "S",
+        "phonetic": "/ˈfɑːslz/",
+        "chinese": "化石"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "unearthed",
+        "role": "V",
+        "phonetic": "/ʌnˈɜːrθt/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Africa",
+        "role": "O",
+        "phonetic": "/ˈæfrɪkə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "从这些化石中我们了解到很多关于早期人类的信息",
+    "english": "from these fossils we have learned much about early man",
+    "soundmark": "/frʌm/ /ðiːz/ /ˈfɑːslz/ /wiː/ /hæv/ /lɜːrnd/ /mʌtʃ/ /əˈbaʊt/ /ˈɜːrli/ /mæn/",
+    "grammar": [
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "fossils",
+        "role": "O",
+        "phonetic": "/ˈfɑːslz/",
+        "chinese": "化石"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "learned",
+        "role": "V",
+        "phonetic": "/lɜːrnd/",
+        "chinese": "学习"
+      },
+      {
+        "text": "much",
+        "role": "O",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "man",
+        "role": "O",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      }
+    ]
+  },
+  {
+    "chinese": "考古学家一直在寻找能将人类与猿类联系起来的缺失环节",
+    "english": "archaeologists have been looking for the missing link between man and ape",
+    "soundmark": "/ˌɑːrkiˈɑːlədʒɪsts/ /hæv/ /bɪn/ /ˈlʊkɪŋ/ /fɔːr/ /ðə/ /ˈmɪsɪŋ/ /lɪŋk/ /bɪˈtwiːn/ /mæn/ /ænd/ /eɪp/",
+    "grammar": [
+      {
+        "text": "archaeologists",
+        "role": "S",
+        "phonetic": "/ˌɑːrkiˈɑːlədʒɪsts/",
+        "chinese": "考古学家"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "looking",
+        "role": "V",
+        "phonetic": "/ˈlʊkɪŋ/",
+        "chinese": "看的/看起来"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "missing",
+        "role": "A",
+        "phonetic": "/ˈmɪsɪŋ/",
+        "chinese": "失踪的/缺失的"
+      },
+      {
+        "text": "link",
+        "role": "O",
+        "phonetic": "/lɪŋk/",
+        "chinese": ""
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "man",
+        "role": "O",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "ape",
+        "role": "O",
+        "phonetic": "/eɪp/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "最近出土的头骨揭示了脑容量的显著增长",
+    "english": "the recently unearthed skull reveals a remarkable increase in brain size",
+    "soundmark": "/ðə/ /ˈriːsntli/ /ʌnˈɜːrθt/ /skʌl/ /rɪˈviːlz/ /ə/ /rɪˈmɑːrkəbl/ /ˈɪnkriːs/ /ɪn/ /breɪn/ /saɪz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "recently",
+        "role": "Adv",
+        "phonetic": "/ˈriːsntli/",
+        "chinese": "最近"
+      },
+      {
+        "text": "unearthed",
+        "role": "A",
+        "phonetic": "/ʌnˈɜːrθt/",
+        "chinese": ""
+      },
+      {
+        "text": "skull",
+        "role": "S",
+        "phonetic": "/skʌl/",
+        "chinese": ""
+      },
+      {
+        "text": "reveals",
+        "role": "V",
+        "phonetic": "/rɪˈviːlz/",
+        "chinese": "揭露"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "remarkable",
+        "role": "A",
+        "phonetic": "/rɪˈmɑːrkəbl/",
+        "chinese": "卓越的"
+      },
+      {
+        "text": "increase",
+        "role": "O",
+        "phonetic": "/ˈɪnkriːs/",
+        "chinese": "增加"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "brain",
+        "role": "A",
+        "phonetic": "/breɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "size",
+        "role": "O",
+        "phonetic": "/saɪz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我已经研究人类化石二十年了",
+    "english": "I have studied human fossils for twenty years",
+    "soundmark": "/aɪ/ /hæv/ /ˈstʌdid/ /ˈhjuːmən/ /ˈfɑːslz/ /fɔːr/ /ˈtwenti/ /jɪrz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "studied",
+        "role": "V",
+        "phonetic": "/ˈstʌdid/",
+        "chinese": "学习（过去式）"
+      },
+      {
+        "text": "human",
+        "role": "A",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "fossils",
+        "role": "O",
+        "phonetic": "/ˈfɑːslz/",
+        "chinese": "化石"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "twenty",
+        "role": "A",
+        "phonetic": "/ˈtwenti/",
+        "chinese": "二十"
+      },
+      {
+        "text": "years",
+        "role": "O",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "他们从未找到过一具完整的骨架",
+    "english": "they have never found a complete skeleton",
+    "soundmark": "/ðeɪ/ /hæv/ /ˈnevər/ /faʊnd/ /ə/ /kəmˈpliːt/ /ˈskelɪtn/",
+    "grammar": [
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "complete",
+        "role": "A",
+        "phonetic": "/kəmˈpliːt/",
+        "chinese": "完整的"
+      },
+      {
+        "text": "skeleton",
+        "role": "O",
+        "phonetic": "/ˈskelɪtn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "自从那次发现之后出版了数百篇论文",
+    "english": "hundreds of papers have been published since that discovery",
+    "soundmark": "/ˈhʌndrədz/ /ʌv/ /ˈpeɪpərz/ /hæv/ /bɪn/ /ˈpʌblɪʃt/ /sɪns/ /ðæt/ /dɪˈskʌvəri/",
+    "grammar": [
+      {
+        "text": "hundreds",
+        "role": "S",
+        "phonetic": "/ˈhʌndrədz/",
+        "chinese": "百"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "papers",
+        "role": "O",
+        "phonetic": "/ˈpeɪpərz/",
+        "chinese": "纸/论文"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "published",
+        "role": "V",
+        "phonetic": "/ˈpʌblɪʃt/",
+        "chinese": "已出版的"
+      },
+      {
+        "text": "since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "discovery",
+        "role": "O",
+        "phonetic": "/dɪˈskʌvəri/",
+        "chinese": "发现"
+      }
+    ]
+  },
+  {
+    "chinese": "关于人类起源已经有了许多新理论",
+    "english": "there have been many new theories about the origin of man",
+    "soundmark": "/ðer/ /hæv/ /bɪn/ /ˈmeni/ /nuː/ /ˈθɪəriz/ /əˈbaʊt/ /ði/ /ˈɔːrɪdʒɪn/ /ʌv/ /mæn/",
+    "grammar": [
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "theories",
+        "role": "C",
+        "phonetic": "/ˈθɪəriz/",
+        "chinese": ""
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "origin",
+        "role": "O",
+        "phonetic": "/ˈɔːrɪdʒɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "man",
+        "role": "O",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      }
+    ]
+  },
+  {
+    "chinese": "发掘",
+    "english": "excavation",
+    "soundmark": "/ˌekskəˈveɪʃn/"
+  },
+  {
+    "chinese": "进化",
+    "english": "evolution",
+    "soundmark": "/ˌevəˈluːʃn/"
+  },
+  {
+    "chinese": "头骨",
+    "english": "skull",
+    "soundmark": "/skʌl/"
+  },
+  {
+    "chinese": "骨架",
+    "english": "skeleton",
+    "soundmark": "/ˈskelɪtn/"
+  },
+  {
+    "chinese": "古生物学家",
+    "english": "palaeontologist",
+    "soundmark": "/ˌpeɪliɑːnˈtɑːlədʒɪst/"
+  },
+  {
+    "chinese": "起源",
+    "english": "origin",
+    "soundmark": "/ˈɔːrɪdʒɪn/"
+  },
+  {
+    "chinese": "猿类",
+    "english": "ape",
+    "soundmark": "/eɪp/"
+  },
+  {
+    "chinese": "出土",
+    "english": "unearthed",
+    "soundmark": "/ʌnˈɜːrθt/"
+  },
+  {
+    "chinese": "理论",
+    "english": "theory",
+    "soundmark": "/ˈθɪəri/"
+  },
+  {
+    "chinese": "环节",
+    "english": "link",
+    "soundmark": "/lɪŋk/"
+  }
+]

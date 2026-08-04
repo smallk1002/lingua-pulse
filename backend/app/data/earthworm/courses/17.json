@@ -1,0 +1,982 @@
+[
+  {
+    "chinese": "头",
+    "english": "head",
+    "soundmark": "/hed/"
+  },
+  {
+    "chinese": "手",
+    "english": "hand",
+    "soundmark": "/hænd/"
+  },
+  {
+    "chinese": "眼睛",
+    "english": "eye",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "chinese": "耳朵",
+    "english": "ear",
+    "soundmark": "/ɪr/"
+  },
+  {
+    "chinese": "嘴",
+    "english": "mouth",
+    "soundmark": "/maʊθ/"
+  },
+  {
+    "chinese": "鼻子",
+    "english": "nose",
+    "soundmark": "/noʊz/"
+  },
+  {
+    "chinese": "脚",
+    "english": "foot",
+    "soundmark": "/fʊt/"
+  },
+  {
+    "chinese": "手臂",
+    "english": "arm",
+    "soundmark": "/ɑːrm/"
+  },
+  {
+    "chinese": "腿",
+    "english": "leg",
+    "soundmark": "/leɡ/"
+  },
+  {
+    "chinese": "头发",
+    "english": "hair",
+    "soundmark": "/her/"
+  },
+  {
+    "chinese": "脸",
+    "english": "face",
+    "soundmark": "/feɪs/"
+  },
+  {
+    "chinese": "牙齿",
+    "english": "tooth",
+    "soundmark": "/tuːθ/"
+  },
+  {
+    "chinese": "手指",
+    "english": "finger",
+    "soundmark": "/ˈfɪŋɡər/"
+  },
+  {
+    "chinese": "脚趾",
+    "english": "toe",
+    "soundmark": "/toʊ/"
+  },
+  {
+    "chinese": "背",
+    "english": "back",
+    "soundmark": "/bæk/"
+  },
+  {
+    "chinese": "肩膀",
+    "english": "shoulder",
+    "soundmark": "/ˈʃoʊldər/"
+  },
+  {
+    "chinese": "脖子",
+    "english": "neck",
+    "soundmark": "/nek/"
+  },
+  {
+    "chinese": "膝盖",
+    "english": "knee",
+    "soundmark": "/niː/"
+  },
+  {
+    "chinese": "胃",
+    "english": "stomach",
+    "soundmark": "/ˈstʌmək/"
+  },
+  {
+    "chinese": "心",
+    "english": "heart",
+    "soundmark": "/hɑːrt/"
+  },
+  {
+    "chinese": "这是我的头",
+    "english": "This is my head",
+    "soundmark": "/ðɪs/ /ɪz/ /maɪ/ /hed/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "head",
+        "role": "C",
+        "phonetic": "/hed/",
+        "chinese": "头"
+      }
+    ]
+  },
+  {
+    "chinese": "她有蓝色的眼睛",
+    "english": "She has blue eyes",
+    "soundmark": "/ʃiː/ /hæz/ /bluː/ /aɪz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "blue",
+        "role": "C",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      },
+      {
+        "text": "eyes",
+        "role": "O",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      }
+    ]
+  },
+  {
+    "chinese": "我用眼睛看书",
+    "english": "I read with my eyes",
+    "soundmark": "/aɪ/ /riːd/ /wɪð/ /maɪ/ /aɪz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/riːd/",
+        "chinese": "读"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "eyes",
+        "role": "O",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      }
+    ]
+  },
+  {
+    "chinese": "我用耳朵听",
+    "english": "I hear with my ears",
+    "soundmark": "/aɪ/ /hɪr/ /wɪð/ /maɪ/ /ɪrz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hear",
+        "role": "V",
+        "phonetic": "/hɪr/",
+        "chinese": "听到"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "ears",
+        "role": "O",
+        "phonetic": "/ɪrz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他的腿很长",
+    "english": "His legs are long",
+    "soundmark": "/hɪz/ /leɡz/ /ɑːr/ /lɔːŋ/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "legs",
+        "role": "S",
+        "phonetic": "/leɡz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "long",
+        "role": "C",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的头疼",
+    "english": "My head hurts",
+    "soundmark": "/maɪ/ /hed/ /hɜːrts/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "head",
+        "role": "S",
+        "phonetic": "/hed/",
+        "chinese": "头"
+      },
+      {
+        "text": "hurts",
+        "role": "V",
+        "phonetic": "/hɜːrts/",
+        "chinese": "伤害"
+      }
+    ]
+  },
+  {
+    "chinese": "你有几只手",
+    "english": "How many hands do you have",
+    "soundmark": "/haʊ/ /ˈmeni/ /hændz/ /duː/ /juː/ /hæv/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "hands",
+        "role": "O",
+        "phonetic": "/hændz/",
+        "chinese": "手"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "她有一张漂亮的脸",
+    "english": "She has a beautiful face",
+    "soundmark": "/ʃiː/ /hæz/ /ə/ /ˈbjuːtɪfəl/ /feɪs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "face",
+        "role": "O",
+        "phonetic": "/feɪs/",
+        "chinese": "脸"
+      }
+    ]
+  },
+  {
+    "chinese": "我每天刷牙",
+    "english": "I brush my teeth every day",
+    "soundmark": "/aɪ/ /brʌʃ/ /maɪ/ /tiːθ/ /ˈevri/ /deɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "brush",
+        "role": "V",
+        "phonetic": "/brʌʃ/",
+        "chinese": "刷"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "teeth",
+        "role": "O",
+        "phonetic": "/tiːθ/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "他的肩膀受伤了",
+    "english": "His shoulder hurts",
+    "soundmark": "/hɪz/ /ˈʃoʊldər/ /hɜːrts/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "shoulder",
+        "role": "S",
+        "phonetic": "/ˈʃoʊldər/",
+        "chinese": "更…的/…者(应该)"
+      },
+      {
+        "text": "hurts",
+        "role": "V",
+        "phonetic": "/hɜːrts/",
+        "chinese": "伤害"
+      }
+    ]
+  },
+  {
+    "chinese": "我用鼻子闻花香",
+    "english": "I smell flowers with my nose",
+    "soundmark": "/aɪ/ /smel/ /ˈflaʊərz/ /wɪð/ /maɪ/ /noʊz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "smell",
+        "role": "V",
+        "phonetic": "/smel/",
+        "chinese": "闻/气味"
+      },
+      {
+        "text": "flowers",
+        "role": "O",
+        "phonetic": "/ˈflaʊərz/",
+        "chinese": "花"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "nose",
+        "role": "O",
+        "phonetic": "/noʊz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "疼",
+    "english": "hurt",
+    "soundmark": "/hɜːrt/"
+  },
+  {
+    "chinese": "刷",
+    "english": "brush",
+    "soundmark": "/brʌʃ/"
+  },
+  {
+    "chinese": "闻",
+    "english": "smell",
+    "soundmark": "/smel/"
+  },
+  {
+    "chinese": "脚",
+    "english": "feet",
+    "soundmark": "/fiːt/"
+  },
+  {
+    "chinese": "牙齿（复数）",
+    "english": "teeth",
+    "soundmark": "/tiːθ/"
+  },
+  {
+    "chinese": "肩膀",
+    "english": "shoulder",
+    "soundmark": "/ˈʃoʊldər/"
+  },
+  {
+    "chinese": "我的眼睛看书看累了",
+    "english": "My eyes are tired from reading",
+    "soundmark": "/maɪ/ /aɪz/ /ɑːr/ /taɪərd/ /frʌm/ /ˈriːdɪŋ/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "eyes",
+        "role": "S",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/taɪərd/",
+        "chinese": "累的"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "reading",
+        "role": "O",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      }
+    ]
+  },
+  {
+    "chinese": "他上周摔断了手臂",
+    "english": "He broke his arm last week",
+    "soundmark": "/hiː/ /broʊk/ /hɪz/ /ɑːrm/ /læst/ /wiːk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "broke",
+        "role": "V",
+        "phonetic": "/broʊk/",
+        "chinese": ""
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "arm",
+        "role": "O",
+        "phonetic": "/ɑːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "你走路后脚疼吗",
+    "english": "Do your feet hurt after walking",
+    "soundmark": "/duː/ /jɔːr/ /fiːt/ /hɜːrt/ /ˈæftər/ /ˈwɔːkɪŋ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "feet",
+        "role": "S",
+        "phonetic": "/fiːt/",
+        "chinese": "脚（复数）"
+      },
+      {
+        "text": "hurt",
+        "role": "V",
+        "phonetic": "/hɜːrt/",
+        "chinese": "伤害"
+      },
+      {
+        "text": "after",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "walking",
+        "role": "O",
+        "phonetic": "/ˈwɔːkɪŋ/",
+        "chinese": "走路的"
+      }
+    ]
+  },
+  {
+    "chinese": "她有一头长发和棕色的眼睛",
+    "english": "She has long hair and brown eyes",
+    "soundmark": "/ʃiː/ /hæz/ /lɔːŋ/ /her/ /ænd/ /braʊn/ /aɪz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "long",
+        "role": "C",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "hair",
+        "role": "O",
+        "phonetic": "/her/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "brown",
+        "role": "C",
+        "phonetic": "/braʊn/",
+        "chinese": "棕色的"
+      },
+      {
+        "text": "eyes",
+        "role": "O",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      }
+    ]
+  },
+  {
+    "chinese": "请张开嘴",
+    "english": "Please open your mouth",
+    "soundmark": "/pliːz/ /ˈoʊpən/ /jɔːr/ /maʊθ/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "open",
+        "role": "V",
+        "phonetic": "/ˈoʊpən/",
+        "chinese": "打开"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "mouth",
+        "role": "O",
+        "phonetic": "/maʊθ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我脖子有点疼",
+    "english": "I have a pain in my neck",
+    "soundmark": "/aɪ/ /hæv/ /ə/ /peɪn/ /ɪn/ /maɪ/ /nek/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pain",
+        "role": "O",
+        "phonetic": "/peɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "neck",
+        "role": "A",
+        "phonetic": "/nek/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们用手写字",
+    "english": "We use our hands to write",
+    "soundmark": "/wiː/ /juːz/ /aʊər/ /hændz/ /tuː/ /raɪt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "use",
+        "role": "V",
+        "phonetic": "/juːz/",
+        "chinese": "使用"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "hands",
+        "role": "O",
+        "phonetic": "/hændz/",
+        "chinese": "手"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "write",
+        "role": "V",
+        "phonetic": "/raɪt/",
+        "chinese": "写"
+      }
+    ]
+  },
+  {
+    "chinese": "他胃疼因为他吃太多了",
+    "english": "His stomach hurts because he ate too much",
+    "soundmark": "/hɪz/ /ˈstʌmək/ /hɜːrts/ /bɪˈkɔːz/ /hiː/ /eɪt/ /tuː/ /mʌtʃ/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "stomach",
+        "role": "S",
+        "phonetic": "/ˈstʌmək/",
+        "chinese": ""
+      },
+      {
+        "text": "hurts",
+        "role": "V",
+        "phonetic": "/hɜːrts/",
+        "chinese": "伤害"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "ate",
+        "role": "V",
+        "phonetic": "/eɪt/",
+        "chinese": "吃（过去式）"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "much",
+        "role": "A",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      }
+    ]
+  },
+  {
+    "chinese": "闭上眼你能摸到鼻子吗",
+    "english": "Can you touch your nose with your eyes closed",
+    "soundmark": "/kæn/ /juː/ /tʌtʃ/ /jɔːr/ /noʊz/ /wɪð/ /jɔːr/ /aɪz/ /kloʊzd/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "touch",
+        "role": "V",
+        "phonetic": "/tʌtʃ/",
+        "chinese": "触摸"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "nose",
+        "role": "O",
+        "phonetic": "/noʊz/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "eyes",
+        "role": "O",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      },
+      {
+        "text": "closed",
+        "role": "C",
+        "phonetic": "/kloʊzd/",
+        "chinese": "关闭的"
+      }
+    ]
+  },
+  {
+    "chinese": "累的",
+    "english": "tired",
+    "soundmark": "/taɪərd/"
+  },
+  {
+    "chinese": "疼痛",
+    "english": "pain",
+    "soundmark": "/peɪn/"
+  },
+  {
+    "chinese": "触摸",
+    "english": "touch",
+    "soundmark": "/tʌtʃ/"
+  },
+  {
+    "chinese": "折断",
+    "english": "break",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "chinese": "棕色的",
+    "english": "brown",
+    "soundmark": "/braʊn/"
+  },
+  {
+    "chinese": "关上的",
+    "english": "closed",
+    "soundmark": "/kloʊzd/"
+  },
+  {
+    "chinese": "脖子",
+    "english": "neck",
+    "soundmark": "/nek/"
+  },
+  {
+    "chinese": "膝盖",
+    "english": "knee",
+    "soundmark": "/niː/"
+  },
+  {
+    "chinese": "胃",
+    "english": "stomach",
+    "soundmark": "/ˈstʌmək/"
+  },
+  {
+    "chinese": "心",
+    "english": "heart",
+    "soundmark": "/hɑːrt/"
+  }
+]

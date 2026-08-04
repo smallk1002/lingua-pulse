@@ -1,0 +1,218 @@
+[
+  {
+    "chinese": "傻瓜",
+    "english": "fool",
+    "soundmark": "/fuːl/"
+  },
+  {
+    "chinese": "恶作剧",
+    "english": "trick",
+    "soundmark": "/trɪk/"
+  },
+  {
+    "chinese": "玩笑",
+    "english": "prank",
+    "soundmark": "/præŋk/"
+  },
+  {
+    "chinese": "收获",
+    "english": "harvest",
+    "soundmark": "/ˈhɑːrvɪst/"
+  },
+  {
+    "chinese": "意大利面",
+    "english": "spaghetti",
+    "soundmark": "/spəˈɡeti/"
+  },
+  {
+    "chinese": "笑话",
+    "english": "joke",
+    "soundmark": "/dʒoʊk/"
+  },
+  {
+    "chinese": "道歉",
+    "english": "apologize",
+    "soundmark": "/əˈpɒlədʒaɪz/"
+  },
+  {
+    "chinese": "愚人节",
+    "english": "april fools day",
+    "soundmark": "/ˈeɪprəl fuːlz deɪ/"
+  },
+  {
+    "chinese": "捉弄……",
+    "english": "play a trick on",
+    "soundmark": "/pleɪ ə trɪk ɒn/"
+  },
+  {
+    "chinese": "你曾经……吗",
+    "english": "have you ever",
+    "soundmark": "/hæv juː ˈevər/"
+  },
+  {
+    "chinese": "我从未玩过这么有趣的笑话",
+    "english": "I have never played such a funny joke",
+    "soundmark": "/aɪ hæv ˈnevər pleɪd sʌtʃ ə ˈfʌni dʒoʊk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "played",
+        "role": "V",
+        "phonetic": "/pleɪd/",
+        "chinese": "玩"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "funny",
+        "role": "C",
+        "phonetic": "/ˈfʌni/",
+        "chinese": ""
+      },
+      {
+        "text": "joke",
+        "role": "O",
+        "phonetic": "/dʒoʊk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你去过伦敦吗",
+    "english": "Have you ever been to London",
+    "soundmark": "/hæv juː ˈevər biːn tuː ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "A",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "London",
+        "role": "A",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "她刚完成工作",
+    "english": "She has just finished her work",
+    "soundmark": "/ʃiː hæz dʒʌst ˈfɪnɪʃt hɜːr wɜːrk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "A",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "傻瓜",
+    "english": "fool",
+    "soundmark": "/fuːl/"
+  },
+  {
+    "chinese": "笑话",
+    "english": "joke",
+    "soundmark": "/dʒoʊk/"
+  },
+  {
+    "chinese": "恶作剧",
+    "english": "trick",
+    "soundmark": "/trɪk/"
+  },
+  {
+    "chinese": "四月",
+    "english": "april",
+    "soundmark": "/ˈeɪprəl/"
+  },
+  {
+    "chinese": "你曾经",
+    "english": "have you ever",
+    "soundmark": "/hæv juː ˈevər/"
+  }
+]

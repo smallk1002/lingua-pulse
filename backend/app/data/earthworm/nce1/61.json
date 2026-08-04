@@ -1,0 +1,865 @@
+[
+  {
+    "chinese": "邮局",
+    "english": "post office",
+    "soundmark": "/poʊst ˈɑːfɪs/"
+  },
+  {
+    "chinese": "邮票",
+    "english": "stamp",
+    "soundmark": "/stæmp/"
+  },
+  {
+    "chinese": "信封",
+    "english": "envelope",
+    "soundmark": "/ˈenvəloʊp/"
+  },
+  {
+    "chinese": "信",
+    "english": "letter",
+    "soundmark": "/ˈletər/"
+  },
+  {
+    "chinese": "包裹",
+    "english": "parcel",
+    "soundmark": "/ˈpɑːrsl/"
+  },
+  {
+    "chinese": "明信片",
+    "english": "postcard",
+    "soundmark": "/ˈpoʊstkɑːrd/"
+  },
+  {
+    "chinese": "地址",
+    "english": "address",
+    "soundmark": "/əˈdres/"
+  },
+  {
+    "chinese": "邮政编码",
+    "english": "postcode",
+    "soundmark": "/ˈpoʊstkoʊd/"
+  },
+  {
+    "chinese": "航空邮件",
+    "english": "airmail",
+    "soundmark": "/ˈermeɪl/"
+  },
+  {
+    "chinese": "海运邮件",
+    "english": "surface mail",
+    "soundmark": "/ˈsɜːrfɪs meɪl/"
+  },
+  {
+    "chinese": "挂号信",
+    "english": "registered mail",
+    "soundmark": "/ˈredʒɪstərd meɪl/"
+  },
+  {
+    "chinese": "特快专递",
+    "english": "express delivery",
+    "soundmark": "/ɪkˈspres dɪˈlɪvəri/"
+  },
+  {
+    "chinese": "重量",
+    "english": "weight",
+    "soundmark": "/weɪt/"
+  },
+  {
+    "chinese": "称重",
+    "english": "weigh",
+    "soundmark": "/weɪ/"
+  },
+  {
+    "chinese": "邮费",
+    "english": "postage",
+    "soundmark": "/ˈpoʊstɪdʒ/"
+  },
+  {
+    "chinese": "寄",
+    "english": "send",
+    "soundmark": "/send/"
+  },
+  {
+    "chinese": "收到",
+    "english": "receive",
+    "soundmark": "/rɪˈsiːv/"
+  },
+  {
+    "chinese": "邮箱",
+    "english": "mailbox",
+    "soundmark": "/ˈmeɪlbɑːks/"
+  },
+  {
+    "chinese": "柜台",
+    "english": "counter",
+    "soundmark": "/ˈkaʊntər/"
+  },
+  {
+    "chinese": "收据",
+    "english": "receipt",
+    "soundmark": "/rɪˈsiːt/"
+  },
+  {
+    "chinese": "我想寄一封信",
+    "english": "I want to send a letter",
+    "soundmark": "/aɪ wɑːnt tuː send ə ˈletər/"
+  },
+  {
+    "chinese": "寄到中国多少钱",
+    "english": "how much to send to China",
+    "soundmark": "/haʊ mʌtʃ tuː send tuː ˈtʃaɪnə/"
+  },
+  {
+    "chinese": "我需要买邮票",
+    "english": "I need to buy some stamps",
+    "soundmark": "/aɪ niːd tuː baɪ sʌm stæmps/"
+  },
+  {
+    "chinese": "请称一下这个包裹",
+    "english": "please weigh this parcel",
+    "soundmark": "/pliːz weɪ ðɪs ˈpɑːrsl/"
+  },
+  {
+    "chinese": "我想把这个包裹寄到美国",
+    "english": "I want to send this parcel to America",
+    "soundmark": "/aɪ wɑːnt tuː send ðɪs ˈpɑːrsl tuː əˈmerɪkə/"
+  },
+  {
+    "chinese": "我想把这封信寄到中国",
+    "english": "I would like to send this letter to China",
+    "soundmark": "/aɪ wʊd laɪk tuː send ðɪs ˈletər tuː ˈtʃaɪnə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like to send",
+        "role": "V",
+        "phonetic": "/wʊd laɪk tuː send/",
+        "chinese": "将会/喜欢/到/向/发送/寄"
+      },
+      {
+        "text": "this letter",
+        "role": "O",
+        "phonetic": "/ðɪs ˈletər/",
+        "chinese": "这个/信/字母"
+      },
+      {
+        "text": "to China",
+        "role": "A",
+        "phonetic": "/tuː ˈtʃaɪnə/",
+        "chinese": "到/向/中国"
+      }
+    ]
+  },
+  {
+    "chinese": "寄到英国要多少钱",
+    "english": "How much does it cost to send to England",
+    "soundmark": "/haʊ mʌtʃ dʌz ɪt kɔːst tuː send tuː ˈɪŋɡlənd/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "cost",
+        "role": "V",
+        "phonetic": "/kɔːst/",
+        "chinese": "花费"
+      },
+      {
+        "text": "to send",
+        "role": "A",
+        "phonetic": "/tuː send/",
+        "chinese": "到/向/发送/寄"
+      },
+      {
+        "text": "to England",
+        "role": "A",
+        "phonetic": "/tuː ˈɪŋɡlənd/",
+        "chinese": "到/向/英格兰"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要五张邮票",
+    "english": "I need five stamps please",
+    "soundmark": "/aɪ niːd faɪv stæmps pliːz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "five stamps",
+        "role": "O",
+        "phonetic": "/faɪv stæmps/",
+        "chinese": "五"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "您想要寄航空信还是普通信",
+    "english": "Do you want to send it by airmail or surface mail",
+    "soundmark": "/duː juː wɑːnt tuː send ɪt baɪ ˈermeɪl ɔːr ˈsɜːrfɪs meɪl/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "want to send",
+        "role": "V",
+        "phonetic": "/wɑːnt tuː send/",
+        "chinese": "想要/到/向/发送/寄"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "by airmail or surface mail",
+        "role": "A",
+        "phonetic": "/baɪ ˈermeɪl ɔːr ˈsɜːrfɪs meɪl/",
+        "chinese": "通过/被/在…旁/或者"
+      }
+    ]
+  },
+  {
+    "chinese": "请帮我称一下这个包裹",
+    "english": "Could you weigh this parcel for me please",
+    "soundmark": "/kʊd juː weɪ ðɪs ˈpɑːrsl fɔːr miː pliːz/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "weigh",
+        "role": "V",
+        "phonetic": "/weɪ/",
+        "chinese": "称重"
+      },
+      {
+        "text": "this parcel",
+        "role": "O",
+        "phonetic": "/ðɪs ˈpɑːrsl/",
+        "chinese": "这个/包裹"
+      },
+      {
+        "text": "for me",
+        "role": "A",
+        "phonetic": "/fɔːr miː/",
+        "chinese": "为我"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "这个包裹重两公斤",
+    "english": "This parcel weighs two kilos",
+    "soundmark": "/ðɪs ˈpɑːrsl weɪz tuː ˈkiːloʊz/",
+    "grammar": [
+      {
+        "text": "This parcel",
+        "role": "S",
+        "phonetic": "/ðɪs ˈpɑːrsl/",
+        "chinese": "这个/包裹"
+      },
+      {
+        "text": "weighs",
+        "role": "V",
+        "phonetic": "/weɪz/",
+        "chinese": "称重"
+      },
+      {
+        "text": "two kilos",
+        "role": "C",
+        "phonetic": "/tuː ˈkiːloʊz/",
+        "chinese": "二"
+      }
+    ]
+  },
+  {
+    "chinese": "邮费一共是多少",
+    "english": "How much is the postage altogether",
+    "soundmark": "/haʊ mʌtʃ ɪz ðə ˈpoʊstɪdʒ ˌɔːltəˈɡeðər/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "S",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the postage",
+        "role": "C",
+        "phonetic": "/ðə ˈpoʊstɪdʒ/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "altogether",
+        "role": "A",
+        "phonetic": "/ˌɔːltəˈɡeðər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我想用挂号信寄出",
+    "english": "I want to send it by registered mail",
+    "soundmark": "/aɪ wɑːnt tuː send ɪt baɪ ˈredʒɪstərd meɪl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want to send",
+        "role": "V",
+        "phonetic": "/wɑːnt tuː send/",
+        "chinese": "想要/到/向/发送/寄"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "by registered mail",
+        "role": "A",
+        "phonetic": "/baɪ ˈredʒɪstərd meɪl/",
+        "chinese": "通过/被/在…旁"
+      }
+    ]
+  },
+  {
+    "chinese": "这封信几天能到",
+    "english": "How many days will this letter take to arrive",
+    "soundmark": "/haʊ ˈmeni deɪz wɪl ðɪs ˈletər teɪk tuː əˈraɪv/",
+    "grammar": [
+      {
+        "text": "How many days",
+        "role": "A",
+        "phonetic": "/haʊ ˈmeni deɪz/",
+        "chinese": "怎么/许多/…们/复数(天/日)"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "this letter",
+        "role": "S",
+        "phonetic": "/ðɪs ˈletər/",
+        "chinese": "这个/信/字母"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "to arrive",
+        "role": "A",
+        "phonetic": "/tuː əˈraɪv/",
+        "chinese": "到/向/到达"
+      }
+    ]
+  },
+  {
+    "chinese": "大约需要一周时间",
+    "english": "It will take about a week",
+    "soundmark": "/ɪt wɪl teɪk əˈbaʊt ə wiːk/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "will take",
+        "role": "V",
+        "phonetic": "/wɪl teɪk/",
+        "chinese": "将要/拿/带"
+      },
+      {
+        "text": "about a week",
+        "role": "O",
+        "phonetic": "/əˈbaʊt ə wiːk/",
+        "chinese": "关于/大约/一个/周"
+      }
+    ]
+  },
+  {
+    "chinese": "你能填一下这张海关单吗",
+    "english": "Can you fill out this customs form",
+    "soundmark": "/kæn juː fɪl aʊt ðɪs ˈkʌstəmz fɔːrm/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "fill out",
+        "role": "V",
+        "phonetic": "/fɪl aʊt/",
+        "chinese": "填写"
+      },
+      {
+        "text": "this customs form",
+        "role": "O",
+        "phonetic": "/ðɪs ˈkʌstəmz fɔːrm/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "包裹里有什么",
+    "english": "What is inside the parcel",
+    "soundmark": "/wʌt ɪz ɪnˈsaɪd ðə ˈpɑːrsl/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "inside the parcel",
+        "role": "C",
+        "phonetic": "/ɪnˈsaɪd ðə ˈpɑːrsl/",
+        "chinese": "这个/那个/包裹"
+      }
+    ]
+  },
+  {
+    "chinese": "里面是书和衣服",
+    "english": "There are books and clothes inside",
+    "soundmark": "/ðer ɑːr bʊks ænd kloʊðz ɪnˈsaɪd/",
+    "grammar": [
+      {
+        "text": "There are",
+        "role": "V",
+        "phonetic": "/ðer ɑːr/",
+        "chinese": "有（复数）"
+      },
+      {
+        "text": "books and clothes",
+        "role": "S",
+        "phonetic": "/bʊks ænd kloʊðz/",
+        "chinese": "…们/复数(预订/书)/和/布"
+      },
+      {
+        "text": "inside",
+        "role": "A",
+        "phonetic": "/ɪnˈsaɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我需要特快专递",
+    "english": "I need express delivery",
+    "soundmark": "/aɪ niːd ɪkˈspres dɪˈlɪvəri/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "express delivery",
+        "role": "O",
+        "phonetic": "/ɪkˈspres dɪˈlɪvəri/",
+        "chinese": "表达"
+      }
+    ]
+  },
+  {
+    "chinese": "特快专递会更贵",
+    "english": "Express delivery will cost more",
+    "soundmark": "/ɪkˈspres dɪˈlɪvəri wɪl kɔːst mɔːr/",
+    "grammar": [
+      {
+        "text": "Express delivery",
+        "role": "S",
+        "phonetic": "/ɪkˈspres dɪˈlɪvəri/",
+        "chinese": "表达"
+      },
+      {
+        "text": "will cost",
+        "role": "V",
+        "phonetic": "/wɪl kɔːst/",
+        "chinese": "将要/花费（过去式）"
+      },
+      {
+        "text": "more",
+        "role": "C",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      }
+    ]
+  },
+  {
+    "chinese": "你们的邮局几点开门",
+    "english": "What time does your post office open",
+    "soundmark": "/wʌt taɪm dʌz jɔːr poʊst ˈɑːfɪs ˈoʊpən/",
+    "grammar": [
+      {
+        "text": "What time",
+        "role": "A",
+        "phonetic": "/wʌt taɪm/",
+        "chinese": "几点"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "your post office",
+        "role": "S",
+        "phonetic": "/jɔːr poʊst ˈɑːfɪs/",
+        "chinese": "你的/你们的/办公室"
+      },
+      {
+        "text": "open",
+        "role": "V",
+        "phonetic": "/ˈoʊpən/",
+        "chinese": "打开"
+      }
+    ]
+  },
+  {
+    "chinese": "信件是上午送还是下午送",
+    "english": "Is the mail delivered in the morning or afternoon",
+    "soundmark": "/ɪz ðə meɪl dɪˈlɪvərd ɪn ðə ˈmɔːrnɪŋ ɔːr ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the mail",
+        "role": "S",
+        "phonetic": "/ðə meɪl/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "delivered",
+        "role": "V",
+        "phonetic": "/dɪˈlɪvərd/",
+        "chinese": "递送（过去式/过去分词）"
+      },
+      {
+        "text": "in the morning or afternoon",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈmɔːrnɪŋ ɔːr ˌæftərˈnuːn/",
+        "chinese": "在…里/这个/那个/早上/或者/下午"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天收到了你的信",
+    "english": "I received your letter yesterday",
+    "soundmark": "/aɪ rɪˈsiːvd jɔːr ˈletər ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "your letter",
+        "role": "O",
+        "phonetic": "/jɔːr ˈletər/",
+        "chinese": "你的/你们的/信/字母"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我写一下地址吗",
+    "english": "Can you help me write the address",
+    "soundmark": "/kæn juː help miː raɪt ði əˈdres/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "write",
+        "role": "V",
+        "phonetic": "/raɪt/",
+        "chinese": "写"
+      },
+      {
+        "text": "the address",
+        "role": "O",
+        "phonetic": "/ði əˈdres/",
+        "chinese": "这个/那个/地址"
+      }
+    ]
+  },
+  {
+    "chinese": "请把邮政编码写清楚",
+    "english": "Please write the postcode clearly",
+    "soundmark": "/pliːz raɪt ðə ˈpoʊstkoʊd ˈklɪrli/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "write",
+        "role": "V",
+        "phonetic": "/raɪt/",
+        "chinese": "写"
+      },
+      {
+        "text": "the postcode",
+        "role": "O",
+        "phonetic": "/ðə ˈpoʊstkoʊd/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clearly",
+        "role": "A",
+        "phonetic": "/ˈklɪrli/",
+        "chinese": "…地(清楚的)"
+      }
+    ]
+  },
+  {
+    "chinese": "最近的邮箱在哪里",
+    "english": "Where is the nearest mailbox",
+    "soundmark": "/wer ɪz ðə ˈnɪrɪst ˈmeɪlbɑːks/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the nearest mailbox",
+        "role": "S",
+        "phonetic": "/ðə ˈnɪrɪst ˈmeɪlbɑːks/",
+        "chinese": "这个/那个/最…的(在…附近)"
+      }
+    ]
+  },
+  {
+    "chinese": "请给我一张收据",
+    "english": "Please give me a receipt",
+    "soundmark": "/pliːz ɡɪv miː ə rɪˈsiːt/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a receipt",
+        "role": "O",
+        "phonetic": "/ə rɪˈsiːt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "海关",
+    "english": "customs",
+    "soundmark": "/ˈkʌstəmz/"
+  },
+  {
+    "chinese": "千克",
+    "english": "kilo",
+    "soundmark": "/ˈkiːloʊ/"
+  },
+  {
+    "chinese": "投递",
+    "english": "deliver",
+    "soundmark": "/dɪˈlɪvər/"
+  },
+  {
+    "chinese": "总共",
+    "english": "altogether",
+    "soundmark": "/ˌɔːltəˈɡeðər/"
+  },
+  {
+    "chinese": "清楚地",
+    "english": "clearly",
+    "soundmark": "/ˈklɪrli/"
+  },
+  {
+    "chinese": "里面",
+    "english": "inside",
+    "soundmark": "/ɪnˈsaɪd/"
+  },
+  {
+    "chinese": "衣服",
+    "english": "clothes",
+    "soundmark": "/kloʊðz/"
+  },
+  {
+    "chinese": "英里",
+    "english": "mile",
+    "soundmark": "/maɪl/"
+  },
+  {
+    "chinese": "公里",
+    "english": "kilometre",
+    "soundmark": "/kɪˈlɑːmɪtər/"
+  },
+  {
+    "chinese": "国际的",
+    "english": "international",
+    "soundmark": "/ˌɪntərˈnæʃnəl/"
+  }
+]

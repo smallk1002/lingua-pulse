@@ -1,0 +1,622 @@
+[
+  {
+    "chinese": "办公室",
+    "english": "office",
+    "soundmark": "/ˈɔːfɪs/"
+  },
+  {
+    "chinese": "打字机",
+    "english": "typewriter",
+    "soundmark": "/ˈtaɪpraɪtər/"
+  },
+  {
+    "chinese": "电脑",
+    "english": "computer",
+    "soundmark": "/kəmˈpjuːtər/"
+  },
+  {
+    "chinese": "电话",
+    "english": "telephone",
+    "soundmark": "/ˈtelɪfoʊn/"
+  },
+  {
+    "chinese": "文件",
+    "english": "document",
+    "soundmark": "/ˈdɑːkjumənt/"
+  },
+  {
+    "chinese": "信",
+    "english": "letter",
+    "soundmark": "/ˈletər/"
+  },
+  {
+    "chinese": "打印",
+    "english": "type",
+    "soundmark": "/taɪp/"
+  },
+  {
+    "chinese": "发送",
+    "english": "send",
+    "soundmark": "/send/"
+  },
+  {
+    "chinese": "接收",
+    "english": "receive",
+    "soundmark": "/rɪˈsiːv/"
+  },
+  {
+    "chinese": "会议",
+    "english": "meeting",
+    "soundmark": "/ˈmiːtɪŋ/"
+  },
+  {
+    "chinese": "老板",
+    "english": "boss",
+    "soundmark": "/bɔːs/"
+  },
+  {
+    "chinese": "同事",
+    "english": "colleague",
+    "soundmark": "/ˈkɑːliːɡ/"
+  },
+  {
+    "chinese": "日程",
+    "english": "schedule",
+    "soundmark": "/ˈskedʒuːl/"
+  },
+  {
+    "chinese": "忙碌的",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "完成",
+    "english": "finish",
+    "soundmark": "/ˈfɪnɪʃ/"
+  },
+  {
+    "chinese": "开始",
+    "english": "start",
+    "soundmark": "/stɑːrt/"
+  },
+  {
+    "chinese": "你在哪里工作",
+    "english": "Where do you work",
+    "soundmark": "/wer/ /duː/ /juː/ /wɜːrk/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "我在一家大公司工作",
+    "english": "I work in a big company",
+    "soundmark": "/aɪ/ /wɜːrk/ /ɪn/ /ə/ /bɪɡ/ /ˈkʌmpəni/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "company",
+        "role": "O",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我打这封信吗",
+    "english": "Can you type this letter for me",
+    "soundmark": "/kæn/ /juː/ /taɪp/ /ðɪs/ /ˈletər/ /fɔːr/ /miː/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "type",
+        "role": "V",
+        "phonetic": "/taɪp/",
+        "chinese": ""
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "letter",
+        "role": "O",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "当然我马上就打",
+    "english": "Of course I will type it right away",
+    "soundmark": "/əv/ /kɔːrs/ /aɪ/ /wɪl/ /taɪp/ /ɪt/ /raɪt/ /əˈweɪ/",
+    "grammar": [
+      {
+        "text": "Of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "course",
+        "role": "O",
+        "phonetic": "/kɔːrs/",
+        "chinese": "课程"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "type",
+        "role": "V",
+        "phonetic": "/taɪp/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "right",
+        "role": "Adv",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "away",
+        "role": "Adv",
+        "phonetic": "/əˈweɪ/",
+        "chinese": "离开/远"
+      }
+    ]
+  },
+  {
+    "chinese": "老板在办公室吗",
+    "english": "Is the boss in the office",
+    "soundmark": "/ɪz/ /ðə/ /bɔːs/ /ɪn/ /ðə/ /ˈɔːfɪs/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "boss",
+        "role": "S",
+        "phonetic": "/bɔːs/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "office",
+        "role": "O",
+        "phonetic": "/ˈɔːfɪs/",
+        "chinese": "办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "不他正在开会",
+    "english": "No he is at a meeting",
+    "soundmark": "/noʊ/ /hiː/ /ɪz/ /æt/ /ə/ /ˈmiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "meeting",
+        "role": "O",
+        "phonetic": "/ˈmiːtɪŋ/",
+        "chinese": "会议的/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "我今天很忙有很多工作要做",
+    "english": "I am very busy today I have a lot of work to do",
+    "soundmark": "/aɪ/ /æm/ /ˈveri/ /ˈbɪzi/ /təˈdeɪ/ /aɪ/ /hæv/ /ə/ /lɑːt/ /əv/ /wɜːrk/ /tuː/ /duː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "busy",
+        "role": "C",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lot",
+        "role": "O",
+        "phonetic": "/lɑːt/",
+        "chinese": "许多"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "请把这些文件发给客户",
+    "english": "Please send these documents to the client",
+    "soundmark": "/pliːz/ /send/ /ðiːz/ /ˈdɑːkjumənts/ /tuː/ /ðə/ /ˈklaɪənt/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "send",
+        "role": "V",
+        "phonetic": "/send/",
+        "chinese": "发送"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "documents",
+        "role": "O",
+        "phonetic": "/ˈdɑːkjumənts/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "client",
+        "role": "O",
+        "phonetic": "/ˈklaɪənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你什么时候下班",
+    "english": "When do you finish work",
+    "soundmark": "/wen/ /duː/ /juː/ /ˈfɪnɪʃ/ /wɜːrk/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "finish",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "chinese": "完成"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "我下午五点完成工作",
+    "english": "I finish work at five in the afternoon",
+    "soundmark": "/aɪ/ /ˈfɪnɪʃ/ /wɜːrk/ /æt/ /faɪv/ /ɪn/ /ði/ /ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "finish",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "chinese": "完成"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "five",
+        "role": "O",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "afternoon",
+        "role": "A",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      }
+    ]
+  },
+  {
+    "chinese": "当场",
+    "english": "right away",
+    "soundmark": "/raɪt/ /əˈweɪ/"
+  },
+  {
+    "chinese": "当然",
+    "english": "of course",
+    "soundmark": "/əv/ /kɔːrs/"
+  },
+  {
+    "chinese": "很多",
+    "english": "a lot of",
+    "soundmark": "/ə/ /lɑːt/ /əv/"
+  },
+  {
+    "chinese": "客户",
+    "english": "client",
+    "soundmark": "/ˈklaɪənt/"
+  },
+  {
+    "chinese": "什么时候",
+    "english": "when",
+    "soundmark": "/wen/"
+  },
+  {
+    "chinese": "对于",
+    "english": "for",
+    "soundmark": "/fɔːr/"
+  },
+  {
+    "chinese": "打印机",
+    "english": "printer",
+    "soundmark": "/ˈprɪntər/"
+  },
+  {
+    "chinese": "电子邮件",
+    "english": "email",
+    "soundmark": "/ˈiːmeɪl/"
+  },
+  {
+    "chinese": "传真",
+    "english": "fax",
+    "soundmark": "/fæks/"
+  },
+  {
+    "chinese": "报告",
+    "english": "report",
+    "soundmark": "/rɪˈpɔːrt/"
+  }
+]

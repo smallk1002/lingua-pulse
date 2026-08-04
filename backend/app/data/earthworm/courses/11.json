@@ -1,0 +1,988 @@
+[
+  {
+    "chinese": "喜欢",
+    "english": "like",
+    "soundmark": "/laɪk/"
+  },
+  {
+    "chinese": "爱",
+    "english": "love",
+    "soundmark": "/lʌv/"
+  },
+  {
+    "chinese": "讨厌",
+    "english": "hate",
+    "soundmark": "/heɪt/"
+  },
+  {
+    "chinese": "享受",
+    "english": "enjoy",
+    "soundmark": "/ɪnˈdʒɔɪ/"
+  },
+  {
+    "chinese": "运动",
+    "english": "sport",
+    "soundmark": "/spɔːrt/"
+  },
+  {
+    "chinese": "电影",
+    "english": "movie",
+    "soundmark": "/ˈmuːvi/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "travel",
+    "soundmark": "/ˈtrævəl/"
+  },
+  {
+    "chinese": "动物",
+    "english": "animal",
+    "soundmark": "/ˈænɪməl/"
+  },
+  {
+    "chinese": "绘画",
+    "english": "drawing",
+    "soundmark": "/ˈdrɔːɪŋ/"
+  },
+  {
+    "chinese": "烹饪",
+    "english": "cooking",
+    "soundmark": "/ˈkʊkɪŋ/"
+  },
+  {
+    "chinese": "足球",
+    "english": "soccer",
+    "soundmark": "/ˈsɑːkər/"
+  },
+  {
+    "chinese": "篮球",
+    "english": "basketball",
+    "soundmark": "/ˈbæskɪtbɔːl/"
+  },
+  {
+    "chinese": "钢琴",
+    "english": "piano",
+    "soundmark": "/piˈænoʊ/"
+  },
+  {
+    "chinese": "游戏",
+    "english": "game",
+    "soundmark": "/ɡeɪm/"
+  },
+  {
+    "chinese": "故事",
+    "english": "story",
+    "soundmark": "/ˈstɔːri/"
+  },
+  {
+    "chinese": "真的",
+    "english": "really",
+    "soundmark": "/ˈriːəli/"
+  },
+  {
+    "chinese": "非常",
+    "english": "very much",
+    "soundmark": "/ˈveri/ /mʌtʃ/"
+  },
+  {
+    "chinese": "也",
+    "english": "also",
+    "soundmark": "/ˈɔːlsoʊ/"
+  },
+  {
+    "chinese": "最",
+    "english": "most",
+    "soundmark": "/moʊst/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "我喜欢猫",
+    "english": "I like cats",
+    "soundmark": "/aɪ/ /laɪk/ /kæts/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "cats",
+        "role": "O",
+        "phonetic": "/kæts/",
+        "chinese": "猫"
+      }
+    ]
+  },
+  {
+    "chinese": "我爱我的家人",
+    "english": "I love my family",
+    "soundmark": "/aɪ/ /lʌv/ /maɪ/ /ˈfæməli/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "love",
+        "role": "V",
+        "phonetic": "/lʌv/",
+        "chinese": "爱"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "family",
+        "role": "O",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      }
+    ]
+  },
+  {
+    "chinese": "他很喜欢足球",
+    "english": "He likes soccer very much",
+    "soundmark": "/hiː/ /laɪks/ /ˈsɑːkər/ /ˈveri/ /mʌtʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "likes",
+        "role": "V",
+        "phonetic": "/laɪks/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "soccer",
+        "role": "O",
+        "phonetic": "/ˈsɑːkər/",
+        "chinese": ""
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "much",
+        "role": "A",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      }
+    ]
+  },
+  {
+    "chinese": "我不喜欢游泳",
+    "english": "I do not like swimming",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /laɪk/ /ˈswɪmɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "swimming",
+        "role": "O",
+        "phonetic": "/ˈswɪmɪŋ/",
+        "chinese": "游泳的"
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢看电影吗",
+    "english": "Do you like watching movies",
+    "soundmark": "/duː/ /juː/ /laɪk/ /ˈwɑːtʃɪŋ/ /ˈmuːviz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "watching",
+        "role": "V",
+        "phonetic": "/ˈwɑːtʃɪŋ/",
+        "chinese": "看的"
+      },
+      {
+        "text": "movies",
+        "role": "O",
+        "phonetic": "/ˈmuːviz/",
+        "chinese": "电影"
+      }
+    ]
+  },
+  {
+    "chinese": "她热爱旅行",
+    "english": "She loves traveling",
+    "soundmark": "/ʃiː/ /lʌvz/ /ˈtrævəlɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "loves",
+        "role": "V",
+        "phonetic": "/lʌvz/",
+        "chinese": "爱"
+      },
+      {
+        "text": "traveling",
+        "role": "O",
+        "phonetic": "/ˈtrævəlɪŋ/",
+        "chinese": "旅行的"
+      }
+    ]
+  },
+  {
+    "chinese": "我真的很享受烹饪",
+    "english": "I really enjoy cooking",
+    "soundmark": "/aɪ/ /ˈriːəli/ /ɪnˈdʒɔɪ/ /ˈkʊkɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "really",
+        "role": "Adv",
+        "phonetic": "/ˈriːəli/",
+        "chinese": "真正地"
+      },
+      {
+        "text": "enjoy",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "cooking",
+        "role": "O",
+        "phonetic": "/ˈkʊkɪŋ/",
+        "chinese": "做饭的"
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢什么运动",
+    "english": "What sports do you like",
+    "soundmark": "/wʌt/ /spɔːrts/ /duː/ /juː/ /laɪk/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "sports",
+        "role": "O",
+        "phonetic": "/spɔːrts/",
+        "chinese": "运动"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      }
+    ]
+  },
+  {
+    "chinese": "她不喜欢打篮球",
+    "english": "She does not like playing basketball",
+    "soundmark": "/ʃiː/ /dʌz/ /nɑːt/ /laɪk/ /ˈpleɪɪŋ/ /ˈbæskɪtbɔːl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "playing",
+        "role": "V",
+        "phonetic": "/ˈpleɪɪŋ/",
+        "chinese": "玩的/演奏的"
+      },
+      {
+        "text": "basketball",
+        "role": "O",
+        "phonetic": "/ˈbæskɪtbɔːl/",
+        "chinese": "篮球"
+      }
+    ]
+  },
+  {
+    "chinese": "我们都喜欢玩电脑游戏",
+    "english": "We all like playing computer games",
+    "soundmark": "/wiː/ /ɔːl/ /laɪk/ /ˈpleɪɪŋ/ /kəmˈpjuːtər/ /ɡeɪmz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "all",
+        "role": "Adv",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "playing",
+        "role": "V",
+        "phonetic": "/ˈpleɪɪŋ/",
+        "chinese": "玩的/演奏的"
+      },
+      {
+        "text": "computer",
+        "role": "C",
+        "phonetic": "/kəmˈpjuːtər/",
+        "chinese": "电脑"
+      },
+      {
+        "text": "games",
+        "role": "O",
+        "phonetic": "/ɡeɪmz/",
+        "chinese": "游戏/比赛"
+      }
+    ]
+  },
+  {
+    "chinese": "我最喜欢狗",
+    "english": "I like dogs the most",
+    "soundmark": "/aɪ/ /laɪk/ /dɔːɡz/ /ðə/ /moʊst/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "dogs",
+        "role": "O",
+        "phonetic": "/dɔːɡz/",
+        "chinese": "狗"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "A",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      }
+    ]
+  },
+  {
+    "chinese": "他爱画画但他讨厌数学",
+    "english": "He loves drawing but he hates math",
+    "soundmark": "/hiː/ /lʌvz/ /ˈdrɔːɪŋ/ /bʌt/ /hiː/ /heɪts/ /mæθ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "loves",
+        "role": "V",
+        "phonetic": "/lʌvz/",
+        "chinese": "爱"
+      },
+      {
+        "text": "drawing",
+        "role": "O",
+        "phonetic": "/ˈdrɔːɪŋ/",
+        "chinese": "平局/画"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "hates",
+        "role": "V",
+        "phonetic": "/heɪts/",
+        "chinese": "帽子"
+      },
+      {
+        "text": "math",
+        "role": "O",
+        "phonetic": "/mæθ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢弹钢琴吗是的我很喜欢",
+    "english": "Do you like playing piano Yes I enjoy it very much",
+    "soundmark": "/duː/ /juː/ /laɪk/ /ˈpleɪɪŋ/ /piˈænoʊ/ /jes/ /aɪ/ /ɪnˈdʒɔɪ/ /ɪt/ /ˈveri/ /mʌtʃ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "playing",
+        "role": "V",
+        "phonetic": "/ˈpleɪɪŋ/",
+        "chinese": "玩的/演奏的"
+      },
+      {
+        "text": "piano",
+        "role": "O",
+        "phonetic": "/piˈænoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "enjoy",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "much",
+        "role": "A",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      }
+    ]
+  },
+  {
+    "chinese": "看",
+    "english": "watch",
+    "soundmark": "/wɑːtʃ/"
+  },
+  {
+    "chinese": "电脑",
+    "english": "computer",
+    "soundmark": "/kəmˈpjuːtər/"
+  },
+  {
+    "chinese": "数学",
+    "english": "math",
+    "soundmark": "/mæθ/"
+  },
+  {
+    "chinese": "真的",
+    "english": "really",
+    "soundmark": "/ˈriːəli/"
+  },
+  {
+    "chinese": "多",
+    "english": "much",
+    "soundmark": "/mʌtʃ/"
+  },
+  {
+    "chinese": "讨厌",
+    "english": "hate",
+    "soundmark": "/heɪt/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "无聊的",
+    "english": "boring",
+    "soundmark": "/ˈbɔːrɪŋ/"
+  },
+  {
+    "chinese": "我喜欢睡前读故事",
+    "english": "I love reading stories before bed",
+    "soundmark": "/aɪ/ /lʌv/ /ˈriːdɪŋ/ /ˈstɔːriz/ /bɪˈfɔːr/ /bed/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "love",
+        "role": "V",
+        "phonetic": "/lʌv/",
+        "chinese": "爱"
+      },
+      {
+        "text": "reading",
+        "role": "V",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      },
+      {
+        "text": "stories",
+        "role": "O",
+        "phonetic": "/ˈstɔːriz/",
+        "chinese": "故事"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "bed",
+        "role": "A",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      }
+    ]
+  },
+  {
+    "chinese": "她喜欢和朋友们一起踢足球",
+    "english": "She enjoys playing soccer with her friends",
+    "soundmark": "/ʃiː/ /ɪnˈdʒɔɪz/ /ˈpleɪɪŋ/ /ˈsɑːkər/ /wɪð/ /hɜːr/ /frendz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "enjoys",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪz/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "playing",
+        "role": "V",
+        "phonetic": "/ˈpleɪɪŋ/",
+        "chinese": "玩的/演奏的"
+      },
+      {
+        "text": "soccer",
+        "role": "O",
+        "phonetic": "/ˈsɑːkər/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "friends",
+        "role": "O",
+        "phonetic": "/frendz/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "你讨厌做作业吗",
+    "english": "Do you hate doing homework",
+    "soundmark": "/duː/ /juː/ /heɪt/ /ˈduːɪŋ/ /ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "hate",
+        "role": "V",
+        "phonetic": "/heɪt/",
+        "chinese": "讨厌"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "他真的很喜欢去新地方旅行",
+    "english": "He really likes traveling to new places",
+    "soundmark": "/hiː/ /ˈriːəli/ /laɪks/ /ˈtrævəlɪŋ/ /tuː/ /nuː/ /ˈpleɪsɪz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "really",
+        "role": "Adv",
+        "phonetic": "/ˈriːəli/",
+        "chinese": "真正地"
+      },
+      {
+        "text": "likes",
+        "role": "V",
+        "phonetic": "/laɪks/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "traveling",
+        "role": "O",
+        "phonetic": "/ˈtrævəlɪŋ/",
+        "chinese": "旅行的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "places",
+        "role": "O",
+        "phonetic": "/ˈpleɪsɪz/",
+        "chinese": "地方"
+      }
+    ]
+  },
+  {
+    "chinese": "我们都喜欢周末",
+    "english": "We all love weekends",
+    "soundmark": "/wiː/ /ɔːl/ /lʌv/ /ˈwiːkendz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "all",
+        "role": "Adv",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "love",
+        "role": "V",
+        "phonetic": "/lʌv/",
+        "chinese": "爱"
+      },
+      {
+        "text": "weekends",
+        "role": "O",
+        "phonetic": "/ˈwiːkendz/",
+        "chinese": "周末"
+      }
+    ]
+  },
+  {
+    "chinese": "我不喜欢无聊的电影",
+    "english": "I do not like boring movies",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /laɪk/ /ˈbɔːrɪŋ/ /ˈmuːviz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "boring",
+        "role": "C",
+        "phonetic": "/ˈbɔːrɪŋ/",
+        "chinese": "令人无聊的"
+      },
+      {
+        "text": "movies",
+        "role": "O",
+        "phonetic": "/ˈmuːviz/",
+        "chinese": "电影"
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢哪种音乐",
+    "english": "What kind of music do you enjoy",
+    "soundmark": "/wʌt/ /kaɪnd/ /əv/ /ˈmjuːzɪk/ /duː/ /juː/ /ɪnˈdʒɔɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "kind",
+        "role": "O",
+        "phonetic": "/kaɪnd/",
+        "chinese": "善良的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "music",
+        "role": "O",
+        "phonetic": "/ˈmjuːzɪk/",
+        "chinese": "音乐"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "enjoy",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "chinese": "享受/喜欢"
+      }
+    ]
+  },
+  {
+    "chinese": "音乐",
+    "english": "music",
+    "soundmark": "/ˈmjuːzɪk/"
+  },
+  {
+    "chinese": "绘画",
+    "english": "painting",
+    "soundmark": "/ˈpeɪntɪŋ/"
+  },
+  {
+    "chinese": "爱好",
+    "english": "hobby",
+    "soundmark": "/ˈhɑːbi/"
+  },
+  {
+    "chinese": "特别的",
+    "english": "special",
+    "soundmark": "/ˈspeʃəl/"
+  },
+  {
+    "chinese": "精彩的",
+    "english": "wonderful",
+    "soundmark": "/ˈwʌndərfəl/"
+  },
+  {
+    "chinese": "令人放松的",
+    "english": "relaxing",
+    "soundmark": "/rɪˈlæksɪŋ/"
+  },
+  {
+    "chinese": "令人兴奋的",
+    "english": "exciting",
+    "soundmark": "/ɪkˈsaɪtɪŋ/"
+  },
+  {
+    "chinese": "好的",
+    "english": "nice",
+    "soundmark": "/naɪs/"
+  }
+]

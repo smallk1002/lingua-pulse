@@ -1,0 +1,517 @@
+[
+  {
+    "chinese": "保密",
+    "english": "secrecy",
+    "soundmark": "/ˈsiːkrəsi/"
+  },
+  {
+    "chinese": "工业",
+    "english": "industry",
+    "soundmark": "/ˈɪndəstri/"
+  },
+  {
+    "chinese": "专利",
+    "english": "patent",
+    "soundmark": "/ˈpætnt/"
+  },
+  {
+    "chinese": "研究",
+    "english": "research",
+    "soundmark": "/rɪˈsɜːrtʃ/"
+  },
+  {
+    "chinese": "间谍",
+    "english": "spy",
+    "soundmark": "/spaɪ/"
+  },
+  {
+    "chinese": "商业机密",
+    "english": "trade secret",
+    "soundmark": "/treɪd/ /ˈsiːkrət/"
+  },
+  {
+    "chinese": "保密协议",
+    "english": "confidentiality agreement",
+    "soundmark": "/ˌkɑːnfɪˌdenʃiˈæləti/ /əˈɡriːmənt/"
+  },
+  {
+    "chinese": "泄露",
+    "english": "leak",
+    "soundmark": "/liːk/"
+  },
+  {
+    "chinese": "竞争对手",
+    "english": "competitor",
+    "soundmark": "/kəmˈpetɪtər/"
+  },
+  {
+    "chinese": "创新",
+    "english": "innovation",
+    "soundmark": "/ˌɪnəˈveɪʃn/"
+  },
+  {
+    "chinese": "实验室",
+    "english": "laboratory",
+    "soundmark": "/ˈlæbrətɔːri/"
+  },
+  {
+    "chinese": "研发",
+    "english": "research and development",
+    "soundmark": "/rɪˈsɜːrtʃ/ /ænd/ /dɪˈveləpmənt/"
+  },
+  {
+    "chinese": "窃取",
+    "english": "steal",
+    "soundmark": "/stiːl/"
+  },
+  {
+    "chinese": "安全措施",
+    "english": "security measure",
+    "soundmark": "/sɪˈkjʊrəti/ /ˈmeʒər/"
+  },
+  {
+    "chinese": "公开",
+    "english": "disclosure",
+    "soundmark": "/dɪsˈkloʊʒər/"
+  },
+  {
+    "chinese": "商业机密",
+    "english": "commercial secret",
+    "soundmark": "/kəˈmɜːrʃl/ /ˈsiːkrət/"
+  },
+  {
+    "chinese": "签署保密协议",
+    "english": "sign a confidentiality agreement",
+    "soundmark": "/saɪn/ /ə/ /ˌkɑːnfɪˌdenʃiˈæləti/ /əˈɡriːmənt/"
+  },
+  {
+    "chinese": "保护知识产权",
+    "english": "protect intellectual property",
+    "soundmark": "/prəˈtekt/ /ˌɪntəˈlektʃuəl/ /ˈprɑːpərti/"
+  },
+  {
+    "chinese": "泄露机密信息",
+    "english": "leak confidential information",
+    "soundmark": "/liːk/ /ˌkɑːnfɪˈdenʃl/ /ˌɪnfərˈmeɪʃn/"
+  },
+  {
+    "chinese": "维持竞争优势",
+    "english": "maintain a competitive edge",
+    "soundmark": "/meɪnˈteɪn/ /ə/ /kəmˈpetətɪv/ /edʒ/"
+  },
+  {
+    "chinese": "研究成果被严密保护以防止被竞争对手窃取",
+    "english": "research findings are closely guarded against theft by competitors",
+    "soundmark": "/rɪˈsɜːrtʃ/ /ˈfaɪndɪŋz/ /ɑːr/ /ˈkloʊsli/ /ˈɡɑːrdɪd/ /əˈɡenst/ /θeft/ /baɪ/ /kəmˈpetɪtərz/",
+    "grammar": [
+      {
+        "text": "research",
+        "role": "A",
+        "phonetic": "/rɪˈsɜːrtʃ/",
+        "chinese": "研究"
+      },
+      {
+        "text": "findings",
+        "role": "S",
+        "phonetic": "/ˈfaɪndɪŋz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "closely",
+        "role": "Adv",
+        "phonetic": "/ˈkloʊsli/",
+        "chinese": "…地(关闭)"
+      },
+      {
+        "text": "guarded",
+        "role": "V",
+        "phonetic": "/ˈɡɑːrdɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "against",
+        "role": "P",
+        "phonetic": "/əˈɡenst/",
+        "chinese": "反对/靠着"
+      },
+      {
+        "text": "theft",
+        "role": "O",
+        "phonetic": "/θeft/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "competitors",
+        "role": "O",
+        "phonetic": "/kəmˈpetɪtərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "许多公司要求员工签署严格的保密协议",
+    "english": "many companies require employees to sign strict confidentiality agreements",
+    "soundmark": "/ˈmeni/ /ˈkʌmpəniz/ /rɪˈkwaɪər/ /ɪmˈplɔɪiːz/ /tuː/ /saɪn/ /strɪkt/ /ˌkɑːnfɪˌdenʃiˈæləti/ /əˈɡriːmənts/",
+    "grammar": [
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "companies",
+        "role": "S",
+        "phonetic": "/ˈkʌmpəniz/",
+        "chinese": "公司"
+      },
+      {
+        "text": "require",
+        "role": "V",
+        "phonetic": "/rɪˈkwaɪər/",
+        "chinese": "需要"
+      },
+      {
+        "text": "employees",
+        "role": "O",
+        "phonetic": "/ɪmˈplɔɪiːz/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "sign",
+        "role": "V",
+        "phonetic": "/saɪn/",
+        "chinese": "签名"
+      },
+      {
+        "text": "strict",
+        "role": "A",
+        "phonetic": "/strɪkt/",
+        "chinese": ""
+      },
+      {
+        "text": "confidentiality",
+        "role": "A",
+        "phonetic": "/ˌkɑːnfɪˌdenʃiˈæləti/",
+        "chinese": ""
+      },
+      {
+        "text": "agreements",
+        "role": "O",
+        "phonetic": "/əˈɡriːmənts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "新产品的设计在发布前被严格保密",
+    "english": "the design of the new product is kept strictly secret before its launch",
+    "soundmark": "/ðə/ /dɪˈzaɪn/ /ʌv/ /ðə/ /nuː/ /ˈprɑːdʌkt/ /ɪz/ /kept/ /ˈstrɪktli/ /ˈsiːkrət/ /bɪˈfɔːr/ /ɪts/ /lɔːntʃ/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "design",
+        "role": "S",
+        "phonetic": "/dɪˈzaɪn/",
+        "chinese": "设计"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "product",
+        "role": "O",
+        "phonetic": "/ˈprɑːdʌkt/",
+        "chinese": "产品"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "kept",
+        "role": "V",
+        "phonetic": "/kept/",
+        "chinese": "保持/保留（过去式）"
+      },
+      {
+        "text": "strictly",
+        "role": "Adv",
+        "phonetic": "/ˈstrɪktli/",
+        "chinese": ""
+      },
+      {
+        "text": "secret",
+        "role": "C",
+        "phonetic": "/ˈsiːkrət/",
+        "chinese": "秘密"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "launch",
+        "role": "O",
+        "phonetic": "/lɔːntʃ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "工业间谍在制药行业尤为普遍",
+    "english": "industrial espionage is particularly common in the pharmaceutical industry",
+    "soundmark": "/ɪnˈdʌstriəl/ /ˈespiənɑːʒ/ /ɪz/ /pərˈtɪkjələrli/ /ˈkɑːmən/ /ɪn/ /ðə/ /ˌfɑːrməˈsuːtɪkl/ /ˈɪndəstri/",
+    "grammar": [
+      {
+        "text": "industrial",
+        "role": "A",
+        "phonetic": "/ɪnˈdʌstriəl/",
+        "chinese": "工业的"
+      },
+      {
+        "text": "espionage",
+        "role": "S",
+        "phonetic": "/ˈespiənɑːʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "particularly",
+        "role": "Adv",
+        "phonetic": "/pərˈtɪkjələrli/",
+        "chinese": "特别地"
+      },
+      {
+        "text": "common",
+        "role": "C",
+        "phonetic": "/ˈkɑːmən/",
+        "chinese": "普通的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "pharmaceutical",
+        "role": "A",
+        "phonetic": "/ˌfɑːrməˈsuːtɪkl/",
+        "chinese": ""
+      },
+      {
+        "text": "industry",
+        "role": "O",
+        "phonetic": "/ˈɪndəstri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "商业秘密一旦被泄露公司就可能失去数年的领先优势",
+    "english": "once a trade secret is leaked a company may lose years of its competitive edge",
+    "soundmark": "/wʌns/ /ə/ /treɪd/ /ˈsiːkrət/ /ɪz/ /liːkt/ /ə/ /ˈkʌmpəni/ /meɪ/ /luːz/ /jɪrz/ /ʌv/ /ɪts/ /kəmˈpetətɪv/ /edʒ/",
+    "grammar": [
+      {
+        "text": "once",
+        "role": "Adv",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "trade",
+        "role": "A",
+        "phonetic": "/treɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "secret",
+        "role": "S",
+        "phonetic": "/ˈsiːkrət/",
+        "chinese": "秘密"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "leaked",
+        "role": "V",
+        "phonetic": "/liːkt/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "company",
+        "role": "S",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      },
+      {
+        "text": "may",
+        "role": "Aux",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "lose",
+        "role": "V",
+        "phonetic": "/luːz/",
+        "chinese": "输/丢失"
+      },
+      {
+        "text": "years",
+        "role": "O",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "competitive",
+        "role": "A",
+        "phonetic": "/kəmˈpetətɪv/",
+        "chinese": "竞争的"
+      },
+      {
+        "text": "edge",
+        "role": "O",
+        "phonetic": "/edʒ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "知识产权",
+    "english": "intellectual property",
+    "soundmark": "/ˌɪntəˈlektʃuəl/ /ˈprɑːpərti/"
+  },
+  {
+    "chinese": "竞争",
+    "english": "competitive",
+    "soundmark": "/kəmˈpetətɪv/"
+  },
+  {
+    "chinese": "优势",
+    "english": "edge",
+    "soundmark": "/edʒ/"
+  },
+  {
+    "chinese": "严格",
+    "english": "strict",
+    "soundmark": "/strɪkt/"
+  },
+  {
+    "chinese": "发布",
+    "english": "launch",
+    "soundmark": "/lɔːntʃ/"
+  },
+  {
+    "chinese": "制药的",
+    "english": "pharmaceutical",
+    "soundmark": "/ˌfɑːrməˈsuːtɪkl/"
+  },
+  {
+    "chinese": "盗窃",
+    "english": "theft",
+    "soundmark": "/θeft/"
+  },
+  {
+    "chinese": "雇员",
+    "english": "employee",
+    "soundmark": "/ɪmˈplɔɪiː/"
+  },
+  {
+    "chinese": "设计",
+    "english": "design",
+    "soundmark": "/dɪˈzaɪn/"
+  },
+  {
+    "chinese": "产品",
+    "english": "product",
+    "soundmark": "/ˈprɑːdʌkt/"
+  }
+]

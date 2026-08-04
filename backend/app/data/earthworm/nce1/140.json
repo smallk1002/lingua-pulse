@@ -1,0 +1,177 @@
+[
+  {
+    "english": "tell",
+    "chinese": "告诉",
+    "soundmark": "/tel/"
+  },
+  {
+    "chinese": "他让我做的",
+    "english": "He told me to",
+    "soundmark": "/hiː toʊld miː tə/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "他说我可以做",
+    "english": "He said I could",
+    "soundmark": "/hiː sed aɪ kʊd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "是他建议的",
+    "english": "It was his suggestion",
+    "soundmark": "/ɪt wʌz hɪz səˈdʒestʃən/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "suggestion",
+        "role": "C",
+        "phonetic": "/səˈdʒestʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我听从了他的建议",
+    "english": "I followed his advice",
+    "soundmark": "/aɪ ˈfɑːloʊd hɪz ədˈvaɪs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "followed",
+        "role": "V",
+        "phonetic": "/ˈfɑːloʊd/",
+        "chinese": "跟随"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "advice",
+        "role": "O",
+        "phonetic": "/ədˈvaɪs/",
+        "chinese": "建议"
+      }
+    ]
+  },
+  {
+    "chinese": "我不应该听的",
+    "english": "I shouldn't have listened",
+    "soundmark": "/aɪ ˈʃʊdənt həv ˈlɪsənd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "shouldn't",
+        "role": "V",
+        "phonetic": "/ˈʃʊdənt/",
+        "chinese": "不应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/həv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "listened",
+        "role": "V",
+        "phonetic": "/ˈlɪsənd/",
+        "chinese": "听"
+      }
+    ]
+  },
+  {
+    "english": "advice",
+    "chinese": "建议",
+    "soundmark": "/ədˈvaɪs/"
+  },
+  {
+    "english": "instruction",
+    "chinese": "指示",
+    "soundmark": "/ɪnˈstrʌkʃən/"
+  },
+  {
+    "english": "permission",
+    "chinese": "许可",
+    "soundmark": "/pərˈmɪʃən/"
+  }
+]

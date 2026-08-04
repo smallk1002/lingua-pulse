@@ -1,0 +1,442 @@
+[
+  {
+    "chinese": "穿过",
+    "english": "through",
+    "soundmark": "/θruː/"
+  },
+  {
+    "chinese": "森林",
+    "english": "forest",
+    "soundmark": "/ˈfɔːrɪst/"
+  },
+  {
+    "chinese": "逃跑",
+    "english": "run away",
+    "soundmark": "/rʌn əˈweɪ/"
+  },
+  {
+    "chinese": "冒险",
+    "english": "risk",
+    "soundmark": "/rɪsk/"
+  },
+  {
+    "chinese": "呼吸",
+    "english": "breath",
+    "soundmark": "/breθ/"
+  },
+  {
+    "chinese": "追赶",
+    "english": "pursue",
+    "soundmark": "/pərˈsuː/"
+  },
+  {
+    "chinese": "抢劫",
+    "english": "rob",
+    "soundmark": "/rɑːb/"
+  },
+  {
+    "chinese": "拥有",
+    "english": "possession",
+    "soundmark": "/pəˈzeʃn/"
+  },
+  {
+    "chinese": "我喜欢游泳。",
+    "english": "I like swimming",
+    "soundmark": "/aɪ laɪk ˈswɪmɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "swimming",
+        "role": "O",
+        "phonetic": "/ˈswɪmɪŋ/",
+        "chinese": "游泳的"
+      }
+    ]
+  },
+  {
+    "chinese": "跑步有益健康。",
+    "english": "Running is good for health",
+    "soundmark": "/ˈrʌnɪŋ ɪz ɡʊd fɔːr helθ/",
+    "grammar": [
+      {
+        "text": "Running",
+        "role": "S",
+        "phonetic": "/ˈrʌnɪŋ/",
+        "chinese": "跑步的/流动的"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "for health",
+        "role": "A",
+        "phonetic": "/fɔːr helθ/",
+        "chinese": "为了/对于"
+      }
+    ]
+  },
+  {
+    "chinese": "她怕穿过森林。",
+    "english": "She was afraid of walking through the forest",
+    "soundmark": "/ʃiː wʌz əˈfreɪd əv ˈwɔːkɪŋ θruː ðə ˈfɔːrɪst/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "afraid of",
+        "role": "A",
+        "phonetic": "/əˈfreɪd əv/",
+        "chinese": "害怕"
+      },
+      {
+        "text": "walking through the forest",
+        "role": "O",
+        "phonetic": "/ˈwɔːkɪŋ θruː ðə ˈfɔːrɪst/",
+        "chinese": "走/通过/穿过/这个/那个/森林"
+      }
+    ]
+  },
+  {
+    "chinese": "他不喜欢早起。",
+    "english": "He does not like getting up early",
+    "soundmark": "/hiː dʌz nɑːt laɪk ˈɡetɪŋ ʌp ˈɜːrli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "does not like",
+        "role": "V",
+        "phonetic": "/dʌz nɑːt laɪk/",
+        "chinese": "做/助动词/不/喜欢"
+      },
+      {
+        "text": "getting up",
+        "role": "O",
+        "phonetic": "/ˈɡetɪŋ ʌp/",
+        "chinese": "正在…(得到/变得)/向上"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      }
+    ]
+  },
+  {
+    "chinese": "她冒着生命危险来救我。",
+    "english": "She risked losing her life to save me",
+    "soundmark": "/ʃiː rɪskt ˈluːzɪŋ hɜːr laɪf tuː seɪv miː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "risked",
+        "role": "V",
+        "phonetic": "/rɪskt/",
+        "chinese": ""
+      },
+      {
+        "text": "losing her life",
+        "role": "O",
+        "phonetic": "/ˈluːzɪŋ hɜːr laɪf/",
+        "chinese": "正在…(丢失/输)/她/她的/生活/生命"
+      },
+      {
+        "text": "to save me",
+        "role": "A",
+        "phonetic": "/tuː seɪv miː/",
+        "chinese": "到/向/保存/救/我"
+      }
+    ]
+  },
+  {
+    "chinese": "他开始追那两个男人。",
+    "english": "He started pursuing the two men",
+    "soundmark": "/hiː ˈstɑːrtɪd pərˈsuːɪŋ ðə tuː men/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "pursuing",
+        "role": "V",
+        "phonetic": "/pərˈsuːɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "the two men",
+        "role": "O",
+        "phonetic": "/ðə tuː men/",
+        "chinese": "这个/那个/二"
+      }
+    ]
+  },
+  {
+    "chinese": "她悔恨偷了那些东西。",
+    "english": "She regretted stealing the possessions",
+    "soundmark": "/ʃiː rɪˈɡretɪd ˈstiːlɪŋ ðə pəˈzeʃnz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "regretted",
+        "role": "V",
+        "phonetic": "/rɪˈɡretɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "stealing",
+        "role": "V",
+        "phonetic": "/ˈstiːlɪŋ/",
+        "chinese": "偷"
+      },
+      {
+        "text": "the possessions",
+        "role": "O",
+        "phonetic": "/ðə pəˈzeʃnz/",
+        "chinese": "这个/那个/…们/复数(拥有/财产)"
+      }
+    ]
+  },
+  {
+    "chinese": "穿过树林时她喘不过气来。",
+    "english": "She was out of breath after running through the woods",
+    "soundmark": "/ʃiː wʌz aʊt əv breθ ˈæftər ˈrʌnɪŋ θruː ðə wʊdz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "out of breath",
+        "role": "C",
+        "phonetic": "/aʊt əv breθ/",
+        "chinese": "出去/…的"
+      },
+      {
+        "text": "after running through the woods",
+        "role": "A",
+        "phonetic": "/ˈæftər ˈrʌnɪŋ θruː ðə wʊdz/",
+        "chinese": "在…之后/正在…(跑)/通过/穿过/这个/那个/…们/复数(木头)"
+      }
+    ]
+  },
+  {
+    "chinese": "读完这本书后我不禁思考。",
+    "english": "I cannot help thinking after reading this book",
+    "soundmark": "/aɪ ˈkænɑːt help ˈθɪŋkɪŋ ˈæftər ˈriːdɪŋ ðɪs bʊk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot help",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt help/",
+        "chinese": "不能/帮助"
+      },
+      {
+        "text": "thinking",
+        "role": "V",
+        "phonetic": "/ˈθɪŋkɪŋ/",
+        "chinese": "思考的"
+      },
+      {
+        "text": "after reading this book",
+        "role": "A",
+        "phonetic": "/ˈæftər ˈriːdɪŋ ðɪs bʊk/",
+        "chinese": "在…之后/读（过去式/过去分词）/这个/预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "他们继续穿过森林走下去。",
+    "english": "They kept walking through the forest",
+    "soundmark": "/ðeɪ kept ˈwɔːkɪŋ θruː ðə ˈfɔːrɪst/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "kept",
+        "role": "V",
+        "phonetic": "/kept/",
+        "chinese": "保持/保留（过去式）"
+      },
+      {
+        "text": "walking",
+        "role": "V",
+        "phonetic": "/ˈwɔːkɪŋ/",
+        "chinese": "走路的"
+      },
+      {
+        "text": "through the forest",
+        "role": "A",
+        "phonetic": "/θruː ðə ˈfɔːrɪst/",
+        "chinese": "通过/穿过/这个/那个/森林"
+      }
+    ]
+  },
+  {
+    "chinese": "他停下来喘了口气。",
+    "english": "He stopped to catch his breath",
+    "soundmark": "/hiː stɑːpt tuː kætʃ hɪz breθ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "stopped",
+        "role": "V",
+        "phonetic": "/stɑːpt/",
+        "chinese": "停止（过去式）"
+      },
+      {
+        "text": "to catch",
+        "role": "A",
+        "phonetic": "/tuː kætʃ/",
+        "chinese": "到/向/抓住"
+      },
+      {
+        "text": "his breath",
+        "role": "O",
+        "phonetic": "/hɪz breθ/",
+        "chinese": "他的"
+      }
+    ]
+  },
+  {
+    "chinese": "她差点被抢了。",
+    "english": "She was nearly robbed of her bag",
+    "soundmark": "/ʃiː wʌz ˈnɪrli rɑːbd əv hɜːr bæɡ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was nearly robbed",
+        "role": "V",
+        "phonetic": "/wʌz ˈnɪrli rɑːbd/",
+        "chinese": "是（过去式）/差不多/抢劫"
+      },
+      {
+        "text": "of her bag",
+        "role": "A",
+        "phonetic": "/əv hɜːr bæɡ/",
+        "chinese": "…的/她/她的/包"
+      }
+    ]
+  },
+  {
+    "chinese": "健康",
+    "english": "health",
+    "soundmark": "/helθ/"
+  },
+  {
+    "chinese": "害怕",
+    "english": "afraid",
+    "soundmark": "/əˈfreɪd/"
+  },
+  {
+    "chinese": "失去",
+    "english": "lose",
+    "soundmark": "/luːz/"
+  },
+  {
+    "chinese": "生命",
+    "english": "life",
+    "soundmark": "/laɪf/"
+  },
+  {
+    "chinese": "树林",
+    "english": "woods",
+    "soundmark": "/wʊdz/"
+  },
+  {
+    "chinese": "思考",
+    "english": "think",
+    "soundmark": "/θɪŋk/"
+  },
+  {
+    "chinese": "帮助",
+    "english": "help",
+    "soundmark": "/help/"
+  },
+  {
+    "chinese": "包",
+    "english": "bag",
+    "soundmark": "/bæɡ/"
+  }
+]

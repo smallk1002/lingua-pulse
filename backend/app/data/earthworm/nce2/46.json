@@ -1,0 +1,362 @@
+[
+  {
+    "chinese": "昂贵的",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "不舒服的",
+    "english": "uncomfortable",
+    "soundmark": "/ʌnˈkʌmftəbl/"
+  },
+  {
+    "chinese": "发现",
+    "english": "discover",
+    "soundmark": "/dɪˈskʌvər/"
+  },
+  {
+    "chinese": "承认",
+    "english": "admit",
+    "soundmark": "/ədˈmɪt/"
+  },
+  {
+    "chinese": "限制",
+    "english": "confine",
+    "soundmark": "/kənˈfaɪn/"
+  },
+  {
+    "chinese": "正常的",
+    "english": "normal",
+    "soundmark": "/ˈnɔːrml/"
+  },
+  {
+    "chinese": "试图",
+    "english": "attempt",
+    "soundmark": "/əˈtempt/"
+  },
+  {
+    "chinese": "教区",
+    "english": "parish",
+    "soundmark": "/ˈpærɪʃ/"
+  },
+  {
+    "chinese": "我发现这个箱子很重。",
+    "english": "I found the box very heavy",
+    "soundmark": "/aɪ faʊnd ðə bɑːks ˈveri ˈhevi/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "the box",
+        "role": "O",
+        "phonetic": "/ðə bɑːks/",
+        "chinese": "这个/那个/箱子/盒"
+      },
+      {
+        "text": "very heavy",
+        "role": "C",
+        "phonetic": "/ˈveri ˈhevi/",
+        "chinese": "非常/重的"
+      }
+    ]
+  },
+  {
+    "chinese": "他承认偷了钱。",
+    "english": "He admitted to stealing the money",
+    "soundmark": "/hiː ədˈmɪtɪd tuː ˈstiːlɪŋ ðə ˈmʌni/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "admitted",
+        "role": "V",
+        "phonetic": "/ədˈmɪtɪd/",
+        "chinese": "承认"
+      },
+      {
+        "text": "to stealing the money",
+        "role": "A",
+        "phonetic": "/tuː ˈstiːlɪŋ ðə ˈmʌni/",
+        "chinese": "到/向/偷/这个/那个/钱"
+      }
+    ]
+  },
+  {
+    "chinese": "他们被迫待在楼里。",
+    "english": "They were confined to the building",
+    "soundmark": "/ðeɪ wɜːr kənˈfaɪnd tuː ðə ˈbɪldɪŋ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were confined",
+        "role": "V",
+        "phonetic": "/wɜːr kənˈfaɪnd/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "to the building",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈbɪldɪŋ/",
+        "chinese": "到/向/这个/那个/建造"
+      }
+    ]
+  },
+  {
+    "chinese": "这趟旅行被证明是昂贵的。",
+    "english": "The trip proved to be expensive",
+    "soundmark": "/ðə trɪp pruːvd tuː biː ɪkˈspensɪv/",
+    "grammar": [
+      {
+        "text": "The trip",
+        "role": "S",
+        "phonetic": "/ðə trɪp/",
+        "chinese": "这个/那个/旅行"
+      },
+      {
+        "text": "proved",
+        "role": "V",
+        "phonetic": "/pruːvd/",
+        "chinese": "证明"
+      },
+      {
+        "text": "to be expensive",
+        "role": "C",
+        "phonetic": "/tuː biː ɪkˈspensɪv/",
+        "chinese": "到/向/是/昂贵的"
+      }
+    ]
+  },
+  {
+    "chinese": "他试图打开这个箱子。",
+    "english": "He attempted to open the box",
+    "soundmark": "/hiː əˈtemptɪd tuː ˈoʊpən ðə bɑːks/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "attempted",
+        "role": "V",
+        "phonetic": "/əˈtemptɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "to open",
+        "role": "V",
+        "phonetic": "/tuː ˈoʊpən/",
+        "chinese": "到/向/打开"
+      },
+      {
+        "text": "the box",
+        "role": "O",
+        "phonetic": "/ðə bɑːks/",
+        "chinese": "这个/那个/箱子/盒"
+      }
+    ]
+  },
+  {
+    "chinese": "我发现这双鞋很不舒服。",
+    "english": "I found the shoes very uncomfortable",
+    "soundmark": "/aɪ faʊnd ðə ʃuːz ˈveri ʌnˈkʌmftəbl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "the shoes",
+        "role": "O",
+        "phonetic": "/ðə ʃuːz/",
+        "chinese": "这个/那个/…们/复数(鞋)"
+      },
+      {
+        "text": "very uncomfortable",
+        "role": "C",
+        "phonetic": "/ˈveri ʌnˈkʌmftəbl/",
+        "chinese": "非常"
+      }
+    ]
+  },
+  {
+    "chinese": "这看起来似乎不正常。",
+    "english": "This did not seem to be normal",
+    "soundmark": "/ðɪs dɪd nɑːt siːm tuː biː ˈnɔːrml/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "did not seem",
+        "role": "V",
+        "phonetic": "/dɪd nɑːt siːm/",
+        "chinese": "做/助动词（过去式）/不/似乎"
+      },
+      {
+        "text": "to be normal",
+        "role": "C",
+        "phonetic": "/tuː biː ˈnɔːrml/",
+        "chinese": "到/向/是"
+      }
+    ]
+  },
+  {
+    "chinese": "他们发现教区里没人认识他。",
+    "english": "They discovered that no one in the parish knew him",
+    "soundmark": "/ðeɪ dɪˈskʌvərd ðæt noʊ wʌn ɪn ðə ˈpærɪʃ nuː hɪm/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "that no one in the parish knew him",
+        "role": "O",
+        "phonetic": "/ðæt noʊ wʌn ɪn ðə ˈpærɪʃ nuː hɪm/",
+        "chinese": "那个/没有/一个/在…里/这个/那个/知道（过去式）/他"
+      }
+    ]
+  },
+  {
+    "chinese": "最终证明这是一个错误。",
+    "english": "It proved to be a mistake in the end",
+    "soundmark": "/ɪt pruːvd tuː biː ə mɪˈsteɪk ɪn ðə end/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "proved",
+        "role": "V",
+        "phonetic": "/pruːvd/",
+        "chinese": "证明"
+      },
+      {
+        "text": "to be a mistake",
+        "role": "C",
+        "phonetic": "/tuː biː ə mɪˈsteɪk/",
+        "chinese": "到/向/是/一个/错误"
+      },
+      {
+        "text": "in the end",
+        "role": "A",
+        "phonetic": "/ɪn ðə end/",
+        "chinese": "最后"
+      }
+    ]
+  },
+  {
+    "chinese": "我让那人承认了错误。",
+    "english": "I made the man admit to his mistake",
+    "soundmark": "/aɪ meɪd ðə mæn ədˈmɪt tuː hɪz mɪˈsteɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "the man",
+        "role": "O",
+        "phonetic": "/ðə mæn/",
+        "chinese": "这个/那个/男人"
+      },
+      {
+        "text": "admit to his mistake",
+        "role": "C",
+        "phonetic": "/ədˈmɪt tuː hɪz mɪˈsteɪk/",
+        "chinese": "承认/到/向/他的/错误"
+      }
+    ]
+  },
+  {
+    "chinese": "证明",
+    "english": "prove",
+    "soundmark": "/pruːv/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "trip",
+    "soundmark": "/trɪp/"
+  },
+  {
+    "chinese": "打开",
+    "english": "open",
+    "soundmark": "/ˈoʊpən/"
+  },
+  {
+    "chinese": "似乎",
+    "english": "seem",
+    "soundmark": "/siːm/"
+  },
+  {
+    "chinese": "重的",
+    "english": "heavy",
+    "soundmark": "/ˈhevi/"
+  },
+  {
+    "chinese": "鞋",
+    "english": "shoes",
+    "soundmark": "/ʃuːz/"
+  },
+  {
+    "chinese": "最终",
+    "english": "in the end",
+    "soundmark": "/ɪn ðə end/"
+  },
+  {
+    "chinese": "让",
+    "english": "make",
+    "soundmark": "/meɪk/"
+  }
+]

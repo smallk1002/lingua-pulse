@@ -1,0 +1,971 @@
+[
+  {
+    "chinese": "侦探",
+    "english": "detective",
+    "soundmark": "/dɪˈtektɪv/"
+  },
+  {
+    "chinese": "机场",
+    "english": "airport",
+    "soundmark": "/ˈerpɔːrt/"
+  },
+  {
+    "chinese": "期待",
+    "english": "expect",
+    "soundmark": "/ɪkˈspekt/"
+  },
+  {
+    "chinese": "贵重的",
+    "english": "valuable",
+    "soundmark": "/ˈvæljuəbəl/"
+  },
+  {
+    "chinese": "钻石",
+    "english": "diamond",
+    "soundmark": "/ˈdaɪmənd/"
+  },
+  {
+    "chinese": "偷",
+    "english": "steal",
+    "soundmark": "/stiːl/"
+  },
+  {
+    "chinese": "主要地",
+    "english": "mainly",
+    "soundmark": "/ˈmeɪnli/"
+  },
+  {
+    "chinese": "守卫",
+    "english": "guard",
+    "soundmark": "/ɡɑːrd/"
+  },
+  {
+    "chinese": "沙地",
+    "english": "sand",
+    "soundmark": "/sænd/"
+  },
+  {
+    "chinese": "飞机",
+    "english": "plane",
+    "soundmark": "/pleɪn/"
+  },
+  {
+    "chinese": "钻石项链",
+    "english": "diamond necklace",
+    "soundmark": "/ˈdaɪmənd/ /ˈneklɪs/"
+  },
+  {
+    "chinese": "等飞机",
+    "english": "wait for the plane",
+    "soundmark": "/weɪt/ /fɔːr/ /ðə/ /pleɪn/"
+  },
+  {
+    "chinese": "贵重物品",
+    "english": "valuable parcel",
+    "soundmark": "/ˈvæljuəbəl/ /ˈpɑːrsəl/"
+  },
+  {
+    "chinese": "一小撮人",
+    "english": "a few people",
+    "soundmark": "/ə/ /fjuː/ /ˈpiːpəl/"
+  },
+  {
+    "chinese": "飞机晚点了",
+    "english": "The plane was late",
+    "soundmark": "/ðə/ /pleɪn/ /wʌz/ /leɪt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "plane",
+        "role": "S",
+        "phonetic": "/pleɪn/",
+        "chinese": "飞机"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "侦探们在等一个装满钻石的包裹",
+    "english": "Detectives were waiting for a parcel full of diamonds",
+    "soundmark": "/dɪˈtektɪvz/ /wɜːr/ /ˈweɪtɪŋ/ /fɔːr/ /ə/ /ˈpɑːrsəl/ /fʊl/ /ʌv/ /ˈdaɪməndz/",
+    "grammar": [
+      {
+        "text": "Detectives",
+        "role": "S",
+        "phonetic": "/dɪˈtektɪvz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "parcel",
+        "role": "O",
+        "phonetic": "/ˈpɑːrsəl/",
+        "chinese": "包裹"
+      },
+      {
+        "text": "full",
+        "role": "A",
+        "phonetic": "/fʊl/",
+        "chinese": "满的/饱的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "diamonds",
+        "role": "O",
+        "phonetic": "/ˈdaɪməndz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "两个男人把包裹拿走了",
+    "english": "Two men took the parcel off the plane",
+    "soundmark": "/tuː/ /men/ /tʊk/ /ðə/ /ˈpɑːrsəl/ /ɔːf/ /ðə/ /pleɪn/",
+    "grammar": [
+      {
+        "text": "Two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "men",
+        "role": "S",
+        "phonetic": "/men/",
+        "chinese": ""
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "parcel",
+        "role": "O",
+        "phonetic": "/ˈpɑːrsəl/",
+        "chinese": "包裹"
+      },
+      {
+        "text": "off",
+        "role": "P",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "plane",
+        "role": "O",
+        "phonetic": "/pleɪn/",
+        "chinese": "飞机"
+      }
+    ]
+  },
+  {
+    "chinese": "当飞机降落时天正在下雨",
+    "english": "It was raining when the plane landed",
+    "soundmark": "/ɪt/ /wʌz/ /ˈreɪnɪŋ/ /wen/ /ðə/ /pleɪn/ /ˈlændɪd/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "plane",
+        "role": "S",
+        "phonetic": "/pleɪn/",
+        "chinese": "飞机"
+      },
+      {
+        "text": "landed",
+        "role": "V",
+        "phonetic": "/ˈlændɪd/",
+        "chinese": "着陆/土地"
+      }
+    ]
+  },
+  {
+    "chinese": "守卫们没有看到小偷",
+    "english": "The guards did not see the thieves",
+    "soundmark": "/ðə/ /ɡɑːrdz/ /dɪd/ /nɑːt/ /siː/ /ðə/ /θiːvz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "guards",
+        "role": "S",
+        "phonetic": "/ɡɑːrdz/",
+        "chinese": ""
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thieves",
+        "role": "O",
+        "phonetic": "/θiːvz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "当小偷跑走时守卫们正在喝咖啡",
+    "english": "The guards were drinking coffee when the thieves ran away",
+    "soundmark": "/ðə/ /ɡɑːrdz/ /wɜːr/ /ˈdrɪŋkɪŋ/ /ˈkɑːfi/ /wen/ /ðə/ /θiːvz/ /ræn/ /əˈweɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "guards",
+        "role": "S",
+        "phonetic": "/ɡɑːrdz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "drinking",
+        "role": "V",
+        "phonetic": "/ˈdrɪŋkɪŋ/",
+        "chinese": "喝的"
+      },
+      {
+        "text": "coffee",
+        "role": "O",
+        "phonetic": "/ˈkɑːfi/",
+        "chinese": "咖啡"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thieves",
+        "role": "S",
+        "phonetic": "/θiːvz/",
+        "chinese": ""
+      },
+      {
+        "text": "ran",
+        "role": "V",
+        "phonetic": "/ræn/",
+        "chinese": "跑（过去式）"
+      },
+      {
+        "text": "away",
+        "role": "Adv",
+        "phonetic": "/əˈweɪ/",
+        "chinese": "离开/远"
+      }
+    ]
+  },
+  {
+    "chinese": "他们在等一个重要包裹",
+    "english": "They were expecting a very important parcel",
+    "soundmark": "/ðeɪ/ /wɜːr/ /ɪkˈspektɪŋ/ /ə/ /ˈveri/ /ɪmˈpɔːrtənt/ /ˈpɑːrsəl/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "expecting",
+        "role": "V",
+        "phonetic": "/ɪkˈspektɪŋ/",
+        "chinese": "期望"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "important",
+        "role": "A",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "parcel",
+        "role": "O",
+        "phonetic": "/ˈpɑːrsəl/",
+        "chinese": "包裹"
+      }
+    ]
+  },
+  {
+    "chinese": "有人在南美洲偷了那些钻石",
+    "english": "Someone stole the diamonds in South America",
+    "soundmark": "/ˈsʌmwʌn/ /stoʊl/ /ðə/ /ˈdaɪməndz/ /ɪn/ /saʊθ/ /əˈmerɪkə/",
+    "grammar": [
+      {
+        "text": "Someone",
+        "role": "S",
+        "phonetic": "/ˈsʌmwʌn/",
+        "chinese": "某人"
+      },
+      {
+        "text": "stole",
+        "role": "V",
+        "phonetic": "/stoʊl/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "diamonds",
+        "role": "O",
+        "phonetic": "/ˈdaɪməndz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "South",
+        "role": "A",
+        "phonetic": "/saʊθ/",
+        "chinese": ""
+      },
+      {
+        "text": "America",
+        "role": "O",
+        "phonetic": "/əˈmerɪkə/",
+        "chinese": "美国"
+      }
+    ]
+  },
+  {
+    "chinese": "警察来迟了小偷已经逃跑了",
+    "english": "The police arrived too late and the thieves had already gone",
+    "soundmark": "/ðə/ /pəˈliːs/ /əˈraɪvd/ /tuː/ /leɪt/ /ænd/ /ðə/ /θiːvz/ /hæd/ /ɔːlˈredi/ /ɡɔːn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "S",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "late",
+        "role": "A",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thieves",
+        "role": "S",
+        "phonetic": "/θiːvz/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɔːn/",
+        "chinese": "去（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "昨晚你正在做什么",
+    "english": "What were you doing last night",
+    "soundmark": "/wʌt/ /wɜːr/ /juː/ /ˈduːɪŋ/ /læst/ /naɪt/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他正试图偷车时被抓了",
+    "english": "He was trying to steal a car when he was caught",
+    "soundmark": "/hiː/ /wʌz/ /ˈtraɪɪŋ/ /tuː/ /stiːl/ /ə/ /kɑːr/ /wen/ /hiː/ /wʌz/ /kɔːt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "trying",
+        "role": "V",
+        "phonetic": "/ˈtraɪɪŋ/",
+        "chinese": "尝试的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "steal",
+        "role": "V",
+        "phonetic": "/stiːl/",
+        "chinese": "偷"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "我开车时看到了事故",
+    "english": "I saw the accident while I was driving",
+    "soundmark": "/aɪ/ /sɔː/ /ðə/ /ˈæksɪdənt/ /waɪl/ /aɪ/ /wʌz/ /ˈdraɪvɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "accident",
+        "role": "O",
+        "phonetic": "/ˈæksɪdənt/",
+        "chinese": "事故"
+      },
+      {
+        "text": "while",
+        "role": "P",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      }
+    ]
+  },
+  {
+    "chinese": "包裹里主要是沙子和石头",
+    "english": "The parcel was mainly full of sand and stones",
+    "soundmark": "/ðə/ /ˈpɑːrsəl/ /wʌz/ /ˈmeɪnli/ /fʊl/ /ʌv/ /sænd/ /ænd/ /stoʊnz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "parcel",
+        "role": "S",
+        "phonetic": "/ˈpɑːrsəl/",
+        "chinese": "包裹"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "mainly",
+        "role": "Adv",
+        "phonetic": "/ˈmeɪnli/",
+        "chinese": "主要地"
+      },
+      {
+        "text": "full",
+        "role": "C",
+        "phonetic": "/fʊl/",
+        "chinese": "满的/饱的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "sand",
+        "role": "O",
+        "phonetic": "/sænd/",
+        "chinese": "沙子"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "stones",
+        "role": "O",
+        "phonetic": "/stoʊnz/",
+        "chinese": "…们/复数(石头)"
+      }
+    ]
+  },
+  {
+    "chinese": "我们在等公交车时下起了雨",
+    "english": "It started to rain while we were waiting for the bus",
+    "soundmark": "/ɪt/ /ˈstɑːrtɪd/ /tuː/ /reɪn/ /waɪl/ /wiː/ /wɜːr/ /ˈweɪtɪŋ/ /fɔːr/ /ðə/ /bʌs/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "rain",
+        "role": "V",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      },
+      {
+        "text": "while",
+        "role": "P",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bus",
+        "role": "O",
+        "phonetic": "/bʌs/",
+        "chinese": "公交车"
+      }
+    ]
+  },
+  {
+    "chinese": "当电话响起时我正在洗澡",
+    "english": "I was taking a shower when the phone rang",
+    "soundmark": "/aɪ/ /wʌz/ /ˈteɪkɪŋ/ /ə/ /ˈʃaʊər/ /wen/ /ðə/ /foʊn/ /ræŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "taking",
+        "role": "V",
+        "phonetic": "/ˈteɪkɪŋ/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "shower",
+        "role": "O",
+        "phonetic": "/ˈʃaʊər/",
+        "chinese": "更…的/…者(展示)"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "phone",
+        "role": "S",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      },
+      {
+        "text": "rang",
+        "role": "V",
+        "phonetic": "/ræŋ/",
+        "chinese": "响（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "小偷",
+    "english": "thief",
+    "soundmark": "/θiːf/"
+  },
+  {
+    "chinese": "警察",
+    "english": "police",
+    "soundmark": "/pəˈliːs/"
+  },
+  {
+    "chinese": "包裹",
+    "english": "parcel",
+    "soundmark": "/ˈpɑːrsəl/"
+  },
+  {
+    "chinese": "石头",
+    "english": "stone",
+    "soundmark": "/stoʊn/"
+  },
+  {
+    "chinese": "沙子",
+    "english": "sand",
+    "soundmark": "/sænd/"
+  },
+  {
+    "chinese": "咖啡",
+    "english": "coffee",
+    "soundmark": "/ˈkɑːfi/"
+  },
+  {
+    "chinese": "事故",
+    "english": "accident",
+    "soundmark": "/ˈæksɪdənt/"
+  },
+  {
+    "chinese": "降落",
+    "english": "land",
+    "soundmark": "/lænd/"
+  },
+  {
+    "chinese": "电话",
+    "english": "phone",
+    "soundmark": "/foʊn/"
+  },
+  {
+    "chinese": "开车",
+    "english": "drive",
+    "soundmark": "/draɪv/"
+  }
+]

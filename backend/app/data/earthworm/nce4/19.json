@@ -1,0 +1,503 @@
+[
+  {
+    "chinese": "梦",
+    "english": "dream",
+    "soundmark": "/driːm/"
+  },
+  {
+    "chinese": "睡眠",
+    "english": "sleep",
+    "soundmark": "/sliːp/"
+  },
+  {
+    "chinese": "潜意识",
+    "english": "subconscious",
+    "soundmark": "/sʌbˈkɑːnʃəs/"
+  },
+  {
+    "chinese": "快速眼动",
+    "english": "rapid eye movement",
+    "soundmark": "/ˈræpɪd/ /aɪ/ /ˈmuːvmənt/"
+  },
+  {
+    "chinese": "噩梦",
+    "english": "nightmare",
+    "soundmark": "/ˈnaɪtmer/"
+  },
+  {
+    "chinese": "神经科学",
+    "english": "neuroscience",
+    "soundmark": "/ˈnʊroʊsaɪəns/"
+  },
+  {
+    "chinese": "梦境",
+    "english": "dreamscape",
+    "soundmark": "/ˈdriːmskeɪp/"
+  },
+  {
+    "chinese": "睡眠周期",
+    "english": "sleep cycle",
+    "soundmark": "/sliːp/ /ˈsaɪkl/"
+  },
+  {
+    "chinese": "弗洛伊德",
+    "english": "Freud",
+    "soundmark": "/frɔɪd/"
+  },
+  {
+    "chinese": "解析",
+    "english": "interpretation",
+    "soundmark": "/ɪnˌtɜːrprɪˈteɪʃn/"
+  },
+  {
+    "chinese": "每个人每晚都做梦只是大多数人醒来后就忘了",
+    "english": "everyone dreams every night though most people forget upon waking",
+    "soundmark": "/ˈevriwʌn/ /driːmz/ /ˈevri/ /naɪt/ /ðoʊ/ /moʊst/ /ˈpiːpl/ /fərˈɡet/ /əˈpɑːn/ /ˈweɪkɪŋ/",
+    "grammar": [
+      {
+        "text": "everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "dreams",
+        "role": "V",
+        "phonetic": "/driːmz/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      },
+      {
+        "text": "though",
+        "role": "P",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "most",
+        "role": "Det",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "forget",
+        "role": "V",
+        "phonetic": "/fərˈɡet/",
+        "chinese": "忘记"
+      },
+      {
+        "text": "upon",
+        "role": "P",
+        "phonetic": "/əˈpɑːn/",
+        "chinese": "在…之上"
+      },
+      {
+        "text": "waking",
+        "role": "V",
+        "phonetic": "/ˈweɪkɪŋ/",
+        "chinese": "醒来"
+      }
+    ]
+  },
+  {
+    "chinese": "人在做梦时眼球快速移动大脑活动与清醒时相似",
+    "english": "while dreaming the eyes move rapidly and the brain is as active as when awake",
+    "soundmark": "/waɪl/ /ˈdriːmɪŋ/ /ði/ /aɪz/ /muːv/ /ˈræpɪdli/ /ænd/ /ðə/ /breɪn/ /ɪz/ /æz/ /ˈæktɪv/ /æz/ /wen/ /əˈweɪk/",
+    "grammar": [
+      {
+        "text": "while",
+        "role": "P",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "dreaming",
+        "role": "V",
+        "phonetic": "/ˈdriːmɪŋ/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "eyes",
+        "role": "S",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      },
+      {
+        "text": "move",
+        "role": "V",
+        "phonetic": "/muːv/",
+        "chinese": "移动"
+      },
+      {
+        "text": "rapidly",
+        "role": "Adv",
+        "phonetic": "/ˈræpɪdli/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "brain",
+        "role": "S",
+        "phonetic": "/breɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "active",
+        "role": "C",
+        "phonetic": "/ˈæktɪv/",
+        "chinese": "积极的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "when",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "awake",
+        "role": "C",
+        "phonetic": "/əˈweɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "科学家正在研究为何有些梦令人恐惧而另一些则令人愉悦",
+    "english": "scientists are investigating why some dreams are terrifying while others are pleasant",
+    "soundmark": "/ˈsaɪəntɪsts/ /ɑːr/ /ɪnˈvestɪɡeɪtɪŋ/ /waɪ/ /sʌm/ /driːmz/ /ɑːr/ /ˈterɪfaɪɪŋ/ /waɪl/ /ˈʌðərz/ /ɑːr/ /ˈpleznt/",
+    "grammar": [
+      {
+        "text": "scientists",
+        "role": "S",
+        "phonetic": "/ˈsaɪəntɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "investigating",
+        "role": "V",
+        "phonetic": "/ɪnˈvestɪɡeɪtɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "why",
+        "role": "Adv",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "dreams",
+        "role": "S",
+        "phonetic": "/driːmz/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "terrifying",
+        "role": "C",
+        "phonetic": "/ˈterɪfaɪɪŋ/",
+        "chinese": "使恐惧"
+      },
+      {
+        "text": "while",
+        "role": "P",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "others",
+        "role": "S",
+        "phonetic": "/ˈʌðərz/",
+        "chinese": "其他"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "pleasant",
+        "role": "C",
+        "phonetic": "/ˈpleznt/",
+        "chinese": "愉快的"
+      }
+    ]
+  },
+  {
+    "chinese": "弗洛伊德认为梦是潜意识的表达",
+    "english": "Freud believed that dreams are the expression of the subconscious mind",
+    "soundmark": "/frɔɪd/ /bɪˈliːvd/ /ðæt/ /driːmz/ /ɑːr/ /ði/ /ɪkˈspreʃn/ /ʌv/ /ðə/ /sʌbˈkɑːnʃəs/ /maɪnd/",
+    "grammar": [
+      {
+        "text": "Freud",
+        "role": "S",
+        "phonetic": "/frɔɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "believed",
+        "role": "V",
+        "phonetic": "/bɪˈliːvd/",
+        "chinese": "相信"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "dreams",
+        "role": "S",
+        "phonetic": "/driːmz/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "expression",
+        "role": "C",
+        "phonetic": "/ɪkˈspreʃn/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "subconscious",
+        "role": "A",
+        "phonetic": "/sʌbˈkɑːnʃəs/",
+        "chinese": ""
+      },
+      {
+        "text": "mind",
+        "role": "O",
+        "phonetic": "/maɪnd/",
+        "chinese": "介意"
+      }
+    ]
+  },
+  {
+    "chinese": "他们发现不让人做梦会导致严重的心理问题",
+    "english": "they have found that depriving people of dreams leads to serious psychological problems",
+    "soundmark": "/ðeɪ/ /hæv/ /faʊnd/ /ðæt/ /dɪˈpraɪvɪŋ/ /ˈpiːpl/ /ʌv/ /driːmz/ /liːdz/ /tuː/ /ˈsɪriəs/ /ˌsaɪkəˈlɑːdʒɪkl/ /ˈprɑːbləmz/",
+    "grammar": [
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "depriving",
+        "role": "V",
+        "phonetic": "/dɪˈpraɪvɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "people",
+        "role": "O",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "dreams",
+        "role": "O",
+        "phonetic": "/driːmz/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "leads",
+        "role": "V",
+        "phonetic": "/liːdz/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "serious",
+        "role": "A",
+        "phonetic": "/ˈsɪriəs/",
+        "chinese": "严肃的"
+      },
+      {
+        "text": "psychological",
+        "role": "A",
+        "phonetic": "/ˌsaɪkəˈlɑːdʒɪkl/",
+        "chinese": ""
+      },
+      {
+        "text": "problems",
+        "role": "O",
+        "phonetic": "/ˈprɑːbləmz/",
+        "chinese": "问题/难题"
+      }
+    ]
+  },
+  {
+    "chinese": "剥夺",
+    "english": "deprive",
+    "soundmark": "/dɪˈpraɪv/"
+  },
+  {
+    "chinese": "心理的",
+    "english": "psychological",
+    "soundmark": "/ˌsaɪkəˈlɑːdʒɪkl/"
+  },
+  {
+    "chinese": "可怕的",
+    "english": "terrifying",
+    "soundmark": "/ˈterɪfaɪɪŋ/"
+  },
+  {
+    "chinese": "愉快的",
+    "english": "pleasant",
+    "soundmark": "/ˈpleznt/"
+  },
+  {
+    "chinese": "表达",
+    "english": "expression",
+    "soundmark": "/ɪkˈspreʃn/"
+  },
+  {
+    "chinese": "调查",
+    "english": "investigate",
+    "soundmark": "/ɪnˈvestɪɡeɪt/"
+  },
+  {
+    "chinese": "活跃",
+    "english": "active",
+    "soundmark": "/ˈæktɪv/"
+  },
+  {
+    "chinese": "醒来",
+    "english": "awake",
+    "soundmark": "/əˈweɪk/"
+  },
+  {
+    "chinese": "遗忘",
+    "english": "forget",
+    "soundmark": "/fərˈɡet/"
+  },
+  {
+    "chinese": "思想",
+    "english": "mind",
+    "soundmark": "/maɪnd/"
+  }
+]

@@ -1,0 +1,384 @@
+[
+  {
+    "chinese": "理想的",
+    "english": "ideal",
+    "soundmark": "/aɪˈdiːəl/"
+  },
+  {
+    "chinese": "仆人",
+    "english": "servant",
+    "soundmark": "/ˈsɜːrvənt/"
+  },
+  {
+    "chinese": "忠诚的",
+    "english": "loyal",
+    "soundmark": "/ˈlɔɪəl/"
+  },
+  {
+    "chinese": "尽职的",
+    "english": "devoted",
+    "soundmark": "/dɪˈvoʊtɪd/"
+  },
+  {
+    "chinese": "服务",
+    "english": "serve",
+    "soundmark": "/sɜːrv/"
+  },
+  {
+    "chinese": "退休",
+    "english": "retire",
+    "soundmark": "/rɪˈtaɪər/"
+  },
+  {
+    "chinese": "赞赏",
+    "english": "admire",
+    "soundmark": "/ədˈmaɪər/"
+  },
+  {
+    "chinese": "奉献",
+    "english": "dedication",
+    "soundmark": "/ˌdedɪˈkeɪʃən/"
+  },
+  {
+    "chinese": "已经服务",
+    "english": "had served",
+    "soundmark": "/hæd sɜːrvd/"
+  },
+  {
+    "chinese": "已经奉献",
+    "english": "had dedicated",
+    "soundmark": "/hæd ˈdedɪkeɪtɪd/"
+  },
+  {
+    "chinese": "她在这家已经服务了三十多年。",
+    "english": "She had served the family for over thirty years",
+    "soundmark": "/ʃiː hæd sɜːrvd ðə ˈfæməli fɔːr ˈoʊvər ˈθɜːrti jɪrz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "served",
+        "role": "V",
+        "phonetic": "/sɜːrvd/",
+        "chinese": "服务/上菜"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "family",
+        "role": "O",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "over",
+        "role": "Adv",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "thirty",
+        "role": "Det",
+        "phonetic": "/ˈθɜːrti/",
+        "chinese": "三十"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "在退休之前他已经奉献了一生给这个家庭。",
+    "english": "He had dedicated his whole life to the family before he retired",
+    "soundmark": "/hiː hæd ˈdedɪkeɪtɪd hɪz hoʊl laɪf tuː ðə ˈfæməli bɪˈfɔːr hiː rɪˈtaɪərd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "dedicated",
+        "role": "V",
+        "phonetic": "/ˈdedɪkeɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "whole",
+        "role": "C",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "life",
+        "role": "O",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "family",
+        "role": "A",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "retired",
+        "role": "V",
+        "phonetic": "/rɪˈtaɪərd/",
+        "chinese": "退休的"
+      }
+    ]
+  },
+  {
+    "chinese": "她退休后他们意识到他们失去了多么宝贵的人。",
+    "english": "After she had retired they realized what a treasure they had lost",
+    "soundmark": "/ˈæftər ʃiː hæd rɪˈtaɪərd ðeɪ ˈriːəlaɪzd wʌt ə ˈtreʒər ðeɪ hæd lɒst/",
+    "grammar": [
+      {
+        "text": "After",
+        "role": "A",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "retired",
+        "role": "V",
+        "phonetic": "/rɪˈtaɪərd/",
+        "chinese": "退休的"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "realized",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪzd/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "what",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "treasure",
+        "role": "O",
+        "phonetic": "/ˈtreʒər/",
+        "chinese": "宝藏"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɒst/",
+        "chinese": "丢失的/迷路的"
+      }
+    ]
+  },
+  {
+    "chinese": "在他们买下那栋房子之前她就已经是管家了。",
+    "english": "She had already been the housekeeper before they bought the house",
+    "soundmark": "/ʃiː hæd ɔːlˈredi biːn ðə ˈhaʊsˌkiːpər bɪˈfɔːr ðeɪ bɔːt ðə haʊs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "housekeeper",
+        "role": "C",
+        "phonetic": "/ˈhaʊsˌkiːpər/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      }
+    ]
+  },
+  {
+    "chinese": "理想的",
+    "english": "ideal",
+    "soundmark": "/aɪˈdiːəl/"
+  },
+  {
+    "chinese": "仆人",
+    "english": "servant",
+    "soundmark": "/ˈsɜːrvənt/"
+  },
+  {
+    "chinese": "忠诚的",
+    "english": "loyal",
+    "soundmark": "/ˈlɔɪəl/"
+  },
+  {
+    "chinese": "尽职的",
+    "english": "devoted",
+    "soundmark": "/dɪˈvoʊtɪd/"
+  },
+  {
+    "chinese": "服务",
+    "english": "serve",
+    "soundmark": "/sɜːrv/"
+  },
+  {
+    "chinese": "退休",
+    "english": "retire",
+    "soundmark": "/rɪˈtaɪər/"
+  },
+  {
+    "chinese": "赞赏",
+    "english": "admire",
+    "soundmark": "/ədˈmaɪər/"
+  },
+  {
+    "chinese": "管家",
+    "english": "housekeeper",
+    "soundmark": "/ˈhaʊsˌkiːpər/"
+  }
+]

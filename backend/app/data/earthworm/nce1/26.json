@@ -1,0 +1,790 @@
+[
+  {
+    "chinese": "食物",
+    "english": "food",
+    "soundmark": "/fuːd/"
+  },
+  {
+    "chinese": "饮料",
+    "english": "drink",
+    "soundmark": "/drɪŋk/"
+  },
+  {
+    "chinese": "水",
+    "english": "water",
+    "soundmark": "/ˈwɔːtər/"
+  },
+  {
+    "chinese": "牛奶",
+    "english": "milk",
+    "soundmark": "/mɪlk/"
+  },
+  {
+    "chinese": "面包",
+    "english": "bread",
+    "soundmark": "/bred/"
+  },
+  {
+    "chinese": "黄油",
+    "english": "butter",
+    "soundmark": "/ˈbʌtər/"
+  },
+  {
+    "chinese": "奶酪",
+    "english": "cheese",
+    "soundmark": "/tʃiːz/"
+  },
+  {
+    "chinese": "鸡蛋",
+    "english": "egg",
+    "soundmark": "/eɡ/"
+  },
+  {
+    "chinese": "肉",
+    "english": "meat",
+    "soundmark": "/miːt/"
+  },
+  {
+    "chinese": "鱼",
+    "english": "fish",
+    "soundmark": "/fɪʃ/"
+  },
+  {
+    "chinese": "米饭",
+    "english": "rice",
+    "soundmark": "/raɪs/"
+  },
+  {
+    "chinese": "蔬菜",
+    "english": "vegetable",
+    "soundmark": "/ˈvedʒtəbəl/"
+  },
+  {
+    "chinese": "水果",
+    "english": "fruit",
+    "soundmark": "/fruːt/"
+  },
+  {
+    "chinese": "苹果",
+    "english": "apple",
+    "soundmark": "/ˈæpəl/"
+  },
+  {
+    "chinese": "橙子",
+    "english": "orange",
+    "soundmark": "/ˈɔːrɪndʒ/"
+  },
+  {
+    "chinese": "香蕉",
+    "english": "banana",
+    "soundmark": "/bəˈnænə/"
+  },
+  {
+    "chinese": "茶",
+    "english": "tea",
+    "soundmark": "/tiː/"
+  },
+  {
+    "chinese": "咖啡",
+    "english": "coffee",
+    "soundmark": "/ˈkɔːfi/"
+  },
+  {
+    "chinese": "糖",
+    "english": "sugar",
+    "soundmark": "/ˈʃʊɡər/"
+  },
+  {
+    "chinese": "盐",
+    "english": "salt",
+    "soundmark": "/sɔːlt/"
+  },
+  {
+    "chinese": "饿的",
+    "english": "hungry",
+    "soundmark": "/ˈhʌŋɡri/"
+  },
+  {
+    "chinese": "渴的",
+    "english": "thirsty",
+    "soundmark": "/ˈθɜːrsti/"
+  },
+  {
+    "chinese": "一些水",
+    "english": "some water",
+    "soundmark": "/sʌm/ /ˈwɔːtər/"
+  },
+  {
+    "chinese": "一杯茶",
+    "english": "a cup of tea",
+    "soundmark": "/ə/ /kʌp/ /əv/ /tiː/"
+  },
+  {
+    "chinese": "一杯咖啡",
+    "english": "a cup of coffee",
+    "soundmark": "/ə/ /kʌp/ /əv/ /ˈkɔːfi/"
+  },
+  {
+    "chinese": "一片面包",
+    "english": "a piece of bread",
+    "soundmark": "/ə/ /piːs/ /əv/ /bred/"
+  },
+  {
+    "chinese": "一块奶酪",
+    "english": "a piece of cheese",
+    "soundmark": "/ə/ /piːs/ /əv/ /tʃiːz/"
+  },
+  {
+    "chinese": "一些米饭",
+    "english": "some rice",
+    "soundmark": "/sʌm/ /raɪs/"
+  },
+  {
+    "chinese": "一些蔬菜",
+    "english": "some vegetables",
+    "soundmark": "/sʌm/ /ˈvedʒtəbəlz/"
+  },
+  {
+    "chinese": "一些水果",
+    "english": "some fruit",
+    "soundmark": "/sʌm/ /fruːt/"
+  },
+  {
+    "chinese": "我饿了",
+    "english": "I am hungry",
+    "soundmark": "/aɪ/ /æm/ /ˈhʌŋɡri/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "hungry",
+        "role": "C",
+        "phonetic": "/ˈhʌŋɡri/",
+        "chinese": "饿的"
+      }
+    ]
+  },
+  {
+    "chinese": "我渴了",
+    "english": "I am thirsty",
+    "soundmark": "/aɪ/ /æm/ /ˈθɜːrsti/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "thirsty",
+        "role": "C",
+        "phonetic": "/ˈθɜːrsti/",
+        "chinese": "渴的"
+      }
+    ]
+  },
+  {
+    "chinese": "我喜欢面包和黄油",
+    "english": "I like bread and butter",
+    "soundmark": "/aɪ/ /laɪk/ /bred/ /ænd/ /ˈbʌtər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "bread",
+        "role": "O",
+        "phonetic": "/bred/",
+        "chinese": "面包"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "butter",
+        "role": "O",
+        "phonetic": "/ˈbʌtər/",
+        "chinese": "黄油"
+      }
+    ]
+  },
+  {
+    "chinese": "她想要一个苹果",
+    "english": "She wants an apple",
+    "soundmark": "/ʃiː/ /wɑːnts/ /æn/ /ˈæpəl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "wants",
+        "role": "V",
+        "phonetic": "/wɑːnts/",
+        "chinese": "想要"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/æn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "apple",
+        "role": "O",
+        "phonetic": "/ˈæpəl/",
+        "chinese": "苹果"
+      }
+    ]
+  },
+  {
+    "chinese": "他正在喝茶",
+    "english": "He is drinking tea",
+    "soundmark": "/hiː/ /ɪz/ /ˈdrɪŋkɪŋ/ /tiː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "drinking",
+        "role": "V",
+        "phonetic": "/ˈdrɪŋkɪŋ/",
+        "chinese": "喝的"
+      },
+      {
+        "text": "tea",
+        "role": "O",
+        "phonetic": "/tiː/",
+        "chinese": "茶"
+      }
+    ]
+  },
+  {
+    "chinese": "早饭准备好了",
+    "english": "Breakfast is ready",
+    "soundmark": "/ˈbrekfəst/ /ɪz/ /ˈredi/",
+    "grammar": [
+      {
+        "text": "Breakfast",
+        "role": "S",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "ready",
+        "role": "C",
+        "phonetic": "/ˈredi/",
+        "chinese": "准备好的"
+      }
+    ]
+  },
+  {
+    "chinese": "午饭在桌子上",
+    "english": "Lunch is on the table",
+    "soundmark": "/lʌntʃ/ /ɪz/ /ɑːn/ /ðə/ /ˈteɪbəl/",
+    "grammar": [
+      {
+        "text": "Lunch",
+        "role": "S",
+        "phonetic": "/lʌntʃ/",
+        "chinese": "午餐"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "table",
+        "role": "O",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      }
+    ]
+  },
+  {
+    "chinese": "我不喜欢咖啡",
+    "english": "I do not like coffee",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /laɪk/ /ˈkɔːfi/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "coffee",
+        "role": "O",
+        "phonetic": "/ˈkɔːfi/",
+        "chinese": "咖啡"
+      }
+    ]
+  },
+  {
+    "chinese": "他不吃肉",
+    "english": "He does not eat meat",
+    "soundmark": "/hiː/ /dʌz/ /nɑːt/ /iːt/ /miːt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "meat",
+        "role": "O",
+        "phonetic": "/miːt/",
+        "chinese": "肉"
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢茶吗",
+    "english": "Do you like tea",
+    "soundmark": "/duː/ /juː/ /laɪk/ /tiː/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "tea",
+        "role": "O",
+        "phonetic": "/tiː/",
+        "chinese": "茶"
+      }
+    ]
+  },
+  {
+    "chinese": "她想要一些水吗",
+    "english": "Does she want some water",
+    "soundmark": "/dʌz/ /ʃiː/ /wɑːnt/ /sʌm/ /ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "Does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "你有什么喝的",
+    "english": "What do you have to drink",
+    "soundmark": "/wʌt/ /duː/ /juː/ /hæv/ /tuː/ /drɪŋk/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "drink",
+        "role": "V",
+        "phonetic": "/drɪŋk/",
+        "chinese": "喝/饮料"
+      }
+    ]
+  },
+  {
+    "chinese": "这食物很美味",
+    "english": "This food is delicious",
+    "soundmark": "/ðɪs/ /fuːd/ /ɪz/ /dɪˈlɪʃəs/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "food",
+        "role": "S",
+        "phonetic": "/fuːd/",
+        "chinese": "食物"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "delicious",
+        "role": "C",
+        "phonetic": "/dɪˈlɪʃəs/",
+        "chinese": "美味的"
+      }
+    ]
+  },
+  {
+    "chinese": "他饿了所以他在吃一个三明治",
+    "english": "He is hungry so he is eating a sandwich",
+    "soundmark": "/hiː/ /ɪz/ /ˈhʌŋɡri/ /soʊ/ /hiː/ /ɪz/ /ˈiːtɪŋ/ /ə/ /ˈsændwɪtʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "hungry",
+        "role": "C",
+        "phonetic": "/ˈhʌŋɡri/",
+        "chinese": "饿的"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "eating",
+        "role": "V",
+        "phonetic": "/ˈiːtɪŋ/",
+        "chinese": "吃的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "sandwich",
+        "role": "O",
+        "phonetic": "/ˈsændwɪtʃ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我想要一个橙子但我不想要香蕉",
+    "english": "I want an orange but I do not want a banana",
+    "soundmark": "/aɪ/ /wɑːnt/ /æn/ /ˈɔːrɪndʒ/ /bʌt/ /aɪ/ /duː/ /nɑːt/ /wɑːnt/ /ə/ /bəˈnænə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/æn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "orange",
+        "role": "O",
+        "phonetic": "/ˈɔːrɪndʒ/",
+        "chinese": "橙子"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "banana",
+        "role": "O",
+        "phonetic": "/bəˈnænə/",
+        "chinese": "香蕉"
+      }
+    ]
+  },
+  {
+    "chinese": "请给我一杯水",
+    "english": "A glass of water please",
+    "soundmark": "/ə/ /ɡlæs/ /əv/ /ˈwɔːtər/ /pliːz/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "glass",
+        "role": "S",
+        "phonetic": "/ɡlæs/",
+        "chinese": "玻璃/玻璃杯"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "吃",
+    "english": "eat",
+    "soundmark": "/iːt/"
+  },
+  {
+    "chinese": "喝",
+    "english": "drink",
+    "soundmark": "/drɪŋk/"
+  },
+  {
+    "chinese": "三明治",
+    "english": "sandwich",
+    "soundmark": "/ˈsændwɪtʃ/"
+  },
+  {
+    "chinese": "早餐",
+    "english": "breakfast",
+    "soundmark": "/ˈbrekfəst/"
+  },
+  {
+    "chinese": "午餐",
+    "english": "lunch",
+    "soundmark": "/lʌntʃ/"
+  },
+  {
+    "chinese": "晚餐",
+    "english": "dinner",
+    "soundmark": "/ˈdɪnər/"
+  },
+  {
+    "chinese": "美味的",
+    "english": "delicious",
+    "soundmark": "/dɪˈlɪʃəs/"
+  },
+  {
+    "chinese": "准备好的",
+    "english": "ready",
+    "soundmark": "/ˈredi/"
+  }
+]

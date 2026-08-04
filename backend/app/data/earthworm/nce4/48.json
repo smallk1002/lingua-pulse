@@ -1,0 +1,659 @@
+[
+  {
+    "chinese": "公共部门",
+    "english": "public sector",
+    "soundmark": "/ˈpʌblɪk ˈsektə/"
+  },
+  {
+    "chinese": "规划",
+    "english": "planning",
+    "soundmark": "/ˈplænɪŋ/"
+  },
+  {
+    "chinese": "政策",
+    "english": "policy",
+    "soundmark": "/ˈpɒlɪsi/"
+  },
+  {
+    "chinese": "基础设施",
+    "english": "infrastructure",
+    "soundmark": "/ˈɪnfrəstrʌktʃə/"
+  },
+  {
+    "chinese": "预算",
+    "english": "budget",
+    "soundmark": "/ˈbʌdʒɪt/"
+  },
+  {
+    "chinese": "分配",
+    "english": "allocation",
+    "soundmark": "/ˌæləˈkeɪʃən/"
+  },
+  {
+    "chinese": "效率",
+    "english": "efficiency",
+    "soundmark": "/ɪˈfɪʃənsi/"
+  },
+  {
+    "chinese": "官僚",
+    "english": "bureaucracy",
+    "soundmark": "/bjʊəˈrɒkrəsi/"
+  },
+  {
+    "chinese": "改革",
+    "english": "reform",
+    "soundmark": "/rɪˈfɔːm/"
+  },
+  {
+    "chinese": "问责制",
+    "english": "accountability",
+    "soundmark": "/əˌkaʊntəˈbɪlɪti/"
+  },
+  {
+    "chinese": "透明度",
+    "english": "transparency",
+    "soundmark": "/trænzˈpærənsi/"
+  },
+  {
+    "chinese": "公共服务",
+    "english": "public service",
+    "soundmark": "/ˈpʌblɪk ˈsɜːvɪs/"
+  },
+  {
+    "chinese": "有效的公共部门规划需要长期的战略眼光",
+    "english": "effective public sector planning requires a long-term strategic vision",
+    "soundmark": "/ɪˈfektɪv ˈpʌblɪk ˈsektə ˈplænɪŋ rɪˈkwaɪəz ə lɒŋ-tɜːm strəˈtiːdʒɪk ˈvɪʒən/",
+    "grammar": [
+      {
+        "text": "effective",
+        "role": "A",
+        "phonetic": "/ɪˈfektɪv/",
+        "chinese": "有效的"
+      },
+      {
+        "text": "public",
+        "role": "A",
+        "phonetic": "/ˈpʌblɪk/",
+        "chinese": "公共的"
+      },
+      {
+        "text": "sector",
+        "role": "A",
+        "phonetic": "/ˈsektə/",
+        "chinese": ""
+      },
+      {
+        "text": "planning",
+        "role": "S",
+        "phonetic": "/ˈplænɪŋ/",
+        "chinese": "计划"
+      },
+      {
+        "text": "requires",
+        "role": "V",
+        "phonetic": "/rɪˈkwaɪəz/",
+        "chinese": "需要"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "long-term",
+        "role": "A",
+        "phonetic": "/ˈlɒŋ-tɜːm/",
+        "chinese": ""
+      },
+      {
+        "text": "strategic",
+        "role": "A",
+        "phonetic": "/strəˈtiːdʒɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "vision",
+        "role": "O",
+        "phonetic": "/ˈvɪʒən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "政府必须平衡经济发展与环境保护的需求",
+    "english": "the government must balance the needs of economic development and environmental protection",
+    "soundmark": "/ðə ˈɡʌvənmənt mʌst ˈbæləns ðə niːdz əv ˌiːkəˈnɒmɪk dɪˈveləpmənt ənd ɪnˌvaɪrənˈmentəl prəˈtekʃən/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "government",
+        "role": "S",
+        "phonetic": "/ˈɡʌvənmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "balance",
+        "role": "V",
+        "phonetic": "/ˈbæləns/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "needs",
+        "role": "O",
+        "phonetic": "/niːdz/",
+        "chinese": "需要"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "economic",
+        "role": "A",
+        "phonetic": "/ˌiːkəˈnɒmɪk/",
+        "chinese": "经济的"
+      },
+      {
+        "text": "development",
+        "role": "O",
+        "phonetic": "/dɪˈveləpmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "environmental",
+        "role": "A",
+        "phonetic": "/ɪnˌvaɪrənˈmentəl/",
+        "chinese": ""
+      },
+      {
+        "text": "protection",
+        "role": "O",
+        "phonetic": "/prəˈtekʃən/",
+        "chinese": "保护"
+      }
+    ]
+  },
+  {
+    "chinese": "资源的公平分配是公共政策的核心目标",
+    "english": "fair allocation of resources is a central goal of public policy",
+    "soundmark": "/feər ˌæləˈkeɪʃən əv rɪˈsɔːsɪz ɪz ə ˈsentrəl ɡəʊl əv ˈpʌblɪk ˈpɒlɪsi/",
+    "grammar": [
+      {
+        "text": "fair",
+        "role": "A",
+        "phonetic": "/feər/",
+        "chinese": "公平的"
+      },
+      {
+        "text": "allocation",
+        "role": "S",
+        "phonetic": "/ˌæləˈkeɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "resources",
+        "role": "O",
+        "phonetic": "/rɪˈsɔːsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "central",
+        "role": "A",
+        "phonetic": "/ˈsentrəl/",
+        "chinese": ""
+      },
+      {
+        "text": "goal",
+        "role": "C",
+        "phonetic": "/ɡəʊl/",
+        "chinese": "目标/进球"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "public",
+        "role": "A",
+        "phonetic": "/ˈpʌblɪk/",
+        "chinese": "公共的"
+      },
+      {
+        "text": "policy",
+        "role": "O",
+        "phonetic": "/ˈpɒlɪsi/",
+        "chinese": "政策"
+      }
+    ]
+  },
+  {
+    "chinese": "公共部门的改革往往面临官僚机构的阻力",
+    "english": "reform in the public sector often faces resistance from the bureaucracy",
+    "soundmark": "/rɪˈfɔːm ɪn ðə ˈpʌblɪk ˈsektə ˈɒfən ˈfeɪzɪz rɪˈzɪstəns frɒm ðə bjʊəˈrɒkrəsi/",
+    "grammar": [
+      {
+        "text": "reform",
+        "role": "S",
+        "phonetic": "/rɪˈfɔːm/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "public",
+        "role": "A",
+        "phonetic": "/ˈpʌblɪk/",
+        "chinese": "公共的"
+      },
+      {
+        "text": "sector",
+        "role": "O",
+        "phonetic": "/ˈsektə/",
+        "chinese": ""
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɒfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "faces",
+        "role": "V",
+        "phonetic": "/ˈfeɪzɪz/",
+        "chinese": "脸"
+      },
+      {
+        "text": "resistance",
+        "role": "O",
+        "phonetic": "/rɪˈzɪstəns/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bureaucracy",
+        "role": "O",
+        "phonetic": "/bjʊəˈrɒkrəsi/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "透明的决策过程对于建立公众信任至关重要",
+    "english": "transparent decision-making processes are essential for building public trust",
+    "soundmark": "/trænzˈpærənt dɪˈsɪʒən-meɪkɪŋ ˈprəʊsesɪz ɑːr ɪˈsenʃəl fɔː ˈbɪldɪŋ ˈpʌblɪk trʌst/",
+    "grammar": [
+      {
+        "text": "transparent",
+        "role": "A",
+        "phonetic": "/trænzˈpærənt/",
+        "chinese": ""
+      },
+      {
+        "text": "decision-making",
+        "role": "A",
+        "phonetic": "/dɪˈsɪʒən-meɪkɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "processes",
+        "role": "S",
+        "phonetic": "/ˈprəʊsesɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "essential",
+        "role": "C",
+        "phonetic": "/ɪˈsenʃəl/",
+        "chinese": "必要的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔː/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "building",
+        "role": "V",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "chinese": "建筑的/建筑物"
+      },
+      {
+        "text": "public",
+        "role": "A",
+        "phonetic": "/ˈpʌblɪk/",
+        "chinese": "公共的"
+      },
+      {
+        "text": "trust",
+        "role": "O",
+        "phonetic": "/trʌst/",
+        "chinese": "信任"
+      }
+    ]
+  },
+  {
+    "chinese": "官员必须对他们的决策向公众负责",
+    "english": "officials must be accountable to the public for their decisions",
+    "soundmark": "/əˈfɪʃəlz mʌst bi əˈkaʊntəbl tuː ðə ˈpʌblɪk fɔː ðeə dɪˈsɪʒənz/",
+    "grammar": [
+      {
+        "text": "officials",
+        "role": "S",
+        "phonetic": "/əˈfɪʃəlz/",
+        "chinese": ""
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/bi/",
+        "chinese": "是"
+      },
+      {
+        "text": "accountable",
+        "role": "C",
+        "phonetic": "/əˈkaʊntəbl/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "public",
+        "role": "O",
+        "phonetic": "/ˈpʌblɪk/",
+        "chinese": "公共的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔː/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðeə/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "decisions",
+        "role": "O",
+        "phonetic": "/dɪˈsɪʒənz/",
+        "chinese": "决定"
+      }
+    ]
+  },
+  {
+    "chinese": "基础设施建设是公共部门最重要的职能之一",
+    "english": "infrastructure development is one of the most important functions of the public sector",
+    "soundmark": "/ˈɪnfrəstrʌktʃə dɪˌveləpmənt ɪz wʌn əv ðə məʊst ɪmˈpɔːtənt ˈfʌŋkʃənz əv ðə ˈpʌblɪk ˈsektə/",
+    "grammar": [
+      {
+        "text": "infrastructure",
+        "role": "A",
+        "phonetic": "/ˈɪnfrəstrʌktʃə/",
+        "chinese": ""
+      },
+      {
+        "text": "development",
+        "role": "S",
+        "phonetic": "/dɪˌveləpmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "one",
+        "role": "C",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/məʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "important",
+        "role": "A",
+        "phonetic": "/ɪmˈpɔːtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "functions",
+        "role": "O",
+        "phonetic": "/ˈfʌŋkʃənz/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "public",
+        "role": "A",
+        "phonetic": "/ˈpʌblɪk/",
+        "chinese": "公共的"
+      },
+      {
+        "text": "sector",
+        "role": "O",
+        "phonetic": "/ˈsektə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "预算分配反映了政府的优先事项",
+    "english": "budget allocation reflects the government's priorities",
+    "soundmark": "/ˈbʌdʒɪt ˌæləˈkeɪʃən rɪˈflekts ðə ˈɡʌvənmənts praɪˈɒrɪtiz/",
+    "grammar": [
+      {
+        "text": "budget",
+        "role": "A",
+        "phonetic": "/ˈbʌdʒɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "allocation",
+        "role": "S",
+        "phonetic": "/ˌæləˈkeɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "reflects",
+        "role": "V",
+        "phonetic": "/rɪˈflekts/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "government's",
+        "role": "Det",
+        "phonetic": "/ˈɡʌvənmənts/",
+        "chinese": ""
+      },
+      {
+        "text": "priorities",
+        "role": "O",
+        "phonetic": "/praɪˈɒrɪtiz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "税收",
+    "english": "taxation",
+    "soundmark": "/tækˈseɪʃən/"
+  },
+  {
+    "chinese": "福利",
+    "english": "welfare",
+    "soundmark": "/ˈwelfeər/"
+  },
+  {
+    "chinese": "审计",
+    "english": "audit",
+    "soundmark": "/ˈɔːdɪt/"
+  },
+  {
+    "chinese": "监管",
+    "english": "regulation",
+    "soundmark": "/ˌreɡjʊˈleɪʃən/"
+  },
+  {
+    "chinese": "私有化",
+    "english": "privatization",
+    "soundmark": "/ˌpraɪvətaɪˈzeɪʃən/"
+  },
+  {
+    "chinese": "补贴",
+    "english": "subsidy",
+    "soundmark": "/ˈsʌbsɪdi/"
+  },
+  {
+    "chinese": "赤字",
+    "english": "deficit",
+    "soundmark": "/ˈdefɪsɪt/"
+  },
+  {
+    "chinese": "政府",
+    "english": "government",
+    "soundmark": "/ˈɡʌvənmənt/"
+  },
+  {
+    "chinese": "公共部门",
+    "english": "public sector",
+    "soundmark": "/ˈpʌblɪk ˈsektə/"
+  },
+  {
+    "chinese": "规划",
+    "english": "planning",
+    "soundmark": "/ˈplænɪŋ/"
+  },
+  {
+    "chinese": "政策",
+    "english": "policy",
+    "soundmark": "/ˈpɒlɪsi/"
+  }
+]

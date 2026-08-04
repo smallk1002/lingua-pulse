@@ -1,0 +1,205 @@
+[
+  {
+    "english": "man",
+    "chinese": "男人",
+    "soundmark": "/mæn/"
+  },
+  {
+    "english": "hat",
+    "chinese": "帽子",
+    "soundmark": "/hæt/"
+  },
+  {
+    "english": "wear",
+    "chinese": "戴",
+    "soundmark": "/wer/"
+  },
+  {
+    "chinese": "戴帽子的男人",
+    "english": "The man in a hat",
+    "soundmark": "/ðə mæn ɪn ə hæt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "hat",
+        "role": "O",
+        "phonetic": "/hæt/",
+        "chinese": "帽子"
+      }
+    ]
+  },
+  {
+    "chinese": "他戴着帽子",
+    "english": "He is wearing a hat",
+    "soundmark": "/hiː ɪz ˈwerɪŋ ə hæt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "wearing",
+        "role": "V",
+        "phonetic": "/ˈwerɪŋ/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "hat",
+        "role": "O",
+        "phonetic": "/hæt/",
+        "chinese": "帽子"
+      }
+    ]
+  },
+  {
+    "chinese": "那个男人是谁？",
+    "english": "Who is that man?",
+    "soundmark": "/huː ɪz ðæt mæn/",
+    "grammar": [
+      {
+        "text": "Who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "man",
+        "role": "C",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      }
+    ]
+  },
+  {
+    "chinese": "他是我的叔叔",
+    "english": "He is my uncle",
+    "soundmark": "/hiː ɪz maɪ ˈʌŋkəl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "uncle",
+        "role": "C",
+        "phonetic": "/ˈʌŋkəl/",
+        "chinese": "叔叔/舅舅"
+      }
+    ]
+  },
+  {
+    "chinese": "帽子很漂亮",
+    "english": "The hat is very nice",
+    "soundmark": "/ðə hæt ɪz ˈveri naɪs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "hat",
+        "role": "S",
+        "phonetic": "/hæt/",
+        "chinese": "帽子"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      }
+    ]
+  },
+  {
+    "english": "strange",
+    "chinese": "奇怪的",
+    "soundmark": "/streɪndʒ/"
+  },
+  {
+    "english": "recognize",
+    "chinese": "认出",
+    "soundmark": "/ˈrekəɡnaɪz/"
+  },
+  {
+    "english": "appearance",
+    "chinese": "外貌",
+    "soundmark": "/əˈpɪrəns/"
+  }
+]

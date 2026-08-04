@@ -1,0 +1,685 @@
+[
+  {
+    "chinese": "因人而异",
+    "english": "one man's meat is another man's poison",
+    "soundmark": "/wʌn/ /mænz/ /miːt/ /ɪz/ /əˈnʌðər/ /mænz/ /ˈpɔɪzən/"
+  },
+  {
+    "chinese": "偏好",
+    "english": "preference",
+    "soundmark": "/ˈprefərəns/"
+  },
+  {
+    "chinese": "厌恶",
+    "english": "dislike",
+    "soundmark": "/dɪsˈlaɪk/"
+  },
+  {
+    "chinese": "爱好",
+    "english": "hobby",
+    "soundmark": "/ˈhɑːbi/"
+  },
+  {
+    "chinese": "享受",
+    "english": "enjoy",
+    "soundmark": "/ɪnˈdʒɔɪ/"
+  },
+  {
+    "chinese": "忍受",
+    "english": "tolerate",
+    "soundmark": "/ˈtɑːləreɪt/"
+  },
+  {
+    "chinese": "口味",
+    "english": "taste",
+    "soundmark": "/teɪst/"
+  },
+  {
+    "chinese": "性格",
+    "english": "personality",
+    "soundmark": "/ˌpɜːrsəˈnæləti/"
+  },
+  {
+    "chinese": "主观的",
+    "english": "subjective",
+    "soundmark": "/səbˈdʒektɪv/"
+  },
+  {
+    "chinese": "客观的",
+    "english": "objective",
+    "soundmark": "/əbˈdʒektɪv/"
+  },
+  {
+    "chinese": "截然不同",
+    "english": "completely different",
+    "soundmark": "/kəmˈpliːtli/ /ˈdɪfərənt/"
+  },
+  {
+    "chinese": "个性",
+    "english": "individuality",
+    "soundmark": "/ˌɪndɪˌvɪdʒuˈæləti/"
+  },
+  {
+    "chinese": "欣赏",
+    "english": "appreciate",
+    "soundmark": "/əˈpriːʃieɪt/"
+  },
+  {
+    "chinese": "讨厌",
+    "english": "hate",
+    "soundmark": "/heɪt/"
+  },
+  {
+    "chinese": "甲之蜜糖乙之砒霜",
+    "english": "what is one man's delight is another's disgust",
+    "soundmark": "/wɑːt/ /ɪz/ /wʌn/ /mænz/ /dɪˈlaɪt/ /ɪz/ /əˈnʌðərz/ /dɪsˈɡʌst/"
+  },
+  {
+    "chinese": "人们的口味千差万别",
+    "english": "People's tastes vary enormously",
+    "soundmark": "/ˈpiːpəlz/ /teɪsts/ /ˈveri/ /ɪˈnɔːrməsli/",
+    "grammar": [
+      {
+        "text": "People's",
+        "role": "Det",
+        "phonetic": "/ˈpiːpəlz/",
+        "chinese": "人们"
+      },
+      {
+        "text": "tastes",
+        "role": "S",
+        "phonetic": "/teɪsts/",
+        "chinese": "尝/味道"
+      },
+      {
+        "text": "vary",
+        "role": "V",
+        "phonetic": "/ˈveri/",
+        "chinese": ""
+      },
+      {
+        "text": "enormously",
+        "role": "Adv",
+        "phonetic": "/ɪˈnɔːrməsli/",
+        "chinese": "…地(庞大的)"
+      }
+    ]
+  },
+  {
+    "chinese": "对一个人来说是享受的东西对另一个人来说可能是毒药",
+    "english": "What one person enjoys another may find distasteful",
+    "soundmark": "/wɑːt/ /wʌn/ /ˈpɜːrsən/ /ɪnˈdʒɔɪz/ /əˈnʌðər/ /meɪ/ /faɪnd/ /dɪsˈteɪstfəl/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wɑːt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "one",
+        "role": "Det",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "person",
+        "role": "S",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "enjoys",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪz/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "another",
+        "role": "S",
+        "phonetic": "/əˈnʌðər/",
+        "chinese": "另一个"
+      },
+      {
+        "text": "may",
+        "role": "Aux",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "distasteful",
+        "role": "C",
+        "phonetic": "/dɪsˈteɪstfəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我喜欢古典音乐但他更喜欢流行音乐",
+    "english": "I enjoy classical music but he prefers pop music",
+    "soundmark": "/aɪ/ /ɪnˈdʒɔɪ/ /ˈklæsɪkəl/ /ˈmjuːzɪk/ /bʌt/ /hiː/ /prɪˈfɜːrs/ /pɑːp/ /ˈmjuːzɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "enjoy",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "classical",
+        "role": "A",
+        "phonetic": "/ˈklæsɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "music",
+        "role": "O",
+        "phonetic": "/ˈmjuːzɪk/",
+        "chinese": "音乐"
+      },
+      {
+        "text": "but",
+        "role": "A",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "prefers",
+        "role": "V",
+        "phonetic": "/prɪˈfɜːrs/",
+        "chinese": ""
+      },
+      {
+        "text": "pop",
+        "role": "A",
+        "phonetic": "/pɑːp/",
+        "chinese": ""
+      },
+      {
+        "text": "music",
+        "role": "O",
+        "phonetic": "/ˈmjuːzɪk/",
+        "chinese": "音乐"
+      }
+    ]
+  },
+  {
+    "chinese": "每个人对食物的偏好取决于他的文化和成长经历",
+    "english": "Each person's preference for food depends on their culture and upbringing",
+    "soundmark": "/iːtʃ/ /ˈpɜːrsənz/ /ˈprefərəns/ /fɔːr/ /fuːd/ /dɪˈpɛndz/ /ɑːn/ /ðer/ /ˈkʌltʃər/ /ənd/ /ˈʌpˌbrɪŋɪŋ/",
+    "grammar": [
+      {
+        "text": "Each",
+        "role": "Det",
+        "phonetic": "/iːtʃ/",
+        "chinese": "每个"
+      },
+      {
+        "text": "person's",
+        "role": "Det",
+        "phonetic": "/ˈpɜːrsənz/",
+        "chinese": "人"
+      },
+      {
+        "text": "preference",
+        "role": "S",
+        "phonetic": "/ˈprefərəns/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "food",
+        "role": "O",
+        "phonetic": "/fuːd/",
+        "chinese": "食物"
+      },
+      {
+        "text": "depends",
+        "role": "V",
+        "phonetic": "/dɪˈpɛndz/",
+        "chinese": "依赖"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "culture",
+        "role": "O",
+        "phonetic": "/ˈkʌltʃər/",
+        "chinese": "文化"
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "upbringing",
+        "role": "O",
+        "phonetic": "/ˈʌpˌbrɪŋɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "有些人觉得辣味食物令人难以忍受",
+    "english": "Some people find spicy food intolerable",
+    "soundmark": "/sʌm/ /ˈpiːpəl/ /faɪnd/ /ˈspaɪsi/ /fuːd/ /ɪnˈtɑːlərəbəl/",
+    "grammar": [
+      {
+        "text": "Some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "spicy",
+        "role": "A",
+        "phonetic": "/ˈspaɪsi/",
+        "chinese": "辣的"
+      },
+      {
+        "text": "food",
+        "role": "O",
+        "phonetic": "/fuːd/",
+        "chinese": "食物"
+      },
+      {
+        "text": "intolerable",
+        "role": "C",
+        "phonetic": "/ɪnˈtɑːlərəbəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我受不了苦瓜但我弟弟却爱吃",
+    "english": "I cannot stand bitter melon but my brother loves it",
+    "soundmark": "/aɪ/ /ˈkænɑːt/ /stænd/ /ˈbɪtər/ /ˈmelən/ /bʌt/ /maɪ/ /ˈbrʌðər/ /lʌvz/ /ɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "stand",
+        "role": "V",
+        "phonetic": "/stænd/",
+        "chinese": ""
+      },
+      {
+        "text": "bitter",
+        "role": "A",
+        "phonetic": "/ˈbɪtər/",
+        "chinese": "苦的"
+      },
+      {
+        "text": "melon",
+        "role": "O",
+        "phonetic": "/ˈmelən/",
+        "chinese": ""
+      },
+      {
+        "text": "but",
+        "role": "A",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "brother",
+        "role": "S",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      },
+      {
+        "text": "loves",
+        "role": "V",
+        "phonetic": "/lʌvz/",
+        "chinese": "爱"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "对艺术和美的看法是非常主观的",
+    "english": "Views on art and beauty are highly subjective",
+    "soundmark": "/vjuːz/ /ɑːn/ /ɑːrt/ /ənd/ /ˈbjuːti/ /ɑːr/ /ˈhaɪli/ /səbˈdʒektɪv/",
+    "grammar": [
+      {
+        "text": "Views",
+        "role": "S",
+        "phonetic": "/vjuːz/",
+        "chinese": "观点/景色"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "art",
+        "role": "O",
+        "phonetic": "/ɑːrt/",
+        "chinese": "艺术"
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "beauty",
+        "role": "O",
+        "phonetic": "/ˈbjuːti/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "highly",
+        "role": "Adv",
+        "phonetic": "/ˈhaɪli/",
+        "chinese": "高度地"
+      },
+      {
+        "text": "subjective",
+        "role": "C",
+        "phonetic": "/səbˈdʒektɪv/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他无法理解为什么有人会不喜欢阅读",
+    "english": "He cannot understand why anyone would dislike reading",
+    "soundmark": "/hiː/ /ˈkænɑːt/ /ˌʌndərˈstænd/ /waɪ/ /ˈeniwʌn/ /wʊd/ /dɪsˈlaɪk/ /ˈriːdɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "why",
+        "role": "Adv",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "anyone",
+        "role": "S",
+        "phonetic": "/ˈeniwʌn/",
+        "chinese": "任何人"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "dislike",
+        "role": "V",
+        "phonetic": "/dɪsˈlaɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "reading",
+        "role": "O",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      }
+    ]
+  },
+  {
+    "chinese": "有些人喜欢冒险而另一些人则更看重安全感",
+    "english": "Some people enjoy taking risks while others value security more",
+    "soundmark": "/sʌm/ /ˈpiːpəl/ /ɪnˈdʒɔɪ/ /ˈteɪkɪŋ/ /rɪsks/ /waɪl/ /ˈʌðərz/ /ˈvæljuː/ /sɪˈkjʊrəti/ /mɔːr/",
+    "grammar": [
+      {
+        "text": "Some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "enjoy",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "taking",
+        "role": "V",
+        "phonetic": "/ˈteɪkɪŋ/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "risks",
+        "role": "O",
+        "phonetic": "/rɪsks/",
+        "chinese": ""
+      },
+      {
+        "text": "while",
+        "role": "A",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "others",
+        "role": "S",
+        "phonetic": "/ˈʌðərz/",
+        "chinese": "其他"
+      },
+      {
+        "text": "value",
+        "role": "V",
+        "phonetic": "/ˈvæljuː/",
+        "chinese": "价值"
+      },
+      {
+        "text": "security",
+        "role": "O",
+        "phonetic": "/sɪˈkjʊrəti/",
+        "chinese": ""
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      }
+    ]
+  },
+  {
+    "chinese": "一个人的坏习惯可能恰恰是另一个人的优点",
+    "english": "One person's bad habit may be another person's virtue",
+    "soundmark": "/wʌn/ /ˈpɜːrsənz/ /bæd/ /ˈhæbɪt/ /meɪ/ /biː/ /əˈnʌðər/ /ˈpɜːrsənz/ /ˈvɜːrtʃuː/",
+    "grammar": [
+      {
+        "text": "One",
+        "role": "Det",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "person's",
+        "role": "Det",
+        "phonetic": "/ˈpɜːrsənz/",
+        "chinese": "人"
+      },
+      {
+        "text": "bad",
+        "role": "A",
+        "phonetic": "/bæd/",
+        "chinese": "坏的"
+      },
+      {
+        "text": "habit",
+        "role": "S",
+        "phonetic": "/ˈhæbɪt/",
+        "chinese": "习惯"
+      },
+      {
+        "text": "may",
+        "role": "Aux",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "another",
+        "role": "Det",
+        "phonetic": "/əˈnʌðər/",
+        "chinese": "另一个"
+      },
+      {
+        "text": "person's",
+        "role": "Det",
+        "phonetic": "/ˈpɜːrsənz/",
+        "chinese": "人"
+      },
+      {
+        "text": "virtue",
+        "role": "C",
+        "phonetic": "/ˈvɜːrtʃuː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "习惯",
+    "english": "habit",
+    "soundmark": "/ˈhæbɪt/"
+  },
+  {
+    "chinese": "文化",
+    "english": "culture",
+    "soundmark": "/ˈkʌltʃər/"
+  },
+  {
+    "chinese": "经历",
+    "english": "experience",
+    "soundmark": "/ɪkˈspɪriəns/"
+  },
+  {
+    "chinese": "忍受",
+    "english": "stand",
+    "soundmark": "/stænd/"
+  },
+  {
+    "chinese": "偏好",
+    "english": "inclination",
+    "soundmark": "/ˌɪnklɪˈneɪʃən/"
+  },
+  {
+    "chinese": "不同",
+    "english": "differ",
+    "soundmark": "/ˈdɪfər/"
+  },
+  {
+    "chinese": "安全",
+    "english": "security",
+    "soundmark": "/sɪˈkjʊrəti/"
+  },
+  {
+    "chinese": "美德",
+    "english": "virtue",
+    "soundmark": "/ˈvɜːrtʃuː/"
+  }
+]

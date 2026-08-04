@@ -1,0 +1,853 @@
+[
+  {
+    "chinese": "背诵",
+    "english": "learn by heart",
+    "soundmark": "/lɜːrn/ /baɪ/ /hɑːrt/"
+  },
+  {
+    "chinese": "诗",
+    "english": "poem",
+    "soundmark": "/ˈpoʊɪm/"
+  },
+  {
+    "chinese": "大声朗读",
+    "english": "read aloud",
+    "soundmark": "/riːd/ /əˈlaʊd/"
+  },
+  {
+    "chinese": "重复",
+    "english": "repeat",
+    "soundmark": "/rɪˈpiːt/"
+  },
+  {
+    "chinese": "记忆",
+    "english": "memorize",
+    "soundmark": "/ˈmeməraɪz/"
+  },
+  {
+    "chinese": "节奏",
+    "english": "rhythm",
+    "soundmark": "/ˈrɪðəm/"
+  },
+  {
+    "chinese": "韵律",
+    "english": "rhyme",
+    "soundmark": "/raɪm/"
+  },
+  {
+    "chinese": "诗节",
+    "english": "stanza",
+    "soundmark": "/ˈstænzə/"
+  },
+  {
+    "chinese": "注意力",
+    "english": "attention",
+    "soundmark": "/əˈtenʃən/"
+  },
+  {
+    "chinese": "集中注意力",
+    "english": "pay attention to",
+    "soundmark": "/peɪ/ /əˈtenʃən/ /tuː/"
+  },
+  {
+    "chinese": "流畅地",
+    "english": "fluently",
+    "soundmark": "/ˈfluːəntli/"
+  },
+  {
+    "chinese": "流利",
+    "english": "flow",
+    "soundmark": "/floʊ/"
+  },
+  {
+    "chinese": "韵律感",
+    "english": "sense of rhythm",
+    "soundmark": "/sens/ /əv/ /ˈrɪðəm/"
+  },
+  {
+    "chinese": "背诵诗歌",
+    "english": "recite a poem",
+    "soundmark": "/rɪˈsaɪt/ /ə/ /ˈpoʊɪm/"
+  },
+  {
+    "chinese": "记单词",
+    "english": "memorize vocabulary",
+    "soundmark": "/ˈmeməraɪz/ /vəˈkæbjəleri/"
+  },
+  {
+    "chinese": "他很快就把这首诗背下来了",
+    "english": "He learned the poem by heart very quickly",
+    "soundmark": "/hiː/ /lɜːrnd/ /ðə/ /ˈpoʊɪm/ /baɪ/ /hɑːrt/ /ˈveri/ /ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "learned",
+        "role": "V",
+        "phonetic": "/lɜːrnd/",
+        "chinese": "学习"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "poem",
+        "role": "O",
+        "phonetic": "/ˈpoʊɪm/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "heart",
+        "role": "A",
+        "phonetic": "/hɑːrt/",
+        "chinese": "心"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "quickly",
+        "role": "Adv",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "她一遍又一遍地大声朗读直到记住为止",
+    "english": "She read it aloud over and over again until she memorized it",
+    "soundmark": "/ʃiː/ /red/ /ɪt/ /əˈlaʊd/ /ˈoʊvər/ /ənd/ /ˈoʊvər/ /əˈɡen/ /ʌnˈtɪl/ ʃiː/ /ˈmeməraɪzd/ /ɪt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/red/",
+        "chinese": "读"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "aloud",
+        "role": "Adv",
+        "phonetic": "/əˈlaʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "over",
+        "role": "Adv",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "over",
+        "role": "Adv",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "again",
+        "role": "Adv",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      },
+      {
+        "text": "until",
+        "role": "P",
+        "phonetic": "/ʌnˈtɪl/",
+        "chinese": "直到"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "memorized",
+        "role": "V",
+        "phonetic": "/ˈmeməraɪzd/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "记住这首诗的每个词花了我半个小时",
+    "english": "It took me half an hour to memorize every word of the poem",
+    "soundmark": "/ɪt/ /tʊk/ /miː/ /hæf/ /ən/ /ˈaʊər/ /tuː/ /ˈmeməraɪz/ /ˈevri/ /wɜːrd/ /əv/ /ðə/ /ˈpoʊɪm/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "half",
+        "role": "Det",
+        "phonetic": "/hæf/",
+        "chinese": "一半"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "hour",
+        "role": "O",
+        "phonetic": "/ˈaʊər/",
+        "chinese": "小时"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "memorize",
+        "role": "V",
+        "phonetic": "/ˈmeməraɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "word",
+        "role": "O",
+        "phonetic": "/wɜːrd/",
+        "chinese": "单词"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "poem",
+        "role": "O",
+        "phonetic": "/ˈpoʊɪm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他注意力不集中所以经常忘记背过的东西",
+    "english": "He does not pay attention so he often forgets what he has learned",
+    "soundmark": "/hiː/ /dʌz/ /nɑːt/ /peɪ/ /əˈtenʃən/ /soʊ/ /hiː/ /ˈɔːfən/ /fərˈɡets/ /wɑːt/ /hiː/ /hæz/ /lɜːrnd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "does",
+        "role": "Aux",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "pay",
+        "role": "V",
+        "phonetic": "/peɪ/",
+        "chinese": "付钱"
+      },
+      {
+        "text": "attention",
+        "role": "O",
+        "phonetic": "/əˈtenʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "so",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "forgets",
+        "role": "V",
+        "phonetic": "/fərˈɡets/",
+        "chinese": "忘记"
+      },
+      {
+        "text": "what",
+        "role": "O",
+        "phonetic": "/wɑːt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "learned",
+        "role": "V",
+        "phonetic": "/lɜːrnd/",
+        "chinese": "学习"
+      }
+    ]
+  },
+  {
+    "chinese": "要想背得快就得先理解诗歌的含义",
+    "english": "To memorize quickly you need to understand the meaning of the poem first",
+    "soundmark": "/tuː/ /ˈmeməraɪz/ /ˈkwɪkli/ /juː/ /niːd/ /tuː/ /ˌʌndərˈstænd/ /ðə/ /ˈmiːnɪŋ/ /əv/ /ðə/ /ˈpoʊɪm/ /fɜːrst/",
+    "grammar": [
+      {
+        "text": "To",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "memorize",
+        "role": "V",
+        "phonetic": "/ˈmeməraɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "quickly",
+        "role": "Adv",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meaning",
+        "role": "O",
+        "phonetic": "/ˈmiːnɪŋ/",
+        "chinese": "意思是/刻薄的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "poem",
+        "role": "O",
+        "phonetic": "/ˈpoʊɪm/",
+        "chinese": ""
+      },
+      {
+        "text": "first",
+        "role": "Adv",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      }
+    ]
+  },
+  {
+    "chinese": "老师要求我们把这首诗的每一节都背下来",
+    "english": "The teacher asked us to learn every stanza of the poem by heart",
+    "soundmark": "/ðə/ /ˈtiːtʃər/ /æskt/ /ʌs/ /tuː/ /lɜːrn/ /ˈevri/ /ˈstænzə/ /əv/ /ðə/ /ˈpoʊɪm/ /baɪ/ /hɑːrt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "teacher",
+        "role": "S",
+        "phonetic": "/ˈtiːtʃər/",
+        "chinese": "老师"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "learn",
+        "role": "V",
+        "phonetic": "/lɜːrn/",
+        "chinese": "学习"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "stanza",
+        "role": "O",
+        "phonetic": "/ˈstænzə/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "poem",
+        "role": "O",
+        "phonetic": "/ˈpoʊɪm/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "heart",
+        "role": "A",
+        "phonetic": "/hɑːrt/",
+        "chinese": "心"
+      }
+    ]
+  },
+  {
+    "chinese": "诗歌的韵律有助于记忆",
+    "english": "The rhythm and rhyme of a poem help with memorization",
+    "soundmark": "/ðə/ /ˈrɪðəm/ /ənd/ /raɪm/ /əv/ /ə/ /ˈpoʊɪm/ /help/ /wɪð/ /ˌmemərəˈzeɪʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rhythm",
+        "role": "S",
+        "phonetic": "/ˈrɪðəm/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "rhyme",
+        "role": "S",
+        "phonetic": "/raɪm/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "poem",
+        "role": "O",
+        "phonetic": "/ˈpoʊɪm/",
+        "chinese": ""
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "memorization",
+        "role": "O",
+        "phonetic": "/ˌmemərəˈzeɪʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我能够不假思索地背出整首诗",
+    "english": "I can recite the whole poem without thinking",
+    "soundmark": "/aɪ/ /kæn/ /rɪˈsaɪt/ /ðə/ /hoʊl/ /ˈpoʊɪm/ /wɪˈðaʊt/ /ˈθɪŋkɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "recite",
+        "role": "V",
+        "phonetic": "/rɪˈsaɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "A",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "poem",
+        "role": "O",
+        "phonetic": "/ˈpoʊɪm/",
+        "chinese": ""
+      },
+      {
+        "text": "without",
+        "role": "P",
+        "phonetic": "/wɪˈðaʊt/",
+        "chinese": "没有"
+      },
+      {
+        "text": "thinking",
+        "role": "O",
+        "phonetic": "/ˈθɪŋkɪŋ/",
+        "chinese": "思考的"
+      }
+    ]
+  },
+  {
+    "chinese": "反复练习是流利背诵的关键",
+    "english": "Repeated practice is the key to fluent recitation",
+    "soundmark": "/rɪˈpiːtɪd/ /ˈpræktɪs/ /ɪz/ /ðə/ /kiː/ /tuː/ /ˈfluːənt/ /ˌresɪˈteɪʃən/",
+    "grammar": [
+      {
+        "text": "Repeated",
+        "role": "A",
+        "phonetic": "/rɪˈpiːtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "practice",
+        "role": "S",
+        "phonetic": "/ˈpræktɪs/",
+        "chinese": "练习/实践"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "key",
+        "role": "C",
+        "phonetic": "/kiː/",
+        "chinese": "钥匙"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "fluent",
+        "role": "A",
+        "phonetic": "/ˈfluːənt/",
+        "chinese": ""
+      },
+      {
+        "text": "recitation",
+        "role": "O",
+        "phonetic": "/ˌresɪˈteɪʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她闭上眼睛试图回忆起这首诗的最后一行",
+    "english": "She closed her eyes trying to recall the last line of the poem",
+    "soundmark": "/ʃiː/ /kloʊzd/ /hər/ /aɪz/ /ˈtraɪɪŋ/ /tuː/ /rɪˈkɔːl/ /ðə/ /læst/ /laɪn/ /əv/ /ðə/ /ˈpoʊɪm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "closed",
+        "role": "V",
+        "phonetic": "/kloʊzd/",
+        "chinese": "关闭的"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hər/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "eyes",
+        "role": "O",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      },
+      {
+        "text": "trying",
+        "role": "V",
+        "phonetic": "/ˈtraɪɪŋ/",
+        "chinese": "尝试的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "recall",
+        "role": "V",
+        "phonetic": "/rɪˈkɔːl/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "line",
+        "role": "O",
+        "phonetic": "/laɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "poem",
+        "role": "O",
+        "phonetic": "/ˈpoʊɪm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "诗",
+    "english": "poetry",
+    "soundmark": "/ˈpoʊətri/"
+  },
+  {
+    "chinese": "背诵",
+    "english": "recite",
+    "soundmark": "/rɪˈsaɪt/"
+  },
+  {
+    "chinese": "复习",
+    "english": "review",
+    "soundmark": "/rɪˈvjuː/"
+  },
+  {
+    "chinese": "记住",
+    "english": "retain",
+    "soundmark": "/rɪˈteɪn/"
+  },
+  {
+    "chinese": "理解",
+    "english": "understand",
+    "soundmark": "/ˌʌndərˈstænd/"
+  },
+  {
+    "chinese": "流利",
+    "english": "fluent",
+    "soundmark": "/ˈfluːənt/"
+  },
+  {
+    "chinese": "练习",
+    "english": "practice",
+    "soundmark": "/ˈpræktɪs/"
+  },
+  {
+    "chinese": "含义",
+    "english": "meaning",
+    "soundmark": "/ˈmiːnɪŋ/"
+  }
+]

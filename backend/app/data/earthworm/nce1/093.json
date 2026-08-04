@@ -1,0 +1,280 @@
+[
+  {
+    "english": "escape",
+    "chinese": "逃脱",
+    "soundmark": "/ɪˈskeɪp/"
+  },
+  {
+    "english": "narrow",
+    "chinese": "狭窄的",
+    "soundmark": "/ˈnæroʊ/"
+  },
+  {
+    "english": "accident",
+    "chinese": "事故",
+    "soundmark": "/ˈæksɪdənt/"
+  },
+  {
+    "english": "brake",
+    "chinese": "刹车",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "english": "crash",
+    "chinese": "碰撞",
+    "soundmark": "/kræʃ/"
+  },
+  {
+    "english": "lucky",
+    "chinese": "幸运的",
+    "soundmark": "/ˈlʌki/"
+  },
+  {
+    "chinese": "他侥幸逃过了一场车祸",
+    "english": "He narrowly escaped a car accident",
+    "soundmark": "/hiː ˈnæroʊli ɪˈskeɪpt ə kɑːr ˈæksɪdənt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "narrowly",
+        "role": "Adv",
+        "phonetic": "/ˈnæroʊli/",
+        "chinese": "…地(窄的)"
+      },
+      {
+        "text": "escaped",
+        "role": "V",
+        "phonetic": "/ɪˈskeɪpt/",
+        "chinese": "逃离"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "car",
+        "role": "Det",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "accident",
+        "role": "O",
+        "phonetic": "/ˈæksɪdənt/",
+        "chinese": "事故"
+      }
+    ]
+  },
+  {
+    "chinese": "司机及时刹车避免了一场灾难",
+    "english": "The driver braked in time to avoid a disaster",
+    "soundmark": "/ðə ˈdraɪvər breɪkt ɪn taɪm tə əˈvɔɪd ə dɪˈzæstər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "driver",
+        "role": "S",
+        "phonetic": "/ˈdraɪvər/",
+        "chinese": "司机"
+      },
+      {
+        "text": "braked",
+        "role": "V",
+        "phonetic": "/breɪkt/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "avoid",
+        "role": "V",
+        "phonetic": "/əˈvɔɪd/",
+        "chinese": "避免"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "disaster",
+        "role": "O",
+        "phonetic": "/dɪˈzæstər/",
+        "chinese": "灾难"
+      }
+    ]
+  },
+  {
+    "chinese": "那是一次九死一生的经历",
+    "english": "It was a narrow escape",
+    "soundmark": "/ɪt wʌz ə ˈnæroʊ ɪˈskeɪp/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "narrow",
+        "role": "Det",
+        "phonetic": "/ˈnæroʊ/",
+        "chinese": "窄的"
+      },
+      {
+        "text": "escape",
+        "role": "C",
+        "phonetic": "/ɪˈskeɪp/",
+        "chinese": "逃离"
+      }
+    ]
+  },
+  {
+    "chinese": "我们都很庆幸没有人受伤",
+    "english": "We were all relieved that no one was hurt",
+    "soundmark": "/wiː wɜːr ɔːl rɪˈliːvd ðæt noʊ wʌn wʌz hɜːrt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "all",
+        "role": "Adv",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "relieved",
+        "role": "V",
+        "phonetic": "/rɪˈliːvd/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "Conj",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "hurt",
+        "role": "V",
+        "phonetic": "/hɜːrt/",
+        "chinese": "伤害"
+      }
+    ]
+  },
+  {
+    "chinese": "真是太危险了！",
+    "english": "It was so dangerous!",
+    "soundmark": "/ɪt wʌz soʊ ˈdeɪndʒərəs/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "dangerous",
+        "role": "C",
+        "phonetic": "/ˈdeɪndʒərəs/",
+        "chinese": "危险的"
+      }
+    ]
+  },
+  {
+    "english": "terrified",
+    "chinese": "恐惧的",
+    "soundmark": "/ˈterɪfaɪd/"
+  },
+  {
+    "english": "relief",
+    "chinese": "宽慰",
+    "soundmark": "/rɪˈliːf/"
+  },
+  {
+    "english": "close",
+    "chinese": "接近的",
+    "soundmark": "/kloʊs/"
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "chinese": "中国人",
+    "english": "Chinese",
+    "soundmark": "/tʃaɪˈniːz/"
+  },
+  {
+    "chinese": "美国人",
+    "english": "American",
+    "soundmark": "/əˈmerɪkən/"
+  },
+  {
+    "chinese": "英国人",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "chinese": "法国人",
+    "english": "French",
+    "soundmark": "/frentʃ/"
+  },
+  {
+    "chinese": "德国人",
+    "english": "German",
+    "soundmark": "/ˈdʒɜːrmən/"
+  },
+  {
+    "chinese": "日本人",
+    "english": "Japanese",
+    "soundmark": "/ˌdʒæpəˈniːz/"
+  },
+  {
+    "chinese": "韩国人",
+    "english": "Korean",
+    "soundmark": "/kəˈriːən/"
+  },
+  {
+    "chinese": "意大利人",
+    "english": "Italian",
+    "soundmark": "/ɪˈtæliən/"
+  },
+  {
+    "chinese": "西班牙人",
+    "english": "Spanish",
+    "soundmark": "/ˈspænɪʃ/"
+  },
+  {
+    "chinese": "俄罗斯人",
+    "english": "Russian",
+    "soundmark": "/ˈrʌʃən/"
+  },
+  {
+    "chinese": "巴西人",
+    "english": "Brazilian",
+    "soundmark": "/brəˈzɪliən/"
+  },
+  {
+    "chinese": "印度人",
+    "english": "Indian",
+    "soundmark": "/ˈɪndiən/"
+  },
+  {
+    "chinese": "希腊人",
+    "english": "Greek",
+    "soundmark": "/ɡriːk/"
+  },
+  {
+    "chinese": "荷兰人",
+    "english": "Dutch",
+    "soundmark": "/dʌtʃ/"
+  },
+  {
+    "chinese": "挪威人",
+    "english": "Norwegian",
+    "soundmark": "/nɔːrˈwiːdʒən/"
+  },
+  {
+    "chinese": "土耳其人",
+    "english": "Turkish",
+    "soundmark": "/ˈtɜːrkɪʃ/"
+  },
+  {
+    "chinese": "国籍",
+    "english": "nationality",
+    "soundmark": "/ˌnæʃəˈnæləti/"
+  },
+  {
+    "chinese": "你是什么国籍",
+    "english": "What nationality are you",
+    "soundmark": "/wʌt/ /ˌnæʃəˈnæləti/ /ɑːr/ /juː/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "nationality",
+        "role": "S",
+        "phonetic": "/ˌnæʃəˈnæləti/",
+        "chinese": "国籍"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "我是中国人",
+    "english": "I am Chinese",
+    "soundmark": "/aɪ/ /æm/ /tʃaɪˈniːz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "Chinese",
+        "role": "C",
+        "phonetic": "/tʃaɪˈniːz/",
+        "chinese": "中国人/中文"
+      }
+    ]
+  },
+  {
+    "chinese": "你是美国人吗",
+    "english": "Are you American",
+    "soundmark": "/ɑːr/ /juː/ /əˈmerɪkən/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "American",
+        "role": "C",
+        "phonetic": "/əˈmerɪkən/",
+        "chinese": "美国人"
+      }
+    ]
+  },
+  {
+    "chinese": "不我是英国人",
+    "english": "No I am English",
+    "soundmark": "/noʊ/ /aɪ/ /æm/ /ˈɪŋɡlɪʃ/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "English",
+        "role": "C",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      }
+    ]
+  },
+  {
+    "chinese": "他来自德国",
+    "english": "He comes from Germany",
+    "soundmark": "/hiː/ /kʌmz/ /frʌm/ /ˈdʒɜːrməni/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "comes",
+        "role": "V",
+        "phonetic": "/kʌmz/",
+        "chinese": "来"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "Germany",
+        "role": "O",
+        "phonetic": "/ˈdʒɜːrməni/",
+        "chinese": "德国"
+      }
+    ]
+  },
+  {
+    "chinese": "她是法国人吗",
+    "english": "Is she French",
+    "soundmark": "/ɪz/ /ʃiː/ /frentʃ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "French",
+        "role": "C",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      }
+    ]
+  },
+  {
+    "chinese": "是的她来自巴黎",
+    "english": "Yes she comes from Paris",
+    "soundmark": "/jes/ /ʃiː/ /kʌmz/ /frʌm/ /ˈpærɪs/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "comes",
+        "role": "V",
+        "phonetic": "/kʌmz/",
+        "chinese": "来"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "Paris",
+        "role": "O",
+        "phonetic": "/ˈpærɪs/",
+        "chinese": "巴黎"
+      }
+    ]
+  },
+  {
+    "chinese": "我也是中国人",
+    "english": "I am Chinese too",
+    "soundmark": "/aɪ/ /æm/ /tʃaɪˈniːz/ /tuː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "Chinese",
+        "role": "C",
+        "phonetic": "/tʃaɪˈniːz/",
+        "chinese": "中国人/中文"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      }
+    ]
+  },
+  {
+    "chinese": "他们不是日本人",
+    "english": "They are not Japanese",
+    "soundmark": "/ðeɪ/ /ɑːr/ /nɑːt/ /ˌdʒæpəˈniːz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "Japanese",
+        "role": "C",
+        "phonetic": "/ˌdʒæpəˈniːz/",
+        "chinese": "日本人/日语"
+      }
+    ]
+  },
+  {
+    "chinese": "我们是韩国人",
+    "english": "We are Korean",
+    "soundmark": "/wiː/ /ɑːr/ /kəˈriːən/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "Korean",
+        "role": "C",
+        "phonetic": "/kəˈriːən/",
+        "chinese": "韩国人/韩语"
+      }
+    ]
+  },
+  {
+    "chinese": "他来自罗马他是意大利人",
+    "english": "He comes from Rome he is Italian",
+    "soundmark": "/hiː/ /kʌmz/ /frʌm/ /roʊm/ /hiː/ /ɪz/ /ɪˈtæliən/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "comes",
+        "role": "V",
+        "phonetic": "/kʌmz/",
+        "chinese": "来"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "Rome",
+        "role": "O",
+        "phonetic": "/roʊm/",
+        "chinese": ""
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Italian",
+        "role": "C",
+        "phonetic": "/ɪˈtæliən/",
+        "chinese": "意大利人"
+      }
+    ]
+  },
+  {
+    "chinese": "她是西班牙人她来自马德里",
+    "english": "She is Spanish she comes from Madrid",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈspænɪʃ/ /ʃiː/ /kʌmz/ /frʌm/ /məˈdrɪd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Spanish",
+        "role": "C",
+        "phonetic": "/ˈspænɪʃ/",
+        "chinese": "西班牙人/西班牙语"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "comes",
+        "role": "V",
+        "phonetic": "/kʌmz/",
+        "chinese": "来"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "Madrid",
+        "role": "O",
+        "phonetic": "/məˈdrɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你朋友是哪里人她是俄罗斯人",
+    "english": "What nationality is your friend she is Russian",
+    "soundmark": "/wʌt/ /ˌnæʃəˈnæləti/ /ɪz/ /jɔːr/ /frend/ /ʃiː/ /ɪz/ /ˈrʌʃən/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "nationality",
+        "role": "S",
+        "phonetic": "/ˌnæʃəˈnæləti/",
+        "chinese": "国籍"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "friend",
+        "role": "C",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Russian",
+        "role": "C",
+        "phonetic": "/ˈrʌʃən/",
+        "chinese": "俄国人/俄语"
+      }
+    ]
+  },
+  {
+    "chinese": "他们",
+    "english": "they",
+    "soundmark": "/ðeɪ/"
+  },
+  {
+    "chinese": "我们",
+    "english": "we",
+    "soundmark": "/wiː/"
+  },
+  {
+    "chinese": "来自",
+    "english": "comes from",
+    "soundmark": "/kʌmz/ /frʌm/"
+  },
+  {
+    "chinese": "巴黎",
+    "english": "Paris",
+    "soundmark": "/ˈpærɪs/"
+  },
+  {
+    "chinese": "罗马",
+    "english": "Rome",
+    "soundmark": "/roʊm/"
+  },
+  {
+    "chinese": "马德里",
+    "english": "Madrid",
+    "soundmark": "/məˈdrɪd/"
+  },
+  {
+    "chinese": "莫斯科",
+    "english": "Moscow",
+    "soundmark": "/ˈmɑːskaʊ/"
+  },
+  {
+    "chinese": "首尔",
+    "english": "Seoul",
+    "soundmark": "/soʊl/"
+  },
+  {
+    "chinese": "东京",
+    "english": "Tokyo",
+    "soundmark": "/ˈtoʊkioʊ/"
+  },
+  {
+    "chinese": "伦敦",
+    "english": "London",
+    "soundmark": "/ˈlʌndən/"
+  },
+  {
+    "chinese": "纽约",
+    "english": "New York",
+    "soundmark": "/nuː/ /jɔːrk/"
+  },
+  {
+    "chinese": "柏林",
+    "english": "Berlin",
+    "soundmark": "/bɜːrˈlɪn/"
+  },
+  {
+    "chinese": "曼谷",
+    "english": "Bangkok",
+    "soundmark": "/ˈbæŋkɑːk/"
+  }
+]

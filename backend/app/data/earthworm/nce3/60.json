@@ -1,0 +1,637 @@
+[
+  {
+    "chinese": "早",
+    "english": "early",
+    "soundmark": "/ˈɜːrli/"
+  },
+  {
+    "chinese": "晚",
+    "english": "late",
+    "soundmark": "/leɪt/"
+  },
+  {
+    "chinese": "准时",
+    "english": "on time",
+    "soundmark": "/ɑːn/ /taɪm/"
+  },
+  {
+    "chinese": "迟到",
+    "english": "be late",
+    "soundmark": "/biː/ /leɪt/"
+  },
+  {
+    "chinese": "提前",
+    "english": "in advance",
+    "soundmark": "/ɪn/ /ədˈvæns/"
+  },
+  {
+    "chinese": "准时到达",
+    "english": "arrive on time",
+    "soundmark": "/əˈraɪv/ /ɑːn/ /taɪm/"
+  },
+  {
+    "chinese": "时间观念",
+    "english": "sense of time",
+    "soundmark": "/sens/ /əv/ /taɪm/"
+  },
+  {
+    "chinese": "守时",
+    "english": "punctuality",
+    "soundmark": "/ˌpʌŋktʃuˈæləti/"
+  },
+  {
+    "chinese": "匆忙",
+    "english": "hurry",
+    "soundmark": "/ˈhʌri/"
+  },
+  {
+    "chinese": "等待",
+    "english": "wait",
+    "soundmark": "/weɪt/"
+  },
+  {
+    "chinese": "约会",
+    "english": "appointment",
+    "soundmark": "/əˈpɔɪntmənt/"
+  },
+  {
+    "chinese": "手表",
+    "english": "watch",
+    "soundmark": "/wɒtʃ/"
+  },
+  {
+    "chinese": "时钟",
+    "english": "clock",
+    "soundmark": "/klɒk/"
+  },
+  {
+    "chinese": "日程",
+    "english": "schedule",
+    "soundmark": "/ˈʃedjuːl/"
+  },
+  {
+    "chinese": "浪费时间",
+    "english": "waste time",
+    "soundmark": "/weɪst/ /taɪm/"
+  },
+  {
+    "chinese": "时间紧迫",
+    "english": "time is pressing",
+    "soundmark": "/taɪm/ /ɪz/ /ˈpresɪŋ/"
+  },
+  {
+    "chinese": "他太早到了以至于必须等待半小时",
+    "english": "He arrived so early that he had to wait for half an hour",
+    "soundmark": "/hiː/ /əˈraɪvd/ /soʊ/ /ˈɜːrli/ /ðæt/ /hiː/ /hæd/ /tuː/ /weɪt/ /fɔːr/ /hæf/ /ən/ /ˈaʊər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "early",
+        "role": "Adv",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "V",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "wait",
+        "role": "V",
+        "phonetic": "/weɪt/",
+        "chinese": "等"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "half",
+        "role": "Det",
+        "phonetic": "/hæf/",
+        "chinese": "一半"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "hour",
+        "role": "A",
+        "phonetic": "/ˈaʊər/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "她总是迟到这让所有人都感到不耐烦",
+    "english": "She is always late which makes everyone impatient",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈɔːlweɪz/ /leɪt/ /wɪtʃ/ /meɪks/ /ˈevriwʌn/ /ɪmˈpeɪʃənt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      },
+      {
+        "text": "which",
+        "role": "S",
+        "phonetic": "/wɪtʃ/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "makes",
+        "role": "V",
+        "phonetic": "/meɪks/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "everyone",
+        "role": "O",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "impatient",
+        "role": "C",
+        "phonetic": "/ɪmˈpeɪʃənt/",
+        "chinese": "不耐烦的"
+      }
+    ]
+  },
+  {
+    "chinese": "太早和太晚都不好最好准时到达",
+    "english": "Neither too early nor too late is good it is best to arrive on time",
+    "soundmark": "/ˈniːðər/ /tuː/ /ˈɜːrli/ /nɔːr/ /tuː/ /leɪt/ /ɪz/ /ɡʊd/ /ɪt/ /ɪz/ /best/ /tuː/ /əˈraɪv/ /ɑːn/ /taɪm/",
+    "grammar": [
+      {
+        "text": "Neither",
+        "role": "Det",
+        "phonetic": "/ˈniːðər/",
+        "chinese": "也不"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "early",
+        "role": "S",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "nor",
+        "role": "P",
+        "phonetic": "/nɔːr/",
+        "chinese": "也不"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "late",
+        "role": "S",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      }
+    ]
+  },
+  {
+    "chinese": "我提前到了以确保不会迟到",
+    "english": "I arrived in advance to make sure I would not be late",
+    "soundmark": "/aɪ/ /əˈraɪvd/ /ɪn/ /ədˈvæns/ /tuː/ /meɪk/ /ʃʊr/ /aɪ/ /wʊd/ /nɒt/ /biː/ /leɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "advance",
+        "role": "A",
+        "phonetic": "/ədˈvæns/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "V",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "make",
+        "role": "V",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "sure",
+        "role": "A",
+        "phonetic": "/ʃʊr/",
+        "chinese": "确定的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他宁愿早到也不愿迟到",
+    "english": "He would rather arrive early than be late",
+    "soundmark": "/hiː/ /wʊd/ /ˈræðər/ /əˈraɪv/ /ˈɜːrli/ /ðæn/ /biː/ /leɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "rather",
+        "role": "Adv",
+        "phonetic": "/ˈræðər/",
+        "chinese": "相当/宁愿"
+      },
+      {
+        "text": "arrive",
+        "role": "V",
+        "phonetic": "/əˈraɪv/",
+        "chinese": "到达"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "时间不等人",
+    "english": "Time waits for no one",
+    "soundmark": "/taɪm/ /weɪts/ /fɔːr/ /noʊ/ /wʌn/",
+    "grammar": [
+      {
+        "text": "Time",
+        "role": "S",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "waits",
+        "role": "V",
+        "phonetic": "/weɪts/",
+        "chinese": "等"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "火车准时到达了车站",
+    "english": "The train arrived at the station on time",
+    "soundmark": "/ðə/ /treɪn/ /əˈraɪvd/ /æt/ /ðə/ /ˈsteɪʃən/ /ɑːn/ /taɪm/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "train",
+        "role": "S",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "station",
+        "role": "A",
+        "phonetic": "/ˈsteɪʃən/",
+        "chinese": "车站"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "如果你不抓紧时间你就会落后",
+    "english": "If you do not seize the time you will fall behind",
+    "soundmark": "/ɪf/ /juː/ /duː/ /nɒt/ /siːz/ /ðə/ /taɪm/ /juː/ /wɪl/ /fɔːl/ /bɪˈhaɪnd/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "seize",
+        "role": "V",
+        "phonetic": "/siːz/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "fall",
+        "role": "V",
+        "phonetic": "/fɔːl/",
+        "chinese": "下降"
+      },
+      {
+        "text": "behind",
+        "role": "A",
+        "phonetic": "/bɪˈhaɪnd/",
+        "chinese": "在…后面"
+      }
+    ]
+  },
+  {
+    "chinese": "准时是一种美德",
+    "english": "Punctuality is a virtue",
+    "soundmark": "/ˌpʌŋktʃuˈæləti/ /ɪz/ /ə/ /ˈvɜːrtʃuː/",
+    "grammar": [
+      {
+        "text": "Punctuality",
+        "role": "S",
+        "phonetic": "/ˌpʌŋktʃuˈæləti/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "virtue",
+        "role": "C",
+        "phonetic": "/ˈvɜːrtʃuː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "早到的",
+    "english": "early",
+    "soundmark": "/ˈɜːrli/"
+  },
+  {
+    "chinese": "迟到的",
+    "english": "late",
+    "soundmark": "/leɪt/"
+  },
+  {
+    "chinese": "准时",
+    "english": "on time",
+    "soundmark": "/ɑːn/ /taɪm/"
+  },
+  {
+    "chinese": "守时的",
+    "english": "punctual",
+    "soundmark": "/ˈpʌŋktʃuəl/"
+  },
+  {
+    "chinese": "匆忙地",
+    "english": "in a hurry",
+    "soundmark": "/ɪn/ /ə/ /ˈhʌri/"
+  },
+  {
+    "chinese": "浪费时间",
+    "english": "waste time",
+    "soundmark": "/weɪst/ /taɪm/"
+  }
+]

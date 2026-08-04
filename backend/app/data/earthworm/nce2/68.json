@@ -1,0 +1,411 @@
+[
+  {
+    "chinese": "坚持的(persistent)",
+    "english": "persistent",
+    "soundmark": "/pərˈsɪstənt/"
+  },
+  {
+    "chinese": "避免(avoid)",
+    "english": "avoid",
+    "soundmark": "/əˈvɔɪd/"
+  },
+  {
+    "chinese": "喜欢(enjoy)",
+    "english": "enjoy",
+    "soundmark": "/ɪnˈdʒɔɪ/"
+  },
+  {
+    "chinese": "介意(mind)",
+    "english": "mind",
+    "soundmark": "/maɪnd/"
+  },
+  {
+    "chinese": "考虑(consider)",
+    "english": "consider",
+    "soundmark": "/kənˈsɪdər/"
+  },
+  {
+    "chinese": "建议(suggest)",
+    "english": "suggest",
+    "soundmark": "/səˈdʒest/"
+  },
+  {
+    "chinese": "练习(practice)",
+    "english": "practice",
+    "soundmark": "/ˈpræktɪs/"
+  },
+  {
+    "chinese": "完成(finish)",
+    "english": "finish",
+    "soundmark": "/ˈfɪnɪʃ/"
+  },
+  {
+    "chinese": "推迟(postpone)",
+    "english": "postpone",
+    "soundmark": "/poʊstˈpoʊn/"
+  },
+  {
+    "chinese": "否认(deny)",
+    "english": "deny",
+    "soundmark": "/dɪˈnaɪ/"
+  },
+  {
+    "chinese": "不停地说话",
+    "english": "keep talking",
+    "soundmark": "/kiːp ˈtɔːkɪŋ/"
+  },
+  {
+    "chinese": "喜欢游泳",
+    "english": "enjoy swimming",
+    "soundmark": "/ɪnˈdʒɔɪ ˈswɪmɪŋ/"
+  },
+  {
+    "chinese": "避免犯错",
+    "english": "avoid making mistakes",
+    "soundmark": "/əˈvɔɪd ˈmeɪkɪŋ mɪˈsteɪks/"
+  },
+  {
+    "chinese": "我享受读书",
+    "english": "I enjoy reading books",
+    "soundmark": "/aɪ ɪnˈdʒɔɪ ˈriːdɪŋ bʊks/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "enjoy",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "reading",
+        "role": "V",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      },
+      {
+        "text": "books",
+        "role": "O",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "你介意开窗吗",
+    "english": "Do you mind opening the window",
+    "soundmark": "/duː juː maɪnd ˈoʊpənɪŋ ðə ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "mind",
+        "role": "V",
+        "phonetic": "/maɪnd/",
+        "chinese": "介意"
+      },
+      {
+        "text": "opening",
+        "role": "V",
+        "phonetic": "/ˈoʊpənɪŋ/",
+        "chinese": "开的/开幕的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "O",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "他避免回答我的问题",
+    "english": "He avoided answering my question",
+    "soundmark": "/hiː əˈvɔɪdɪd ˈænsərɪŋ maɪ ˈkwestʃən/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "avoided",
+        "role": "V",
+        "phonetic": "/əˈvɔɪdɪd/",
+        "chinese": "避免"
+      },
+      {
+        "text": "answering",
+        "role": "V",
+        "phonetic": "/ˈænsərɪŋ/",
+        "chinese": "回答"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "question",
+        "role": "O",
+        "phonetic": "/ˈkwestʃən/",
+        "chinese": "问题"
+      }
+    ]
+  },
+  {
+    "chinese": "她建议早点出发",
+    "english": "She suggested leaving early",
+    "soundmark": "/ʃiː səˈdʒestɪd ˈliːvɪŋ ˈɜːrli/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "suggested",
+        "role": "V",
+        "phonetic": "/səˈdʒestɪd/",
+        "chinese": "建议"
+      },
+      {
+        "text": "leaving",
+        "role": "V",
+        "phonetic": "/ˈliːvɪŋ/",
+        "chinese": "离开"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      }
+    ]
+  },
+  {
+    "chinese": "我考虑换工作",
+    "english": "I am considering changing my job",
+    "soundmark": "/aɪ æm kənˈsɪdərɪŋ ˈtʃeɪndʒɪŋ maɪ dʒɒb/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "considering",
+        "role": "V",
+        "phonetic": "/kənˈsɪdərɪŋ/",
+        "chinese": "考虑到"
+      },
+      {
+        "text": "changing",
+        "role": "V",
+        "phonetic": "/ˈtʃeɪndʒɪŋ/",
+        "chinese": "变化的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "job",
+        "role": "O",
+        "phonetic": "/dʒɒb/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "他一直在坚持学习英语从未放弃",
+    "english": "He kept learning English and never gave up",
+    "soundmark": "/hiː kept ˈlɜːrnɪŋ ˈɪŋɡlɪʃ ænd ˈnevər ɡeɪv ʌp/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "kept",
+        "role": "V",
+        "phonetic": "/kept/",
+        "chinese": "保持/保留（过去式）"
+      },
+      {
+        "text": "learning",
+        "role": "V",
+        "phonetic": "/ˈlɜːrnɪŋ/",
+        "chinese": "学习"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "gave",
+        "role": "V",
+        "phonetic": "/ɡeɪv/",
+        "chinese": "给（过去式）"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      }
+    ]
+  },
+  {
+    "chinese": "我做完作业了",
+    "english": "I finished doing my homework",
+    "soundmark": "/aɪ ˈfɪnɪʃt ˈduːɪŋ maɪ ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "他们推迟了开会",
+    "english": "They postponed holding the meeting",
+    "soundmark": "/ðeɪ poʊstˈpoʊnd ˈhoʊldɪŋ ðə ˈmiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "postponed",
+        "role": "V",
+        "phonetic": "/poʊstˈpoʊnd/",
+        "chinese": "推迟"
+      },
+      {
+        "text": "holding",
+        "role": "V",
+        "phonetic": "/ˈhoʊldɪŋ/",
+        "chinese": "握着的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meeting",
+        "role": "O",
+        "phonetic": "/ˈmiːtɪŋ/",
+        "chinese": "会议的/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "避免(avoid)",
+    "english": "avoid",
+    "soundmark": "/əˈvɔɪd/"
+  },
+  {
+    "chinese": "享受(enjoy)",
+    "english": "enjoy",
+    "soundmark": "/ɪnˈdʒɔɪ/"
+  },
+  {
+    "chinese": "介意(mind)",
+    "english": "mind",
+    "soundmark": "/maɪnd/"
+  },
+  {
+    "chinese": "考虑(consider)",
+    "english": "consider",
+    "soundmark": "/kənˈsɪdər/"
+  },
+  {
+    "chinese": "建议(suggest)",
+    "english": "suggest",
+    "soundmark": "/səˈdʒest/"
+  },
+  {
+    "chinese": "练习(practice)",
+    "english": "practice",
+    "soundmark": "/ˈpræktɪs/"
+  }
+]

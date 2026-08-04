@@ -1,0 +1,659 @@
+[
+  {
+    "chinese": "税收",
+    "english": "taxation",
+    "soundmark": "/tækˈseɪʃn/"
+  },
+  {
+    "chinese": "政府开支",
+    "english": "government expenditure",
+    "soundmark": "/ˈɡʌvənmənt/ /ɪkˈspendɪtʃər/"
+  },
+  {
+    "chinese": "立法",
+    "english": "legislation",
+    "soundmark": "/ˌledʒɪsˈleɪʃn/"
+  },
+  {
+    "chinese": "官僚机构",
+    "english": "bureaucracy",
+    "soundmark": "/bjʊəˈrɒkrəsi/"
+  },
+  {
+    "chinese": "赤字",
+    "english": "deficit",
+    "soundmark": "/ˈdefɪsɪt/"
+  },
+  {
+    "chinese": "财富",
+    "english": "wealth",
+    "soundmark": "/welθ/"
+  },
+  {
+    "chinese": "再分配",
+    "english": "redistribution",
+    "soundmark": "/ˌriːdɪstrɪˈbjuːʃn/"
+  },
+  {
+    "chinese": "纳税人",
+    "english": "taxpayer",
+    "soundmark": "/ˈtækspeɪər/"
+  },
+  {
+    "chinese": "拨款",
+    "english": "appropriation",
+    "soundmark": "/əˌprəʊpriˈeɪʃn/"
+  },
+  {
+    "chinese": "财政政策",
+    "english": "fiscal policy",
+    "soundmark": "/ˈfɪskəl/ /ˈpɒləsi/"
+  },
+  {
+    "chinese": "通货膨胀",
+    "english": "inflation",
+    "soundmark": "/ˌɪnˈfleɪʃn/"
+  },
+  {
+    "chinese": "福利",
+    "english": "welfare",
+    "soundmark": "/ˈwelfeər/"
+  },
+  {
+    "chinese": "政府每年向纳税人征收巨额税款",
+    "english": "the government collects enormous taxes from taxpayers every year",
+    "soundmark": "/ðə/ /ˈɡʌvənmənt/ /kəˈlekts/ /ɪˈnɔːməs/ /tæksɪz/ /frɒm/ /ˈtækspeɪərz/ /ˈevri/ /jɪər/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "government",
+        "role": "S",
+        "phonetic": "/ˈɡʌvənmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "collects",
+        "role": "V",
+        "phonetic": "/kəˈlekts/",
+        "chinese": "收集"
+      },
+      {
+        "text": "enormous",
+        "role": "A",
+        "phonetic": "/ɪˈnɔːməs/",
+        "chinese": "庞大的"
+      },
+      {
+        "text": "taxes",
+        "role": "O",
+        "phonetic": "/ˈtæksɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "taxpayers",
+        "role": "O",
+        "phonetic": "/ˈtækspeɪərz/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "year",
+        "role": "O",
+        "phonetic": "/jɪər/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "政府的开支在过去十年里急剧增长",
+    "english": "government expenditure has grown dramatically over the past decade",
+    "soundmark": "/ˈɡʌvənmənt/ /ɪkˈspendɪtʃər/ /hæz/ /ɡrəʊn/ /drəˈmætɪkli/ /ˈəʊvər/ /ðə/ /pɑːst/ /ˈdekeɪd/",
+    "grammar": [
+      {
+        "text": "government",
+        "role": "A",
+        "phonetic": "/ˈɡʌvənmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "expenditure",
+        "role": "S",
+        "phonetic": "/ɪkˈspendɪtʃər/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "grown",
+        "role": "V",
+        "phonetic": "/ɡrəʊn/",
+        "chinese": "成长的"
+      },
+      {
+        "text": "dramatically",
+        "role": "Adv",
+        "phonetic": "/drəˈmætɪkli/",
+        "chinese": ""
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈəʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "past",
+        "role": "A",
+        "phonetic": "/pɑːst/",
+        "chinese": "过去"
+      },
+      {
+        "text": "decade",
+        "role": "O",
+        "phonetic": "/ˈdekeɪd/",
+        "chinese": "十年"
+      }
+    ]
+  },
+  {
+    "chinese": "税收的目的是为社会服务提供资金",
+    "english": "the purpose of taxation is to fund social services",
+    "soundmark": "/ðə/ /ˈpɜːpəs/ /əv/ /tækˈseɪʃn/ /ɪz/ /tuː/ /fʌnd/ /ˈsəʊʃəl/ /ˈsɜːvɪsɪz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "purpose",
+        "role": "S",
+        "phonetic": "/ˈpɜːpəs/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "taxation",
+        "role": "O",
+        "phonetic": "/tækˈseɪʃn/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "fund",
+        "role": "V",
+        "phonetic": "/fʌnd/",
+        "chinese": ""
+      },
+      {
+        "text": "social",
+        "role": "A",
+        "phonetic": "/ˈsəʊʃəl/",
+        "chinese": "社会的"
+      },
+      {
+        "text": "services",
+        "role": "O",
+        "phonetic": "/ˈsɜːvɪsɪz/",
+        "chinese": "服务"
+      }
+    ]
+  },
+  {
+    "chinese": "没有人愿意承担越来越重的税务负担",
+    "english": "no one is willing to bear an increasingly heavy tax burden",
+    "soundmark": "/nəʊ/ /wʌn/ /ɪz/ /ˈwɪlɪŋ/ /tuː/ /beər/ /ən/ /ɪnˈkriːsɪŋli/ /ˈhevi/ /tæks/ /ˈbɜːdn/",
+    "grammar": [
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/nəʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "willing",
+        "role": "A",
+        "phonetic": "/ˈwɪlɪŋ/",
+        "chinese": "愿意的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "bear",
+        "role": "V",
+        "phonetic": "/beər/",
+        "chinese": ""
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "increasingly",
+        "role": "Adv",
+        "phonetic": "/ɪnˈkriːsɪŋli/",
+        "chinese": "…地(增加的)"
+      },
+      {
+        "text": "heavy",
+        "role": "A",
+        "phonetic": "/ˈhevi/",
+        "chinese": "重的"
+      },
+      {
+        "text": "tax",
+        "role": "A",
+        "phonetic": "/tæks/",
+        "chinese": ""
+      },
+      {
+        "text": "burden",
+        "role": "O",
+        "phonetic": "/ˈbɜːdn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "财富的再分配是现代社会最具争议的话题之一",
+    "english": "the redistribution of wealth is one of the most controversial issues in modern society",
+    "soundmark": "/ðə/ /ˌriːdɪstrɪˈbjuːʃn/ /əv/ /welθ/ /ɪz/ /wʌn/ /əv/ /ðə/ /məʊst/ /ˈkɒntrəvɜːʃəl/ /ˈɪʃuːz/ /ɪn/ /ˈmɒdən/ /səˈsaɪəti/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "redistribution",
+        "role": "S",
+        "phonetic": "/ˌriːdɪstrɪˈbjuːʃn/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "wealth",
+        "role": "O",
+        "phonetic": "/welθ/",
+        "chinese": "财富"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "one",
+        "role": "C",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/məʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "controversial",
+        "role": "A",
+        "phonetic": "/ˈkɒntrəvɜːʃəl/",
+        "chinese": ""
+      },
+      {
+        "text": "issues",
+        "role": "O",
+        "phonetic": "/ˈɪʃuːz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "modern",
+        "role": "A",
+        "phonetic": "/ˈmɒdən/",
+        "chinese": "现代的"
+      },
+      {
+        "text": "society",
+        "role": "O",
+        "phonetic": "/səˈsaɪəti/",
+        "chinese": "社会"
+      }
+    ]
+  },
+  {
+    "chinese": "通货膨胀迫使政府重新审视其经济政策",
+    "english": "inflation has forced the government to re-examine its economic policies",
+    "soundmark": "/ˌɪnˈfleɪʃn/ /hæz/ /fɔːst/ /ðə/ /ˈɡʌvənmənt/ /tuː/ /ˌriːɪɡˈzæmɪn/ /ɪts/ /ˌiːkəˈnɒmɪk/ /ˈpɒləsiz/",
+    "grammar": [
+      {
+        "text": "inflation",
+        "role": "S",
+        "phonetic": "/ˌɪnˈfleɪʃn/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "forced",
+        "role": "V",
+        "phonetic": "/fɔːst/",
+        "chinese": "被迫的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "government",
+        "role": "O",
+        "phonetic": "/ˈɡʌvənmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "re-examine",
+        "role": "V",
+        "phonetic": "/ˌriːɪɡˈzæmɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "economic",
+        "role": "A",
+        "phonetic": "/ˌiːkəˈnɒmɪk/",
+        "chinese": "经济的"
+      },
+      {
+        "text": "policies",
+        "role": "O",
+        "phonetic": "/ˈpɒləsiz/",
+        "chinese": "政策"
+      }
+    ]
+  },
+  {
+    "chinese": "政府通过立法来规范财政支出的用途",
+    "english": "the government regulates fiscal spending through legislation",
+    "soundmark": "/ðə/ /ˈɡʌvənmənt/ /ˈreɡjuleɪts/ /ˈfɪskəl/ /ˈspendɪŋ/ /θruː/ /ˌledʒɪsˈleɪʃn/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "government",
+        "role": "S",
+        "phonetic": "/ˈɡʌvənmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "regulates",
+        "role": "V",
+        "phonetic": "/ˈreɡjuleɪts/",
+        "chinese": ""
+      },
+      {
+        "text": "fiscal",
+        "role": "A",
+        "phonetic": "/ˈfɪskəl/",
+        "chinese": ""
+      },
+      {
+        "text": "spending",
+        "role": "O",
+        "phonetic": "/ˈspendɪŋ/",
+        "chinese": "花费的"
+      },
+      {
+        "text": "through",
+        "role": "P",
+        "phonetic": "/θruː/",
+        "chinese": "通过/穿过"
+      },
+      {
+        "text": "legislation",
+        "role": "O",
+        "phonetic": "/ˌledʒɪsˈleɪʃn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "官僚机构日益庞大而公民的负担也在加重",
+    "english": "the bureaucracy is growing larger while the burden on citizens grows heavier",
+    "soundmark": "/ðə/ /bjʊəˈrɒkrəsi/ /ɪz/ /ˈɡrəʊɪŋ/ /ˈlɑːdʒər/ /waɪl/ /ðə/ /ˈbɜːdn/ /ɒn/ /ˈsɪtɪznz/ /ɡrəʊz/ /ˈheviər/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bureaucracy",
+        "role": "S",
+        "phonetic": "/bjʊəˈrɒkrəsi/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "growing",
+        "role": "V",
+        "phonetic": "/ˈɡrəʊɪŋ/",
+        "chinese": "成长的"
+      },
+      {
+        "text": "larger",
+        "role": "C",
+        "phonetic": "/ˈlɑːdʒər/",
+        "chinese": "更…的/…者(大的)"
+      },
+      {
+        "text": "while",
+        "role": "C",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "burden",
+        "role": "S",
+        "phonetic": "/ˈbɜːdn/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "citizens",
+        "role": "O",
+        "phonetic": "/ˈsɪtɪznz/",
+        "chinese": ""
+      },
+      {
+        "text": "grows",
+        "role": "V",
+        "phonetic": "/ɡrəʊz/",
+        "chinese": "生长"
+      },
+      {
+        "text": "heavier",
+        "role": "C",
+        "phonetic": "/ˈheviər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "预算",
+    "english": "budget",
+    "soundmark": "/ˈbʌdʒɪt/"
+  },
+  {
+    "chinese": "国债",
+    "english": "national debt",
+    "soundmark": "/ˈnæʃənəl/ /det/"
+  },
+  {
+    "chinese": "审计",
+    "english": "audit",
+    "soundmark": "/ˈɔːdɪt/"
+  },
+  {
+    "chinese": "拨款",
+    "english": "allocate",
+    "soundmark": "/ˈæləkeɪt/"
+  },
+  {
+    "chinese": "收入",
+    "english": "revenue",
+    "soundmark": "/ˈrevənjuː/"
+  },
+  {
+    "chinese": "免税",
+    "english": "tax exemption",
+    "soundmark": "/tæks/ /ɪɡˈzempʃn/"
+  },
+  {
+    "chinese": "节俭",
+    "english": "frugality",
+    "soundmark": "/fruːˈɡæləti/"
+  },
+  {
+    "chinese": "税率",
+    "english": "tax rate",
+    "soundmark": "/tæks reɪt/"
+  },
+  {
+    "chinese": "财政",
+    "english": "fiscal",
+    "soundmark": "/ˈfɪskəl/"
+  },
+  {
+    "chinese": "公共开支",
+    "english": "public spending",
+    "soundmark": "/ˈpʌblɪk ˈspendɪŋ/"
+  },
+  {
+    "chinese": "纳税人权益",
+    "english": "taxpayer rights",
+    "soundmark": "/ˈtækspeɪə raɪts/"
+  }
+]

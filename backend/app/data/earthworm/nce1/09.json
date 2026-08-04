@@ -1,0 +1,702 @@
+[
+  {
+    "chinese": "怎样",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "chinese": "今天",
+    "english": "today",
+    "soundmark": "/təˈdeɪ/"
+  },
+  {
+    "chinese": "很好",
+    "english": "well",
+    "soundmark": "/wel/"
+  },
+  {
+    "chinese": "好",
+    "english": "fine",
+    "soundmark": "/faɪn/"
+  },
+  {
+    "chinese": "很好",
+    "english": "very well",
+    "soundmark": "/ˈveri/ /wel/"
+  },
+  {
+    "chinese": "不错",
+    "english": "not bad",
+    "soundmark": "/nɑːt/ /bæd/"
+  },
+  {
+    "chinese": "太糟了",
+    "english": "terrible",
+    "soundmark": "/ˈterəbəl/"
+  },
+  {
+    "chinese": "生病的",
+    "english": "ill",
+    "soundmark": "/ɪl/"
+  },
+  {
+    "chinese": "累的",
+    "english": "tired",
+    "soundmark": "/ˈtaɪərd/"
+  },
+  {
+    "chinese": "饿的",
+    "english": "hungry",
+    "soundmark": "/ˈhʌŋɡri/"
+  },
+  {
+    "chinese": "渴的",
+    "english": "thirsty",
+    "soundmark": "/ˈθɜːrsti/"
+  },
+  {
+    "chinese": "冷的",
+    "english": "cold",
+    "soundmark": "/koʊld/"
+  },
+  {
+    "chinese": "热的",
+    "english": "hot",
+    "soundmark": "/hɑːt/"
+  },
+  {
+    "chinese": "快乐的",
+    "english": "happy",
+    "soundmark": "/ˈhæpi/"
+  },
+  {
+    "chinese": "难过的",
+    "english": "sad",
+    "soundmark": "/sæd/"
+  },
+  {
+    "chinese": "生气的",
+    "english": "angry",
+    "soundmark": "/ˈæŋɡri/"
+  },
+  {
+    "chinese": "担心的",
+    "english": "worried",
+    "soundmark": "/ˈwɜːrid/"
+  },
+  {
+    "chinese": "忙碌的",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "你今天好吗",
+    "english": "How are you today",
+    "soundmark": "/haʊ/ /ɑːr/ /juː/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "我很好谢谢",
+    "english": "I am very well thank you",
+    "soundmark": "/aɪ/ /æm/ /ˈveri/ /wel/ /θæŋk/ /juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "well",
+        "role": "C",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      },
+      {
+        "text": "thank",
+        "role": "V",
+        "phonetic": "/θæŋk/",
+        "chinese": "谢谢"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "你今天怎么样",
+    "english": "How are you today",
+    "soundmark": "/haʊ/ /ɑːr/ /juː/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "我有点累",
+    "english": "I am a little tired",
+    "soundmark": "/aɪ/ /æm/ /ə/ /ˈlɪtəl/ /ˈtaɪərd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "little",
+        "role": "C",
+        "phonetic": "/ˈlɪtəl/",
+        "chinese": "小的/少的"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/ˈtaɪərd/",
+        "chinese": "累的"
+      }
+    ]
+  },
+  {
+    "chinese": "她好吗",
+    "english": "How is she",
+    "soundmark": "/haʊ/ /ɪz/ /ʃiː/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      }
+    ]
+  },
+  {
+    "chinese": "她很好",
+    "english": "She is fine",
+    "soundmark": "/ʃiː/ /ɪz/ /faɪn/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "fine",
+        "role": "C",
+        "phonetic": "/faɪn/",
+        "chinese": "好的/晴朗的"
+      }
+    ]
+  },
+  {
+    "chinese": "他怎么样不太好",
+    "english": "How is he not very well",
+    "soundmark": "/haʊ/ /ɪz/ /hiː/ /nɑːt/ /ˈveri/ /wel/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "well",
+        "role": "C",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      }
+    ]
+  },
+  {
+    "chinese": "你饿了我很饿",
+    "english": "Are you hungry I am very hungry",
+    "soundmark": "/ɑːr/ /juː/ /ˈhʌŋɡri/ /aɪ/ /æm/ /ˈveri/ /ˈhʌŋɡri/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "hungry",
+        "role": "C",
+        "phonetic": "/ˈhʌŋɡri/",
+        "chinese": "饿的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "hungry",
+        "role": "C",
+        "phonetic": "/ˈhʌŋɡri/",
+        "chinese": "饿的"
+      }
+    ]
+  },
+  {
+    "chinese": "我不渴谢谢",
+    "english": "I am not thirsty thank you",
+    "soundmark": "/aɪ/ /æm/ /nɑːt/ /ˈθɜːrsti/ /θæŋk/ /juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "thirsty",
+        "role": "C",
+        "phonetic": "/ˈθɜːrsti/",
+        "chinese": "渴的"
+      },
+      {
+        "text": "thank",
+        "role": "V",
+        "phonetic": "/θæŋk/",
+        "chinese": "谢谢"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "今天天气很冷",
+    "english": "It is very cold today",
+    "soundmark": "/ɪt/ /ɪz/ /ˈveri/ /koʊld/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "cold",
+        "role": "C",
+        "phonetic": "/koʊld/",
+        "chinese": "冷的"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "你看起来很开心",
+    "english": "You look very happy",
+    "soundmark": "/juː/ /lʊk/ /ˈveri/ /ˈhæpi/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "look",
+        "role": "Lv",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "happy",
+        "role": "C",
+        "phonetic": "/ˈhæpi/",
+        "chinese": "快乐的"
+      }
+    ]
+  },
+  {
+    "chinese": "她看起来很伤心今天",
+    "english": "She looks very sad today",
+    "soundmark": "/ʃiː/ /lʊks/ /ˈveri/ /sæd/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "looks",
+        "role": "Lv",
+        "phonetic": "/lʊks/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "sad",
+        "role": "C",
+        "phonetic": "/sæd/",
+        "chinese": "伤心的"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "你今天好吗我很好但是你看起来很累",
+    "english": "How are you today I am fine but you look tired",
+    "soundmark": "/haʊ/ /ɑːr/ /juː/ /təˈdeɪ/ /aɪ/ /æm/ /faɪn/ /bʌt/ /juː/ /lʊk/ /ˈtaɪərd/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "fine",
+        "role": "C",
+        "phonetic": "/faɪn/",
+        "chinese": "好的/晴朗的"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "look",
+        "role": "Lv",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/ˈtaɪərd/",
+        "chinese": "累的"
+      }
+    ]
+  },
+  {
+    "chinese": "他生病了吗不他只是累了",
+    "english": "Is he ill no he is just tired",
+    "soundmark": "/ɪz/ /hiː/ /ɪl/ /noʊ/ /hiː/ /ɪz/ /dʒʌst/ /ˈtaɪərd/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "ill",
+        "role": "C",
+        "phonetic": "/ɪl/",
+        "chinese": "生病的"
+      },
+      {
+        "text": "no",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/ˈtaɪərd/",
+        "chinese": "累的"
+      }
+    ]
+  },
+  {
+    "chinese": "一点点",
+    "english": "a little",
+    "soundmark": "/ə/ /ˈlɪtəl/"
+  },
+  {
+    "chinese": "但是",
+    "english": "but",
+    "soundmark": "/bʌt/"
+  },
+  {
+    "chinese": "仅仅",
+    "english": "just",
+    "soundmark": "/dʒʌst/"
+  },
+  {
+    "chinese": "看起来",
+    "english": "look",
+    "soundmark": "/lʊk/"
+  },
+  {
+    "chinese": "生病",
+    "english": "ill",
+    "soundmark": "/ɪl/"
+  },
+  {
+    "chinese": "糟糕的",
+    "english": "bad",
+    "soundmark": "/bæd/"
+  },
+  {
+    "chinese": "太棒了",
+    "english": "wonderful",
+    "soundmark": "/ˈwʌndərfəl/"
+  },
+  {
+    "chinese": "极好的",
+    "english": "great",
+    "soundmark": "/ɡreɪt/"
+  },
+  {
+    "chinese": "不错的",
+    "english": "pretty good",
+    "soundmark": "/ˈprɪti/ /ɡʊd/"
+  },
+  {
+    "chinese": "还好",
+    "english": "all right",
+    "soundmark": "/ɔːl/ /raɪt/"
+  }
+]

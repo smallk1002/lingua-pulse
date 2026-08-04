@@ -1,0 +1,883 @@
+[
+  {
+    "chinese": "去",
+    "english": "go",
+    "soundmark": "/ɡoʊ/"
+  },
+  {
+    "chinese": "去了",
+    "english": "went",
+    "soundmark": "/went/"
+  },
+  {
+    "chinese": "看见",
+    "english": "see",
+    "soundmark": "/siː/"
+  },
+  {
+    "chinese": "看见了",
+    "english": "saw",
+    "soundmark": "/sɔː/"
+  },
+  {
+    "chinese": "吃",
+    "english": "eat",
+    "soundmark": "/iːt/"
+  },
+  {
+    "chinese": "吃了",
+    "english": "ate",
+    "soundmark": "/eɪt/"
+  },
+  {
+    "chinese": "喝",
+    "english": "drink",
+    "soundmark": "/drɪŋk/"
+  },
+  {
+    "chinese": "喝了",
+    "english": "drank",
+    "soundmark": "/dræŋk/"
+  },
+  {
+    "chinese": "来",
+    "english": "come",
+    "soundmark": "/kʌm/"
+  },
+  {
+    "chinese": "来了",
+    "english": "came",
+    "soundmark": "/keɪm/"
+  },
+  {
+    "chinese": "给",
+    "english": "give",
+    "soundmark": "/ɡɪv/"
+  },
+  {
+    "chinese": "给了",
+    "english": "gave",
+    "soundmark": "/ɡeɪv/"
+  },
+  {
+    "chinese": "拿",
+    "english": "take",
+    "soundmark": "/teɪk/"
+  },
+  {
+    "chinese": "拿了",
+    "english": "took",
+    "soundmark": "/tʊk/"
+  },
+  {
+    "chinese": "买",
+    "english": "buy",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "chinese": "买了",
+    "english": "bought",
+    "soundmark": "/bɔːt/"
+  },
+  {
+    "chinese": "说",
+    "english": "say",
+    "soundmark": "/seɪ/"
+  },
+  {
+    "chinese": "说了",
+    "english": "said",
+    "soundmark": "/sed/"
+  },
+  {
+    "chinese": "得到",
+    "english": "get",
+    "soundmark": "/ɡet/"
+  },
+  {
+    "chinese": "得到了",
+    "english": "got",
+    "soundmark": "/ɡɑːt/"
+  },
+  {
+    "chinese": "我昨天去了公园",
+    "english": "I went to the park yesterday",
+    "soundmark": "/aɪ went tuː ðə pɑːrk ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to the park",
+        "role": "A",
+        "phonetic": "/tuː ðə pɑːrk/",
+        "chinese": "到/向/这个/那个/公园"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "她看见一只猫",
+    "english": "She saw a cat",
+    "soundmark": "/ʃiː sɔː ə kæt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "a cat",
+        "role": "O",
+        "phonetic": "/ə kæt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我们吃了披萨当晚餐",
+    "english": "We ate pizza for dinner",
+    "soundmark": "/wiː eɪt ˈpiːtsə fɔːr ˈdɪnər/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "ate",
+        "role": "V",
+        "phonetic": "/eɪt/",
+        "chinese": "吃（过去式）"
+      },
+      {
+        "text": "pizza",
+        "role": "O",
+        "phonetic": "/ˈpiːtsə/",
+        "chinese": ""
+      },
+      {
+        "text": "for dinner",
+        "role": "A",
+        "phonetic": "/fɔːr ˈdɪnər/",
+        "chinese": "晚餐"
+      }
+    ]
+  },
+  {
+    "chinese": "他喝了一整瓶水",
+    "english": "He drank a whole bottle of water",
+    "soundmark": "/hiː dræŋk ə hoʊl ˈbɑːtl ʌv ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "drank",
+        "role": "V",
+        "phonetic": "/dræŋk/",
+        "chinese": "喝（过去式）"
+      },
+      {
+        "text": "a whole bottle of water",
+        "role": "O",
+        "phonetic": "/ə hoʊl ˈbɑːtl ʌv ˈwɔːtər/",
+        "chinese": "一个/整个的/瓶子/…的/水"
+      }
+    ]
+  },
+  {
+    "chinese": "他们昨天来了我家",
+    "english": "They came to my house yesterday",
+    "soundmark": "/ðeɪ keɪm tuː maɪ haʊs ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "to my house",
+        "role": "A",
+        "phonetic": "/tuː maɪ haʊs/",
+        "chinese": "到/向/我的/房子"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他给了我一个礼物",
+    "english": "He gave me a present",
+    "soundmark": "/hiː ɡeɪv miː ə ˈpreznt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "gave",
+        "role": "V",
+        "phonetic": "/ɡeɪv/",
+        "chinese": "给（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a present",
+        "role": "O",
+        "phonetic": "/ə ˈpreznt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天买了新鞋",
+    "english": "I bought new shoes yesterday",
+    "soundmark": "/aɪ bɔːt nuː ʃuːz ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "new shoes",
+        "role": "O",
+        "phonetic": "/nuː ʃuːz/",
+        "chinese": "新的/…们/复数(鞋)"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "你昨天去哪里了",
+    "english": "Where did you go yesterday",
+    "soundmark": "/wer dɪd juː ɡoʊ ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "你看见什么了",
+    "english": "What did you see",
+    "soundmark": "/wʌt dɪd juː siː/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      }
+    ]
+  },
+  {
+    "chinese": "我没有看见他",
+    "english": "I did not see him",
+    "soundmark": "/aɪ dɪd nɑːt siː hɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "你吃早餐了吗",
+    "english": "Did you eat breakfast",
+    "soundmark": "/dɪd juː iːt ˈbrekfəst/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      }
+    ]
+  },
+  {
+    "chinese": "是的我吃了",
+    "english": "Yes I ate",
+    "soundmark": "/jes aɪ eɪt/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "ate",
+        "role": "V",
+        "phonetic": "/eɪt/",
+        "chinese": "吃（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "她没有来学校",
+    "english": "She did not come to school",
+    "soundmark": "/ʃiː dɪd nɑːt kʌm tuː skuːl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "to school",
+        "role": "A",
+        "phonetic": "/tuː skuːl/",
+        "chinese": "上学"
+      }
+    ]
+  },
+  {
+    "chinese": "他们给了我一些钱",
+    "english": "They gave me some money",
+    "soundmark": "/ðeɪ ɡeɪv miː sʌm ˈmʌni/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "gave",
+        "role": "V",
+        "phonetic": "/ɡeɪv/",
+        "chinese": "给（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "some money",
+        "role": "O",
+        "phonetic": "/sʌm ˈmʌni/",
+        "chinese": "一些/钱"
+      }
+    ]
+  },
+  {
+    "chinese": "你买了什么",
+    "english": "What did you buy",
+    "soundmark": "/wʌt dɪd juː baɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      }
+    ]
+  },
+  {
+    "chinese": "我买了一件新衬衫",
+    "english": "I bought a new shirt",
+    "soundmark": "/aɪ bɔːt ə nuː ʃɜːrt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "a new shirt",
+        "role": "O",
+        "phonetic": "/ə nuː ʃɜːrt/",
+        "chinese": "一个/新的"
+      }
+    ]
+  },
+  {
+    "chinese": "他上星期得了感冒",
+    "english": "He got a cold last week",
+    "soundmark": "/hiː ɡɑːt ə koʊld læst wiːk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "got",
+        "role": "V",
+        "phonetic": "/ɡɑːt/",
+        "chinese": "得到（过去式）"
+      },
+      {
+        "text": "a cold",
+        "role": "O",
+        "phonetic": "/ə koʊld/",
+        "chinese": "一个/冷的"
+      },
+      {
+        "text": "last week",
+        "role": "A",
+        "phonetic": "/læst wiːk/",
+        "chinese": "上周"
+      }
+    ]
+  },
+  {
+    "chinese": "我们去了海边又游了泳",
+    "english": "We went to the beach and swam in the sea",
+    "soundmark": "/wiː went tuː ðə biːtʃ ænd swæm ɪn ðə siː/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to the beach",
+        "role": "A",
+        "phonetic": "/tuː ðə biːtʃ/",
+        "chinese": "到/向/这个/那个/海滩"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "swam",
+        "role": "V",
+        "phonetic": "/swæm/",
+        "chinese": "游泳（过去式）"
+      },
+      {
+        "text": "in the sea",
+        "role": "A",
+        "phonetic": "/ɪn ðə siː/",
+        "chinese": "在…里/这个/那个/海"
+      }
+    ]
+  },
+  {
+    "chinese": "我早上起得很早",
+    "english": "I got up very early this morning",
+    "soundmark": "/aɪ ɡɑːt ʌp ˈveri ˈɜːrli ðɪs ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "got up",
+        "role": "V",
+        "phonetic": "/ɡɑːt ʌp/",
+        "chinese": "得到（过去式）/向上"
+      },
+      {
+        "text": "very early",
+        "role": "A",
+        "phonetic": "/ˈveri ˈɜːrli/",
+        "chinese": "非常/早"
+      },
+      {
+        "text": "this morning",
+        "role": "A",
+        "phonetic": "/ðɪs ˈmɔːrnɪŋ/",
+        "chinese": "今天早上"
+      }
+    ]
+  },
+  {
+    "chinese": "她昨天发高烧了",
+    "english": "She had a high fever yesterday",
+    "soundmark": "/ʃiː hæd ə haɪ ˈfiːvər ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a high fever",
+        "role": "O",
+        "phonetic": "/ə haɪ ˈfiːvər/",
+        "chinese": "一个/高的"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天没去上班",
+    "english": "I did not go to work yesterday",
+    "soundmark": "/aɪ dɪd nɑːt ɡoʊ tuː wɜːrk ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "go to work",
+        "role": "A",
+        "phonetic": "/ɡoʊ tuː wɜːrk/",
+        "chinese": "去/到/向/工作"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他们做了个蛋糕庆祝",
+    "english": "They made a cake to celebrate",
+    "soundmark": "/ðeɪ meɪd ə keɪk tuː ˈselɪbreɪt/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "a cake",
+        "role": "O",
+        "phonetic": "/ə keɪk/",
+        "chinese": "一个/蛋糕"
+      },
+      {
+        "text": "to celebrate",
+        "role": "A",
+        "phonetic": "/tuː ˈselɪbreɪt/",
+        "chinese": "到/向/庆祝"
+      }
+    ]
+  },
+  {
+    "chinese": "你什么时候得到这个消息的",
+    "english": "When did you get the news",
+    "soundmark": "/wen dɪd juː ɡet ðə nuːz/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "the news",
+        "role": "O",
+        "phonetic": "/ðə nuːz/",
+        "chinese": "这个/那个/新闻"
+      }
+    ]
+  },
+  {
+    "chinese": "礼物",
+    "english": "present",
+    "soundmark": "/ˈpreznt/"
+  },
+  {
+    "chinese": "海滩",
+    "english": "beach",
+    "soundmark": "/biːtʃ/"
+  },
+  {
+    "chinese": "大海",
+    "english": "sea",
+    "soundmark": "/siː/"
+  },
+  {
+    "chinese": "发烧",
+    "english": "fever",
+    "soundmark": "/ˈfiːvər/"
+  },
+  {
+    "chinese": "消息",
+    "english": "news",
+    "soundmark": "/nuːz/"
+  },
+  {
+    "chinese": "庆祝",
+    "english": "celebrate",
+    "soundmark": "/ˈselɪbreɪt/"
+  },
+  {
+    "chinese": "感冒",
+    "english": "cold",
+    "soundmark": "/koʊld/"
+  },
+  {
+    "chinese": "起床",
+    "english": "get up",
+    "soundmark": "/ɡet ʌp/"
+  },
+  {
+    "chinese": "游泳",
+    "english": "swim",
+    "soundmark": "/swɪm/"
+  },
+  {
+    "chinese": "有",
+    "english": "have",
+    "soundmark": "/hæv/"
+  }
+]

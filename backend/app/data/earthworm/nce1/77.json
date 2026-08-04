@@ -1,0 +1,578 @@
+[
+  {
+    "chinese": "牙痛",
+    "english": "toothache",
+    "soundmark": "/ˈtuːθeɪk/"
+  },
+  {
+    "chinese": "可怕的；极坏的",
+    "english": "terrible",
+    "soundmark": "/ˈterəbl/"
+  },
+  {
+    "chinese": "牙医",
+    "english": "dentist",
+    "soundmark": "/ˈdentɪst/"
+  },
+  {
+    "chinese": "牙齿",
+    "english": "tooth",
+    "soundmark": "/tuːθ/"
+  },
+  {
+    "chinese": "疼痛",
+    "english": "ache",
+    "soundmark": "/eɪk/"
+  },
+  {
+    "chinese": "头痛",
+    "english": "headache",
+    "soundmark": "/ˈhedeɪk/"
+  },
+  {
+    "chinese": "胃痛",
+    "english": "stomach ache",
+    "soundmark": "/ˈstʌmək eɪk/"
+  },
+  {
+    "chinese": "发烧",
+    "english": "temperature",
+    "soundmark": "/ˈtemprɪtʃə/"
+  },
+  {
+    "chinese": "感冒",
+    "english": "cold",
+    "soundmark": "/kəʊld/"
+  },
+  {
+    "chinese": "咳嗽",
+    "english": "cough",
+    "soundmark": "/kɒf/"
+  },
+  {
+    "chinese": "药",
+    "english": "medicine",
+    "soundmark": "/ˈmedsɪn/"
+  },
+  {
+    "chinese": "appointment；预约",
+    "english": "appointment",
+    "soundmark": "/əˈpɔɪntmənt/"
+  },
+  {
+    "chinese": "检查",
+    "english": "examine",
+    "soundmark": "/ɪgˈzæmɪn/"
+  },
+  {
+    "chinese": "拔（牙）",
+    "english": "pull",
+    "soundmark": "/pʊl/"
+  },
+  {
+    "chinese": "背痛",
+    "english": "backache",
+    "soundmark": "/ˈbækeɪk/"
+  },
+  {
+    "chinese": "耳朵",
+    "english": "ear",
+    "soundmark": "/ɪə/"
+  },
+  {
+    "chinese": "喉咙",
+    "english": "throat",
+    "soundmark": "/θrəʊt/"
+  },
+  {
+    "chinese": "生病的",
+    "english": "ill",
+    "soundmark": "/ɪl/"
+  },
+  {
+    "chinese": "感觉",
+    "english": "feel",
+    "soundmark": "/fiːl/"
+  },
+  {
+    "chinese": "糟糕的",
+    "english": "awful",
+    "soundmark": "/ˈɔːfʊl/"
+  },
+  {
+    "chinese": "我牙痛得厉害。",
+    "english": "I have a terrible toothache.",
+    "soundmark": "/aɪ hæv ə ˈterəbl ˈtuːθeɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "terrible",
+        "role": "C",
+        "phonetic": "/ˈterəbl/",
+        "chinese": "可怕的"
+      },
+      {
+        "text": "toothache",
+        "role": "O",
+        "phonetic": "/ˈtuːθeɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你需要去看牙医。",
+    "english": "You need to see a dentist.",
+    "soundmark": "/juː niːd tuː siː ə ˈdentɪst/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to see",
+        "role": "V",
+        "phonetic": "/tuː siː/",
+        "chinese": "到/向/看见"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "dentist",
+        "role": "O",
+        "phonetic": "/ˈdentɪst/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "牙医检查了他的牙齿。",
+    "english": "The dentist examined his teeth.",
+    "soundmark": "/ðə ˈdentɪst ɪgˈzæmɪnd hɪz tiːθ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dentist",
+        "role": "S",
+        "phonetic": "/ˈdentɪst/",
+        "chinese": ""
+      },
+      {
+        "text": "examined",
+        "role": "V",
+        "phonetic": "/ɪgˈzæmɪnd/",
+        "chinese": "检查"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "teeth",
+        "role": "O",
+        "phonetic": "/tiːθ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他必须拔掉那颗牙。",
+    "english": "He must pull the tooth out.",
+    "soundmark": "/hiː mʌst pʊl ðə tuːθ aʊt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "must pull",
+        "role": "V",
+        "phonetic": "/mʌst pʊl/",
+        "chinese": "必须/拉"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tooth",
+        "role": "O",
+        "phonetic": "/tuːθ/",
+        "chinese": ""
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      }
+    ]
+  },
+  {
+    "chinese": "她发烧了。",
+    "english": "She has a temperature.",
+    "soundmark": "/ʃiː hæz ə ˈtemprɪtʃə/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "temperature",
+        "role": "O",
+        "phonetic": "/ˈtemprɪtʃə/",
+        "chinese": "温度"
+      }
+    ]
+  },
+  {
+    "chinese": "他感冒咳嗽。",
+    "english": "He has a cold and a cough.",
+    "soundmark": "/hiː hæz ə kəʊld ənd ə kɒf/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cold",
+        "role": "O",
+        "phonetic": "/kəʊld/",
+        "chinese": "冷的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cough",
+        "role": "O",
+        "phonetic": "/kɒf/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "吃些药你会好起来的。",
+    "english": "Take some medicine and you'll be fine.",
+    "soundmark": "/teɪk sʌm ˈmedsɪn ənd juːl biː faɪn/",
+    "grammar": [
+      {
+        "text": "Take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "medicine",
+        "role": "O",
+        "phonetic": "/ˈmedsɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "'ll be",
+        "role": "V",
+        "phonetic": "/əl biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "fine",
+        "role": "C",
+        "phonetic": "/faɪn/",
+        "chinese": "好的/晴朗的"
+      }
+    ]
+  },
+  {
+    "chinese": "我头痛得厉害。",
+    "english": "I have a bad headache.",
+    "soundmark": "/aɪ hæv ə bæd ˈhedeɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bad",
+        "role": "C",
+        "phonetic": "/bæd/",
+        "chinese": "坏的"
+      },
+      {
+        "text": "headache",
+        "role": "O",
+        "phonetic": "/ˈhedeɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我胃痛。",
+    "english": "I have a stomach ache.",
+    "soundmark": "/aɪ hæv ə ˈstʌmək eɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "stomach",
+        "role": "C",
+        "phonetic": "/ˈstʌmək/",
+        "chinese": ""
+      },
+      {
+        "text": "ache",
+        "role": "O",
+        "phonetic": "/eɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "马上",
+    "english": "immediately",
+    "soundmark": "/ɪˈmiːdiətli/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɒspɪtl/"
+  },
+  {
+    "chinese": "诊所",
+    "english": "clinic",
+    "soundmark": "/ˈklɪnɪk/"
+  },
+  {
+    "chinese": "护士",
+    "english": "nurse",
+    "soundmark": "/nɜːs/"
+  },
+  {
+    "chinese": "医生",
+    "english": "doctor",
+    "soundmark": "/ˈdɒktə/"
+  },
+  {
+    "chinese": "病人",
+    "english": "patient",
+    "soundmark": "/ˈpeɪʃnt/"
+  },
+  {
+    "chinese": "处方",
+    "english": "prescription",
+    "soundmark": "/prɪˈskrɪpʃn/"
+  },
+  {
+    "chinese": "药片",
+    "english": "pill",
+    "soundmark": "/pɪl/"
+  },
+  {
+    "chinese": "糖浆",
+    "english": "syrup",
+    "soundmark": "/ˈsɪrəp/"
+  },
+  {
+    "chinese": "注射",
+    "english": "injection",
+    "soundmark": "/ɪnˈdʒekʃn/"
+  },
+  {
+    "chinese": "绷带",
+    "english": "bandage",
+    "soundmark": "/ˈbændɪdʒ/"
+  },
+  {
+    "chinese": "创可贴",
+    "english": "band-aid",
+    "soundmark": "/ˈbængeɪd/"
+  },
+  {
+    "chinese": "温度计",
+    "english": "thermometer",
+    "soundmark": "/θəˈmɒmɪtə/"
+  },
+  {
+    "chinese": "症状",
+    "english": "symptom",
+    "soundmark": "/ˈsɪmptəm/"
+  },
+  {
+    "chinese": "过敏",
+    "english": "allergy",
+    "soundmark": "/ˈælədʒi/"
+  },
+  {
+    "chinese": "哮喘",
+    "english": "asthma",
+    "soundmark": "/ˈæsmə/"
+  },
+  {
+    "chinese": "糖尿病",
+    "english": "diabetes",
+    "soundmark": "/ˌdaɪəˈbiːtiːz/"
+  },
+  {
+    "chinese": "高血压",
+    "english": "high blood pressure",
+    "soundmark": "/haɪ blʌd ˈpreʃə/"
+  },
+  {
+    "chinese": "心脏病",
+    "english": "heart disease",
+    "soundmark": "/hɑːt dɪˈziːz/"
+  },
+  {
+    "chinese": "肺炎",
+    "english": "pneumonia",
+    "soundmark": "/njuːˈməʊniə/"
+  },
+  {
+    "chinese": "流感",
+    "english": "flu",
+    "soundmark": "/fluː/"
+  },
+  {
+    "chinese": "感染",
+    "english": "infection",
+    "soundmark": "/ɪnˈfekʃn/"
+  },
+  {
+    "chinese": "炎症",
+    "english": "inflammation",
+    "soundmark": "/ˌɪnfləˈmeɪʃn/"
+  },
+  {
+    "chinese": "康复",
+    "english": "recover",
+    "soundmark": "/rɪˈkʌvə/"
+  },
+  {
+    "chinese": "休息",
+    "english": "rest",
+    "soundmark": "/rest/"
+  }
+]

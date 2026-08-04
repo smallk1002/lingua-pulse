@@ -1,0 +1,1089 @@
+[
+  {
+    "chinese": "盲人",
+    "english": "blind",
+    "soundmark": "/blaɪnd/"
+  },
+  {
+    "chinese": "感知",
+    "english": "perceive",
+    "soundmark": "/pərˈsiːv/"
+  },
+  {
+    "chinese": "触觉",
+    "english": "touch",
+    "soundmark": "/tʌtʃ/"
+  },
+  {
+    "chinese": "灵敏度",
+    "english": "sensitivity",
+    "soundmark": "/ˌsensəˈtɪvəti/"
+  },
+  {
+    "chinese": "振动",
+    "english": "vibration",
+    "soundmark": "/vaɪˈbreɪʃn/"
+  },
+  {
+    "chinese": "障碍物",
+    "english": "obstacle",
+    "soundmark": "/ˈɑːbstəkl/"
+  },
+  {
+    "chinese": "回声",
+    "english": "echo",
+    "soundmark": "/ˈekoʊ/"
+  },
+  {
+    "chinese": "面部",
+    "english": "facial",
+    "soundmark": "/ˈfeɪʃl/"
+  },
+  {
+    "chinese": "识别",
+    "english": "recognize",
+    "soundmark": "/ˈrekəɡnaɪz/"
+  },
+  {
+    "chinese": "能力",
+    "english": "ability",
+    "soundmark": "/əˈbɪləti/"
+  },
+  {
+    "chinese": "障碍",
+    "english": "barrier",
+    "soundmark": "/ˈbæriər/"
+  },
+  {
+    "chinese": "补偿",
+    "english": "compensate",
+    "soundmark": "/ˈkɑːmpenseɪt/"
+  },
+  {
+    "chinese": "现象",
+    "english": "phenomenon",
+    "soundmark": "/fəˈnɑːmɪnən/"
+  },
+  {
+    "chinese": "感官",
+    "english": "sense",
+    "soundmark": "/sens/"
+  },
+  {
+    "chinese": "直觉",
+    "english": "intuition",
+    "soundmark": "/ˌɪntuˈɪʃn/"
+  },
+  {
+    "chinese": "感知障碍物",
+    "english": "perceive obstacles",
+    "soundmark": "/pərˈsiːv/ /ˈɑːbstəklz/"
+  },
+  {
+    "chinese": "面部识别",
+    "english": "facial recognition",
+    "soundmark": "/ˈfeɪʃl/ /ˌrekəɡˈnɪʃn/"
+  },
+  {
+    "chinese": "通过触觉",
+    "english": "through touch",
+    "soundmark": "/θruː/ /tʌtʃ/"
+  },
+  {
+    "chinese": "感官补偿",
+    "english": "sensory compensation",
+    "soundmark": "/ˈsensəri/ /ˌkɑːmpenˈseɪʃn/"
+  },
+  {
+    "chinese": "灵敏的触觉",
+    "english": "sensitive touch",
+    "soundmark": "/ˈsensətɪv/ /tʌtʃ/"
+  },
+  {
+    "chinese": "正在感知周围环境的盲人",
+    "english": "a blind person perceiving the surroundings",
+    "soundmark": "/ə/ /blaɪnd/ /ˈpɜːrsn/ /pərˈsiːvɪŋ/ /ðə/ /səˈraʊndɪŋz/",
+    "grammar": [
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "blind",
+        "role": "A",
+        "phonetic": "/blaɪnd/",
+        "chinese": "瞎的/盲目的"
+      },
+      {
+        "text": "person",
+        "role": "S",
+        "phonetic": "/ˈpɜːrsn/",
+        "chinese": "人"
+      },
+      {
+        "text": "perceiving",
+        "role": "V",
+        "phonetic": "/pərˈsiːvɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "surroundings",
+        "role": "O",
+        "phonetic": "/səˈraʊndɪŋz/",
+        "chinese": "周围的"
+      }
+    ]
+  },
+  {
+    "chinese": "他们通过感受空气的振动来探测障碍物",
+    "english": "they detect obstacles by feeling the vibrations in the air",
+    "soundmark": "/ðeɪ/ /dɪˈtekt/ /ˈɑːbstəklz/ /baɪ/ /ˈfiːlɪŋ/ /ðə/ /vaɪˈbreɪʃnz/ /ɪn/ /ði/ /er/",
+    "grammar": [
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "detect",
+        "role": "V",
+        "phonetic": "/dɪˈtekt/",
+        "chinese": ""
+      },
+      {
+        "text": "obstacles",
+        "role": "O",
+        "phonetic": "/ˈɑːbstəklz/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "feeling",
+        "role": "V",
+        "phonetic": "/ˈfiːlɪŋ/",
+        "chinese": "感觉的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "vibrations",
+        "role": "O",
+        "phonetic": "/vaɪˈbreɪʃnz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "air",
+        "role": "O",
+        "phonetic": "/er/",
+        "chinese": "空气"
+      }
+    ]
+  },
+  {
+    "chinese": "她用双手触摸着读完了整本书",
+    "english": "she finished reading the whole book touching it with her hands",
+    "soundmark": "/ʃiː/ /ˈfɪnɪʃt/ /ˈriːdɪŋ/ /ðə/ /hoʊl/ /bʊk/ /ˈtʌtʃɪŋ/ /ɪt/ /wɪð/ /hɜːr/ /hændz/",
+    "grammar": [
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "reading",
+        "role": "V",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "A",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "touching",
+        "role": "V",
+        "phonetic": "/ˈtʌtʃɪŋ/",
+        "chinese": "触摸"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "hands",
+        "role": "O",
+        "phonetic": "/hændz/",
+        "chinese": "手"
+      }
+    ]
+  },
+  {
+    "chinese": "盲人通过聆听回声来判断距离",
+    "english": "blind people judge distance by listening to the echoes",
+    "soundmark": "/blaɪnd/ /ˈpiːpl/ /dʒʌdʒ/ /ˈdɪstəns/ /baɪ/ /ˈlɪsənɪŋ/ /tuː/ /ði/ /ˈekoʊz/",
+    "grammar": [
+      {
+        "text": "blind",
+        "role": "A",
+        "phonetic": "/blaɪnd/",
+        "chinese": "瞎的/盲目的"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "judge",
+        "role": "V",
+        "phonetic": "/dʒʌdʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "distance",
+        "role": "O",
+        "phonetic": "/ˈdɪstəns/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "listening",
+        "role": "V",
+        "phonetic": "/ˈlɪsənɪŋ/",
+        "chinese": "听的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "echoes",
+        "role": "O",
+        "phonetic": "/ˈekoʊz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "失去视力的同时他们的其他感官变得异常灵敏",
+    "english": "losing their sight their other senses become remarkably acute",
+    "soundmark": "/ˈluːzɪŋ/ /ðer/ /saɪt/ /ðer/ /ˈʌðər/ /ˈsensɪz/ /bɪˈkʌm/ /rɪˈmɑːrkəbli/ /əˈkjuːt/",
+    "grammar": [
+      {
+        "text": "losing",
+        "role": "V",
+        "phonetic": "/ˈluːzɪŋ/",
+        "chinese": "输/丢失"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "sight",
+        "role": "O",
+        "phonetic": "/saɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "other",
+        "role": "A",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      },
+      {
+        "text": "senses",
+        "role": "S",
+        "phonetic": "/ˈsensɪz/",
+        "chinese": "…们/复数(感觉/意义)"
+      },
+      {
+        "text": "become",
+        "role": "Lv",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "remarkably",
+        "role": "Adv",
+        "phonetic": "/rɪˈmɑːrkəbli/",
+        "chinese": ""
+      },
+      {
+        "text": "acute",
+        "role": "C",
+        "phonetic": "/əˈkjuːt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "通过仔细触摸人们的脸她能够辨认出他们的情绪",
+    "english": "by carefully touching people's faces she can recognize their emotions",
+    "soundmark": "/baɪ/ /ˈkerfəli/ /ˈtʌtʃɪŋ/ /ˈpiːplz/ /ˈfeɪsɪz/ /ʃiː/ /kæn/ /ˈrekəɡnaɪz/ /ðer/ /ɪˈmoʊʃnz/",
+    "grammar": [
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "carefully",
+        "role": "Adv",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      },
+      {
+        "text": "touching",
+        "role": "V",
+        "phonetic": "/ˈtʌtʃɪŋ/",
+        "chinese": "触摸"
+      },
+      {
+        "text": "people's",
+        "role": "Det",
+        "phonetic": "/ˈpiːplz/",
+        "chinese": "人们"
+      },
+      {
+        "text": "faces",
+        "role": "O",
+        "phonetic": "/ˈfeɪsɪz/",
+        "chinese": "脸"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "recognize",
+        "role": "V",
+        "phonetic": "/ˈrekəɡnaɪz/",
+        "chinese": "认出/承认"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "emotions",
+        "role": "O",
+        "phonetic": "/ɪˈmoʊʃnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "科学家正在研究盲人如何用皮肤看见东西",
+    "english": "scientists are studying how blind people see with their skin",
+    "soundmark": "/ˈsaɪəntɪsts/ /ɑːr/ /ˈstʌdiɪŋ/ /haʊ/ /blaɪnd/ /ˈpiːpl/ /siː/ /wɪð/ /ðer/ /skɪn/",
+    "grammar": [
+      {
+        "text": "scientists",
+        "role": "S",
+        "phonetic": "/ˈsaɪəntɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "studying",
+        "role": "V",
+        "phonetic": "/ˈstʌdiɪŋ/",
+        "chinese": "学习的"
+      },
+      {
+        "text": "how",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "blind",
+        "role": "A",
+        "phonetic": "/blaɪnd/",
+        "chinese": "瞎的/盲目的"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "skin",
+        "role": "O",
+        "phonetic": "/skɪn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这个男孩正在用手指触摸着花朵的花瓣感受它的质地",
+    "english": "the boy is touching the petals of the flower feeling its texture with his fingers",
+    "soundmark": "/ðə/ /bɔɪ/ /ɪz/ /ˈtʌtʃɪŋ/ /ðə/ /ˈpetlz/ /ʌv/ /ðə/ /ˈflaʊər/ /ˈfiːlɪŋ/ /ɪts/ /ˈtekstʃər/ /wɪð/ /hɪz/ /ˈfɪŋɡərz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "boy",
+        "role": "S",
+        "phonetic": "/bɔɪ/",
+        "chinese": "男孩"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "touching",
+        "role": "V",
+        "phonetic": "/ˈtʌtʃɪŋ/",
+        "chinese": "触摸"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "petals",
+        "role": "O",
+        "phonetic": "/ˈpetlz/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "flower",
+        "role": "O",
+        "phonetic": "/ˈflaʊər/",
+        "chinese": "花"
+      },
+      {
+        "text": "feeling",
+        "role": "V",
+        "phonetic": "/ˈfiːlɪŋ/",
+        "chinese": "感觉的"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "texture",
+        "role": "O",
+        "phonetic": "/ˈtekstʃər/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "fingers",
+        "role": "O",
+        "phonetic": "/ˈfɪŋɡərz/",
+        "chinese": "手指"
+      }
+    ]
+  },
+  {
+    "chinese": "耳朵能代替眼睛这种说法已被多次证实",
+    "english": "the claim that ears can replace eyes has been proved many times",
+    "soundmark": "/ðə/ /kleɪm/ /ðæt/ /ɪrz/ /kæn/ /rɪˈpleɪs/ /aɪz/ /hæz/ /bɪn/ /pruːvd/ /ˈmeni/ /taɪmz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "claim",
+        "role": "S",
+        "phonetic": "/kleɪm/",
+        "chinese": "声称"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "ears",
+        "role": "S",
+        "phonetic": "/ɪrz/",
+        "chinese": ""
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "replace",
+        "role": "V",
+        "phonetic": "/rɪˈpleɪs/",
+        "chinese": "替换"
+      },
+      {
+        "text": "eyes",
+        "role": "O",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "proved",
+        "role": "V",
+        "phonetic": "/pruːvd/",
+        "chinese": "证明"
+      },
+      {
+        "text": "many",
+        "role": "A",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "times",
+        "role": "O",
+        "phonetic": "/taɪmz/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "我发现他在用手读一份盲文报纸",
+    "english": "I found him reading a braille newspaper with his hands",
+    "soundmark": "/aɪ/ /faʊnd/ /hɪm/ /ˈriːdɪŋ/ /ə/ /breɪl/ /ˈnuːzpeɪpər/ /wɪð/ /hɪz/ /hændz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "reading",
+        "role": "V",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "braille",
+        "role": "A",
+        "phonetic": "/breɪl/",
+        "chinese": ""
+      },
+      {
+        "text": "newspaper",
+        "role": "O",
+        "phonetic": "/ˈnuːzpeɪpər/",
+        "chinese": "报纸"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "hands",
+        "role": "O",
+        "phonetic": "/hændz/",
+        "chinese": "手"
+      }
+    ]
+  },
+  {
+    "chinese": "她已经习惯用听力补偿视力的缺失",
+    "english": "she has become accustomed to compensating for her lack of sight with hearing",
+    "soundmark": "/ʃiː/ /hæz/ /bɪˈkʌm/ /əˈkʌstəmd/ /tuː/ /ˈkɑːmpenseɪtɪŋ/ /fɔːr/ /hɜːr/ /læk/ /ʌv/ /saɪt/ /wɪð/ /ˈhɪrɪŋ/",
+    "grammar": [
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "become",
+        "role": "Lv",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "accustomed",
+        "role": "C",
+        "phonetic": "/əˈkʌstəmd/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "compensating",
+        "role": "V",
+        "phonetic": "/ˈkɑːmpenseɪtɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "lack",
+        "role": "O",
+        "phonetic": "/læk/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "sight",
+        "role": "O",
+        "phonetic": "/saɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "hearing",
+        "role": "O",
+        "phonetic": "/ˈhɪrɪŋ/",
+        "chinese": "听到的"
+      }
+    ]
+  },
+  {
+    "chinese": "人们以前认为盲人具有一种神秘的第六感",
+    "english": "it was once thought that blind people possessed a mysterious sixth sense",
+    "soundmark": "/ɪt/ /wʌz/ /wʌns/ /θɔːt/ /ðæt/ /blaɪnd/ /ˈpiːpl/ /pəˈzest/ /ə/ /mɪˈstɪriəs/ /sɪksθ/ /sens/",
+    "grammar": [
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "once",
+        "role": "Adv",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɔːt/",
+        "chinese": "想/认为（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "blind",
+        "role": "A",
+        "phonetic": "/blaɪnd/",
+        "chinese": "瞎的/盲目的"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "possessed",
+        "role": "V",
+        "phonetic": "/pəˈzest/",
+        "chinese": "拥有"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "mysterious",
+        "role": "A",
+        "phonetic": "/mɪˈstɪriəs/",
+        "chinese": ""
+      },
+      {
+        "text": "sixth",
+        "role": "A",
+        "phonetic": "/sɪksθ/",
+        "chinese": ""
+      },
+      {
+        "text": "sense",
+        "role": "O",
+        "phonetic": "/sens/",
+        "chinese": "感觉/意义"
+      }
+    ]
+  },
+  {
+    "chinese": "现在我们知道那所谓的第六感其实是通过触觉发出的声音感知",
+    "english": "now we know that the so-called sixth sense is really perception through touch-elicited sounds",
+    "soundmark": "/naʊ/ /wiː/ /noʊ/ /ðæt/ /ðə/ /soʊˈkɔːld/ /sɪksθ/ /sens/ /ɪz/ /ˈriːəli/ /pərˈsepʃn/ /θruː/ /tʌtʃ/ /ɪˈlɪsɪtɪd/ /saʊndz/",
+    "grammar": [
+      {
+        "text": "now",
+        "role": "Adv",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "so-called",
+        "role": "A",
+        "phonetic": "/soʊˈkɔːld/",
+        "chinese": ""
+      },
+      {
+        "text": "sixth",
+        "role": "A",
+        "phonetic": "/sɪksθ/",
+        "chinese": ""
+      },
+      {
+        "text": "sense",
+        "role": "S",
+        "phonetic": "/sens/",
+        "chinese": "感觉/意义"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "really",
+        "role": "Adv",
+        "phonetic": "/ˈriːəli/",
+        "chinese": "真正地"
+      },
+      {
+        "text": "perception",
+        "role": "C",
+        "phonetic": "/pərˈsepʃn/",
+        "chinese": ""
+      },
+      {
+        "text": "through",
+        "role": "P",
+        "phonetic": "/θruː/",
+        "chinese": "通过/穿过"
+      },
+      {
+        "text": "touch-elicited",
+        "role": "A",
+        "phonetic": "/tʌtʃ/ /ɪˈlɪsɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "sounds",
+        "role": "O",
+        "phonetic": "/saʊndz/",
+        "chinese": "声音"
+      }
+    ]
+  },
+  {
+    "chinese": "探测",
+    "english": "detect",
+    "soundmark": "/dɪˈtekt/"
+  },
+  {
+    "chinese": "质地",
+    "english": "texture",
+    "soundmark": "/ˈtekstʃər/"
+  },
+  {
+    "chinese": "敏锐的",
+    "english": "acute",
+    "soundmark": "/əˈkjuːt/"
+  },
+  {
+    "chinese": "习惯的",
+    "english": "accustomed",
+    "soundmark": "/əˈkʌstəmd/"
+  },
+  {
+    "chinese": "盲文",
+    "english": "braille",
+    "soundmark": "/breɪl/"
+  },
+  {
+    "chinese": "神秘的",
+    "english": "mysterious",
+    "soundmark": "/mɪˈstɪriəs/"
+  },
+  {
+    "chinese": "拥有",
+    "english": "possess",
+    "soundmark": "/pəˈzes/"
+  },
+  {
+    "chinese": "花瓣",
+    "english": "petal",
+    "soundmark": "/ˈpetl/"
+  },
+  {
+    "chinese": "代替",
+    "english": "replace",
+    "soundmark": "/rɪˈpleɪs/"
+  },
+  {
+    "chinese": "周围环境",
+    "english": "surroundings",
+    "soundmark": "/səˈraʊndɪŋz/"
+  }
+]

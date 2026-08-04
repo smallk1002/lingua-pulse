@@ -1,0 +1,585 @@
+[
+  {
+    "chinese": "贵族",
+    "english": "noble",
+    "soundmark": "/ˈnoʊbəl/"
+  },
+  {
+    "chinese": "歹徒",
+    "english": "gangster",
+    "soundmark": "/ˈɡæŋstər/"
+  },
+  {
+    "chinese": "保护费",
+    "english": "protection money",
+    "soundmark": "/prəˈtekʃən/ /ˈmʌni/"
+  },
+  {
+    "chinese": "商人",
+    "english": "merchant",
+    "soundmark": "/ˈmɜːrtʃənt/"
+  },
+  {
+    "chinese": "佛罗伦萨",
+    "english": "Florence",
+    "soundmark": "/ˈflɔːrəns/"
+  },
+  {
+    "chinese": "文艺复兴",
+    "english": "Renaissance",
+    "soundmark": "/ˈrenəsɑːns/"
+  },
+  {
+    "chinese": "敲诈",
+    "english": "extort",
+    "soundmark": "/ɪkˈstɔːrt/"
+  },
+  {
+    "chinese": "慷慨",
+    "english": "generosity",
+    "soundmark": "/ˌdʒenəˈrɑːsəti/"
+  },
+  {
+    "chinese": "昔日的",
+    "english": "of old",
+    "soundmark": "/ʌv/ /oʊld/"
+  },
+  {
+    "chinese": "贵族歹徒",
+    "english": "noble gangster",
+    "soundmark": "/ˈnoʊbəl/ /ˈɡæŋstər/"
+  },
+  {
+    "chinese": "收取保护费",
+    "english": "collect protection money",
+    "soundmark": "/kəˈlekt/ /prəˈtekʃən/ /ˈmʌni/"
+  },
+  {
+    "chinese": "文艺复兴时期的佛罗伦萨",
+    "english": "Florence of the Renaissance",
+    "soundmark": "/ˈflɔːrəns/ /ʌv/ /ðə/ /ˈrenəsɑːns/"
+  },
+  {
+    "chinese": "他过去常常保护那些商人",
+    "english": "He would protect the merchants",
+    "soundmark": "/hiː/ /wʊd/ /prəˈtekt/ /ðə/ /ˈmɜːrtʃənts/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "protect",
+        "role": "V",
+        "phonetic": "/prəˈtekt/",
+        "chinese": "保护"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "merchants",
+        "role": "O",
+        "phonetic": "/ˈmɜːrtʃənts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常用刀剑来战斗",
+    "english": "He would fight with swords and knives",
+    "soundmark": "/hiː/ /wʊd/ /faɪt/ /wɪð/ /sɔːrdz/ /ænd/ /naɪvz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "fight",
+        "role": "V",
+        "phonetic": "/faɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "swords",
+        "role": "O",
+        "phonetic": "/sɔːrdz/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "knives",
+        "role": "O",
+        "phonetic": "/naɪvz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常为穷人付钱",
+    "english": "He would pay for the poor",
+    "soundmark": "/hiː/ /wʊd/ /peɪ/ /fɔːr/ /ðə/ /pʊr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "pay",
+        "role": "V",
+        "phonetic": "/peɪ/",
+        "chinese": "付钱"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "poor",
+        "role": "O",
+        "phonetic": "/pʊr/",
+        "chinese": "贫穷的"
+      }
+    ]
+  },
+  {
+    "chinese": "他不是一个普通的罪犯",
+    "english": "He was not an ordinary criminal",
+    "soundmark": "/hiː/ /wʌz/ /nɑːt/ /ən/ /ˈɔːrdəneri/ /ˈkrɪmɪnəl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "ordinary",
+        "role": "A",
+        "phonetic": "/ˈɔːrdəneri/",
+        "chinese": "普通的"
+      },
+      {
+        "text": "criminal",
+        "role": "C",
+        "phonetic": "/ˈkrɪmɪnəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他以前每天早晨抽雪茄吗",
+    "english": "Would he smoke a cigar every morning",
+    "soundmark": "/wʊd/ /hiː/ /smoʊk/ /ə/ /sɪˈɡɑːr/ /ˈevri/ /ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "Would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "smoke",
+        "role": "V",
+        "phonetic": "/smoʊk/",
+        "chinese": "抽烟/烟"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cigar",
+        "role": "O",
+        "phonetic": "/sɪˈɡɑːr/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "他以前对所有需要帮助的人都很慷慨",
+    "english": "He would be generous to all those in need",
+    "soundmark": "/hiː/ /wʊd/ /biː/ /ˈdʒenərəs/ /tuː/ /ɔːl/ /ðoʊz/ /ɪn/ /niːd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "generous",
+        "role": "C",
+        "phonetic": "/ˈdʒenərəs/",
+        "chinese": "慷慨的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "those",
+        "role": "O",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "need",
+        "role": "A",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      }
+    ]
+  },
+  {
+    "chinese": "歹徒以前常常在乡间游荡恐吓旅行者",
+    "english": "The gangsters would roam the countryside and terrorize the travellers",
+    "soundmark": "/ðə/ /ˈɡæŋstərz/ /wʊd/ /roʊm/ /ðə/ /ˈkʌntrisaɪd/ /ænd/ /ˈterəraɪz/ /ðə/ /ˈtrævələrz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "gangsters",
+        "role": "S",
+        "phonetic": "/ˈɡæŋstərz/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "roam",
+        "role": "V",
+        "phonetic": "/roʊm/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "countryside",
+        "role": "O",
+        "phonetic": "/ˈkʌntrisaɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "terrorize",
+        "role": "V",
+        "phonetic": "/ˈterəraɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "travellers",
+        "role": "O",
+        "phonetic": "/ˈtrævələrz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "虽然他是个歹徒但他从不伤害穷人",
+    "english": "Although he was a gangster he never harmed the poor",
+    "soundmark": "/ɔːlˈðoʊ/ /hiː/ /wʌz/ /ə/ /ˈɡæŋstər/ /hiː/ /ˈnevər/ /hɑːrmd/ /ðə/ /pʊr/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "gangster",
+        "role": "C",
+        "phonetic": "/ˈɡæŋstər/",
+        "chinese": ""
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "harmed",
+        "role": "V",
+        "phonetic": "/hɑːrmd/",
+        "chinese": "伤害"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "poor",
+        "role": "O",
+        "phonetic": "/pʊr/",
+        "chinese": "贫穷的"
+      }
+    ]
+  },
+  {
+    "chinese": "犯罪",
+    "english": "criminal",
+    "soundmark": "/ˈkrɪmɪnəl/"
+  },
+  {
+    "chinese": "普通",
+    "english": "ordinary",
+    "soundmark": "/ˈɔːrdəneri/"
+  },
+  {
+    "chinese": "保护",
+    "english": "protect",
+    "soundmark": "/prəˈtekt/"
+  },
+  {
+    "chinese": "刀剑",
+    "english": "sword",
+    "soundmark": "/sɔːrd/"
+  },
+  {
+    "chinese": "雪茄",
+    "english": "cigar",
+    "soundmark": "/sɪˈɡɑːr/"
+  },
+  {
+    "chinese": "游荡",
+    "english": "roam",
+    "soundmark": "/roʊm/"
+  },
+  {
+    "chinese": "伤害",
+    "english": "harm",
+    "soundmark": "/hɑːrm/"
+  },
+  {
+    "chinese": "恐吓",
+    "english": "terrorize",
+    "soundmark": "/ˈterəraɪz/"
+  },
+  {
+    "chinese": "在文艺复兴时期的意大利像他这样的人虽是罪犯却也受人尊敬",
+    "english": "In Renaissance Italy men like him were criminals yet respected",
+    "soundmark": "/ɪn/ /ˈrenəsɑːns/ /ˈɪtəli/ /men/ /laɪk/ /hɪm/ /wɜːr/ /ˈkrɪmɪnəlz/ /jet/ /rɪˈspektɪd/",
+    "grammar": [
+      {
+        "text": "In",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Renaissance",
+        "role": "A",
+        "phonetic": "/ˈrenəsɑːns/",
+        "chinese": ""
+      },
+      {
+        "text": "Italy",
+        "role": "A",
+        "phonetic": "/ˈɪtəli/",
+        "chinese": "意大利"
+      },
+      {
+        "text": "men",
+        "role": "S",
+        "phonetic": "/men/",
+        "chinese": ""
+      },
+      {
+        "text": "like",
+        "role": "P",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "criminals",
+        "role": "C",
+        "phonetic": "/ˈkrɪmɪnəlz/",
+        "chinese": ""
+      },
+      {
+        "text": "yet",
+        "role": "P",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      },
+      {
+        "text": "respected",
+        "role": "C",
+        "phonetic": "/rɪˈspektɪd/",
+        "chinese": "尊重"
+      }
+    ]
+  }
+]

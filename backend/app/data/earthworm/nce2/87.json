@@ -1,0 +1,235 @@
+[
+  {
+    "chinese": "不在场证明",
+    "english": "alibi",
+    "soundmark": "/ˈælɪbaɪ/"
+  },
+  {
+    "chinese": "犯罪",
+    "english": "commit",
+    "soundmark": "/kəˈmɪt/"
+  },
+  {
+    "chinese": "谋杀",
+    "english": "murder",
+    "soundmark": "/ˈmɜːrdər/"
+  },
+  {
+    "chinese": "探长",
+    "english": "inspector",
+    "soundmark": "/ɪnˈspektər/"
+  },
+  {
+    "chinese": "雇主",
+    "english": "employer",
+    "soundmark": "/ɪmˈplɔɪər/"
+  },
+  {
+    "chinese": "确认",
+    "english": "confirm",
+    "soundmark": "/kənˈfɜːrm/"
+  },
+  {
+    "chinese": "他说他一整天都在工作",
+    "english": "He said he had been at work all day",
+    "soundmark": "/hiː sed hiː hæd biːn æt wɜːrk ɔːl deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "work",
+        "role": "A",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "探长问他在哪里",
+    "english": "The inspector asked him where he had been",
+    "soundmark": "/ði ɪnˈspektər æskt hɪm wer hiː hæd biːn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "inspector",
+        "role": "S",
+        "phonetic": "/ɪnˈspektər/",
+        "chinese": ""
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "他告诉我他赶上了早班火车",
+    "english": "He told me that he had caught the early train",
+    "soundmark": "/hiː toʊld miː ðæt hiː hæd kɔːt ði ˈɜːrli treɪn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "early",
+        "role": "C",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "train",
+        "role": "O",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      }
+    ]
+  },
+  {
+    "chinese": "不在场证明",
+    "english": "alibi",
+    "soundmark": "/ˈælɪbaɪ/"
+  },
+  {
+    "chinese": "探长",
+    "english": "inspector",
+    "soundmark": "/ɪnˈspektər/"
+  },
+  {
+    "chinese": "犯罪",
+    "english": "commit",
+    "soundmark": "/kəˈmɪt/"
+  },
+  {
+    "chinese": "确认",
+    "english": "confirm",
+    "soundmark": "/kənˈfɜːrm/"
+  }
+]

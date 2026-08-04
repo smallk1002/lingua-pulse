@@ -1,0 +1,697 @@
+[
+  {
+    "chinese": "高的",
+    "english": "tall",
+    "soundmark": "/tɔːl/"
+  },
+  {
+    "chinese": "矮的",
+    "english": "short",
+    "soundmark": "/ʃɔːrt/"
+  },
+  {
+    "chinese": "胖的",
+    "english": "fat",
+    "soundmark": "/fæt/"
+  },
+  {
+    "chinese": "瘦的",
+    "english": "thin",
+    "soundmark": "/θɪn/"
+  },
+  {
+    "chinese": "年轻的",
+    "english": "young",
+    "soundmark": "/jʌŋ/"
+  },
+  {
+    "chinese": "年老的",
+    "english": "old",
+    "soundmark": "/oʊld/"
+  },
+  {
+    "chinese": "漂亮的",
+    "english": "beautiful",
+    "soundmark": "/ˈbjuːtɪfəl/"
+  },
+  {
+    "chinese": "英俊的",
+    "english": "handsome",
+    "soundmark": "/ˈhænsəm/"
+  },
+  {
+    "chinese": "丑陋的",
+    "english": "ugly",
+    "soundmark": "/ˈʌɡli/"
+  },
+  {
+    "chinese": "强壮的",
+    "english": "strong",
+    "soundmark": "/strɔːŋ/"
+  },
+  {
+    "chinese": "虚弱的",
+    "english": "weak",
+    "soundmark": "/wiːk/"
+  },
+  {
+    "chinese": "干净的",
+    "english": "clean",
+    "soundmark": "/kliːn/"
+  },
+  {
+    "chinese": "脏的",
+    "english": "dirty",
+    "soundmark": "/ˈdɜːrti/"
+  },
+  {
+    "chinese": "聪明的",
+    "english": "clever",
+    "soundmark": "/ˈklevər/"
+  },
+  {
+    "chinese": "笨的",
+    "english": "stupid",
+    "soundmark": "/ˈstuːpɪd/"
+  },
+  {
+    "chinese": "富有的",
+    "english": "rich",
+    "soundmark": "/rɪtʃ/"
+  },
+  {
+    "chinese": "贫穷的",
+    "english": "poor",
+    "soundmark": "/pʊr/"
+  },
+  {
+    "chinese": "头发",
+    "english": "hair",
+    "soundmark": "/her/"
+  },
+  {
+    "chinese": "眼睛",
+    "english": "eye",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "chinese": "嘴",
+    "english": "mouth",
+    "soundmark": "/maʊθ/"
+  },
+  {
+    "chinese": "鼻子",
+    "english": "nose",
+    "soundmark": "/noʊz/"
+  },
+  {
+    "chinese": "又高又瘦的",
+    "english": "tall and thin",
+    "soundmark": "/tɔːl/ /ænd/ /θɪn/"
+  },
+  {
+    "chinese": "又矮又胖的",
+    "english": "short and fat",
+    "soundmark": "/ʃɔːrt/ /ænd/ /fæt/"
+  },
+  {
+    "chinese": "他是高的",
+    "english": "He is tall",
+    "soundmark": "/hiː/ /ɪz/ /tɔːl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "tall",
+        "role": "C",
+        "phonetic": "/tɔːl/",
+        "chinese": "高的"
+      }
+    ]
+  },
+  {
+    "chinese": "她是矮的",
+    "english": "She is short",
+    "soundmark": "/ʃiː/ /ɪz/ /ʃɔːrt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "short",
+        "role": "C",
+        "phonetic": "/ʃɔːrt/",
+        "chinese": "短的"
+      }
+    ]
+  },
+  {
+    "chinese": "我父亲又高又壮",
+    "english": "My father is tall and strong",
+    "soundmark": "/maɪ/ /ˈfɑːðər/ /ɪz/ /tɔːl/ /ænd/ /strɔːŋ/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "father",
+        "role": "S",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "tall",
+        "role": "C",
+        "phonetic": "/tɔːl/",
+        "chinese": "高的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "strong",
+        "role": "C",
+        "phonetic": "/strɔːŋ/",
+        "chinese": "强壮的"
+      }
+    ]
+  },
+  {
+    "chinese": "她非常漂亮",
+    "english": "She is very beautiful",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈveri/ /ˈbjuːtɪfəl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      }
+    ]
+  },
+  {
+    "chinese": "他年轻还是年老",
+    "english": "Is he young or old",
+    "soundmark": "/ɪz/ /hiː/ /jʌŋ/ /ɔːr/ /oʊld/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "他年轻但他很强壮",
+    "english": "He is young but he is very strong",
+    "soundmark": "/hiː/ /ɪz/ /jʌŋ/ /bʌt/ /hiː/ /ɪz/ /ˈveri/ /strɔːŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "strong",
+        "role": "C",
+        "phonetic": "/strɔːŋ/",
+        "chinese": "强壮的"
+      }
+    ]
+  },
+  {
+    "chinese": "她不是胖的她是瘦的",
+    "english": "She is not fat she is thin",
+    "soundmark": "/ʃiː/ /ɪz/ /nɑːt/ /fæt/ /ʃiː/ /ɪz/ /θɪn/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "fat",
+        "role": "C",
+        "phonetic": "/fæt/",
+        "chinese": "胖的"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "thin",
+        "role": "C",
+        "phonetic": "/θɪn/",
+        "chinese": "瘦的"
+      }
+    ]
+  },
+  {
+    "chinese": "他长什么样他高个子留着短发",
+    "english": "What does he look like he is tall with short hair",
+    "soundmark": "/wʌt/ /dʌz/ /hiː/ /lʊk/ /laɪk/ /hiː/ /ɪz/ /tɔːl/ /wɪð/ /ʃɔːrt/ /her/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "look",
+        "role": "V",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "like",
+        "role": "P",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "tall",
+        "role": "C",
+        "phonetic": "/tɔːl/",
+        "chinese": "高的"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "short",
+        "role": "C",
+        "phonetic": "/ʃɔːrt/",
+        "chinese": "短的"
+      },
+      {
+        "text": "hair",
+        "role": "C",
+        "phonetic": "/her/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她的眼睛是蓝色的",
+    "english": "Her eyes are blue",
+    "soundmark": "/hɜːr/ /aɪz/ /ɑːr/ /bluː/",
+    "grammar": [
+      {
+        "text": "Her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "eyes",
+        "role": "S",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "blue",
+        "role": "C",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这位男士又老又瘦",
+    "english": "The man is old and thin",
+    "soundmark": "/ðə/ /mæn/ /ɪz/ /oʊld/ /ænd/ /θɪn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "thin",
+        "role": "C",
+        "phonetic": "/θɪn/",
+        "chinese": "瘦的"
+      }
+    ]
+  },
+  {
+    "chinese": "那位女士很富有但不快乐",
+    "english": "The woman is rich but not happy",
+    "soundmark": "/ðə/ /ˈwʊmən/ /ɪz/ /rɪtʃ/ /bʌt/ /nɑːt/ /ˈhæpi/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "woman",
+        "role": "S",
+        "phonetic": "/ˈwʊmən/",
+        "chinese": "女人"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "rich",
+        "role": "C",
+        "phonetic": "/rɪtʃ/",
+        "chinese": "富有的"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "happy",
+        "role": "C",
+        "phonetic": "/ˈhæpi/",
+        "chinese": "快乐的"
+      }
+    ]
+  },
+  {
+    "chinese": "他的衣服很脏",
+    "english": "His clothes are very dirty",
+    "soundmark": "/hɪz/ /kloʊðz/ /ɑːr/ /ˈveri/ /ˈdɜːrti/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "clothes",
+        "role": "S",
+        "phonetic": "/kloʊðz/",
+        "chinese": "布"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "dirty",
+        "role": "C",
+        "phonetic": "/ˈdɜːrti/",
+        "chinese": "脏的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们的老师非常聪明",
+    "english": "Our teacher is very clever",
+    "soundmark": "/aʊr/ /ˈtiːtʃər/ /ɪz/ /ˈveri/ /ˈklevər/",
+    "grammar": [
+      {
+        "text": "Our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "teacher",
+        "role": "S",
+        "phonetic": "/ˈtiːtʃər/",
+        "chinese": "老师"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "clever",
+        "role": "C",
+        "phonetic": "/ˈklevər/",
+        "chinese": "聪明的"
+      }
+    ]
+  },
+  {
+    "chinese": "或者",
+    "english": "or",
+    "soundmark": "/ɔːr/"
+  },
+  {
+    "chinese": "带着",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "chinese": "像",
+    "english": "like",
+    "soundmark": "/laɪk/"
+  },
+  {
+    "chinese": "蓝色",
+    "english": "blue",
+    "soundmark": "/bluː/"
+  },
+  {
+    "chinese": "衣服",
+    "english": "clothes",
+    "soundmark": "/kloʊðz/"
+  },
+  {
+    "chinese": "帅哥",
+    "english": "a handsome man",
+    "soundmark": "/ə/ /ˈhænsəm/ /mæn/"
+  },
+  {
+    "chinese": "年轻女士",
+    "english": "a young lady",
+    "soundmark": "/ə/ /jʌŋ/ /ˈleɪdi/"
+  },
+  {
+    "chinese": "小姑娘",
+    "english": "a little girl",
+    "soundmark": "/ə/ /ˈlɪtəl/ /ɡɜːrl/"
+  },
+  {
+    "chinese": "小男孩",
+    "english": "a little boy",
+    "soundmark": "/ə/ /ˈlɪtəl/ /bɔɪ/"
+  }
+]

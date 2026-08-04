@@ -1,0 +1,701 @@
+[
+  {
+    "chinese": "教育",
+    "english": "education",
+    "soundmark": "/ˌedʒuˈkeɪʃn/"
+  },
+  {
+    "chinese": "课程",
+    "english": "curriculum",
+    "soundmark": "/kəˈrɪkjələm/"
+  },
+  {
+    "chinese": "启发",
+    "english": "enlighten",
+    "soundmark": "/ɪnˈlaɪtn/"
+  },
+  {
+    "chinese": "推理",
+    "english": "reasoning",
+    "soundmark": "/ˈriːzənɪŋ/"
+  },
+  {
+    "chinese": "智力",
+    "english": "intellect",
+    "soundmark": "/ˈɪntəlekt/"
+  },
+  {
+    "chinese": "灌输",
+    "english": "instill",
+    "soundmark": "/ɪnˈstɪl/"
+  },
+  {
+    "chinese": "发现",
+    "english": "discovery",
+    "soundmark": "/dɪˈskʌvəri/"
+  },
+  {
+    "chinese": "自主的",
+    "english": "autonomous",
+    "soundmark": "/ɔːˈtɒnəməs/"
+  },
+  {
+    "chinese": "培养",
+    "english": "cultivate",
+    "soundmark": "/ˈkʌltɪveɪt/"
+  },
+  {
+    "chinese": "探究",
+    "english": "enquiry",
+    "soundmark": "/ɪnˈkwaɪəri/"
+  },
+  {
+    "chinese": "传授",
+    "english": "impart",
+    "soundmark": "/ɪmˈpɑːt/"
+  },
+  {
+    "chinese": "批判性的",
+    "english": "critical",
+    "soundmark": "/ˈkrɪtɪkəl/"
+  },
+  {
+    "chinese": "教育的真正目的不是灌输知识而是启发思维",
+    "english": "the true aim of education is not to instill knowledge but to enlighten the mind",
+    "soundmark": "/ðə/ /truː/ /eɪm/ /əv/ /ˌedʒuˈkeɪʃn/ /ɪz/ /nɒt/ /tuː/ /ɪnˈstɪl/ /ˈnɒlɪdʒ/ /bʌt/ /tuː/ /ɪnˈlaɪtn/ /ðə/ /maɪnd/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "true",
+        "role": "A",
+        "phonetic": "/truː/",
+        "chinese": "真的"
+      },
+      {
+        "text": "aim",
+        "role": "S",
+        "phonetic": "/eɪm/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "education",
+        "role": "O",
+        "phonetic": "/ˌedʒuˈkeɪʃn/",
+        "chinese": "教育"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "instill",
+        "role": "V",
+        "phonetic": "/ɪnˈstɪl/",
+        "chinese": ""
+      },
+      {
+        "text": "knowledge",
+        "role": "O",
+        "phonetic": "/ˈnɒlɪdʒ/",
+        "chinese": "知识"
+      },
+      {
+        "text": "but",
+        "role": "C",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "enlighten",
+        "role": "V",
+        "phonetic": "/ɪnˈlaɪtn/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mind",
+        "role": "O",
+        "phonetic": "/maɪnd/",
+        "chinese": "介意"
+      }
+    ]
+  },
+  {
+    "chinese": "学习不仅仅是记忆事实而是一种发现的过程",
+    "english": "learning is more than memorizing facts; it is a process of discovery",
+    "soundmark": "/ˈlɜːnɪŋ/ /ɪz/ /mɔːr/ /ðæn/ /ˈmeməraɪzɪŋ/ /fækts/; /ɪt/ /ɪz/ /ə/ /ˈprəʊses/ /əv/ /dɪˈskʌvəri/",
+    "grammar": [
+      {
+        "text": "learning",
+        "role": "S",
+        "phonetic": "/ˈlɜːnɪŋ/",
+        "chinese": "学习"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "C",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "memorizing",
+        "role": "V",
+        "phonetic": "/ˈmeməraɪzɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "facts",
+        "role": "O",
+        "phonetic": "/fækts/",
+        "chinese": "事实"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "process",
+        "role": "C",
+        "phonetic": "/ˈprəʊses/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "discovery",
+        "role": "O",
+        "phonetic": "/dɪˈskʌvəri/",
+        "chinese": "发现"
+      }
+    ]
+  },
+  {
+    "chinese": "教师应该培养学生的独立思考能力",
+    "english": "teachers should cultivate students' ability to think independently",
+    "soundmark": "/ˈtiːtʃərz/ /ʃʊd/ /ˈkʌltɪveɪt/ /ˈstjuːdənts/ /əˈbɪləti/ /tuː/ /θɪŋk/ /ˌɪndɪˈpendəntli/",
+    "grammar": [
+      {
+        "text": "teachers",
+        "role": "S",
+        "phonetic": "/ˈtiːtʃərz/",
+        "chinese": "老师"
+      },
+      {
+        "text": "should",
+        "role": "Aux",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "cultivate",
+        "role": "V",
+        "phonetic": "/ˈkʌltɪveɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "students'",
+        "role": "Det",
+        "phonetic": "/ˈstjuːdənts/",
+        "chinese": ""
+      },
+      {
+        "text": "ability",
+        "role": "O",
+        "phonetic": "/əˈbɪləti/",
+        "chinese": "能力"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "independently",
+        "role": "Adv",
+        "phonetic": "/ˌɪndɪˈpendəntli/",
+        "chinese": "…地(独立的)"
+      }
+    ]
+  },
+  {
+    "chinese": "一个好的课程应该激发学生的好奇心",
+    "english": "a good curriculum should stimulate the curiosity of students",
+    "soundmark": "/ə/ /ɡʊd/ /kəˈrɪkjələm/ /ʃʊd/ /ˈstɪmjuleɪt/ /ðə/ /ˌkjʊəriˈɒsɪti/ /əv/ /ˈstjuːdənts/",
+    "grammar": [
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "A",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "curriculum",
+        "role": "S",
+        "phonetic": "/kəˈrɪkjələm/",
+        "chinese": ""
+      },
+      {
+        "text": "should",
+        "role": "Aux",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "stimulate",
+        "role": "V",
+        "phonetic": "/ˈstɪmjuleɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "curiosity",
+        "role": "O",
+        "phonetic": "/ˌkjʊəriˈɒsɪti/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "students",
+        "role": "O",
+        "phonetic": "/ˈstjuːdənts/",
+        "chinese": "学生"
+      }
+    ]
+  },
+  {
+    "chinese": "真正的教育是教人学会如何推理而非思考什么",
+    "english": "true education teaches people how to reason rather than what to think",
+    "soundmark": "/truː/ /ˌedʒuˈkeɪʃn/ /ˈtiːtʃɪz/ /ˈpiːpl/ /haʊ/ /tuː/ /ˈriːzən/ /ˈrɑːðər/ /ðæn/ /wɒt/ /tuː/ /θɪŋk/",
+    "grammar": [
+      {
+        "text": "true",
+        "role": "A",
+        "phonetic": "/truː/",
+        "chinese": "真的"
+      },
+      {
+        "text": "education",
+        "role": "S",
+        "phonetic": "/ˌedʒuˈkeɪʃn/",
+        "chinese": "教育"
+      },
+      {
+        "text": "teaches",
+        "role": "V",
+        "phonetic": "/ˈtiːtʃɪz/",
+        "chinese": "教"
+      },
+      {
+        "text": "people",
+        "role": "O",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "how",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "reason",
+        "role": "V",
+        "phonetic": "/ˈriːzən/",
+        "chinese": "原因"
+      },
+      {
+        "text": "rather",
+        "role": "Adv",
+        "phonetic": "/ˈrɑːðər/",
+        "chinese": "相当/宁愿"
+      },
+      {
+        "text": "than",
+        "role": "C",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "what",
+        "role": "O",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      }
+    ]
+  },
+  {
+    "chinese": "批判性思维的能力是所有学科的基础",
+    "english": "the ability to think critically is the foundation of all disciplines",
+    "soundmark": "/ði/ /əˈbɪləti/ /tuː/ /θɪŋk/ /ˈkrɪtɪkli/ /ɪz/ /ðə/ /faʊnˈdeɪʃən/ /əv/ /ɔːl/ /ˈdɪsəplɪnz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ability",
+        "role": "S",
+        "phonetic": "/əˈbɪləti/",
+        "chinese": "能力"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "critically",
+        "role": "Adv",
+        "phonetic": "/ˈkrɪtɪkli/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "foundation",
+        "role": "C",
+        "phonetic": "/faʊnˈdeɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "disciplines",
+        "role": "O",
+        "phonetic": "/ˈdɪsəplɪnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "知识不能被动地接受而必须主动地获取",
+    "english": "knowledge cannot be passively received but must be actively acquired",
+    "soundmark": "/ˈnɒlɪdʒ/ /ˈkænɒt/ /biː/ /ˈpæsɪvli/ /rɪˈsiːvd/ /bʌt/ /mʌst/ /biː/ /ˈæktɪvli/ /əˈkwaɪəd/",
+    "grammar": [
+      {
+        "text": "knowledge",
+        "role": "S",
+        "phonetic": "/ˈnɒlɪdʒ/",
+        "chinese": "知识"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/ɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "passively",
+        "role": "Adv",
+        "phonetic": "/ˈpæsɪvli/",
+        "chinese": "…地(被动的)"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "but",
+        "role": "C",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "actively",
+        "role": "Adv",
+        "phonetic": "/ˈæktɪvli/",
+        "chinese": "…地(积极的)"
+      },
+      {
+        "text": "acquired",
+        "role": "V",
+        "phonetic": "/əˈkwaɪəd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "探究精神比任何教科书都更有价值",
+    "english": "the spirit of enquiry is more valuable than any textbook",
+    "soundmark": "/ðə/ /ˈspɪrɪt/ /əv/ /ɪnˈkwaɪəri/ /ɪz/ /mɔːr/ /ˈvæljʊəbl/ /ðæn/ /ˈeni/ /ˈtekstbʊk/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "spirit",
+        "role": "S",
+        "phonetic": "/ˈspɪrɪt/",
+        "chinese": "精神"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "enquiry",
+        "role": "O",
+        "phonetic": "/ɪnˈkwaɪəri/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "valuable",
+        "role": "C",
+        "phonetic": "/ˈvæljʊəbl/",
+        "chinese": "有价值的"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "textbook",
+        "role": "O",
+        "phonetic": "/ˈtekstbʊk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "学术的",
+    "english": "academic",
+    "soundmark": "/ˌækəˈdemɪk/"
+  },
+  {
+    "chinese": "导师",
+    "english": "tutor",
+    "soundmark": "/ˈtjuːtər/"
+  },
+  {
+    "chinese": "辩论",
+    "english": "debate",
+    "soundmark": "/dɪˈbeɪt/"
+  },
+  {
+    "chinese": "论文",
+    "english": "thesis",
+    "soundmark": "/ˈθiːsɪs/"
+  },
+  {
+    "chinese": "洞察力",
+    "english": "insight",
+    "soundmark": "/ˈɪnsaɪt/"
+  },
+  {
+    "chinese": "博学",
+    "english": "erudition",
+    "soundmark": "/ˌeruˈdɪʃən/"
+  },
+  {
+    "chinese": "博学的人",
+    "english": "polymath",
+    "soundmark": "/ˈpɒlimæθ/"
+  },
+  {
+    "chinese": "学位",
+    "english": "degree",
+    "soundmark": "/dɪˈɡriː/"
+  },
+  {
+    "chinese": "学位课程",
+    "english": "program",
+    "soundmark": "/ˈprəʊɡræm/"
+  },
+  {
+    "chinese": "研究",
+    "english": "research",
+    "soundmark": "/rɪˈsɜːtʃ/"
+  },
+  {
+    "chinese": "奖学金",
+    "english": "scholarship",
+    "soundmark": "/ˈskɒləʃɪp/"
+  }
+]

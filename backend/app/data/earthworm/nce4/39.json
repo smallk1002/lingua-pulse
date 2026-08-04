@@ -1,0 +1,701 @@
+[
+  {
+    "chinese": "作家",
+    "english": "writer",
+    "soundmark": "/ˈraɪtə/"
+  },
+  {
+    "chinese": "读者",
+    "english": "reader",
+    "soundmark": "/ˈriːdə/"
+  },
+  {
+    "chinese": "灵感",
+    "english": "inspiration",
+    "soundmark": "/ˌɪnspɪˈreɪʃən/"
+  },
+  {
+    "chinese": "风格",
+    "english": "style",
+    "soundmark": "/staɪl/"
+  },
+  {
+    "chinese": "表达",
+    "english": "expression",
+    "soundmark": "/ɪkˈspreʃən/"
+  },
+  {
+    "chinese": "清晰",
+    "english": "clarity",
+    "soundmark": "/ˈklærɪti/"
+  },
+  {
+    "chinese": "原创性",
+    "english": "originality",
+    "soundmark": "/əˌrɪdʒɪˈnælɪti/"
+  },
+  {
+    "chinese": "手稿",
+    "english": "manuscript",
+    "soundmark": "/ˈmænjʊskrɪpt/"
+  },
+  {
+    "chinese": "出版",
+    "english": "publish",
+    "soundmark": "/ˈpʌblɪʃ/"
+  },
+  {
+    "chinese": "叙述",
+    "english": "narrative",
+    "soundmark": "/ˈnærətɪv/"
+  },
+  {
+    "chinese": "修改",
+    "english": "revise",
+    "soundmark": "/rɪˈvaɪz/"
+  },
+  {
+    "chinese": "共鸣",
+    "english": "resonance",
+    "soundmark": "/ˈreznəns/"
+  },
+  {
+    "chinese": "每位作家都渴望自己的作品被广大读者理解",
+    "english": "every writer desires his work to be understood by a wide readership",
+    "soundmark": "/ˈevri ˈraɪtə dɪˈzaɪəz hɪz wɜːk tuː bi ˌʌndəˈstʊd baɪ ə waɪd ˈriːdəʃɪp/",
+    "grammar": [
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "writer",
+        "role": "S",
+        "phonetic": "/ˈraɪtə/",
+        "chinese": "更…的/…者(写)"
+      },
+      {
+        "text": "desires",
+        "role": "V",
+        "phonetic": "/dɪˈzaɪəz/",
+        "chinese": ""
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/bi/",
+        "chinese": "是"
+      },
+      {
+        "text": "understood",
+        "role": "V",
+        "phonetic": "/ˌʌndəˈstʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "wide",
+        "role": "A",
+        "phonetic": "/waɪd/",
+        "chinese": "宽的"
+      },
+      {
+        "text": "readership",
+        "role": "O",
+        "phonetic": "/ˈriːdəʃɪp/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "写作的风格必须与主题的内容相一致",
+    "english": "the style of writing must be consistent with the subject matter",
+    "soundmark": "/ðə staɪl əv ˈraɪtɪŋ mʌst bi kənˈsɪstənt wɪð ðə ˈsʌbdʒɪkt ˈmætə/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "style",
+        "role": "S",
+        "phonetic": "/staɪl/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "writing",
+        "role": "O",
+        "phonetic": "/ˈraɪtɪŋ/",
+        "chinese": "写作的"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/bi/",
+        "chinese": "是"
+      },
+      {
+        "text": "consistent",
+        "role": "C",
+        "phonetic": "/kənˈsɪstənt/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "subject",
+        "role": "A",
+        "phonetic": "/ˈsʌbdʒɪkt/",
+        "chinese": "科目/主题"
+      },
+      {
+        "text": "matter",
+        "role": "O",
+        "phonetic": "/ˈmætə/",
+        "chinese": "要紧"
+      }
+    ]
+  },
+  {
+    "chinese": "灵感固然重要但没有勤奋的写作习惯它就毫无价值",
+    "english": "inspiration though important is worthless without a diligent writing habit",
+    "soundmark": "/ˌɪnspɪˈreɪʃən ðəʊ ɪmˈpɔːtənt ɪz ˈwɜːθləs wɪˈðaʊt ə ˈdɪlɪdʒənt ˈraɪtɪŋ ˈhæbɪt/",
+    "grammar": [
+      {
+        "text": "inspiration",
+        "role": "S",
+        "phonetic": "/ˌɪnspɪˈreɪʃən/",
+        "chinese": "灵感"
+      },
+      {
+        "text": "though",
+        "role": "C",
+        "phonetic": "/ðəʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "important",
+        "role": "A",
+        "phonetic": "/ɪmˈpɔːtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "worthless",
+        "role": "C",
+        "phonetic": "/ˈwɜːθləs/",
+        "chinese": ""
+      },
+      {
+        "text": "without",
+        "role": "P",
+        "phonetic": "/wɪˈðaʊt/",
+        "chinese": "没有"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "diligent",
+        "role": "A",
+        "phonetic": "/ˈdɪlɪdʒənt/",
+        "chinese": ""
+      },
+      {
+        "text": "writing",
+        "role": "A",
+        "phonetic": "/ˈraɪtɪŋ/",
+        "chinese": "写作的"
+      },
+      {
+        "text": "habit",
+        "role": "O",
+        "phonetic": "/ˈhæbɪt/",
+        "chinese": "习惯"
+      }
+    ]
+  },
+  {
+    "chinese": "好的写作需要清晰的思想作为基础",
+    "english": "good writing requires clear thinking as its foundation",
+    "soundmark": "/ɡʊd ˈraɪtɪŋ rɪˈkwaɪəz klɪə ˈθɪŋkɪŋ əz ɪts faʊnˈdeɪʃən/",
+    "grammar": [
+      {
+        "text": "good",
+        "role": "A",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "writing",
+        "role": "S",
+        "phonetic": "/ˈraɪtɪŋ/",
+        "chinese": "写作的"
+      },
+      {
+        "text": "requires",
+        "role": "V",
+        "phonetic": "/rɪˈkwaɪəz/",
+        "chinese": "需要"
+      },
+      {
+        "text": "clear",
+        "role": "A",
+        "phonetic": "/klɪə/",
+        "chinese": "清楚的"
+      },
+      {
+        "text": "thinking",
+        "role": "O",
+        "phonetic": "/ˈθɪŋkɪŋ/",
+        "chinese": "思考的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "foundation",
+        "role": "O",
+        "phonetic": "/faʊnˈdeɪʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "作家不断地修改他的手稿直到它完美地表达了想法",
+    "english": "the writer constantly revises his manuscript until it perfectly expresses the idea",
+    "soundmark": "/ðə ˈraɪtə ˈkɒnstəntli rɪˈvaɪzɪz hɪz ˈmænjʊskrɪpt ʌnˈtɪl ɪt ˈpɜːfɪktli ɪkˈspresɪz ði aɪˈdɪə/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "writer",
+        "role": "S",
+        "phonetic": "/ˈraɪtə/",
+        "chinese": "更…的/…者(写)"
+      },
+      {
+        "text": "constantly",
+        "role": "Adv",
+        "phonetic": "/ˈkɒnstəntli/",
+        "chinese": ""
+      },
+      {
+        "text": "revises",
+        "role": "V",
+        "phonetic": "/rɪˈvaɪzɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "manuscript",
+        "role": "O",
+        "phonetic": "/ˈmænjʊskrɪpt/",
+        "chinese": ""
+      },
+      {
+        "text": "until",
+        "role": "C",
+        "phonetic": "/ʌnˈtɪl/",
+        "chinese": "直到"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "perfectly",
+        "role": "Adv",
+        "phonetic": "/ˈpɜːfɪktli/",
+        "chinese": "…地(完美的)"
+      },
+      {
+        "text": "expresses",
+        "role": "V",
+        "phonetic": "/ɪkˈspresɪz/",
+        "chinese": "表达"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "idea",
+        "role": "O",
+        "phonetic": "/aɪˈdɪə/",
+        "chinese": "想法"
+      }
+    ]
+  },
+  {
+    "chinese": "叙述的力量在于它能在读者心中引起共鸣",
+    "english": "the power of narrative lies in its ability to evoke resonance in the reader's mind",
+    "soundmark": "/ðə ˈpaʊər əv ˈnærətɪv laɪz ɪn ɪts əˈbɪlɪti tuː ɪˈvəʊk ˈreznəns ɪn ðə ˈriːdəz maɪnd/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "power",
+        "role": "S",
+        "phonetic": "/ˈpaʊə/",
+        "chinese": "力量/权力"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "narrative",
+        "role": "O",
+        "phonetic": "/ˈnærətɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "lies",
+        "role": "V",
+        "phonetic": "/laɪz/",
+        "chinese": "…们/复数(躺/说谎)"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "ability",
+        "role": "O",
+        "phonetic": "/əˈbɪlɪti/",
+        "chinese": "能力"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "evoke",
+        "role": "V",
+        "phonetic": "/ɪˈvəʊk/",
+        "chinese": ""
+      },
+      {
+        "text": "resonance",
+        "role": "O",
+        "phonetic": "/ˈreznəns/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "reader's",
+        "role": "Det",
+        "phonetic": "/ˈriːdəz/",
+        "chinese": ""
+      },
+      {
+        "text": "mind",
+        "role": "O",
+        "phonetic": "/maɪnd/",
+        "chinese": "介意"
+      }
+    ]
+  },
+  {
+    "chinese": "他从未出版过一本没有经过精心打磨的书",
+    "english": "he has never published a book that was not meticulously crafted",
+    "soundmark": "/hiː hæz ˈnevə ˈpʌblɪʃt ə bʊk ðæt wɒz nɒt məˈtɪkjʊləsli ˈkrɑːftɪd/",
+    "grammar": [
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "Neg",
+        "phonetic": "/ˈnevə/",
+        "chinese": "从不"
+      },
+      {
+        "text": "published",
+        "role": "V",
+        "phonetic": "/ˈpʌblɪʃt/",
+        "chinese": "已出版的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wɒz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "meticulously",
+        "role": "Adv",
+        "phonetic": "/məˈtɪkjʊləsli/",
+        "chinese": ""
+      },
+      {
+        "text": "crafted",
+        "role": "V",
+        "phonetic": "/ˈkrɑːftɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "原创性是区分伟大作家与平庸作家的关键",
+    "english": "originality is what distinguishes great writers from mediocre ones",
+    "soundmark": "/əˌrɪdʒɪˈnælɪti ɪz wɒt dɪˈstɪŋɡwɪʃɪz ɡreɪt ˈraɪtəz frɒm ˈmiːdiəʊkə wʌnz/",
+    "grammar": [
+      {
+        "text": "originality",
+        "role": "S",
+        "phonetic": "/əˌrɪdʒɪˈnælɪti/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "what",
+        "role": "C",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "distinguishes",
+        "role": "V",
+        "phonetic": "/dɪˈstɪŋɡwɪʃɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "great",
+        "role": "A",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "writers",
+        "role": "O",
+        "phonetic": "/ˈraɪtəz/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "mediocre",
+        "role": "A",
+        "phonetic": "/ˈmiːdiəʊkə/",
+        "chinese": ""
+      },
+      {
+        "text": "ones",
+        "role": "O",
+        "phonetic": "/wʌnz/",
+        "chinese": "一些"
+      }
+    ]
+  },
+  {
+    "chinese": "散文",
+    "english": "essay",
+    "soundmark": "/ˈeseɪ/"
+  },
+  {
+    "chinese": "小说",
+    "english": "novel",
+    "soundmark": "/ˈnɒvəl/"
+  },
+  {
+    "chinese": "诗歌",
+    "english": "poetry",
+    "soundmark": "/ˈpəʊɪtri/"
+  },
+  {
+    "chinese": "文体",
+    "english": "prose",
+    "soundmark": "/prəʊz/"
+  },
+  {
+    "chinese": "隐喻",
+    "english": "metaphor",
+    "soundmark": "/ˈmetəfə/"
+  },
+  {
+    "chinese": "修辞",
+    "english": "rhetoric",
+    "soundmark": "/ˈretərɪk/"
+  },
+  {
+    "chinese": "段落",
+    "english": "paragraph",
+    "soundmark": "/ˈpærəɡrɑːf/"
+  },
+  {
+    "chinese": "诗人",
+    "english": "poet",
+    "soundmark": "/ˈpəʊɪt/"
+  },
+  {
+    "chinese": "小说家",
+    "english": "novelist",
+    "soundmark": "/ˈnɒvəlɪst/"
+  },
+  {
+    "chinese": "剧作家",
+    "english": "playwright",
+    "soundmark": "/ˈpleɪraɪt/"
+  },
+  {
+    "chinese": "评论家",
+    "english": "critic",
+    "soundmark": "/ˈkrɪtɪk/"
+  }
+]

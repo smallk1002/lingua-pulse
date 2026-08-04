@@ -1,0 +1,590 @@
+[
+  {
+    "chinese": "评论家",
+    "english": "critic",
+    "soundmark": "/ˈkrɪtɪk/"
+  },
+  {
+    "chinese": "艺术",
+    "english": "art",
+    "soundmark": "/ɑːrt/"
+  },
+  {
+    "chinese": "画",
+    "english": "painting",
+    "soundmark": "/ˈpeɪntɪŋ/"
+  },
+  {
+    "chinese": "展览",
+    "english": "exhibition",
+    "soundmark": "/ˌeksɪˈbɪʃən/"
+  },
+  {
+    "chinese": "画廊",
+    "english": "gallery",
+    "soundmark": "/ˈɡæləri/"
+  },
+  {
+    "chinese": "自从",
+    "english": "since",
+    "soundmark": "/sɪns/"
+  },
+  {
+    "chinese": "一直",
+    "english": "have been",
+    "soundmark": "/hæv/ /biːn/"
+  },
+  {
+    "chinese": "评论",
+    "english": "criticize",
+    "soundmark": "/ˈkrɪtɪsaɪz/"
+  },
+  {
+    "chinese": "一直做某事",
+    "english": "have been doing",
+    "soundmark": "/hæv/ /biːn/ /ˈduːɪŋ/"
+  },
+  {
+    "chinese": "作品",
+    "english": "work",
+    "soundmark": "/wɜːrk/"
+  },
+  {
+    "chinese": "风格",
+    "english": "style",
+    "soundmark": "/staɪl/"
+  },
+  {
+    "chinese": "著名",
+    "english": "famous",
+    "soundmark": "/ˈfeɪməs/"
+  },
+  {
+    "chinese": "年轻",
+    "english": "young",
+    "soundmark": "/jʌŋ/"
+  },
+  {
+    "chinese": "画家",
+    "english": "painter",
+    "soundmark": "/ˈpeɪntər/"
+  },
+  {
+    "chinese": "他一直在评论艺术品",
+    "english": "He has been criticizing art",
+    "soundmark": "/hiː/ /hæz/ /biːn/ /ˈkrɪtɪsaɪzɪŋ/ /ɑːrt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "criticizing",
+        "role": "V",
+        "phonetic": "/ˈkrɪtɪsaɪzɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "art",
+        "role": "O",
+        "phonetic": "/ɑːrt/",
+        "chinese": "艺术"
+      }
+    ]
+  },
+  {
+    "chinese": "他一直是最好的艺术评论家",
+    "english": "He has been the best art critic",
+    "soundmark": "/hiː/ /hæz/ /biːn/ /ðə/ /best/ /ɑːrt/ /ˈkrɪtɪk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "best",
+        "role": "A",
+        "phonetic": "/best/",
+        "chinese": "最好"
+      },
+      {
+        "text": "art",
+        "role": "A",
+        "phonetic": "/ɑːrt/",
+        "chinese": "艺术"
+      },
+      {
+        "text": "critic",
+        "role": "C",
+        "phonetic": "/ˈkrɪtɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她一直在画画 depuis 小时候",
+    "english": "She has been painting since childhood",
+    "soundmark": "/ʃiː/ /hæz/ /biːn/ /ˈpeɪntɪŋ/ /sɪns/ /ˈtʃaɪldhʊd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "painting",
+        "role": "V",
+        "phonetic": "/ˈpeɪntɪŋ/",
+        "chinese": "画的"
+      },
+      {
+        "text": "since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "childhood",
+        "role": "O",
+        "phonetic": "/ˈtʃaɪldhʊd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这些画一直在展出",
+    "english": "These paintings have been on exhibition",
+    "soundmark": "/ðiːz/ /ˈpeɪntɪŋz/ /hæv/ /biːn/ /ɑːn/ /ˌeksɪˈbɪʃən/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "paintings",
+        "role": "S",
+        "phonetic": "/ˈpeɪntɪŋz/",
+        "chinese": "画的"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "exhibition",
+        "role": "O",
+        "phonetic": "/ˌeksɪˈbɪʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "评论家们一直在讨论他的风格",
+    "english": "The critics have been discussing his style",
+    "soundmark": "/ðə/ /ˈkrɪtɪks/ /hæv/ /biːn/ /dɪˈskʌsɪŋ/ /hɪz/ /staɪl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "critics",
+        "role": "S",
+        "phonetic": "/ˈkrɪtɪks/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "discussing",
+        "role": "V",
+        "phonetic": "/dɪˈskʌsɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "style",
+        "role": "O",
+        "phonetic": "/staɪl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他一直在画这些画很多年",
+    "english": "He has been painting these pictures for many years",
+    "soundmark": "/hiː/ /hæz/ /biːn/ /ˈpeɪntɪŋ/ /ðiːz/ /ˈpɪktʃərz/ /fɔːr/ /ˈmeni/ /jɪrz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "painting",
+        "role": "V",
+        "phonetic": "/ˈpeɪntɪŋ/",
+        "chinese": "画的"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "pictures",
+        "role": "O",
+        "phonetic": "/ˈpɪktʃərz/",
+        "chinese": "图片"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "years",
+        "role": "O",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "她是一位著名的艺术家",
+    "english": "She is a famous artist",
+    "soundmark": "/ʃiː/ /ɪz/ /ə/ /ˈfeɪməs/ /ˈɑːrtɪst/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "famous",
+        "role": "A",
+        "phonetic": "/ˈfeɪməs/",
+        "chinese": "著名的"
+      },
+      {
+        "text": "artist",
+        "role": "C",
+        "phonetic": "/ˈɑːrtɪst/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "画廊里有一幅新的画",
+    "english": "There is a new painting in the gallery",
+    "soundmark": "/ðer/ /ɪz/ /ə/ /nuː/ /ˈpeɪntɪŋ/ /ɪn/ /ðə/ /ˈɡæləri/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "painting",
+        "role": "C",
+        "phonetic": "/ˈpeɪntɪŋ/",
+        "chinese": "画的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "gallery",
+        "role": "O",
+        "phonetic": "/ˈɡæləri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他的画总是很有趣",
+    "english": "His paintings are always very interesting",
+    "soundmark": "/hɪz/ /ˈpeɪntɪŋz/ /ɑːr/ /ˈɔːlweɪz/ /ˈveri/ /ˈɪntrəstɪŋ/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "paintings",
+        "role": "S",
+        "phonetic": "/ˈpeɪntɪŋz/",
+        "chinese": "画的"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      }
+    ]
+  },
+  {
+    "chinese": "艺术评论家给了这幅画好评",
+    "english": "The art critic gave the painting a good review",
+    "soundmark": "/ði/ /ɑːrt/ /ˈkrɪtɪk/ /ɡeɪv/ /ðə/ /ˈpeɪntɪŋ/ /ə/ /ɡʊd/ /rɪˈvjuː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "art",
+        "role": "A",
+        "phonetic": "/ɑːrt/",
+        "chinese": "艺术"
+      },
+      {
+        "text": "critic",
+        "role": "S",
+        "phonetic": "/ˈkrɪtɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "gave",
+        "role": "V",
+        "phonetic": "/ɡeɪv/",
+        "chinese": "给（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "painting",
+        "role": "O",
+        "phonetic": "/ˈpeɪntɪŋ/",
+        "chinese": "画的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "A",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "review",
+        "role": "O",
+        "phonetic": "/rɪˈvjuː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "展览",
+    "english": "exhibition",
+    "soundmark": "/ˌeksɪˈbɪʃən/"
+  },
+  {
+    "chinese": "画廊",
+    "english": "gallery",
+    "soundmark": "/ˈɡæləri/"
+  },
+  {
+    "chinese": "评论家",
+    "english": "critic",
+    "soundmark": "/ˈkrɪtɪk/"
+  },
+  {
+    "chinese": "风格",
+    "english": "style",
+    "soundmark": "/staɪl/"
+  },
+  {
+    "chinese": "著名",
+    "english": "famous",
+    "soundmark": "/ˈfeɪməs/"
+  },
+  {
+    "chinese": "画家",
+    "english": "painter",
+    "soundmark": "/ˈpeɪntər/"
+  },
+  {
+    "chinese": "作品",
+    "english": "work",
+    "soundmark": "/wɜːrk/"
+  },
+  {
+    "chinese": "评论",
+    "english": "review",
+    "soundmark": "/rɪˈvjuː/"
+  }
+]

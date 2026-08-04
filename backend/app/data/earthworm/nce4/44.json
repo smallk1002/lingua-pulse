@@ -1,0 +1,641 @@
+[
+  {
+    "chinese": "文化",
+    "english": "culture",
+    "soundmark": "/ˈkʌltʃə/"
+  },
+  {
+    "chinese": "习俗",
+    "english": "custom",
+    "soundmark": "/ˈkʌstəm/"
+  },
+  {
+    "chinese": "传统",
+    "english": "tradition",
+    "soundmark": "/trəˈdɪʃən/"
+  },
+  {
+    "chinese": "人类学",
+    "english": "anthropology",
+    "soundmark": "/ˌænθrəˈpɒlədʒi/"
+  },
+  {
+    "chinese": "仪式",
+    "english": "ritual",
+    "soundmark": "/ˈrɪtʃuəl/"
+  },
+  {
+    "chinese": "社会规范",
+    "english": "social norm",
+    "soundmark": "/ˈsəʊʃəl nɔːm/"
+  },
+  {
+    "chinese": "多样性",
+    "english": "diversity",
+    "soundmark": "/daɪˈvɜːsɪti/"
+  },
+  {
+    "chinese": "同化",
+    "english": "assimilate",
+    "soundmark": "/əˈsɪmɪleɪt/"
+  },
+  {
+    "chinese": "价值观",
+    "english": "values",
+    "soundmark": "/ˈvæljuːz/"
+  },
+  {
+    "chinese": "信仰体系",
+    "english": "belief system",
+    "soundmark": "/bɪˈliːf ˈsɪstəm/"
+  },
+  {
+    "chinese": "遗产",
+    "english": "heritage",
+    "soundmark": "/ˈherɪtɪdʒ/"
+  },
+  {
+    "chinese": "民族认同",
+    "english": "ethnic identity",
+    "soundmark": "/ˈeθnɪk aɪˈdentɪti/"
+  },
+  {
+    "chinese": "文化模式决定了一个社会成员的行为方式",
+    "english": "cultural patterns determine how members of a society behave",
+    "soundmark": "/ˈkʌltʃərəl ˈpætnz dɪˈtɜːmɪn haʊ ˈmembəz əv ə səˈsaɪəti bɪˈheɪv/",
+    "grammar": [
+      {
+        "text": "cultural",
+        "role": "A",
+        "phonetic": "/ˈkʌltʃərəl/",
+        "chinese": "文化的"
+      },
+      {
+        "text": "patterns",
+        "role": "S",
+        "phonetic": "/ˈpætnz/",
+        "chinese": ""
+      },
+      {
+        "text": "determine",
+        "role": "V",
+        "phonetic": "/dɪˈtɜːmɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "how",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "members",
+        "role": "S",
+        "phonetic": "/ˈmembəz/",
+        "chinese": "成员"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "society",
+        "role": "O",
+        "phonetic": "/səˈsaɪəti/",
+        "chinese": "社会"
+      },
+      {
+        "text": "behave",
+        "role": "V",
+        "phonetic": "/bɪˈheɪv/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "每一种文化都发展出了自己独特的信仰体系",
+    "english": "every culture has developed its own unique belief system",
+    "soundmark": "/ˈevri ˈkʌltʃə hæz dɪˈveləpt ɪts əʊn juˈniːk bɪˈliːf ˈsɪstəm/",
+    "grammar": [
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "culture",
+        "role": "S",
+        "phonetic": "/ˈkʌltʃə/",
+        "chinese": "文化"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "developed",
+        "role": "V",
+        "phonetic": "/dɪˈveləpt/",
+        "chinese": "发展"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "own",
+        "role": "Det",
+        "phonetic": "/əʊn/",
+        "chinese": "自己的"
+      },
+      {
+        "text": "unique",
+        "role": "A",
+        "phonetic": "/juˈniːk/",
+        "chinese": "独特的"
+      },
+      {
+        "text": "belief",
+        "role": "A",
+        "phonetic": "/bɪˈliːf/",
+        "chinese": "信仰"
+      },
+      {
+        "text": "system",
+        "role": "O",
+        "phonetic": "/ˈsɪstəm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "人类学家研究不同民族之间的文化差异",
+    "english": "anthropologists study cultural differences among different peoples",
+    "soundmark": "/ˌænθrəˈpɒlədʒɪsts ˈstʌdi ˈkʌltʃərəl ˈdɪfərənzɪz əˈmʌŋ ˈdɪfərənt ˈpiːplz/",
+    "grammar": [
+      {
+        "text": "anthropologists",
+        "role": "S",
+        "phonetic": "/ˌænθrəˈpɒlədʒɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "study",
+        "role": "V",
+        "phonetic": "/ˈstʌdi/",
+        "chinese": "学习/研究"
+      },
+      {
+        "text": "cultural",
+        "role": "A",
+        "phonetic": "/ˈkʌltʃərəl/",
+        "chinese": "文化的"
+      },
+      {
+        "text": "differences",
+        "role": "O",
+        "phonetic": "/ˈdɪfərənzɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "among",
+        "role": "P",
+        "phonetic": "/əˈmʌŋ/",
+        "chinese": "在…之中"
+      },
+      {
+        "text": "different",
+        "role": "A",
+        "phonetic": "/ˈdɪfərənt/",
+        "chinese": "不同的"
+      },
+      {
+        "text": "peoples",
+        "role": "O",
+        "phonetic": "/ˈpiːplz/",
+        "chinese": "人们"
+      }
+    ]
+  },
+  {
+    "chinese": "传统仪式在维护社会凝聚力方面发挥着重要作用",
+    "english": "traditional rituals play an important role in maintaining social cohesion",
+    "soundmark": "/trəˈdɪʃənəl ˈrɪtʃuəlz pleɪ ən ɪmˈpɔːtənt rəʊl ɪn meɪnˈteɪnɪŋ ˈsəʊʃəl kəʊˈhiːʒən/",
+    "grammar": [
+      {
+        "text": "traditional",
+        "role": "A",
+        "phonetic": "/trəˈdɪʃənəl/",
+        "chinese": "传统的"
+      },
+      {
+        "text": "rituals",
+        "role": "S",
+        "phonetic": "/ˈrɪtʃuəlz/",
+        "chinese": ""
+      },
+      {
+        "text": "play",
+        "role": "V",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "important",
+        "role": "A",
+        "phonetic": "/ɪmˈpɔːtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "role",
+        "role": "O",
+        "phonetic": "/rəʊl/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "maintaining",
+        "role": "V",
+        "phonetic": "/meɪnˈteɪnɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "social",
+        "role": "A",
+        "phonetic": "/ˈsəʊʃəl/",
+        "chinese": "社会的"
+      },
+      {
+        "text": "cohesion",
+        "role": "O",
+        "phonetic": "/kəʊˈhiːʒən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "文化多样性不应被视为一种威胁而应被当作财富",
+    "english": "cultural diversity should not be seen as a threat but regarded as a treasure",
+    "soundmark": "/ˈkʌltʃərəl daɪˈvɜːsɪti ʃʊd nɒt bi siːn əz ə θret bʌt rɪˈɡɑːdɪd əz ə ˈtreʒə/",
+    "grammar": [
+      {
+        "text": "cultural",
+        "role": "A",
+        "phonetic": "/ˈkʌltʃərəl/",
+        "chinese": "文化的"
+      },
+      {
+        "text": "diversity",
+        "role": "S",
+        "phonetic": "/daɪˈvɜːsɪti/",
+        "chinese": ""
+      },
+      {
+        "text": "should",
+        "role": "Aux",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/bi/",
+        "chinese": "是"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "threat",
+        "role": "O",
+        "phonetic": "/θret/",
+        "chinese": ""
+      },
+      {
+        "text": "but",
+        "role": "C",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "regarded",
+        "role": "V",
+        "phonetic": "/rɪˈɡɑːdɪd/",
+        "chinese": "认为"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "treasure",
+        "role": "O",
+        "phonetic": "/ˈtreʒə/",
+        "chinese": "宝藏"
+      }
+    ]
+  },
+  {
+    "chinese": "年轻人正在逐渐失去与传统文化遗产的联系",
+    "english": "young people are gradually losing touch with their traditional cultural heritage",
+    "soundmark": "/jʌŋ ˈpiːpl ɑː ˈɡrædʒuəli ˈluːzɪŋ tʌtʃ wɪð ðeə trəˈdɪʃənəl ˈkʌltʃərəl ˈherɪtɪdʒ/",
+    "grammar": [
+      {
+        "text": "young",
+        "role": "A",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "gradually",
+        "role": "Adv",
+        "phonetic": "/ˈɡrædʒuəli/",
+        "chinese": "逐渐地"
+      },
+      {
+        "text": "losing",
+        "role": "V",
+        "phonetic": "/ˈluːzɪŋ/",
+        "chinese": "输/丢失"
+      },
+      {
+        "text": "touch",
+        "role": "O",
+        "phonetic": "/tʌtʃ/",
+        "chinese": "触摸"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðeə/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "traditional",
+        "role": "A",
+        "phonetic": "/trəˈdɪʃənəl/",
+        "chinese": "传统的"
+      },
+      {
+        "text": "cultural",
+        "role": "A",
+        "phonetic": "/ˈkʌltʃərəl/",
+        "chinese": "文化的"
+      },
+      {
+        "text": "heritage",
+        "role": "O",
+        "phonetic": "/ˈherɪtɪdʒ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "社会规范随时间和环境的变化而改变",
+    "english": "social norms change as time and circumstances change",
+    "soundmark": "/ˈsəʊʃəl nɔːmz tʃeɪndʒ əz taɪm ənd ˈsɜːkəmstənsɪz tʃeɪndʒ/",
+    "grammar": [
+      {
+        "text": "social",
+        "role": "A",
+        "phonetic": "/ˈsəʊʃəl/",
+        "chinese": "社会的"
+      },
+      {
+        "text": "norms",
+        "role": "S",
+        "phonetic": "/nɔːmz/",
+        "chinese": ""
+      },
+      {
+        "text": "change",
+        "role": "V",
+        "phonetic": "/tʃeɪndʒ/",
+        "chinese": "改变"
+      },
+      {
+        "text": "as",
+        "role": "C",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "time",
+        "role": "S",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "circumstances",
+        "role": "S",
+        "phonetic": "/ˈsɜːkəmstənsɪz/",
+        "chinese": "环境/情况"
+      },
+      {
+        "text": "change",
+        "role": "V",
+        "phonetic": "/tʃeɪndʒ/",
+        "chinese": "改变"
+      }
+    ]
+  },
+  {
+    "chinese": "人类已经学会了许多不同的方式来表达对祖先的敬意",
+    "english": "mankind has learned many different ways to honor their ancestors",
+    "soundmark": "/mænˈkaɪnd hæz lɜːnd ˈmeni ˈdɪfərənt weɪz tuː ˈɒnə ðeər ˈænsestəz/",
+    "grammar": [
+      {
+        "text": "mankind",
+        "role": "S",
+        "phonetic": "/mænˈkaɪnd/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "learned",
+        "role": "V",
+        "phonetic": "/lɜːnd/",
+        "chinese": "学习"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "different",
+        "role": "A",
+        "phonetic": "/ˈdɪfərənt/",
+        "chinese": "不同的"
+      },
+      {
+        "text": "ways",
+        "role": "O",
+        "phonetic": "/weɪz/",
+        "chinese": "路/方式"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "honor",
+        "role": "V",
+        "phonetic": "/ˈɒnə/",
+        "chinese": "荣誉"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðeə/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "ancestors",
+        "role": "O",
+        "phonetic": "/ˈænsestəz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "宗教",
+    "english": "religion",
+    "soundmark": "/rɪˈlɪdʒən/"
+  },
+  {
+    "chinese": "神话",
+    "english": "myth",
+    "soundmark": "/mɪθ/"
+  },
+  {
+    "chinese": "图腾",
+    "english": "totem",
+    "soundmark": "/ˈtəʊtəm/"
+  },
+  {
+    "chinese": "禁忌",
+    "english": "taboo",
+    "soundmark": "/təˈbuː/"
+  },
+  {
+    "chinese": "种族",
+    "english": "ethnic",
+    "soundmark": "/ˈeθnɪk/"
+  },
+  {
+    "chinese": "部落",
+    "english": "tribe",
+    "soundmark": "/traɪb/"
+  },
+  {
+    "chinese": "全球化",
+    "english": "globalization",
+    "soundmark": "/ˌɡləʊbəlaɪˈzeɪʃən/"
+  },
+  {
+    "chinese": "人类学",
+    "english": "anthropology",
+    "soundmark": "/ˌænθrəˈpɒlədʒi/"
+  },
+  {
+    "chinese": "社会学",
+    "english": "sociology",
+    "soundmark": "/ˌsəʊsiˈɒlədʒi/"
+  },
+  {
+    "chinese": "心理学",
+    "english": "psychology",
+    "soundmark": "/saɪˈkɒlədʒi/"
+  },
+  {
+    "chinese": "文化研究",
+    "english": "cultural studies",
+    "soundmark": "/ˈkʌltʃərəl ˈstʌdiz/"
+  }
+]

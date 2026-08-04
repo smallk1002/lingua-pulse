@@ -1,0 +1,232 @@
+[
+  {
+    "english": "pain",
+    "chinese": "疼痛",
+    "soundmark": "/peɪn/"
+  },
+  {
+    "english": "hurt",
+    "chinese": "受伤",
+    "soundmark": "/hɜːrt/"
+  },
+  {
+    "english": "ouch",
+    "chinese": "哎哟",
+    "soundmark": "/aʊtʃ/"
+  },
+  {
+    "english": "careful",
+    "chinese": "小心的",
+    "soundmark": "/ˈkerfəl/"
+  },
+  {
+    "english": "wound",
+    "chinese": "伤口",
+    "soundmark": "/wuːnd/"
+  },
+  {
+    "english": "bandage",
+    "chinese": "绷带",
+    "soundmark": "/ˈbændɪdʒ/"
+  },
+  {
+    "chinese": "哎哟！我撞到脚趾了！",
+    "english": "Ow! I hit my toe!",
+    "soundmark": "/aʊtʃ! aɪ hɪt maɪ toʊ/",
+    "grammar": [
+      {
+        "text": "Ow",
+        "role": "Int",
+        "phonetic": "/aʊtʃ/",
+        "chinese": ""
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hit",
+        "role": "V",
+        "phonetic": "/hɪt/",
+        "chinese": "打/击中"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "toe",
+        "role": "O",
+        "phonetic": "/toʊ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "小心！那里很危险",
+    "english": "Be careful! It's dangerous there",
+    "soundmark": "/biː ˈkerfəl! ɪts ˈdeɪndʒərəs ðer/",
+    "grammar": [
+      {
+        "text": "Be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "careful",
+        "role": "C",
+        "phonetic": "/ˈkerfəl/",
+        "chinese": "小心的"
+      },
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "dangerous",
+        "role": "C",
+        "phonetic": "/ˈdeɪndʒərəs/",
+        "chinese": "危险的"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "你伤到自己了吗？",
+    "english": "Did you hurt yourself?",
+    "soundmark": "/dɪd juː hɜːrt jʊrˈself/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "hurt",
+        "role": "V",
+        "phonetic": "/hɜːrt/",
+        "chinese": "伤害"
+      },
+      {
+        "text": "yourself",
+        "role": "O",
+        "phonetic": "/jʊrˈself/",
+        "chinese": "你自己"
+      }
+    ]
+  },
+  {
+    "chinese": "我割伤了我的手指",
+    "english": "I cut my finger",
+    "soundmark": "/aɪ kʌt maɪ ˈfɪŋɡər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cut",
+        "role": "V",
+        "phonetic": "/kʌt/",
+        "chinese": "剪/切"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "finger",
+        "role": "O",
+        "phonetic": "/ˈfɪŋɡər/",
+        "chinese": "手指"
+      }
+    ]
+  },
+  {
+    "chinese": "让我帮你包扎一下",
+    "english": "Let me help you bandage it",
+    "soundmark": "/let miː help juː ˈbændɪdʒ ɪt/",
+    "grammar": [
+      {
+        "text": "Let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "bandage",
+        "role": "V",
+        "phonetic": "/ˈbændɪdʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "english": "medicine",
+    "chinese": "药",
+    "soundmark": "/ˈmedɪsn/"
+  },
+  {
+    "english": "recover",
+    "chinese": "康复",
+    "soundmark": "/rɪˈkʌvər/"
+  },
+  {
+    "english": "accident",
+    "chinese": "意外",
+    "soundmark": "/ˈæksɪdənt/"
+  }
+]

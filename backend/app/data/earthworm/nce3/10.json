@@ -1,0 +1,803 @@
+[
+  {
+    "chinese": "泰坦尼克号",
+    "english": "Titanic",
+    "soundmark": "/taɪˈtænɪk/"
+  },
+  {
+    "chinese": "巨轮",
+    "english": "liner",
+    "soundmark": "/ˈlaɪnər/"
+  },
+  {
+    "chinese": "沉没",
+    "english": "sink",
+    "soundmark": "/sɪŋk/"
+  },
+  {
+    "chinese": "冰山",
+    "english": "iceberg",
+    "soundmark": "/ˈaɪsbɜːrɡ/"
+  },
+  {
+    "chinese": "乘客",
+    "english": "passenger",
+    "soundmark": "/ˈpæsəndʒər/"
+  },
+  {
+    "chinese": "船员",
+    "english": "crew",
+    "soundmark": "/kruː/"
+  },
+  {
+    "chinese": "救生艇",
+    "english": "lifeboat",
+    "soundmark": "/ˈlaɪfboʊt/"
+  },
+  {
+    "chinese": "悲剧",
+    "english": "tragedy",
+    "soundmark": "/ˈtrædʒədi/"
+  },
+  {
+    "chinese": "碰撞",
+    "english": "collision",
+    "soundmark": "/kəˈlɪʒən/"
+  },
+  {
+    "chinese": "沉没的巨轮",
+    "english": "sunken liner",
+    "soundmark": "/ˈsʌŋkən/ /ˈlaɪnər/"
+  },
+  {
+    "chinese": "撞上冰山",
+    "english": "strike an iceberg",
+    "soundmark": "/straɪk/ /ən/ /ˈaɪsbɜːrɡ/"
+  },
+  {
+    "chinese": "登上救生艇",
+    "english": "board the lifeboat",
+    "soundmark": "/bɔːrd/ /ðə/ /ˈlaɪfboʊt/"
+  },
+  {
+    "chinese": "海上悲剧",
+    "english": "maritime tragedy",
+    "soundmark": "/ˈmærɪtaɪm/ /ˈtrædʒədi/"
+  },
+  {
+    "chinese": "泰坦尼克号在1912年沉没了",
+    "english": "The Titanic sank in 1912",
+    "soundmark": "/ðə/ /taɪˈtænɪk/ /sæŋk/ /ɪn/ /ˌnaɪnˈtiːn/ /twelv/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Titanic",
+        "role": "S",
+        "phonetic": "/taɪˈtænɪk/",
+        "chinese": "泰坦尼克号"
+      },
+      {
+        "text": "sank",
+        "role": "V",
+        "phonetic": "/sæŋk/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "1912",
+        "role": "A",
+        "phonetic": "/ˌnaɪnˈtiːn/ /twelv/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这艘船被认为是不沉之船",
+    "english": "The ship was regarded as unsinkable",
+    "soundmark": "/ðə/ /ʃɪp/ /wʌz/ /rɪˈɡɑːrdɪd/ /æz/ /ʌnˈsɪŋkəbəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ship",
+        "role": "S",
+        "phonetic": "/ʃɪp/",
+        "chinese": "船"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "regarded",
+        "role": "V",
+        "phonetic": "/rɪˈɡɑːrdɪd/",
+        "chinese": "认为"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "unsinkable",
+        "role": "C",
+        "phonetic": "/ʌnˈsɪŋkəbəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "泰坦尼克号撞上了一座冰山",
+    "english": "The Titanic struck an iceberg",
+    "soundmark": "/ðə/ /taɪˈtænɪk/ /strʌk/ /ən/ /ˈaɪsbɜːrɡ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Titanic",
+        "role": "S",
+        "phonetic": "/taɪˈtænɪk/",
+        "chinese": "泰坦尼克号"
+      },
+      {
+        "text": "struck",
+        "role": "V",
+        "phonetic": "/strʌk/",
+        "chinese": ""
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "iceberg",
+        "role": "O",
+        "phonetic": "/ˈaɪsbɜːrɡ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "许多乘客未能登上救生艇",
+    "english": "Many passengers could not board the lifeboats",
+    "soundmark": "/ˈmeni/ /ˈpæsəndʒərz/ /kʊd/ /nɑːt/ /bɔːrd/ /ðə/ /ˈlaɪfboʊts/",
+    "grammar": [
+      {
+        "text": "Many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "passengers",
+        "role": "S",
+        "phonetic": "/ˈpæsəndʒərz/",
+        "chinese": "乘客"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "board",
+        "role": "V",
+        "phonetic": "/bɔːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "lifeboats",
+        "role": "O",
+        "phonetic": "/ˈlaɪfboʊts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "船没有足够的救生艇",
+    "english": "The ship did not have enough lifeboats",
+    "soundmark": "/ðə/ /ʃɪp/ /dɪd/ /nɑːt/ /hæv/ /ɪˈnʌf/ /ˈlaɪfboʊts/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ship",
+        "role": "S",
+        "phonetic": "/ʃɪp/",
+        "chinese": "船"
+      },
+      {
+        "text": "did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "enough",
+        "role": "A",
+        "phonetic": "/ɪˈnʌf/",
+        "chinese": "足够"
+      },
+      {
+        "text": "lifeboats",
+        "role": "O",
+        "phonetic": "/ˈlaɪfboʊts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "泰坦尼克号死了多少人",
+    "english": "How many people died on the Titanic",
+    "soundmark": "/haʊ/ /ˈmeni/ /ˈpiːpəl/ /daɪd/ /ɑːn/ /ðə/ /taɪˈtænɪk/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "died",
+        "role": "V",
+        "phonetic": "/daɪd/",
+        "chinese": "死"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Titanic",
+        "role": "A",
+        "phonetic": "/taɪˈtænɪk/",
+        "chinese": "泰坦尼克号"
+      }
+    ]
+  },
+  {
+    "chinese": "船长也随船一起沉没了",
+    "english": "The captain went down with the ship",
+    "soundmark": "/ðə/ /ˈkæptɪn/ /went/ /daʊn/ /wɪð/ /ðə/ /ʃɪp/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "captain",
+        "role": "S",
+        "phonetic": "/ˈkæptɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "down",
+        "role": "Adv",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ship",
+        "role": "O",
+        "phonetic": "/ʃɪp/",
+        "chinese": "船"
+      }
+    ]
+  },
+  {
+    "chinese": "沉没的巨轮直到1985年才被发现",
+    "english": "The sunken liner was not discovered until 1985",
+    "soundmark": "/ðə/ /ˈsʌŋkən/ /ˈlaɪnər/ /wʌz/ /nɑːt/ /dɪˈskʌvərd/ /ənˈtɪl/ /ˌnaɪnˈtiːn/ /ˈeɪti/ /faɪv/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sunken",
+        "role": "A",
+        "phonetic": "/ˈsʌŋkən/",
+        "chinese": ""
+      },
+      {
+        "text": "liner",
+        "role": "S",
+        "phonetic": "/ˈlaɪnər/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "until",
+        "role": "P",
+        "phonetic": "/ənˈtɪl/",
+        "chinese": "直到"
+      },
+      {
+        "text": "1985",
+        "role": "A",
+        "phonetic": "/ˌnaɪnˈtiːn/ /ˈeɪti/ /faɪv/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这艘船在撞上冰山后两小时内沉没",
+    "english": "The ship sank within two hours of hitting the iceberg",
+    "soundmark": "/ðə/ /ʃɪp/ /sæŋk/ /wɪðˈɪn/ /tuː/ /aʊərz/ /ʌv/ /ˈhɪtɪŋ/ /ði/ /ˈaɪsbɜːrɡ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ship",
+        "role": "S",
+        "phonetic": "/ʃɪp/",
+        "chinese": "船"
+      },
+      {
+        "text": "sank",
+        "role": "V",
+        "phonetic": "/sæŋk/",
+        "chinese": ""
+      },
+      {
+        "text": "within",
+        "role": "P",
+        "phonetic": "/wɪðˈɪn/",
+        "chinese": "在…之内"
+      },
+      {
+        "text": "two",
+        "role": "A",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/aʊərz/",
+        "chinese": "小时"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "hitting",
+        "role": "V",
+        "phonetic": "/ˈhɪtɪŋ/",
+        "chinese": "打/击中"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "iceberg",
+        "role": "O",
+        "phonetic": "/ˈaɪsbɜːrɡ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "泰坦尼克号的沉没至今仍被视为最严重的海难之一",
+    "english": "The sinking of the Titanic is still regarded as one of the worst maritime disasters",
+    "soundmark": "/ðə/ /ˈsɪŋkɪŋ/ /ʌv/ /ðə/ /taɪˈtænɪk/ /ɪz/ /stɪl/ /rɪˈɡɑːrdɪd/ /æz/ /wʌn/ /ʌv/ /ðə/ /wɜːrst/ /ˈmærɪtaɪm/ /dɪˈzæstərz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sinking",
+        "role": "S",
+        "phonetic": "/ˈsɪŋkɪŋ/",
+        "chinese": "下沉"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Titanic",
+        "role": "O",
+        "phonetic": "/taɪˈtænɪk/",
+        "chinese": "泰坦尼克号"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "regarded",
+        "role": "V",
+        "phonetic": "/rɪˈɡɑːrdɪd/",
+        "chinese": "认为"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "worst",
+        "role": "A",
+        "phonetic": "/wɜːrst/",
+        "chinese": "最糟"
+      },
+      {
+        "text": "maritime",
+        "role": "A",
+        "phonetic": "/ˈmærɪtaɪm/",
+        "chinese": ""
+      },
+      {
+        "text": "disasters",
+        "role": "O",
+        "phonetic": "/dɪˈzæstərz/",
+        "chinese": "灾难"
+      }
+    ]
+  },
+  {
+    "chinese": "沉没",
+    "english": "sinking",
+    "soundmark": "/ˈsɪŋkɪŋ/"
+  },
+  {
+    "chinese": "不沉的",
+    "english": "unsinkable",
+    "soundmark": "/ʌnˈsɪŋkəbəl/"
+  },
+  {
+    "chinese": "灾难",
+    "english": "disaster",
+    "soundmark": "/dɪˈzæstər/"
+  },
+  {
+    "chinese": "船长",
+    "english": "captain",
+    "soundmark": "/ˈkæptɪn/"
+  },
+  {
+    "chinese": "海上的",
+    "english": "maritime",
+    "soundmark": "/ˈmærɪtaɪm/"
+  },
+  {
+    "chinese": "被视为",
+    "english": "regarded as",
+    "soundmark": "/rɪˈɡɑːrdɪd/ /æz/"
+  },
+  {
+    "chinese": "足够的",
+    "english": "enough",
+    "soundmark": "/ɪˈnʌf/"
+  },
+  {
+    "chinese": "在之内",
+    "english": "within",
+    "soundmark": "/wɪðˈɪn/"
+  },
+  {
+    "chinese": "据说当时船员们忽视了冰山的警告",
+    "english": "It is said that the crew ignored warnings about the iceberg",
+    "soundmark": "/ɪt/ /ɪz/ /sed/ /ðæt/ /ðə/ /kruː/ /ɪɡˈnɔːrd/ /ˈwɔːrnɪŋz/ /əˈbaʊt/ /ði/ /ˈaɪsbɜːrɡ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "crew",
+        "role": "S",
+        "phonetic": "/kruː/",
+        "chinese": ""
+      },
+      {
+        "text": "ignored",
+        "role": "V",
+        "phonetic": "/ɪɡˈnɔːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "warnings",
+        "role": "O",
+        "phonetic": "/ˈwɔːrnɪŋz/",
+        "chinese": ""
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "iceberg",
+        "role": "O",
+        "phonetic": "/ˈaɪsbɜːrɡ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "由于救生艇不足超过一千五百人丧生",
+    "english": "More than fifteen hundred people lost their lives due to the shortage of lifeboats",
+    "soundmark": "/mɔːr/ /ðæn/ /ˌfɪfˈtiːn/ /ˈhʌndrəd/ /ˈpiːpəl/ /lɔːst/ /ðer/ /laɪvz/ /duː/ /tuː/ /ðə/ /ˈʃɔːrtɪdʒ/ /ʌv/ /ˈlaɪfboʊts/",
+    "grammar": [
+      {
+        "text": "More",
+        "role": "Det",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "fifteen",
+        "role": "A",
+        "phonetic": "/ˌfɪfˈtiːn/",
+        "chinese": "十五"
+      },
+      {
+        "text": "hundred",
+        "role": "A",
+        "phonetic": "/ˈhʌndrəd/",
+        "chinese": "百"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "lives",
+        "role": "O",
+        "phonetic": "/laɪvz/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "due",
+        "role": "A",
+        "phonetic": "/duː/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shortage",
+        "role": "O",
+        "phonetic": "/ˈʃɔːrtɪdʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "lifeboats",
+        "role": "O",
+        "phonetic": "/ˈlaɪfboʊts/",
+        "chinese": ""
+      }
+    ]
+  }
+]

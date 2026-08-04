@@ -1,0 +1,1161 @@
+[
+  {
+    "chinese": "一",
+    "english": "one",
+    "soundmark": "/wʌn/"
+  },
+  {
+    "chinese": "二",
+    "english": "two",
+    "soundmark": "/tuː/"
+  },
+  {
+    "chinese": "三",
+    "english": "three",
+    "soundmark": "/θriː/"
+  },
+  {
+    "chinese": "四",
+    "english": "four",
+    "soundmark": "/fɔːr/"
+  },
+  {
+    "chinese": "五",
+    "english": "five",
+    "soundmark": "/faɪv/"
+  },
+  {
+    "chinese": "六",
+    "english": "six",
+    "soundmark": "/sɪks/"
+  },
+  {
+    "chinese": "七",
+    "english": "seven",
+    "soundmark": "/ˈsevən/"
+  },
+  {
+    "chinese": "八",
+    "english": "eight",
+    "soundmark": "/eɪt/"
+  },
+  {
+    "chinese": "九",
+    "english": "nine",
+    "soundmark": "/naɪn/"
+  },
+  {
+    "chinese": "十",
+    "english": "ten",
+    "soundmark": "/ten/"
+  },
+  {
+    "chinese": "十一",
+    "english": "eleven",
+    "soundmark": "/ɪˈlevən/"
+  },
+  {
+    "chinese": "十二",
+    "english": "twelve",
+    "soundmark": "/twelv/"
+  },
+  {
+    "chinese": "十三",
+    "english": "thirteen",
+    "soundmark": "/ˌθɜːrˈtiːn/"
+  },
+  {
+    "chinese": "十四",
+    "english": "fourteen",
+    "soundmark": "/ˌfɔːrˈtiːn/"
+  },
+  {
+    "chinese": "十五",
+    "english": "fifteen",
+    "soundmark": "/ˌfɪfˈtiːn/"
+  },
+  {
+    "chinese": "十六",
+    "english": "sixteen",
+    "soundmark": "/ˌsɪksˈtiːn/"
+  },
+  {
+    "chinese": "十七",
+    "english": "seventeen",
+    "soundmark": "/ˌsevənˈtiːn/"
+  },
+  {
+    "chinese": "十八",
+    "english": "eighteen",
+    "soundmark": "/ˌeɪˈtiːn/"
+  },
+  {
+    "chinese": "十九",
+    "english": "nineteen",
+    "soundmark": "/ˌnaɪnˈtiːn/"
+  },
+  {
+    "chinese": "二十",
+    "english": "twenty",
+    "soundmark": "/ˈtwenti/"
+  },
+  {
+    "chinese": "岁",
+    "english": "year",
+    "soundmark": "/jɪr/"
+  },
+  {
+    "chinese": "年龄",
+    "english": "age",
+    "soundmark": "/eɪdʒ/"
+  },
+  {
+    "chinese": "多少",
+    "english": "how many",
+    "soundmark": "/haʊ/ /ˈmeni/"
+  },
+  {
+    "chinese": "几岁",
+    "english": "how old",
+    "soundmark": "/haʊ/ /oʊld/"
+  },
+  {
+    "chinese": "我五岁了",
+    "english": "I am five years old",
+    "soundmark": "/aɪ/ /æm/ /faɪv/ /jɪrz/ /oʊld/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "years",
+        "role": "C",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "他十岁了",
+    "english": "He is ten years old",
+    "soundmark": "/hiː/ /ɪz/ /ten/ /jɪrz/ /oʊld/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "ten",
+        "role": "Det",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "years",
+        "role": "C",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "她多大了",
+    "english": "How old is she",
+    "soundmark": "/haʊ/ /oʊld/ /ɪz/ /ʃiː/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      }
+    ]
+  },
+  {
+    "chinese": "你多大了",
+    "english": "How old are you",
+    "soundmark": "/haʊ/ /oʊld/ /ɑːr/ /juː/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/ɑːr/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/juː/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/ɑːr/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "我二十岁了",
+    "english": "I am twenty years old",
+    "soundmark": "/aɪ/ /æm/ /ˈtwenti/ /jɪrz/ /oʊld/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "twenty",
+        "role": "Det",
+        "phonetic": "/ˈtwenti/",
+        "chinese": "二十"
+      },
+      {
+        "text": "years",
+        "role": "C",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "我有一个妹妹她八岁了",
+    "english": "I have a sister she is eight",
+    "soundmark": "/aɪ/ /hæv/ /ə/ /ˈsɪstər/ /ʃiː/ /ɪz/ /eɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "sister",
+        "role": "O",
+        "phonetic": "/ˈsɪstər/",
+        "chinese": "姐妹"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "eight",
+        "role": "C",
+        "phonetic": "/eɪt/",
+        "chinese": "八"
+      }
+    ]
+  },
+  {
+    "chinese": "我今年十八岁",
+    "english": "I am eighteen years old",
+    "soundmark": "/aɪ/ /æm/ /ˌeɪˈtiːn/ /jɪrz/ /oʊld/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "eighteen",
+        "role": "Det",
+        "phonetic": "/ˌeɪˈtiːn/",
+        "chinese": "十八"
+      },
+      {
+        "text": "years",
+        "role": "C",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "我有三本书",
+    "english": "I have three books",
+    "soundmark": "/aɪ/ /hæv/ /θriː/ /bʊks/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "books",
+        "role": "O",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "她有两只猫",
+    "english": "She has two cats",
+    "soundmark": "/ʃiː/ /hæz/ /tuː/ /kæts/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "cats",
+        "role": "O",
+        "phonetic": "/kæts/",
+        "chinese": "猫"
+      }
+    ]
+  },
+  {
+    "chinese": "我们家有四口人",
+    "english": "There are four people in my family",
+    "soundmark": "/ðer/ /ɑːr/ /fɔːr/ /ˈpiːpəl/ /ɪn/ /maɪ/ /ˈfæməli/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "four",
+        "role": "Det",
+        "phonetic": "/fɔːr/",
+        "chinese": "四"
+      },
+      {
+        "text": "people",
+        "role": "C",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "family",
+        "role": "C",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      }
+    ]
+  },
+  {
+    "chinese": "他有二十支笔吗",
+    "english": "Does he have twenty pens",
+    "soundmark": "/dʌz/ /hiː/ /hæv/ /ˈtwenti/ /penz/",
+    "grammar": [
+      {
+        "text": "Does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "twenty",
+        "role": "Det",
+        "phonetic": "/ˈtwenti/",
+        "chinese": "二十"
+      },
+      {
+        "text": "pens",
+        "role": "O",
+        "phonetic": "/penz/",
+        "chinese": "钢笔"
+      }
+    ]
+  },
+  {
+    "chinese": "我有十根手指",
+    "english": "I have ten fingers",
+    "soundmark": "/aɪ/ /hæv/ /ten/ /ˈfɪŋɡərz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "ten",
+        "role": "Det",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "fingers",
+        "role": "O",
+        "phonetic": "/ˈfɪŋɡərz/",
+        "chinese": "手指"
+      }
+    ]
+  },
+  {
+    "chinese": "他没有十二支铅笔",
+    "english": "He does not have twelve pencils",
+    "soundmark": "/hiː/ /dʌz/ /nɑːt/ /hæv/ /twelv/ /ˈpensəlz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "twelve",
+        "role": "Det",
+        "phonetic": "/twelv/",
+        "chinese": "十二"
+      },
+      {
+        "text": "pencils",
+        "role": "O",
+        "phonetic": "/ˈpensəlz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你有几个朋友",
+    "english": "How many friends do you have",
+    "soundmark": "/haʊ/ /ˈmeni/ /frendz/ /duː/ /juː/ /hæv/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "friends",
+        "role": "O",
+        "phonetic": "/frendz/",
+        "chinese": "朋友"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "笼子里有六只鸟",
+    "english": "There are six birds in the cage",
+    "soundmark": "/ðer/ /ɑːr/ /sɪks/ /bɜːrdz/ /ɪn/ /ðə/ /keɪdʒ/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "six",
+        "role": "Det",
+        "phonetic": "/sɪks/",
+        "chinese": "六"
+      },
+      {
+        "text": "birds",
+        "role": "C",
+        "phonetic": "/bɜːrdz/",
+        "chinese": "鸟"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cage",
+        "role": "A",
+        "phonetic": "/keɪdʒ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他是我十一岁的弟弟",
+    "english": "He is my eleven-year-old brother",
+    "soundmark": "/hiː/ /ɪz/ /maɪ/ /ɪˈlevən/ /jɪr/ /oʊld/ /ˈbrʌðər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "eleven-year-old",
+        "role": "C",
+        "phonetic": "/ɪˈlevən/ /jɪr/ /oʊld/",
+        "chinese": ""
+      },
+      {
+        "text": "brother",
+        "role": "C",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      }
+    ]
+  },
+  {
+    "chinese": "我妈妈四十二岁了",
+    "english": "My mother is forty-two years old",
+    "soundmark": "/maɪ/ /ˈmʌðər/ /ɪz/ /ˈfɔːrti/ /tuː/ /jɪrz/ /oʊld/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "mother",
+        "role": "S",
+        "phonetic": "/ˈmʌðər/",
+        "chinese": "母亲"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "forty-two",
+        "role": "Det",
+        "phonetic": "/ˈfɔːrti/ /tuː/",
+        "chinese": ""
+      },
+      {
+        "text": "years",
+        "role": "C",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "一加二等于三",
+    "english": "One plus two is three",
+    "soundmark": "/wʌn/ /plʌs/ /tuː/ /ɪz/ /θriː/",
+    "grammar": [
+      {
+        "text": "One",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "plus",
+        "role": "P",
+        "phonetic": "/plʌs/",
+        "chinese": ""
+      },
+      {
+        "text": "two",
+        "role": "O",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "three",
+        "role": "C",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      }
+    ]
+  },
+  {
+    "chinese": "我的朋友今年十五岁",
+    "english": "My friend is fifteen years old",
+    "soundmark": "/maɪ/ /frend/ /ɪz/ /ˌfɪfˈtiːn/ /jɪrz/ /oʊld/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "friend",
+        "role": "S",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "fifteen",
+        "role": "Det",
+        "phonetic": "/ˌfɪfˈtiːn/",
+        "chinese": "十五"
+      },
+      {
+        "text": "years",
+        "role": "C",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "你有十九本书吗不我只有七本",
+    "english": "Do you have nineteen books No I only have seven",
+    "soundmark": "/duː/ /juː/ /hæv/ /ˌnaɪnˈtiːn/ /bʊks/ /noʊ/ /aɪ/ /ˈoʊnli/ /hæv/ /ˈsevən/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "nineteen",
+        "role": "Det",
+        "phonetic": "/ˌnaɪnˈtiːn/",
+        "chinese": "十九"
+      },
+      {
+        "text": "books",
+        "role": "O",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "seven",
+        "role": "O",
+        "phonetic": "/ˈsevən/",
+        "chinese": "七"
+      }
+    ]
+  },
+  {
+    "chinese": "教室里有多少学生有三十个",
+    "english": "How many students are in the classroom There are thirty",
+    "soundmark": "/haʊ/ /ˈmeni/ /ˈstuːdənts/ /ɑːr/ /ɪn/ /ðə/ /ˈklæsruːm/ /ðer/ /ɑːr/ /ˈθɜːrti/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "students",
+        "role": "S",
+        "phonetic": "/ˈstuːdənts/",
+        "chinese": "学生"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "classroom",
+        "role": "A",
+        "phonetic": "/ˈklæsruːm/",
+        "chinese": "教室"
+      },
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "thirty",
+        "role": "C",
+        "phonetic": "/ˈθɜːrti/",
+        "chinese": "三十"
+      }
+    ]
+  },
+  {
+    "chinese": "她才四岁但她很聪明",
+    "english": "She is only four but she is very smart",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈoʊnli/ /fɔːr/ /bʌt/ /ʃiː/ /ɪz/ /ˈveri/ /smɑːrt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "four",
+        "role": "C",
+        "phonetic": "/fɔːr/",
+        "chinese": "四"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "smart",
+        "role": "C",
+        "phonetic": "/smɑːrt/",
+        "chinese": "聪明的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的年龄是十三岁我妹妹是七岁",
+    "english": "My age is thirteen and my sister is seven",
+    "soundmark": "/maɪ/ /eɪdʒ/ /ɪz/ /ˌθɜːrˈtiːn/ /ænd/ /maɪ/ /ˈsɪstər/ /ɪz/ /ˈsevən/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "age",
+        "role": "S",
+        "phonetic": "/eɪdʒ/",
+        "chinese": "年龄/时代"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "thirteen",
+        "role": "C",
+        "phonetic": "/ˌθɜːrˈtiːn/",
+        "chinese": "十三"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "sister",
+        "role": "S",
+        "phonetic": "/ˈsɪstər/",
+        "chinese": "姐妹"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "seven",
+        "role": "C",
+        "phonetic": "/ˈsevən/",
+        "chinese": "七"
+      }
+    ]
+  },
+  {
+    "chinese": "加",
+    "english": "plus",
+    "soundmark": "/plʌs/"
+  },
+  {
+    "chinese": "手指",
+    "english": "finger",
+    "soundmark": "/ˈfɪŋɡər/"
+  },
+  {
+    "chinese": "教室",
+    "english": "classroom",
+    "soundmark": "/ˈklæsruːm/"
+  },
+  {
+    "chinese": "笼子",
+    "english": "cage",
+    "soundmark": "/keɪdʒ/"
+  },
+  {
+    "chinese": "多少",
+    "english": "many",
+    "soundmark": "/ˈmeni/"
+  },
+  {
+    "chinese": "数字",
+    "english": "number",
+    "soundmark": "/ˈnʌmbər/"
+  },
+  {
+    "chinese": "第一个",
+    "english": "first",
+    "soundmark": "/fɜːrst/"
+  },
+  {
+    "chinese": "第二个",
+    "english": "second",
+    "soundmark": "/ˈsekənd/"
+  },
+  {
+    "chinese": "第三个",
+    "english": "third",
+    "soundmark": "/θɜːrd/"
+  },
+  {
+    "chinese": "零",
+    "english": "zero",
+    "soundmark": "/ˈzɪroʊ/"
+  }
+]

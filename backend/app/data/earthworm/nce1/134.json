@@ -1,0 +1,182 @@
+[
+  {
+    "english": "question",
+    "chinese": "问题",
+    "soundmark": "/ˈkwestʃən/"
+  },
+  {
+    "english": "doubt",
+    "chinese": "怀疑",
+    "soundmark": "/daʊt/"
+  },
+  {
+    "chinese": "毫无疑问",
+    "english": "Beyond question",
+    "soundmark": "/biˈjɑːnd ˈkwestʃən/",
+    "grammar": [
+      {
+        "text": "Beyond",
+        "role": "P",
+        "phonetic": "/biˈjɑːnd/",
+        "chinese": "超越"
+      },
+      {
+        "text": "question",
+        "role": "O",
+        "phonetic": "/ˈkwestʃən/",
+        "chinese": "问题"
+      }
+    ]
+  },
+  {
+    "chinese": "这是毫无疑问的",
+    "english": "It's beyond question",
+    "soundmark": "/ɪts biˈjɑːnd ˈkwestʃən/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "beyond",
+        "role": "P",
+        "phonetic": "/biˈjɑːnd/",
+        "chinese": "超越"
+      },
+      {
+        "text": "question",
+        "role": "O",
+        "phonetic": "/ˈkwestʃən/",
+        "chinese": "问题"
+      }
+    ]
+  },
+  {
+    "chinese": "没有疑问",
+    "english": "There is no doubt",
+    "soundmark": "/ðer ɪz noʊ daʊt/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "doubt",
+        "role": "C",
+        "phonetic": "/daʊt/",
+        "chinese": "怀疑"
+      }
+    ]
+  },
+  {
+    "chinese": "我确定这是对的",
+    "english": "I'm sure it's correct",
+    "soundmark": "/aɪm ʃʊr ɪts kəˈrekt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "'m",
+        "role": "V",
+        "phonetic": "/m/",
+        "chinese": ""
+      },
+      {
+        "text": "sure",
+        "role": "C",
+        "phonetic": "/ʃʊr/",
+        "chinese": "确定的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "correct",
+        "role": "C",
+        "phonetic": "/kəˈrekt/",
+        "chinese": "正确的"
+      }
+    ]
+  },
+  {
+    "chinese": "这是事实",
+    "english": "It's a fact",
+    "soundmark": "/ɪts ə fækt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fact",
+        "role": "C",
+        "phonetic": "/fækt/",
+        "chinese": "事实"
+      }
+    ]
+  },
+  {
+    "english": "certain",
+    "chinese": "确定的",
+    "soundmark": "/ˈsɜːrtən/"
+  },
+  {
+    "english": "definite",
+    "chinese": "明确的",
+    "soundmark": "/ˈdefɪnət/"
+  },
+  {
+    "english": "obvious",
+    "chinese": "明显的",
+    "soundmark": "/ˈɑːbviəs/"
+  }
+]

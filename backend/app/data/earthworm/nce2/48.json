@@ -1,0 +1,337 @@
+[
+  {
+    "chinese": "牙医",
+    "english": "dentist",
+    "soundmark": "/ˈdentɪst/"
+  },
+  {
+    "chinese": "拔掉",
+    "english": "pull out",
+    "soundmark": "/pʊl aʊt/"
+  },
+  {
+    "chinese": "与此同时",
+    "english": "meanwhile",
+    "soundmark": "/ˈmiːnwaɪl/"
+  },
+  {
+    "chinese": "舌头",
+    "english": "tongue",
+    "soundmark": "/tʌŋ/"
+  },
+  {
+    "chinese": "疼痛的",
+    "english": "painful",
+    "soundmark": "/ˈpeɪnfl/"
+  },
+  {
+    "chinese": "收集",
+    "english": "collect",
+    "soundmark": "/kəˈlekt/"
+  },
+  {
+    "chinese": "点头",
+    "english": "nod",
+    "soundmark": "/nɑːd/"
+  },
+  {
+    "chinese": "搜索",
+    "english": "search",
+    "soundmark": "/sɜːrtʃ/"
+  },
+  {
+    "chinese": "牙医问我哪里疼。",
+    "english": "The dentist asked me where it hurt",
+    "soundmark": "/ðə ˈdentɪst æskt miː wer ɪt hɜːrt/",
+    "grammar": [
+      {
+        "text": "The dentist",
+        "role": "S",
+        "phonetic": "/ðə ˈdentɪst/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "where it hurt",
+        "role": "O",
+        "phonetic": "/wer ɪt hɜːrt/",
+        "chinese": "哪里/它/伤害"
+      }
+    ]
+  },
+  {
+    "chinese": "他告诉我把嘴张开。",
+    "english": "He told me to open my mouth",
+    "soundmark": "/hiː toʊld miː tuː ˈoʊpən maɪ maʊθ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "to open my mouth",
+        "role": "O",
+        "phonetic": "/tuː ˈoʊpən maɪ maʊθ/",
+        "chinese": "到/向/打开/我的"
+      }
+    ]
+  },
+  {
+    "chinese": "他说他必须把那颗牙拔掉。",
+    "english": "He said he had to pull the tooth out",
+    "soundmark": "/hiː sed hiː hæd tuː pʊl ðə tuːθ aʊt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "he had to pull the tooth out",
+        "role": "O",
+        "phonetic": "/hiː hæd tuː pʊl ðə tuːθ aʊt/",
+        "chinese": "他/有/助动词（过去式）/到/向/拉/这个/那个/出去"
+      }
+    ]
+  },
+  {
+    "chinese": "我问他是不是很疼。",
+    "english": "I asked him whether it would be painful",
+    "soundmark": "/aɪ æskt hɪm ˈweðər ɪt wʊd biː ˈpeɪnfl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "whether it would be painful",
+        "role": "O",
+        "phonetic": "/ˈweðər ɪt wʊd biː ˈpeɪnfl/",
+        "chinese": "是否/它/将会/是"
+      }
+    ]
+  },
+  {
+    "chinese": "他说与此同时他会收集我的舌头。",
+    "english": "He said meanwhile he would collect my tongue",
+    "soundmark": "/hiː sed ˈmiːnwaɪl hiː wʊd kəˈlekt maɪ tʌŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "meanwhile he would collect my tongue",
+        "role": "O",
+        "phonetic": "/ˈmiːnwaɪl hiː wʊd kəˈlekt maɪ tʌŋ/",
+        "chinese": "与此同时/他/将会/收集/我的"
+      }
+    ]
+  },
+  {
+    "chinese": "他问我是否想告诉他什么。",
+    "english": "He asked me if I wanted to tell him something",
+    "soundmark": "/hiː æskt miː ɪf aɪ ˈwɑːntɪd tuː tel hɪm ˈsʌmθɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "if I wanted to tell him something",
+        "role": "O",
+        "phonetic": "/ɪf aɪ ˈwɑːntɪd tuː tel hɪm ˈsʌmθɪŋ/",
+        "chinese": "如果/我/想要/到/向/告诉/他/某物"
+      }
+    ]
+  },
+  {
+    "chinese": "我点头表示同意。",
+    "english": "I nodded to show that I agreed",
+    "soundmark": "/aɪ ˈnɑːdɪd tuː ʃoʊ ðæt aɪ əˈɡriːd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "nodded",
+        "role": "V",
+        "phonetic": "/ˈnɑːdɪd/",
+        "chinese": "点头（过去式）"
+      },
+      {
+        "text": "to show that I agreed",
+        "role": "A",
+        "phonetic": "/tuː ʃoʊ ðæt aɪ əˈɡriːd/",
+        "chinese": "到/向/展示/那个/我/同意"
+      }
+    ]
+  },
+  {
+    "chinese": "牙医说他正在找那颗坏牙。",
+    "english": "The dentist said he was searching for the bad tooth",
+    "soundmark": "/ðə ˈdentɪst sed hiː wʌz ˈsɜːrtʃɪŋ fɔːr ðə bæd tuːθ/",
+    "grammar": [
+      {
+        "text": "The dentist",
+        "role": "S",
+        "phonetic": "/ðə ˈdentɪst/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "he was searching for the bad tooth",
+        "role": "O",
+        "phonetic": "/hiː wʌz ˈsɜːrtʃɪŋ fɔːr ðə bæd tuːθ/",
+        "chinese": "他/是（过去式）/搜索的/为了/对于/这个/那个/坏的"
+      }
+    ]
+  },
+  {
+    "chinese": "他让我不要担心一切都会好的。",
+    "english": "He told me not to worry and everything would be fine",
+    "soundmark": "/hiː toʊld miː nɑːt tuː ˈwɜːri ænd ˈevriθɪŋ wʊd biː faɪn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "not to worry and everything would be fine",
+        "role": "O",
+        "phonetic": "/nɑːt tuː ˈwɜːri ænd ˈevriθɪŋ wʊd biː faɪn/",
+        "chinese": "不/到/向/担心/和/一切/将会/是/好的/晴朗的"
+      }
+    ]
+  },
+  {
+    "chinese": "同意",
+    "english": "agree",
+    "soundmark": "/əˈɡriː/"
+  },
+  {
+    "chinese": "嘴",
+    "english": "mouth",
+    "soundmark": "/maʊθ/"
+  },
+  {
+    "chinese": "牙齿",
+    "english": "tooth",
+    "soundmark": "/tuːθ/"
+  },
+  {
+    "chinese": "展示",
+    "english": "show",
+    "soundmark": "/ʃoʊ/"
+  },
+  {
+    "chinese": "坏的",
+    "english": "bad",
+    "soundmark": "/bæd/"
+  },
+  {
+    "chinese": "一切",
+    "english": "everything",
+    "soundmark": "/ˈevriθɪŋ/"
+  },
+  {
+    "chinese": "疼",
+    "english": "hurt",
+    "soundmark": "/hɜːrt/"
+  },
+  {
+    "chinese": "某物",
+    "english": "something",
+    "soundmark": "/ˈsʌmθɪŋ/"
+  }
+]

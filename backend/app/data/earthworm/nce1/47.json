@@ -1,0 +1,1177 @@
+[
+  {
+    "chinese": "曾经",
+    "english": "ever",
+    "soundmark": "/ˈevər/"
+  },
+  {
+    "chinese": "从未",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  },
+  {
+    "chinese": "去过",
+    "english": "been to",
+    "soundmark": "/biːn tuː/"
+  },
+  {
+    "chinese": "做过",
+    "english": "done",
+    "soundmark": "/dʌn/"
+  },
+  {
+    "chinese": "见过",
+    "english": "seen",
+    "soundmark": "/siːn/"
+  },
+  {
+    "chinese": "吃过",
+    "english": "eaten",
+    "soundmark": "/ˈiːtn/"
+  },
+  {
+    "chinese": "经历",
+    "english": "experience",
+    "soundmark": "/ɪkˈspɪriəns/"
+  },
+  {
+    "chinese": "你曾经去过日本吗",
+    "english": "Have you ever been to Japan",
+    "soundmark": "/hæv juː ˈevər biːn tuː dʒəˈpæn/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to Japan",
+        "role": "A",
+        "phonetic": "/tuː dʒəˈpæn/",
+        "chinese": "到/向/日本"
+      }
+    ]
+  },
+  {
+    "chinese": "我从来没去过日本",
+    "english": "I have never been to Japan",
+    "soundmark": "/aɪ hæv ˈnevər biːn tuː dʒəˈpæn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never been",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər biːn/",
+        "chinese": "有/助动词/从不/是（过去分词）"
+      },
+      {
+        "text": "to Japan",
+        "role": "A",
+        "phonetic": "/tuː dʒəˈpæn/",
+        "chinese": "到/向/日本"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾见过大象吗",
+    "english": "Have you ever seen an elephant",
+    "soundmark": "/hæv juː ˈevər siːn ən ˈelɪfənt/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "an elephant",
+        "role": "O",
+        "phonetic": "/ən ˈelɪfənt/",
+        "chinese": "一个/大象"
+      }
+    ]
+  },
+  {
+    "chinese": "是的我见过",
+    "english": "Yes I have seen one",
+    "soundmark": "/jes aɪ hæv siːn wʌn/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have seen",
+        "role": "V",
+        "phonetic": "/hæv siːn/",
+        "chinese": "有/助动词/看见（过去分词）"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "你吃过泰国菜吗",
+    "english": "Have you ever eaten Thai food",
+    "soundmark": "/hæv juː ˈevər ˈiːtn taɪ fuːd/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "eaten",
+        "role": "V",
+        "phonetic": "/ˈiːtn/",
+        "chinese": "被吃的"
+      },
+      {
+        "text": "Thai food",
+        "role": "O",
+        "phonetic": "/taɪ fuːd/",
+        "chinese": "食物"
+      }
+    ]
+  },
+  {
+    "chinese": "不我从来没吃过",
+    "english": "No I have never tried it",
+    "soundmark": "/noʊ aɪ hæv ˈnevər traɪd ɪt/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never tried",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər traɪd/",
+        "chinese": "有/助动词/从不/尝试（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经做过这个吗",
+    "english": "Have you ever done this before",
+    "soundmark": "/hæv juː ˈevər dʌn ðɪs bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "done",
+        "role": "V",
+        "phonetic": "/dʌn/",
+        "chinese": "做好的"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我吃过最好的蛋糕",
+    "english": "This is the best cake I have ever eaten",
+    "soundmark": "/ðɪs ɪz ðə best keɪk aɪ hæv ˈevər ˈiːtn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the best cake",
+        "role": "C",
+        "phonetic": "/ðə best keɪk/",
+        "chinese": "这个/那个/最好/蛋糕"
+      },
+      {
+        "text": "I have ever eaten",
+        "role": "A",
+        "phonetic": "/aɪ hæv ˈevər ˈiːtn/",
+        "chinese": "我/有/助动词/曾经/被吃掉的"
+      }
+    ]
+  },
+  {
+    "chinese": "你见过最漂亮的日落吗",
+    "english": "Have you ever seen the most beautiful sunset",
+    "soundmark": "/hæv juː ˈevər siːn ðə moʊst ˈbjuːtɪfl ˈsʌnset/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "the most beautiful sunset",
+        "role": "O",
+        "phonetic": "/ðə moʊst ˈbjuːtɪfl ˈsʌnset/",
+        "chinese": "这个/那个/大多数/美丽的"
+      }
+    ]
+  },
+  {
+    "chinese": "从未",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  },
+  {
+    "chinese": "以前",
+    "english": "before",
+    "soundmark": "/bɪˈfɔːr/"
+  },
+  {
+    "chinese": "大象",
+    "english": "elephant",
+    "soundmark": "/ˈelɪfənt/"
+  },
+  {
+    "chinese": "泰国菜",
+    "english": "Thai food",
+    "soundmark": "/taɪ fuːd/"
+  },
+  {
+    "chinese": "尝试",
+    "english": "try",
+    "soundmark": "/traɪ/"
+  },
+  {
+    "chinese": "日落",
+    "english": "sunset",
+    "soundmark": "/ˈsʌnset/"
+  },
+  {
+    "chinese": "最美的",
+    "english": "the most beautiful",
+    "soundmark": "/ðə moʊst ˈbjuːtɪfl/"
+  },
+  {
+    "chinese": "经历",
+    "english": "experience",
+    "soundmark": "/ɪkˈspɪriəns/"
+  },
+  {
+    "chinese": "你曾经坐过飞机吗",
+    "english": "Have you ever flown in a plane",
+    "soundmark": "/hæv juː ˈevər floʊn ɪn ə pleɪn/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "flown",
+        "role": "V",
+        "phonetic": "/floʊn/",
+        "chinese": "飞（过去分词）"
+      },
+      {
+        "text": "in a plane",
+        "role": "A",
+        "phonetic": "/ɪn ə pleɪn/",
+        "chinese": "在…里/一个/飞机"
+      }
+    ]
+  },
+  {
+    "chinese": "是的我坐过很多次",
+    "english": "Yes I have flown many times",
+    "soundmark": "/jes aɪ hæv floʊn ˈmeni taɪmz/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have flown",
+        "role": "V",
+        "phonetic": "/hæv floʊn/",
+        "chinese": "有/助动词/飞（过去分词）"
+      },
+      {
+        "text": "many times",
+        "role": "A",
+        "phonetic": "/ˈmeni taɪmz/",
+        "chinese": "许多/…们/复数(时间)"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经读过这本书吗",
+    "english": "Have you ever read this book",
+    "soundmark": "/hæv juː ˈevər red ðɪs bʊk/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/red/",
+        "chinese": "读"
+      },
+      {
+        "text": "this book",
+        "role": "O",
+        "phonetic": "/ðɪs bʊk/",
+        "chinese": "这个/预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "不我还没读过",
+    "english": "No I have never read it",
+    "soundmark": "/noʊ aɪ hæv ˈnevər red ɪt/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never read",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər red/",
+        "chinese": "有/助动词/从不/读（过去式/过去分词）"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经去过音乐会吗",
+    "english": "Have you ever been to a concert",
+    "soundmark": "/hæv juː ˈevər biːn tuː ə ˈkɑːnsərt/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to a concert",
+        "role": "A",
+        "phonetic": "/tuː ə ˈkɑːnsərt/",
+        "chinese": "到/向/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我从未听过这么美的音乐",
+    "english": "I have never heard such beautiful music",
+    "soundmark": "/aɪ hæv ˈnevər hɜːrd sʌtʃ ˈbjuːtɪfl ˈmjuːzɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never heard",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər hɜːrd/",
+        "chinese": "有/助动词/从不/听到（过去式）"
+      },
+      {
+        "text": "such beautiful music",
+        "role": "O",
+        "phonetic": "/sʌtʃ ˈbjuːtɪfl ˈmjuːzɪk/",
+        "chinese": "这样的/美丽的/音乐"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经学外语吗",
+    "english": "Have you ever learned a foreign language",
+    "soundmark": "/hæv juː ˈevər lɜːrnd ə ˈfɔːrən ˈlæŋɡwɪdʒ/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "learned",
+        "role": "V",
+        "phonetic": "/lɜːrnd/",
+        "chinese": "学习"
+      },
+      {
+        "text": "a foreign language",
+        "role": "O",
+        "phonetic": "/ə ˈfɔːrən ˈlæŋɡwɪdʒ/",
+        "chinese": "一个/外国的/语言"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在学英语",
+    "english": "I am learning English right now",
+    "soundmark": "/aɪ æm ˈlɜːrnɪŋ ˈɪŋɡlɪʃ raɪt naʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am learning",
+        "role": "V",
+        "phonetic": "/æm ˈlɜːrnɪŋ/",
+        "chinese": "是/学习"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "right now",
+        "role": "A",
+        "phonetic": "/raɪt naʊ/",
+        "chinese": "现在/马上"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经去过长城吗",
+    "english": "Have you ever visited the Great Wall",
+    "soundmark": "/hæv juː ˈevər ˈvɪzɪtɪd ðə ɡreɪt wɔːl/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "visited",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪtɪd/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "the Great Wall",
+        "role": "O",
+        "phonetic": "/ðə ɡreɪt wɔːl/",
+        "chinese": "这个/那个/伟大的/很棒的/墙"
+      }
+    ]
+  },
+  {
+    "chinese": "没有但我很想去",
+    "english": "No but I really want to go",
+    "soundmark": "/noʊ bʌt aɪ ˈriːəli wɑːnt tuː ɡoʊ/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "really want",
+        "role": "V",
+        "phonetic": "/ˈriːəli wɑːnt/",
+        "chinese": "真正地/想要"
+      },
+      {
+        "text": "to go",
+        "role": "V",
+        "phonetic": "/tuː ɡoʊ/",
+        "chinese": "到/向/去"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经晚上开车吗",
+    "english": "Have you ever driven at night",
+    "soundmark": "/hæv juː ˈevər ˈdrɪvn æt naɪt/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "driven",
+        "role": "V",
+        "phonetic": "/ˈdrɪvn/",
+        "chinese": "被驱动的"
+      },
+      {
+        "text": "at night",
+        "role": "A",
+        "phonetic": "/æt naɪt/",
+        "chinese": "在晚上"
+      }
+    ]
+  },
+  {
+    "chinese": "我从来没有独自旅行过",
+    "english": "I have never travelled alone",
+    "soundmark": "/aɪ hæv ˈnevər ˈtrævld əˈloʊn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never travelled",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər ˈtrævld/",
+        "chinese": "有/助动词/从不/旅行"
+      },
+      {
+        "text": "alone",
+        "role": "A",
+        "phonetic": "/əˈloʊn/",
+        "chinese": "孤单的"
+      }
+    ]
+  },
+  {
+    "chinese": "飞机",
+    "english": "plane",
+    "soundmark": "/pleɪn/"
+  },
+  {
+    "chinese": "音乐会",
+    "english": "concert",
+    "soundmark": "/ˈkɑːnsərt/"
+  },
+  {
+    "chinese": "音乐",
+    "english": "music",
+    "soundmark": "/ˈmjuːzɪk/"
+  },
+  {
+    "chinese": "外语",
+    "english": "foreign language",
+    "soundmark": "/ˈfɔːrən ˈlæŋɡwɪdʒ/"
+  },
+  {
+    "chinese": "独自",
+    "english": "alone",
+    "soundmark": "/əˈloʊn/"
+  },
+  {
+    "chinese": "长城",
+    "english": "the Great Wall",
+    "soundmark": "/ðə ɡreɪt wɔːl/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "travel",
+    "soundmark": "/ˈtrævl/"
+  },
+  {
+    "chinese": "拜访",
+    "english": "visit",
+    "soundmark": "/ˈvɪzɪt/"
+  },
+  {
+    "chinese": "飞行",
+    "english": "fly",
+    "soundmark": "/flaɪ/"
+  },
+  {
+    "chinese": "你曾经在雨中步行过吗",
+    "english": "Have you ever walked in the rain",
+    "soundmark": "/hæv juː ˈevər wɔːkt ɪn ðə reɪn/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "in the rain",
+        "role": "A",
+        "phonetic": "/ɪn ðə reɪn/",
+        "chinese": "在…里/这个/那个/雨"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经给名人写过信吗",
+    "english": "Have you ever written to a famous person",
+    "soundmark": "/hæv juː ˈevər ˈrɪtn tuː ə ˈfeɪməs ˈpɜːrsn/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "written",
+        "role": "V",
+        "phonetic": "/ˈrɪtn/",
+        "chinese": "书面的"
+      },
+      {
+        "text": "to a famous person",
+        "role": "A",
+        "phonetic": "/tuː ə ˈfeɪməs ˈpɜːrsn/",
+        "chinese": "到/向/一个/著名的/人"
+      }
+    ]
+  },
+  {
+    "chinese": "我从来没在网上订过东西",
+    "english": "I have never ordered anything online",
+    "soundmark": "/aɪ hæv ˈnevər ˈɔːrdərd ˈeniθɪŋ ˈɑːnlaɪn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never ordered",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər ˈɔːrdərd/",
+        "chinese": "有/助动词/从不/秩序/命令"
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      },
+      {
+        "text": "online",
+        "role": "A",
+        "phonetic": "/ˈɑːnlaɪn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经爬过山吗",
+    "english": "Have you ever climbed a mountain",
+    "soundmark": "/hæv juː ˈevər klaɪmd ə ˈmaʊntn/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "climbed",
+        "role": "V",
+        "phonetic": "/klaɪmd/",
+        "chinese": "爬"
+      },
+      {
+        "text": "a mountain",
+        "role": "O",
+        "phonetic": "/ə ˈmaʊntn/",
+        "chinese": "一个/山"
+      }
+    ]
+  },
+  {
+    "chinese": "我从未如此开心过",
+    "english": "I have never been so happy before",
+    "soundmark": "/aɪ hæv ˈnevər biːn soʊ ˈhæpi bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never been",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər biːn/",
+        "chinese": "有/助动词/从不/是（过去分词）"
+      },
+      {
+        "text": "so happy",
+        "role": "C",
+        "phonetic": "/soʊ ˈhæpi/",
+        "chinese": "如此开心"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经在冬天游泳吗",
+    "english": "Have you ever swum in winter",
+    "soundmark": "/hæv juː ˈevər swʌm ɪn ˈwɪntər/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "swum",
+        "role": "V",
+        "phonetic": "/swʌm/",
+        "chinese": "游泳（过去分词）"
+      },
+      {
+        "text": "in winter",
+        "role": "A",
+        "phonetic": "/ɪn ˈwɪntər/",
+        "chinese": "在…里/冬天"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我曾住过最好的酒店",
+    "english": "This is the best hotel I have ever stayed in",
+    "soundmark": "/ðɪs ɪz ðə best hoʊˈtel aɪ hæv ˈevər steɪd ɪn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the best hotel",
+        "role": "C",
+        "phonetic": "/ðə best hoʊˈtel/",
+        "chinese": "这个/那个/最好/酒店"
+      },
+      {
+        "text": "I have ever stayed in",
+        "role": "A",
+        "phonetic": "/aɪ hæv ˈevər steɪd ɪn/",
+        "chinese": "我/有/助动词/曾经/停留/保持/在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经忘记过重要的约会吗",
+    "english": "Have you ever forgotten an important appointment",
+    "soundmark": "/hæv juː ˈevər fərˈɡɑːtn ən ɪmˈpɔːrtnt əˈpɔɪntmənt/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "forgotten",
+        "role": "V",
+        "phonetic": "/fərˈɡɑːtn/",
+        "chinese": "被遗忘的"
+      },
+      {
+        "text": "an important appointment",
+        "role": "O",
+        "phonetic": "/ən ɪmˈpɔːrtnt əˈpɔɪntmənt/",
+        "chinese": "一个/重要的"
+      }
+    ]
+  },
+  {
+    "chinese": "不我从来没忘记过",
+    "english": "No I have never forgotten one",
+    "soundmark": "/noʊ aɪ hæv ˈnevər fərˈɡɑːtn wʌn/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never forgotten",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər fərˈɡɑːtn/",
+        "chinese": "有/助动词/从不/忘记（过去分词）"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "雨",
+    "english": "rain",
+    "soundmark": "/reɪn/"
+  },
+  {
+    "chinese": "名人",
+    "english": "famous person",
+    "soundmark": "/ˈfeɪməs ˈpɜːrsn/"
+  },
+  {
+    "chinese": "网上",
+    "english": "online",
+    "soundmark": "/ˈɑːnlaɪn/"
+  },
+  {
+    "chinese": "爬山",
+    "english": "climb",
+    "soundmark": "/klaɪm/"
+  },
+  {
+    "chinese": "冬天",
+    "english": "winter",
+    "soundmark": "/ˈwɪntər/"
+  },
+  {
+    "chinese": "酒店",
+    "english": "hotel",
+    "soundmark": "/hoʊˈtel/"
+  },
+  {
+    "chinese": "约会",
+    "english": "appointment",
+    "soundmark": "/əˈpɔɪntmənt/"
+  }
+]

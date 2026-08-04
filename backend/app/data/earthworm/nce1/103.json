@@ -1,0 +1,280 @@
+[
+  {
+    "english": "French",
+    "chinese": "法语",
+    "soundmark": "/frentʃ/"
+  },
+  {
+    "english": "test",
+    "chinese": "测试",
+    "soundmark": "/test/"
+  },
+  {
+    "english": "study",
+    "chinese": "学习",
+    "soundmark": "/ˈstʌdi/"
+  },
+  {
+    "english": "grade",
+    "chinese": "成绩",
+    "soundmark": "/ɡreɪd/"
+  },
+  {
+    "english": "pass",
+    "chinese": "通过",
+    "soundmark": "/pæs/"
+  },
+  {
+    "english": "fail",
+    "chinese": "失败",
+    "soundmark": "/feɪl/"
+  },
+  {
+    "chinese": "我明天有法语考试",
+    "english": "I have a French test tomorrow",
+    "soundmark": "/aɪ həv ə frentʃ test təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/həv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "French",
+        "role": "Det",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      },
+      {
+        "text": "test",
+        "role": "O",
+        "phonetic": "/test/",
+        "chinese": "测试"
+      },
+      {
+        "text": "tomorrow",
+        "role": "T",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "她努力学习通过了考试",
+    "english": "She studied hard and passed the test",
+    "soundmark": "/ʃiː ˈstʌdid hɑːrd ænd pæst ðə test/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "studied",
+        "role": "V",
+        "phonetic": "/ˈstʌdid/",
+        "chinese": "学习（过去式）"
+      },
+      {
+        "text": "hard",
+        "role": "Adv",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      },
+      {
+        "text": "and",
+        "role": "Conj",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pæst/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "test",
+        "role": "O",
+        "phonetic": "/test/",
+        "chinese": "测试"
+      }
+    ]
+  },
+  {
+    "chinese": "考试比我预期的难",
+    "english": "The test was harder than I expected",
+    "soundmark": "/ðə test wʌz ˈhɑːrdər ðæn aɪ ɪkˈspektɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "test",
+        "role": "S",
+        "phonetic": "/test/",
+        "chinese": "测试"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "harder",
+        "role": "C",
+        "phonetic": "/ˈhɑːrdər/",
+        "chinese": "更…的/…者(硬的/难的)"
+      },
+      {
+        "text": "than",
+        "role": "Conj",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "expected",
+        "role": "V",
+        "phonetic": "/ɪkˈspektɪd/",
+        "chinese": "预期的"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要为考试做更多准备",
+    "english": "I need to prepare more for the test",
+    "soundmark": "/aɪ niːd tə prɪˈper mɔːr fɔːr ðə test/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "prepare",
+        "role": "V",
+        "phonetic": "/prɪˈper/",
+        "chinese": "准备"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "test",
+        "role": "O",
+        "phonetic": "/test/",
+        "chinese": "测试"
+      }
+    ]
+  },
+  {
+    "chinese": "他法语考试不及格",
+    "english": "He failed the French test",
+    "soundmark": "/hiː feɪld ðə frentʃ test/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "failed",
+        "role": "V",
+        "phonetic": "/feɪld/",
+        "chinese": "失败"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "French",
+        "role": "Det",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      },
+      {
+        "text": "test",
+        "role": "O",
+        "phonetic": "/test/",
+        "chinese": "测试"
+      }
+    ]
+  },
+  {
+    "english": "nervous",
+    "chinese": "紧张的",
+    "soundmark": "/ˈnɜːrvəs/"
+  },
+  {
+    "english": "confident",
+    "chinese": "自信的",
+    "soundmark": "/ˈkɑːnfɪdənt/"
+  },
+  {
+    "english": "practice",
+    "chinese": "练习",
+    "soundmark": "/ˈpræktɪs/"
+  }
+]

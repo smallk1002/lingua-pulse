@@ -1,0 +1,473 @@
+[
+  {
+    "chinese": "厨房",
+    "english": "kitchen",
+    "soundmark": "/ˈkɪtʃɪn/"
+  },
+  {
+    "chinese": "水槽",
+    "english": "sink",
+    "soundmark": "/sɪŋk/"
+  },
+  {
+    "chinese": "水龙头",
+    "english": "tap",
+    "soundmark": "/tæp/"
+  },
+  {
+    "chinese": "炉子",
+    "english": "cooker",
+    "soundmark": "/ˈkʊkər/"
+  },
+  {
+    "chinese": "烤箱",
+    "english": "oven",
+    "soundmark": "/ˈʌvən/"
+  },
+  {
+    "chinese": "冰箱",
+    "english": "refrigerator",
+    "soundmark": "/rɪˈfrɪdʒəreɪtər/"
+  },
+  {
+    "chinese": "冰箱",
+    "english": "fridge",
+    "soundmark": "/frɪdʒ/"
+  },
+  {
+    "chinese": "微波炉",
+    "english": "microwave",
+    "soundmark": "/ˈmaɪkrəweɪv/"
+  },
+  {
+    "chinese": "锅",
+    "english": "pot",
+    "soundmark": "/pɑːt/"
+  },
+  {
+    "chinese": "平底锅",
+    "english": "pan",
+    "soundmark": "/pæn/"
+  },
+  {
+    "chinese": "盘子",
+    "english": "plate",
+    "soundmark": "/pleɪt/"
+  },
+  {
+    "chinese": "碗",
+    "english": "bowl",
+    "soundmark": "/boʊl/"
+  },
+  {
+    "chinese": "杯子",
+    "english": "cup",
+    "soundmark": "/kʌp/"
+  },
+  {
+    "chinese": "玻璃杯",
+    "english": "glass",
+    "soundmark": "/ɡlæs/"
+  },
+  {
+    "chinese": "刀",
+    "english": "knife",
+    "soundmark": "/naɪf/"
+  },
+  {
+    "chinese": "叉子",
+    "english": "fork",
+    "soundmark": "/fɔːrk/"
+  },
+  {
+    "chinese": "勺子",
+    "english": "spoon",
+    "soundmark": "/spuːn/"
+  },
+  {
+    "chinese": "筷子",
+    "english": "chopsticks",
+    "soundmark": "/ˈtʃɑːpstɪks/"
+  },
+  {
+    "chinese": "水壶",
+    "english": "kettle",
+    "soundmark": "/ˈketəl/"
+  },
+  {
+    "chinese": "茶壶",
+    "english": "teapot",
+    "soundmark": "/ˈtiːpɑːt/"
+  },
+  {
+    "chinese": "冰箱里有什么",
+    "english": "What is in the fridge",
+    "soundmark": "/wʌt/ /ɪz/ /ɪn/ /ðə/ /frɪdʒ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fridge",
+        "role": "O",
+        "phonetic": "/frɪdʒ/",
+        "chinese": "冰箱"
+      }
+    ]
+  },
+  {
+    "chinese": "有一些鸡蛋和牛奶",
+    "english": "There are some eggs and milk",
+    "soundmark": "/ðer/ /ɑːr/ /sʌm/ /eɡz/ /ænd/ /mɪlk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "eggs",
+        "role": "C",
+        "phonetic": "/eɡz/",
+        "chinese": "鸡蛋"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "milk",
+        "role": "C",
+        "phonetic": "/mɪlk/",
+        "chinese": "挤奶/牛奶"
+      }
+    ]
+  },
+  {
+    "chinese": "你能把水壶烧上吗",
+    "english": "Can you put the kettle on",
+    "soundmark": "/kæn/ /juː/ /pʊt/ /ðə/ /ˈketəl/ /ɑːn/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "kettle",
+        "role": "O",
+        "phonetic": "/ˈketəl/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      }
+    ]
+  },
+  {
+    "chinese": "杯子在水槽里",
+    "english": "The cups are in the sink",
+    "soundmark": "/ðə/ /kʌps/ /ɑːr/ /ɪn/ /ðə/ /sɪŋk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cups",
+        "role": "S",
+        "phonetic": "/kʌps/",
+        "chinese": "…们/复数(杯子)"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sink",
+        "role": "O",
+        "phonetic": "/sɪŋk/",
+        "chinese": "下沉"
+      }
+    ]
+  },
+  {
+    "chinese": "请把盘子和碗放到桌子上",
+    "english": "Please put the plates and bowls on the table",
+    "soundmark": "/pliːz/ /pʊt/ /ðə/ /pleɪts/ /ænd/ /boʊlz/ /ɑːn/ /ðə/ /ˈteɪbəl/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "plates",
+        "role": "O",
+        "phonetic": "/pleɪts/",
+        "chinese": "…们/复数(盘子)"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "bowls",
+        "role": "O",
+        "phonetic": "/boʊlz/",
+        "chinese": "…们/复数(碗)"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "table",
+        "role": "O",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      }
+    ]
+  },
+  {
+    "chinese": "刀叉在抽屉里",
+    "english": "The knives and forks are in the drawer",
+    "soundmark": "/ðə/ /naɪvz/ /ænd/ /fɔːrks/ /ɑːr/ /ɪn/ /ðə/ /drɔːr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "knives",
+        "role": "S",
+        "phonetic": "/naɪvz/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "forks",
+        "role": "S",
+        "phonetic": "/fɔːrks/",
+        "chinese": "…们/复数(叉)"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "drawer",
+        "role": "O",
+        "phonetic": "/drɔːr/",
+        "chinese": "更…的/…者(画)"
+      }
+    ]
+  },
+  {
+    "chinese": "你做饭时用筷子吗",
+    "english": "Do you use chopsticks when you cook",
+    "soundmark": "/duː/ /juː/ /juːz/ /ˈtʃɑːpstɪks/ /wen/ /juː/ /kʊk/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "use",
+        "role": "V",
+        "phonetic": "/juːz/",
+        "chinese": "使用"
+      },
+      {
+        "text": "chopsticks",
+        "role": "O",
+        "phonetic": "/ˈtʃɑːpstɪks/",
+        "chinese": "筷子"
+      },
+      {
+        "text": "when",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "cook",
+        "role": "V",
+        "phonetic": "/kʊk/",
+        "chinese": "烹饪"
+      }
+    ]
+  },
+  {
+    "chinese": "当",
+    "english": "when",
+    "soundmark": "/wen/"
+  },
+  {
+    "chinese": "使用",
+    "english": "use",
+    "soundmark": "/juːz/"
+  },
+  {
+    "chinese": "放",
+    "english": "put",
+    "soundmark": "/pʊt/"
+  },
+  {
+    "chinese": "鸡蛋",
+    "english": "egg",
+    "soundmark": "/eɡ/"
+  },
+  {
+    "chinese": "牛奶",
+    "english": "milk",
+    "soundmark": "/mɪlk/"
+  },
+  {
+    "chinese": "面包",
+    "english": "bread",
+    "soundmark": "/bred/"
+  },
+  {
+    "chinese": "黄油",
+    "english": "butter",
+    "soundmark": "/ˈbʌtər/"
+  },
+  {
+    "chinese": "奶酪",
+    "english": "cheese",
+    "soundmark": "/tʃiːz/"
+  }
+]

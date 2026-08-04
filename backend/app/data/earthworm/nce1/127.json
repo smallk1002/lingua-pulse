@@ -1,0 +1,182 @@
+[
+  {
+    "english": "actress",
+    "chinese": "女演员",
+    "soundmark": "/ˈæktrəs/"
+  },
+  {
+    "english": "famous",
+    "chinese": "著名的",
+    "soundmark": "/ˈfeɪməs/"
+  },
+  {
+    "chinese": "一位著名女演员",
+    "english": "A famous actress",
+    "soundmark": "/ə ˈfeɪməs ˈæktrəs/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "famous",
+        "role": "Det",
+        "phonetic": "/ˈfeɪməs/",
+        "chinese": "著名的"
+      },
+      {
+        "text": "actress",
+        "role": "S",
+        "phonetic": "/ˈæktrəs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她很有才华",
+    "english": "She is very talented",
+    "soundmark": "/ʃiː ɪz ˈveri ˈtæləntɪd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "talented",
+        "role": "C",
+        "phonetic": "/ˈtæləntɪd/",
+        "chinese": "天赋"
+      }
+    ]
+  },
+  {
+    "chinese": "她在电影中表现出色",
+    "english": "She acts well in movies",
+    "soundmark": "/ʃiː ækts wel ɪn ˈmuːviz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "acts",
+        "role": "V",
+        "phonetic": "/ækts/",
+        "chinese": ""
+      },
+      {
+        "text": "well",
+        "role": "A",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "movies",
+        "role": "O",
+        "phonetic": "/ˈmuːviz/",
+        "chinese": "电影"
+      }
+    ]
+  },
+  {
+    "chinese": "很多人都喜欢她",
+    "english": "Many people like her",
+    "soundmark": "/ˈmeni ˈpiːpəl laɪk hɜːr/",
+    "grammar": [
+      {
+        "text": "Many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      }
+    ]
+  },
+  {
+    "chinese": "她赢得了奖项",
+    "english": "She won an award",
+    "soundmark": "/ʃiː wʌn ən əˈwɔːrd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "won",
+        "role": "V",
+        "phonetic": "/wʌn/",
+        "chinese": "赢（过去式）"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "award",
+        "role": "O",
+        "phonetic": "/əˈwɔːrd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "english": "talent",
+    "chinese": "才华",
+    "soundmark": "/ˈtælənt/"
+  },
+  {
+    "english": "performance",
+    "chinese": "表演",
+    "soundmark": "/pərˈfɔːrməns/"
+  },
+  {
+    "english": "star",
+    "chinese": "明星",
+    "soundmark": "/stɑːr/"
+  }
+]

@@ -1,0 +1,609 @@
+[
+  {
+    "chinese": "冠军",
+    "english": "champion",
+    "soundmark": "/ˈtʃæmpiən/"
+  },
+  {
+    "chinese": "未来的",
+    "english": "future",
+    "soundmark": "/ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "运动员",
+    "english": "athlete",
+    "soundmark": "/ˈæθliːt/"
+  },
+  {
+    "chinese": "竞争",
+    "english": "compete",
+    "soundmark": "/kəmˈpiːt/"
+  },
+  {
+    "chinese": "奥林匹克",
+    "english": "Olympic",
+    "soundmark": "/oʊˈlɪmpɪk/"
+  },
+  {
+    "chinese": "奖牌",
+    "english": "medal",
+    "soundmark": "/ˈmedəl/"
+  },
+  {
+    "chinese": "训练",
+    "english": "train",
+    "soundmark": "/treɪn/"
+  },
+  {
+    "chinese": "教练",
+    "english": "coach",
+    "soundmark": "/koʊtʃ/"
+  },
+  {
+    "chinese": "记录",
+    "english": "record",
+    "soundmark": "/ˈrekɔːrd/"
+  },
+  {
+    "chinese": "打破",
+    "english": "break",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "chinese": "天赋",
+    "english": "talent",
+    "soundmark": "/ˈtælənt/"
+  },
+  {
+    "chinese": "成功",
+    "english": "succeed",
+    "soundmark": "/səkˈsiːd/"
+  },
+  {
+    "chinese": "打破纪录",
+    "english": "break the record",
+    "soundmark": "/breɪk/ /ðə/ /ˈrekɔːrd/"
+  },
+  {
+    "chinese": "为...训练",
+    "english": "train for",
+    "soundmark": "/treɪn/ /fɔːr/"
+  },
+  {
+    "chinese": "赢得金牌",
+    "english": "win a gold medal",
+    "soundmark": "/wɪn/ /ə/ /ɡoʊld/ /ˈmedəl/"
+  },
+  {
+    "chinese": "这些年轻人将成为未来的冠军",
+    "english": "These young people will become future champions",
+    "soundmark": "/ðiːz/ /jʌŋ/ /ˈpiːpəl/ /wɪl/ /bɪˈkʌm/ /ˈfjuːtʃər/ /ˈtʃæmpiənz/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "young",
+        "role": "A",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "become",
+        "role": "V",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "future",
+        "role": "A",
+        "phonetic": "/ˈfjuːtʃər/",
+        "chinese": "未来"
+      },
+      {
+        "text": "champions",
+        "role": "C",
+        "phonetic": "/ˈtʃæmpiənz/",
+        "chinese": "冠军"
+      }
+    ]
+  },
+  {
+    "chinese": "他每天都将刻苦训练",
+    "english": "He will train hard every day",
+    "soundmark": "/hiː/ /wɪl/ /treɪn/ /hɑːrd/ /ˈevəri/ /deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "train",
+        "role": "V",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "hard",
+        "role": "Adv",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevəri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "教练正在指导年轻的运动员",
+    "english": "The coach is training the young athletes",
+    "soundmark": "/ðə/ /koʊtʃ/ /ɪz/ /ˈtreɪnɪŋ/ /ðə/ /jʌŋ/ /ˈæθliːts/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "coach",
+        "role": "S",
+        "phonetic": "/koʊtʃ/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "training",
+        "role": "V",
+        "phonetic": "/ˈtreɪnɪŋ/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "young",
+        "role": "A",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "athletes",
+        "role": "O",
+        "phonetic": "/ˈæθliːts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她将要在奥运会上竞争",
+    "english": "She will compete in the Olympic Games",
+    "soundmark": "/ʃiː/ /wɪl/ /kəmˈpiːt/ /ɪn/ /ði/ /oʊˈlɪmpɪk/ /ɡeɪmz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "compete",
+        "role": "V",
+        "phonetic": "/kəmˈpiːt/",
+        "chinese": "竞争"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Olympic",
+        "role": "A",
+        "phonetic": "/oʊˈlɪmpɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "Games",
+        "role": "O",
+        "phonetic": "/ɡeɪmz/",
+        "chinese": "游戏/比赛"
+      }
+    ]
+  },
+  {
+    "chinese": "世界纪录将被打破",
+    "english": "The world record will be broken",
+    "soundmark": "/ðə/ /wɜːrld/ /ˈrekɔːrd/ /wɪl/ /biː/ /ˈbroʊkən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "A",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "record",
+        "role": "S",
+        "phonetic": "/ˈrekɔːrd/",
+        "chinese": "记录"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "broken",
+        "role": "C",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个有天赋的男孩将会赢得金牌",
+    "english": "The talented boy will win a gold medal",
+    "soundmark": "/ðə/ /ˈtæləntɪd/ /bɔɪ/ /wɪl/ /wɪn/ /ə/ /ɡoʊld/ /ˈmedəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "talented",
+        "role": "A",
+        "phonetic": "/ˈtæləntɪd/",
+        "chinese": "天赋"
+      },
+      {
+        "text": "boy",
+        "role": "S",
+        "phonetic": "/bɔɪ/",
+        "chinese": "男孩"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "win",
+        "role": "V",
+        "phonetic": "/wɪn/",
+        "chinese": "赢"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "gold",
+        "role": "A",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "medal",
+        "role": "O",
+        "phonetic": "/ˈmedəl/",
+        "chinese": "奖牌"
+      }
+    ]
+  },
+  {
+    "chinese": "他梦想有一天能成功",
+    "english": "He dreams that he will succeed one day",
+    "soundmark": "/hiː/ /driːmz/ /ðæt/ /hiː/ /wɪl/ /səkˈsiːd/ /wʌn/ /deɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "dreams",
+        "role": "V",
+        "phonetic": "/driːmz/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "succeed",
+        "role": "V",
+        "phonetic": "/səkˈsiːd/",
+        "chinese": "成功"
+      },
+      {
+        "text": "one",
+        "role": "Det",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "所有的运动员都在为比赛做准备",
+    "english": "All the athletes are getting ready for the competition",
+    "soundmark": "/ɔːl/ /ði/ /ˈæθliːts/ /ɑːr/ /ˈɡetɪŋ/ /ˈredi/ /fɔːr/ /ðə/ /ˌkɑːmpəˈtɪʃən/",
+    "grammar": [
+      {
+        "text": "All",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "athletes",
+        "role": "S",
+        "phonetic": "/ˈæθliːts/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "getting",
+        "role": "V",
+        "phonetic": "/ˈɡetɪŋ/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "ready",
+        "role": "C",
+        "phonetic": "/ˈredi/",
+        "chinese": "准备好的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "competition",
+        "role": "O",
+        "phonetic": "/ˌkɑːmpəˈtɪʃən/",
+        "chinese": "比赛"
+      }
+    ]
+  },
+  {
+    "chinese": "冠军将被授予奖杯",
+    "english": "The champion will be awarded the trophy",
+    "soundmark": "/ðə/ /ˈtʃæmpiən/ /wɪl/ /biː/ /əˈwɔːrdɪd/ /ðə/ /ˈtroʊfi/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "champion",
+        "role": "S",
+        "phonetic": "/ˈtʃæmpiən/",
+        "chinese": "冠军"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "awarded",
+        "role": "V",
+        "phonetic": "/əˈwɔːrdɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "trophy",
+        "role": "O",
+        "phonetic": "/ˈtroʊfi/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "没有人知道谁将赢得比赛",
+    "english": "Nobody knows who will win the match",
+    "soundmark": "/ˈnoʊbədi/ /noʊz/ /huː/ /wɪl/ /wɪn/ /ðə/ /mætʃ/",
+    "grammar": [
+      {
+        "text": "Nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "knows",
+        "role": "V",
+        "phonetic": "/noʊz/",
+        "chinese": "知道"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "win",
+        "role": "V",
+        "phonetic": "/wɪn/",
+        "chinese": "赢"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "match",
+        "role": "O",
+        "phonetic": "/mætʃ/",
+        "chinese": "匹配"
+      }
+    ]
+  },
+  {
+    "chinese": "高贵的",
+    "english": "noble",
+    "soundmark": "/ˈnoʊbəl/"
+  },
+  {
+    "chinese": "慷慨的",
+    "english": "generous",
+    "soundmark": "/ˈdʒenərəs/"
+  },
+  {
+    "chinese": "捐赠",
+    "english": "donate",
+    "soundmark": "/ˈdoʊneɪt/"
+  },
+  {
+    "chinese": "贡献",
+    "english": "contribution",
+    "soundmark": "/ˌkɑːntrɪˈbjuːʃən/"
+  },
+  {
+    "chinese": "和平",
+    "english": "peace",
+    "soundmark": "/piːs/"
+  },
+  {
+    "chinese": "签署",
+    "english": "sign",
+    "soundmark": "/saɪn/"
+  }
+]

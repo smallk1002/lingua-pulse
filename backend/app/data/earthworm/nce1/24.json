@@ -1,0 +1,397 @@
+[
+  {
+    "chinese": "家具",
+    "english": "furniture",
+    "soundmark": "/ˈfɜːrnɪtʃər/"
+  },
+  {
+    "chinese": "桌子",
+    "english": "table",
+    "soundmark": "/ˈteɪbəl/"
+  },
+  {
+    "chinese": "椅子",
+    "english": "chair",
+    "soundmark": "/tʃer/"
+  },
+  {
+    "chinese": "沙发",
+    "english": "sofa",
+    "soundmark": "/ˈsoʊfə/"
+  },
+  {
+    "chinese": "床",
+    "english": "bed",
+    "soundmark": "/bed/"
+  },
+  {
+    "chinese": "衣柜",
+    "english": "wardrobe",
+    "soundmark": "/ˈwɔːrdroʊb/"
+  },
+  {
+    "chinese": "书架",
+    "english": "bookshelf",
+    "soundmark": "/ˈbʊkʃelf/"
+  },
+  {
+    "chinese": "书桌",
+    "english": "desk",
+    "soundmark": "/desk/"
+  },
+  {
+    "chinese": "抽屉",
+    "english": "drawer",
+    "soundmark": "/drɔːr/"
+  },
+  {
+    "chinese": "柜子",
+    "english": "cupboard",
+    "soundmark": "/ˈkʌbərd/"
+  },
+  {
+    "chinese": "镜子",
+    "english": "mirror",
+    "soundmark": "/ˈmɪrər/"
+  },
+  {
+    "chinese": "灯",
+    "english": "lamp",
+    "soundmark": "/læmp/"
+  },
+  {
+    "chinese": "地毯",
+    "english": "carpet",
+    "soundmark": "/ˈkɑːrpɪt/"
+  },
+  {
+    "chinese": "窗帘",
+    "english": "curtain",
+    "soundmark": "/ˈkɜːrtən/"
+  },
+  {
+    "chinese": "枕头",
+    "english": "pillow",
+    "soundmark": "/ˈpɪloʊ/"
+  },
+  {
+    "chinese": "毯子",
+    "english": "blanket",
+    "soundmark": "/ˈblæŋkɪt/"
+  },
+  {
+    "chinese": "床单",
+    "english": "sheet",
+    "soundmark": "/ʃiːt/"
+  },
+  {
+    "chinese": "沙发在哪里",
+    "english": "Where is the sofa",
+    "soundmark": "/wer/ /ɪz/ /ðə/ /ˈsoʊfə/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sofa",
+        "role": "S",
+        "phonetic": "/ˈsoʊfə/",
+        "chinese": "沙发"
+      }
+    ]
+  },
+  {
+    "chinese": "沙发在窗户旁边",
+    "english": "The sofa is next to the window",
+    "soundmark": "/ðə/ /ˈsoʊfə/ /ɪz/ /nekst/ /tuː/ /ðə/ /ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sofa",
+        "role": "S",
+        "phonetic": "/ˈsoʊfə/",
+        "chinese": "沙发"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "next",
+        "role": "Adv",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "O",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "这个衣柜是新的",
+    "english": "This wardrobe is new",
+    "soundmark": "/ðɪs/ /ˈwɔːrdroʊb/ /ɪz/ /nuː/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "wardrobe",
+        "role": "S",
+        "phonetic": "/ˈwɔːrdroʊb/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      }
+    ]
+  },
+  {
+    "chinese": "书在书架上",
+    "english": "The books are on the bookshelf",
+    "soundmark": "/ðə/ /bʊks/ /ɑːr/ /ɑːn/ /ðə/ /ˈbʊkʃelf/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "books",
+        "role": "S",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bookshelf",
+        "role": "O",
+        "phonetic": "/ˈbʊkʃelf/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "请把灯打开",
+    "english": "Please turn on the lamp",
+    "soundmark": "/pliːz/ /tɜːrn/ /ɑːn/ /ðə/ /læmp/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Int",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "turn",
+        "role": "V",
+        "phonetic": "/tɜːrn/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "lamp",
+        "role": "O",
+        "phonetic": "/læmp/",
+        "chinese": "灯"
+      }
+    ]
+  },
+  {
+    "chinese": "地毯是红色的",
+    "english": "The carpet is red",
+    "soundmark": "/ðə/ /ˈkɑːrpɪt/ /ɪz/ /red/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "carpet",
+        "role": "S",
+        "phonetic": "/ˈkɑːrpɪt/",
+        "chinese": "地毯"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "red",
+        "role": "C",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的衣服在衣柜里",
+    "english": "My clothes are in the wardrobe",
+    "soundmark": "/maɪ/ /kloʊðz/ /ɑːr/ /ɪn/ /ðə/ /ˈwɔːrdroʊb/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "clothes",
+        "role": "S",
+        "phonetic": "/kloʊðz/",
+        "chinese": "布"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wardrobe",
+        "role": "O",
+        "phonetic": "/ˈwɔːrdroʊb/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "打开",
+    "english": "turn on",
+    "soundmark": "/tɜːrn/ /ɑːn/"
+  },
+  {
+    "chinese": "关上",
+    "english": "turn off",
+    "soundmark": "/tɜːrn/ /ɔːf/"
+  },
+  {
+    "chinese": "在上面",
+    "english": "on",
+    "soundmark": "/ɑːn/"
+  },
+  {
+    "chinese": "在里面",
+    "english": "in",
+    "soundmark": "/ɪn/"
+  },
+  {
+    "chinese": "在下面",
+    "english": "under",
+    "soundmark": "/ˈʌndər/"
+  },
+  {
+    "chinese": "时钟",
+    "english": "clock",
+    "soundmark": "/klɑːk/"
+  },
+  {
+    "chinese": "照片",
+    "english": "picture",
+    "soundmark": "/ˈpɪktʃər/"
+  },
+  {
+    "chinese": "花瓶",
+    "english": "vase",
+    "soundmark": "/veɪs/"
+  },
+  {
+    "chinese": "电视机",
+    "english": "television",
+    "soundmark": "/ˈtelɪvɪʒən/"
+  }
+]

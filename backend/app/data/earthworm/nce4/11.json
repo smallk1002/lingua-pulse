@@ -1,0 +1,746 @@
+[
+  {
+    "chinese": "晚年",
+    "english": "old age",
+    "soundmark": "/oʊld/ /eɪdʒ/"
+  },
+  {
+    "chinese": "智慧",
+    "english": "wisdom",
+    "soundmark": "/ˈwɪzdəm/"
+  },
+  {
+    "chinese": "平静",
+    "english": "serenity",
+    "soundmark": "/səˈrenəti/"
+  },
+  {
+    "chinese": "接受",
+    "english": "acceptance",
+    "soundmark": "/əkˈseptəns/"
+  },
+  {
+    "chinese": "遗憾",
+    "english": "regret",
+    "soundmark": "/rɪˈɡret/"
+  },
+  {
+    "chinese": "死亡",
+    "english": "death",
+    "soundmark": "/deθ/"
+  },
+  {
+    "chinese": "恐惧",
+    "english": "fear",
+    "soundmark": "/fɪr/"
+  },
+  {
+    "chinese": "回忆",
+    "english": "memory",
+    "soundmark": "/ˈmeməri/"
+  },
+  {
+    "chinese": "传承",
+    "english": "legacy",
+    "soundmark": "/ˈleɡəsi/"
+  },
+  {
+    "chinese": "满足感",
+    "english": "fulfillment",
+    "soundmark": "/fʊlˈfɪlmənt/"
+  },
+  {
+    "chinese": "贡献",
+    "english": "contribution",
+    "soundmark": "/ˌkɑːntrɪˈbjuːʃn/"
+  },
+  {
+    "chinese": "超脱",
+    "english": "detachment",
+    "soundmark": "/dɪˈtætʃmənt/"
+  },
+  {
+    "chinese": "兴趣",
+    "english": "interest",
+    "soundmark": "/ˈɪntrəst/"
+  },
+  {
+    "chinese": "孤独",
+    "english": "loneliness",
+    "soundmark": "/ˈloʊnlinəs/"
+  },
+  {
+    "chinese": "尊严",
+    "english": "dignity",
+    "soundmark": "/ˈdɪɡnəti/"
+  },
+  {
+    "chinese": "平静地老去",
+    "english": "grow old with serenity",
+    "soundmark": "/ɡroʊ/ /oʊld/ /wɪð/ /səˈrenəti/"
+  },
+  {
+    "chinese": "接受死亡",
+    "english": "accept death",
+    "soundmark": "/əkˈsept/ /deθ/"
+  },
+  {
+    "chinese": "无怨无悔",
+    "english": "without regret",
+    "soundmark": "/wɪˈðaʊt/ /rɪˈɡret/"
+  },
+  {
+    "chinese": "精神传承",
+    "english": "spiritual legacy",
+    "soundmark": "/ˈspɪrɪtʃuəl/ /ˈleɡəsi/"
+  },
+  {
+    "chinese": "充实的晚年",
+    "english": "a fulfilling old age",
+    "soundmark": "/ə/ /fʊlˈfɪlɪŋ/ /oʊld/ /eɪdʒ/"
+  },
+  {
+    "chinese": "如果我们年轻时拓宽兴趣年老时就不会感到空虚",
+    "english": "if we broaden our interests when young we will not feel empty in old age",
+    "soundmark": "/ɪf/ /wiː/ /ˈbrɔːdn/ /aʊr/ /ˈɪntrəsts/ /wen/ /jʌŋ/ /wiː/ /wɪl/ /nɑːt/ /fiːl/ /ˈempti/ /ɪn/ /oʊld/ /eɪdʒ/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "broaden",
+        "role": "V",
+        "phonetic": "/ˈbrɔːdn/",
+        "chinese": ""
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "interests",
+        "role": "O",
+        "phonetic": "/ˈɪntrəsts/",
+        "chinese": "使感兴趣"
+      },
+      {
+        "text": "when",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will",
+        "role": "Aux",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "feel",
+        "role": "Lv",
+        "phonetic": "/fiːl/",
+        "chinese": "感觉"
+      },
+      {
+        "text": "empty",
+        "role": "C",
+        "phonetic": "/ˈempti/",
+        "chinese": "空的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "age",
+        "role": "O",
+        "phonetic": "/eɪdʒ/",
+        "chinese": "年龄/时代"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望我老了以后能像他一样保持对生活的热情",
+    "english": "I wish I could maintain his zest for life when I grow old",
+    "soundmark": "/aɪ/ /wɪʃ/ /aɪ/ /kʊd/ /meɪnˈteɪn/ /hɪz/ /zest/ /fɔːr/ /laɪf/ /wen/ /aɪ/ /ɡroʊ/ /oʊld/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "maintain",
+        "role": "V",
+        "phonetic": "/meɪnˈteɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "zest",
+        "role": "O",
+        "phonetic": "/zest/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "life",
+        "role": "O",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      },
+      {
+        "text": "when",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "grow",
+        "role": "V",
+        "phonetic": "/ɡroʊ/",
+        "chinese": "生长"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "老年的最佳良药就是不断增长智慧和对死亡的超脱态度",
+    "english": "the best cure for old age is growing wisdom and a detached view of death",
+    "soundmark": "/ðə/ /best/ /kjʊr/ /fɔːr/ /oʊld/ /eɪdʒ/ /ɪz/ /ˈɡroʊɪŋ/ /ˈwɪzdəm/ /ænd/ /ə/ /dɪˈtætʃt/ /vjuː/ /ʌv/ /deθ/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "best",
+        "role": "A",
+        "phonetic": "/best/",
+        "chinese": "最好"
+      },
+      {
+        "text": "cure",
+        "role": "S",
+        "phonetic": "/kjʊr/",
+        "chinese": "治愈"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "age",
+        "role": "O",
+        "phonetic": "/eɪdʒ/",
+        "chinese": "年龄/时代"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "growing",
+        "role": "V",
+        "phonetic": "/ˈɡroʊɪŋ/",
+        "chinese": "成长的"
+      },
+      {
+        "text": "wisdom",
+        "role": "S",
+        "phonetic": "/ˈwɪzdəm/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "detached",
+        "role": "A",
+        "phonetic": "/dɪˈtætʃt/",
+        "chinese": ""
+      },
+      {
+        "text": "view",
+        "role": "C",
+        "phonetic": "/vjuː/",
+        "chinese": "观点/景色"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "death",
+        "role": "O",
+        "phonetic": "/deθ/",
+        "chinese": "死亡"
+      }
+    ]
+  },
+  {
+    "chinese": "假如一个人到了晚年才发现生活的意义那将是莫大的遗憾",
+    "english": "it would be a great pity if one discovered the meaning of life only in old age",
+    "soundmark": "/ɪt/ /wʊd/ /biː/ /ə/ /ɡreɪt/ /ˈpɪti/ /ɪf/ /wʌn/ /dɪˈskʌvərd/ /ðə/ /ˈmiːnɪŋ/ /ʌv/ /laɪf/ /ˈoʊnli/ /ɪn/ /oʊld/ /eɪdʒ/",
+    "grammar": [
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "great",
+        "role": "A",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "pity",
+        "role": "C",
+        "phonetic": "/ˈpɪti/",
+        "chinese": ""
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meaning",
+        "role": "O",
+        "phonetic": "/ˈmiːnɪŋ/",
+        "chinese": "意思是/刻薄的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "life",
+        "role": "O",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "age",
+        "role": "O",
+        "phonetic": "/eɪdʒ/",
+        "chinese": "年龄/时代"
+      }
+    ]
+  },
+  {
+    "chinese": "如果人能够在中年就培养广泛的兴趣那么晚年就不会感到孤独",
+    "english": "if one could cultivate broad interests in middle age one would not feel lonely in later years",
+    "soundmark": "/ɪf/ /wʌn/ /kʊd/ /ˈkʌltɪveɪt/ /brɔːd/ /ˈɪntrəsts/ /ɪn/ /ˈmɪdl/ /eɪdʒ/ /wʌn/ /wʊd/ /nɑːt/ /fiːl/ /ˈloʊnli/ /ɪn/ /ˈleɪtər/ /jɪrz/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "cultivate",
+        "role": "V",
+        "phonetic": "/ˈkʌltɪveɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "broad",
+        "role": "A",
+        "phonetic": "/brɔːd/",
+        "chinese": "宽的"
+      },
+      {
+        "text": "interests",
+        "role": "O",
+        "phonetic": "/ˈɪntrəsts/",
+        "chinese": "使感兴趣"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "middle",
+        "role": "A",
+        "phonetic": "/ˈmɪdl/",
+        "chinese": "中间"
+      },
+      {
+        "text": "age",
+        "role": "O",
+        "phonetic": "/eɪdʒ/",
+        "chinese": "年龄/时代"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "feel",
+        "role": "Lv",
+        "phonetic": "/fiːl/",
+        "chinese": "感觉"
+      },
+      {
+        "text": "lonely",
+        "role": "C",
+        "phonetic": "/ˈloʊnli/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "later",
+        "role": "A",
+        "phonetic": "/ˈleɪtər/",
+        "chinese": "后来"
+      },
+      {
+        "text": "years",
+        "role": "O",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "安度晚年是一门艺术而大多数人直到最后一刻才意识到这一点",
+    "english": "growing old gracefully is an art that most people realize only at the last moment",
+    "soundmark": "/ˈɡroʊɪŋ/ /oʊld/ /ˈɡreɪsfəli/ /ɪz/ /æn/ /ɑːrt/ /ðæt/ /moʊst/ /ˈpiːpl/ /ˈriːəlaɪz/ /ˈoʊnli/ /æt/ /ðə/ /læst/ /ˈmoʊmənt/",
+    "grammar": [
+      {
+        "text": "growing",
+        "role": "V",
+        "phonetic": "/ˈɡroʊɪŋ/",
+        "chinese": "成长的"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "gracefully",
+        "role": "Adv",
+        "phonetic": "/ˈɡreɪsfəli/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/æn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "art",
+        "role": "C",
+        "phonetic": "/ɑːrt/",
+        "chinese": "艺术"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "most",
+        "role": "Det",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "realize",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪz/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "moment",
+        "role": "O",
+        "phonetic": "/ˈmoʊmənt/",
+        "chinese": "时刻"
+      }
+    ]
+  },
+  {
+    "chinese": "拓宽",
+    "english": "broaden",
+    "soundmark": "/ˈbrɔːdn/"
+  },
+  {
+    "chinese": "热情",
+    "english": "zest",
+    "soundmark": "/zest/"
+  },
+  {
+    "chinese": "培养",
+    "english": "cultivate",
+    "soundmark": "/ˈkʌltɪveɪt/"
+  },
+  {
+    "chinese": "优雅地",
+    "english": "gracefully",
+    "soundmark": "/ˈɡreɪsfəli/"
+  },
+  {
+    "chinese": "孤独的",
+    "english": "lonely",
+    "soundmark": "/ˈloʊnli/"
+  },
+  {
+    "chinese": "空虚无意义的",
+    "english": "empty",
+    "soundmark": "/ˈempti/"
+  },
+  {
+    "chinese": "艺术",
+    "english": "art",
+    "soundmark": "/ɑːrt/"
+  },
+  {
+    "chinese": "遗憾",
+    "english": "pity",
+    "soundmark": "/ˈpɪti/"
+  },
+  {
+    "chinese": "意义",
+    "english": "meaning",
+    "soundmark": "/ˈmiːnɪŋ/"
+  },
+  {
+    "chinese": "治愈",
+    "english": "cure",
+    "soundmark": "/kjʊr/"
+  }
+]

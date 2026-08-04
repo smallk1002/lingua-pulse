@@ -1,0 +1,970 @@
+[
+  {
+    "chinese": "星期一",
+    "english": "Monday",
+    "soundmark": "/ˈmʌndeɪ/"
+  },
+  {
+    "chinese": "星期二",
+    "english": "Tuesday",
+    "soundmark": "/ˈtuːzdeɪ/"
+  },
+  {
+    "chinese": "星期三",
+    "english": "Wednesday",
+    "soundmark": "/ˈwenzdeɪ/"
+  },
+  {
+    "chinese": "星期四",
+    "english": "Thursday",
+    "soundmark": "/ˈθɜːrzdeɪ/"
+  },
+  {
+    "chinese": "星期五",
+    "english": "Friday",
+    "soundmark": "/ˈfraɪdeɪ/"
+  },
+  {
+    "chinese": "星期六",
+    "english": "Saturday",
+    "soundmark": "/ˈsætərdeɪ/"
+  },
+  {
+    "chinese": "星期日",
+    "english": "Sunday",
+    "soundmark": "/ˈsʌndeɪ/"
+  },
+  {
+    "chinese": "今天",
+    "english": "today",
+    "soundmark": "/təˈdeɪ/"
+  },
+  {
+    "chinese": "明天",
+    "english": "tomorrow",
+    "soundmark": "/təˈmɔːroʊ/"
+  },
+  {
+    "chinese": "昨天",
+    "english": "yesterday",
+    "soundmark": "/ˈjestərdeɪ/"
+  },
+  {
+    "chinese": "日期",
+    "english": "date",
+    "soundmark": "/deɪt/"
+  },
+  {
+    "chinese": "星期",
+    "english": "week",
+    "soundmark": "/wiːk/"
+  },
+  {
+    "chinese": "周末",
+    "english": "weekend",
+    "soundmark": "/ˈwiːkend/"
+  },
+  {
+    "chinese": "月份",
+    "english": "month",
+    "soundmark": "/mʌnθ/"
+  },
+  {
+    "chinese": "年",
+    "english": "year",
+    "soundmark": "/jɪr/"
+  },
+  {
+    "chinese": "天",
+    "english": "day",
+    "soundmark": "/deɪ/"
+  },
+  {
+    "chinese": "上个",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "chinese": "下个",
+    "english": "next",
+    "soundmark": "/nekst/"
+  },
+  {
+    "chinese": "这",
+    "english": "this",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "chinese": "前",
+    "english": "before",
+    "soundmark": "/bɪˈfɔːr/"
+  },
+  {
+    "chinese": "今天是星期一",
+    "english": "Today is Monday",
+    "soundmark": "/təˈdeɪ/ /ɪz/ /ˈmʌndeɪ/",
+    "grammar": [
+      {
+        "text": "Today",
+        "role": "S",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Monday",
+        "role": "C",
+        "phonetic": "/ˈmʌndeɪ/",
+        "chinese": "星期一"
+      }
+    ]
+  },
+  {
+    "chinese": "明天是星期三",
+    "english": "Tomorrow is Wednesday",
+    "soundmark": "/təˈmɔːroʊ/ /ɪz/ /ˈwenzdeɪ/",
+    "grammar": [
+      {
+        "text": "Tomorrow",
+        "role": "S",
+        "phonetic": "/təˈmɔːroʊ/",
+        "chinese": "明天"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Wednesday",
+        "role": "C",
+        "phonetic": "/ˈwenzdeɪ/",
+        "chinese": "星期三"
+      }
+    ]
+  },
+  {
+    "chinese": "昨天是星期日",
+    "english": "Yesterday was Sunday",
+    "soundmark": "/ˈjestərdeɪ/ /wʌz/ /ˈsʌndeɪ/",
+    "grammar": [
+      {
+        "text": "Yesterday",
+        "role": "S",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "Sunday",
+        "role": "C",
+        "phonetic": "/ˈsʌndeɪ/",
+        "chinese": "星期日"
+      }
+    ]
+  },
+  {
+    "chinese": "今天是几号",
+    "english": "What is the date today",
+    "soundmark": "/wʌt/ /ɪz/ /ðə/ /deɪt/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "date",
+        "role": "C",
+        "phonetic": "/deɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "星期五是周末吗",
+    "english": "Is Friday the weekend",
+    "soundmark": "/ɪz/ /ˈfraɪdeɪ/ /ðə/ /ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Friday",
+        "role": "S",
+        "phonetic": "/ˈfraɪdeɪ/",
+        "chinese": "星期五"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "weekend",
+        "role": "C",
+        "phonetic": "/ˈwiːkend/",
+        "chinese": "周末"
+      }
+    ]
+  },
+  {
+    "chinese": "我周日不上班",
+    "english": "I do not work on Sunday",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /wɜːrk/ /ɑːn/ /ˈsʌndeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "Sunday",
+        "role": "A",
+        "phonetic": "/ˈsʌndeɪ/",
+        "chinese": "星期日"
+      }
+    ]
+  },
+  {
+    "chinese": "我们下周一见面",
+    "english": "We meet next Monday",
+    "soundmark": "/wiː/ /miːt/ /nekst/ /ˈmʌndeɪ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "next",
+        "role": "Det",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "Monday",
+        "role": "A",
+        "phonetic": "/ˈmʌndeɪ/",
+        "chinese": "星期一"
+      }
+    ]
+  },
+  {
+    "chinese": "上周六天气很好",
+    "english": "Last Saturday was a nice day",
+    "soundmark": "/læst/ /ˈsætərdeɪ/ /wʌz/ /ə/ /naɪs/ /deɪ/",
+    "grammar": [
+      {
+        "text": "Last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "Saturday",
+        "role": "S",
+        "phonetic": "/ˈsætərdeɪ/",
+        "chinese": "星期六"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "day",
+        "role": "C",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "一周有七天",
+    "english": "There are seven days in a week",
+    "soundmark": "/ðer/ /ɑːr/ /ˈsevən/ /deɪz/ /ɪn/ /ə/ /wiːk/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "seven",
+        "role": "Det",
+        "phonetic": "/ˈsevən/",
+        "chinese": "七"
+      },
+      {
+        "text": "days",
+        "role": "C",
+        "phonetic": "/deɪz/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "你昨天在哪儿",
+    "english": "Where were you yesterday",
+    "soundmark": "/wer/ /wɜːr/ /juː/ /ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他这周四有空吗",
+    "english": "Is he free this Thursday",
+    "soundmark": "/ɪz/ /hiː/ /friː/ /ðɪs/ /ˈθɜːrzdeɪ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "free",
+        "role": "C",
+        "phonetic": "/friː/",
+        "chinese": "自由的/免费的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "Thursday",
+        "role": "A",
+        "phonetic": "/ˈθɜːrzdeɪ/",
+        "chinese": "星期四"
+      }
+    ]
+  },
+  {
+    "chinese": "我今天有课明天没有",
+    "english": "I have class today but not tomorrow",
+    "soundmark": "/aɪ/ /hæv/ /klæs/ /təˈdeɪ/ /bʌt/ /nɑːt/ /təˈmɔːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "class",
+        "role": "O",
+        "phonetic": "/klæs/",
+        "chinese": "班级/阶层"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɔːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "工作",
+    "english": "work",
+    "soundmark": "/wɜːrk/"
+  },
+  {
+    "chinese": "空闲",
+    "english": "free",
+    "soundmark": "/friː/"
+  },
+  {
+    "chinese": "课",
+    "english": "class",
+    "soundmark": "/klæs/"
+  },
+  {
+    "chinese": "星期",
+    "english": "week",
+    "soundmark": "/wiːk/"
+  },
+  {
+    "chinese": "月",
+    "english": "month",
+    "soundmark": "/mʌnθ/"
+  },
+  {
+    "chinese": "上",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "chinese": "下",
+    "english": "next",
+    "soundmark": "/nekst/"
+  },
+  {
+    "chinese": "今天星期几今天星期四",
+    "english": "What day is it today It is Thursday",
+    "soundmark": "/wʌt/ /deɪ/ /ɪz/ /ɪt/ /təˈdeɪ/ /ɪt/ /ɪz/ /ˈθɜːrzdeɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "day",
+        "role": "S",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "C",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Thursday",
+        "role": "C",
+        "phonetic": "/ˈθɜːrzdeɪ/",
+        "chinese": "星期四"
+      }
+    ]
+  },
+  {
+    "chinese": "我星期六去公园",
+    "english": "I go to the park on Saturday",
+    "soundmark": "/aɪ/ /ɡoʊ/ /tuː/ /ðə/ /pɑːrk/ /ɑːn/ /ˈsætərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "park",
+        "role": "A",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "Saturday",
+        "role": "A",
+        "phonetic": "/ˈsætərdeɪ/",
+        "chinese": "星期六"
+      }
+    ]
+  },
+  {
+    "chinese": "我们星期天不上课",
+    "english": "We do not have class on Sunday",
+    "soundmark": "/wiː/ /duː/ /nɑːt/ /hæv/ /klæs/ /ɑːn/ /ˈsʌndeɪ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "class",
+        "role": "O",
+        "phonetic": "/klæs/",
+        "chinese": "班级/阶层"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "Sunday",
+        "role": "A",
+        "phonetic": "/ˈsʌndeɪ/",
+        "chinese": "星期日"
+      }
+    ]
+  },
+  {
+    "chinese": "周末从星期五开始",
+    "english": "The weekend starts on Friday",
+    "soundmark": "/ðə/ /ˈwiːkend/ /stɑːrts/ /ɑːn/ /ˈfraɪdeɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "weekend",
+        "role": "S",
+        "phonetic": "/ˈwiːkend/",
+        "chinese": "周末"
+      },
+      {
+        "text": "starts",
+        "role": "V",
+        "phonetic": "/stɑːrts/",
+        "chinese": "开始"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "Friday",
+        "role": "A",
+        "phonetic": "/ˈfraɪdeɪ/",
+        "chinese": "星期五"
+      }
+    ]
+  },
+  {
+    "chinese": "明天放假吗不放假",
+    "english": "Is tomorrow a holiday No it is not",
+    "soundmark": "/ɪz/ /təˈmɔːroʊ/ /ə/ /ˈhɑːlədeɪ/ /noʊ/ /ɪt/ /ɪz/ /nɑːt/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "tomorrow",
+        "role": "S",
+        "phonetic": "/təˈmɔːroʊ/",
+        "chinese": "明天"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "holiday",
+        "role": "C",
+        "phonetic": "/ˈhɑːlədeɪ/",
+        "chinese": "假期"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      }
+    ]
+  },
+  {
+    "chinese": "我的生日在六月",
+    "english": "My birthday is in June",
+    "soundmark": "/maɪ/ /ˈbɜːrθdeɪ/ /ɪz/ /ɪn/ /dʒuːn/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "birthday",
+        "role": "S",
+        "phonetic": "/ˈbɜːrθdeɪ/",
+        "chinese": "生日"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "June",
+        "role": "A",
+        "phonetic": "/dʒuːn/",
+        "chinese": "六月"
+      }
+    ]
+  },
+  {
+    "chinese": "上个月非常忙碌",
+    "english": "Last month was very busy",
+    "soundmark": "/læst/ /mʌnθ/ /wʌz/ /ˈveri/ /ˈbɪzi/",
+    "grammar": [
+      {
+        "text": "Last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "month",
+        "role": "S",
+        "phonetic": "/mʌnθ/",
+        "chinese": "月"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "busy",
+        "role": "C",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      }
+    ]
+  },
+  {
+    "chinese": "我下周二有考试",
+    "english": "I have a test next Tuesday",
+    "soundmark": "/aɪ/ /hæv/ /ə/ /test/ /nekst/ /ˈtuːzdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "test",
+        "role": "O",
+        "phonetic": "/test/",
+        "chinese": "测试"
+      },
+      {
+        "text": "next",
+        "role": "Det",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "Tuesday",
+        "role": "A",
+        "phonetic": "/ˈtuːzdeɪ/",
+        "chinese": "星期二"
+      }
+    ]
+  },
+  {
+    "chinese": "假期",
+    "english": "holiday",
+    "soundmark": "/ˈhɑːlədeɪ/"
+  },
+  {
+    "chinese": "生日",
+    "english": "birthday",
+    "soundmark": "/ˈbɜːrθdeɪ/"
+  },
+  {
+    "chinese": "考试",
+    "english": "test",
+    "soundmark": "/test/"
+  },
+  {
+    "chinese": "忙碌的",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "日历",
+    "english": "calendar",
+    "soundmark": "/ˈkæləndər/"
+  },
+  {
+    "chinese": "一月",
+    "english": "January",
+    "soundmark": "/ˈdʒænjuˌeri/"
+  },
+  {
+    "chinese": "之前",
+    "english": "before",
+    "soundmark": "/bɪˈfɔːr/"
+  },
+  {
+    "chinese": "之后",
+    "english": "after",
+    "soundmark": "/ˈæftər/"
+  },
+  {
+    "chinese": "是（过去）",
+    "english": "was",
+    "soundmark": "/wʌz/"
+  }
+]

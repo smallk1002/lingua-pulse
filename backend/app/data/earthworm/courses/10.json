@@ -1,0 +1,958 @@
+[
+  {
+    "chinese": "走",
+    "english": "go",
+    "soundmark": "/ɡoʊ/"
+  },
+  {
+    "chinese": "来",
+    "english": "come",
+    "soundmark": "/kʌm/"
+  },
+  {
+    "chinese": "看见",
+    "english": "see",
+    "soundmark": "/siː/"
+  },
+  {
+    "chinese": "听见",
+    "english": "hear",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "chinese": "说",
+    "english": "say",
+    "soundmark": "/seɪ/"
+  },
+  {
+    "chinese": "做",
+    "english": "make",
+    "soundmark": "/meɪk/"
+  },
+  {
+    "chinese": "跑",
+    "english": "run",
+    "soundmark": "/rʌn/"
+  },
+  {
+    "chinese": "坐",
+    "english": "sit",
+    "soundmark": "/sɪt/"
+  },
+  {
+    "chinese": "站",
+    "english": "stand",
+    "soundmark": "/stænd/"
+  },
+  {
+    "chinese": "走",
+    "english": "walk",
+    "soundmark": "/wɔːk/"
+  },
+  {
+    "chinese": "跳",
+    "english": "jump",
+    "soundmark": "/dʒʌmp/"
+  },
+  {
+    "chinese": "游泳",
+    "english": "swim",
+    "soundmark": "/swɪm/"
+  },
+  {
+    "chinese": "唱歌",
+    "english": "sing",
+    "soundmark": "/sɪŋ/"
+  },
+  {
+    "chinese": "跳舞",
+    "english": "dance",
+    "soundmark": "/dæns/"
+  },
+  {
+    "chinese": "读",
+    "english": "read",
+    "soundmark": "/riːd/"
+  },
+  {
+    "chinese": "写",
+    "english": "write",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "chinese": "想",
+    "english": "think",
+    "soundmark": "/θɪŋk/"
+  },
+  {
+    "chinese": "给",
+    "english": "give",
+    "soundmark": "/ɡɪv/"
+  },
+  {
+    "chinese": "拿",
+    "english": "take",
+    "soundmark": "/teɪk/"
+  },
+  {
+    "chinese": "玩",
+    "english": "play",
+    "soundmark": "/pleɪ/"
+  },
+  {
+    "chinese": "我去学校",
+    "english": "I go to school",
+    "soundmark": "/aɪ/ /ɡoʊ/ /tuː/ /skuːl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "school",
+        "role": "A",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      }
+    ]
+  },
+  {
+    "chinese": "他来这里",
+    "english": "He comes here",
+    "soundmark": "/hiː/ /kʌmz/ /hɪr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "comes",
+        "role": "V",
+        "phonetic": "/kʌmz/",
+        "chinese": "来"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "我看见一只鸟",
+    "english": "I see a bird",
+    "soundmark": "/aɪ/ /siː/ /ə/ /bɜːrd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bird",
+        "role": "O",
+        "phonetic": "/bɜːrd/",
+        "chinese": "鸟"
+      }
+    ]
+  },
+  {
+    "chinese": "我听见音乐",
+    "english": "I hear music",
+    "soundmark": "/aɪ/ /hɪr/ /ˈmjuːzɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hear",
+        "role": "V",
+        "phonetic": "/hɪr/",
+        "chinese": "听到"
+      },
+      {
+        "text": "music",
+        "role": "O",
+        "phonetic": "/ˈmjuːzɪk/",
+        "chinese": "音乐"
+      }
+    ]
+  },
+  {
+    "chinese": "他说什么",
+    "english": "What does he say",
+    "soundmark": "/wʌt/ /dʌz/ /hiː/ /seɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "say",
+        "role": "V",
+        "phonetic": "/seɪ/",
+        "chinese": "说"
+      }
+    ]
+  },
+  {
+    "chinese": "我做蛋糕",
+    "english": "I make a cake",
+    "soundmark": "/aɪ/ /meɪk/ /ə/ /keɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "make",
+        "role": "V",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cake",
+        "role": "O",
+        "phonetic": "/keɪk/",
+        "chinese": "蛋糕"
+      }
+    ]
+  },
+  {
+    "chinese": "我们也去吗",
+    "english": "Do we go too",
+    "soundmark": "/duː/ /wiː/ /ɡoʊ/ /tuː/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      }
+    ]
+  },
+  {
+    "chinese": "她不跳舞",
+    "english": "She does not dance",
+    "soundmark": "/ʃiː/ /dʌz/ /nɑːt/ /dæns/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "dance",
+        "role": "V",
+        "phonetic": "/dæns/",
+        "chinese": "跳舞"
+      }
+    ]
+  },
+  {
+    "chinese": "我们一起跑",
+    "english": "We run together",
+    "soundmark": "/wiː/ /rʌn/ /təˈɡeðər/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "together",
+        "role": "A",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      }
+    ]
+  },
+  {
+    "chinese": "他读一本书",
+    "english": "He reads a book",
+    "soundmark": "/hiː/ /riːdz/ /ə/ /bʊk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "reads",
+        "role": "V",
+        "phonetic": "/riːdz/",
+        "chinese": "读"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "你能看见那个人吗",
+    "english": "Can you see that man",
+    "soundmark": "/kæn/ /juː/ /siː/ /ðæt/ /mæn/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "man",
+        "role": "O",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      }
+    ]
+  },
+  {
+    "chinese": "我每天写作业",
+    "english": "I write homework every day",
+    "soundmark": "/aɪ/ /raɪt/ /ˈhoʊmwɜːrk/ /ˈevri/ /deɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "write",
+        "role": "V",
+        "phonetic": "/raɪt/",
+        "chinese": "写"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "请给我那本书",
+    "english": "Please give me that book",
+    "soundmark": "/pliːz/ /ɡɪv/ /miː/ /ðæt/ /bʊk/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "他拿走了我的笔",
+    "english": "He takes my pen",
+    "soundmark": "/hiː/ /teɪks/ /maɪ/ /pen/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "takes",
+        "role": "V",
+        "phonetic": "/teɪks/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "pen",
+        "role": "O",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      }
+    ]
+  },
+  {
+    "chinese": "我们在公园玩",
+    "english": "We play in the park",
+    "soundmark": "/wiː/ /pleɪ/ /ɪn/ /ðə/ /pɑːrk/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "play",
+        "role": "V",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "park",
+        "role": "A",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      }
+    ]
+  },
+  {
+    "chinese": "孩子们在游泳",
+    "english": "The children are swimming",
+    "soundmark": "/ðə/ /ˈtʃɪldrən/ /ɑːr/ /ˈswɪmɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "children",
+        "role": "S",
+        "phonetic": "/ˈtʃɪldrən/",
+        "chinese": "孩子们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "swimming",
+        "role": "V",
+        "phonetic": "/ˈswɪmɪŋ/",
+        "chinese": "游泳的"
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢唱歌吗",
+    "english": "Do you like singing",
+    "soundmark": "/duː/ /juː/ /laɪk/ /ˈsɪŋɪŋ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "singing",
+        "role": "O",
+        "phonetic": "/ˈsɪŋɪŋ/",
+        "chinese": "唱歌的"
+      }
+    ]
+  },
+  {
+    "chinese": "他们不能来这里",
+    "english": "They cannot come here",
+    "soundmark": "/ðeɪ/ /ˈkænɑːt/ /kʌm/ /hɪr/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "我看见一只黑猫跑过去",
+    "english": "I see a black cat run by",
+    "soundmark": "/aɪ/ /siː/ /ə/ /blæk/ /kæt/ /rʌn/ /baɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "black",
+        "role": "C",
+        "phonetic": "/blæk/",
+        "chinese": "黑色的"
+      },
+      {
+        "text": "cat",
+        "role": "O",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "by",
+        "role": "A",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      }
+    ]
+  },
+  {
+    "chinese": "学校",
+    "english": "school",
+    "soundmark": "/skuːl/"
+  },
+  {
+    "chinese": "这里",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "chinese": "音乐",
+    "english": "music",
+    "soundmark": "/ˈmjuːzɪk/"
+  },
+  {
+    "chinese": "家庭作业",
+    "english": "homework",
+    "soundmark": "/ˈhoʊmwɜːrk/"
+  },
+  {
+    "chinese": "公园",
+    "english": "park",
+    "soundmark": "/pɑːrk/"
+  },
+  {
+    "chinese": "每天",
+    "english": "every day",
+    "soundmark": "/ˈevri/ /deɪ/"
+  },
+  {
+    "chinese": "正在",
+    "english": "is",
+    "soundmark": "/ɪz/"
+  },
+  {
+    "chinese": "能",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "chinese": "我觉得这是个好主意",
+    "english": "I think this is a good idea",
+    "soundmark": "/aɪ/ /θɪŋk/ /ðɪs/ /ɪz/ /ə/ /ɡʊd/ /aɪˈdiːə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "idea",
+        "role": "C",
+        "phonetic": "/aɪˈdiːə/",
+        "chinese": "想法"
+      }
+    ]
+  },
+  {
+    "chinese": "他给了我一支笔",
+    "english": "He gives me a pen",
+    "soundmark": "/hiː/ /ɡɪvz/ /miː/ /ə/ /pen/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "gives",
+        "role": "V",
+        "phonetic": "/ɡɪvz/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pen",
+        "role": "O",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      }
+    ]
+  },
+  {
+    "chinese": "你每天走路去上学吗",
+    "english": "Do you walk to school every day",
+    "soundmark": "/duː/ /juː/ /wɔːk/ /tuː/ /skuːl/ /ˈevri/ /deɪ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "school",
+        "role": "A",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "我们坐在一起读书",
+    "english": "We sit together and read books",
+    "soundmark": "/wiː/ /sɪt/ /təˈɡeðər/ /ænd/ /riːd/ /bʊks/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "sit",
+        "role": "V",
+        "phonetic": "/sɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "together",
+        "role": "A",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/riːd/",
+        "chinese": "读"
+      },
+      {
+        "text": "books",
+        "role": "O",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "停下",
+    "english": "stop",
+    "soundmark": "/stɑːp/"
+  },
+  {
+    "chinese": "移动",
+    "english": "move",
+    "soundmark": "/muːv/"
+  },
+  {
+    "chinese": "感到",
+    "english": "feel",
+    "soundmark": "/fiːl/"
+  },
+  {
+    "chinese": "不能",
+    "english": "cannot",
+    "soundmark": "/ˈkænɑːt/"
+  },
+  {
+    "chinese": "经过",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  }
+]

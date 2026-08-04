@@ -1,0 +1,1689 @@
+[
+  {
+    "chinese": "吃(eaten)",
+    "english": "eaten",
+    "soundmark": "/ˈiːtən/"
+  },
+  {
+    "chinese": "看见(seen)",
+    "english": "seen",
+    "soundmark": "/siːn/"
+  },
+  {
+    "chinese": "去(gone)",
+    "english": "gone",
+    "soundmark": "/ɡɒn/"
+  },
+  {
+    "chinese": "完成(finished)",
+    "english": "finished",
+    "soundmark": "/ˈfɪnɪʃt/"
+  },
+  {
+    "chinese": "开始(started)",
+    "english": "started",
+    "soundmark": "/ˈstɑːrtɪd/"
+  },
+  {
+    "chinese": "工作(worked)",
+    "english": "worked",
+    "soundmark": "/wɜːrkt/"
+  },
+  {
+    "chinese": "学习(studied)",
+    "english": "studied",
+    "soundmark": "/ˈstʌdid/"
+  },
+  {
+    "chinese": "生活(lived)",
+    "english": "lived",
+    "soundmark": "/lɪvd/"
+  },
+  {
+    "chinese": "玩(played)",
+    "english": "played",
+    "soundmark": "/pleɪd/"
+  },
+  {
+    "chinese": "旅行(traveled)",
+    "english": "traveled",
+    "soundmark": "/ˈtrævəld/"
+  },
+  {
+    "chinese": "已经吃了",
+    "english": "have eaten",
+    "soundmark": "/hæv ˈiːtən/"
+  },
+  {
+    "chinese": "已经看见了",
+    "english": "have seen",
+    "soundmark": "/hæv siːn/"
+  },
+  {
+    "chinese": "已经去了",
+    "english": "have gone",
+    "soundmark": "/hæv ɡɒn/"
+  },
+  {
+    "chinese": "已经完成了",
+    "english": "have finished",
+    "soundmark": "/hæv ˈfɪnɪʃt/"
+  },
+  {
+    "chinese": "已经开始了",
+    "english": "have started",
+    "soundmark": "/hæv ˈstɑːrtɪd/"
+  },
+  {
+    "chinese": "他已经吃了",
+    "english": "has eaten",
+    "soundmark": "/hæz ˈiːtən/"
+  },
+  {
+    "chinese": "她已经去了",
+    "english": "has gone",
+    "soundmark": "/hæz ɡɒn/"
+  },
+  {
+    "chinese": "我已经吃过了",
+    "english": "I have eaten",
+    "soundmark": "/aɪ hæv ˈiːtən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "eaten",
+        "role": "V",
+        "phonetic": "/ˈiːtən/",
+        "chinese": "被吃的"
+      }
+    ]
+  },
+  {
+    "chinese": "我已经吃过了",
+    "english": "I have eaten already",
+    "soundmark": "/aɪ hæv ˈiːtən ɔːlˈredi/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "eaten",
+        "role": "V",
+        "phonetic": "/ˈiːtən/",
+        "chinese": "被吃的"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      }
+    ]
+  },
+  {
+    "chinese": "我已经吃过早餐了",
+    "english": "I have eaten breakfast",
+    "soundmark": "/aɪ hæv ˈiːtən ˈbrekfəst/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "eaten",
+        "role": "V",
+        "phonetic": "/ˈiːtən/",
+        "chinese": "被吃的"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      }
+    ]
+  },
+  {
+    "chinese": "我已经吃过早餐了",
+    "english": "I have already eaten breakfast",
+    "soundmark": "/aɪ hæv ɔːlˈredi ˈiːtən ˈbrekfəst/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "eaten",
+        "role": "V",
+        "phonetic": "/ˈiːtən/",
+        "chinese": "被吃的"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      }
+    ]
+  },
+  {
+    "chinese": "他看见过那部电影",
+    "english": "He has seen that movie",
+    "soundmark": "/hiː hæz siːn ðæt ˈmuːvi/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "movie",
+        "role": "O",
+        "phonetic": "/ˈmuːvi/",
+        "chinese": "电影"
+      }
+    ]
+  },
+  {
+    "chinese": "她去了超市",
+    "english": "She has gone to the supermarket",
+    "soundmark": "/ʃiː hæz ɡɒn tuː ðə ˈsuːpərˌmɑːrkɪt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɒn/",
+        "chinese": "去（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "supermarket",
+        "role": "A",
+        "phonetic": "/ˈsuːpərˌmɑːrkɪt/",
+        "chinese": "超市"
+      }
+    ]
+  },
+  {
+    "chinese": "我们完成了作业",
+    "english": "We have finished our homework",
+    "soundmark": "/wiː hæv ˈfɪnɪʃt aʊər ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "会议已经开始了",
+    "english": "The meeting has started",
+    "soundmark": "/ðə ˈmiːtɪŋ hæz ˈstɑːrtɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meeting",
+        "role": "S",
+        "phonetic": "/ˈmiːtɪŋ/",
+        "chinese": "会议的/会议"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      }
+    ]
+  },
+  {
+    "chinese": "他们在这里住了十年",
+    "english": "They have lived here for ten years",
+    "soundmark": "/ðeɪ hæv lɪvd hɪər fɔːr ten jɪrz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "lived",
+        "role": "V",
+        "phonetic": "/lɪvd/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪər/",
+        "chinese": "这里"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "ten",
+        "role": "Det",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "我在这个公司工作过",
+    "english": "I have worked at this company",
+    "soundmark": "/aɪ hæv wɜːrkt æt ðɪs ˈkʌmpəni/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "worked",
+        "role": "V",
+        "phonetic": "/wɜːrkt/",
+        "chinese": "工作"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "company",
+        "role": "A",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      }
+    ]
+  },
+  {
+    "chinese": "她学了三年英语",
+    "english": "She has studied English for three years",
+    "soundmark": "/ʃiː hæz ˈstʌdid ˈɪŋɡlɪʃ fɔːr θriː jɪrz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "studied",
+        "role": "V",
+        "phonetic": "/ˈstʌdid/",
+        "chinese": "学习（过去式）"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "他弹钢琴很久了",
+    "english": "He has played the piano for a long time",
+    "soundmark": "/hiː hæz pleɪd ðə piˈænoʊ fɔːr ə lɔːŋ taɪm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "played",
+        "role": "V",
+        "phonetic": "/pleɪd/",
+        "chinese": "玩"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "piano",
+        "role": "O",
+        "phonetic": "/piˈænoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "long",
+        "role": "A",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "你去过伦敦吗",
+    "english": "Have you visited London",
+    "soundmark": "/hæv juː ˈvɪzɪtɪd ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "visited",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪtɪd/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "London",
+        "role": "O",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "你吃过午饭了吗",
+    "english": "Have you eaten lunch",
+    "soundmark": "/hæv juː ˈiːtən lʌntʃ/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "eaten",
+        "role": "V",
+        "phonetic": "/ˈiːtən/",
+        "chinese": "被吃的"
+      },
+      {
+        "text": "lunch",
+        "role": "O",
+        "phonetic": "/lʌntʃ/",
+        "chinese": "午餐"
+      }
+    ]
+  },
+  {
+    "chinese": "她完成工作了吗",
+    "english": "Has she finished her work",
+    "soundmark": "/hæz ʃiː ˈfɪnɪʃt hɜːr wɜːrk/",
+    "grammar": [
+      {
+        "text": "Has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "你见过我的钥匙吗",
+    "english": "Have you seen my keys",
+    "soundmark": "/hæv juː siːn maɪ kiːz/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "keys",
+        "role": "O",
+        "phonetic": "/kiːz/",
+        "chinese": "钥匙"
+      }
+    ]
+  },
+  {
+    "chinese": "我没吃过",
+    "english": "I have not eaten",
+    "soundmark": "/aɪ hæv nɒt ˈiːtən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "eaten",
+        "role": "V",
+        "phonetic": "/ˈiːtən/",
+        "chinese": "被吃的"
+      }
+    ]
+  },
+  {
+    "chinese": "我没吃过(缩写)",
+    "english": "I haven't eaten",
+    "soundmark": "/aɪ ˈhævənt ˈiːtən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "haven't",
+        "role": "V",
+        "phonetic": "/ˈhævənt/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "eaten",
+        "role": "V",
+        "phonetic": "/ˈiːtən/",
+        "chinese": "被吃的"
+      }
+    ]
+  },
+  {
+    "chinese": "他还没完成",
+    "english": "He has not finished yet",
+    "soundmark": "/hiː hæz nɒt ˈfɪnɪʃt jet/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "我从来没见过那个",
+    "english": "I have never seen that",
+    "soundmark": "/aɪ hæv ˈnevər siːn ðæt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "Neg",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我们还没开始",
+    "english": "We haven't started",
+    "soundmark": "/wiː ˈhævənt ˈstɑːrtɪd/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "haven't",
+        "role": "V",
+        "phonetic": "/ˈhævənt/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      }
+    ]
+  },
+  {
+    "chinese": "你还没有回复我",
+    "english": "You have not replied to me",
+    "soundmark": "/juː hæv nɒt rɪˈplaɪd tuː miː/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "replied",
+        "role": "V",
+        "phonetic": "/rɪˈplaɪd/",
+        "chinese": "回复（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "我刚吃过午饭",
+    "english": "I have just eaten lunch",
+    "soundmark": "/aɪ hæv dʒʌst ˈiːtən lʌntʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "A",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "eaten",
+        "role": "V",
+        "phonetic": "/ˈiːtən/",
+        "chinese": "被吃的"
+      },
+      {
+        "text": "lunch",
+        "role": "O",
+        "phonetic": "/lʌntʃ/",
+        "chinese": "午餐"
+      }
+    ]
+  },
+  {
+    "chinese": "他刚到",
+    "english": "He has just arrived",
+    "soundmark": "/hiː hæz dʒʌst əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "A",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "他们已经离开了",
+    "english": "They have already left",
+    "soundmark": "/ðeɪ hæv ɔːlˈredi left/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "你读过这本书吗",
+    "english": "Have you read this book",
+    "soundmark": "/hæv juː red ðɪs bʊk/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/red/",
+        "chinese": "读"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "你去过中国吗",
+    "english": "Have you ever been to China",
+    "soundmark": "/hæv juː ˈevər biːn tuː ˈtʃaɪnə/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "A",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "China",
+        "role": "A",
+        "phonetic": "/ˈtʃaɪnə/",
+        "chinese": "中国"
+      }
+    ]
+  },
+  {
+    "chinese": "我从来没去过日本",
+    "english": "I have never been to Japan",
+    "soundmark": "/aɪ hæv ˈnevər biːn tuː dʒəˈpæn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "Neg",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "Japan",
+        "role": "A",
+        "phonetic": "/dʒəˈpæn/",
+        "chinese": "日本"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我看过最好的电影",
+    "english": "This is the best movie I have ever seen",
+    "soundmark": "/ðɪs ɪz ðə best ˈmuːvi aɪ hæv ˈevər siːn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "best",
+        "role": "C",
+        "phonetic": "/best/",
+        "chinese": "最好"
+      },
+      {
+        "text": "movie",
+        "role": "C",
+        "phonetic": "/ˈmuːvi/",
+        "chinese": "电影"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "ever",
+        "role": "A",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "自从毕业以来我就没见过他",
+    "english": "I haven't seen him since we graduated",
+    "soundmark": "/aɪ ˈhævənt siːn hɪm sɪns wiː ˈɡrædʒueɪtɪd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "haven't",
+        "role": "V",
+        "phonetic": "/ˈhævənt/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "graduated",
+        "role": "V",
+        "phonetic": "/ˈɡrædʒueɪtɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你吃过了吗",
+    "english": "Have you eaten yet",
+    "soundmark": "/hæv juː ˈiːtən jet/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "eaten",
+        "role": "V",
+        "phonetic": "/ˈiːtən/",
+        "chinese": "被吃的"
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "我还没有",
+    "english": "I haven't yet",
+    "soundmark": "/aɪ ˈhævənt jet/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "haven't",
+        "role": "V",
+        "phonetic": "/ˈhævənt/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "她看过这部电影三次了",
+    "english": "She has watched this movie three times",
+    "soundmark": "/ʃiː hæz wɒtʃt ðɪs ˈmuːvi θriː taɪmz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "watched",
+        "role": "V",
+        "phonetic": "/wɒtʃt/",
+        "chinese": "观看"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "movie",
+        "role": "O",
+        "phonetic": "/ˈmuːvi/",
+        "chinese": "电影"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "times",
+        "role": "A",
+        "phonetic": "/taɪmz/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "我们已经决定要搬走了",
+    "english": "We have decided to move",
+    "soundmark": "/wiː hæv dɪˈsaɪdɪd tuː muːv/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "move",
+        "role": "O",
+        "phonetic": "/muːv/",
+        "chinese": "移动"
+      }
+    ]
+  },
+  {
+    "chinese": "今天下雨了吗",
+    "english": "Has it rained today",
+    "soundmark": "/hæz ɪt reɪnd təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "Has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "rained",
+        "role": "V",
+        "phonetic": "/reɪnd/",
+        "chinese": "雨"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "他在这家公司工作五年了",
+    "english": "He has worked at this company for five years",
+    "soundmark": "/hiː hæz wɜːrkt æt ðɪs ˈkʌmpəni fɔːr faɪv jɪrz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "worked",
+        "role": "V",
+        "phonetic": "/wɜːrkt/",
+        "chinese": "工作"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "company",
+        "role": "A",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "你见过最大的城市是哪个",
+    "english": "What is the biggest city you have ever seen",
+    "soundmark": "/wʌt ɪz ðə ˈbɪɡɪst ˈsɪti juː hæv ˈevər siːn/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "biggest",
+        "role": "C",
+        "phonetic": "/ˈbɪɡɪst/",
+        "chinese": "最…的(大的)"
+      },
+      {
+        "text": "city",
+        "role": "C",
+        "phonetic": "/ˈsɪti/",
+        "chinese": "城市"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "ever",
+        "role": "A",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "你已经完成作业了吗",
+    "english": "Have you finished your homework yet",
+    "soundmark": "/hæv juː ˈfɪnɪʃt jɔːr ˈhoʊmwɜːrk jet/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "近来过得怎么样",
+    "english": "How have you been",
+    "soundmark": "/haʊ hæv juː biːn/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "A",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "我最近很忙",
+    "english": "I have been very busy lately",
+    "soundmark": "/aɪ hæv biːn ˈveri ˈbɪzi ˈleɪtli/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "busy",
+        "role": "C",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      },
+      {
+        "text": "lately",
+        "role": "A",
+        "phonetic": "/ˈleɪtli/",
+        "chinese": "…地(晚)"
+      }
+    ]
+  },
+  {
+    "chinese": "完成(finished)",
+    "english": "finished",
+    "soundmark": "/ˈfɪnɪʃt/"
+  },
+  {
+    "chinese": "开始(started)",
+    "english": "started",
+    "soundmark": "/ˈstɑːrtɪd/"
+  },
+  {
+    "chinese": "旅行(traveled)",
+    "english": "traveled",
+    "soundmark": "/ˈtrævəld/"
+  },
+  {
+    "chinese": "参观(visited)",
+    "english": "visited",
+    "soundmark": "/ˈvɪzɪtɪd/"
+  },
+  {
+    "chinese": "决定(decided)",
+    "english": "decided",
+    "soundmark": "/dɪˈsaɪdɪd/"
+  },
+  {
+    "chinese": "到达(arrived)",
+    "english": "arrived",
+    "soundmark": "/əˈraɪvd/"
+  },
+  {
+    "chinese": "回复(replied)",
+    "english": "replied",
+    "soundmark": "/rɪˈplaɪd/"
+  },
+  {
+    "chinese": "已经",
+    "english": "already",
+    "soundmark": "/ɔːlˈredi/"
+  },
+  {
+    "chinese": "还(否定句中)",
+    "english": "yet",
+    "soundmark": "/jet/"
+  },
+  {
+    "chinese": "曾经",
+    "english": "ever",
+    "soundmark": "/ˈevər/"
+  }
+]

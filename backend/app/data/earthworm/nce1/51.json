@@ -1,0 +1,776 @@
+[
+  {
+    "chinese": "酒店",
+    "english": "hotel",
+    "soundmark": "/hoʊˈtel/"
+  },
+  {
+    "chinese": "预订",
+    "english": "reservation",
+    "soundmark": "/ˌrezərˈveɪʃn/"
+  },
+  {
+    "chinese": "入住",
+    "english": "check in",
+    "soundmark": "/tʃek ɪn/"
+  },
+  {
+    "chinese": "退房",
+    "english": "check out",
+    "soundmark": "/tʃek aʊt/"
+  },
+  {
+    "chinese": "房间",
+    "english": "room",
+    "soundmark": "/ruːm/"
+  },
+  {
+    "chinese": "单人间",
+    "english": "single room",
+    "soundmark": "/ˈsɪŋɡl ruːm/"
+  },
+  {
+    "chinese": "双人间",
+    "english": "double room",
+    "soundmark": "/ˈdʌbl ruːm/"
+  },
+  {
+    "chinese": "钥匙",
+    "english": "key",
+    "soundmark": "/kiː/"
+  },
+  {
+    "chinese": "前台",
+    "english": "reception",
+    "soundmark": "/rɪˈsepʃn/"
+  },
+  {
+    "chinese": "早餐",
+    "english": "breakfast",
+    "soundmark": "/ˈbrekfəst/"
+  },
+  {
+    "chinese": "电梯",
+    "english": "elevator",
+    "soundmark": "/ˈelɪveɪtər/"
+  },
+  {
+    "chinese": "我想入住",
+    "english": "I would like to check in",
+    "soundmark": "/aɪ wʊd laɪk tuː tʃek ɪn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like",
+        "role": "V",
+        "phonetic": "/wʊd laɪk/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to check in",
+        "role": "O",
+        "phonetic": "/tuː tʃek ɪn/",
+        "chinese": "到/向/在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "我有预订",
+    "english": "I have a reservation",
+    "soundmark": "/aɪ hæv ə ˌrezərˈveɪʃn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a reservation",
+        "role": "O",
+        "phonetic": "/ə ˌrezərˈveɪʃn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "你叫什么名字",
+    "english": "What is your name",
+    "soundmark": "/wʌt ɪz jɔːr neɪm/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your name",
+        "role": "C",
+        "phonetic": "/jɔːr neɪm/",
+        "chinese": "你的/你们的/名字"
+      }
+    ]
+  },
+  {
+    "chinese": "这是你的房间钥匙",
+    "english": "Here is your room key",
+    "soundmark": "/hɪr ɪz jɔːr ruːm kiː/",
+    "grammar": [
+      {
+        "text": "Here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your room key",
+        "role": "S",
+        "phonetic": "/jɔːr ruːm kiː/",
+        "chinese": "你的/你们的/房间/钥匙"
+      }
+    ]
+  },
+  {
+    "chinese": "早餐几点开始",
+    "english": "What time is breakfast served",
+    "soundmark": "/wʌt taɪm ɪz ˈbrekfəst sɜːrvd/",
+    "grammar": [
+      {
+        "text": "What time",
+        "role": "A",
+        "phonetic": "/wʌt taɪm/",
+        "chinese": "几点"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "breakfast",
+        "role": "S",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      },
+      {
+        "text": "served",
+        "role": "V",
+        "phonetic": "/sɜːrvd/",
+        "chinese": "服务/上菜"
+      }
+    ]
+  },
+  {
+    "chinese": "早餐含在房费里吗",
+    "english": "Is breakfast included",
+    "soundmark": "/ɪz ˈbrekfəst ɪnˈkluːdɪd/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "breakfast",
+        "role": "S",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      },
+      {
+        "text": "included",
+        "role": "C",
+        "phonetic": "/ɪnˈkluːdɪd/",
+        "chinese": "包括"
+      }
+    ]
+  },
+  {
+    "chinese": "我要退房",
+    "english": "I would like to check out",
+    "soundmark": "/aɪ wʊd laɪk tuː tʃek aʊt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like",
+        "role": "V",
+        "phonetic": "/wʊd laɪk/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to check out",
+        "role": "O",
+        "phonetic": "/tuː tʃek aʊt/",
+        "chinese": "到/向/出去"
+      }
+    ]
+  },
+  {
+    "chinese": "电梯在哪里",
+    "english": "Where is the elevator",
+    "soundmark": "/wer ɪz ðə ˈelɪveɪtər/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the elevator",
+        "role": "S",
+        "phonetic": "/ðə ˈelɪveɪtər/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "包含",
+    "english": "included",
+    "soundmark": "/ɪnˈkluːdɪd/"
+  },
+  {
+    "chinese": "前台",
+    "english": "reception",
+    "soundmark": "/rɪˈsepʃn/"
+  },
+  {
+    "chinese": "预订",
+    "english": "reservation",
+    "soundmark": "/ˌrezərˈveɪʃn/"
+  },
+  {
+    "chinese": "电梯",
+    "english": "elevator",
+    "soundmark": "/ˈelɪveɪtər/"
+  },
+  {
+    "chinese": "双人间",
+    "english": "double room",
+    "soundmark": "/ˈdʌbl ruːm/"
+  },
+  {
+    "chinese": "提供(服务)",
+    "english": "serve",
+    "soundmark": "/sɜːrv/"
+  },
+  {
+    "chinese": "包含",
+    "english": "include",
+    "soundmark": "/ɪnˈkluːd/"
+  },
+  {
+    "chinese": "你们还有空房间吗",
+    "english": "Do you have any rooms available",
+    "soundmark": "/duː juː hæv ˈeni ruːmz əˈveɪləbl/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "any rooms",
+        "role": "O",
+        "phonetic": "/ˈeni ruːmz/",
+        "chinese": "任何/…们/复数(房间)"
+      },
+      {
+        "text": "available",
+        "role": "C",
+        "phonetic": "/əˈveɪləbl/",
+        "chinese": "可用的"
+      }
+    ]
+  },
+  {
+    "chinese": "是的我们还有几间双人房",
+    "english": "Yes we still have a few double rooms",
+    "soundmark": "/jes wiː stɪl hæv ə fjuː ˈdʌbl ruːmz/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "still have",
+        "role": "V",
+        "phonetic": "/stɪl hæv/",
+        "chinese": "仍然/有/助动词"
+      },
+      {
+        "text": "a few double rooms",
+        "role": "O",
+        "phonetic": "/ə fjuː ˈdʌbl ruːmz/",
+        "chinese": "一个/很少/…们/复数(房间)"
+      }
+    ]
+  },
+  {
+    "chinese": "一晚多少钱",
+    "english": "How much is it per night",
+    "soundmark": "/haʊ mʌtʃ ɪz ɪt pɜːr naɪt/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "S",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "per night",
+        "role": "A",
+        "phonetic": "/pɜːr naɪt/",
+        "chinese": "每/夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "房间里有WiFi吗",
+    "english": "Is there WiFi in the room",
+    "soundmark": "/ɪz ðer ˈwaɪfaɪ ɪn ðə ruːm/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "WiFi",
+        "role": "C",
+        "phonetic": "/ˈwaɪfaɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "in the room",
+        "role": "A",
+        "phonetic": "/ɪn ðə ruːm/",
+        "chinese": "在房间里"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以看看房间吗",
+    "english": "Can I see the room",
+    "soundmark": "/kæn aɪ siː ðə ruːm/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "the room",
+        "role": "O",
+        "phonetic": "/ðə ruːm/",
+        "chinese": "这个/那个/房间"
+      }
+    ]
+  },
+  {
+    "chinese": "我们没有热水",
+    "english": "We do not have hot water",
+    "soundmark": "/wiː duː nɑːt hæv hɑːt ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "do not have",
+        "role": "V",
+        "phonetic": "/duː nɑːt hæv/",
+        "chinese": "做/助动词/不/有/助动词"
+      },
+      {
+        "text": "hot water",
+        "role": "O",
+        "phonetic": "/hɑːt ˈwɔːtər/",
+        "chinese": "热的/水"
+      }
+    ]
+  },
+  {
+    "chinese": "我能多要一条毛巾吗",
+    "english": "Can I have an extra towel",
+    "soundmark": "/kæn aɪ hæv ən ˈekstrə ˈtaʊəl/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "an extra towel",
+        "role": "O",
+        "phonetic": "/ən ˈekstrə ˈtaʊəl/",
+        "chinese": "一个/毛巾"
+      }
+    ]
+  },
+  {
+    "chinese": "退房时间是中午十二点吗",
+    "english": "Is check-out time at noon",
+    "soundmark": "/ɪz tʃek aʊt taɪm æt nuːn/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "check-out time",
+        "role": "S",
+        "phonetic": "/tʃek aʊt taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "at noon",
+        "role": "A",
+        "phonetic": "/æt nuːn/",
+        "chinese": "在"
+      }
+    ]
+  },
+  {
+    "chinese": "您能帮我叫辆出租车吗",
+    "english": "Could you call a taxi for me",
+    "soundmark": "/kʊd juː kɔːl ə ˈtæksi fɔːr miː/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "call",
+        "role": "V",
+        "phonetic": "/kɔːl/",
+        "chinese": "打电话/叫"
+      },
+      {
+        "text": "a taxi",
+        "role": "O",
+        "phonetic": "/ə ˈtæksi/",
+        "chinese": "一个/出租车"
+      },
+      {
+        "text": "for me",
+        "role": "A",
+        "phonetic": "/fɔːr miː/",
+        "chinese": "为我"
+      }
+    ]
+  },
+  {
+    "chinese": "住得愉快",
+    "english": "enjoy your stay",
+    "soundmark": "/ɪnˈdʒɔɪ jɔːr steɪ/"
+  },
+  {
+    "chinese": "可以用的",
+    "english": "available",
+    "soundmark": "/əˈveɪləbl/"
+  },
+  {
+    "chinese": "每晚",
+    "english": "per night",
+    "soundmark": "/pɜːr naɪt/"
+  },
+  {
+    "chinese": "额外的",
+    "english": "extra",
+    "soundmark": "/ˈekstrə/"
+  },
+  {
+    "chinese": "毛巾",
+    "english": "towel",
+    "soundmark": "/ˈtaʊəl/"
+  },
+  {
+    "chinese": "出租车",
+    "english": "taxi",
+    "soundmark": "/ˈtæksi/"
+  },
+  {
+    "chinese": "热水",
+    "english": "hot water",
+    "soundmark": "/hɑːt ˈwɔːtər/"
+  },
+  {
+    "chinese": "房间里有保险箱吗",
+    "english": "Is there a safe in the room",
+    "soundmark": "/ɪz ðer ə seɪf ɪn ðə ruːm/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a safe",
+        "role": "C",
+        "phonetic": "/ə seɪf/",
+        "chinese": "一个/安全的"
+      },
+      {
+        "text": "in the room",
+        "role": "A",
+        "phonetic": "/ɪn ðə ruːm/",
+        "chinese": "在房间里"
+      }
+    ]
+  },
+  {
+    "chinese": "空调好像坏了你能派人来看看吗",
+    "english": "The air conditioning seems broken could you send someone to check",
+    "soundmark": "/ði er kənˈdɪʃənɪŋ siːmz ˈbroʊkən kʊd juː send ˈsʌmwʌn tuː tʃek/",
+    "grammar": [
+      {
+        "text": "The air conditioning",
+        "role": "S",
+        "phonetic": "/ði er kənˈdɪʃənɪŋ/",
+        "chinese": "这个/那个/空气/条件/状况"
+      },
+      {
+        "text": "seems",
+        "role": "V",
+        "phonetic": "/siːmz/",
+        "chinese": "似乎"
+      },
+      {
+        "text": "broken",
+        "role": "C",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      },
+      {
+        "text": "could you send someone to check",
+        "role": "A",
+        "phonetic": "/kʊd juː send ˈsʌmwʌn tuː tʃek/",
+        "chinese": "可以/能（过去式）/你/你们/发送/寄/某人/到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "游泳池在几楼",
+    "english": "Which floor is the swimming pool on",
+    "soundmark": "/wɪtʃ flɔːr ɪz ðə ˈswɪmɪŋ puːl ɑːn/",
+    "grammar": [
+      {
+        "text": "Which floor",
+        "role": "A",
+        "phonetic": "/wɪtʃ flɔːr/",
+        "chinese": "哪个/地板/楼层"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the swimming pool",
+        "role": "S",
+        "phonetic": "/ðə ˈswɪmɪŋ puːl/",
+        "chinese": "这个/那个/正在…(游泳)"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      }
+    ]
+  },
+  {
+    "chinese": "可以给我加一张床吗",
+    "english": "Can I have an extra bed",
+    "soundmark": "/kæn aɪ hæv ən ˈekstrə bed/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "an extra bed",
+        "role": "O",
+        "phonetic": "/ən ˈekstrə bed/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "保险箱",
+    "english": "safe",
+    "soundmark": "/seɪf/"
+  },
+  {
+    "chinese": "空调",
+    "english": "air conditioning",
+    "soundmark": "/er kənˈdɪʃənɪŋ/"
+  },
+  {
+    "chinese": "派人",
+    "english": "send someone",
+    "soundmark": "/send ˈsʌmwʌn/"
+  },
+  {
+    "chinese": "楼层",
+    "english": "floor",
+    "soundmark": "/flɔːr/"
+  },
+  {
+    "chinese": "游泳池",
+    "english": "swimming pool",
+    "soundmark": "/ˈswɪmɪŋ puːl/"
+  },
+  {
+    "chinese": "额外的床",
+    "english": "extra bed",
+    "soundmark": "/ˈekstrə bed/"
+  },
+  {
+    "chinese": "加床",
+    "english": "extra bed",
+    "soundmark": "/ˈekstrə bed/"
+  },
+  {
+    "chinese": "似乎",
+    "english": "seem",
+    "soundmark": "/siːm/"
+  }
+]

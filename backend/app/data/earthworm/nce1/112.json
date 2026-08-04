@@ -1,0 +1,456 @@
+[
+  {
+    "chinese": "早餐",
+    "english": "breakfast",
+    "soundmark": "/ˈbrekfəst/"
+  },
+  {
+    "chinese": "面包",
+    "english": "bread",
+    "soundmark": "/bred/"
+  },
+  {
+    "chinese": "黄油",
+    "english": "butter",
+    "soundmark": "/ˈbʌtər/"
+  },
+  {
+    "chinese": "果酱",
+    "english": "jam",
+    "soundmark": "/dʒæm/"
+  },
+  {
+    "chinese": "鸡蛋",
+    "english": "egg",
+    "soundmark": "/eɡ/"
+  },
+  {
+    "chinese": "牛奶",
+    "english": "milk",
+    "soundmark": "/mɪlk/"
+  },
+  {
+    "chinese": "茶",
+    "english": "tea",
+    "soundmark": "/tiː/"
+  },
+  {
+    "chinese": "咖啡",
+    "english": "coffee",
+    "soundmark": "/ˈkɒfi/"
+  },
+  {
+    "chinese": "糖",
+    "english": "sugar",
+    "soundmark": "/ˈʃʊɡər/"
+  },
+  {
+    "chinese": "厨房",
+    "english": "kitchen",
+    "soundmark": "/ˈkɪtʃɪn/"
+  },
+  {
+    "chinese": "盘子",
+    "english": "plate",
+    "soundmark": "/pleɪt/"
+  },
+  {
+    "chinese": "杯子",
+    "english": "cup",
+    "soundmark": "/kʌp/"
+  },
+  {
+    "chinese": "喝",
+    "english": "drink",
+    "soundmark": "/drɪŋk/"
+  },
+  {
+    "chinese": "一片",
+    "english": "a piece of",
+    "soundmark": "/ə piːs əv/"
+  },
+  {
+    "chinese": "Tommy早餐吃了什么",
+    "english": "What did Tommy eat for breakfast",
+    "soundmark": "/wɒt dɪd ˈtɒmi iːt fɔːr ˈbrekfəst/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "Tommy",
+        "role": "S",
+        "phonetic": "/ˈtɒmi/",
+        "chinese": ""
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "for breakfast",
+        "role": "A",
+        "phonetic": "/fɔːr ˈbrekfəst/",
+        "chinese": "早餐"
+      }
+    ]
+  },
+  {
+    "chinese": "他吃了一片面包和果酱",
+    "english": "He ate some bread and jam",
+    "soundmark": "/hiː eɪt sʌm bred ənd dʒæm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "ate",
+        "role": "V",
+        "phonetic": "/eɪt/",
+        "chinese": "吃（过去式）"
+      },
+      {
+        "text": "some bread and jam",
+        "role": "O",
+        "phonetic": "/sʌm bred ənd dʒæm/",
+        "chinese": "一些/面包/和/果酱"
+      }
+    ]
+  },
+  {
+    "chinese": "他喝了一杯牛奶",
+    "english": "He drank a glass of milk",
+    "soundmark": "/hiː dræŋk ə ɡlɑːs əv mɪlk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "drank",
+        "role": "V",
+        "phonetic": "/dræŋk/",
+        "chinese": "喝（过去式）"
+      },
+      {
+        "text": "a glass of milk",
+        "role": "O",
+        "phonetic": "/ə ɡlɑːs əv mɪlk/",
+        "chinese": "一个/玻璃/玻璃杯/…的/牛奶"
+      }
+    ]
+  },
+  {
+    "chinese": "Tommy每天早餐吃鸡蛋",
+    "english": "Tommy eats eggs for breakfast every day",
+    "soundmark": "/ˈtɒmi iːts eɡz fɔːr ˈbrekfəst ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "Tommy",
+        "role": "S",
+        "phonetic": "/ˈtɒmi/",
+        "chinese": ""
+      },
+      {
+        "text": "eats",
+        "role": "V",
+        "phonetic": "/iːts/",
+        "chinese": "吃（第三人称）"
+      },
+      {
+        "text": "eggs",
+        "role": "O",
+        "phonetic": "/eɡz/",
+        "chinese": "鸡蛋"
+      },
+      {
+        "text": "for breakfast",
+        "role": "A",
+        "phonetic": "/fɔːr ˈbrekfəst/",
+        "chinese": "早餐"
+      },
+      {
+        "text": "every day",
+        "role": "A",
+        "phonetic": "/ˈevri deɪ/",
+        "chinese": "每天"
+      }
+    ]
+  },
+  {
+    "chinese": "他的妈妈为他做了早餐",
+    "english": "His mother cooked breakfast for him",
+    "soundmark": "/hɪz ˈmʌðər kʊkt ˈbrekfəst fɔːr hɪm/",
+    "grammar": [
+      {
+        "text": "His mother",
+        "role": "S",
+        "phonetic": "/hɪz ˈmʌðər/",
+        "chinese": "他的/母亲"
+      },
+      {
+        "text": "cooked",
+        "role": "V",
+        "phonetic": "/kʊkt/",
+        "chinese": "烹饪"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      },
+      {
+        "text": "for him",
+        "role": "A",
+        "phonetic": "/fɔːr hɪm/",
+        "chinese": "为了/对于/他"
+      }
+    ]
+  },
+  {
+    "chinese": "他不喝咖啡只喝茶",
+    "english": "He doesn't drink coffee, he only drinks tea",
+    "soundmark": "/hiː ˈdʌzənt drɪŋk ˈkɒfi hiː ˈəʊnli drɪŋks tiː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "doesn't drink",
+        "role": "V",
+        "phonetic": "/ˈdʌzənt drɪŋk/",
+        "chinese": "不/饮料"
+      },
+      {
+        "text": "coffee",
+        "role": "O",
+        "phonetic": "/ˈkɒfi/",
+        "chinese": "咖啡"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "only drinks",
+        "role": "V",
+        "phonetic": "/ˈəʊnli drɪŋks/",
+        "chinese": "只/…们/复数(饮料)"
+      },
+      {
+        "text": "tea",
+        "role": "O",
+        "phonetic": "/tiː/",
+        "chinese": "茶"
+      }
+    ]
+  },
+  {
+    "chinese": "请递给我黄油和果酱",
+    "english": "Please pass me the butter and jam",
+    "soundmark": "/pliːz pɑːs miː ðə ˈbʌtər ənd dʒæm/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "pass",
+        "role": "V",
+        "phonetic": "/pɑːs/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "the butter and jam",
+        "role": "O",
+        "phonetic": "/ðə ˈbʌtər ənd dʒæm/",
+        "chinese": "这个/那个/黄油/和/果酱"
+      }
+    ]
+  },
+  {
+    "chinese": "桌上有四个杯子",
+    "english": "There are four cups on the table",
+    "soundmark": "/ðeər ɑːr fɔːr kʌps ɒn ðə ˈteɪbl/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðeər/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "four cups",
+        "role": "S",
+        "phonetic": "/fɔːr kʌps/",
+        "chinese": "四/…们/复数(杯子)"
+      },
+      {
+        "text": "on the table",
+        "role": "A",
+        "phonetic": "/ɒn ðə ˈteɪbl/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "他喜欢在茶里放糖",
+    "english": "He likes sugar in his tea",
+    "soundmark": "/hiː laɪks ˈʃʊɡər ɪn hɪz tiː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "likes",
+        "role": "V",
+        "phonetic": "/laɪks/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "sugar",
+        "role": "O",
+        "phonetic": "/ˈʃʊɡər/",
+        "chinese": "糖"
+      },
+      {
+        "text": "in his tea",
+        "role": "A",
+        "phonetic": "/ɪn hɪz tiː/",
+        "chinese": "在…里/他的/茶"
+      }
+    ]
+  },
+  {
+    "chinese": "你今天早上吃了什么",
+    "english": "What did you eat this morning",
+    "soundmark": "/wɒt dɪd juː iːt ðɪs ˈmɔːnɪŋ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "this morning",
+        "role": "A",
+        "phonetic": "/ðɪs ˈmɔːnɪŋ/",
+        "chinese": "今天早上"
+      }
+    ]
+  },
+  {
+    "chinese": "我早餐吃了两个鸡蛋",
+    "english": "I had two eggs for breakfast",
+    "soundmark": "/aɪ hæd tuː eɡz fɔːr ˈbrekfəst/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "two eggs",
+        "role": "O",
+        "phonetic": "/tuː eɡz/",
+        "chinese": "二/…们/复数(鸡蛋)"
+      },
+      {
+        "text": "for breakfast",
+        "role": "A",
+        "phonetic": "/fɔːr ˈbrekfəst/",
+        "chinese": "早餐"
+      }
+    ]
+  },
+  {
+    "chinese": "桌子",
+    "english": "table",
+    "soundmark": "/ˈteɪbl/"
+  },
+  {
+    "chinese": "早晨",
+    "english": "morning",
+    "soundmark": "/ˈmɔːnɪŋ/"
+  },
+  {
+    "chinese": "玻璃杯",
+    "english": "glass",
+    "soundmark": "/ɡlɑːs/"
+  },
+  {
+    "chinese": "喜欢",
+    "english": "like",
+    "soundmark": "/laɪk/"
+  },
+  {
+    "chinese": "吃",
+    "english": "eat",
+    "soundmark": "/iːt/"
+  }
+]

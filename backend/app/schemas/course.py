@@ -16,6 +16,7 @@ class StatementOut(BaseModel):
     soundmark: str | None = None
     grammar: list | dict | None = None  # JSONB: 语法分析数组
     tts_audio_url: str | None = None
+    course_id: str | None = None  # 更多例句需要知道来源课程
 
     model_config = {"from_attributes": True}
 

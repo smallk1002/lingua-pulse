@@ -1,0 +1,1278 @@
+[
+  {
+    "chinese": "家庭",
+    "english": "family",
+    "soundmark": "/ˈfæməli/"
+  },
+  {
+    "chinese": "妈妈",
+    "english": "mother",
+    "soundmark": "/ˈmʌðər/"
+  },
+  {
+    "chinese": "爸爸",
+    "english": "father",
+    "soundmark": "/ˈfɑːðər/"
+  },
+  {
+    "chinese": "兄弟",
+    "english": "brother",
+    "soundmark": "/ˈbrʌðər/"
+  },
+  {
+    "chinese": "姐妹",
+    "english": "sister",
+    "soundmark": "/ˈsɪstər/"
+  },
+  {
+    "chinese": "爷爷",
+    "english": "grandfather",
+    "soundmark": "/ˈɡrænfɑːðər/"
+  },
+  {
+    "chinese": "奶奶",
+    "english": "grandmother",
+    "soundmark": "/ˈɡrænmʌðər/"
+  },
+  {
+    "chinese": "叔叔",
+    "english": "uncle",
+    "soundmark": "/ˈʌŋkəl/"
+  },
+  {
+    "chinese": "阿姨",
+    "english": "aunt",
+    "soundmark": "/ænt/"
+  },
+  {
+    "chinese": "儿子",
+    "english": "son",
+    "soundmark": "/sʌn/"
+  },
+  {
+    "chinese": "女儿",
+    "english": "daughter",
+    "soundmark": "/ˈdɔːtər/"
+  },
+  {
+    "chinese": "丈夫",
+    "english": "husband",
+    "soundmark": "/ˈhʌzbənd/"
+  },
+  {
+    "chinese": "妻子",
+    "english": "wife",
+    "soundmark": "/waɪf/"
+  },
+  {
+    "chinese": "堂兄弟",
+    "english": "cousin",
+    "soundmark": "/ˈkʌzən/"
+  },
+  {
+    "chinese": "亲戚",
+    "english": "relative",
+    "soundmark": "/ˈrelətɪv/"
+  },
+  {
+    "chinese": "大的",
+    "english": "big",
+    "soundmark": "/bɪɡ/"
+  },
+  {
+    "chinese": "小的",
+    "english": "small",
+    "soundmark": "/smɔːl/"
+  },
+  {
+    "chinese": "爱",
+    "english": "love",
+    "soundmark": "/lʌv/"
+  },
+  {
+    "chinese": "一起",
+    "english": "together",
+    "soundmark": "/təˈɡeðər/"
+  },
+  {
+    "chinese": "住",
+    "english": "live",
+    "soundmark": "/lɪv/"
+  },
+  {
+    "chinese": "这是我的家人",
+    "english": "This is my family",
+    "soundmark": "/ðɪs/ /ɪz/ /maɪ/ /ˈfæməli/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "family",
+        "role": "C",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      }
+    ]
+  },
+  {
+    "chinese": "我妈妈是医生",
+    "english": "My mother is a doctor",
+    "soundmark": "/maɪ/ /ˈmʌðər/ /ɪz/ /ə/ /ˈdɑːktər/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "mother",
+        "role": "S",
+        "phonetic": "/ˈmʌðər/",
+        "chinese": "母亲"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "doctor",
+        "role": "C",
+        "phonetic": "/ˈdɑːktər/",
+        "chinese": "医生"
+      }
+    ]
+  },
+  {
+    "chinese": "我爸爸是工程师",
+    "english": "My father is an engineer",
+    "soundmark": "/maɪ/ /ˈfɑːðər/ /ɪz/ /æn/ /ˌendʒɪˈnɪr/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "father",
+        "role": "S",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/æn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "engineer",
+        "role": "C",
+        "phonetic": "/ˌendʒɪˈnɪr/",
+        "chinese": "工程师"
+      }
+    ]
+  },
+  {
+    "chinese": "我有一个哥哥",
+    "english": "I have a brother",
+    "soundmark": "/aɪ/ /hæv/ /ə/ /ˈbrʌðər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "brother",
+        "role": "O",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      }
+    ]
+  },
+  {
+    "chinese": "我有一个姐姐",
+    "english": "I have a sister",
+    "soundmark": "/aɪ/ /hæv/ /ə/ /ˈsɪstər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "sister",
+        "role": "O",
+        "phonetic": "/ˈsɪstər/",
+        "chinese": "姐妹"
+      }
+    ]
+  },
+  {
+    "chinese": "他没有兄弟",
+    "english": "He has no brother",
+    "soundmark": "/hiː/ /hæz/ /noʊ/ /ˈbrʌðər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "brother",
+        "role": "O",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      }
+    ]
+  },
+  {
+    "chinese": "她有两个姐妹",
+    "english": "She has two sisters",
+    "soundmark": "/ʃiː/ /hæz/ /tuː/ /ˈsɪstərz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "sisters",
+        "role": "O",
+        "phonetic": "/ˈsɪstərz/",
+        "chinese": "…们/复数(姐妹)"
+      }
+    ]
+  },
+  {
+    "chinese": "你有兄弟姐妹吗",
+    "english": "Do you have any brothers or sisters",
+    "soundmark": "/duː/ /juː/ /hæv/ /ˈeni/ /ˈbrʌðərz/ /ɔːr/ /ˈsɪstərz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "brothers",
+        "role": "O",
+        "phonetic": "/ˈbrʌðərz/",
+        "chinese": "…们/复数(兄弟)"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "sisters",
+        "role": "O",
+        "phonetic": "/ˈsɪstərz/",
+        "chinese": "…们/复数(姐妹)"
+      }
+    ]
+  },
+  {
+    "chinese": "我爷爷很老了",
+    "english": "My grandfather is very old",
+    "soundmark": "/maɪ/ /ˈɡrænfɑːðər/ /ɪz/ /ˈveri/ /oʊld/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "grandfather",
+        "role": "S",
+        "phonetic": "/ˈɡrænfɑːðər/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      }
+    ]
+  },
+  {
+    "chinese": "我奶奶很慈祥",
+    "english": "My grandmother is very kind",
+    "soundmark": "/maɪ/ /ˈɡrænmʌðər/ /ɪz/ /ˈveri/ /kaɪnd/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "grandmother",
+        "role": "S",
+        "phonetic": "/ˈɡrænmʌðər/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "kind",
+        "role": "C",
+        "phonetic": "/kaɪnd/",
+        "chinese": "善良的"
+      }
+    ]
+  },
+  {
+    "chinese": "他是我叔叔杰克",
+    "english": "He is my uncle Jack",
+    "soundmark": "/hiː/ /ɪz/ /maɪ/ /ˈʌŋkəl/ /dʒæk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "uncle",
+        "role": "C",
+        "phonetic": "/ˈʌŋkəl/",
+        "chinese": "叔叔/舅舅"
+      },
+      {
+        "text": "Jack",
+        "role": "C",
+        "phonetic": "/dʒæk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她是我阿姨玛丽",
+    "english": "She is my aunt Mary",
+    "soundmark": "/ʃiː/ /ɪz/ /maɪ/ /ænt/ /ˈmeri/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "aunt",
+        "role": "C",
+        "phonetic": "/ænt/",
+        "chinese": "阿姨/姑姑"
+      },
+      {
+        "text": "Mary",
+        "role": "C",
+        "phonetic": "/ˈmeri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们家有五口人",
+    "english": "There are five people in my family",
+    "soundmark": "/ðer/ /ɑːr/ /faɪv/ /ˈpiːpəl/ /ɪn/ /maɪ/ /ˈfæməli/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "people",
+        "role": "C",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "family",
+        "role": "C",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      }
+    ]
+  },
+  {
+    "chinese": "我爱你妈妈",
+    "english": "I love you Mom",
+    "soundmark": "/aɪ/ /lʌv/ /juː/ /mɑːm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "love",
+        "role": "V",
+        "phonetic": "/lʌv/",
+        "chinese": "爱"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "Mom",
+        "role": "O",
+        "phonetic": "/mɑːm/",
+        "chinese": "妈妈"
+      }
+    ]
+  },
+  {
+    "chinese": "她的儿子很聪明",
+    "english": "Her son is very smart",
+    "soundmark": "/hɜːr/ /sʌn/ /ɪz/ /ˈveri/ /smɑːrt/",
+    "grammar": [
+      {
+        "text": "Her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "son",
+        "role": "S",
+        "phonetic": "/sʌn/",
+        "chinese": "儿子"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "smart",
+        "role": "C",
+        "phonetic": "/smɑːrt/",
+        "chinese": "聪明的"
+      }
+    ]
+  },
+  {
+    "chinese": "他的女儿很可爱",
+    "english": "His daughter is very cute",
+    "soundmark": "/hɪz/ /ˈdɔːtər/ /ɪz/ /ˈveri/ /kjuːt/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "daughter",
+        "role": "S",
+        "phonetic": "/ˈdɔːtər/",
+        "chinese": "女儿"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "cute",
+        "role": "C",
+        "phonetic": "/kjuːt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我有一个大家庭",
+    "english": "I have a big family",
+    "soundmark": "/aɪ/ /hæv/ /ə/ /bɪɡ/ /ˈfæməli/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "family",
+        "role": "O",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      }
+    ]
+  },
+  {
+    "chinese": "他是我的表哥我们住在一起",
+    "english": "He is my cousin and we live together",
+    "soundmark": "/hiː/ /ɪz/ /maɪ/ /ˈkʌzən/ /ænd/ /wiː/ /lɪv/ /təˈɡeðər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "cousin",
+        "role": "C",
+        "phonetic": "/ˈkʌzən/",
+        "chinese": "表/堂兄弟姐妹"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "together",
+        "role": "A",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      }
+    ]
+  },
+  {
+    "chinese": "我的家人住在北京",
+    "english": "My family lives in Beijing",
+    "soundmark": "/maɪ/ /ˈfæməli/ /lɪvz/ /ɪn/ /beɪˈdʒɪŋ/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "family",
+        "role": "S",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "lives",
+        "role": "V",
+        "phonetic": "/lɪvz/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Beijing",
+        "role": "A",
+        "phonetic": "/beɪˈdʒɪŋ/",
+        "chinese": "北京"
+      }
+    ]
+  },
+  {
+    "chinese": "你有几个孩子",
+    "english": "How many children do you have",
+    "soundmark": "/haʊ/ /ˈmeni/ /ˈtʃɪldrən/ /duː/ /juː/ /hæv/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "children",
+        "role": "O",
+        "phonetic": "/ˈtʃɪldrən/",
+        "chinese": "孩子们"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "我丈夫是个好爸爸",
+    "english": "My husband is a good father",
+    "soundmark": "/maɪ/ /ˈhʌzbənd/ /ɪz/ /ə/ /ɡʊd/ /ˈfɑːðər/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "husband",
+        "role": "S",
+        "phonetic": "/ˈhʌzbənd/",
+        "chinese": "丈夫"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "father",
+        "role": "C",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      }
+    ]
+  },
+  {
+    "chinese": "我妻子是个好妈妈",
+    "english": "My wife is a good mother",
+    "soundmark": "/maɪ/ /waɪf/ /ɪz/ /ə/ /ɡʊd/ /ˈmʌðər/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "wife",
+        "role": "S",
+        "phonetic": "/waɪf/",
+        "chinese": "妻子"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "mother",
+        "role": "C",
+        "phonetic": "/ˈmʌðər/",
+        "chinese": "母亲"
+      }
+    ]
+  },
+  {
+    "chinese": "你的家庭大吗不大但很幸福",
+    "english": "Is your family big No but we are very happy",
+    "soundmark": "/ɪz/ /jɔːr/ /ˈfæməli/ /bɪɡ/ /noʊ/ /bʌt/ /wiː/ /ɑːr/ /ˈveri/ /ˈhæpi/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "family",
+        "role": "S",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "happy",
+        "role": "C",
+        "phonetic": "/ˈhæpi/",
+        "chinese": "快乐的"
+      }
+    ]
+  },
+  {
+    "chinese": "我爷爷奶奶和我们住在一起",
+    "english": "My grandparents live with us",
+    "soundmark": "/maɪ/ /ˈɡrænperənts/ /lɪv/ /wɪð/ /ʌs/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "grandparents",
+        "role": "S",
+        "phonetic": "/ˈɡrænperənts/",
+        "chinese": "祖父母"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      }
+    ]
+  },
+  {
+    "chinese": "我和我的家人彼此相爱",
+    "english": "My family and I love each other",
+    "soundmark": "/maɪ/ /ˈfæməli/ /ænd/ /aɪ/ /lʌv/ /iːtʃ/ /ˈʌðər/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "family",
+        "role": "S",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "love",
+        "role": "V",
+        "phonetic": "/lʌv/",
+        "chinese": "爱"
+      },
+      {
+        "text": "each",
+        "role": "Det",
+        "phonetic": "/iːtʃ/",
+        "chinese": "每个"
+      },
+      {
+        "text": "other",
+        "role": "O",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      }
+    ]
+  },
+  {
+    "chinese": "我不和我的叔叔住在一起",
+    "english": "I do not live with my uncle",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /lɪv/ /wɪð/ /maɪ/ /ˈʌŋkəl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "uncle",
+        "role": "O",
+        "phonetic": "/ˈʌŋkəl/",
+        "chinese": "叔叔/舅舅"
+      }
+    ]
+  },
+  {
+    "chinese": "他是我唯一的兄弟",
+    "english": "He is my only brother",
+    "soundmark": "/hiː/ /ɪz/ /maɪ/ /ˈoʊnli/ /ˈbrʌðər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "brother",
+        "role": "C",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      }
+    ]
+  },
+  {
+    "chinese": "这些是我的亲戚不是我的朋友",
+    "english": "These are my relatives not my friends",
+    "soundmark": "/ðiːz/ /ɑːr/ /maɪ/ /ˈrelətɪvz/ /nɑːt/ /maɪ/ /frendz/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "S",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "relatives",
+        "role": "C",
+        "phonetic": "/ˈrelətɪvz/",
+        "chinese": "相对的"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "friends",
+        "role": "C",
+        "phonetic": "/frendz/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "医生",
+    "english": "doctor",
+    "soundmark": "/ˈdɑːktər/"
+  },
+  {
+    "chinese": "工程师",
+    "english": "engineer",
+    "soundmark": "/ˌendʒɪˈnɪr/"
+  },
+  {
+    "chinese": "善良的",
+    "english": "kind",
+    "soundmark": "/kaɪnd/"
+  },
+  {
+    "chinese": "幸福的",
+    "english": "happy",
+    "soundmark": "/ˈhæpi/"
+  },
+  {
+    "chinese": "每个",
+    "english": "each",
+    "soundmark": "/iːtʃ/"
+  },
+  {
+    "chinese": "其他的",
+    "english": "other",
+    "soundmark": "/ˈʌðər/"
+  },
+  {
+    "chinese": "有",
+    "english": "have",
+    "soundmark": "/hæv/"
+  },
+  {
+    "chinese": "有",
+    "english": "has",
+    "soundmark": "/hæz/"
+  },
+  {
+    "chinese": "和……一起",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "chinese": "没有",
+    "english": "no",
+    "soundmark": "/noʊ/"
+  }
+]

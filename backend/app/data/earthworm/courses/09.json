@@ -1,0 +1,1009 @@
+[
+  {
+    "chinese": "食物",
+    "english": "food",
+    "soundmark": "/fuːd/"
+  },
+  {
+    "chinese": "水",
+    "english": "water",
+    "soundmark": "/ˈwɔːtər/"
+  },
+  {
+    "chinese": "苹果",
+    "english": "apple",
+    "soundmark": "/ˈæpəl/"
+  },
+  {
+    "chinese": "面包",
+    "english": "bread",
+    "soundmark": "/bred/"
+  },
+  {
+    "chinese": "牛奶",
+    "english": "milk",
+    "soundmark": "/mɪlk/"
+  },
+  {
+    "chinese": "吃",
+    "english": "eat",
+    "soundmark": "/iːt/"
+  },
+  {
+    "chinese": "喝",
+    "english": "drink",
+    "soundmark": "/drɪŋk/"
+  },
+  {
+    "chinese": "米饭",
+    "english": "rice",
+    "soundmark": "/raɪs/"
+  },
+  {
+    "chinese": "肉",
+    "english": "meat",
+    "soundmark": "/miːt/"
+  },
+  {
+    "chinese": "鸡蛋",
+    "english": "egg",
+    "soundmark": "/eɡ/"
+  },
+  {
+    "chinese": "鱼",
+    "english": "fish",
+    "soundmark": "/fɪʃ/"
+  },
+  {
+    "chinese": "鸡肉",
+    "english": "chicken",
+    "soundmark": "/ˈtʃɪkən/"
+  },
+  {
+    "chinese": "蔬菜",
+    "english": "vegetable",
+    "soundmark": "/ˈvedʒtəbəl/"
+  },
+  {
+    "chinese": "水果",
+    "english": "fruit",
+    "soundmark": "/fruːt/"
+  },
+  {
+    "chinese": "蛋糕",
+    "english": "cake",
+    "soundmark": "/keɪk/"
+  },
+  {
+    "chinese": "果汁",
+    "english": "juice",
+    "soundmark": "/dʒuːs/"
+  },
+  {
+    "chinese": "咖啡",
+    "english": "coffee",
+    "soundmark": "/ˈkɔːfi/"
+  },
+  {
+    "chinese": "茶",
+    "english": "tea",
+    "soundmark": "/tiː/"
+  },
+  {
+    "chinese": "汤",
+    "english": "soup",
+    "soundmark": "/suːp/"
+  },
+  {
+    "chinese": "糖果",
+    "english": "candy",
+    "soundmark": "/ˈkændi/"
+  },
+  {
+    "chinese": "我饿了",
+    "english": "I am hungry",
+    "soundmark": "/aɪ/ /æm/ /ˈhʌŋɡri/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "hungry",
+        "role": "C",
+        "phonetic": "/ˈhʌŋɡri/",
+        "chinese": "饿的"
+      }
+    ]
+  },
+  {
+    "chinese": "我渴了",
+    "english": "I am thirsty",
+    "soundmark": "/aɪ/ /æm/ /ˈθɜːrsti/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "thirsty",
+        "role": "C",
+        "phonetic": "/ˈθɜːrsti/",
+        "chinese": "渴的"
+      }
+    ]
+  },
+  {
+    "chinese": "我吃一个苹果",
+    "english": "I eat an apple",
+    "soundmark": "/aɪ/ /iːt/ /æn/ /ˈæpəl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/æn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "apple",
+        "role": "O",
+        "phonetic": "/ˈæpəl/",
+        "chinese": "苹果"
+      }
+    ]
+  },
+  {
+    "chinese": "他喝水",
+    "english": "He drinks water",
+    "soundmark": "/hiː/ /drɪŋks/ /ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "drinks",
+        "role": "V",
+        "phonetic": "/drɪŋks/",
+        "chinese": "喝/饮料"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢牛奶吗",
+    "english": "Do you like milk",
+    "soundmark": "/duː/ /juː/ /laɪk/ /mɪlk/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "milk",
+        "role": "O",
+        "phonetic": "/mɪlk/",
+        "chinese": "挤奶/牛奶"
+      }
+    ]
+  },
+  {
+    "chinese": "我们吃米饭和鱼",
+    "english": "We eat rice and fish",
+    "soundmark": "/wiː/ /iːt/ /raɪs/ /ænd/ /fɪʃ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "rice",
+        "role": "O",
+        "phonetic": "/raɪs/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "fish",
+        "role": "O",
+        "phonetic": "/fɪʃ/",
+        "chinese": "钓鱼/鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "她要喝咖啡",
+    "english": "She wants to drink coffee",
+    "soundmark": "/ʃiː/ /wɑːnts/ /tuː/ /drɪŋk/ /ˈkɔːfi/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "wants",
+        "role": "V",
+        "phonetic": "/wɑːnts/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "drink",
+        "role": "V",
+        "phonetic": "/drɪŋk/",
+        "chinese": "喝/饮料"
+      },
+      {
+        "text": "coffee",
+        "role": "O",
+        "phonetic": "/ˈkɔːfi/",
+        "chinese": "咖啡"
+      }
+    ]
+  },
+  {
+    "chinese": "我不吃肉",
+    "english": "I do not eat meat",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /iːt/ /miːt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "meat",
+        "role": "O",
+        "phonetic": "/miːt/",
+        "chinese": "肉"
+      }
+    ]
+  },
+  {
+    "chinese": "早餐我吃面包喝牛奶",
+    "english": "I eat bread and drink milk for breakfast",
+    "soundmark": "/aɪ/ /iːt/ /bred/ /ænd/ /drɪŋk/ /mɪlk/ /fɔːr/ /ˈbrekfəst/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "bread",
+        "role": "O",
+        "phonetic": "/bred/",
+        "chinese": "面包"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "drink",
+        "role": "V",
+        "phonetic": "/drɪŋk/",
+        "chinese": "喝/饮料"
+      },
+      {
+        "text": "milk",
+        "role": "O",
+        "phonetic": "/mɪlk/",
+        "chinese": "挤奶/牛奶"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "breakfast",
+        "role": "A",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢吃什么水果",
+    "english": "What fruit do you like to eat",
+    "soundmark": "/wʌt/ /fruːt/ /duː/ /juː/ /laɪk/ /tuː/ /iːt/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "fruit",
+        "role": "O",
+        "phonetic": "/fruːt/",
+        "chinese": "水果"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      }
+    ]
+  },
+  {
+    "chinese": "这个蛋糕很好吃",
+    "english": "This cake is very delicious",
+    "soundmark": "/ðɪs/ /keɪk/ /ɪz/ /ˈveri/ /dɪˈlɪʃəs/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "cake",
+        "role": "S",
+        "phonetic": "/keɪk/",
+        "chinese": "蛋糕"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "delicious",
+        "role": "C",
+        "phonetic": "/dɪˈlɪʃəs/",
+        "chinese": "美味的"
+      }
+    ]
+  },
+  {
+    "chinese": "你想喝点果汁吗",
+    "english": "Do you want some juice",
+    "soundmark": "/duː/ /juː/ /wɑːnt/ /sʌm/ /dʒuːs/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "juice",
+        "role": "O",
+        "phonetic": "/dʒuːs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他不喜欢吃蔬菜",
+    "english": "He does not like vegetables",
+    "soundmark": "/hiː/ /dʌz/ /nɑːt/ /laɪk/ /ˈvedʒtəbəlz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "vegetables",
+        "role": "O",
+        "phonetic": "/ˈvedʒtəbəlz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我每天早上喝茶",
+    "english": "I drink tea every morning",
+    "soundmark": "/aɪ/ /drɪŋk/ /tiː/ /ˈevri/ /ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "drink",
+        "role": "V",
+        "phonetic": "/drɪŋk/",
+        "chinese": "喝/饮料"
+      },
+      {
+        "text": "tea",
+        "role": "O",
+        "phonetic": "/tiː/",
+        "chinese": "茶"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "她想要鸡肉和蔬菜汤",
+    "english": "She wants chicken and vegetable soup",
+    "soundmark": "/ʃiː/ /wɑːnts/ /ˈtʃɪkən/ /ænd/ /ˈvedʒtəbəl/ /suːp/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "wants",
+        "role": "V",
+        "phonetic": "/wɑːnts/",
+        "chinese": "想要"
+      },
+      {
+        "text": "chicken",
+        "role": "O",
+        "phonetic": "/ˈtʃɪkən/",
+        "chinese": "鸡肉/鸡"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "vegetable",
+        "role": "C",
+        "phonetic": "/ˈvedʒtəbəl/",
+        "chinese": ""
+      },
+      {
+        "text": "soup",
+        "role": "O",
+        "phonetic": "/suːp/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "孩子们喜欢糖果但是对牙齿不好",
+    "english": "Children like candy but it is not good for teeth",
+    "soundmark": "/ˈtʃɪldrən/ /laɪk/ /ˈkændi/ /bʌt/ /ɪt/ /ɪz/ /nɑːt/ /ɡʊd/ /fɔːr/ /tiːθ/",
+    "grammar": [
+      {
+        "text": "Children",
+        "role": "S",
+        "phonetic": "/ˈtʃɪldrən/",
+        "chinese": "孩子们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "candy",
+        "role": "O",
+        "phonetic": "/ˈkændi/",
+        "chinese": ""
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "teeth",
+        "role": "O",
+        "phonetic": "/tiːθ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "饿",
+    "english": "hungry",
+    "soundmark": "/ˈhʌŋɡri/"
+  },
+  {
+    "chinese": "渴",
+    "english": "thirsty",
+    "soundmark": "/ˈθɜːrsti/"
+  },
+  {
+    "chinese": "想要",
+    "english": "want",
+    "soundmark": "/wɑːnt/"
+  },
+  {
+    "chinese": "好吃的",
+    "english": "delicious",
+    "soundmark": "/dɪˈlɪʃəs/"
+  },
+  {
+    "chinese": "早餐",
+    "english": "breakfast",
+    "soundmark": "/ˈbrekfəst/"
+  },
+  {
+    "chinese": "午餐",
+    "english": "lunch",
+    "soundmark": "/lʌntʃ/"
+  },
+  {
+    "chinese": "晚餐",
+    "english": "dinner",
+    "soundmark": "/ˈdɪnər/"
+  },
+  {
+    "chinese": "为",
+    "english": "for",
+    "soundmark": "/fɔːr/"
+  },
+  {
+    "chinese": "你想喝点水吗好的",
+    "english": "Do you want some water Yes please",
+    "soundmark": "/duː/ /juː/ /wɑːnt/ /sʌm/ /ˈwɔːtər/ /jes/ /pliːz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "我喜欢水果但我不喜欢蔬菜",
+    "english": "I like fruit but I do not like vegetables",
+    "soundmark": "/aɪ/ /laɪk/ /fruːt/ /bʌt/ /aɪ/ /duː/ /nɑːt/ /laɪk/ /ˈvedʒtəbəlz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "fruit",
+        "role": "O",
+        "phonetic": "/fruːt/",
+        "chinese": "水果"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "vegetables",
+        "role": "O",
+        "phonetic": "/ˈvedʒtəbəlz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她每天早上喝咖啡",
+    "english": "She drinks coffee every morning",
+    "soundmark": "/ʃiː/ /drɪŋks/ /ˈkɔːfi/ /ˈevri/ /ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "drinks",
+        "role": "V",
+        "phonetic": "/drɪŋks/",
+        "chinese": "喝/饮料"
+      },
+      {
+        "text": "coffee",
+        "role": "O",
+        "phonetic": "/ˈkɔːfi/",
+        "chinese": "咖啡"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "你午餐吃什么",
+    "english": "What do you eat for lunch",
+    "soundmark": "/wʌt/ /duː/ /juː/ /iːt/ /fɔːr/ /lʌntʃ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "lunch",
+        "role": "A",
+        "phonetic": "/lʌntʃ/",
+        "chinese": "午餐"
+      }
+    ]
+  },
+  {
+    "chinese": "汤太烫了",
+    "english": "The soup is too hot",
+    "soundmark": "/ðə/ /suːp/ /ɪz/ /tuː/ /hɑːt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "soup",
+        "role": "S",
+        "phonetic": "/suːp/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "hot",
+        "role": "C",
+        "phonetic": "/hɑːt/",
+        "chinese": "热的"
+      }
+    ]
+  },
+  {
+    "chinese": "甜的",
+    "english": "sweet",
+    "soundmark": "/swiːt/"
+  },
+  {
+    "chinese": "酸的",
+    "english": "sour",
+    "soundmark": "/saʊər/"
+  },
+  {
+    "chinese": "瓶子",
+    "english": "bottle",
+    "soundmark": "/ˈbɑːtəl/"
+  },
+  {
+    "chinese": "咸的",
+    "english": "salty",
+    "soundmark": "/ˈsɔːlti/"
+  },
+  {
+    "chinese": "牙齿",
+    "english": "teeth",
+    "soundmark": "/tiːθ/"
+  },
+  {
+    "chinese": "每",
+    "english": "every",
+    "soundmark": "/ˈevri/"
+  }
+]

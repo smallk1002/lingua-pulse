@@ -1,0 +1,287 @@
+[
+  {
+    "chinese": "黏糊的",
+    "english": "sticky",
+    "soundmark": "/ˈstɪki/"
+  },
+  {
+    "chinese": "手指",
+    "english": "fingers",
+    "soundmark": "/ˈfɪŋɡərz/"
+  },
+  {
+    "chinese": "邮局",
+    "english": "post office",
+    "soundmark": "/poʊst ˈɑːfɪs/"
+  },
+  {
+    "chinese": "称重",
+    "english": "weigh",
+    "soundmark": "/weɪ/"
+  },
+  {
+    "chinese": "天平",
+    "english": "scale",
+    "soundmark": "/skeɪl/"
+  },
+  {
+    "chinese": "包裹",
+    "english": "parcel",
+    "soundmark": "/ˈpɑːrsl/"
+  },
+  {
+    "chinese": "遗憾",
+    "english": "regret",
+    "soundmark": "/rɪˈɡret/"
+  },
+  {
+    "chinese": "粘",
+    "english": "stick",
+    "soundmark": "/stɪk/"
+  },
+  {
+    "chinese": "她正在称包裹的时候手指粘住了。",
+    "english": "Her fingers got sticky while she was weighing the parcel",
+    "soundmark": "/hɜːr ˈfɪŋɡərz ɡɑːt ˈstɪki waɪl ʃiː wʌz ˈweɪɪŋ ðə ˈpɑːrsl/",
+    "grammar": [
+      {
+        "text": "Her fingers",
+        "role": "S",
+        "phonetic": "/hɜːr ˈfɪŋɡərz/",
+        "chinese": "她/她的/手指"
+      },
+      {
+        "text": "got",
+        "role": "V",
+        "phonetic": "/ɡɑːt/",
+        "chinese": "得到（过去式）"
+      },
+      {
+        "text": "sticky",
+        "role": "C",
+        "phonetic": "/ˈstɪki/",
+        "chinese": ""
+      },
+      {
+        "text": "while she was weighing the parcel",
+        "role": "A",
+        "phonetic": "/waɪl ʃiː wʌz ˈweɪɪŋ ðə ˈpɑːrsl/",
+        "chinese": "当…时/而/她/是（过去式）/这个/那个/包裹"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在邮局的时候看到一个朋友。",
+    "english": "I was at the post office when I saw a friend",
+    "soundmark": "/aɪ wʌz æt ðə poʊst ˈɑːfɪs wen aɪ sɔː ə frend/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "at the post office",
+        "role": "A",
+        "phonetic": "/æt ðə poʊst ˈɑːfɪs/",
+        "chinese": "在/这个/那个/办公室"
+      },
+      {
+        "text": "when I saw a friend",
+        "role": "A",
+        "phonetic": "/wen aɪ sɔː ə frend/",
+        "chinese": "什么时候/我/看见（过去式）/一个/朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "他正在称包裹时意识到超重了。",
+    "english": "He was weighing the parcel when he realized it was overweight",
+    "soundmark": "/hiː wʌz ˈweɪɪŋ ðə ˈpɑːrsl wen hiː ˈriːəlaɪzd ɪt wʌz ˌoʊvərˈweɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was weighing",
+        "role": "V",
+        "phonetic": "/wʌz ˈweɪɪŋ/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the parcel",
+        "role": "O",
+        "phonetic": "/ðə ˈpɑːrsl/",
+        "chinese": "这个/那个/包裹"
+      },
+      {
+        "text": "when he realized it was overweight",
+        "role": "A",
+        "phonetic": "/wen hiː ˈriːəlaɪzd ɪt wʌz ˌoʊvərˈweɪt/",
+        "chinese": "什么时候/他/意识到/它/是（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "邮递员正在分拣邮件时那包裹破了。",
+    "english": "The postman was sorting the mail when the parcel broke open",
+    "soundmark": "/ðə ˈpoʊstmən wʌz ˈsɔːrtɪŋ ðə meɪl wen ðə ˈpɑːrsl broʊk ˈoʊpən/",
+    "grammar": [
+      {
+        "text": "The postman",
+        "role": "S",
+        "phonetic": "/ðə ˈpoʊstmən/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "was sorting",
+        "role": "V",
+        "phonetic": "/wʌz ˈsɔːrtɪŋ/",
+        "chinese": "是（过去式）/种类"
+      },
+      {
+        "text": "the mail",
+        "role": "O",
+        "phonetic": "/ðə meɪl/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "when the parcel broke open",
+        "role": "A",
+        "phonetic": "/wen ðə ˈpɑːrsl broʊk ˈoʊpən/",
+        "chinese": "什么时候/这个/那个/包裹/打开"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在付钱的时候发现手指上粘了胶水。",
+    "english": "I was paying when I found my fingers sticky with glue",
+    "soundmark": "/aɪ wʌz ˈpeɪɪŋ wen aɪ faʊnd maɪ ˈfɪŋɡərz ˈstɪki wɪð ɡluː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was paying",
+        "role": "V",
+        "phonetic": "/wʌz ˈpeɪɪŋ/",
+        "chinese": "是（过去式）/付钱"
+      },
+      {
+        "text": "when I found my fingers sticky with glue",
+        "role": "A",
+        "phonetic": "/wen aɪ faʊnd maɪ ˈfɪŋɡərz ˈstɪki wɪð ɡluː/",
+        "chinese": "什么时候/我/找到的/我的/手指/和/用"
+      }
+    ]
+  },
+  {
+    "chinese": "他当时正在使用天平秤包裹的重量。",
+    "english": "He was using the scale to weigh the package",
+    "soundmark": "/hiː wʌz ˈjuːzɪŋ ðə skeɪl tuː weɪ ðə ˈpækɪdʒ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was using",
+        "role": "V",
+        "phonetic": "/wʌz ˈjuːzɪŋ/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the scale",
+        "role": "O",
+        "phonetic": "/ðə skeɪl/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "to weigh the package",
+        "role": "A",
+        "phonetic": "/tuː weɪ ðə ˈpækɪdʒ/",
+        "chinese": "到/向/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "她遗憾地说她的黏手指把包裹弄坏了。",
+    "english": "She regretfully said her sticky fingers had ruined the parcel",
+    "soundmark": "/ʃiː rɪˈɡretfəli sed hɜːr ˈstɪki ˈfɪŋɡərz hæd ˈruːɪnd ðə ˈpɑːrsl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "regretfully said",
+        "role": "V",
+        "phonetic": "/rɪˈɡretfəli sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "her sticky fingers had ruined the parcel",
+        "role": "O",
+        "phonetic": "/hɜːr ˈstɪki ˈfɪŋɡərz hæd ˈruːɪnd ðə ˈpɑːrsl/",
+        "chinese": "她/她的/手指/有/助动词（过去式）/这个/那个/包裹"
+      }
+    ]
+  },
+  {
+    "chinese": "超重",
+    "english": "overweight",
+    "soundmark": "/ˌoʊvərˈweɪt/"
+  },
+  {
+    "chinese": "邮递员",
+    "english": "postman",
+    "soundmark": "/ˈpoʊstmən/"
+  },
+  {
+    "chinese": "分拣",
+    "english": "sort",
+    "soundmark": "/sɔːrt/"
+  },
+  {
+    "chinese": "胶水",
+    "english": "glue",
+    "soundmark": "/ɡluː/"
+  },
+  {
+    "chinese": "破坏",
+    "english": "ruin",
+    "soundmark": "/ˈruːɪn/"
+  },
+  {
+    "chinese": "包裹",
+    "english": "package",
+    "soundmark": "/ˈpækɪdʒ/"
+  },
+  {
+    "chinese": "邮件",
+    "english": "mail",
+    "soundmark": "/meɪl/"
+  },
+  {
+    "chinese": "遗憾地",
+    "english": "regretfully",
+    "soundmark": "/rɪˈɡretfəli/"
+  }
+]

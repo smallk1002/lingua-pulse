@@ -1,0 +1,517 @@
+[
+  {
+    "chinese": "石油",
+    "english": "oil",
+    "soundmark": "/ɔɪl/"
+  },
+  {
+    "chinese": "勘探",
+    "english": "exploration",
+    "soundmark": "/ˌekspləˈreɪʃn/"
+  },
+  {
+    "chinese": "钻井",
+    "english": "drilling",
+    "soundmark": "/ˈdrɪlɪŋ/"
+  },
+  {
+    "chinese": "地质学家",
+    "english": "geologist",
+    "soundmark": "/dʒiˈɑːlədʒɪst/"
+  },
+  {
+    "chinese": "储层",
+    "english": "reservoir",
+    "soundmark": "/ˈrezərvwɑːr/"
+  },
+  {
+    "chinese": "地震勘探",
+    "english": "seismic survey",
+    "soundmark": "/ˈsaɪzmɪk/ /ˈsɜːrveɪ/"
+  },
+  {
+    "chinese": "沉积岩",
+    "english": "sedimentary rock",
+    "soundmark": "/ˌsedɪˈmentri/ /rɑːk/"
+  },
+  {
+    "chinese": "原油",
+    "english": "crude oil",
+    "soundmark": "/kruːd/ /ɔɪl/"
+  },
+  {
+    "chinese": "开采",
+    "english": "extract",
+    "soundmark": "/ɪkˈstrækt/"
+  },
+  {
+    "chinese": "储量",
+    "english": "reserve",
+    "soundmark": "/rɪˈzɜːrv/"
+  },
+  {
+    "chinese": "钻头",
+    "english": "drill bit",
+    "soundmark": "/drɪl/ /bɪt/"
+  },
+  {
+    "chinese": "管道",
+    "english": "pipeline",
+    "soundmark": "/ˈpaɪplaɪn/"
+  },
+  {
+    "chinese": "炼油厂",
+    "english": "refinery",
+    "soundmark": "/rɪˈfaɪnəri/"
+  },
+  {
+    "chinese": "大陆架",
+    "english": "continental shelf",
+    "soundmark": "/ˌkɑːntɪˈnentl/ /ʃelf/"
+  },
+  {
+    "chinese": "化石燃料",
+    "english": "fossil fuel",
+    "soundmark": "/ˈfɑːsl/ /ˈfjuːəl/"
+  },
+  {
+    "chinese": "地质勘探",
+    "english": "geological survey",
+    "soundmark": "/ˌdʒiːəˈlɑːdʒɪkl/ /ˈsɜːrveɪ/"
+  },
+  {
+    "chinese": "探测石油储量",
+    "english": "locate oil reserves",
+    "soundmark": "/ˈloʊkeɪt/ /ɔɪl/ /rɪˈzɜːrvz/"
+  },
+  {
+    "chinese": "地震波反射",
+    "english": "seismic wave reflection",
+    "soundmark": "/ˈsaɪzmɪk/ /weɪv/ /rɪˈflekʃn/"
+  },
+  {
+    "chinese": "打一口探井",
+    "english": "drill an exploratory well",
+    "soundmark": "/drɪl/ /æn/ /ɪkˈsplɔːrətɔːri/ /wel/"
+  },
+  {
+    "chinese": "勘测海底地质结构",
+    "english": "survey the geological structure of the seabed",
+    "soundmark": "/ˈsɜːrveɪ/ /ðə/ /ˌdʒiːəˈlɑːdʒɪkl/ /ˈstrʌktʃər/ /ʌv/ /ðə/ /ˈsiːbed/"
+  },
+  {
+    "chinese": "地质学家正在使用地震设备寻找新的油田",
+    "english": "geologists are using seismic equipment to locate new oil fields",
+    "soundmark": "/dʒiˈɑːlədʒɪsts/ /ɑːr/ /ˈjuːzɪŋ/ /ˈsaɪzmɪk/ /ɪˈkwɪpmənt/ /tuː/ /ˈloʊkeɪt/ /nuː/ /ɔɪl/ /fiːldz/",
+    "grammar": [
+      {
+        "text": "geologists",
+        "role": "S",
+        "phonetic": "/dʒiˈɑːlədʒɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "using",
+        "role": "V",
+        "phonetic": "/ˈjuːzɪŋ/",
+        "chinese": "我们"
+      },
+      {
+        "text": "seismic",
+        "role": "A",
+        "phonetic": "/ˈsaɪzmɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "equipment",
+        "role": "O",
+        "phonetic": "/ɪˈkwɪpmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "locate",
+        "role": "V",
+        "phonetic": "/ˈloʊkeɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "oil",
+        "role": "A",
+        "phonetic": "/ɔɪl/",
+        "chinese": "油/石油"
+      },
+      {
+        "text": "fields",
+        "role": "O",
+        "phonetic": "/fiːldz/",
+        "chinese": "田野/领域"
+      }
+    ]
+  },
+  {
+    "chinese": "石油是通过钻穿数千米深的沉积岩来开采的",
+    "english": "oil is extracted by drilling through thousands of metres of sedimentary rock",
+    "soundmark": "/ɔɪl/ /ɪz/ /ɪkˈstræktɪd/ /baɪ/ /ˈdrɪlɪŋ/ /θruː/ /ˈθaʊzndz/ /ʌv/ /ˈmiːtərz/ /ʌv/ /ˌsedɪˈmentri/ /rɑːk/",
+    "grammar": [
+      {
+        "text": "oil",
+        "role": "S",
+        "phonetic": "/ɔɪl/",
+        "chinese": "油/石油"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "extracted",
+        "role": "V",
+        "phonetic": "/ɪkˈstræktɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "drilling",
+        "role": "V",
+        "phonetic": "/ˈdrɪlɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "through",
+        "role": "P",
+        "phonetic": "/θruː/",
+        "chinese": "通过/穿过"
+      },
+      {
+        "text": "thousands",
+        "role": "O",
+        "phonetic": "/ˈθaʊzndz/",
+        "chinese": "千"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "metres",
+        "role": "O",
+        "phonetic": "/ˈmiːtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "sedimentary",
+        "role": "A",
+        "phonetic": "/ˌsedɪˈmentri/",
+        "chinese": ""
+      },
+      {
+        "text": "rock",
+        "role": "O",
+        "phonetic": "/rɑːk/",
+        "chinese": "岩石"
+      }
+    ]
+  },
+  {
+    "chinese": "通过勘测海底他们发现了巨大的石油储量",
+    "english": "by surveying the seabed they have discovered enormous oil reserves",
+    "soundmark": "/baɪ/ /ˈsɜːrveɪɪŋ/ /ðə/ /ˈsiːbed/ /ðeɪ/ /hæv/ /dɪˈskʌvərd/ /ɪˈnɔːrməs/ /ɔɪl/ /rɪˈzɜːrvz/",
+    "grammar": [
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "surveying",
+        "role": "V",
+        "phonetic": "/ˈsɜːrveɪɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "seabed",
+        "role": "O",
+        "phonetic": "/ˈsiːbed/",
+        "chinese": ""
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "enormous",
+        "role": "A",
+        "phonetic": "/ɪˈnɔːrməs/",
+        "chinese": "庞大的"
+      },
+      {
+        "text": "oil",
+        "role": "A",
+        "phonetic": "/ɔɪl/",
+        "chinese": "油/石油"
+      },
+      {
+        "text": "reserves",
+        "role": "O",
+        "phonetic": "/rɪˈzɜːrvz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在钻了三个月后他们终于打到了储油层",
+    "english": "having drilled for three months they finally struck the reservoir",
+    "soundmark": "/ˈhævɪŋ/ /drɪld/ /fɔːr/ /θriː/ /mʌnθs/ /ðeɪ/ /ˈfaɪnəli/ /strʌk/ /ðə/ /ˈrezərvwɑːr/",
+    "grammar": [
+      {
+        "text": "having",
+        "role": "Aux",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "drilled",
+        "role": "V",
+        "phonetic": "/drɪld/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "three",
+        "role": "A",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "months",
+        "role": "O",
+        "phonetic": "/mʌnθs/",
+        "chinese": "月"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "finally",
+        "role": "Adv",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "struck",
+        "role": "V",
+        "phonetic": "/strʌk/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "reservoir",
+        "role": "O",
+        "phonetic": "/ˈrezərvwɑːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "寻找新的石油资源是当今最紧迫的任务之一",
+    "english": "finding new sources of oil is one of the most urgent tasks today",
+    "soundmark": "/ˈfaɪndɪŋ/ /nuː/ /ˈsɔːrsɪz/ /ʌv/ /ɔɪl/ /ɪz/ /wʌn/ /ʌv/ /ðə/ /moʊst/ /ˈɜːrdʒənt/ /tæsks/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "finding",
+        "role": "V",
+        "phonetic": "/ˈfaɪndɪŋ/",
+        "chinese": "找到"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "sources",
+        "role": "O",
+        "phonetic": "/ˈsɔːrsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "oil",
+        "role": "O",
+        "phonetic": "/ɔɪl/",
+        "chinese": "油/石油"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "one",
+        "role": "C",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "urgent",
+        "role": "A",
+        "phonetic": "/ˈɜːrdʒənt/",
+        "chinese": ""
+      },
+      {
+        "text": "tasks",
+        "role": "O",
+        "phonetic": "/tæsks/",
+        "chinese": ""
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "巨大的",
+    "english": "enormous",
+    "soundmark": "/ɪˈnɔːrməs/"
+  },
+  {
+    "chinese": "紧迫的",
+    "english": "urgent",
+    "soundmark": "/ˈɜːrdʒənt/"
+  },
+  {
+    "chinese": "打击",
+    "english": "strike",
+    "soundmark": "/straɪk/"
+  },
+  {
+    "chinese": "勘测",
+    "english": "survey",
+    "soundmark": "/ˈsɜːrveɪ/"
+  },
+  {
+    "chinese": "任务",
+    "english": "task",
+    "soundmark": "/tæsk/"
+  },
+  {
+    "chinese": "来源",
+    "english": "source",
+    "soundmark": "/sɔːrs/"
+  },
+  {
+    "chinese": "设备",
+    "english": "equipment",
+    "soundmark": "/ɪˈkwɪpmənt/"
+  },
+  {
+    "chinese": "结构",
+    "english": "structure",
+    "soundmark": "/ˈstrʌktʃər/"
+  },
+  {
+    "chinese": "油田",
+    "english": "oil field",
+    "soundmark": "/ɔɪl/ /fiːld/"
+  },
+  {
+    "chinese": "海床",
+    "english": "seabed",
+    "soundmark": "/ˈsiːbed/"
+  }
+]

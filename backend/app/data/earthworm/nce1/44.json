@@ -1,0 +1,981 @@
+[
+  {
+    "chinese": "必须",
+    "english": "must",
+    "soundmark": "/mʌst/"
+  },
+  {
+    "chinese": "禁止",
+    "english": "must not",
+    "soundmark": "/mʌst nɑːt/"
+  },
+  {
+    "chinese": "规则",
+    "english": "rule",
+    "soundmark": "/ruːl/"
+  },
+  {
+    "chinese": "安静的",
+    "english": "quiet",
+    "soundmark": "/ˈkwaɪət/"
+  },
+  {
+    "chinese": "吵闹的",
+    "english": "noisy",
+    "soundmark": "/ˈnɔɪzi/"
+  },
+  {
+    "chinese": "快点",
+    "english": "hurry",
+    "soundmark": "/ˈhɜːri/"
+  },
+  {
+    "chinese": "迟到",
+    "english": "late",
+    "soundmark": "/leɪt/"
+  },
+  {
+    "chinese": "忘记",
+    "english": "forget",
+    "soundmark": "/fərˈɡet/"
+  },
+  {
+    "chinese": "记得",
+    "english": "remember",
+    "soundmark": "/rɪˈmembər/"
+  },
+  {
+    "chinese": "停车",
+    "english": "park",
+    "soundmark": "/pɑːrk/"
+  },
+  {
+    "chinese": "吸烟",
+    "english": "smoke",
+    "soundmark": "/smoʊk/"
+  },
+  {
+    "chinese": "你必须现在离开",
+    "english": "You must leave now",
+    "soundmark": "/juː mʌst liːv naʊ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "我必须完成作业",
+    "english": "I must finish my homework",
+    "soundmark": "/aɪ mʌst ˈfɪnɪʃ maɪ ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "finish",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "chinese": "完成"
+      },
+      {
+        "text": "my homework",
+        "role": "O",
+        "phonetic": "/maɪ ˈhoʊmwɜːrk/",
+        "chinese": "我的/家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "你不能在这里停车",
+    "english": "You must not park here",
+    "soundmark": "/juː mʌst nɑːt pɑːrk hɪr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must not",
+        "role": "V",
+        "phonetic": "/mʌst nɑːt/",
+        "chinese": "必须/不"
+      },
+      {
+        "text": "park",
+        "role": "V",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "图书馆里必须保持安静",
+    "english": "You must be quiet in the library",
+    "soundmark": "/juː mʌst biː ˈkwaɪət ɪn ðə ˈlaɪbreri/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "quiet",
+        "role": "C",
+        "phonetic": "/ˈkwaɪət/",
+        "chinese": "安静的"
+      },
+      {
+        "text": "in the library",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈlaɪbreri/",
+        "chinese": "在…里/这个/那个/图书馆"
+      }
+    ]
+  },
+  {
+    "chinese": "你不能在学校吸烟",
+    "english": "You must not smoke at school",
+    "soundmark": "/juː mʌst nɑːt smoʊk æt skuːl/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must not",
+        "role": "V",
+        "phonetic": "/mʌst nɑːt/",
+        "chinese": "必须/不"
+      },
+      {
+        "text": "smoke",
+        "role": "V",
+        "phonetic": "/smoʊk/",
+        "chinese": "抽烟/烟"
+      },
+      {
+        "text": "at school",
+        "role": "A",
+        "phonetic": "/æt skuːl/",
+        "chinese": "在学校"
+      }
+    ]
+  },
+  {
+    "chinese": "我们必须快点否则就会迟到",
+    "english": "We must hurry or we will be late",
+    "soundmark": "/wiː mʌst ˈhɜːri ɔːr wiː wɪl biː leɪt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "hurry",
+        "role": "V",
+        "phonetic": "/ˈhɜːri/",
+        "chinese": ""
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will be",
+        "role": "V",
+        "phonetic": "/wɪl biː/",
+        "chinese": "将会是"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我必须记得带护照",
+    "english": "I must remember to bring my passport",
+    "soundmark": "/aɪ mʌst rɪˈmembər tuː brɪŋ maɪ ˈpæspɔːrt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "remember",
+        "role": "V",
+        "phonetic": "/rɪˈmembər/",
+        "chinese": "记住"
+      },
+      {
+        "text": "to bring",
+        "role": "V",
+        "phonetic": "/tuː brɪŋ/",
+        "chinese": "到/向/带来"
+      },
+      {
+        "text": "my passport",
+        "role": "O",
+        "phonetic": "/maɪ ˈpæspɔːrt/",
+        "chinese": "我的"
+      }
+    ]
+  },
+  {
+    "chinese": "你不能忘记锁门",
+    "english": "You must not forget to lock the door",
+    "soundmark": "/juː mʌst nɑːt fərˈɡet tuː lɑːk ðə dɔːr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must not",
+        "role": "V",
+        "phonetic": "/mʌst nɑːt/",
+        "chinese": "必须/不"
+      },
+      {
+        "text": "forget",
+        "role": "V",
+        "phonetic": "/fərˈɡet/",
+        "chinese": "忘记"
+      },
+      {
+        "text": "to lock",
+        "role": "V",
+        "phonetic": "/tuː lɑːk/",
+        "chinese": "到/向/锁"
+      },
+      {
+        "text": "the door",
+        "role": "O",
+        "phonetic": "/ðə dɔːr/",
+        "chinese": "这个/那个/门"
+      }
+    ]
+  },
+  {
+    "chinese": "我必须遵守规则吗",
+    "english": "Must I follow the rules",
+    "soundmark": "/mʌst aɪ ˈfɑːloʊ ðə ruːlz/",
+    "grammar": [
+      {
+        "text": "Must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "follow",
+        "role": "V",
+        "phonetic": "/ˈfɑːloʊ/",
+        "chinese": "跟随"
+      },
+      {
+        "text": "the rules",
+        "role": "O",
+        "phonetic": "/ðə ruːlz/",
+        "chinese": "这个/那个/…们/复数(规则/统治)"
+      }
+    ]
+  },
+  {
+    "chinese": "是的你必须",
+    "english": "Yes you must",
+    "soundmark": "/jes juː mʌst/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      }
+    ]
+  },
+  {
+    "chinese": "你不能在游泳池边跑",
+    "english": "You must not run near the pool",
+    "soundmark": "/juː mʌst nɑːt rʌn nɪr ðə puːl/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must not",
+        "role": "V",
+        "phonetic": "/mʌst nɑːt/",
+        "chinese": "必须/不"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "near the pool",
+        "role": "A",
+        "phonetic": "/nɪr ðə puːl/",
+        "chinese": "在…附近/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我们现在必须回家吗",
+    "english": "Must we go home now",
+    "soundmark": "/mʌst wiː ɡoʊ hoʊm naʊ/",
+    "grammar": [
+      {
+        "text": "Must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "每个学生都必须穿校服",
+    "english": "Every student must wear a school uniform",
+    "soundmark": "/ˈevri ˈstuːdənt mʌst wer ə skuːl ˈjuːnɪfɔːrm/",
+    "grammar": [
+      {
+        "text": "Every student",
+        "role": "S",
+        "phonetic": "/ˈevri ˈstuːdənt/",
+        "chinese": "每个/学生"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "wear",
+        "role": "V",
+        "phonetic": "/wer/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "a school uniform",
+        "role": "O",
+        "phonetic": "/ə skuːl ˈjuːnɪfɔːrm/",
+        "chinese": "一个/学校/制服"
+      }
+    ]
+  },
+  {
+    "chinese": "你不能在没系安全带的情况下开车",
+    "english": "You must not drive without a seatbelt",
+    "soundmark": "/juː mʌst nɑːt draɪv wɪˈðaʊt ə ˈsiːtbelt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must not",
+        "role": "V",
+        "phonetic": "/mʌst nɑːt/",
+        "chinese": "必须/不"
+      },
+      {
+        "text": "drive",
+        "role": "V",
+        "phonetic": "/draɪv/",
+        "chinese": "驾驶"
+      },
+      {
+        "text": "without a seatbelt",
+        "role": "A",
+        "phonetic": "/wɪˈðaʊt ə ˈsiːtbelt/",
+        "chinese": "没有/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "安静",
+    "english": "quiet",
+    "soundmark": "/ˈkwaɪət/"
+  },
+  {
+    "chinese": "锁门",
+    "english": "lock the door",
+    "soundmark": "/lɑːk ðə dɔːr/"
+  },
+  {
+    "chinese": "护照",
+    "english": "passport",
+    "soundmark": "/ˈpæspɔːrt/"
+  },
+  {
+    "chinese": "遵守",
+    "english": "follow",
+    "soundmark": "/ˈfɑːloʊ/"
+  },
+  {
+    "chinese": "泳池",
+    "english": "pool",
+    "soundmark": "/puːl/"
+  },
+  {
+    "chinese": "校服",
+    "english": "school uniform",
+    "soundmark": "/skuːl ˈjuːnɪfɔːrm/"
+  },
+  {
+    "chinese": "安全带",
+    "english": "seatbelt",
+    "soundmark": "/ˈsiːtbelt/"
+  },
+  {
+    "chinese": "离开",
+    "english": "leave",
+    "soundmark": "/liːv/"
+  },
+  {
+    "chinese": "必须不",
+    "english": "must not",
+    "soundmark": "/mʌst nɑːt/"
+  },
+  {
+    "chinese": "快点",
+    "english": "hurry up",
+    "soundmark": "/ˈhɜːri ʌp/"
+  },
+  {
+    "chinese": "你必须尊重你的老师",
+    "english": "You must respect your teachers",
+    "soundmark": "/juː mʌst rɪˈspekt jɔːr ˈtiːtʃərz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "respect",
+        "role": "V",
+        "phonetic": "/rɪˈspekt/",
+        "chinese": "尊重"
+      },
+      {
+        "text": "your teachers",
+        "role": "O",
+        "phonetic": "/jɔːr ˈtiːtʃərz/",
+        "chinese": "你的/你们的/…们/复数(老师)"
+      }
+    ]
+  },
+  {
+    "chinese": "你吃饭前必须洗手吗",
+    "english": "Must you wash your hands before eating",
+    "soundmark": "/mʌst juː wɑːʃ jɔːr hændz bɪˈfɔːr ˈiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "Must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "wash",
+        "role": "V",
+        "phonetic": "/wɑːʃ/",
+        "chinese": "洗"
+      },
+      {
+        "text": "your hands",
+        "role": "O",
+        "phonetic": "/jɔːr hændz/",
+        "chinese": "你的/你们的/…们/复数(手)"
+      },
+      {
+        "text": "before eating",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr ˈiːtɪŋ/",
+        "chinese": "在…之前/吃"
+      }
+    ]
+  },
+  {
+    "chinese": "是的我必须",
+    "english": "Yes I must",
+    "soundmark": "/jes aɪ mʌst/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      }
+    ]
+  },
+  {
+    "chinese": "你不能在这栋楼里抽烟",
+    "english": "You must not smoke in this building",
+    "soundmark": "/juː mʌst nɑːt smoʊk ɪn ðɪs ˈbɪldɪŋ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must not",
+        "role": "V",
+        "phonetic": "/mʌst nɑːt/",
+        "chinese": "必须/不"
+      },
+      {
+        "text": "smoke",
+        "role": "V",
+        "phonetic": "/smoʊk/",
+        "chinese": "抽烟/烟"
+      },
+      {
+        "text": "in this building",
+        "role": "A",
+        "phonetic": "/ɪn ðɪs ˈbɪldɪŋ/",
+        "chinese": "在…里/这个/建造"
+      }
+    ]
+  },
+  {
+    "chinese": "每个司机都必须系安全带",
+    "english": "Every driver must wear a seatbelt",
+    "soundmark": "/ˈevri ˈdraɪvər mʌst wer ə ˈsiːtbelt/",
+    "grammar": [
+      {
+        "text": "Every driver",
+        "role": "S",
+        "phonetic": "/ˈevri ˈdraɪvər/",
+        "chinese": "每个/更…的/…者(驾驶)"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "wear",
+        "role": "V",
+        "phonetic": "/wer/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "a seatbelt",
+        "role": "O",
+        "phonetic": "/ə ˈsiːtbelt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "你必须八点之前到吗",
+    "english": "Must you arrive before eight",
+    "soundmark": "/mʌst juː əˈraɪv bɪˈfɔːr eɪt/",
+    "grammar": [
+      {
+        "text": "Must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "arrive",
+        "role": "V",
+        "phonetic": "/əˈraɪv/",
+        "chinese": "到达"
+      },
+      {
+        "text": "before eight",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr eɪt/",
+        "chinese": "在…之前/八"
+      }
+    ]
+  },
+  {
+    "chinese": "不你不必但最好是",
+    "english": "No you do not have to but it is better",
+    "soundmark": "/noʊ juː duː nɑːt hæv tuː bʌt ɪt ɪz ˈbetər/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "do not have to",
+        "role": "V",
+        "phonetic": "/duː nɑːt hæv tuː/",
+        "chinese": "做/助动词/不/有/助动词/到/向"
+      },
+      {
+        "text": "but it is better",
+        "role": "A",
+        "phonetic": "/bʌt ɪt ɪz ˈbetər/",
+        "chinese": "但是/它/是/更好"
+      }
+    ]
+  },
+  {
+    "chinese": "我们在医院里必须小声说话",
+    "english": "We must speak quietly in the hospital",
+    "soundmark": "/wiː mʌst spiːk ˈkwaɪətli ɪn ðə ˈhɑːspɪtl/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "quietly",
+        "role": "A",
+        "phonetic": "/ˈkwaɪətli/",
+        "chinese": "…地(安静的)"
+      },
+      {
+        "text": "in the hospital",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈhɑːspɪtl/",
+        "chinese": "在…里/这个/那个/医院"
+      }
+    ]
+  },
+  {
+    "chinese": "尊重",
+    "english": "respect",
+    "soundmark": "/rɪˈspekt/"
+  },
+  {
+    "chinese": "建筑物",
+    "english": "building",
+    "soundmark": "/ˈbɪldɪŋ/"
+  },
+  {
+    "chinese": "司机",
+    "english": "driver",
+    "soundmark": "/ˈdraɪvər/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɑːspɪtl/"
+  },
+  {
+    "chinese": "更好的",
+    "english": "better",
+    "soundmark": "/ˈbetər/"
+  },
+  {
+    "chinese": "洗手",
+    "english": "wash hands",
+    "soundmark": "/wɑːʃ hændz/"
+  },
+  {
+    "chinese": "我明天必须交作业吗",
+    "english": "Must I hand in my homework tomorrow",
+    "soundmark": "/mʌst aɪ hænd ɪn maɪ ˈhoʊmwɜːrk təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "Must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hand in",
+        "role": "V",
+        "phonetic": "/hænd ɪn/",
+        "chinese": "手/在…里"
+      },
+      {
+        "text": "my homework",
+        "role": "O",
+        "phonetic": "/maɪ ˈhoʊmwɜːrk/",
+        "chinese": "我的/家庭作业"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "你必须系安全带这是法律规定的",
+    "english": "You must wear a seatbelt it is the law",
+    "soundmark": "/juː mʌst wer ə ˈsiːtbelt ɪt ɪz ðə lɔː/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "wear",
+        "role": "V",
+        "phonetic": "/wer/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "a seatbelt",
+        "role": "O",
+        "phonetic": "/ə ˈsiːtbelt/",
+        "chinese": "一个"
+      },
+      {
+        "text": "it is the law",
+        "role": "A",
+        "phonetic": "/ɪt ɪz ðə lɔː/",
+        "chinese": "它/是/这个/那个/法律"
+      }
+    ]
+  },
+  {
+    "chinese": "我们不能在高速路上超速行驶",
+    "english": "We must not speed on the highway",
+    "soundmark": "/wiː mʌst nɑːt spiːd ɑːn ðə ˈhaɪweɪ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "must not",
+        "role": "V",
+        "phonetic": "/mʌst nɑːt/",
+        "chinese": "必须/不"
+      },
+      {
+        "text": "speed",
+        "role": "V",
+        "phonetic": "/spiːd/",
+        "chinese": "速度"
+      },
+      {
+        "text": "on the highway",
+        "role": "A",
+        "phonetic": "/ɑːn ðə ˈhaɪweɪ/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "交作业",
+    "english": "hand in homework",
+    "soundmark": "/hænd ɪn ˈhoʊmwɜːrk/"
+  },
+  {
+    "chinese": "法律",
+    "english": "law",
+    "soundmark": "/lɔː/"
+  },
+  {
+    "chinese": "高速路",
+    "english": "highway",
+    "soundmark": "/ˈhaɪweɪ/"
+  }
+]

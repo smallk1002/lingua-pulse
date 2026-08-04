@@ -1,0 +1,1478 @@
+[
+  {
+    "chinese": "牧师",
+    "english": "vicar",
+    "soundmark": "/ˈvɪkər/"
+  },
+  {
+    "chinese": "教堂",
+    "english": "church",
+    "soundmark": "/tʃɜːrtʃ/"
+  },
+  {
+    "chinese": "钟",
+    "english": "clock",
+    "soundmark": "/klɑːk/"
+  },
+  {
+    "chinese": "敲响",
+    "english": "strike",
+    "soundmark": "/straɪk/"
+  },
+  {
+    "chinese": "修理",
+    "english": "repair",
+    "soundmark": "/rɪˈper/"
+  },
+  {
+    "chinese": "钟楼",
+    "english": "tower",
+    "soundmark": "/ˈtaʊər/"
+  },
+  {
+    "chinese": "夜间",
+    "english": "nighttime",
+    "soundmark": "/ˈnaɪttaɪm/"
+  },
+  {
+    "chinese": "指出",
+    "english": "point out",
+    "soundmark": "/pɔɪnt/ /aʊt/"
+  },
+  {
+    "chinese": "吃惊的",
+    "english": "surprised",
+    "soundmark": "/sərˈpraɪzd/"
+  },
+  {
+    "chinese": "修理教堂的钟",
+    "english": "repair the church clock",
+    "soundmark": "/rɪˈper/ /ðə/ /tʃɜːrtʃ/ /klɑːk/"
+  },
+  {
+    "chinese": "敲了十三下",
+    "english": "struck thirteen times",
+    "soundmark": "/strʌk/ /ˌθɜːrˈtiːn/ /taɪmz/"
+  },
+  {
+    "chinese": "钟楼",
+    "english": "clock tower",
+    "soundmark": "/klɑːk/ /ˈtaʊər/"
+  },
+  {
+    "chinese": "指出错误",
+    "english": "point out the mistake",
+    "soundmark": "/pɔɪnt/ /aʊt/ /ðə/ /mɪˈsteɪk/"
+  },
+  {
+    "chinese": "在夜间",
+    "english": "at night",
+    "soundmark": "/æt/ /naɪt/"
+  },
+  {
+    "chinese": "被吓了一跳",
+    "english": "was startled",
+    "soundmark": "/wʌz/ /ˈstɑːrtəld/"
+  },
+  {
+    "chinese": "牧师一直在修理教堂的钟",
+    "english": "The vicar has been repairing the church clock",
+    "soundmark": "/ðə/ /ˈvɪkər/ /hæz/ /bɪn/ /rɪˈperɪŋ/ /ðə/ /tʃɜːrtʃ/ /klɑːk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "vicar",
+        "role": "S",
+        "phonetic": "/ˈvɪkər/",
+        "chinese": "牧师"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "repairing",
+        "role": "V",
+        "phonetic": "/rɪˈperɪŋ/",
+        "chinese": "修理"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "church",
+        "role": "A",
+        "phonetic": "/tʃɜːrtʃ/",
+        "chinese": "教堂"
+      },
+      {
+        "text": "clock",
+        "role": "O",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      }
+    ]
+  },
+  {
+    "chinese": "钟敲了十三下",
+    "english": "The clock struck thirteen",
+    "soundmark": "/ðə/ /klɑːk/ /strʌk/ /ˌθɜːrˈtiːn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "struck",
+        "role": "V",
+        "phonetic": "/strʌk/",
+        "chinese": ""
+      },
+      {
+        "text": "thirteen",
+        "role": "O",
+        "phonetic": "/ˌθɜːrˈtiːn/",
+        "chinese": "十三"
+      }
+    ]
+  },
+  {
+    "chinese": "牧师在钟楼上工作",
+    "english": "The vicar worked in the clock tower",
+    "soundmark": "/ðə/ /ˈvɪkər/ /wɜːrkt/ /ɪn/ /ðə/ /klɑːk/ /ˈtaʊər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "vicar",
+        "role": "S",
+        "phonetic": "/ˈvɪkər/",
+        "chinese": "牧师"
+      },
+      {
+        "text": "worked",
+        "role": "V",
+        "phonetic": "/wɜːrkt/",
+        "chinese": "工作"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "A",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "tower",
+        "role": "A",
+        "phonetic": "/ˈtaʊər/",
+        "chinese": "塔"
+      }
+    ]
+  },
+  {
+    "chinese": "我听到钟敲了十三下",
+    "english": "I heard the clock strike thirteen",
+    "soundmark": "/aɪ/ /hɜːrd/ /ðə/ /klɑːk/ /straɪk/ /ˌθɜːrˈtiːn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "heard",
+        "role": "V",
+        "phonetic": "/hɜːrd/",
+        "chinese": "听到（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "O",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "strike",
+        "role": "V",
+        "phonetic": "/straɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "thirteen",
+        "role": "O",
+        "phonetic": "/ˌθɜːrˈtiːn/",
+        "chinese": "十三"
+      }
+    ]
+  },
+  {
+    "chinese": "牧师不打算停止修理",
+    "english": "The vicar is not going to stop repairing it",
+    "soundmark": "/ðə/ /ˈvɪkər/ /ɪz/ /nɑːt/ /ˈɡoʊɪŋ/ /tuː/ /stɑːp/ /rɪˈperɪŋ/ /ɪt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "vicar",
+        "role": "S",
+        "phonetic": "/ˈvɪkər/",
+        "chinese": "牧师"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "going",
+        "role": "Aux",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "stop",
+        "role": "V",
+        "phonetic": "/stɑːp/",
+        "chinese": "停止"
+      },
+      {
+        "text": "repairing",
+        "role": "O",
+        "phonetic": "/rɪˈperɪŋ/",
+        "chinese": "修理"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "钟没有正常工作",
+    "english": "The clock did not work properly",
+    "soundmark": "/ðə/ /klɑːk/ /dɪd/ /nɑːt/ /wɜːrk/ /ˈprɑːpərli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "properly",
+        "role": "Adv",
+        "phonetic": "/ˈprɑːpərli/",
+        "chinese": "…地(适当的)"
+      }
+    ]
+  },
+  {
+    "chinese": "他们之前没有注意到这个问题",
+    "english": "They had not noticed this problem before",
+    "soundmark": "/ðeɪ/ /hæd/ /nɑːt/ /ˈnoʊtɪst/ /ðɪs/ /ˈprɑːbləm/ /bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "noticed",
+        "role": "V",
+        "phonetic": "/ˈnoʊtɪst/",
+        "chinese": "注意"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "problem",
+        "role": "O",
+        "phonetic": "/ˈprɑːbləm/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "before",
+        "role": "Adv",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "钟为什么会敲十三下",
+    "english": "Why did the clock strike thirteen",
+    "soundmark": "/waɪ/ /dɪd/ /ðə/ /klɑːk/ /straɪk/ /ˌθɜːrˈtiːn/",
+    "grammar": [
+      {
+        "text": "Why",
+        "role": "Adv",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "strike",
+        "role": "V",
+        "phonetic": "/straɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "thirteen",
+        "role": "O",
+        "phonetic": "/ˌθɜːrˈtiːn/",
+        "chinese": "十三"
+      }
+    ]
+  },
+  {
+    "chinese": "你昨晚听到钟声了吗",
+    "english": "Did you hear the clock last night",
+    "soundmark": "/dɪd/ /juː/ /hɪr/ /ðə/ /klɑːk/ /læst/ /naɪt/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "hear",
+        "role": "V",
+        "phonetic": "/hɪr/",
+        "chinese": "听到"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "O",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他已经修理这个钟好几个月了",
+    "english": "He has been fixing the clock for months",
+    "soundmark": "/hiː/ /hæz/ /bɪn/ /ˈfɪksɪŋ/ /ðə/ /klɑːk/ /fɔːr/ /mʌnθs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "fixing",
+        "role": "V",
+        "phonetic": "/ˈfɪksɪŋ/",
+        "chinese": "修理/固定"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "O",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "months",
+        "role": "A",
+        "phonetic": "/mʌnθs/",
+        "chinese": "月"
+      }
+    ]
+  },
+  {
+    "chinese": "我一直想搞清楚钟出了什么问题",
+    "english": "I have been trying to find out what is wrong with the clock",
+    "soundmark": "/aɪ/ /hæv/ /bɪn/ /ˈtraɪɪŋ/ /tuː/ /faɪnd/ /aʊt/ /wʌt/ /ɪz/ /rɔːŋ/ /wɪð/ /ðə/ /klɑːk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "trying",
+        "role": "V",
+        "phonetic": "/ˈtraɪɪŋ/",
+        "chinese": "尝试的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "what",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "wrong",
+        "role": "C",
+        "phonetic": "/rɔːŋ/",
+        "chinese": "错的"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "O",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      }
+    ]
+  },
+  {
+    "chinese": "钟声在夜间把牧师惊醒了",
+    "english": "The clock woke the vicar up at night",
+    "soundmark": "/ðə/ /klɑːk/ /woʊk/ /ðə/ /ˈvɪkər/ /ʌp/ /æt/ /naɪt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "woke",
+        "role": "V",
+        "phonetic": "/woʊk/",
+        "chinese": "醒来（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "vicar",
+        "role": "O",
+        "phonetic": "/ˈvɪkər/",
+        "chinese": "牧师"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "如果钟敲了十三下那一定是出故障了",
+    "english": "If the clock strikes thirteen it must be broken",
+    "soundmark": "/ɪf/ /ðə/ /klɑːk/ /straɪks/ /ˌθɜːrˈtiːn/ /ɪt/ /mʌst/ /biː/ /ˈbroʊkən/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "strikes",
+        "role": "V",
+        "phonetic": "/straɪks/",
+        "chinese": ""
+      },
+      {
+        "text": "thirteen",
+        "role": "O",
+        "phonetic": "/ˌθɜːrˈtiːn/",
+        "chinese": "十三"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "broken",
+        "role": "C",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      }
+    ]
+  },
+  {
+    "chinese": "牧师试图解释钟为什么不对劲",
+    "english": "The vicar tried to explain why the clock was wrong",
+    "soundmark": "/ðə/ /ˈvɪkər/ /traɪd/ /tuː/ /ɪkˈspleɪn/ /waɪ/ /ðə/ /klɑːk/ /wʌz/ /rɔːŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "vicar",
+        "role": "S",
+        "phonetic": "/ˈvɪkər/",
+        "chinese": "牧师"
+      },
+      {
+        "text": "tried",
+        "role": "V",
+        "phonetic": "/traɪd/",
+        "chinese": "尝试（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "explain",
+        "role": "V",
+        "phonetic": "/ɪkˈspleɪn/",
+        "chinese": "解释"
+      },
+      {
+        "text": "why",
+        "role": "Adv",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "wrong",
+        "role": "C",
+        "phonetic": "/rɔːŋ/",
+        "chinese": "错的"
+      }
+    ]
+  },
+  {
+    "chinese": "村民们都知道那口钟的故障",
+    "english": "The villagers all knew about the faulty clock",
+    "soundmark": "/ðə/ /ˈvɪlɪdʒərz/ /ɔːl/ /nuː/ /əˈbaʊt/ /ðə/ /ˈfɔːlti/ /klɑːk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "villagers",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒərz/",
+        "chinese": ""
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "knew",
+        "role": "V",
+        "phonetic": "/nuː/",
+        "chinese": "知道（过去式）"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "faulty",
+        "role": "A",
+        "phonetic": "/ˈfɔːlti/",
+        "chinese": ""
+      },
+      {
+        "text": "clock",
+        "role": "O",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然牧师已经修了几个星期但钟还是不工作",
+    "english": "Although the vicar had been repairing it for weeks the clock still did not work",
+    "soundmark": "/ɔːlˈðoʊ/ /ðə/ /ˈvɪkər/ /hæd/ /bɪn/ /rɪˈperɪŋ/ /ɪt/ /fɔːr/ /wiːks/ /ðə/ /klɑːk/ /stɪl/ /dɪd/ /nɑːt/ /wɜːrk/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "vicar",
+        "role": "S",
+        "phonetic": "/ˈvɪkər/",
+        "chinese": "牧师"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "repairing",
+        "role": "V",
+        "phonetic": "/rɪˈperɪŋ/",
+        "chinese": "修理"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "weeks",
+        "role": "A",
+        "phonetic": "/wiːks/",
+        "chinese": "周"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "村民对钟敲十三下这件事已经习惯了",
+    "english": "The villagers had become used to the clock striking thirteen",
+    "soundmark": "/ðə/ /ˈvɪlɪdʒərz/ /hæd/ /bɪˈkʌm/ /juːzd/ /tuː/ /ðə/ /klɑːk/ /ˈstraɪkɪŋ/ /ˌθɜːrˈtiːn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "villagers",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒərz/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "become",
+        "role": "Lv",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "used",
+        "role": "C",
+        "phonetic": "/juːzd/",
+        "chinese": "用过的/二手的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "O",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "striking",
+        "role": "V",
+        "phonetic": "/ˈstraɪkɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "thirteen",
+        "role": "O",
+        "phonetic": "/ˌθɜːrˈtiːn/",
+        "chinese": "十三"
+      }
+    ]
+  },
+  {
+    "chinese": "当钟敲响的时候大家都在睡觉",
+    "english": "Everyone was asleep when the clock struck",
+    "soundmark": "/ˈevriwʌn/ /wʌz/ /əˈsliːp/ /wen/ /ðə/ /klɑːk/ /strʌk/",
+    "grammar": [
+      {
+        "text": "Everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "asleep",
+        "role": "C",
+        "phonetic": "/əˈsliːp/",
+        "chinese": ""
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "struck",
+        "role": "V",
+        "phonetic": "/strʌk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他发现钟的齿轮有问题",
+    "english": "He found that there was something wrong with the clock's gears",
+    "soundmark": "/hiː/ /faʊnd/ /ðæt/ /ðer/ /wʌz/ /ˈsʌmθɪŋ/ /rɔːŋ/ /wɪð/ /ðə/ /klɑːks/ /ɡɪrz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "something",
+        "role": "S",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      },
+      {
+        "text": "wrong",
+        "role": "C",
+        "phonetic": "/rɔːŋ/",
+        "chinese": "错的"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock's",
+        "role": "Det",
+        "phonetic": "/klɑːks/",
+        "chinese": "钟"
+      },
+      {
+        "text": "gears",
+        "role": "O",
+        "phonetic": "/ɡɪrz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "对我来说一和十三都一样",
+    "english": "To me one is the same as thirteen",
+    "soundmark": "/tuː/ /miː/ /wʌn/ /ɪz/ /ðə/ /seɪm/ /æz/ /ˌθɜːrˈtiːn/",
+    "grammar": [
+      {
+        "text": "To",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "same",
+        "role": "C",
+        "phonetic": "/seɪm/",
+        "chinese": "相同的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "thirteen",
+        "role": "C",
+        "phonetic": "/ˌθɜːrˈtiːn/",
+        "chinese": "十三"
+      }
+    ]
+  },
+  {
+    "chinese": "一位当地人指出了他的错误",
+    "english": "A local man pointed out his mistake",
+    "soundmark": "/ə/ /ˈloʊkəl/ /mæn/ /ˈpɔɪntɪd/ /aʊt/ /hɪz/ /mɪˈsteɪk/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "local",
+        "role": "A",
+        "phonetic": "/ˈloʊkəl/",
+        "chinese": "当地的"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "pointed",
+        "role": "V",
+        "phonetic": "/ˈpɔɪntɪd/",
+        "chinese": "指向/点"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "mistake",
+        "role": "O",
+        "phonetic": "/mɪˈsteɪk/",
+        "chinese": "错误"
+      }
+    ]
+  },
+  {
+    "chinese": "我注意到钟声已经好了很多",
+    "english": "I have noticed the clock has been much better",
+    "soundmark": "/aɪ/ /hæv/ /ˈnoʊtɪst/ /ðə/ /klɑːk/ /hæz/ /bɪn/ /mʌtʃ/ /ˈbetər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "noticed",
+        "role": "V",
+        "phonetic": "/ˈnoʊtɪst/",
+        "chinese": "注意"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "S",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Lv",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "better",
+        "role": "C",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      }
+    ]
+  },
+  {
+    "chinese": "敲",
+    "english": "strike",
+    "soundmark": "/straɪk/"
+  },
+  {
+    "chinese": "故障",
+    "english": "faulty",
+    "soundmark": "/ˈfɔːlti/"
+  },
+  {
+    "chinese": "齿轮",
+    "english": "gear",
+    "soundmark": "/ɡɪr/"
+  },
+  {
+    "chinese": "习惯的",
+    "english": "used",
+    "soundmark": "/juːzd/"
+  },
+  {
+    "chinese": "解释",
+    "english": "explain",
+    "soundmark": "/ɪkˈspleɪn/"
+  },
+  {
+    "chinese": "注意到",
+    "english": "notice",
+    "soundmark": "/ˈnoʊtɪs/"
+  },
+  {
+    "chinese": "错误",
+    "english": "mistake",
+    "soundmark": "/mɪˈsteɪk/"
+  },
+  {
+    "chinese": "正常的",
+    "english": "properly",
+    "soundmark": "/ˈprɑːpərli/"
+  },
+  {
+    "chinese": "醒来",
+    "english": "wake",
+    "soundmark": "/weɪk/"
+  },
+  {
+    "chinese": "他最终修好了那个钟",
+    "english": "He finally managed to fix the clock",
+    "soundmark": "/hiː/ /ˈfaɪnəli/ /ˈmænɪdʒd/ /tuː/ /fɪks/ /ðə/ /klɑːk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "finally",
+        "role": "Adv",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "managed",
+        "role": "V",
+        "phonetic": "/ˈmænɪdʒd/",
+        "chinese": "管理"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "fix",
+        "role": "V",
+        "phonetic": "/fɪks/",
+        "chinese": "修理/固定"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clock",
+        "role": "O",
+        "phonetic": "/klɑːk/",
+        "chinese": "钟"
+      }
+    ]
+  },
+  {
+    "chinese": "十三等于一对我没什么区别",
+    "english": "Thirteen equals one makes no difference to me",
+    "soundmark": "/ˌθɜːrˈtiːn/ /ˈiːkwəlz/ /wʌn/ /meɪks/ /noʊ/ /ˈdɪfərəns/ /tuː/ /miː/",
+    "grammar": [
+      {
+        "text": "Thirteen",
+        "role": "S",
+        "phonetic": "/ˌθɜːrˈtiːn/",
+        "chinese": "十三"
+      },
+      {
+        "text": "equals",
+        "role": "V",
+        "phonetic": "/ˈiːkwəlz/",
+        "chinese": "平等的/相等的"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "makes",
+        "role": "V",
+        "phonetic": "/meɪks/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "difference",
+        "role": "O",
+        "phonetic": "/ˈdɪfərəns/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  }
+]

@@ -1,0 +1,360 @@
+[
+  {
+    "chinese": "持有人",
+    "english": "holder",
+    "soundmark": "/ˈhoʊldər/"
+  },
+  {
+    "chinese": "逃学者",
+    "english": "truant",
+    "soundmark": "/ˈtruːənt/"
+  },
+  {
+    "chinese": "纪录保持者",
+    "english": "record-holder",
+    "soundmark": "/ˈrekɔːrd ˈhoʊldər/"
+  },
+  {
+    "chinese": "缺乏想象力的",
+    "english": "unimaginative",
+    "soundmark": "/ˌʌnɪˈmædʒɪnətɪv/"
+  },
+  {
+    "chinese": "羞耻",
+    "english": "shame",
+    "soundmark": "/ʃeɪm/"
+  },
+  {
+    "chinese": "搭便车",
+    "english": "hitchhike",
+    "soundmark": "/ˈhɪtʃhaɪk/"
+  },
+  {
+    "chinese": "卡车",
+    "english": "lorry",
+    "soundmark": "/ˈlɒri/"
+  },
+  {
+    "chinese": "边境",
+    "english": "border",
+    "soundmark": "/ˈbɔːrdər/"
+  },
+  {
+    "chinese": "逃避",
+    "english": "evade",
+    "soundmark": "/ɪˈveɪd/"
+  },
+  {
+    "chinese": "逃学",
+    "english": "playing truant",
+    "soundmark": "/ˈpleɪɪŋ ˈtruːənt/"
+  },
+  {
+    "chinese": "搭便车去",
+    "english": "hitchhiking to",
+    "soundmark": "/ˈhɪtʃhaɪkɪŋ tuː/"
+  },
+  {
+    "chinese": "站在那里的男孩是我弟弟",
+    "english": "The boy standing there is my brother",
+    "soundmark": "/ðə bɔɪ ˈstændɪŋ ðer ɪz maɪ ˈbrʌðər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "boy",
+        "role": "S",
+        "phonetic": "/bɔɪ/",
+        "chinese": "男孩"
+      },
+      {
+        "text": "standing",
+        "role": "V",
+        "phonetic": "/ˈstændɪŋ/",
+        "chinese": "站着的"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "brother",
+        "role": "C",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      }
+    ]
+  },
+  {
+    "chinese": "开车的那个人是我叔叔",
+    "english": "The man driving the car is my uncle",
+    "soundmark": "/ðə mæn ˈdraɪvɪŋ ðə kɑːr ɪz maɪ ˈʌŋkəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "uncle",
+        "role": "C",
+        "phonetic": "/ˈʌŋkəl/",
+        "chinese": "叔叔/舅舅"
+      }
+    ]
+  },
+  {
+    "chinese": "我看见他跑过马路",
+    "english": "I saw him running across the street",
+    "soundmark": "/aɪ sɔː hɪm ˈrʌnɪŋ əˈkrɒs ðə striːt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "running",
+        "role": "V",
+        "phonetic": "/ˈrʌnɪŋ/",
+        "chinese": "跑步的/流动的"
+      },
+      {
+        "text": "across",
+        "role": "P",
+        "phonetic": "/əˈkrɒs/",
+        "chinese": "穿过/对面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "street",
+        "role": "A",
+        "phonetic": "/striːt/",
+        "chinese": "街道"
+      }
+    ]
+  },
+  {
+    "chinese": "听到消息她大哭起来",
+    "english": "Hearing the news she burst into tears",
+    "soundmark": "/ˈhɪərɪŋ ðə njuːz ʃiː bɜːrst ˈɪntuː tɪrz/",
+    "grammar": [
+      {
+        "text": "Hearing",
+        "role": "V",
+        "phonetic": "/ˈhɪərɪŋ/",
+        "chinese": "听到的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "news",
+        "role": "O",
+        "phonetic": "/njuːz/",
+        "chinese": "新闻"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "burst",
+        "role": "V",
+        "phonetic": "/bɜːrst/",
+        "chinese": "爆裂/突然"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "tears",
+        "role": "A",
+        "phonetic": "/tɪrz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "做完作业后他出去玩了",
+    "english": "Having finished his homework he went out to play",
+    "soundmark": "/ˈhævɪŋ ˈfɪnɪʃt hɪz ˈhoʊmwɜːrk hiː went aʊt tuː pleɪ/",
+    "grammar": [
+      {
+        "text": "Having",
+        "role": "V",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "play",
+        "role": "V",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      }
+    ]
+  },
+  {
+    "chinese": "在公园玩耍的孩子们",
+    "english": "children playing in the park",
+    "soundmark": "/ˈtʃɪldrən ˈpleɪɪŋ ɪn ðə pɑːrk/"
+  },
+  {
+    "chinese": "一个正在睡觉的婴儿",
+    "english": "a sleeping baby",
+    "soundmark": "/ə ˈsliːpɪŋ ˈbeɪbi/"
+  },
+  {
+    "chinese": "自来水",
+    "english": "running water",
+    "soundmark": "/ˈrʌnɪŋ ˈwɔːtər/"
+  },
+  {
+    "chinese": "持有人",
+    "english": "holder",
+    "soundmark": "/ˈhoʊldər/"
+  },
+  {
+    "chinese": "逃学者",
+    "english": "truant",
+    "soundmark": "/ˈtruːənt/"
+  },
+  {
+    "chinese": "羞耻",
+    "english": "shame",
+    "soundmark": "/ʃeɪm/"
+  },
+  {
+    "chinese": "搭便车",
+    "english": "hitchhike",
+    "soundmark": "/ˈhɪtʃhaɪk/"
+  },
+  {
+    "chinese": "逃避",
+    "english": "evade",
+    "soundmark": "/ɪˈveɪd/"
+  }
+]

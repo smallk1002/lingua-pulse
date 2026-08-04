@@ -1,0 +1,586 @@
+[
+  {
+    "chinese": "足球",
+    "english": "football",
+    "soundmark": "/ˈfʊtbɔːl/"
+  },
+  {
+    "chinese": "拳击手",
+    "english": "boxer",
+    "soundmark": "/ˈbɑːksər/"
+  },
+  {
+    "chinese": "比赛",
+    "english": "match",
+    "soundmark": "/mætʃ/"
+  },
+  {
+    "chinese": "冠军",
+    "english": "champion",
+    "soundmark": "/ˈtʃæmpiən/"
+  },
+  {
+    "chinese": "头衔",
+    "english": "title",
+    "soundmark": "/ˈtaɪtəl/"
+  },
+  {
+    "chinese": "拳击台",
+    "english": "ring",
+    "soundmark": "/rɪŋ/"
+  },
+  {
+    "chinese": "人群",
+    "english": "crowd",
+    "soundmark": "/kraʊd/"
+  },
+  {
+    "chinese": "令人兴奋的",
+    "english": "exciting",
+    "soundmark": "/ɪkˈsaɪtɪŋ/"
+  },
+  {
+    "chinese": "获胜者",
+    "english": "winner",
+    "soundmark": "/ˈwɪnər/"
+  },
+  {
+    "chinese": "决定",
+    "english": "decide",
+    "soundmark": "/dɪˈsaɪd/"
+  },
+  {
+    "chinese": "勇敢的",
+    "english": "brave",
+    "soundmark": "/breɪv/"
+  },
+  {
+    "chinese": "在...之间选择",
+    "english": "choose between",
+    "soundmark": "/tʃuːz/ /bɪˈtwiːn/"
+  },
+  {
+    "chinese": "观看比赛",
+    "english": "watch a match",
+    "soundmark": "/wɑːtʃ/ /ə/ /mætʃ/"
+  },
+  {
+    "chinese": "赢得冠军",
+    "english": "win the championship",
+    "soundmark": "/wɪn/ /ðə/ /ˈtʃæmpiənʃɪp/"
+  },
+  {
+    "chinese": "拳击赛",
+    "english": "boxing match",
+    "soundmark": "/ˈbɑːksɪŋ/ /mætʃ/"
+  },
+  {
+    "chinese": "上周末有一场重要的拳击比赛",
+    "english": "There was an important boxing match last weekend",
+    "soundmark": "/ðer/ /wʌz/ /ən/ /ɪmˈpɔːrtənt/ /ˈbɑːksɪŋ/ /mætʃ/ /læst/ /ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "important",
+        "role": "A",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "boxing",
+        "role": "A",
+        "phonetic": "/ˈbɑːksɪŋ/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "match",
+        "role": "C",
+        "phonetic": "/mætʃ/",
+        "chinese": "匹配"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "weekend",
+        "role": "A",
+        "phonetic": "/ˈwiːkend/",
+        "chinese": "周末"
+      }
+    ]
+  },
+  {
+    "chinese": "两个拳击手打了一场精彩的比赛",
+    "english": "The two boxers fought a wonderful match",
+    "soundmark": "/ðə/ /tuː/ /ˈbɑːksərz/ /fɔːt/ /ə/ /ˈwʌndərfəl/ /mætʃ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "boxers",
+        "role": "S",
+        "phonetic": "/ˈbɑːksərz/",
+        "chinese": ""
+      },
+      {
+        "text": "fought",
+        "role": "V",
+        "phonetic": "/fɔːt/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "wonderful",
+        "role": "A",
+        "phonetic": "/ˈwʌndərfəl/",
+        "chinese": "精彩的"
+      },
+      {
+        "text": "match",
+        "role": "O",
+        "phonetic": "/mætʃ/",
+        "chinese": "匹配"
+      }
+    ]
+  },
+  {
+    "chinese": "人群变得非常兴奋",
+    "english": "The crowd became very excited",
+    "soundmark": "/ðə/ /kraʊd/ /bɪˈkeɪm/ /ˈveri/ /ɪkˈsaɪtɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "crowd",
+        "role": "S",
+        "phonetic": "/kraʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "became",
+        "role": "Lv",
+        "phonetic": "/bɪˈkeɪm/",
+        "chinese": "变成（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "excited",
+        "role": "C",
+        "phonetic": "/ɪkˈsaɪtɪd/",
+        "chinese": "兴奋的"
+      }
+    ]
+  },
+  {
+    "chinese": "年轻的拳击手出拳非常快",
+    "english": "The young boxer hit his opponent very quickly",
+    "soundmark": "/ðə/ /jʌŋ/ /ˈbɑːksər/ /hɪt/ /hɪz/ /əˈpoʊnənt/ /ˈveri/ /ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "young",
+        "role": "A",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "boxer",
+        "role": "S",
+        "phonetic": "/ˈbɑːksər/",
+        "chinese": "更…的/…者(箱子/盒)"
+      },
+      {
+        "text": "hit",
+        "role": "V",
+        "phonetic": "/hɪt/",
+        "chinese": "打/击中"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "opponent",
+        "role": "O",
+        "phonetic": "/əˈpoʊnənt/",
+        "chinese": ""
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "quickly",
+        "role": "Adv",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "他勇敢地站了起来",
+    "english": "He stood up bravely",
+    "soundmark": "/hiː/ /stʊd/ /ʌp/ /ˈbreɪvli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "stood",
+        "role": "V",
+        "phonetic": "/stʊd/",
+        "chinese": "站（过去式）"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "bravely",
+        "role": "Adv",
+        "phonetic": "/ˈbreɪvli/",
+        "chinese": "…地(勇敢的)"
+      }
+    ]
+  },
+  {
+    "chinese": "观众决定他才是获胜者",
+    "english": "The audience decided he was the winner",
+    "soundmark": "/ði/ /ˈɔːdiəns/ /dɪˈsaɪdɪd/ /hiː/ /wʌz/ /ðə/ /ˈwɪnər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "audience",
+        "role": "S",
+        "phonetic": "/ˈɔːdiəns/",
+        "chinese": ""
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "winner",
+        "role": "C",
+        "phonetic": "/ˈwɪnər/",
+        "chinese": "获胜者"
+      }
+    ]
+  },
+  {
+    "chinese": "你更喜欢足球还是拳击？",
+    "english": "Do you prefer football or boxing",
+    "soundmark": "/duː/ /juː/ /prɪˈfɜːr/ /ˈfʊtbɔːl/ /ɔːr/ /ˈbɑːksɪŋ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "prefer",
+        "role": "V",
+        "phonetic": "/prɪˈfɜːr/",
+        "chinese": ""
+      },
+      {
+        "text": "football",
+        "role": "O",
+        "phonetic": "/ˈfʊtbɔːl/",
+        "chinese": "足球"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "boxing",
+        "role": "O",
+        "phonetic": "/ˈbɑːksɪŋ/",
+        "chinese": "箱子/盒"
+      }
+    ]
+  },
+  {
+    "chinese": "拳击手获得了冠军头衔",
+    "english": "The boxer won the championship title",
+    "soundmark": "/ðə/ /ˈbɑːksər/ /wɑːn/ /ðə/ /ˈtʃæmpiənʃɪp/ /ˈtaɪtəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "boxer",
+        "role": "S",
+        "phonetic": "/ˈbɑːksər/",
+        "chinese": "更…的/…者(箱子/盒)"
+      },
+      {
+        "text": "won",
+        "role": "V",
+        "phonetic": "/wɑːn/",
+        "chinese": "赢（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "championship",
+        "role": "A",
+        "phonetic": "/ˈtʃæmpiənʃɪp/",
+        "chinese": ""
+      },
+      {
+        "text": "title",
+        "role": "O",
+        "phonetic": "/ˈtaɪtəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这是一场令人难忘的比赛",
+    "english": "It was an unforgettable match",
+    "soundmark": "/ɪt/ /wʌz/ /ən/ /ˌʌnfərˈɡetəbəl/ /mætʃ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "unforgettable",
+        "role": "A",
+        "phonetic": "/ˌʌnfərˈɡetəbəl/",
+        "chinese": ""
+      },
+      {
+        "text": "match",
+        "role": "C",
+        "phonetic": "/mætʃ/",
+        "chinese": "匹配"
+      }
+    ]
+  },
+  {
+    "chinese": "他选择了拳击而不是足球",
+    "english": "He chose boxing instead of football",
+    "soundmark": "/hiː/ /tʃoʊz/ /ˈbɑːksɪŋ/ /ɪnˈsted/ /ʌv/ /ˈfʊtbɔːl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "chose",
+        "role": "V",
+        "phonetic": "/tʃoʊz/",
+        "chinese": ""
+      },
+      {
+        "text": "boxing",
+        "role": "O",
+        "phonetic": "/ˈbɑːksɪŋ/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "instead",
+        "role": "Adv",
+        "phonetic": "/ɪnˈsted/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "football",
+        "role": "O",
+        "phonetic": "/ˈfʊtbɔːl/",
+        "chinese": "足球"
+      }
+    ]
+  },
+  {
+    "chinese": "他击败了所有对手",
+    "english": "He defeated all his opponents",
+    "soundmark": "/hiː/ /dɪˈfiːtɪd/ /ɔːl/ /hɪz/ /əˈpoʊnənts/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "defeated",
+        "role": "V",
+        "phonetic": "/dɪˈfiːtɪd/",
+        "chinese": "失败"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "opponents",
+        "role": "O",
+        "phonetic": "/əˈpoʊnənts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "出租车",
+    "english": "taxi",
+    "soundmark": "/ˈtæksi/"
+  },
+  {
+    "chinese": "车费",
+    "english": "fare",
+    "soundmark": "/fer/"
+  },
+  {
+    "chinese": "急事",
+    "english": "urgent",
+    "soundmark": "/ˈɜːrdʒənt/"
+  },
+  {
+    "chinese": "聚集",
+    "english": "gather",
+    "soundmark": "/ˈɡæðər/"
+  },
+  {
+    "chinese": "拒绝",
+    "english": "refuse",
+    "soundmark": "/rɪˈfjuːz/"
+  },
+  {
+    "chinese": "横穿",
+    "english": "cross",
+    "soundmark": "/krɔːs/"
+  }
+]

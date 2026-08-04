@@ -1,0 +1,865 @@
+[
+  {
+    "chinese": "感谢",
+    "english": "thank",
+    "soundmark": "/θæŋk/"
+  },
+  {
+    "chinese": "康复",
+    "english": "recover",
+    "soundmark": "/rɪˈkʌvər/"
+  },
+  {
+    "chinese": "好转",
+    "english": "get better",
+    "soundmark": "/ɡet ˈbetər/"
+  },
+  {
+    "chinese": "健康",
+    "english": "health",
+    "soundmark": "/helθ/"
+  },
+  {
+    "chinese": "恢复",
+    "english": "recovery",
+    "soundmark": "/rɪˈkʌvəri/"
+  },
+  {
+    "chinese": "检查",
+    "english": "checkup",
+    "soundmark": "/ˈtʃekʌp/"
+  },
+  {
+    "chinese": "病人",
+    "english": "patient",
+    "soundmark": "/ˈpeɪʃnt/"
+  },
+  {
+    "chinese": "治疗",
+    "english": "treatment",
+    "soundmark": "/ˈtriːtmənt/"
+  },
+  {
+    "chinese": "建议",
+    "english": "advice",
+    "soundmark": "/ədˈvaɪs/"
+  },
+  {
+    "chinese": "休息",
+    "english": "rest",
+    "soundmark": "/rest/"
+  },
+  {
+    "chinese": "饮食",
+    "english": "diet",
+    "soundmark": "/ˈdaɪət/"
+  },
+  {
+    "chinese": "锻炼",
+    "english": "exercise",
+    "soundmark": "/ˈeksərsaɪz/"
+  },
+  {
+    "chinese": "维生素",
+    "english": "vitamin",
+    "soundmark": "/ˈvaɪtəmɪn/"
+  },
+  {
+    "chinese": "注射",
+    "english": "injection",
+    "soundmark": "/ɪnˈdʒekʃn/"
+  },
+  {
+    "chinese": "绷带",
+    "english": "bandage",
+    "soundmark": "/ˈbændɪdʒ/"
+  },
+  {
+    "chinese": "手术",
+    "english": "operation",
+    "soundmark": "/ˌɑːpəˈreɪʃn/"
+  },
+  {
+    "chinese": "检查结果",
+    "english": "test result",
+    "soundmark": "/test rɪˈzʌlt/"
+  },
+  {
+    "chinese": "谢谢医生",
+    "english": "thank you doctor",
+    "soundmark": "/θæŋk juː ˈdɑːktər/"
+  },
+  {
+    "chinese": "我感觉好多了",
+    "english": "I feel much better",
+    "soundmark": "/aɪ fiːl mʌtʃ ˈbetər/"
+  },
+  {
+    "chinese": "非常感谢您的帮助",
+    "english": "thank you very much for your help",
+    "soundmark": "/θæŋk juː ˈveri mʌtʃ fɔːr jɔːr help/"
+  },
+  {
+    "chinese": "我现在感觉好多了谢谢",
+    "english": "I feel much better now thank you",
+    "soundmark": "/aɪ fiːl mʌtʃ ˈbetər naʊ θæŋk juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "feel",
+        "role": "V",
+        "phonetic": "/fiːl/",
+        "chinese": "感觉"
+      },
+      {
+        "text": "much better",
+        "role": "C",
+        "phonetic": "/mʌtʃ ˈbetər/",
+        "chinese": "好多了"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "thank you",
+        "role": "A",
+        "phonetic": "/θæŋk juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "谢谢你的建议医生",
+    "english": "Thank you for your advice doctor",
+    "soundmark": "/θæŋk juː fɔːr jɔːr ədˈvaɪs ˈdɑːktər/",
+    "grammar": [
+      {
+        "text": "Thank you",
+        "role": "V",
+        "phonetic": "/θæŋk juː/",
+        "chinese": "感谢/你/你们"
+      },
+      {
+        "text": "for your advice",
+        "role": "A",
+        "phonetic": "/fɔːr jɔːr ədˈvaɪs/",
+        "chinese": "为了/对于/你的/你们的"
+      },
+      {
+        "text": "doctor",
+        "role": "S",
+        "phonetic": "/ˈdɑːktər/",
+        "chinese": "医生"
+      }
+    ]
+  },
+  {
+    "chinese": "谢谢你治好我的病",
+    "english": "Thank you for curing my illness",
+    "soundmark": "/θæŋk juː fɔːr ˈkjʊrɪŋ maɪ ˈɪlnəs/",
+    "grammar": [
+      {
+        "text": "Thank you",
+        "role": "V",
+        "phonetic": "/θæŋk juː/",
+        "chinese": "感谢/你/你们"
+      },
+      {
+        "text": "for curing",
+        "role": "A",
+        "phonetic": "/fɔːr ˈkjʊrɪŋ/",
+        "chinese": "为了/对于/正在…(治愈)"
+      },
+      {
+        "text": "my illness",
+        "role": "O",
+        "phonetic": "/maɪ ˈɪlnəs/",
+        "chinese": "我的"
+      }
+    ]
+  },
+  {
+    "chinese": "我康复得很快",
+    "english": "I have recovered very quickly",
+    "soundmark": "/aɪ hæv rɪˈkʌvərd ˈveri ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have recovered",
+        "role": "V",
+        "phonetic": "/hæv rɪˈkʌvərd/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "very quickly",
+        "role": "A",
+        "phonetic": "/ˈveri ˈkwɪkli/",
+        "chinese": "非常/快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "这药对我很有效",
+    "english": "The medicine worked very well for me",
+    "soundmark": "/ðə ˈmedɪsn wɜːrkt ˈveri wel fɔːr miː/",
+    "grammar": [
+      {
+        "text": "The medicine",
+        "role": "S",
+        "phonetic": "/ðə ˈmedɪsn/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "worked",
+        "role": "V",
+        "phonetic": "/wɜːrkt/",
+        "chinese": "工作"
+      },
+      {
+        "text": "very well",
+        "role": "A",
+        "phonetic": "/ˈveri wel/",
+        "chinese": "非常/好"
+      },
+      {
+        "text": "for me",
+        "role": "A",
+        "phonetic": "/fɔːr miː/",
+        "chinese": "为我"
+      }
+    ]
+  },
+  {
+    "chinese": "我今天来做复查",
+    "english": "I am here for my checkup today",
+    "soundmark": "/aɪ æm hɪr fɔːr maɪ ˈtʃekʌp təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "here",
+        "role": "C",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "for my checkup",
+        "role": "A",
+        "phonetic": "/fɔːr maɪ ˈtʃekʌp/",
+        "chinese": "为了/对于/我的"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "检查结果显示一切正常",
+    "english": "The test results show everything is normal",
+    "soundmark": "/ðə test rɪˈzʌlts ʃoʊ ˈevriθɪŋ ɪz ˈnɔːrml/",
+    "grammar": [
+      {
+        "text": "The test results",
+        "role": "S",
+        "phonetic": "/ðə test rɪˈzʌlts/",
+        "chinese": "这个/那个/测试"
+      },
+      {
+        "text": "show",
+        "role": "V",
+        "phonetic": "/ʃoʊ/",
+        "chinese": "展示"
+      },
+      {
+        "text": "everything is normal",
+        "role": "O",
+        "phonetic": "/ˈevriθɪŋ ɪz ˈnɔːrml/",
+        "chinese": "一切/是"
+      }
+    ]
+  },
+  {
+    "chinese": "我什么时候需要再来复查",
+    "english": "When do I need to come back for another checkup",
+    "soundmark": "/wen duː aɪ niːd tuː kʌm bæk fɔːr əˈnʌðər ˈtʃekʌp/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need to come back",
+        "role": "V",
+        "phonetic": "/niːd tuː kʌm bæk/",
+        "chinese": "需要/到/向/来/回/向后/背部"
+      },
+      {
+        "text": "for another checkup",
+        "role": "A",
+        "phonetic": "/fɔːr əˈnʌðər ˈtʃekʌp/",
+        "chinese": "为了/对于/另一个"
+      }
+    ]
+  },
+  {
+    "chinese": "医生嘱咐我多休息",
+    "english": "The doctor told me to rest more",
+    "soundmark": "/ðə ˈdɑːktər toʊld miː tuː rest mɔːr/",
+    "grammar": [
+      {
+        "text": "The doctor",
+        "role": "S",
+        "phonetic": "/ðə ˈdɑːktər/",
+        "chinese": "这个/那个/医生"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "to rest more",
+        "role": "O",
+        "phonetic": "/tuː rest mɔːr/",
+        "chinese": "到/向/休息/剩余/更多"
+      }
+    ]
+  },
+  {
+    "chinese": "我应该注意饮食吗",
+    "english": "Should I be careful about my diet",
+    "soundmark": "/ʃʊd aɪ biː ˈkerfl əˈbaʊt maɪ ˈdaɪət/",
+    "grammar": [
+      {
+        "text": "Should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "careful",
+        "role": "C",
+        "phonetic": "/ˈkerfl/",
+        "chinese": "小心的"
+      },
+      {
+        "text": "about my diet",
+        "role": "A",
+        "phonetic": "/əˈbaʊt maɪ ˈdaɪət/",
+        "chinese": "关于/大约/我的"
+      }
+    ]
+  },
+  {
+    "chinese": "是的你必须吃健康的食物",
+    "english": "Yes you must eat healthy food",
+    "soundmark": "/jes juː mʌst iːt ˈhelθi fuːd/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must eat",
+        "role": "V",
+        "phonetic": "/mʌst iːt/",
+        "chinese": "必须/吃"
+      },
+      {
+        "text": "healthy food",
+        "role": "O",
+        "phonetic": "/ˈhelθi fuːd/",
+        "chinese": "健康的/食物"
+      }
+    ]
+  },
+  {
+    "chinese": "谢谢你医生我会遵医嘱的",
+    "english": "Thank you doctor I will follow your advice",
+    "soundmark": "/θæŋk juː ˈdɑːktər aɪ wɪl ˈfɑːloʊ jɔːr ədˈvaɪs/",
+    "grammar": [
+      {
+        "text": "Thank you",
+        "role": "V",
+        "phonetic": "/θæŋk juː/",
+        "chinese": "感谢/你/你们"
+      },
+      {
+        "text": "doctor",
+        "role": "S",
+        "phonetic": "/ˈdɑːktər/",
+        "chinese": "医生"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will follow",
+        "role": "V",
+        "phonetic": "/wɪl ˈfɑːloʊ/",
+        "chinese": "将要/跟随"
+      },
+      {
+        "text": "your advice",
+        "role": "O",
+        "phonetic": "/jɔːr ədˈvaɪs/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "我现在可以回去上班了吗",
+    "english": "Can I go back to work now",
+    "soundmark": "/kæn aɪ ɡoʊ bæk tuː wɜːrk naʊ/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "go back",
+        "role": "V",
+        "phonetic": "/ɡoʊ bæk/",
+        "chinese": "回去"
+      },
+      {
+        "text": "to work",
+        "role": "A",
+        "phonetic": "/tuː wɜːrk/",
+        "chinese": "上班"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该再休息几天",
+    "english": "You should rest for a few more days",
+    "soundmark": "/juː ʃʊd rest fɔːr ə fjuː mɔːr deɪz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should rest",
+        "role": "V",
+        "phonetic": "/ʃʊd rest/",
+        "chinese": "应该/休息/剩余"
+      },
+      {
+        "text": "for a few more days",
+        "role": "A",
+        "phonetic": "/fɔːr ə fjuː mɔːr deɪz/",
+        "chinese": "为了/对于/一个/很少/更多/…们/复数(天/日)"
+      }
+    ]
+  },
+  {
+    "chinese": "我很感激您的帮助",
+    "english": "I really appreciate your help",
+    "soundmark": "/aɪ ˈriːəli əˈpriːʃieɪt jɔːr help/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "really appreciate",
+        "role": "V",
+        "phonetic": "/ˈriːəli əˈpriːʃieɪt/",
+        "chinese": "真正地/欣赏/感激"
+      },
+      {
+        "text": "your help",
+        "role": "O",
+        "phonetic": "/jɔːr help/",
+        "chinese": "你的/你们的/帮助"
+      }
+    ]
+  },
+  {
+    "chinese": "我该多久服用一次这种药",
+    "english": "How often should I take this medicine",
+    "soundmark": "/haʊ ˈɔːfn ʃʊd aɪ teɪk ðɪs ˈmedɪsn/",
+    "grammar": [
+      {
+        "text": "How often",
+        "role": "A",
+        "phonetic": "/haʊ ˈɔːfn/",
+        "chinese": "多久一次"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "this medicine",
+        "role": "O",
+        "phonetic": "/ðɪs ˈmedɪsn/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "你该每天服用三次",
+    "english": "You should take it three times a day",
+    "soundmark": "/juː ʃʊd teɪk ɪt θriː taɪmz ə deɪ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should take",
+        "role": "V",
+        "phonetic": "/ʃʊd teɪk/",
+        "chinese": "应该/拿/带"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "three times a day",
+        "role": "A",
+        "phonetic": "/θriː taɪmz ə deɪ/",
+        "chinese": "三/…们/复数(时间)/一个/天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "要饭后服用吗",
+    "english": "Should I take it after meals",
+    "soundmark": "/ʃʊd aɪ teɪk ɪt ˈæftər miːlz/",
+    "grammar": [
+      {
+        "text": "Should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "after meals",
+        "role": "A",
+        "phonetic": "/ˈæftər miːlz/",
+        "chinese": "在…之后"
+      }
+    ]
+  },
+  {
+    "chinese": "是的饭后服用",
+    "english": "Yes take it after meals",
+    "soundmark": "/jes teɪk ɪt ˈæftər miːlz/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "after meals",
+        "role": "A",
+        "phonetic": "/ˈæftər miːlz/",
+        "chinese": "在…之后"
+      }
+    ]
+  },
+  {
+    "chinese": "如果有副作用请告诉我",
+    "english": "Please tell me if you have any side effects",
+    "soundmark": "/pliːz tel miː ɪf juː hæv ˈeni saɪd ɪˈfekts/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "if you have any side effects",
+        "role": "O",
+        "phonetic": "/ɪf juː hæv ˈeni saɪd ɪˈfekts/",
+        "chinese": "如果/你/你们/有/助动词/任何/边/方面"
+      }
+    ]
+  },
+  {
+    "chinese": "谢谢您的耐心",
+    "english": "Thank you for your patience",
+    "soundmark": "/θæŋk juː fɔːr jɔːr ˈpeɪʃns/",
+    "grammar": [
+      {
+        "text": "Thank you",
+        "role": "V",
+        "phonetic": "/θæŋk juː/",
+        "chinese": "感谢/你/你们"
+      },
+      {
+        "text": "for your patience",
+        "role": "A",
+        "phonetic": "/fɔːr jɔːr ˈpeɪʃns/",
+        "chinese": "为了/对于/你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我应该做的",
+    "english": "It is my pleasure",
+    "soundmark": "/ɪt ɪz maɪ ˈpleʒər/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my pleasure",
+        "role": "C",
+        "phonetic": "/maɪ ˈpleʒər/",
+        "chinese": "我的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们希望你能很快好起来",
+    "english": "We hope you will get better soon",
+    "soundmark": "/wiː hoʊp juː wɪl ɡet ˈbetər suːn/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "hope",
+        "role": "V",
+        "phonetic": "/hoʊp/",
+        "chinese": "希望"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "will get better",
+        "role": "V",
+        "phonetic": "/wɪl ɡet ˈbetər/",
+        "chinese": "将要/得到/变得/更好"
+      },
+      {
+        "text": "soon",
+        "role": "A",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      }
+    ]
+  },
+  {
+    "chinese": "治愈",
+    "english": "cure",
+    "soundmark": "/kjʊr/"
+  },
+  {
+    "chinese": "感激",
+    "english": "appreciate",
+    "soundmark": "/əˈpriːʃieɪt/"
+  },
+  {
+    "chinese": "耐心",
+    "english": "patience",
+    "soundmark": "/ˈpeɪʃns/"
+  },
+  {
+    "chinese": "乐事",
+    "english": "pleasure",
+    "soundmark": "/ˈpleʒər/"
+  },
+  {
+    "chinese": "副作用",
+    "english": "side effect",
+    "soundmark": "/saɪd ɪˈfekt/"
+  },
+  {
+    "chinese": "正常的",
+    "english": "normal",
+    "soundmark": "/ˈnɔːrml/"
+  },
+  {
+    "chinese": "遵循",
+    "english": "follow",
+    "soundmark": "/ˈfɑːloʊ/"
+  },
+  {
+    "chinese": "健康的",
+    "english": "healthy",
+    "soundmark": "/ˈhelθi/"
+  },
+  {
+    "chinese": "快速的",
+    "english": "quickly",
+    "soundmark": "/ˈkwɪkli/"
+  },
+  {
+    "chinese": "一日三餐",
+    "english": "three times a day",
+    "soundmark": "/θriː taɪmz ə deɪ/"
+  }
+]

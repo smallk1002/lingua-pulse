@@ -1,0 +1,470 @@
+[
+  {
+    "chinese": "购物",
+    "english": "shopping",
+    "soundmark": "/ˈʃɒpɪŋ/"
+  },
+  {
+    "chinese": "买",
+    "english": "buy",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "chinese": "商店",
+    "english": "shop",
+    "soundmark": "/ʃɒp/"
+  },
+  {
+    "chinese": "市场",
+    "english": "market",
+    "soundmark": "/ˈmɑːkɪt/"
+  },
+  {
+    "chinese": "水果",
+    "english": "fruit",
+    "soundmark": "/fruːt/"
+  },
+  {
+    "chinese": "蔬菜",
+    "english": "vegetables",
+    "soundmark": "/ˈvedʒtəblz/"
+  },
+  {
+    "chinese": "肉",
+    "english": "meat",
+    "soundmark": "/miːt/"
+  },
+  {
+    "chinese": "面包",
+    "english": "bread",
+    "soundmark": "/bred/"
+  },
+  {
+    "chinese": "牛奶",
+    "english": "milk",
+    "soundmark": "/mɪlk/"
+  },
+  {
+    "chinese": "鸡蛋",
+    "english": "eggs",
+    "soundmark": "/eɡz/"
+  },
+  {
+    "chinese": "糖",
+    "english": "sugar",
+    "soundmark": "/ˈʃʊɡə/"
+  },
+  {
+    "chinese": "茶",
+    "english": "tea",
+    "soundmark": "/tiː/"
+  },
+  {
+    "chinese": "清单",
+    "english": "list",
+    "soundmark": "/lɪst/"
+  },
+  {
+    "chinese": "肉店",
+    "english": "butcher",
+    "soundmark": "/ˈbʊtʃə/"
+  },
+  {
+    "chinese": "花费",
+    "english": "spend",
+    "soundmark": "/spend/"
+  },
+  {
+    "chinese": "卡罗尔昨天去购物了。",
+    "english": "Carol went shopping yesterday.",
+    "soundmark": "/ˈkærəl went ˈʃɒpɪŋ ˈjestədeɪ/",
+    "grammar": [
+      {
+        "text": "Carol",
+        "role": "S",
+        "phonetic": "/ˈkærəl/",
+        "chinese": ""
+      },
+      {
+        "text": "went shopping",
+        "role": "V",
+        "phonetic": "/went ˈʃɒpɪŋ/",
+        "chinese": "去（过去式）/正在…(商店)"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestədeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "她买了一些水果和蔬菜。",
+    "english": "She bought some fruit and vegetables.",
+    "soundmark": "/ʃiː bɔːt sʌm fruːt ənd ˈvedʒtəblz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "some fruit and vegetables",
+        "role": "O",
+        "phonetic": "/sʌm fruːt ənd ˈvedʒtəblz/",
+        "chinese": "一些/水果/和"
+      }
+    ]
+  },
+  {
+    "chinese": "她也买了一些肉。",
+    "english": "She also bought some meat.",
+    "soundmark": "/ʃiː ˈɔːlsəʊ bɔːt sʌm miːt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "also bought",
+        "role": "V",
+        "phonetic": "/ˈɔːlsəʊ bɔːt/",
+        "chinese": "也/买（过去式）"
+      },
+      {
+        "text": "some meat",
+        "role": "O",
+        "phonetic": "/sʌm miːt/",
+        "chinese": "一些/肉"
+      }
+    ]
+  },
+  {
+    "chinese": "卡罗尔买了面包和牛奶。",
+    "english": "Carol bought bread and milk.",
+    "soundmark": "/ˈkærəl bɔːt bred ənd mɪlk/",
+    "grammar": [
+      {
+        "text": "Carol",
+        "role": "S",
+        "phonetic": "/ˈkærəl/",
+        "chinese": ""
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "bread and milk",
+        "role": "O",
+        "phonetic": "/bred ənd mɪlk/",
+        "chinese": "面包/和/牛奶"
+      }
+    ]
+  },
+  {
+    "chinese": "她没有买任何鸡蛋。",
+    "english": "She did not buy any eggs.",
+    "soundmark": "/ʃiː dɪd nɒt baɪ ˈeni eɡz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "did not buy",
+        "role": "Neg",
+        "phonetic": "/dɪd nɒt baɪ/",
+        "chinese": "做/助动词（过去式）/不/买"
+      },
+      {
+        "text": "any eggs",
+        "role": "O",
+        "phonetic": "/ˈeni eɡz/",
+        "chinese": "任何/…们/复数(鸡蛋)"
+      }
+    ]
+  },
+  {
+    "chinese": "她还买了一些茶和糖。",
+    "english": "She also bought some tea and sugar.",
+    "soundmark": "/ʃiː ˈɔːlsəʊ bɔːt sʌm tiː ənd ˈʃʊɡə/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "also bought",
+        "role": "V",
+        "phonetic": "/ˈɔːlsəʊ bɔːt/",
+        "chinese": "也/买（过去式）"
+      },
+      {
+        "text": "some tea and sugar",
+        "role": "O",
+        "phonetic": "/sʌm tiː ənd ˈʃʊɡə/",
+        "chinese": "一些/茶/和/糖"
+      }
+    ]
+  },
+  {
+    "chinese": "她在市场上买了新鲜的蔬菜。",
+    "english": "She bought fresh vegetables at the market.",
+    "soundmark": "/ʃiː bɔːt freʃ ˈvedʒtəblz æt ðə ˈmɑːkɪt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "fresh vegetables",
+        "role": "O",
+        "phonetic": "/freʃ ˈvedʒtəblz/",
+        "chinese": "新鲜的"
+      },
+      {
+        "text": "at the market",
+        "role": "Adv",
+        "phonetic": "/æt ðə ˈmɑːkɪt/",
+        "chinese": "在/这个/那个/市场"
+      }
+    ]
+  },
+  {
+    "chinese": "她买了一公斤苹果。",
+    "english": "She bought a kilo of apples.",
+    "soundmark": "/ʃiː bɔːt ə ˈkiːləv əplz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "a kilo of apples",
+        "role": "O",
+        "phonetic": "/ə ˈkiːləv əplz/",
+        "chinese": "一个/…的/…们/复数(苹果)"
+      }
+    ]
+  },
+  {
+    "chinese": "她花了多少钱？",
+    "english": "How much did she spend?",
+    "soundmark": "/haʊ mʌtʃ dɪd ʃiː spend/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "Int",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "spend",
+        "role": "V",
+        "phonetic": "/spend/",
+        "chinese": "花费"
+      }
+    ]
+  },
+  {
+    "chinese": "她买了很多东西。",
+    "english": "She bought a lot of things.",
+    "soundmark": "/ʃiː bɔːt ə lɒt əv θɪŋz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "a lot of things",
+        "role": "O",
+        "phonetic": "/ə lɒt əv θɪŋz/",
+        "chinese": "一个/许多/…的/东西/事情"
+      }
+    ]
+  },
+  {
+    "chinese": "她在肉店买了一些牛肉。",
+    "english": "She bought some beef at the butcher's.",
+    "soundmark": "/ʃiː bɔːt sʌm biːf æt ðə ˈbʊtʃəz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "some beef",
+        "role": "O",
+        "phonetic": "/sʌm biːf/",
+        "chinese": "一些"
+      },
+      {
+        "text": "at the butcher's",
+        "role": "Adv",
+        "phonetic": "/æt ðə ˈbʊtʃəz/",
+        "chinese": "在/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "这是购物清单。",
+    "english": "This is the shopping list.",
+    "soundmark": "/ðɪs ɪz ðə ˈʃɒpɪŋ lɪst/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the shopping list",
+        "role": "C",
+        "phonetic": "/ðə ˈʃɒpɪŋ lɪst/",
+        "chinese": "这个/那个/正在…(商店)"
+      }
+    ]
+  },
+  {
+    "chinese": "鱼",
+    "english": "fish",
+    "soundmark": "/fɪʃ/"
+  },
+  {
+    "chinese": "奶酪",
+    "english": "cheese",
+    "soundmark": "/tʃiːz/"
+  },
+  {
+    "chinese": "啤酒",
+    "english": "beer",
+    "soundmark": "/bɪə/"
+  },
+  {
+    "chinese": "烟草",
+    "english": "tobacco",
+    "soundmark": "/təˈbækəʊ/"
+  },
+  {
+    "chinese": "报纸",
+    "english": "newspaper",
+    "soundmark": "/ˈnjuːzˌpeɪpə/"
+  },
+  {
+    "chinese": "苹果",
+    "english": "apple",
+    "soundmark": "/ˈæpl/"
+  },
+  {
+    "chinese": "香蕉",
+    "english": "banana",
+    "soundmark": "/bəˈnɑːnə/"
+  },
+  {
+    "chinese": "西红柿",
+    "english": "tomato",
+    "soundmark": "/təˈmɑːtəʊ/"
+  },
+  {
+    "chinese": "土豆",
+    "english": "potato",
+    "soundmark": "/pəˈteɪtəʊ/"
+  },
+  {
+    "chinese": "咖啡",
+    "english": "coffee",
+    "soundmark": "/ˈkɒfi/"
+  },
+  {
+    "chinese": "巧克力",
+    "english": "chocolate",
+    "soundmark": "/ˈtʃɒklət/"
+  },
+  {
+    "chinese": "糖果",
+    "english": "sweet",
+    "soundmark": "/swiːt/"
+  },
+  {
+    "chinese": "公斤",
+    "english": "kilo",
+    "soundmark": "/ˈkiːləʊ/"
+  },
+  {
+    "chinese": "东西",
+    "english": "thing",
+    "soundmark": "/θɪŋ/"
+  },
+  {
+    "chinese": "新鲜的",
+    "english": "fresh",
+    "soundmark": "/freʃ/"
+  }
+]

@@ -1,0 +1,622 @@
+[
+  {
+    "chinese": "转动",
+    "english": "turn",
+    "soundmark": "/tɜːrn/"
+  },
+  {
+    "chinese": "工资",
+    "english": "salary",
+    "soundmark": "/ˈsæləri/"
+  },
+  {
+    "chinese": "律师",
+    "english": "lawyer",
+    "soundmark": "/ˈlɔɪər/"
+  },
+  {
+    "chinese": "银行",
+    "english": "bank",
+    "soundmark": "/bæŋk/"
+  },
+  {
+    "chinese": "立即",
+    "english": "immediately",
+    "soundmark": "/ɪˈmiːdiətli/"
+  },
+  {
+    "chinese": "借钱",
+    "english": "borrow money",
+    "soundmark": "/ˈbɑːroʊ/ /ˈmʌni/"
+  },
+  {
+    "chinese": "还钱",
+    "english": "pay back",
+    "soundmark": "/peɪ/ /bæk/"
+  },
+  {
+    "chinese": "吃惊",
+    "english": "to one's surprise",
+    "soundmark": "/tuː/ /wʌnz/ /sərˈpraɪz/"
+  },
+  {
+    "chinese": "好心的举动",
+    "english": "a good turn",
+    "soundmark": "/ə/ /ɡʊd/ /tɜːrn/"
+  },
+  {
+    "chinese": "我正在一家饭馆吃饭",
+    "english": "I was having dinner at a restaurant",
+    "soundmark": "/aɪ/ /wʌz/ /ˈhævɪŋ/ /ˈdɪnər/ /æt/ /ə/ /ˈrestərɑːnt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "having",
+        "role": "V",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "dinner",
+        "role": "O",
+        "phonetic": "/ˈdɪnər/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "restaurant",
+        "role": "O",
+        "phonetic": "/ˈrestərɑːnt/",
+        "chinese": "餐厅"
+      }
+    ]
+  },
+  {
+    "chinese": "托尼·斯蒂尔走了进来",
+    "english": "Tony Steele came in",
+    "soundmark": "/ˈtoʊni/ /stiːl/ /keɪm/ /ɪn/",
+    "grammar": [
+      {
+        "text": "Tony",
+        "role": "S",
+        "phonetic": "/ˈtoʊni/",
+        "chinese": ""
+      },
+      {
+        "text": "Steele",
+        "role": "S",
+        "phonetic": "/stiːl/",
+        "chinese": ""
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "in",
+        "role": "Adv",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "他以前在一家律师事务所工作",
+    "english": "He used to work in a lawyer's office",
+    "soundmark": "/hiː/ /juːst/ /tuː/ /wɜːrk/ /ɪn/ /ə/ /ˈlɔɪərz/ /ˈɑːfɪs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used",
+        "role": "V",
+        "phonetic": "/juːst/",
+        "chinese": "用过的/二手的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lawyer's",
+        "role": "Det",
+        "phonetic": "/ˈlɔɪərz/",
+        "chinese": ""
+      },
+      {
+        "text": "office",
+        "role": "O",
+        "phonetic": "/ˈɑːfɪs/",
+        "chinese": "办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "他现在在银行工作",
+    "english": "He is now working at a bank",
+    "soundmark": "/hiː/ /ɪz/ /naʊ/ /ˈwɜːrkɪŋ/ /æt/ /ə/ /bæŋk/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "now",
+        "role": "Adv",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "working",
+        "role": "V",
+        "phonetic": "/ˈwɜːrkɪŋ/",
+        "chinese": "工作的/有效的"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bank",
+        "role": "O",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      }
+    ]
+  },
+  {
+    "chinese": "他的薪水很高",
+    "english": "He gets a good salary",
+    "soundmark": "/hiː/ /ɡets/ /ə/ /ɡʊd/ /ˈsæləri/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "gets",
+        "role": "V",
+        "phonetic": "/ɡets/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "A",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "salary",
+        "role": "O",
+        "phonetic": "/ˈsæləri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他问我能否借他二十英镑",
+    "english": "He asked me to lend him twenty pounds",
+    "soundmark": "/hiː/ /æskt/ /miː/ /tuː/ /lend/ /hɪm/ /ˈtwenti/ /paʊndz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "lend",
+        "role": "V",
+        "phonetic": "/lend/",
+        "chinese": ""
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "twenty",
+        "role": "Det",
+        "phonetic": "/ˈtwenti/",
+        "chinese": "二十"
+      },
+      {
+        "text": "pounds",
+        "role": "O",
+        "phonetic": "/paʊndz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "让我吃惊的是他立刻把钱还给了我",
+    "english": "To my surprise he paid me back immediately",
+    "soundmark": "/tuː/ /maɪ/ /sərˈpraɪz/ /hiː/ /peɪd/ /miː/ /bæk/ /ɪˈmiːdiətli/",
+    "grammar": [
+      {
+        "text": "To",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "surprise",
+        "role": "O",
+        "phonetic": "/sərˈpraɪz/",
+        "chinese": "使惊讶"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "paid",
+        "role": "V",
+        "phonetic": "/peɪd/",
+        "chinese": "付钱（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "back",
+        "role": "Adv",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "immediately",
+        "role": "Adv",
+        "phonetic": "/ɪˈmiːdiətli/",
+        "chinese": "立刻"
+      }
+    ]
+  },
+  {
+    "chinese": "我从银行借了些钱",
+    "english": "I borrowed some money from the bank",
+    "soundmark": "/aɪ/ /ˈbɑːroʊd/ /sʌm/ /ˈmʌni/ /frʌm/ /ðə/ /bæŋk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "borrowed",
+        "role": "V",
+        "phonetic": "/ˈbɑːroʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "money",
+        "role": "O",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bank",
+        "role": "O",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      }
+    ]
+  },
+  {
+    "chinese": "你什么时候能把钱还给我",
+    "english": "When can you pay me back",
+    "soundmark": "/wen/ /kæn/ /juː/ /peɪ/ /miː/ /bæk/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "pay",
+        "role": "V",
+        "phonetic": "/peɪ/",
+        "chinese": "付钱"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "back",
+        "role": "Adv",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      }
+    ]
+  },
+  {
+    "chinese": "我欠他五十英镑",
+    "english": "I owe him fifty pounds",
+    "soundmark": "/aɪ/ /oʊ/ /hɪm/ /ˈfɪfti/ /paʊndz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "owe",
+        "role": "V",
+        "phonetic": "/oʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "fifty",
+        "role": "Det",
+        "phonetic": "/ˈfɪfti/",
+        "chinese": "五十"
+      },
+      {
+        "text": "pounds",
+        "role": "O",
+        "phonetic": "/paʊndz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他邀请我去餐馆吃饭",
+    "english": "He invited me to dinner at a restaurant",
+    "soundmark": "/hiː/ /ɪnˈvaɪtɪd/ /miː/ /tuː/ /ˈdɪnər/ /æt/ /ə/ /ˈrestərɑːnt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "invited",
+        "role": "V",
+        "phonetic": "/ɪnˈvaɪtɪd/",
+        "chinese": "邀请"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "dinner",
+        "role": "O",
+        "phonetic": "/ˈdɪnər/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "restaurant",
+        "role": "O",
+        "phonetic": "/ˈrestərɑːnt/",
+        "chinese": "餐厅"
+      }
+    ]
+  },
+  {
+    "chinese": "餐馆",
+    "english": "restaurant",
+    "soundmark": "/ˈrestərɑːnt/"
+  },
+  {
+    "chinese": "办公室",
+    "english": "office",
+    "soundmark": "/ˈɑːfɪs/"
+  },
+  {
+    "chinese": "吃惊",
+    "english": "surprise",
+    "soundmark": "/sərˈpraɪz/"
+  },
+  {
+    "chinese": "欠",
+    "english": "owe",
+    "soundmark": "/oʊ/"
+  },
+  {
+    "chinese": "英镑",
+    "english": "pound",
+    "soundmark": "/paʊnd/"
+  },
+  {
+    "chinese": "薪水",
+    "english": "salary",
+    "soundmark": "/ˈsæləri/"
+  },
+  {
+    "chinese": "借钱",
+    "english": "lend",
+    "soundmark": "/lend/"
+  },
+  {
+    "chinese": "归还",
+    "english": "pay back",
+    "soundmark": "/peɪ/ /bæk/"
+  },
+  {
+    "chinese": "马上",
+    "english": "immediately",
+    "soundmark": "/ɪˈmiːdiətli/"
+  },
+  {
+    "chinese": "工作",
+    "english": "work",
+    "soundmark": "/wɜːrk/"
+  },
+  {
+    "chinese": "晚餐",
+    "english": "dinner",
+    "soundmark": "/ˈdɪnər/"
+  },
+  {
+    "chinese": "邀请",
+    "english": "invite",
+    "soundmark": "/ɪnˈvaɪt/"
+  }
+]

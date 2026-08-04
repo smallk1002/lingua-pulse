@@ -1,0 +1,898 @@
+[
+  {
+    "chinese": "周末",
+    "english": "weekend",
+    "soundmark": "/ˈwiːkend/"
+  },
+  {
+    "chinese": "计划",
+    "english": "plan",
+    "soundmark": "/plæn/"
+  },
+  {
+    "chinese": "打算做",
+    "english": "be going to",
+    "soundmark": "/biː ˈɡoʊɪŋ tuː/"
+  },
+  {
+    "chinese": "安排",
+    "english": "arrange",
+    "soundmark": "/əˈreɪndʒ/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "trip",
+    "soundmark": "/trɪp/"
+  },
+  {
+    "chinese": "短途旅行",
+    "english": "excursion",
+    "soundmark": "/ɪkˈskɜːrʒn/"
+  },
+  {
+    "chinese": "户外活动",
+    "english": "outdoor activity",
+    "soundmark": "/ˈaʊtdɔːr ækˈtɪvəti/"
+  },
+  {
+    "chinese": "远足",
+    "english": "hiking",
+    "soundmark": "/ˈhaɪkɪŋ/"
+  },
+  {
+    "chinese": "野餐",
+    "english": "picnic",
+    "soundmark": "/ˈpɪknɪk/"
+  },
+  {
+    "chinese": "露营",
+    "english": "camping",
+    "soundmark": "/ˈkæmpɪŋ/"
+  },
+  {
+    "chinese": "烧烤",
+    "english": "barbecue",
+    "soundmark": "/ˈbɑːrbɪkjuː/"
+  },
+  {
+    "chinese": "访友",
+    "english": "visit friends",
+    "soundmark": "/ˈvɪzɪt frendz/"
+  },
+  {
+    "chinese": "放松",
+    "english": "relax",
+    "soundmark": "/rɪˈlæks/"
+  },
+  {
+    "chinese": "宅在家",
+    "english": "stay home",
+    "soundmark": "/steɪ hoʊm/"
+  },
+  {
+    "chinese": "看电影",
+    "english": "see a film",
+    "soundmark": "/siː ə fɪlm/"
+  },
+  {
+    "chinese": "购物",
+    "english": "go shopping",
+    "soundmark": "/ɡoʊ ˈʃɑːpɪŋ/"
+  },
+  {
+    "chinese": "打扫",
+    "english": "clean up",
+    "soundmark": "/kliːn ʌp/"
+  },
+  {
+    "chinese": "洗衣服",
+    "english": "do laundry",
+    "soundmark": "/duː ˈlɔːndri/"
+  },
+  {
+    "chinese": "准备",
+    "english": "prepare",
+    "soundmark": "/prɪˈper/"
+  },
+  {
+    "chinese": "空闲时间",
+    "english": "free time",
+    "soundmark": "/friː taɪm/"
+  },
+  {
+    "chinese": "这周末你打算做什么",
+    "english": "what are you doing this weekend",
+    "soundmark": "/wʌt ɑːr juː ˈduːɪŋ ðɪs ˈwiːkend/"
+  },
+  {
+    "chinese": "我打算去远足",
+    "english": "I am going hiking",
+    "soundmark": "/aɪ æm ˈɡoʊɪŋ ˈhaɪkɪŋ/"
+  },
+  {
+    "chinese": "我们将要去野餐",
+    "english": "we are going on a picnic",
+    "soundmark": "/wiː ɑːr ˈɡoʊɪŋ ɑːn ə ˈpɪknɪk/"
+  },
+  {
+    "chinese": "我没有什么特别计划",
+    "english": "I have no special plans",
+    "soundmark": "/aɪ hæv noʊ ˈspeʃl plænz/"
+  },
+  {
+    "chinese": "这周末你打算做什么",
+    "english": "What are you going to do this weekend",
+    "soundmark": "/wʌt ɑːr juː ˈɡoʊɪŋ tuː duː ðɪs ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going to do",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː duː/",
+        "chinese": "到/向/做/助动词"
+      },
+      {
+        "text": "this weekend",
+        "role": "A",
+        "phonetic": "/ðɪs ˈwiːkend/",
+        "chinese": "这个/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "我打算去海边",
+    "english": "I am going to the beach",
+    "soundmark": "/aɪ æm ˈɡoʊɪŋ tuː ðə biːtʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am going",
+        "role": "V",
+        "phonetic": "/æm ˈɡoʊɪŋ/",
+        "chinese": "是"
+      },
+      {
+        "text": "to the beach",
+        "role": "A",
+        "phonetic": "/tuː ðə biːtʃ/",
+        "chinese": "到/向/这个/那个/海滩"
+      }
+    ]
+  },
+  {
+    "chinese": "我们要和朋友们一起烧烤",
+    "english": "We are going to have a barbecue with friends",
+    "soundmark": "/wiː ɑːr ˈɡoʊɪŋ tuː hæv ə ˈbɑːrbɪkjuː wɪð frendz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are going to have",
+        "role": "V",
+        "phonetic": "/ɑːr ˈɡoʊɪŋ tuː hæv/",
+        "chinese": "是/到/向/有/助动词"
+      },
+      {
+        "text": "a barbecue",
+        "role": "O",
+        "phonetic": "/ə ˈbɑːrbɪkjuː/",
+        "chinese": "一个"
+      },
+      {
+        "text": "with friends",
+        "role": "A",
+        "phonetic": "/wɪð frendz/",
+        "chinese": "和/用/…们/复数(朋友)"
+      }
+    ]
+  },
+  {
+    "chinese": "我打算周六和父母出去",
+    "english": "I am going out with my parents on Saturday",
+    "soundmark": "/aɪ æm ˈɡoʊɪŋ aʊt wɪð maɪ ˈperənts ɑːn ˈsætərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am going out",
+        "role": "V",
+        "phonetic": "/æm ˈɡoʊɪŋ aʊt/",
+        "chinese": "是/出去"
+      },
+      {
+        "text": "with my parents",
+        "role": "A",
+        "phonetic": "/wɪð maɪ ˈperənts/",
+        "chinese": "和/用/我的/父母"
+      },
+      {
+        "text": "on Saturday",
+        "role": "A",
+        "phonetic": "/ɑːn ˈsætərdeɪ/",
+        "chinese": "在…上/星期六"
+      }
+    ]
+  },
+  {
+    "chinese": "我们计划周日去爬山",
+    "english": "We plan to go hiking on Sunday",
+    "soundmark": "/wiː plæn tuː ɡoʊ ˈhaɪkɪŋ ɑːn ˈsʌndeɪ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "plan",
+        "role": "V",
+        "phonetic": "/plæn/",
+        "chinese": "计划"
+      },
+      {
+        "text": "to go hiking",
+        "role": "O",
+        "phonetic": "/tuː ɡoʊ ˈhaɪkɪŋ/",
+        "chinese": "到/向/去"
+      },
+      {
+        "text": "on Sunday",
+        "role": "A",
+        "phonetic": "/ɑːn ˈsʌndeɪ/",
+        "chinese": "在…上/星期日"
+      }
+    ]
+  },
+  {
+    "chinese": "你想和我们一起去吗",
+    "english": "Would you like to come with us",
+    "soundmark": "/wʊd juː laɪk tuː kʌm wɪð ʌs/",
+    "grammar": [
+      {
+        "text": "Would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like to come",
+        "role": "V",
+        "phonetic": "/laɪk tuː kʌm/",
+        "chinese": "喜欢/到/向/来"
+      },
+      {
+        "text": "with us",
+        "role": "A",
+        "phonetic": "/wɪð ʌs/",
+        "chinese": "和/用/我们"
+      }
+    ]
+  },
+  {
+    "chinese": "那听起来很棒",
+    "english": "That sounds great",
+    "soundmark": "/ðæt saʊndz ɡreɪt/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "sounds",
+        "role": "V",
+        "phonetic": "/saʊndz/",
+        "chinese": "声音"
+      },
+      {
+        "text": "great",
+        "role": "C",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      }
+    ]
+  },
+  {
+    "chinese": "这周末我会待在家里",
+    "english": "I will stay at home this weekend",
+    "soundmark": "/aɪ wɪl steɪ æt hoʊm ðɪs ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will stay",
+        "role": "V",
+        "phonetic": "/wɪl steɪ/",
+        "chinese": "将要/停留/保持"
+      },
+      {
+        "text": "at home",
+        "role": "A",
+        "phonetic": "/æt hoʊm/",
+        "chinese": "在家"
+      },
+      {
+        "text": "this weekend",
+        "role": "A",
+        "phonetic": "/ðɪs ˈwiːkend/",
+        "chinese": "这个/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "也许我会去看场电影",
+    "english": "Maybe I will go see a film",
+    "soundmark": "/ˈmeɪbiː aɪ wɪl ɡoʊ siː ə fɪlm/",
+    "grammar": [
+      {
+        "text": "Maybe",
+        "role": "A",
+        "phonetic": "/ˈmeɪbiː/",
+        "chinese": "也许"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will go see",
+        "role": "V",
+        "phonetic": "/wɪl ɡoʊ siː/",
+        "chinese": "将要/去/看见"
+      },
+      {
+        "text": "a film",
+        "role": "O",
+        "phonetic": "/ə fɪlm/",
+        "chinese": "一个/电影"
+      }
+    ]
+  },
+  {
+    "chinese": "我还没有任何计划",
+    "english": "I don't have any plans yet",
+    "soundmark": "/aɪ doʊnt hæv ˈeni plænz jet/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "don't have",
+        "role": "V",
+        "phonetic": "/doʊnt hæv/",
+        "chinese": "不/有/助动词"
+      },
+      {
+        "text": "any plans",
+        "role": "O",
+        "phonetic": "/ˈeni plænz/",
+        "chinese": "任何/…们/复数(计划)"
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "我打算周末好好休息",
+    "english": "I am planning to rest well on the weekend",
+    "soundmark": "/aɪ æm ˈplænɪŋ tuː rest wel ɑːn ðə ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am planning",
+        "role": "V",
+        "phonetic": "/æm ˈplænɪŋ/",
+        "chinese": "是/正在…(计划)"
+      },
+      {
+        "text": "to rest",
+        "role": "V",
+        "phonetic": "/tuː rest/",
+        "chinese": "到/向/休息/剩余"
+      },
+      {
+        "text": "well",
+        "role": "A",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      },
+      {
+        "text": "on the weekend",
+        "role": "A",
+        "phonetic": "/ɑːn ðə ˈwiːkend/",
+        "chinese": "在…上/这个/那个/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望天气会好",
+    "english": "I hope the weather will be nice",
+    "soundmark": "/aɪ hoʊp ðə ˈweðər wɪl biː naɪs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hope",
+        "role": "V",
+        "phonetic": "/hoʊp/",
+        "chinese": "希望"
+      },
+      {
+        "text": "the weather will be nice",
+        "role": "O",
+        "phonetic": "/ðə ˈweðər wɪl biː naɪs/",
+        "chinese": "这个/那个/天气/将要/是/好的/不错的"
+      }
+    ]
+  },
+  {
+    "chinese": "如果天气好的话我们要去公园",
+    "english": "If the weather is good we will go to the park",
+    "soundmark": "/ɪf ðə ˈweðər ɪz ɡʊd wiː wɪl ɡoʊ tuː ðə pɑːrk/",
+    "grammar": [
+      {
+        "text": "If the weather is good",
+        "role": "A",
+        "phonetic": "/ɪf ðə ˈweðər ɪz ɡʊd/",
+        "chinese": "如果/这个/那个/天气/是/好的"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will go",
+        "role": "V",
+        "phonetic": "/wɪl ɡoʊ/",
+        "chinese": "将要/去"
+      },
+      {
+        "text": "to the park",
+        "role": "A",
+        "phonetic": "/tuː ðə pɑːrk/",
+        "chinese": "到/向/这个/那个/公园"
+      }
+    ]
+  },
+  {
+    "chinese": "我们上周去的那个地方棒极了",
+    "english": "The place we went to last week was amazing",
+    "soundmark": "/ðə pleɪs wiː went tuː læst wiːk wʌz əˈmeɪzɪŋ/",
+    "grammar": [
+      {
+        "text": "The place we went to last week",
+        "role": "S",
+        "phonetic": "/ðə pleɪs wiː went tuː læst wiːk/",
+        "chinese": "这个/那个/地方/我们/去（过去式）/到/向/最后/周"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "amazing",
+        "role": "C",
+        "phonetic": "/əˈmeɪzɪŋ/",
+        "chinese": "令人惊奇的"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该在周末前完成你的作业",
+    "english": "You should finish your homework before the weekend",
+    "soundmark": "/juː ʃʊd ˈfɪnɪʃ jɔːr ˈhoʊmwɜːrk bɪˈfɔːr ðə ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should finish",
+        "role": "V",
+        "phonetic": "/ʃʊd ˈfɪnɪʃ/",
+        "chinese": "应该/完成"
+      },
+      {
+        "text": "your homework",
+        "role": "O",
+        "phonetic": "/jɔːr ˈhoʊmwɜːrk/",
+        "chinese": "你的/你们的/家庭作业"
+      },
+      {
+        "text": "before the weekend",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr ðə ˈwiːkend/",
+        "chinese": "在…之前/这个/那个/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "海滩",
+    "english": "beach",
+    "soundmark": "/biːtʃ/"
+  },
+  {
+    "chinese": "山区",
+    "english": "mountain",
+    "soundmark": "/ˈmaʊntn/"
+  },
+  {
+    "chinese": "天气",
+    "english": "weather",
+    "soundmark": "/ˈweðər/"
+  },
+  {
+    "chinese": "令人惊叹的",
+    "english": "amazing",
+    "soundmark": "/əˈmeɪzɪŋ/"
+  },
+  {
+    "chinese": "父母",
+    "english": "parents",
+    "soundmark": "/ˈperənts/"
+  },
+  {
+    "chinese": "完成",
+    "english": "finish",
+    "soundmark": "/ˈfɪnɪʃ/"
+  },
+  {
+    "chinese": "作业",
+    "english": "homework",
+    "soundmark": "/ˈhoʊmwɜːrk/"
+  },
+  {
+    "chinese": "在…之前",
+    "english": "before",
+    "soundmark": "/bɪˈfɔːr/"
+  },
+  {
+    "chinese": "户外",
+    "english": "outdoor",
+    "soundmark": "/ˈaʊtdɔːr/"
+  },
+  {
+    "chinese": "听起来",
+    "english": "sound",
+    "soundmark": "/saʊnd/"
+  },
+  {
+    "chinese": "你周五晚上有空吗",
+    "english": "Are you free on Friday evening",
+    "soundmark": "/ɑːr juː friː ɑːn ˈfraɪdeɪ ˈiːvnɪŋ/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "free",
+        "role": "C",
+        "phonetic": "/friː/",
+        "chinese": "自由的/免费的"
+      },
+      {
+        "text": "on Friday evening",
+        "role": "A",
+        "phonetic": "/ɑːn ˈfraɪdeɪ ˈiːvnɪŋ/",
+        "chinese": "在…上/星期五/晚上"
+      }
+    ]
+  },
+  {
+    "chinese": "这个周末我要去看望我的祖父母",
+    "english": "I am going to visit my grandparents this weekend",
+    "soundmark": "/aɪ æm ˈɡoʊɪŋ tuː ˈvɪzɪt maɪ ˈɡrænperənts ðɪs ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am going to visit",
+        "role": "V",
+        "phonetic": "/æm ˈɡoʊɪŋ tuː ˈvɪzɪt/",
+        "chinese": "是/到/向/访问/参观"
+      },
+      {
+        "text": "my grandparents",
+        "role": "O",
+        "phonetic": "/maɪ ˈɡrænperənts/",
+        "chinese": "我的/祖父母"
+      },
+      {
+        "text": "this weekend",
+        "role": "A",
+        "phonetic": "/ðɪs ˈwiːkend/",
+        "chinese": "这个/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算周六做什么",
+    "english": "What are you planning to do on Saturday",
+    "soundmark": "/wʌt ɑːr juː ˈplænɪŋ tuː duː ɑːn ˈsætərdeɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "planning",
+        "role": "V",
+        "phonetic": "/ˈplænɪŋ/",
+        "chinese": "计划"
+      },
+      {
+        "text": "to do",
+        "role": "V",
+        "phonetic": "/tuː duː/",
+        "chinese": "到/向/做/助动词"
+      },
+      {
+        "text": "on Saturday",
+        "role": "A",
+        "phonetic": "/ɑːn ˈsætərdeɪ/",
+        "chinese": "在…上/星期六"
+      }
+    ]
+  },
+  {
+    "chinese": "我们或许会去动物园",
+    "english": "Maybe we will go to the zoo",
+    "soundmark": "/ˈmeɪbiː wiː wɪl ɡoʊ tuː ðə zuː/",
+    "grammar": [
+      {
+        "text": "Maybe",
+        "role": "A",
+        "phonetic": "/ˈmeɪbiː/",
+        "chinese": "也许"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will go",
+        "role": "V",
+        "phonetic": "/wɪl ɡoʊ/",
+        "chinese": "将要/去"
+      },
+      {
+        "text": "to the zoo",
+        "role": "A",
+        "phonetic": "/tuː ðə zuː/",
+        "chinese": "到/向/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "周末我只想在家放松一下",
+    "english": "I just want to relax at home this weekend",
+    "soundmark": "/aɪ dʒʌst wɑːnt tuː rɪˈlæks æt hoʊm ðɪs ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "just want",
+        "role": "V",
+        "phonetic": "/dʒʌst wɑːnt/",
+        "chinese": "刚刚/只是/想要"
+      },
+      {
+        "text": "to relax",
+        "role": "V",
+        "phonetic": "/tuː rɪˈlæks/",
+        "chinese": "到/向/放松"
+      },
+      {
+        "text": "at home",
+        "role": "A",
+        "phonetic": "/æt hoʊm/",
+        "chinese": "在家"
+      },
+      {
+        "text": "this weekend",
+        "role": "A",
+        "phonetic": "/ðɪs ˈwiːkend/",
+        "chinese": "这个/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "你想明天过来吃晚饭吗",
+    "english": "Would you like to come over for dinner tomorrow",
+    "soundmark": "/wʊd juː laɪk tuː kʌm ˈoʊvər fɔːr ˈdɪnər təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "Would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "to come over",
+        "role": "V",
+        "phonetic": "/tuː kʌm ˈoʊvər/",
+        "chinese": "到/向/来/在…上方"
+      },
+      {
+        "text": "for dinner",
+        "role": "A",
+        "phonetic": "/fɔːr ˈdɪnər/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "我周末已经和朋友们有约了",
+    "english": "I already have plans with friends for the weekend",
+    "soundmark": "/aɪ ɔːlˈredi hæv plænz wɪð frendz fɔːr ðə ˈwiːkend/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "already have",
+        "role": "V",
+        "phonetic": "/ɔːlˈredi hæv/",
+        "chinese": "已经/有/助动词"
+      },
+      {
+        "text": "plans",
+        "role": "O",
+        "phonetic": "/plænz/",
+        "chinese": "计划"
+      },
+      {
+        "text": "with friends",
+        "role": "A",
+        "phonetic": "/wɪð frendz/",
+        "chinese": "和/用/…们/复数(朋友)"
+      },
+      {
+        "text": "for the weekend",
+        "role": "A",
+        "phonetic": "/fɔːr ðə ˈwiːkend/",
+        "chinese": "为了/对于/这个/那个/周末"
+      }
+    ]
+  },
+  {
+    "chinese": "祖父母",
+    "english": "grandparents",
+    "soundmark": "/ˈɡrænperənts/"
+  },
+  {
+    "chinese": "动物园",
+    "english": "zoo",
+    "soundmark": "/zuː/"
+  },
+  {
+    "chinese": "周五",
+    "english": "Friday",
+    "soundmark": "/ˈfraɪdeɪ/"
+  },
+  {
+    "chinese": "已经",
+    "english": "already",
+    "soundmark": "/ɔːlˈredi/"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "english": "phone",
+    "chinese": "电话",
+    "soundmark": "/foʊn/"
+  },
+  {
+    "english": "number",
+    "chinese": "号码",
+    "soundmark": "/ˈnʌmbər/"
+  },
+  {
+    "chinese": "萨莉的电话号码",
+    "english": "Sally's phone number",
+    "soundmark": "/ˈsæliz foʊn ˈnʌmbər/",
+    "grammar": [
+      {
+        "text": "Sally's",
+        "role": "Det",
+        "phonetic": "/ˈsæliz/",
+        "chinese": ""
+      },
+      {
+        "text": "phone",
+        "role": "Det",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      },
+      {
+        "text": "number",
+        "role": "S",
+        "phonetic": "/ˈnʌmbər/",
+        "chinese": "数字"
+      }
+    ]
+  },
+  {
+    "chinese": "号码是多少？",
+    "english": "What is the number?",
+    "soundmark": "/wʌt ɪz ðə ˈnʌmbər/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "number",
+        "role": "C",
+        "phonetic": "/ˈnʌmbər/",
+        "chinese": "数字"
+      }
+    ]
+  },
+  {
+    "chinese": "我记不住",
+    "english": "I can't remember",
+    "soundmark": "/aɪ kænt rɪˈmembər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can't",
+        "role": "V",
+        "phonetic": "/kænt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "remember",
+        "role": "V",
+        "phonetic": "/rɪˈmembər/",
+        "chinese": "记住"
+      }
+    ]
+  },
+  {
+    "chinese": "写下来",
+    "english": "Write it down",
+    "soundmark": "/raɪt ɪt daʊn/",
+    "grammar": [
+      {
+        "text": "Write",
+        "role": "V",
+        "phonetic": "/raɪt/",
+        "chinese": "写"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "down",
+        "role": "A",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      }
+    ]
+  },
+  {
+    "chinese": "我打给她",
+    "english": "I'll call her",
+    "soundmark": "/aɪl kɔːl hɜːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "'ll",
+        "role": "V",
+        "phonetic": "/l/",
+        "chinese": ""
+      },
+      {
+        "text": "call",
+        "role": "V",
+        "phonetic": "/kɔːl/",
+        "chinese": "打电话/叫"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      }
+    ]
+  },
+  {
+    "english": "contact",
+    "chinese": "联系",
+    "soundmark": "/ˈkɑːntækt/"
+  },
+  {
+    "english": "memorize",
+    "chinese": "记住",
+    "soundmark": "/ˈmeməraɪz/"
+  },
+  {
+    "english": "dial",
+    "chinese": "拨号",
+    "soundmark": "/ˈdaɪəl/"
+  }
+]

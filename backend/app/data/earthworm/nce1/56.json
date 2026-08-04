@@ -1,0 +1,759 @@
+[
+  {
+    "chinese": "大的",
+    "english": "big",
+    "soundmark": "/bɪɡ/"
+  },
+  {
+    "chinese": "小的",
+    "english": "small",
+    "soundmark": "/smɔːl/"
+  },
+  {
+    "chinese": "长的",
+    "english": "long",
+    "soundmark": "/lɔːŋ/"
+  },
+  {
+    "chinese": "短的",
+    "english": "short",
+    "soundmark": "/ʃɔːrt/"
+  },
+  {
+    "chinese": "重的",
+    "english": "heavy",
+    "soundmark": "/ˈhevi/"
+  },
+  {
+    "chinese": "轻的",
+    "english": "light",
+    "soundmark": "/laɪt/"
+  },
+  {
+    "chinese": "圆的",
+    "english": "round",
+    "soundmark": "/raʊnd/"
+  },
+  {
+    "chinese": "方的",
+    "english": "square",
+    "soundmark": "/skwer/"
+  },
+  {
+    "chinese": "软的",
+    "english": "soft",
+    "soundmark": "/sɔːft/"
+  },
+  {
+    "chinese": "硬的",
+    "english": "hard",
+    "soundmark": "/hɑːrd/"
+  },
+  {
+    "chinese": "颜色",
+    "english": "color",
+    "soundmark": "/ˈkʌlər/"
+  },
+  {
+    "chinese": "形状",
+    "english": "shape",
+    "soundmark": "/ʃeɪp/"
+  },
+  {
+    "chinese": "大小",
+    "english": "size",
+    "soundmark": "/saɪz/"
+  },
+  {
+    "chinese": "材质",
+    "english": "material",
+    "soundmark": "/məˈtɪriəl/"
+  },
+  {
+    "chinese": "它是什么样子的",
+    "english": "What does it look like",
+    "soundmark": "/wʌt dʌz ɪt lʊk laɪk/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "look like",
+        "role": "V",
+        "phonetic": "/lʊk laɪk/",
+        "chinese": "看起来像"
+      }
+    ]
+  },
+  {
+    "chinese": "它又大又圆",
+    "english": "It is big and round",
+    "soundmark": "/ɪt ɪz bɪɡ ænd raʊnd/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "big and round",
+        "role": "C",
+        "phonetic": "/bɪɡ ænd raʊnd/",
+        "chinese": "大的/和"
+      }
+    ]
+  },
+  {
+    "chinese": "这个包很重",
+    "english": "This bag is very heavy",
+    "soundmark": "/ðɪs bæɡ ɪz ˈveri ˈhevi/",
+    "grammar": [
+      {
+        "text": "This bag",
+        "role": "S",
+        "phonetic": "/ðɪs bæɡ/",
+        "chinese": "这个/包"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very heavy",
+        "role": "C",
+        "phonetic": "/ˈveri ˈhevi/",
+        "chinese": "非常/重的"
+      }
+    ]
+  },
+  {
+    "chinese": "你的房间是什么颜色的",
+    "english": "What color is your room",
+    "soundmark": "/wʌt ˈkʌlər ɪz jɔːr ruːm/",
+    "grammar": [
+      {
+        "text": "What color",
+        "role": "S",
+        "phonetic": "/wʌt ˈkʌlər/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your room",
+        "role": "C",
+        "phonetic": "/jɔːr ruːm/",
+        "chinese": "你的/你们的/房间"
+      }
+    ]
+  },
+  {
+    "chinese": "它是蓝色的",
+    "english": "It is blue",
+    "soundmark": "/ɪt ɪz bluː/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "blue",
+        "role": "C",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这张桌子是木头做的",
+    "english": "This table is made of wood",
+    "soundmark": "/ðɪs ˈteɪbl ɪz meɪd ʌv wʊd/",
+    "grammar": [
+      {
+        "text": "This table",
+        "role": "S",
+        "phonetic": "/ðɪs ˈteɪbl/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "of wood",
+        "role": "C",
+        "phonetic": "/ʌv wʊd/",
+        "chinese": "…的/木头"
+      }
+    ]
+  },
+  {
+    "chinese": "它有一个方形的顶",
+    "english": "It has a square top",
+    "soundmark": "/ɪt hæz ə skwer tɑːp/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a square top",
+        "role": "O",
+        "phonetic": "/ə skwer tɑːp/",
+        "chinese": "一个/顶部"
+      }
+    ]
+  },
+  {
+    "chinese": "这个沙发摸上去很软",
+    "english": "This sofa feels very soft",
+    "soundmark": "/ðɪs ˈsoʊfə fiːlz ˈveri sɔːft/",
+    "grammar": [
+      {
+        "text": "This sofa",
+        "role": "S",
+        "phonetic": "/ðɪs ˈsoʊfə/",
+        "chinese": "这个"
+      },
+      {
+        "text": "feels",
+        "role": "V",
+        "phonetic": "/fiːlz/",
+        "chinese": "感觉"
+      },
+      {
+        "text": "very soft",
+        "role": "C",
+        "phonetic": "/ˈveri sɔːft/",
+        "chinese": "非常/软的"
+      }
+    ]
+  },
+  {
+    "chinese": "它比那个小",
+    "english": "It is smaller than that one",
+    "soundmark": "/ɪt ɪz smɔːlər ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "smaller",
+        "role": "C",
+        "phonetic": "/smɔːlər/",
+        "chinese": "更…的/…者(小的)"
+      },
+      {
+        "text": "than that one",
+        "role": "A",
+        "phonetic": "/ðæn ðæt wʌn/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "红",
+    "english": "red",
+    "soundmark": "/red/"
+  },
+  {
+    "chinese": "蓝",
+    "english": "blue",
+    "soundmark": "/bluː/"
+  },
+  {
+    "chinese": "绿的",
+    "english": "green",
+    "soundmark": "/ɡriːn/"
+  },
+  {
+    "chinese": "黄",
+    "english": "yellow",
+    "soundmark": "/ˈjeloʊ/"
+  },
+  {
+    "chinese": "黑",
+    "english": "black",
+    "soundmark": "/blæk/"
+  },
+  {
+    "chinese": "白",
+    "english": "white",
+    "soundmark": "/waɪt/"
+  },
+  {
+    "chinese": "材质",
+    "english": "material",
+    "soundmark": "/məˈtɪriəl/"
+  },
+  {
+    "chinese": "摸起来",
+    "english": "feel",
+    "soundmark": "/fiːl/"
+  },
+  {
+    "chinese": "顶部",
+    "english": "top",
+    "soundmark": "/tɑːp/"
+  },
+  {
+    "chinese": "比较",
+    "english": "than",
+    "soundmark": "/ðæn/"
+  },
+  {
+    "chinese": "你能描述一下你丢的包吗",
+    "english": "Can you describe the bag you lost",
+    "soundmark": "/kæn juː dɪˈskraɪb ðə bæɡ juː lɔːst/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "describe",
+        "role": "V",
+        "phonetic": "/dɪˈskraɪb/",
+        "chinese": "描述"
+      },
+      {
+        "text": "the bag",
+        "role": "O",
+        "phonetic": "/ðə bæɡ/",
+        "chinese": "这个/那个/包"
+      },
+      {
+        "text": "you lost",
+        "role": "A",
+        "phonetic": "/juː lɔːst/",
+        "chinese": "你/你们/丢失的/迷路的"
+      }
+    ]
+  },
+  {
+    "chinese": "是一个棕色的皮质手提包",
+    "english": "It is a brown leather handbag",
+    "soundmark": "/ɪt ɪz ə braʊn ˈleðər ˈhændbæɡ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a brown leather handbag",
+        "role": "C",
+        "phonetic": "/ə braʊn ˈleðər ˈhændbæɡ/",
+        "chinese": "一个/棕色的/皮革/手提包"
+      }
+    ]
+  },
+  {
+    "chinese": "这条鱼闻起来很新鲜",
+    "english": "This fish smells very fresh",
+    "soundmark": "/ðɪs fɪʃ smelz ˈveri freʃ/",
+    "grammar": [
+      {
+        "text": "This fish",
+        "role": "S",
+        "phonetic": "/ðɪs fɪʃ/",
+        "chinese": "这个"
+      },
+      {
+        "text": "smells",
+        "role": "V",
+        "phonetic": "/smelz/",
+        "chinese": "闻/气味"
+      },
+      {
+        "text": "very fresh",
+        "role": "C",
+        "phonetic": "/ˈveri freʃ/",
+        "chinese": "非常/新鲜的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个戒指是金子做的",
+    "english": "This ring is made of gold",
+    "soundmark": "/ðɪs rɪŋ ɪz meɪd ʌv ɡoʊld/",
+    "grammar": [
+      {
+        "text": "This ring",
+        "role": "S",
+        "phonetic": "/ðɪs rɪŋ/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "of gold",
+        "role": "C",
+        "phonetic": "/ʌv ɡoʊld/",
+        "chinese": "…的/金子/金色"
+      }
+    ]
+  },
+  {
+    "chinese": "你的书包比我的更重",
+    "english": "Your schoolbag is heavier than mine",
+    "soundmark": "/jɔːr ˈskuːlbæɡ ɪz ˈheviər ðæn maɪn/",
+    "grammar": [
+      {
+        "text": "Your schoolbag",
+        "role": "S",
+        "phonetic": "/jɔːr ˈskuːlbæɡ/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "heavier",
+        "role": "C",
+        "phonetic": "/ˈheviər/",
+        "chinese": ""
+      },
+      {
+        "text": "than mine",
+        "role": "A",
+        "phonetic": "/ðæn maɪn/",
+        "chinese": "比/我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "那个花瓶是什么形状的",
+    "english": "What shape is that vase",
+    "soundmark": "/wʌt ʃeɪp ɪz ðæt veɪs/",
+    "grammar": [
+      {
+        "text": "What shape",
+        "role": "S",
+        "phonetic": "/wʌt ʃeɪp/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "that vase",
+        "role": "C",
+        "phonetic": "/ðæt veɪs/",
+        "chinese": "那个"
+      }
+    ]
+  },
+  {
+    "chinese": "它是圆柱形的很高",
+    "english": "It is tall and shaped like a cylinder",
+    "soundmark": "/ɪt ɪz tɔːl ænd ʃeɪpt laɪk ə ˈsɪlɪndər/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "tall and shaped like a cylinder",
+        "role": "C",
+        "phonetic": "/tɔːl ænd ʃeɪpt laɪk ə ˈsɪlɪndər/",
+        "chinese": "高的/和/喜欢/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "描述",
+    "english": "describe",
+    "soundmark": "/dɪˈskraɪb/"
+  },
+  {
+    "chinese": "皮质",
+    "english": "leather",
+    "soundmark": "/ˈleðər/"
+  },
+  {
+    "chinese": "手提包",
+    "english": "handbag",
+    "soundmark": "/ˈhændbæɡ/"
+  },
+  {
+    "chinese": "新鲜的",
+    "english": "fresh",
+    "soundmark": "/freʃ/"
+  },
+  {
+    "chinese": "金子",
+    "english": "gold",
+    "soundmark": "/ɡoʊld/"
+  },
+  {
+    "chinese": "更重",
+    "english": "heavier",
+    "soundmark": "/ˈheviər/"
+  },
+  {
+    "chinese": "花瓶",
+    "english": "vase",
+    "soundmark": "/veɪs/"
+  },
+  {
+    "chinese": "这个毛衣摸起来好柔软是什么材质",
+    "english": "This sweater feels so soft what material is it",
+    "soundmark": "/ðɪs ˈswetər fiːlz soʊ sɔːft wʌt məˈtɪriəl ɪz ɪt/",
+    "grammar": [
+      {
+        "text": "This sweater",
+        "role": "S",
+        "phonetic": "/ðɪs ˈswetər/",
+        "chinese": "这个/毛衣"
+      },
+      {
+        "text": "feels",
+        "role": "V",
+        "phonetic": "/fiːlz/",
+        "chinese": "感觉"
+      },
+      {
+        "text": "so soft",
+        "role": "C",
+        "phonetic": "/soʊ sɔːft/",
+        "chinese": "如此/所以/软的"
+      },
+      {
+        "text": "what material is it",
+        "role": "A",
+        "phonetic": "/wʌt məˈtɪriəl ɪz ɪt/",
+        "chinese": "什么/是/它"
+      }
+    ]
+  },
+  {
+    "chinese": "是纯羊毛的很保暖",
+    "english": "It is pure wool and very warm",
+    "soundmark": "/ɪt ɪz pjʊr wʊl ænd ˈveri wɔːrm/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "pure wool",
+        "role": "C",
+        "phonetic": "/pjʊr wʊl/",
+        "chinese": "羊毛"
+      },
+      {
+        "text": "and very warm",
+        "role": "A",
+        "phonetic": "/ænd ˈveri wɔːrm/",
+        "chinese": "和/非常/温暖的"
+      }
+    ]
+  },
+  {
+    "chinese": "你更喜欢哪种颜色红色还是蓝色",
+    "english": "Which color do you prefer red or blue",
+    "soundmark": "/wɪtʃ ˈkʌlər duː juː prɪˈfɜːr red ɔːr bluː/",
+    "grammar": [
+      {
+        "text": "Which color",
+        "role": "O",
+        "phonetic": "/wɪtʃ ˈkʌlər/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "prefer",
+        "role": "V",
+        "phonetic": "/prɪˈfɜːr/",
+        "chinese": ""
+      },
+      {
+        "text": "red or blue",
+        "role": "O",
+        "phonetic": "/red ɔːr bluː/",
+        "chinese": "红色的/或者/蓝色的"
+      }
+    ]
+  },
+  {
+    "chinese": "我更喜欢蓝色它看起来很平静",
+    "english": "I prefer blue it looks very calm",
+    "soundmark": "/aɪ prɪˈfɜːr bluː ɪt lʊks ˈveri kɑːm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "prefer",
+        "role": "V",
+        "phonetic": "/prɪˈfɜːr/",
+        "chinese": ""
+      },
+      {
+        "text": "blue",
+        "role": "O",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      },
+      {
+        "text": "it looks very calm",
+        "role": "A",
+        "phonetic": "/ɪt lʊks ˈveri kɑːm/",
+        "chinese": "它/…们/复数(看起来)/非常/平静的"
+      }
+    ]
+  },
+  {
+    "chinese": "毛衣",
+    "english": "sweater",
+    "soundmark": "/ˈswetər/"
+  },
+  {
+    "chinese": "纯的",
+    "english": "pure",
+    "soundmark": "/pjʊr/"
+  },
+  {
+    "chinese": "羊毛",
+    "english": "wool",
+    "soundmark": "/wʊl/"
+  },
+  {
+    "chinese": "更喜欢",
+    "english": "prefer",
+    "soundmark": "/prɪˈfɜːr/"
+  },
+  {
+    "chinese": "平静的",
+    "english": "calm",
+    "soundmark": "/kɑːm/"
+  },
+  {
+    "chinese": "温暖的",
+    "english": "warm",
+    "soundmark": "/wɔːrm/"
+  }
+]

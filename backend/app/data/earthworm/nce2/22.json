@@ -1,0 +1,711 @@
+[
+  {
+    "chinese": "信封",
+    "english": "envelope",
+    "soundmark": "/ˈenvəloʊp/"
+  },
+  {
+    "chinese": "玻璃",
+    "english": "glass",
+    "soundmark": "/ɡlæs/"
+  },
+  {
+    "chinese": "邮寄",
+    "english": "post",
+    "soundmark": "/poʊst/"
+  },
+  {
+    "chinese": "包裹",
+    "english": "parcel",
+    "soundmark": "/ˈpɑːrsəl/"
+  },
+  {
+    "chinese": "邮局",
+    "english": "post office",
+    "soundmark": "/poʊst/ /ˈɔːfɪs/"
+  },
+  {
+    "chinese": "柜台",
+    "english": "counter",
+    "soundmark": "/ˈkaʊntər/"
+  },
+  {
+    "chinese": "易碎的",
+    "english": "fragile",
+    "soundmark": "/ˈfrædʒaɪl/"
+  },
+  {
+    "chinese": "破碎",
+    "english": "break",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "chinese": "里面",
+    "english": "inside",
+    "soundmark": "/ɪnˈsaɪd/"
+  },
+  {
+    "chinese": "玻璃瓶",
+    "english": "glass bottle",
+    "soundmark": "/ɡlæs/ /ˈbɑːtəl/"
+  },
+  {
+    "chinese": "寄到",
+    "english": "send to",
+    "soundmark": "/send/ /tuː/"
+  },
+  {
+    "chinese": "国外",
+    "english": "abroad",
+    "soundmark": "/əˈbrɔːd/"
+  },
+  {
+    "chinese": "包装",
+    "english": "pack",
+    "soundmark": "/pæk/"
+  },
+  {
+    "chinese": "小心地",
+    "english": "carefully",
+    "soundmark": "/ˈkerfəli/"
+  },
+  {
+    "chinese": "打碎",
+    "english": "smash",
+    "soundmark": "/smæʃ/"
+  },
+  {
+    "chinese": "昨天我把包裹拿到了邮局",
+    "english": "I took the parcel to the post office yesterday",
+    "soundmark": "/aɪ/ /tuːk/ /ðə/ /ˈpɑːrsəl/ /tuː/ /ðə/ /poʊst/ /ˈɔːfɪs/ /ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tuːk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "parcel",
+        "role": "O",
+        "phonetic": "/ˈpɑːrsəl/",
+        "chinese": "包裹"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "post",
+        "role": "A",
+        "phonetic": "/poʊst/",
+        "chinese": ""
+      },
+      {
+        "text": "office",
+        "role": "O",
+        "phonetic": "/ˈɔːfɪs/",
+        "chinese": "办公室"
+      },
+      {
+        "text": "yesterday",
+        "role": "Adv",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "这是一个玻璃信封",
+    "english": "It was a glass envelope",
+    "soundmark": "/ɪt/ /wʌz/ /ə/ /ɡlæs/ /ˈenvəloʊp/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "glass",
+        "role": "A",
+        "phonetic": "/ɡlæs/",
+        "chinese": "玻璃/玻璃杯"
+      },
+      {
+        "text": "envelope",
+        "role": "C",
+        "phonetic": "/ˈenvəloʊp/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我在柜台把包裹交给了职员",
+    "english": "I handed the parcel to the clerk at the counter",
+    "soundmark": "/aɪ/ /hændɪd/ /ðə/ /ˈpɑːrsəl/ /tuː/ /ðə/ /klɜːrk/ /æt/ /ðə/ /ˈkaʊntər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "handed",
+        "role": "V",
+        "phonetic": "/hændɪd/",
+        "chinese": "手"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "parcel",
+        "role": "O",
+        "phonetic": "/ˈpɑːrsəl/",
+        "chinese": "包裹"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clerk",
+        "role": "O",
+        "phonetic": "/klɜːrk/",
+        "chinese": ""
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "counter",
+        "role": "O",
+        "phonetic": "/ˈkaʊntər/",
+        "chinese": "更…的/…者(数)"
+      }
+    ]
+  },
+  {
+    "chinese": "职员问我里面装的是什么",
+    "english": "The clerk asked me what was inside",
+    "soundmark": "/ðə/ /klɜːrk/ /æskt/ /miː/ /wɑːt/ /wʌz/ /ɪnˈsaɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "clerk",
+        "role": "S",
+        "phonetic": "/klɜːrk/",
+        "chinese": ""
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "what",
+        "role": "Int",
+        "phonetic": "/wɑːt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "inside",
+        "role": "C",
+        "phonetic": "/ɪnˈsaɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我告诉他那是一个玻璃信封",
+    "english": "I told him it was a glass envelope",
+    "soundmark": "/aɪ/ /toʊld/ /hɪm/ /ɪt/ /wʌz/ /ə/ /ɡlæs/ /ˈenvəloʊp/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "glass",
+        "role": "A",
+        "phonetic": "/ɡlæs/",
+        "chinese": "玻璃/玻璃杯"
+      },
+      {
+        "text": "envelope",
+        "role": "C",
+        "phonetic": "/ˈenvəloʊp/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他小心翼翼地包装了这个包裹",
+    "english": "He packed the parcel very carefully",
+    "soundmark": "/hiː/ /pækt/ /ðə/ /ˈpɑːrsəl/ /ˈveri/ /ˈkerfəli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "packed",
+        "role": "V",
+        "phonetic": "/pækt/",
+        "chinese": "塞满的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "parcel",
+        "role": "O",
+        "phonetic": "/ˈpɑːrsəl/",
+        "chinese": "包裹"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "carefully",
+        "role": "Adv",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      }
+    ]
+  },
+  {
+    "chinese": "我把包裹寄到了国外",
+    "english": "I sent the parcel abroad",
+    "soundmark": "/aɪ/ /sent/ /ðə/ /ˈpɑːrsəl/ /əˈbrɔːd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sent",
+        "role": "V",
+        "phonetic": "/sent/",
+        "chinese": "寄/发送（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "parcel",
+        "role": "O",
+        "phonetic": "/ˈpɑːrsəl/",
+        "chinese": "包裹"
+      },
+      {
+        "text": "abroad",
+        "role": "Adv",
+        "phonetic": "/əˈbrɔːd/",
+        "chinese": "国外"
+      }
+    ]
+  },
+  {
+    "chinese": "我很担心那个信封会碎",
+    "english": "I was worried that the envelope would break",
+    "soundmark": "/aɪ/ /wʌz/ /ˈwɜːrid/ /ðæt/ /ði/ /ˈenvəloʊp/ /wʊd/ /breɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "worried",
+        "role": "C",
+        "phonetic": "/ˈwɜːrid/",
+        "chinese": "担心的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "envelope",
+        "role": "S",
+        "phonetic": "/ˈenvəloʊp/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "break",
+        "role": "V",
+        "phonetic": "/breɪk/",
+        "chinese": "打破"
+      }
+    ]
+  },
+  {
+    "chinese": "那个玻璃信封太漂亮了",
+    "english": "The glass envelope was very beautiful",
+    "soundmark": "/ðə/ /ɡlæs/ /ˈenvəloʊp/ /wʌz/ /ˈveri/ /ˈbjuːtɪfəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "glass",
+        "role": "A",
+        "phonetic": "/ɡlæs/",
+        "chinese": "玻璃/玻璃杯"
+      },
+      {
+        "text": "envelope",
+        "role": "S",
+        "phonetic": "/ˈenvəloʊp/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      }
+    ]
+  },
+  {
+    "chinese": "我花了很多钱寄这个包裹",
+    "english": "I spent a lot of money sending this parcel",
+    "soundmark": "/aɪ/ /spent/ /ə/ /lɑːt/ /ʌv/ /ˈmʌni/ /ˈsendɪŋ/ /ðɪs/ /ˈpɑːrsəl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "spent",
+        "role": "V",
+        "phonetic": "/spent/",
+        "chinese": "花费（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lot",
+        "role": "O",
+        "phonetic": "/lɑːt/",
+        "chinese": "许多"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "money",
+        "role": "O",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      },
+      {
+        "text": "sending",
+        "role": "V",
+        "phonetic": "/ˈsendɪŋ/",
+        "chinese": "发送的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "parcel",
+        "role": "O",
+        "phonetic": "/ˈpɑːrsəl/",
+        "chinese": "包裹"
+      }
+    ]
+  },
+  {
+    "chinese": "上周我收到了回信",
+    "english": "I received a reply last week",
+    "soundmark": "/aɪ/ /rɪˈsiːvd/ /ə/ /rɪˈplaɪ/ /læst/ /wiːk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "reply",
+        "role": "O",
+        "phonetic": "/rɪˈplaɪ/",
+        "chinese": "回复"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "信封完好无损地到达了",
+    "english": "The envelope arrived in perfect condition",
+    "soundmark": "/ði/ /ˈenvəloʊp/ /əˈraɪvd/ /ɪn/ /ˈpɜːrfɪkt/ /kənˈdɪʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "envelope",
+        "role": "S",
+        "phonetic": "/ˈenvəloʊp/",
+        "chinese": ""
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "perfect",
+        "role": "A",
+        "phonetic": "/ˈpɜːrfɪkt/",
+        "chinese": "完美的"
+      },
+      {
+        "text": "condition",
+        "role": "O",
+        "phonetic": "/kənˈdɪʃən/",
+        "chinese": "条件/状况"
+      }
+    ]
+  },
+  {
+    "chinese": "易碎的",
+    "english": "fragile",
+    "soundmark": "/ˈfrædʒaɪl/"
+  },
+  {
+    "chinese": "职员",
+    "english": "clerk",
+    "soundmark": "/klɜːrk/"
+  },
+  {
+    "chinese": "小心",
+    "english": "careful",
+    "soundmark": "/ˈkerfəl/"
+  },
+  {
+    "chinese": "回复",
+    "english": "reply",
+    "soundmark": "/rɪˈplaɪ/"
+  },
+  {
+    "chinese": "状况",
+    "english": "condition",
+    "soundmark": "/kənˈdɪʃən/"
+  },
+  {
+    "chinese": "完好无损地",
+    "english": "in perfect condition",
+    "soundmark": "/ɪn/ /ˈpɜːrfɪkt/ /kənˈdɪʃən/"
+  },
+  {
+    "chinese": "收到",
+    "english": "receive",
+    "soundmark": "/rɪˈsiːv/"
+  },
+  {
+    "chinese": "担心",
+    "english": "worried",
+    "soundmark": "/ˈwɜːrid/"
+  }
+]

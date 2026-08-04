@@ -1,0 +1,2589 @@
+[
+  {
+    "chinese": "因为(because)",
+    "english": "because",
+    "soundmark": "/bɪˈkɒz/"
+  },
+  {
+    "chinese": "由于(since)",
+    "english": "since",
+    "soundmark": "/sɪns/"
+  },
+  {
+    "chinese": "虽然(although)",
+    "english": "although",
+    "soundmark": "/ɔːlˈðoʊ/"
+  },
+  {
+    "chinese": "尽管(though)",
+    "english": "though",
+    "soundmark": "/ðoʊ/"
+  },
+  {
+    "chinese": "即使(even though)",
+    "english": "even though",
+    "soundmark": "/ˈiːvən ðoʊ/"
+  },
+  {
+    "chinese": "下雨(rain)",
+    "english": "rain",
+    "soundmark": "/reɪn/"
+  },
+  {
+    "chinese": "累的(tired)",
+    "english": "tired",
+    "soundmark": "/taɪərd/"
+  },
+  {
+    "chinese": "忙碌的(busy)",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "饿的(hungry)",
+    "english": "hungry",
+    "soundmark": "/ˈhʌŋɡri/"
+  },
+  {
+    "chinese": "生病(sick)",
+    "english": "sick",
+    "soundmark": "/sɪk/"
+  },
+  {
+    "chinese": "因为下雨",
+    "english": "because of the rain",
+    "soundmark": "/bɪˈkɒz əv ðə reɪn/"
+  },
+  {
+    "chinese": "因为我累了",
+    "english": "because I am tired",
+    "soundmark": "/bɪˈkɒz aɪ æm taɪərd/"
+  },
+  {
+    "chinese": "因为他太忙了",
+    "english": "since he is too busy",
+    "soundmark": "/sɪns hiː ɪz tuː ˈbɪzi/"
+  },
+  {
+    "chinese": "虽然天很冷",
+    "english": "although it is cold",
+    "soundmark": "/ɔːlˈðoʊ ɪt ɪz koʊld/"
+  },
+  {
+    "chinese": "即使很困难",
+    "english": "even though it is hard",
+    "soundmark": "/ˈiːvən ðoʊ ɪt ɪz hɑːrd/"
+  },
+  {
+    "chinese": "因为下雨我们待在了家里",
+    "english": "We stayed home because it was raining",
+    "soundmark": "/wiː steɪd hoʊm bɪˈkɒz ɪt wʌz ˈreɪnɪŋ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "stayed",
+        "role": "V",
+        "phonetic": "/steɪd/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      }
+    ]
+  },
+  {
+    "chinese": "我因为太累了所以没去聚会",
+    "english": "I didn't go to the party because I was too tired",
+    "soundmark": "/aɪ ˈdɪdənt ɡoʊ tuː ðə ˈpɑːrti bɪˈkɒz aɪ wʌz tuː taɪərd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "didn't",
+        "role": "V",
+        "phonetic": "/ˈdɪdənt/",
+        "chinese": "不（过去）"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "party",
+        "role": "A",
+        "phonetic": "/ˈpɑːrti/",
+        "chinese": "派对"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "too",
+        "role": "A",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/taɪərd/",
+        "chinese": "累的"
+      }
+    ]
+  },
+  {
+    "chinese": "既然你这么忙那我明天再来",
+    "english": "Since you are so busy I will come back tomorrow",
+    "soundmark": "/sɪns juː ɑːr soʊ ˈbɪzi aɪ wɪl kʌm bæk təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "Since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "so",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "busy",
+        "role": "C",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "back",
+        "role": "A",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然天很冷他还是去跑步了",
+    "english": "Although it was cold he still went for a run",
+    "soundmark": "/ɔːlˈðoʊ ɪt wʌz koʊld hiː stɪl went fɔːr ə rʌn/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "cold",
+        "role": "C",
+        "phonetic": "/koʊld/",
+        "chinese": "冷的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "still",
+        "role": "A",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "run",
+        "role": "A",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      }
+    ]
+  },
+  {
+    "chinese": "即使他很累他还是帮我完成了工作",
+    "english": "Even though he was tired he helped me finish the work",
+    "soundmark": "/ˈiːvən ðoʊ hiː wʌz taɪərd hiː helpt miː ˈfɪnɪʃ ðə wɜːrk/",
+    "grammar": [
+      {
+        "text": "Even",
+        "role": "A",
+        "phonetic": "/ˈiːvən/",
+        "chinese": "甚至"
+      },
+      {
+        "text": "though",
+        "role": "P",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/taɪərd/",
+        "chinese": "累的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "helped",
+        "role": "V",
+        "phonetic": "/helpt/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "finish",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "chinese": "完成"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "他出不了门因为车坏了",
+    "english": "He couldn't go out because his car broke down",
+    "soundmark": "/hiː ˈkʊdənt ɡoʊ aʊt bɪˈkɒz hɪz kɑːr broʊk daʊn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "couldn't",
+        "role": "V",
+        "phonetic": "/ˈkʊdənt/",
+        "chinese": "不能（过去）"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "broke",
+        "role": "V",
+        "phonetic": "/broʊk/",
+        "chinese": ""
+      },
+      {
+        "text": "down",
+        "role": "A",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      }
+    ]
+  },
+  {
+    "chinese": "她通过了考试因为她非常用功",
+    "english": "She passed the exam because she worked very hard",
+    "soundmark": "/ʃiː pæst ði ɪɡˈzæm bɪˈkɒz ʃiː wɜːrkt ˈveri hɑːrd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pæst/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "exam",
+        "role": "O",
+        "phonetic": "/ɪɡˈzæm/",
+        "chinese": "考试"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "worked",
+        "role": "V",
+        "phonetic": "/wɜːrkt/",
+        "chinese": "工作"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "hard",
+        "role": "A",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然这部电影很长但非常精彩",
+    "english": "Although the movie was long it was very exciting",
+    "soundmark": "/ɔːlˈðoʊ ðə ˈmuːvi wʌz lɔːŋ ɪt wʌz ˈveri ɪkˈsaɪtɪŋ/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "movie",
+        "role": "S",
+        "phonetic": "/ˈmuːvi/",
+        "chinese": "电影"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "long",
+        "role": "C",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "exciting",
+        "role": "C",
+        "phonetic": "/ɪkˈsaɪtɪŋ/",
+        "chinese": "令人兴奋的"
+      }
+    ]
+  },
+  {
+    "chinese": "因为交通太堵我上班迟到了",
+    "english": "I was late for work because the traffic was terrible",
+    "soundmark": "/aɪ wʌz leɪt fɔːr wɜːrk bɪˈkɒz ðə ˈtræfɪk wʌz ˈterɪbəl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "work",
+        "role": "A",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "traffic",
+        "role": "S",
+        "phonetic": "/ˈtræfɪk/",
+        "chinese": "交通"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "terrible",
+        "role": "C",
+        "phonetic": "/ˈterɪbəl/",
+        "chinese": "可怕的"
+      }
+    ]
+  },
+  {
+    "chinese": "因为他生病了他没来上课",
+    "english": "Since he was sick he didn't come to class",
+    "soundmark": "/sɪns hiː wʌz sɪk hiː ˈdɪdənt kʌm tuː klæs/",
+    "grammar": [
+      {
+        "text": "Since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "sick",
+        "role": "C",
+        "phonetic": "/sɪk/",
+        "chinese": "生病的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "didn't",
+        "role": "V",
+        "phonetic": "/ˈdɪdənt/",
+        "chinese": "不（过去）"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "class",
+        "role": "A",
+        "phonetic": "/klæs/",
+        "chinese": "班级/阶层"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然他很年轻但他很有经验",
+    "english": "Though he is young he is very experienced",
+    "soundmark": "/ðoʊ hiː ɪz jʌŋ hiː ɪz ˈveri ɪkˈspɪriənst/",
+    "grammar": [
+      {
+        "text": "Though",
+        "role": "P",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "experienced",
+        "role": "C",
+        "phonetic": "/ɪkˈspɪriənst/",
+        "chinese": "经历/经验"
+      }
+    ]
+  },
+  {
+    "chinese": "即使下着大雨我们也按时出发了",
+    "english": "We left on time even though it was raining hard",
+    "soundmark": "/wiː left ɒn taɪm ˈiːvən ðoʊ ɪt wʌz ˈreɪnɪŋ hɑːrd/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "even",
+        "role": "A",
+        "phonetic": "/ˈiːvən/",
+        "chinese": "甚至"
+      },
+      {
+        "text": "though",
+        "role": "P",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      },
+      {
+        "text": "hard",
+        "role": "A",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      }
+    ]
+  },
+  {
+    "chinese": "既然你不喜欢这部电影我们可以换一部",
+    "english": "Since you don't like this movie we can watch another one",
+    "soundmark": "/sɪns juː doʊnt laɪk ðɪs ˈmuːvi wiː kæn wɒtʃ əˈnʌðər wʌn/",
+    "grammar": [
+      {
+        "text": "Since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "don't",
+        "role": "V",
+        "phonetic": "/doʊnt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "movie",
+        "role": "O",
+        "phonetic": "/ˈmuːvi/",
+        "chinese": "电影"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "watch",
+        "role": "V",
+        "phonetic": "/wɒtʃ/",
+        "chinese": "观看"
+      },
+      {
+        "text": "another",
+        "role": "Det",
+        "phonetic": "/əˈnʌðər/",
+        "chinese": "另一个"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "他丢了工作因为公司倒闭了",
+    "english": "He lost his job because the company closed down",
+    "soundmark": "/hiː lɒst hɪz dʒɒb bɪˈkɒz ðə ˈkʌmpəni kloʊzd daʊn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɒst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "job",
+        "role": "O",
+        "phonetic": "/dʒɒb/",
+        "chinese": "工作"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "company",
+        "role": "S",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      },
+      {
+        "text": "closed",
+        "role": "V",
+        "phonetic": "/kloʊzd/",
+        "chinese": "关闭的"
+      },
+      {
+        "text": "down",
+        "role": "A",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      }
+    ]
+  },
+  {
+    "chinese": "你为什么因为这点小事就生气了",
+    "english": "Why are you angry just because of such a small thing",
+    "soundmark": "/waɪ ɑːr juː ˈæŋɡri dʒʌst bɪˈkɒz əv sʌtʃ ə smɔːl θɪŋ/",
+    "grammar": [
+      {
+        "text": "Why",
+        "role": "A",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "angry",
+        "role": "C",
+        "phonetic": "/ˈæŋɡri/",
+        "chinese": "生气的"
+      },
+      {
+        "text": "just",
+        "role": "A",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "small",
+        "role": "C",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "thing",
+        "role": "O",
+        "phonetic": "/θɪŋ/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "既然机票很贵我们不如坐火车去",
+    "english": "Since the plane tickets are expensive let's take the train instead",
+    "soundmark": "/sɪns ðə pleɪn ˈtɪkɪts ɑːr ɪkˈspensɪv lets teɪk ðə treɪn ɪnˈsted/",
+    "grammar": [
+      {
+        "text": "Since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "plane",
+        "role": "C",
+        "phonetic": "/pleɪn/",
+        "chinese": "飞机"
+      },
+      {
+        "text": "tickets",
+        "role": "S",
+        "phonetic": "/ˈtɪkɪts/",
+        "chinese": "票"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "expensive",
+        "role": "C",
+        "phonetic": "/ɪkˈspensɪv/",
+        "chinese": "昂贵的"
+      },
+      {
+        "text": "let's",
+        "role": "V",
+        "phonetic": "/lets/",
+        "chinese": "让我们"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "train",
+        "role": "O",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "instead",
+        "role": "A",
+        "phonetic": "/ɪnˈsted/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "虽然价格很高但他还是买下了那件大衣",
+    "english": "Although the price was high he still bought the coat",
+    "soundmark": "/ɔːlˈðoʊ ðə praɪs wʌz haɪ hiː stɪl bɔːt ðə koʊt/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "price",
+        "role": "S",
+        "phonetic": "/praɪs/",
+        "chinese": "价格"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "high",
+        "role": "C",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "still",
+        "role": "A",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "coat",
+        "role": "O",
+        "phonetic": "/koʊt/",
+        "chinese": "外套"
+      }
+    ]
+  },
+  {
+    "chinese": "因为医生说我需要多运动所以我开始跑步了",
+    "english": "I started running because the doctor said I needed more exercise",
+    "soundmark": "/aɪ ˈstɑːrtɪd ˈrʌnɪŋ bɪˈkɒz ðə ˈdɒktər sed aɪ ˈniːdɪd mɔːr ˈeksərsaɪz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "running",
+        "role": "V",
+        "phonetic": "/ˈrʌnɪŋ/",
+        "chinese": "跑步的/流动的"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "doctor",
+        "role": "S",
+        "phonetic": "/ˈdɒktər/",
+        "chinese": "医生"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "needed",
+        "role": "V",
+        "phonetic": "/ˈniːdɪd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "more",
+        "role": "Det",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "exercise",
+        "role": "O",
+        "phonetic": "/ˈeksərsaɪz/",
+        "chinese": "锻炼"
+      }
+    ]
+  },
+  {
+    "chinese": "即使没有人支持他他也没有放弃",
+    "english": "He didn't give up even though nobody supported him",
+    "soundmark": "/hiː ˈdɪdənt ɡɪv ʌp ˈiːvən ðoʊ ˈnoʊbədi səˈpɔːrtɪd hɪm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "didn't",
+        "role": "V",
+        "phonetic": "/ˈdɪdənt/",
+        "chinese": "不（过去）"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "even",
+        "role": "A",
+        "phonetic": "/ˈiːvən/",
+        "chinese": "甚至"
+      },
+      {
+        "text": "though",
+        "role": "P",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "supported",
+        "role": "V",
+        "phonetic": "/səˈpɔːrtɪd/",
+        "chinese": "支持"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "既然你现在有空我们可以聊聊吗",
+    "english": "Since you are free now can we have a chat",
+    "soundmark": "/sɪns juː ɑːr friː naʊ kæn wiː hæv ə tʃæt/",
+    "grammar": [
+      {
+        "text": "Since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "free",
+        "role": "C",
+        "phonetic": "/friː/",
+        "chinese": "自由的/免费的"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "chat",
+        "role": "O",
+        "phonetic": "/tʃæt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "因为生活成本太高了很多人离开了这座城市",
+    "english": "Many people left the city because the cost of living was too high",
+    "soundmark": "/ˈmeni ˈpiːpəl left ðə ˈsɪti bɪˈkɒz ðə kɒst əv ˈlɪvɪŋ wʌz tuː haɪ/",
+    "grammar": [
+      {
+        "text": "Many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "city",
+        "role": "O",
+        "phonetic": "/ˈsɪti/",
+        "chinese": "城市"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cost",
+        "role": "S",
+        "phonetic": "/kɒst/",
+        "chinese": "花费"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "living",
+        "role": "A",
+        "phonetic": "/ˈlɪvɪŋ/",
+        "chinese": "活着的/生活的"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "too",
+        "role": "A",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "high",
+        "role": "C",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然他从没去过中国但他的中文说得很好",
+    "english": "Although he has never been to China he speaks Chinese very well",
+    "soundmark": "/ɔːlˈðoʊ hiː hæz ˈnevər biːn tuː ˈtʃaɪnə hiː spiːks ˌtʃaɪˈniːz ˈveri wel/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "China",
+        "role": "A",
+        "phonetic": "/ˈtʃaɪnə/",
+        "chinese": "中国"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "speaks",
+        "role": "V",
+        "phonetic": "/spiːks/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "Chinese",
+        "role": "O",
+        "phonetic": "/ˌtʃaɪˈniːz/",
+        "chinese": "中国人/中文"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "well",
+        "role": "A",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      }
+    ]
+  },
+  {
+    "chinese": "既然暴风雨要来了我们把活动推迟吧",
+    "english": "Since a storm is coming let's postpone the event",
+    "soundmark": "/sɪns ə stɔːrm ɪz ˈkʌmɪŋ lets poʊstˈpoʊn ði ɪˈvent/",
+    "grammar": [
+      {
+        "text": "Since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "storm",
+        "role": "S",
+        "phonetic": "/stɔːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "coming",
+        "role": "V",
+        "phonetic": "/ˈkʌmɪŋ/",
+        "chinese": "来"
+      },
+      {
+        "text": "let's",
+        "role": "V",
+        "phonetic": "/lets/",
+        "chinese": "让我们"
+      },
+      {
+        "text": "postpone",
+        "role": "V",
+        "phonetic": "/poʊstˈpoʊn/",
+        "chinese": "推迟"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "event",
+        "role": "O",
+        "phonetic": "/ɪˈvent/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "因为他有丰富的经验所以他被录用了",
+    "english": "He was hired because he had a lot of experience",
+    "soundmark": "/hiː wʌz haɪərd bɪˈkɒz hiː hæd ə lɒt əv ɪkˈspɪriəns/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "hired",
+        "role": "V",
+        "phonetic": "/haɪərd/",
+        "chinese": ""
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lot",
+        "role": "O",
+        "phonetic": "/lɒt/",
+        "chinese": "许多"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "experience",
+        "role": "A",
+        "phonetic": "/ɪkˈspɪriəns/",
+        "chinese": "经历/经验"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然这个项目失败了但我们学到了很多",
+    "english": "Though the project failed we learned a lot from it",
+    "soundmark": "/ðoʊ ðə ˈprɒdʒekt feɪld wiː lɜːrnd ə lɒt frɒm ɪt/",
+    "grammar": [
+      {
+        "text": "Though",
+        "role": "P",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "project",
+        "role": "S",
+        "phonetic": "/ˈprɒdʒekt/",
+        "chinese": "项目"
+      },
+      {
+        "text": "failed",
+        "role": "V",
+        "phonetic": "/feɪld/",
+        "chinese": "失败"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "learned",
+        "role": "V",
+        "phonetic": "/lɜːrnd/",
+        "chinese": "学习"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lot",
+        "role": "O",
+        "phonetic": "/lɒt/",
+        "chinese": "许多"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "即使你不同意我也必须坚持我的立场",
+    "english": "I must stand my ground even though you disagree",
+    "soundmark": "/aɪ mʌst stænd maɪ ɡraʊnd ˈiːvən ðoʊ juː ˌdɪsəˈɡriː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "stand",
+        "role": "V",
+        "phonetic": "/stænd/",
+        "chinese": ""
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "ground",
+        "role": "O",
+        "phonetic": "/ɡraʊnd/",
+        "chinese": "地面"
+      },
+      {
+        "text": "even",
+        "role": "A",
+        "phonetic": "/ˈiːvən/",
+        "chinese": "甚至"
+      },
+      {
+        "text": "though",
+        "role": "P",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "disagree",
+        "role": "V",
+        "phonetic": "/ˌdɪsəˈɡriː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "因为堵车我们差点误了航班",
+    "english": "We almost missed our flight because of the traffic jam",
+    "soundmark": "/wiː ˈɔːlmoʊst mɪst aʊr flaɪt bɪˈkɒz əv ðə ˈtræfɪk dʒæm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "almost",
+        "role": "A",
+        "phonetic": "/ˈɔːlmoʊst/",
+        "chinese": "几乎"
+      },
+      {
+        "text": "missed",
+        "role": "V",
+        "phonetic": "/mɪst/",
+        "chinese": "错过/想念"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "flight",
+        "role": "O",
+        "phonetic": "/flaɪt/",
+        "chinese": "航班"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "traffic",
+        "role": "C",
+        "phonetic": "/ˈtræfɪk/",
+        "chinese": "交通"
+      },
+      {
+        "text": "jam",
+        "role": "A",
+        "phonetic": "/dʒæm/",
+        "chinese": "果酱"
+      }
+    ]
+  },
+  {
+    "chinese": "既然她已经在路上了我们应该开始准备了",
+    "english": "Since she is already on her way we should start getting ready",
+    "soundmark": "/sɪns ʃiː ɪz ɔːlˈredi ɒn hɜːr weɪ wiː ʃʊd stɑːrt ˈɡetɪŋ ˈredi/",
+    "grammar": [
+      {
+        "text": "Since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "way",
+        "role": "A",
+        "phonetic": "/weɪ/",
+        "chinese": "路/方式"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "start",
+        "role": "V",
+        "phonetic": "/stɑːrt/",
+        "chinese": "开始"
+      },
+      {
+        "text": "getting",
+        "role": "V",
+        "phonetic": "/ˈɡetɪŋ/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "ready",
+        "role": "C",
+        "phonetic": "/ˈredi/",
+        "chinese": "准备好的"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然我不同意你的说法但我尊重你的意见",
+    "english": "Although I don't agree with you I respect your opinion",
+    "soundmark": "/ɔːlˈðoʊ aɪ doʊnt əˈɡriː wɪð juː aɪ rɪˈspekt jɔːr əˈpɪnjən/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "don't",
+        "role": "V",
+        "phonetic": "/doʊnt/",
+        "chinese": "不"
+      },
+      {
+        "text": "agree",
+        "role": "V",
+        "phonetic": "/əˈɡriː/",
+        "chinese": "同意"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "respect",
+        "role": "V",
+        "phonetic": "/rɪˈspekt/",
+        "chinese": "尊重"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "opinion",
+        "role": "O",
+        "phonetic": "/əˈpɪnjən/",
+        "chinese": "观点"
+      }
+    ]
+  },
+  {
+    "chinese": "因为天气太热了我们决定去游泳",
+    "english": "We decided to go swimming since the weather was so hot",
+    "soundmark": "/wiː dɪˈsaɪdɪd tuː ɡoʊ ˈswɪmɪŋ sɪns ðə ˈweðər wʌz soʊ hɒt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "swimming",
+        "role": "V",
+        "phonetic": "/ˈswɪmɪŋ/",
+        "chinese": "游泳的"
+      },
+      {
+        "text": "since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "weather",
+        "role": "S",
+        "phonetic": "/ˈweðər/",
+        "chinese": "天气"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "so",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "hot",
+        "role": "C",
+        "phonetic": "/hɒt/",
+        "chinese": "热的"
+      }
+    ]
+  },
+  {
+    "chinese": "即使竞争很激烈她仍然拿到了第一名",
+    "english": "She still won first place even though the competition was fierce",
+    "soundmark": "/ʃiː stɪl wʌn fɜːrst pleɪs ˈiːvən ðoʊ ðə ˌkɒmpɪˈtɪʃən wʌz fɪrs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "still",
+        "role": "A",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "won",
+        "role": "V",
+        "phonetic": "/wʌn/",
+        "chinese": "赢（过去式）"
+      },
+      {
+        "text": "first",
+        "role": "C",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      },
+      {
+        "text": "place",
+        "role": "O",
+        "phonetic": "/pleɪs/",
+        "chinese": "地方"
+      },
+      {
+        "text": "even",
+        "role": "A",
+        "phonetic": "/ˈiːvən/",
+        "chinese": "甚至"
+      },
+      {
+        "text": "though",
+        "role": "P",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "competition",
+        "role": "S",
+        "phonetic": "/ˌkɒmpɪˈtɪʃən/",
+        "chinese": "比赛"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "fierce",
+        "role": "C",
+        "phonetic": "/fɪrs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "因为他不小心丢了护照他没赶上那趟飞机",
+    "english": "He missed the flight because he had carelessly lost his passport",
+    "soundmark": "/hiː mɪst ðə flaɪt bɪˈkɒz hiː hæd ˈkerlɪsli lɒst hɪz ˈpæspɔːrt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "missed",
+        "role": "V",
+        "phonetic": "/mɪst/",
+        "chinese": "错过/想念"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "flight",
+        "role": "O",
+        "phonetic": "/flaɪt/",
+        "chinese": "航班"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "carelessly",
+        "role": "A",
+        "phonetic": "/ˈkerlɪsli/",
+        "chinese": ""
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɒst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "passport",
+        "role": "O",
+        "phonetic": "/ˈpæspɔːrt/",
+        "chinese": "护照"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然这件事过去很多年了我依然记忆犹新",
+    "english": "Although it happened many years ago I still remember it clearly",
+    "soundmark": "/ɔːlˈðoʊ ɪt ˈhæpənd ˈmeni jɪrz əˈɡoʊ aɪ stɪl rɪˈmembər ɪt ˈklɪrli/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "ago",
+        "role": "A",
+        "phonetic": "/əˈɡoʊ/",
+        "chinese": "以前"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "still",
+        "role": "A",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "remember",
+        "role": "V",
+        "phonetic": "/rɪˈmembər/",
+        "chinese": "记住"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "clearly",
+        "role": "A",
+        "phonetic": "/ˈklɪrli/",
+        "chinese": "…地(清楚的)"
+      }
+    ]
+  },
+  {
+    "chinese": "既然你是新来的我来带你参观一下",
+    "english": "Since you are new here let me show you around",
+    "soundmark": "/sɪns juː ɑːr nuː hɪr let miː ʃoʊ juː əˈraʊnd/",
+    "grammar": [
+      {
+        "text": "Since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "me",
+        "role": "S",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "show",
+        "role": "V",
+        "phonetic": "/ʃoʊ/",
+        "chinese": "展示"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "around",
+        "role": "A",
+        "phonetic": "/əˈraʊnd/",
+        "chinese": "围绕/大约"
+      }
+    ]
+  },
+  {
+    "chinese": "即使全世界都反对我我也会坚持自己的信念",
+    "english": "I will stick to my beliefs even if the whole world is against me",
+    "soundmark": "/aɪ wɪl stɪk tuː maɪ bɪˈliːfs ˈiːvən ɪf ðə hoʊl wɜːrld ɪz əˈɡenst miː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "stick",
+        "role": "V",
+        "phonetic": "/stɪk/",
+        "chinese": "粘/棍"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "beliefs",
+        "role": "O",
+        "phonetic": "/bɪˈliːfs/",
+        "chinese": "信仰"
+      },
+      {
+        "text": "even",
+        "role": "A",
+        "phonetic": "/ˈiːvən/",
+        "chinese": "甚至"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "C",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "world",
+        "role": "S",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "against",
+        "role": "P",
+        "phonetic": "/əˈɡenst/",
+        "chinese": "反对/靠着"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "因为他从小就练习所以他的钢琴弹得这么好",
+    "english": "He plays the piano so well because he has practiced since childhood",
+    "soundmark": "/hiː pleɪz ðə piˈænoʊ soʊ wel bɪˈkɒz hiː hæz ˈpræktɪst sɪns ˈtʃaɪldhʊd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "plays",
+        "role": "V",
+        "phonetic": "/pleɪz/",
+        "chinese": "玩"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "piano",
+        "role": "O",
+        "phonetic": "/piˈænoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "so",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "well",
+        "role": "A",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɒz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "practiced",
+        "role": "V",
+        "phonetic": "/ˈpræktɪst/",
+        "chinese": "练习/实践"
+      },
+      {
+        "text": "since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "childhood",
+        "role": "A",
+        "phonetic": "/ˈtʃaɪldhʊd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "因为(因为)(because)",
+    "english": "because",
+    "soundmark": "/bɪˈkɒz/"
+  },
+  {
+    "chinese": "由于(since)",
+    "english": "since",
+    "soundmark": "/sɪns/"
+  },
+  {
+    "chinese": "虽然(although)",
+    "english": "although",
+    "soundmark": "/ɔːlˈðoʊ/"
+  },
+  {
+    "chinese": "尽管(though)",
+    "english": "though",
+    "soundmark": "/ðoʊ/"
+  },
+  {
+    "chinese": "即使(even though)",
+    "english": "even though",
+    "soundmark": "/ˈiːvən ðoʊ/"
+  },
+  {
+    "chinese": "因为……(because of)",
+    "english": "because of",
+    "soundmark": "/bɪˈkɒz əv/"
+  },
+  {
+    "chinese": "结果/所以(as a result)",
+    "english": "as a result",
+    "soundmark": "/æz ə rɪˈzʌlt/"
+  },
+  {
+    "chinese": "因此(therefore)",
+    "english": "therefore",
+    "soundmark": "/ˈðerfɔːr/"
+  }
+]

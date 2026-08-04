@@ -1,0 +1,1157 @@
+[
+  {
+    "chinese": "令人激动的",
+    "english": "exciting",
+    "soundmark": "/ɪkˈsaɪtɪŋ/"
+  },
+  {
+    "chinese": "收到",
+    "english": "receive",
+    "soundmark": "/rɪˈsiːv/"
+  },
+  {
+    "chinese": "公司",
+    "english": "firm",
+    "soundmark": "/fɜːrm/"
+  },
+  {
+    "chinese": "不同的",
+    "english": "different",
+    "soundmark": "/ˈdɪfərənt/"
+  },
+  {
+    "chinese": "中心",
+    "english": "centre",
+    "soundmark": "/ˈsentər/"
+  },
+  {
+    "chinese": "在国外",
+    "english": "abroad",
+    "soundmark": "/əˈbrɔːd/"
+  },
+  {
+    "chinese": "澳大利亚",
+    "english": "Australia",
+    "soundmark": "/ɔːˈstreɪliə/"
+  },
+  {
+    "chinese": "工程师",
+    "english": "engineer",
+    "soundmark": "/ˌendʒɪˈnɪr/"
+  },
+  {
+    "chinese": "兴奋的",
+    "english": "excited",
+    "soundmark": "/ɪkˈsaɪtɪd/"
+  },
+  {
+    "chinese": "已经",
+    "english": "already",
+    "soundmark": "/ɔːlˈredi/"
+  },
+  {
+    "chinese": "令人激动的旅行",
+    "english": "exciting trip",
+    "soundmark": "/ɪkˈsaɪtɪŋ/ /trɪp/"
+  },
+  {
+    "chinese": "收到信",
+    "english": "receive a letter",
+    "soundmark": "/rɪˈsiːv/ /ə/ /ˈletər/"
+  },
+  {
+    "chinese": "大公司",
+    "english": "a great firm",
+    "soundmark": "/ə/ /ɡreɪt/ /fɜːrm/"
+  },
+  {
+    "chinese": "在国外",
+    "english": "be abroad",
+    "soundmark": "/biː/ /əˈbrɔːd/"
+  },
+  {
+    "chinese": "到目前为止",
+    "english": "so far",
+    "soundmark": "/soʊ/ /fɑːr/"
+  },
+  {
+    "chinese": "不同城市的中心",
+    "english": "the centre of different cities",
+    "soundmark": "/ðə/ /ˈsentər/ /ʌv/ /ˈdɪfərənt/ /ˈsɪtiz/"
+  },
+  {
+    "chinese": "我刚收到我哥哥的来信",
+    "english": "I have just received a letter from my brother",
+    "soundmark": "/aɪ/ /hæv/ /dʒʌst/ /rɪˈsiːvd/ /ə/ /ˈletər/ /frʌm/ /maɪ/ /ˈbrʌðər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "letter",
+        "role": "O",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "brother",
+        "role": "O",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      }
+    ]
+  },
+  {
+    "chinese": "他现在在澳大利亚",
+    "english": "He is in Australia now",
+    "soundmark": "/hiː/ /ɪz/ /ɪn/ /ɔːˈstreɪliə/ /naʊ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Australia",
+        "role": "O",
+        "phonetic": "/ɔːˈstreɪliə/",
+        "chinese": "澳大利亚"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "他已经去过很多地方了",
+    "english": "He has already been to many places",
+    "soundmark": "/hiː/ /hæz/ /ɔːlˈredi/ /biːn/ /tuː/ /ˈmeni/ /ˈpleɪsɪz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "places",
+        "role": "O",
+        "phonetic": "/ˈpleɪsɪz/",
+        "chinese": "地方"
+      }
+    ]
+  },
+  {
+    "chinese": "他是一家大公司的工程师",
+    "english": "He is an engineer for a big firm",
+    "soundmark": "/hiː/ /ɪz/ /ən/ /ˌendʒɪˈnɪr/ /fɔːr/ /ə/ /bɪɡ/ /fɜːrm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "engineer",
+        "role": "C",
+        "phonetic": "/ˌendʒɪˈnɪr/",
+        "chinese": "工程师"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "A",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "firm",
+        "role": "O",
+        "phonetic": "/fɜːrm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他去过许多不同的国家",
+    "english": "He has been to many different countries",
+    "soundmark": "/hiː/ /hæz/ /biːn/ /tuː/ /ˈmeni/ /ˈdɪfərənt/ /ˈkʌntriz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "different",
+        "role": "A",
+        "phonetic": "/ˈdɪfərənt/",
+        "chinese": "不同的"
+      },
+      {
+        "text": "countries",
+        "role": "O",
+        "phonetic": "/ˈkʌntriz/",
+        "chinese": "国家"
+      }
+    ]
+  },
+  {
+    "chinese": "他刚刚买了一辆澳大利亚汽车",
+    "english": "He has just bought an Australian car",
+    "soundmark": "/hiː/ /hæz/ /dʒʌst/ /bɔːt/ /ən/ /ɔːˈstreɪliən/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "Australian",
+        "role": "A",
+        "phonetic": "/ɔːˈstreɪliən/",
+        "chinese": ""
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "他去了艾利斯斯普林斯",
+    "english": "He has gone to Alice Springs",
+    "soundmark": "/hiː/ /hæz/ /ɡɔːn/ /tuː/ /ˈælɪs/ /sprɪŋz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɔːn/",
+        "chinese": "去（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "Alice",
+        "role": "O",
+        "phonetic": "/ˈælɪs/",
+        "chinese": ""
+      },
+      {
+        "text": "Springs",
+        "role": "O",
+        "phonetic": "/sprɪŋz/",
+        "chinese": "春天/泉"
+      }
+    ]
+  },
+  {
+    "chinese": "那是一个澳大利亚中部的小镇",
+    "english": "It is a small town in the centre of Australia",
+    "soundmark": "/ɪt/ /ɪz/ /ə/ /smɔːl/ /taʊn/ /ɪn/ /ðə/ /ˈsentər/ /ʌv/ /ɔːˈstreɪliə/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "small",
+        "role": "A",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "town",
+        "role": "C",
+        "phonetic": "/taʊn/",
+        "chinese": "城镇"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "centre",
+        "role": "O",
+        "phonetic": "/ˈsentər/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "Australia",
+        "role": "O",
+        "phonetic": "/ɔːˈstreɪliə/",
+        "chinese": "澳大利亚"
+      }
+    ]
+  },
+  {
+    "chinese": "他很快就会到达尔文去",
+    "english": "He will soon go to Darwin",
+    "soundmark": "/hiː/ /wɪl/ /suːn/ /ɡoʊ/ /tuː/ /ˈdɑːrwɪn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "soon",
+        "role": "Adv",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "Darwin",
+        "role": "O",
+        "phonetic": "/ˈdɑːrwɪn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我哥哥从没去过国外",
+    "english": "My brother has never been abroad before",
+    "soundmark": "/maɪ/ /ˈbrʌðər/ /hæz/ /ˈnevər/ /biːn/ /əˈbrɔːd/ /bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "brother",
+        "role": "S",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "abroad",
+        "role": "A",
+        "phonetic": "/əˈbrɔːd/",
+        "chinese": "国外"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "他在那儿待了六个月",
+    "english": "He has been there for six months",
+    "soundmark": "/hiː/ /hæz/ /biːn/ /ðer/ /fɔːr/ /sɪks/ /mʌnθs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "six",
+        "role": "Det",
+        "phonetic": "/sɪks/",
+        "chinese": "六"
+      },
+      {
+        "text": "months",
+        "role": "A",
+        "phonetic": "/mʌnθs/",
+        "chinese": "月"
+      }
+    ]
+  },
+  {
+    "chinese": "到目前为止他觉得这次旅行很愉快",
+    "english": "So far he has enjoyed his trip very much",
+    "soundmark": "/soʊ/ /fɑːr/ /hiː/ /hæz/ /ɪnˈdʒɔɪd/ /hɪz/ /trɪp/ /ˈveri/ /mʌtʃ/",
+    "grammar": [
+      {
+        "text": "So",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "far",
+        "role": "Adv",
+        "phonetic": "/fɑːr/",
+        "chinese": "远"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "enjoyed",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪd/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "trip",
+        "role": "O",
+        "phonetic": "/trɪp/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      }
+    ]
+  },
+  {
+    "chinese": "你以前去过法国吗",
+    "english": "Have you ever been to France",
+    "soundmark": "/hæv/ /juː/ /ˈevər/ /biːn/ /tuː/ /fræns/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "France",
+        "role": "O",
+        "phonetic": "/fræns/",
+        "chinese": "法国"
+      }
+    ]
+  },
+  {
+    "chinese": "我还没去过日本",
+    "english": "I have not been to Japan yet",
+    "soundmark": "/aɪ/ /hæv/ /nɑːt/ /biːn/ /tuː/ /dʒəˈpæn/ /jet/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "Japan",
+        "role": "O",
+        "phonetic": "/dʒəˈpæn/",
+        "chinese": "日本"
+      },
+      {
+        "text": "yet",
+        "role": "Adv",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "他刚收到一封来自伦敦的信",
+    "english": "He has just got a letter from London",
+    "soundmark": "/hiː/ /hæz/ /dʒʌst/ /ɡɑːt/ /ə/ /ˈletər/ /frʌm/ /ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "got",
+        "role": "V",
+        "phonetic": "/ɡɑːt/",
+        "chinese": "得到（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "letter",
+        "role": "O",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "London",
+        "role": "O",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "她已经完成了她的作业",
+    "english": "She has already finished her homework",
+    "soundmark": "/ʃiː/ /hæz/ /ɔːlˈredi/ /ˈfɪnɪʃt/ /hɜːr/ /ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "我从来没看过这么激动的比赛",
+    "english": "I have never seen such an exciting game",
+    "soundmark": "/aɪ/ /hæv/ /ˈnevər/ /siːn/ /sʌtʃ/ /ən/ /ɪkˈsaɪtɪŋ/ /ɡeɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "exciting",
+        "role": "A",
+        "phonetic": "/ɪkˈsaɪtɪŋ/",
+        "chinese": "令人兴奋的"
+      },
+      {
+        "text": "game",
+        "role": "O",
+        "phonetic": "/ɡeɪm/",
+        "chinese": "游戏/比赛"
+      }
+    ]
+  },
+  {
+    "chinese": "他已经找到了一份新工作",
+    "english": "He has found a new job",
+    "soundmark": "/hiː/ /hæz/ /faʊnd/ /ə/ /nuː/ /dʒɑːb/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "job",
+        "role": "O",
+        "phonetic": "/dʒɑːb/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "我们在这座城市住了三年了",
+    "english": "We have lived in this city for three years",
+    "soundmark": "/wiː/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /ˈsɪti/ /fɔːr/ /θriː/ /jɪrz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "lived",
+        "role": "V",
+        "phonetic": "/lɪvd/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "city",
+        "role": "O",
+        "phonetic": "/ˈsɪti/",
+        "chinese": "城市"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "你告诉我的一切都非常令人激动",
+    "english": "Everything you told me is very exciting",
+    "soundmark": "/ˈevriθɪŋ/ /juː/ /toʊld/ /miː/ /ɪz/ /ˈveri/ /ɪkˈsaɪtɪŋ/",
+    "grammar": [
+      {
+        "text": "Everything",
+        "role": "S",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "exciting",
+        "role": "C",
+        "phonetic": "/ɪkˈsaɪtɪŋ/",
+        "chinese": "令人兴奋的"
+      }
+    ]
+  },
+  {
+    "chinese": "外国",
+    "english": "abroad",
+    "soundmark": "/əˈbrɔːd/"
+  },
+  {
+    "chinese": "公司",
+    "english": "firm",
+    "soundmark": "/fɜːrm/"
+  },
+  {
+    "chinese": "不同的",
+    "english": "different",
+    "soundmark": "/ˈdɪfərənt/"
+  },
+  {
+    "chinese": "镇",
+    "english": "town",
+    "soundmark": "/taʊn/"
+  },
+  {
+    "chinese": "信",
+    "english": "letter",
+    "soundmark": "/ˈletər/"
+  },
+  {
+    "chinese": "国家",
+    "english": "country",
+    "soundmark": "/ˈkʌntri/"
+  },
+  {
+    "chinese": "工作",
+    "english": "job",
+    "soundmark": "/dʒɑːb/"
+  },
+  {
+    "chinese": "已经",
+    "english": "already",
+    "soundmark": "/ɔːlˈredi/"
+  },
+  {
+    "chinese": "曾经",
+    "english": "ever",
+    "soundmark": "/ˈevər/"
+  },
+  {
+    "chinese": "完成",
+    "english": "finish",
+    "soundmark": "/ˈfɪnɪʃ/"
+  },
+  {
+    "chinese": "找到",
+    "english": "find",
+    "soundmark": "/faɪnd/"
+  },
+  {
+    "chinese": "买",
+    "english": "buy",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "chinese": "城市",
+    "english": "city",
+    "soundmark": "/ˈsɪti/"
+  }
+]

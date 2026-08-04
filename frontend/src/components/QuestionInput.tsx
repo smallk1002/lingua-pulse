@@ -5,6 +5,7 @@
 "use client";
 
 import { useCallback, useMemo, useState } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 import { useGameStore } from "@/stores/gameStore";
 import { useQuestionInput } from "@/hooks/useQuestionInput";
 import { useTypingSound } from "@/hooks/useTypingSound";
@@ -93,7 +94,59 @@ export function QuestionInput() {
       )}
 
       {/* 单词槽 */}
-      <div
+      <div className="relative">
+        {/* 提示弹框 */}
+        <AnimatePresence>
+          {showAnswer && (phase === "question" || phase === "fix") && statement && (
+            <motion.div
+              initial={{ opacity: 0, y: 10, scale: 0.95 }}
+              animate={{ opacity: 1, y: 0, scale: 1 }}
+              exit={{ opacity: 0, y: 10, scale: 0.95 }}
+              transition={{ type: "spring", stiffness: 350, damping: 25 }}
+              className="absolute bottom-full left-1/2 -translate-x-1/2 mb-3 z-20
+                         bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-fuchsia-200 dark:border-fuchsia-800
+                         px-6 py-4 min-w-[200px] max-w-lg"
+            >
+              {/* 小三角箭头 */}
+              <div className="absolute top-full left-1/2 -translate-x-1/2 w-0 h-0
+                              border-l-8 border-r-8 border-t-8
+                              border-l-transparent border-r-transparent
+                              border-t-white dark:border-t-gray-800" />
+              <div className="absolute top-full left-1/2 -translate-x-1/2 -mt-px w-0 h-0
+                              border-l-[9px] border-r-[9px] border-t-[9px]
+                              border-l-transparent border-r-transparent
+                              border-t-fuchsia-200 dark:border-t-fuchsia-800" />
+
+              <div className="flex items-start justify-between gap-3">
+                <div>
+                  <p className="text-xs font-medium text-fuchsia-500 mb-1.5 uppercase tracking-wide">
+                    答案提示
+                  </p>
+                  <p className="text-lg font-bold text-gray-800 dark:text-gray-100">
+                    {statement.english}
+                  </p>
+                  {statement.soundmark && (
+                    <p className="text-sm text-gray-400 font-mono mt-1">
+                      {statement.soundmark}
+                    </p>
+                  )}
+                </div>
+                <button
+                  onClick={() => useGameStore.getState().toggleShowAnswer()}
+                  className="shrink-0 p-1 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700
+                             text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <line x1="18" y1="6" x2="6" y2="18" />
+                    <line x1="6" y1="6" x2="18" y2="18" />
+                  </svg>
+                </button>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
+        <div
         className={`
           relative flex flex-wrap justify-center gap-1 py-8 px-4
           min-h-[6em] items-center
@@ -112,11 +165,11 @@ export function QuestionInput() {
           <WordSlot
             key={slot.id}
             slot={slot}
-            showAnswer={showAnswer}
             inFixMode={phase === "fix"}
           />
         ))}
       </div>
+      </div>{/* 关闭 relative 包裹层 */}
 
       {/* 隐藏的输入框 */}
       <input

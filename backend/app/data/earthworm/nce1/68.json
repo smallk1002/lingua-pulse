@@ -1,0 +1,806 @@
+[
+  {
+    "chinese": "当…的时候",
+    "english": "when",
+    "soundmark": "/wen/"
+  },
+  {
+    "chinese": "在…期间",
+    "english": "while",
+    "soundmark": "/waɪl/"
+  },
+  {
+    "chinese": "在…之后",
+    "english": "after",
+    "soundmark": "/ˈæftər/"
+  },
+  {
+    "chinese": "在…之前",
+    "english": "before",
+    "soundmark": "/bɪˈfɔːr/"
+  },
+  {
+    "chinese": "只要",
+    "english": "as long as",
+    "soundmark": "/æz lɔːŋ æz/"
+  },
+  {
+    "chinese": "一…就",
+    "english": "as soon as",
+    "soundmark": "/æz suːn æz/"
+  },
+  {
+    "chinese": "直到",
+    "english": "until",
+    "soundmark": "/ʌnˈtɪl/"
+  },
+  {
+    "chinese": "自从",
+    "english": "since",
+    "soundmark": "/sɪns/"
+  },
+  {
+    "chinese": "每当",
+    "english": "whenever",
+    "soundmark": "/wenˈevər/"
+  },
+  {
+    "chinese": "在此期间",
+    "english": "meanwhile",
+    "soundmark": "/ˈmiːnwaɪl/"
+  },
+  {
+    "chinese": "在此期间",
+    "english": "in the meantime",
+    "soundmark": "/ɪn ðə ˈmiːntaɪm/"
+  },
+  {
+    "chinese": "同时",
+    "english": "at the same time",
+    "soundmark": "/æt ðə seɪm taɪm/"
+  },
+  {
+    "chinese": "立刻",
+    "english": "immediately",
+    "soundmark": "/ɪˈmiːdiətli/"
+  },
+  {
+    "chinese": "然后",
+    "english": "then",
+    "soundmark": "/ðen/"
+  },
+  {
+    "chinese": "接下来",
+    "english": "after that",
+    "soundmark": "/ˈæftər ðæt/"
+  },
+  {
+    "chinese": "一边…一边",
+    "english": "while doing",
+    "soundmark": "/waɪl ˈduːɪŋ/"
+  },
+  {
+    "chinese": "当我到达的时候",
+    "english": "when I arrived",
+    "soundmark": "/wen aɪ əˈraɪvd/"
+  },
+  {
+    "chinese": "当他年轻的时候",
+    "english": "when he was young",
+    "soundmark": "/wen hiː wʌz jʌŋ/"
+  },
+  {
+    "chinese": "在我做饭的时候",
+    "english": "while I was cooking",
+    "soundmark": "/waɪl aɪ wʌz ˈkʊkɪŋ/"
+  },
+  {
+    "chinese": "他一到家就给我打了电话",
+    "english": "he called me as soon as he got home",
+    "soundmark": "/hiː kɔːld miː æz suːn æz hiː ɡɑːt hoʊm/"
+  },
+  {
+    "chinese": "我到的时候她正在看书",
+    "english": "when I arrived she was reading",
+    "soundmark": "/wen aɪ əˈraɪvd ʃiː wʌz ˈriːdɪŋ/"
+  },
+  {
+    "chinese": "我等你直到你回来",
+    "english": "I will wait until you come back",
+    "soundmark": "/aɪ wɪl weɪt ʌnˈtɪl juː kʌm bæk/"
+  },
+  {
+    "chinese": "我做饭的时候你可以看电视",
+    "english": "you can watch TV while I am cooking",
+    "soundmark": "/juː kæn wɑːtʃ ˌtiːˈviː waɪl aɪ æm ˈkʊkɪŋ/"
+  },
+  {
+    "chinese": "当我年轻的时候我住在乡下",
+    "english": "When I was young I lived in the countryside",
+    "soundmark": "/wen aɪ wʌz jʌŋ aɪ lɪvd ɪn ðə ˈkʌntrisaɪd/",
+    "grammar": [
+      {
+        "text": "When I was young",
+        "role": "A",
+        "phonetic": "/wen aɪ wʌz jʌŋ/",
+        "chinese": "什么时候/我/是（过去式）/年轻的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "lived",
+        "role": "V",
+        "phonetic": "/lɪvd/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in the countryside",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈkʌntrisaɪd/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我到家的时候发现灯开着",
+    "english": "When I got home I found the lights were on",
+    "soundmark": "/wen aɪ ɡɑːt hoʊm aɪ faʊnd ðə laɪts wɜːr ɑːn/",
+    "grammar": [
+      {
+        "text": "When I got home",
+        "role": "A",
+        "phonetic": "/wen aɪ ɡɑːt hoʊm/",
+        "chinese": "什么时候/我/得到（过去式）/家"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "the lights were on",
+        "role": "O",
+        "phonetic": "/ðə laɪts wɜːr ɑːn/",
+        "chinese": "这个/那个/…们/复数(轻的/浅色的)/是（过去式）/在…上"
+      }
+    ]
+  },
+  {
+    "chinese": "我做饭的时候他在辅导孩子做作业",
+    "english": "While I was cooking he was helping the children with their homework",
+    "soundmark": "/waɪl aɪ wʌz ˈkʊkɪŋ hiː wʌz ˈhelpɪŋ ðə ˈtʃɪldrən wɪð ðer ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "While I was cooking",
+        "role": "A",
+        "phonetic": "/waɪl aɪ wʌz ˈkʊkɪŋ/",
+        "chinese": "当…时/而/我/是（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was helping",
+        "role": "V",
+        "phonetic": "/wʌz ˈhelpɪŋ/",
+        "chinese": "是（过去式）/帮助"
+      },
+      {
+        "text": "the children",
+        "role": "O",
+        "phonetic": "/ðə ˈtʃɪldrən/",
+        "chinese": "这个/那个/孩子们"
+      },
+      {
+        "text": "with their homework",
+        "role": "A",
+        "phonetic": "/wɪð ðer ˈhoʊmwɜːrk/",
+        "chinese": "和/用/他们的/家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "他一到机场就给我打了电话",
+    "english": "As soon as he arrived at the airport he called me",
+    "soundmark": "/æz suːn æz hiː əˈraɪvd æt ði ˈerpɔːrt hiː kɔːld miː/",
+    "grammar": [
+      {
+        "text": "As soon as he arrived at the airport",
+        "role": "A",
+        "phonetic": "/æz suːn æz hiː əˈraɪvd æt ði ˈerpɔːrt/",
+        "chinese": "当…时/作为/因为/不久/当…时/作为/因为/他/到达/在/这个/那个/机场"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "在你走之前请把窗户关上",
+    "english": "Please close the window before you leave",
+    "soundmark": "/pliːz kloʊz ðə ˈwɪndoʊ bɪˈfɔːr juː liːv/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "close",
+        "role": "V",
+        "phonetic": "/kloʊz/",
+        "chinese": "关闭"
+      },
+      {
+        "text": "the window",
+        "role": "O",
+        "phonetic": "/ðə ˈwɪndoʊ/",
+        "chinese": "这个/那个/窗户"
+      },
+      {
+        "text": "before you leave",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr juː liːv/",
+        "chinese": "在…之前/你/你们/离开"
+      }
+    ]
+  },
+  {
+    "chinese": "我一有空就会去看你",
+    "english": "I will visit you as soon as I am free",
+    "soundmark": "/aɪ wɪl ˈvɪzɪt juː æz suːn æz aɪ æm friː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will visit",
+        "role": "V",
+        "phonetic": "/wɪl ˈvɪzɪt/",
+        "chinese": "将要/访问/参观"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "as soon as I am free",
+        "role": "A",
+        "phonetic": "/æz suːn æz aɪ æm friː/",
+        "chinese": "当…时/作为/因为/不久/当…时/作为/因为/我/是/自由的/免费的"
+      }
+    ]
+  },
+  {
+    "chinese": "自从他搬家后我就没见过他",
+    "english": "I have not seen him since he moved",
+    "soundmark": "/aɪ hæv nɑːt siːn hɪm sɪns hiː muːvd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have not seen",
+        "role": "V",
+        "phonetic": "/hæv nɑːt siːn/",
+        "chinese": "有/助动词/不/看见（过去分词）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "since he moved",
+        "role": "A",
+        "phonetic": "/sɪns hiː muːvd/",
+        "chinese": "自从/因为/他/移动"
+      }
+    ]
+  },
+  {
+    "chinese": "当我回来的时候我会告诉你一切",
+    "english": "When I come back I will tell you everything",
+    "soundmark": "/wen aɪ kʌm bæk aɪ wɪl tel juː ˈevriθɪŋ/",
+    "grammar": [
+      {
+        "text": "When I come back",
+        "role": "A",
+        "phonetic": "/wen aɪ kʌm bæk/",
+        "chinese": "什么时候/我/来/回/向后/背部"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will tell",
+        "role": "V",
+        "phonetic": "/wɪl tel/",
+        "chinese": "会告诉"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "everything",
+        "role": "O",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      }
+    ]
+  },
+  {
+    "chinese": "猫来的时候老鼠正在厨房",
+    "english": "While the mouse was in the kitchen the cat came",
+    "soundmark": "/waɪl ðə maʊs wʌz ɪn ðə ˈkɪtʃɪn ðə kæt keɪm/",
+    "grammar": [
+      {
+        "text": "While the mouse was in the kitchen",
+        "role": "A",
+        "phonetic": "/waɪl ðə maʊs wʌz ɪn ðə ˈkɪtʃɪn/",
+        "chinese": "当…时/而/这个/那个/是（过去式）/在…里/这个/那个"
+      },
+      {
+        "text": "the cat",
+        "role": "S",
+        "phonetic": "/ðə kæt/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "你不用等到电影结束",
+    "english": "You do not have to wait until the film ends",
+    "soundmark": "/juː duː nɑːt hæv tuː weɪt ʌnˈtɪl ðə fɪlm endz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "do not have to wait",
+        "role": "V",
+        "phonetic": "/duː nɑːt hæv tuː weɪt/",
+        "chinese": "做/助动词/不/有/助动词/到/向/等"
+      },
+      {
+        "text": "until the film ends",
+        "role": "A",
+        "phonetic": "/ʌnˈtɪl ðə fɪlm endz/",
+        "chinese": "直到/这个/那个/电影/…们/复数(结束)"
+      }
+    ]
+  },
+  {
+    "chinese": "自从我开始锻炼我就感觉好多了",
+    "english": "I have felt much better since I started exercising",
+    "soundmark": "/aɪ hæv felt mʌtʃ ˈbetər sɪns aɪ ˈstɑːrtɪd ˈeksərsaɪzɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have felt",
+        "role": "V",
+        "phonetic": "/hæv felt/",
+        "chinese": "有/助动词/被感觉的"
+      },
+      {
+        "text": "much better",
+        "role": "C",
+        "phonetic": "/mʌtʃ ˈbetər/",
+        "chinese": "好多了"
+      },
+      {
+        "text": "since I started exercising",
+        "role": "A",
+        "phonetic": "/sɪns aɪ ˈstɑːrtɪd ˈeksərsaɪzɪŋ/",
+        "chinese": "自从/因为/我/开始/正在…(练习)"
+      }
+    ]
+  },
+  {
+    "chinese": "无论何时你需要帮忙给我打电话",
+    "english": "Whenever you need help just call me",
+    "soundmark": "/wenˈevər juː niːd help dʒʌst kɔːl miː/",
+    "grammar": [
+      {
+        "text": "Whenever you need help",
+        "role": "A",
+        "phonetic": "/wenˈevər juː niːd help/",
+        "chinese": "你/你们/需要/帮助"
+      },
+      {
+        "text": "just call",
+        "role": "V",
+        "phonetic": "/dʒʌst kɔːl/",
+        "chinese": "刚刚/只是/打电话/叫"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "孩子睡觉的时候妈妈在读故事",
+    "english": "While the baby was sleeping the mother was reading a story",
+    "soundmark": "/waɪl ðə ˈbeɪbi wʌz ˈsliːpɪŋ ðə ˈmʌðər wʌz ˈriːdɪŋ ə ˈstɔːri/",
+    "grammar": [
+      {
+        "text": "While the baby was sleeping",
+        "role": "A",
+        "phonetic": "/waɪl ðə ˈbeɪbi wʌz ˈsliːpɪŋ/",
+        "chinese": "当…时/而/这个/那个/婴儿/是（过去式）/睡觉"
+      },
+      {
+        "text": "the mother",
+        "role": "S",
+        "phonetic": "/ðə ˈmʌðər/",
+        "chinese": "这个/那个/母亲"
+      },
+      {
+        "text": "was reading",
+        "role": "V",
+        "phonetic": "/wʌz ˈriːdɪŋ/",
+        "chinese": "是（过去式）/读（过去式/过去分词）"
+      },
+      {
+        "text": "a story",
+        "role": "O",
+        "phonetic": "/ə ˈstɔːri/",
+        "chinese": "一个/故事"
+      }
+    ]
+  },
+  {
+    "chinese": "乡下",
+    "english": "countryside",
+    "soundmark": "/ˈkʌntrisaɪd/"
+  },
+  {
+    "chinese": "机场",
+    "english": "airport",
+    "soundmark": "/ˈerpɔːrt/"
+  },
+  {
+    "chinese": "搬家",
+    "english": "move",
+    "soundmark": "/muːv/"
+  },
+  {
+    "chinese": "发现",
+    "english": "find",
+    "soundmark": "/faɪnd/"
+  },
+  {
+    "chinese": "锻炼",
+    "english": "exercise",
+    "soundmark": "/ˈeksərsaɪz/"
+  },
+  {
+    "chinese": "故事",
+    "english": "story",
+    "soundmark": "/ˈstɔːri/"
+  },
+  {
+    "chinese": "老鼠",
+    "english": "mouse",
+    "soundmark": "/maʊs/"
+  },
+  {
+    "chinese": "孩子",
+    "english": "children",
+    "soundmark": "/ˈtʃɪldrən/"
+  },
+  {
+    "chinese": "空闲的",
+    "english": "free",
+    "soundmark": "/friː/"
+  },
+  {
+    "chinese": "年轻",
+    "english": "young",
+    "soundmark": "/jʌŋ/"
+  },
+  {
+    "chinese": "当电话响的时候我在洗澡",
+    "english": "When the phone rang I was taking a shower",
+    "soundmark": "/wen ðə foʊn ræŋ aɪ wʌz ˈteɪkɪŋ ə ˈʃaʊər/",
+    "grammar": [
+      {
+        "text": "When the phone rang",
+        "role": "A",
+        "phonetic": "/wen ðə foʊn ræŋ/",
+        "chinese": "什么时候/这个/那个/电话/响（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was taking",
+        "role": "V",
+        "phonetic": "/wʌz ˈteɪkɪŋ/",
+        "chinese": "是（过去式）/正在…(拿/带)"
+      },
+      {
+        "text": "a shower",
+        "role": "O",
+        "phonetic": "/ə ˈʃaʊər/",
+        "chinese": "一个/更…的/…者(展示)"
+      }
+    ]
+  },
+  {
+    "chinese": "我看书的时候他在写信",
+    "english": "While I read he was writing a letter",
+    "soundmark": "/waɪl aɪ red hiː wʌz ˈraɪtɪŋ ə ˈletər/",
+    "grammar": [
+      {
+        "text": "While I read",
+        "role": "A",
+        "phonetic": "/waɪl aɪ red/",
+        "chinese": "当…时/而/我/读（过去式/过去分词）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was writing",
+        "role": "V",
+        "phonetic": "/wʌz ˈraɪtɪŋ/",
+        "chinese": "是（过去式）/正在…(写)"
+      },
+      {
+        "text": "a letter",
+        "role": "O",
+        "phonetic": "/ə ˈletər/",
+        "chinese": "一个/信/字母"
+      }
+    ]
+  },
+  {
+    "chinese": "我做完作业后就去睡觉了",
+    "english": "After I finished my homework I went to bed",
+    "soundmark": "/ˈæftər aɪ ˈfɪnɪʃt maɪ ˈhoʊmwɜːrk aɪ went tuː bed/",
+    "grammar": [
+      {
+        "text": "After I finished my homework",
+        "role": "A",
+        "phonetic": "/ˈæftər aɪ ˈfɪnɪʃt maɪ ˈhoʊmwɜːrk/",
+        "chinese": "在…之后/我/完成的/我的/家庭作业"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to bed",
+        "role": "A",
+        "phonetic": "/tuː bed/",
+        "chinese": "睡觉"
+      }
+    ]
+  },
+  {
+    "chinese": "你吃完晚饭后洗碗好吗",
+    "english": "Will you wash the dishes after you finish dinner",
+    "soundmark": "/wɪl juː wɑːʃ ðə ˈdɪʃɪz ˈæftər juː ˈfɪnɪʃ ˈdɪnər/",
+    "grammar": [
+      {
+        "text": "Will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "wash",
+        "role": "V",
+        "phonetic": "/wɑːʃ/",
+        "chinese": "洗"
+      },
+      {
+        "text": "the dishes",
+        "role": "O",
+        "phonetic": "/ðə ˈdɪʃɪz/",
+        "chinese": "这个/那个/碟子/菜"
+      },
+      {
+        "text": "after you finish dinner",
+        "role": "A",
+        "phonetic": "/ˈæftər juː ˈfɪnɪʃ ˈdɪnər/",
+        "chinese": "在…之后/你/你们/完成"
+      }
+    ]
+  },
+  {
+    "chinese": "只要你有空我们就可以见面",
+    "english": "We can meet as long as you are free",
+    "soundmark": "/wiː kæn miːt æz lɔːŋ æz juː ɑːr friː/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "can meet",
+        "role": "V",
+        "phonetic": "/kæn miːt/",
+        "chinese": "能/遇见/开会"
+      },
+      {
+        "text": "as long as you are free",
+        "role": "A",
+        "phonetic": "/æz lɔːŋ æz juː ɑːr friː/",
+        "chinese": "当…时/作为/因为/长的/当…时/作为/因为/你/你们/是/自由的/免费的"
+      }
+    ]
+  },
+  {
+    "chinese": "他来的时候我正在和朋友通电话",
+    "english": "When he came I was on the phone with a friend",
+    "soundmark": "/wen hiː keɪm aɪ wʌz ɑːn ðə foʊn wɪð ə frend/",
+    "grammar": [
+      {
+        "text": "When he came",
+        "role": "A",
+        "phonetic": "/wen hiː keɪm/",
+        "chinese": "什么时候/他/来（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "on the phone",
+        "role": "C",
+        "phonetic": "/ɑːn ðə foʊn/",
+        "chinese": "在…上/这个/那个/电话"
+      },
+      {
+        "text": "with a friend",
+        "role": "A",
+        "phonetic": "/wɪð ə frend/",
+        "chinese": "和/用/一个/朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "从这里穿过马路之前先看红绿灯",
+    "english": "Before you cross the road here look at the traffic lights",
+    "soundmark": "/bɪˈfɔːr juː krɔːs ðə roʊd hɪr lʊk æt ðə ˈtræfɪk laɪts/",
+    "grammar": [
+      {
+        "text": "Before you cross the road here",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr juː krɔːs ðə roʊd hɪr/",
+        "chinese": "在…之前/你/你们/穿过/这个/那个/路/这里"
+      },
+      {
+        "text": "look",
+        "role": "V",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "at the traffic lights",
+        "role": "A",
+        "phonetic": "/æt ðə ˈtræfɪk laɪts/",
+        "chinese": "在/这个/那个/交通/…们/复数(轻的/浅色的)"
+      }
+    ]
+  },
+  {
+    "chinese": "信",
+    "english": "letter",
+    "soundmark": "/ˈletər/"
+  },
+  {
+    "chinese": "碗碟",
+    "english": "dishes",
+    "soundmark": "/ˈdɪʃɪz/"
+  },
+  {
+    "chinese": "红绿灯",
+    "english": "traffic lights",
+    "soundmark": "/ˈtræfɪk laɪts/"
+  },
+  {
+    "chinese": "见面",
+    "english": "meet",
+    "soundmark": "/miːt/"
+  },
+  {
+    "chinese": "淋浴",
+    "english": "shower",
+    "soundmark": "/ˈʃaʊər/"
+  }
+]

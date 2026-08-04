@@ -1,0 +1,328 @@
+[
+  {
+    "english": "information",
+    "chinese": "信息",
+    "soundmark": "/ˌɪnfərˈmeɪʃən/"
+  },
+  {
+    "english": "ask",
+    "chinese": "询问",
+    "soundmark": "/æsk/"
+  },
+  {
+    "english": "direction",
+    "chinese": "方向",
+    "soundmark": "/dəˈrekʃən/"
+  },
+  {
+    "english": "location",
+    "chinese": "位置",
+    "soundmark": "/loʊˈkeɪʃən/"
+  },
+  {
+    "english": "polite",
+    "chinese": "礼貌的",
+    "soundmark": "/pəˈlaɪt/"
+  },
+  {
+    "english": "excuse",
+    "chinese": "打扰",
+    "soundmark": "/ɪkˈskjuːz/"
+  },
+  {
+    "chinese": "请问，图书馆在哪里？",
+    "english": "Excuse me, where is the library?",
+    "soundmark": "/ɪkˈskjuːz miː, wer ɪz ðə ˈlaɪbrəri/",
+    "grammar": [
+      {
+        "text": "Excuse",
+        "role": "V",
+        "phonetic": "/ɪkˈskjuːz/",
+        "chinese": "请原谅"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "library",
+        "role": "S",
+        "phonetic": "/ˈlaɪbrəri/",
+        "chinese": "图书馆"
+      }
+    ]
+  },
+  {
+    "chinese": "你能告诉我怎么去火车站吗？",
+    "english": "Could you tell me how to get to the railway station?",
+    "soundmark": "/kʊd juː tel miː haʊ tə get tə ðə ˈreɪlweɪ ˈsteɪʃən/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "how",
+        "role": "A",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/get/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "railway",
+        "role": "Det",
+        "phonetic": "/ˈreɪlweɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "station",
+        "role": "O",
+        "phonetic": "/ˈsteɪʃən/",
+        "chinese": "车站"
+      }
+    ]
+  },
+  {
+    "chinese": "请问附近有银行吗？",
+    "english": "Is there a bank near here?",
+    "soundmark": "/ɪz ðer ə bæŋk nɪr hɪr/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bank",
+        "role": "C",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "near",
+        "role": "P",
+        "phonetic": "/nɪr/",
+        "chinese": "在…附近"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "我想问一下营业时间",
+    "english": "I'd like to ask about the business hours",
+    "soundmark": "/aɪd laɪk tə æsk əˈbaʊt ðə ˈbɪznəs ˈaʊərz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "'d",
+        "role": "V",
+        "phonetic": "/d/",
+        "chinese": ""
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "ask",
+        "role": "V",
+        "phonetic": "/æsk/",
+        "chinese": "问"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "business",
+        "role": "Det",
+        "phonetic": "/ˈbɪznəs/",
+        "chinese": "生意/商业"
+      },
+      {
+        "text": "hours",
+        "role": "O",
+        "phonetic": "/ˈaʊərz/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "打扰了，这附近有邮局吗？",
+    "english": "Excuse me, is there a post office around here?",
+    "soundmark": "/ɪkˈskjuːz miː, ɪz ðer ə poʊst ˈɔːfɪs əˈraʊnd hɪr/",
+    "grammar": [
+      {
+        "text": "Excuse",
+        "role": "V",
+        "phonetic": "/ɪkˈskjuːz/",
+        "chinese": "请原谅"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "post",
+        "role": "Det",
+        "phonetic": "/poʊst/",
+        "chinese": ""
+      },
+      {
+        "text": "office",
+        "role": "C",
+        "phonetic": "/ˈɔːfɪs/",
+        "chinese": "办公室"
+      },
+      {
+        "text": "around",
+        "role": "P",
+        "phonetic": "/əˈraʊnd/",
+        "chinese": "围绕/大约"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "english": "stranger",
+    "chinese": "陌生人",
+    "soundmark": "/ˈstreɪndʒər/"
+  },
+  {
+    "english": "helpful",
+    "chinese": "乐于助人的",
+    "soundmark": "/ˈhelpfəl/"
+  },
+  {
+    "english": "address",
+    "chinese": "地址",
+    "soundmark": "/əˈdres/"
+  }
+]

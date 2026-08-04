@@ -10,7 +10,6 @@ import type { WordSlot as WordSlotType } from "@/lib/types";
 
 interface WordSlotProps {
   slot: WordSlotType;
-  showAnswer?: boolean;
   inFixMode?: boolean;
 }
 
@@ -29,7 +28,6 @@ const statusStyles: Record<
 
 export const WordSlot = memo(function WordSlot({
   slot,
-  showAnswer,
   inFixMode,
 }: WordSlotProps) {
   const style = statusStyles[slot.status];
@@ -71,11 +69,11 @@ export const WordSlot = memo(function WordSlot({
         <span>{displayText}</span>
       ) : (
         // pending
-        <span className="opacity-30">{showAnswer ? slot.target : "\u00A0\u00A0"}</span>
+        <span className="opacity-30">{"\u00A0\u00A0"}</span>
       )}
 
-      {/* Fix 模式：显示正确答案 */}
-      {showAnswer && slot.status === "incorrect" && (
+      {/* Fix 模式：错误单词下方显示正确答案 */}
+      {inFixMode && slot.status === "incorrect" && (
         <span className="absolute -bottom-6 left-1/2 -translate-x-1/2 text-xs text-red-400 whitespace-nowrap">
           → {slot.target}
         </span>

@@ -1,0 +1,678 @@
+[
+  {
+    "chinese": "恒河",
+    "english": "Ganges",
+    "soundmark": "/ˈɡændʒiːz/"
+  },
+  {
+    "chinese": "花朵",
+    "english": "flower",
+    "soundmark": "/ˈflaʊər/"
+  },
+  {
+    "chinese": "诗人",
+    "english": "poet",
+    "soundmark": "/ˈpoʊɪt/"
+  },
+  {
+    "chinese": "诺贝尔奖",
+    "english": "Nobel Prize",
+    "soundmark": "/noʊˈbel/ /praɪz/"
+  },
+  {
+    "chinese": "文学",
+    "english": "literature",
+    "soundmark": "/ˈlɪtrətʃər/"
+  },
+  {
+    "chinese": "泰戈尔",
+    "english": "Tagore",
+    "soundmark": "/təˈɡɔːr/"
+  },
+  {
+    "chinese": "印度",
+    "english": "India",
+    "soundmark": "/ˈɪndiə/"
+  },
+  {
+    "chinese": "精神",
+    "english": "spiritual",
+    "soundmark": "/ˈspɪrɪtʃuəl/"
+  },
+  {
+    "chinese": "自然",
+    "english": "nature",
+    "soundmark": "/ˈneɪtʃər/"
+  },
+  {
+    "chinese": "哲学",
+    "english": "philosophy",
+    "soundmark": "/fɪˈlɑːsəfi/"
+  },
+  {
+    "chinese": "奉献",
+    "english": "devotion",
+    "soundmark": "/dɪˈvoʊʃən/"
+  },
+  {
+    "chinese": "翻译",
+    "english": "translate",
+    "soundmark": "/trænsˈleɪt/"
+  },
+  {
+    "chinese": "颂歌",
+    "english": "anthem",
+    "soundmark": "/ˈænθəm/"
+  },
+  {
+    "chinese": "神秘",
+    "english": "mystical",
+    "soundmark": "/ˈmɪstɪkəl/"
+  },
+  {
+    "chinese": "敬畏",
+    "english": "reverence",
+    "soundmark": "/ˈrevərəns/"
+  },
+  {
+    "chinese": "泰戈尔被誉为印度最伟大的诗人之一",
+    "english": "Tagore is regarded as one of India's greatest poets",
+    "soundmark": "/təˈɡɔːr/ /ɪz/ /rɪˈɡɑːrdɪd/ /əz/ /wʌn/ /əv/ /ˈɪndiəz/ /ˈɡreɪtɪst/ /ˈpoʊɪts/",
+    "grammar": [
+      {
+        "text": "Tagore",
+        "role": "S",
+        "phonetic": "/təˈɡɔːr/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "regarded",
+        "role": "V",
+        "phonetic": "/rɪˈɡɑːrdɪd/",
+        "chinese": "认为"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/əz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "India's",
+        "role": "Det",
+        "phonetic": "/ˈɪndiəz/",
+        "chinese": ""
+      },
+      {
+        "text": "greatest",
+        "role": "A",
+        "phonetic": "/ˈɡreɪtɪst/",
+        "chinese": "最…的(伟大的/很棒的)"
+      },
+      {
+        "text": "poets",
+        "role": "O",
+        "phonetic": "/ˈpoʊɪts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他的诗歌融合了自然与精神的主题",
+    "english": "His poetry combines themes of nature and spirituality",
+    "soundmark": "/hɪz/ /ˈpoʊətri/ /kəmˈbaɪnz/ /θiːmz/ /əv/ /ˈneɪtʃər/ /ənd/ /ˌspɪrɪtʃuˈæləti/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "poetry",
+        "role": "S",
+        "phonetic": "/ˈpoʊətri/",
+        "chinese": ""
+      },
+      {
+        "text": "combines",
+        "role": "V",
+        "phonetic": "/kəmˈbaɪnz/",
+        "chinese": "结合"
+      },
+      {
+        "text": "themes",
+        "role": "O",
+        "phonetic": "/θiːmz/",
+        "chinese": "他们"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "nature",
+        "role": "O",
+        "phonetic": "/ˈneɪtʃər/",
+        "chinese": "自然/本性"
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "spirituality",
+        "role": "O",
+        "phonetic": "/ˌspɪrɪtʃuˈæləti/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "吉檀迦利使他获得了诺贝尔文学奖",
+    "english": "Gitanjali earned him the Nobel Prize in Literature",
+    "soundmark": "/ɡɪˈtɑːndʒəli/ /ɜːrnd/ /hɪm/ /ðə/ /noʊˈbel/ /praɪz/ /ɪn/ /ˈlɪtrətʃər/",
+    "grammar": [
+      {
+        "text": "Gitanjali",
+        "role": "S",
+        "phonetic": "/ɡɪˈtɑːndʒəli/",
+        "chinese": ""
+      },
+      {
+        "text": "earned",
+        "role": "V",
+        "phonetic": "/ɜːrnd/",
+        "chinese": ""
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Nobel",
+        "role": "A",
+        "phonetic": "/noʊˈbel/",
+        "chinese": ""
+      },
+      {
+        "text": "Prize",
+        "role": "O",
+        "phonetic": "/praɪz/",
+        "chinese": "奖品"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Literature",
+        "role": "O",
+        "phonetic": "/ˈlɪtrətʃər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他将自己的一生奉献给了诗歌创作",
+    "english": "He devoted his life to writing poetry",
+    "soundmark": "/hiː/ /dɪˈvoʊtɪd/ /hɪz/ /laɪf/ /tuː/ /ˈraɪtɪŋ/ /ˈpoʊɪtri/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "devoted",
+        "role": "V",
+        "phonetic": "/dɪˈvoʊtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "life",
+        "role": "O",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "writing",
+        "role": "V",
+        "phonetic": "/ˈraɪtɪŋ/",
+        "chinese": "写作的"
+      },
+      {
+        "text": "poetry",
+        "role": "O",
+        "phonetic": "/ˈpoʊɪtri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "恒河在他的作品中常常被比作神圣的母亲",
+    "english": "The Ganges is often compared to a sacred mother in his works",
+    "soundmark": "/ðə/ /ˈɡændʒiːz/ /ɪz/ /ˈɔːfən/ /kəmˈperd/ /tuː/ /ə/ /ˈseɪkrɪd/ /ˈmʌðər/ /ɪn/ /hɪz/ /wɜːrks/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Ganges",
+        "role": "S",
+        "phonetic": "/ˈɡændʒiːz/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "compared",
+        "role": "V",
+        "phonetic": "/kəmˈperd/",
+        "chinese": "比较"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "sacred",
+        "role": "A",
+        "phonetic": "/ˈseɪkrɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "mother",
+        "role": "O",
+        "phonetic": "/ˈmʌðər/",
+        "chinese": "母亲"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "works",
+        "role": "A",
+        "phonetic": "/wɜːrks/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "他的颂歌至今仍被印度人传唱",
+    "english": "His anthems are still sung by Indians today",
+    "soundmark": "/hɪz/ /ˈænθəmz/ /ɑːr/ /stɪl/ /sʌŋ/ /baɪ/ /ˈɪndiənz/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "anthems",
+        "role": "S",
+        "phonetic": "/ˈænθəmz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "sung",
+        "role": "V",
+        "phonetic": "/sʌŋ/",
+        "chinese": "唱（过去分词）"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "Indians",
+        "role": "A",
+        "phonetic": "/ˈɪndiənz/",
+        "chinese": ""
+      },
+      {
+        "text": "today",
+        "role": "Adv",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "泰戈尔的诗充满着对万物的敬畏与热爱",
+    "english": "Tagore's poems are filled with reverence and love for all things",
+    "soundmark": "/təˈɡɔːrz/ /ˈpoʊɪmz/ /ɑːr/ /fɪld/ /wɪð/ /ˈrevərəns/ /ənd/ /lʌv/ /fɔːr/ /ɔːl/ /θɪŋz/",
+    "grammar": [
+      {
+        "text": "Tagore's",
+        "role": "Det",
+        "phonetic": "/təˈɡɔːrz/",
+        "chinese": ""
+      },
+      {
+        "text": "poems",
+        "role": "S",
+        "phonetic": "/ˈpoʊɪmz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "filled",
+        "role": "V",
+        "phonetic": "/fɪld/",
+        "chinese": "填满"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "reverence",
+        "role": "O",
+        "phonetic": "/ˈrevərəns/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "love",
+        "role": "O",
+        "phonetic": "/lʌv/",
+        "chinese": "爱"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "things",
+        "role": "O",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      }
+    ]
+  },
+  {
+    "chinese": "他的诗歌被翻译成多种语言在全世界传播",
+    "english": "His poetry has been translated into many languages worldwide",
+    "soundmark": "/hɪz/ /ˈpoʊɪtri/ /hæz/ /bɪn/ /trænsˈleɪtɪd/ /ˈɪntuː/ /ˈmeni/ /ˈlæŋɡwɪdʒɪz/ /ˈwɜːrldwaɪd/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "poetry",
+        "role": "S",
+        "phonetic": "/ˈpoʊɪtri/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "translated",
+        "role": "V",
+        "phonetic": "/trænsˈleɪtɪd/",
+        "chinese": "翻译"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "languages",
+        "role": "O",
+        "phonetic": "/ˈlæŋɡwɪdʒɪz/",
+        "chinese": "语言"
+      },
+      {
+        "text": "worldwide",
+        "role": "Adv",
+        "phonetic": "/ˈwɜːrldwaɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他相信人与自然之间存在着一种神秘的联系",
+    "english": "He believed that a mystical connection exists between man and nature",
+    "soundmark": "/hiː/ /bɪˈliːvd/ /ðæt/ /ə/ /ˈmɪstɪkəl/ /kəˈnekʃən/ /ɪɡˈzɪsts/ /bɪˈtwiːn/ /mæn/ /ənd/ /ˈneɪtʃər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "believed",
+        "role": "V",
+        "phonetic": "/bɪˈliːvd/",
+        "chinese": "相信"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "mystical",
+        "role": "A",
+        "phonetic": "/ˈmɪstɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "connection",
+        "role": "S",
+        "phonetic": "/kəˈnekʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "exists",
+        "role": "V",
+        "phonetic": "/ɪɡˈzɪsts/",
+        "chinese": "存在"
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "man",
+        "role": "O",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "nature",
+        "role": "O",
+        "phonetic": "/ˈneɪtʃər/",
+        "chinese": "自然/本性"
+      }
+    ]
+  },
+  {
+    "chinese": "神圣",
+    "english": "sacred",
+    "soundmark": "/ˈseɪkrɪd/"
+  },
+  {
+    "chinese": "奉献",
+    "english": "devote",
+    "soundmark": "/dɪˈvoʊt/"
+  },
+  {
+    "chinese": "文学",
+    "english": "literary",
+    "soundmark": "/ˈlɪtəreri/"
+  },
+  {
+    "chinese": "印度",
+    "english": "Indian",
+    "soundmark": "/ˈɪndiən/"
+  },
+  {
+    "chinese": "翻译",
+    "english": "translation",
+    "soundmark": "/trænsˈleɪʃən/"
+  },
+  {
+    "chinese": "精神",
+    "english": "spiritual",
+    "soundmark": "/ˈspɪrɪtʃuəl/"
+  },
+  {
+    "chinese": "敬畏",
+    "english": "revere",
+    "soundmark": "/rɪˈvɪr/"
+  },
+  {
+    "chinese": "神秘",
+    "english": "mystical",
+    "soundmark": "/ˈmɪstɪkəl/"
+  }
+]

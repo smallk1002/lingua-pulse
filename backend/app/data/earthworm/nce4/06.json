@@ -1,0 +1,905 @@
+[
+  {
+    "chinese": "体育",
+    "english": "sport",
+    "soundmark": "/spɔːrt/"
+  },
+  {
+    "chinese": "精神",
+    "english": "spirit",
+    "soundmark": "/ˈspɪrɪt/"
+  },
+  {
+    "chinese": "竞争",
+    "english": "competition",
+    "soundmark": "/ˌkɑːmpəˈtɪʃn/"
+  },
+  {
+    "chinese": "爱国主义",
+    "english": "patriotism",
+    "soundmark": "/ˈpeɪtriətɪzəm/"
+  },
+  {
+    "chinese": "敌意",
+    "english": "hostility",
+    "soundmark": "/hɑːˈstɪləti/"
+  },
+  {
+    "chinese": "观众",
+    "english": "spectator",
+    "soundmark": "/ˈspekteɪtər/"
+  },
+  {
+    "chinese": "国际的",
+    "english": "international",
+    "soundmark": "/ˌɪntərˈnæʃnəl/"
+  },
+  {
+    "chinese": "冲突",
+    "english": "conflict",
+    "soundmark": "/ˈkɑːnflɪkt/"
+  },
+  {
+    "chinese": "荣誉",
+    "english": "honour",
+    "soundmark": "/ˈɑːnər/"
+  },
+  {
+    "chinese": "尊严",
+    "english": "dignity",
+    "soundmark": "/ˈdɪɡnəti/"
+  },
+  {
+    "chinese": "野蛮的",
+    "english": "savage",
+    "soundmark": "/ˈsævɪdʒ/"
+  },
+  {
+    "chinese": "好斗的",
+    "english": "combative",
+    "soundmark": "/kəmˈbætɪv/"
+  },
+  {
+    "chinese": "战争",
+    "english": "warfare",
+    "soundmark": "/ˈwɔːrfer/"
+  },
+  {
+    "chinese": "和平",
+    "english": "peace",
+    "soundmark": "/piːs/"
+  },
+  {
+    "chinese": "合作",
+    "english": "cooperation",
+    "soundmark": "/koʊˌɑːpəˈreɪʃn/"
+  },
+  {
+    "chinese": "体育精神",
+    "english": "sporting spirit",
+    "soundmark": "/ˈspɔːrtɪŋ/ /ˈspɪrɪt/"
+  },
+  {
+    "chinese": "国际比赛",
+    "english": "international contest",
+    "soundmark": "/ˌɪntərˈnæʃnəl/ /ˈkɑːntest/"
+  },
+  {
+    "chinese": "和平竞争",
+    "english": "peaceful competition",
+    "soundmark": "/ˈpiːsfl/ /ˌkɑːmpəˈtɪʃn/"
+  },
+  {
+    "chinese": "激起敌意",
+    "english": "arouse hostility",
+    "soundmark": "/əˈraʊz/ /hɑːˈstɪləti/"
+  },
+  {
+    "chinese": "野蛮的冲突",
+    "english": "savage conflict",
+    "soundmark": "/ˈsævɪdʒ/ /ˈkɑːnflɪkt/"
+  },
+  {
+    "chinese": "假如体育能增进友谊的话就太好了",
+    "english": "if only sport could promote friendship that would be wonderful",
+    "soundmark": "/ɪf/ /oʊnli/ /spɔːrt/ /kʊd/ /prəˈmoʊt/ /ˈfrendʃɪp/ /ðæt/ /wʊd/ /biː/ /ˈwʌndərfl/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/oʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "sport",
+        "role": "S",
+        "phonetic": "/spɔːrt/",
+        "chinese": "运动"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "promote",
+        "role": "V",
+        "phonetic": "/prəˈmoʊt/",
+        "chinese": ""
+      },
+      {
+        "text": "friendship",
+        "role": "O",
+        "phonetic": "/ˈfrendʃɪp/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "wonderful",
+        "role": "C",
+        "phonetic": "/ˈwʌndərfl/",
+        "chinese": "精彩的"
+      }
+    ]
+  },
+  {
+    "chinese": "国际体育比赛如果组织得当可以增进国与国之间的了解",
+    "english": "international sporting events if organized properly can promote understanding between nations",
+    "soundmark": "/ˌɪntərˈnæʃnəl/ /ˈspɔːrtɪŋ/ /ɪˈvents/ /ɪf/ /ˈɔːrɡənaɪzd/ /ˈprɑːpərli/ /kæn/ /prəˈmoʊt/ /ˌʌndərˈstændɪŋ/ /bɪˈtwiːn/ /ˈneɪʃnz/",
+    "grammar": [
+      {
+        "text": "international",
+        "role": "A",
+        "phonetic": "/ˌɪntərˈnæʃnəl/",
+        "chinese": "国际的"
+      },
+      {
+        "text": "sporting",
+        "role": "A",
+        "phonetic": "/ˈspɔːrtɪŋ/",
+        "chinese": "运动"
+      },
+      {
+        "text": "events",
+        "role": "S",
+        "phonetic": "/ɪˈvents/",
+        "chinese": ""
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "organized",
+        "role": "V",
+        "phonetic": "/ˈɔːrɡənaɪzd/",
+        "chinese": "组织"
+      },
+      {
+        "text": "properly",
+        "role": "Adv",
+        "phonetic": "/ˈprɑːpərli/",
+        "chinese": "…地(适当的)"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "promote",
+        "role": "V",
+        "phonetic": "/prəˈmoʊt/",
+        "chinese": ""
+      },
+      {
+        "text": "understanding",
+        "role": "O",
+        "phonetic": "/ˌʌndərˈstændɪŋ/",
+        "chinese": "理解的/谅解"
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "nations",
+        "role": "O",
+        "phonetic": "/ˈneɪʃnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我认为体育比赛应该是一种娱乐而非战场",
+    "english": "I think that sports should be a form of entertainment rather than a battlefield",
+    "soundmark": "/aɪ/ /θɪŋk/ /ðæt/ /spɔːrts/ /ʃʊd/ /biː/ /ə/ /fɔːrm/ /ʌv/ /ˌentərˈteɪnmənt/ /ˈræðər/ /ðæn/ /ə/ /ˈbætlfiːld/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "sports",
+        "role": "S",
+        "phonetic": "/spɔːrts/",
+        "chinese": "运动"
+      },
+      {
+        "text": "should",
+        "role": "Aux",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "form",
+        "role": "C",
+        "phonetic": "/fɔːrm/",
+        "chinese": "表格/形式"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "entertainment",
+        "role": "O",
+        "phonetic": "/ˌentərˈteɪnmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "rather",
+        "role": "Adv",
+        "phonetic": "/ˈræðər/",
+        "chinese": "相当/宁愿"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "battlefield",
+        "role": "C",
+        "phonetic": "/ˈbætlfiːld/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "要是观众不那么好斗的话体育就能真正发挥其积极作用",
+    "english": "if spectators were less combative sport could really play its positive role",
+    "soundmark": "/ɪf/ /ˈspekteɪtərz/ /wɜːr/ /les/ /kəmˈbætɪv/ /spɔːrt/ /kʊd/ /ˈriːəli/ /pleɪ/ /ɪts/ /ˈpɑːzətɪv/ /roʊl/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "spectators",
+        "role": "S",
+        "phonetic": "/ˈspekteɪtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "less",
+        "role": "A",
+        "phonetic": "/les/",
+        "chinese": "更少"
+      },
+      {
+        "text": "combative",
+        "role": "C",
+        "phonetic": "/kəmˈbætɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "sport",
+        "role": "S",
+        "phonetic": "/spɔːrt/",
+        "chinese": "运动"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "really",
+        "role": "Adv",
+        "phonetic": "/ˈriːəli/",
+        "chinese": "真正地"
+      },
+      {
+        "text": "play",
+        "role": "V",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "positive",
+        "role": "A",
+        "phonetic": "/ˈpɑːzətɪv/",
+        "chinese": "积极的"
+      },
+      {
+        "text": "role",
+        "role": "O",
+        "phonetic": "/roʊl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果真想实现和平我们就应该从体育场上开始",
+    "english": "if peace is ever to be achieved we should start on the sports field",
+    "soundmark": "/ɪf/ /piːs/ /ɪz/ /ˈevər/ /tuː/ /biː/ /əˈtʃiːvd/ /wiː/ /ʃʊd/ /stɑːrt/ /ɑːn/ /ðə/ /spɔːrts/ /fiːld/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "peace",
+        "role": "S",
+        "phonetic": "/piːs/",
+        "chinese": "和平"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "achieved",
+        "role": "V",
+        "phonetic": "/əˈtʃiːvd/",
+        "chinese": "实现"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "should",
+        "role": "Aux",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "start",
+        "role": "V",
+        "phonetic": "/stɑːrt/",
+        "chinese": "开始"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sports",
+        "role": "A",
+        "phonetic": "/spɔːrts/",
+        "chinese": "运动"
+      },
+      {
+        "text": "field",
+        "role": "O",
+        "phonetic": "/fiːld/",
+        "chinese": "田野/领域"
+      }
+    ]
+  },
+  {
+    "chinese": "如果各国都把体育当作战争那世界就永无宁日",
+    "english": "if nations treated sport as war the world would never know peace",
+    "soundmark": "/ɪf/ /ˈneɪʃnz/ /ˈtriːtɪd/ /spɔːrt/ /æz/ /wɔːr/ /ðə/ /wɜːrld/ /wʊd/ /ˈnevər/ /noʊ/ /piːs/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "nations",
+        "role": "S",
+        "phonetic": "/ˈneɪʃnz/",
+        "chinese": ""
+      },
+      {
+        "text": "treated",
+        "role": "V",
+        "phonetic": "/ˈtriːtɪd/",
+        "chinese": "对待/治疗"
+      },
+      {
+        "text": "sport",
+        "role": "O",
+        "phonetic": "/spɔːrt/",
+        "chinese": "运动"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "war",
+        "role": "C",
+        "phonetic": "/wɔːr/",
+        "chinese": "战争"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "S",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "peace",
+        "role": "O",
+        "phonetic": "/piːs/",
+        "chinese": "和平"
+      }
+    ]
+  },
+  {
+    "chinese": "但愿体育比赛能够超越国界成为人类的共同语言",
+    "english": "I wish sporting contests could transcend borders and become a common language for mankind",
+    "soundmark": "/aɪ/ /wɪʃ/ /ˈspɔːrtɪŋ/ /ˈkɑːntests/ /kʊd/ /trænˈsend/ /ˈbɔːrdərz/ /ænd/ /bɪˈkʌm/ /ə/ /ˈkɑːmən/ /ˈlæŋɡwɪdʒ/ /fɔːr/ /mænˈkaɪnd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "sporting",
+        "role": "A",
+        "phonetic": "/ˈspɔːrtɪŋ/",
+        "chinese": "运动"
+      },
+      {
+        "text": "contests",
+        "role": "S",
+        "phonetic": "/ˈkɑːntests/",
+        "chinese": ""
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "transcend",
+        "role": "V",
+        "phonetic": "/trænˈsend/",
+        "chinese": ""
+      },
+      {
+        "text": "borders",
+        "role": "O",
+        "phonetic": "/ˈbɔːrdərz/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "become",
+        "role": "Lv",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "common",
+        "role": "A",
+        "phonetic": "/ˈkɑːmən/",
+        "chinese": "普通的"
+      },
+      {
+        "text": "language",
+        "role": "C",
+        "phonetic": "/ˈlæŋɡwɪdʒ/",
+        "chinese": "语言"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "mankind",
+        "role": "O",
+        "phonetic": "/mænˈkaɪnd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "比赛一开始观众就变得像野兽一样狂暴",
+    "english": "once the game begins the spectators turn as savage as wild beasts",
+    "soundmark": "/wʌns/ /ðə/ /ɡeɪm/ /bɪˈɡɪnz/ /ðə/ /ˈspekteɪtərz/ /tɜːrn/ /æz/ /ˈsævɪdʒ/ /æz/ /waɪld/ /biːsts/",
+    "grammar": [
+      {
+        "text": "once",
+        "role": "Adv",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "game",
+        "role": "S",
+        "phonetic": "/ɡeɪm/",
+        "chinese": "游戏/比赛"
+      },
+      {
+        "text": "begins",
+        "role": "V",
+        "phonetic": "/bɪˈɡɪnz/",
+        "chinese": "开始"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "spectators",
+        "role": "S",
+        "phonetic": "/ˈspekteɪtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "turn",
+        "role": "Lv",
+        "phonetic": "/tɜːrn/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "as",
+        "role": "Adv",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "savage",
+        "role": "C",
+        "phonetic": "/ˈsævɪdʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "wild",
+        "role": "A",
+        "phonetic": "/waɪld/",
+        "chinese": ""
+      },
+      {
+        "text": "beasts",
+        "role": "O",
+        "phonetic": "/biːsts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果我们能在比赛中保持尊严和风度体育就会成为文明的象征",
+    "english": "if we could maintain dignity and grace in competition sport would become a symbol of civilization",
+    "soundmark": "/ɪf/ /wiː/ /kʊd/ /meɪnˈteɪn/ /ˈdɪɡnəti/ /ænd/ /ɡreɪs/ /ɪn/ /ˌkɑːmpəˈtɪʃn/ /spɔːrt/ /wʊd/ /bɪˈkʌm/ /ə/ /ˈsɪmbl/ /ʌv/ /ˌsɪvələˈzeɪʃn/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "maintain",
+        "role": "V",
+        "phonetic": "/meɪnˈteɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "dignity",
+        "role": "O",
+        "phonetic": "/ˈdɪɡnəti/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "grace",
+        "role": "O",
+        "phonetic": "/ɡreɪs/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "competition",
+        "role": "O",
+        "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+        "chinese": "比赛"
+      },
+      {
+        "text": "sport",
+        "role": "S",
+        "phonetic": "/spɔːrt/",
+        "chinese": "运动"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "become",
+        "role": "Lv",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "symbol",
+        "role": "C",
+        "phonetic": "/ˈsɪmbl/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "civilization",
+        "role": "O",
+        "phonetic": "/ˌsɪvələˈzeɪʃn/",
+        "chinese": "文明"
+      }
+    ]
+  },
+  {
+    "chinese": "娱乐",
+    "english": "entertainment",
+    "soundmark": "/ˌentərˈteɪnmənt/"
+  },
+  {
+    "chinese": "战场",
+    "english": "battlefield",
+    "soundmark": "/ˈbætlfiːld/"
+  },
+  {
+    "chinese": "超越",
+    "english": "transcend",
+    "soundmark": "/trænˈsend/"
+  },
+  {
+    "chinese": "野蛮的",
+    "english": "savage",
+    "soundmark": "/ˈsævɪdʒ/"
+  },
+  {
+    "chinese": "符号",
+    "english": "symbol",
+    "soundmark": "/ˈsɪmbl/"
+  },
+  {
+    "chinese": "保持",
+    "english": "maintain",
+    "soundmark": "/meɪnˈteɪn/"
+  },
+  {
+    "chinese": "风度",
+    "english": "grace",
+    "soundmark": "/ɡreɪs/"
+  },
+  {
+    "chinese": "野兽",
+    "english": "beast",
+    "soundmark": "/biːst/"
+  },
+  {
+    "chinese": "促进作用",
+    "english": "promote",
+    "soundmark": "/prəˈmoʊt/"
+  },
+  {
+    "chinese": "友谊",
+    "english": "friendship",
+    "soundmark": "/ˈfrendʃɪp/"
+  }
+]

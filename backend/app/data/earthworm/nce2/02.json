@@ -1,0 +1,1541 @@
+[
+  {
+    "chinese": "直到",
+    "english": "until",
+    "soundmark": "/ʌnˈtɪl/"
+  },
+  {
+    "chinese": "外面",
+    "english": "outside",
+    "soundmark": "/ˌaʊtˈsaɪd/"
+  },
+  {
+    "chinese": "早餐",
+    "english": "breakfast",
+    "soundmark": "/ˈbrekfəst/"
+  },
+  {
+    "chinese": "午餐",
+    "english": "lunch",
+    "soundmark": "/lʌntʃ/"
+  },
+  {
+    "chinese": "教堂",
+    "english": "church",
+    "soundmark": "/tʃɜːrtʃ/"
+  },
+  {
+    "chinese": "钟",
+    "english": "bell",
+    "soundmark": "/bel/"
+  },
+  {
+    "chinese": "叔叔",
+    "english": "uncle",
+    "soundmark": "/ˈʌŋkəl/"
+  },
+  {
+    "chinese": "重复",
+    "english": "repeat",
+    "soundmark": "/rɪˈpiːt/"
+  },
+  {
+    "chinese": "起床",
+    "english": "get up",
+    "soundmark": "/ɡet/ /ʌp/"
+  },
+  {
+    "chinese": "吃早餐",
+    "english": "have breakfast",
+    "soundmark": "/hæv/ /ˈbrekfəst/"
+  },
+  {
+    "chinese": "吃午餐",
+    "english": "have lunch",
+    "soundmark": "/hæv/ /lʌntʃ/"
+  },
+  {
+    "chinese": "外面正在下雨",
+    "english": "It is raining outside",
+    "soundmark": "/ɪt/ /ɪz/ /ˈreɪnɪŋ/ /ˌaʊtˈsaɪd/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "chinese": "在…外面"
+      }
+    ]
+  },
+  {
+    "chinese": "我正坐在花园里",
+    "english": "I am sitting in the garden",
+    "soundmark": "/aɪ/ /æm/ /ˈsɪtɪŋ/ /ɪn/ /ðə/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "sitting",
+        "role": "V",
+        "phonetic": "/ˈsɪtɪŋ/",
+        "chinese": "坐着的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "教堂的钟正在敲响",
+    "english": "The church bell is ringing",
+    "soundmark": "/ðə/ /tʃɜːrtʃ/ /bel/ /ɪz/ /ˈrɪŋɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "church",
+        "role": "A",
+        "phonetic": "/tʃɜːrtʃ/",
+        "chinese": "教堂"
+      },
+      {
+        "text": "bell",
+        "role": "S",
+        "phonetic": "/bel/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "ringing",
+        "role": "V",
+        "phonetic": "/ˈrɪŋɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我正在花园里吃早餐",
+    "english": "I am having breakfast in the garden",
+    "soundmark": "/aɪ/ /æm/ /ˈhævɪŋ/ /ˈbrekfəst/ /ɪn/ /ðə/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "having",
+        "role": "V",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "那是你的午餐",
+    "english": "It is your lunch",
+    "soundmark": "/ɪt/ /ɪz/ /jɔːr/ /lʌntʃ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "lunch",
+        "role": "C",
+        "phonetic": "/lʌntʃ/",
+        "chinese": "午餐"
+      }
+    ]
+  },
+  {
+    "chinese": "我星期天从不早起",
+    "english": "I never get up early on Sundays",
+    "soundmark": "/aɪ/ /ˈnevər/ /ɡet/ /ʌp/ /ˈɜːrli/ /ɑːn/ /ˈsʌndeɪz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "early",
+        "role": "Adv",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "Sundays",
+        "role": "A",
+        "phonetic": "/ˈsʌndeɪz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我要在床上躺到吃午饭",
+    "english": "I sometimes stay in bed until lunchtime",
+    "soundmark": "/aɪ/ /ˈsʌmtaɪmz/ /steɪ/ /ɪn/ /bed/ /ʌnˈtɪl/ /ˈlʌntʃtaɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sometimes",
+        "role": "Adv",
+        "phonetic": "/ˈsʌmtaɪmz/",
+        "chinese": "有时"
+      },
+      {
+        "text": "stay",
+        "role": "V",
+        "phonetic": "/steɪ/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "bed",
+        "role": "O",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      },
+      {
+        "text": "until",
+        "role": "P",
+        "phonetic": "/ʌnˈtɪl/",
+        "chinese": "直到"
+      },
+      {
+        "text": "lunchtime",
+        "role": "A",
+        "phonetic": "/ˈlʌntʃtaɪm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我刚刚吃完早餐",
+    "english": "I have just had breakfast",
+    "soundmark": "/aɪ/ /hæv/ /dʒʌst/ /hæd/ /ˈbrekfəst/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      }
+    ]
+  },
+  {
+    "chinese": "现在是一点钟",
+    "english": "It is one o'clock",
+    "soundmark": "/ɪt/ /ɪz/ /wʌn/ /əˈklɑːk/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "one",
+        "role": "C",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "o'clock",
+        "role": "C",
+        "phonetic": "/əˈklɑːk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我叔叔也来了",
+    "english": "My uncle is coming too",
+    "soundmark": "/maɪ/ /ˈʌŋkəl/ /ɪz/ /ˈkʌmɪŋ/ /tuː/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "uncle",
+        "role": "S",
+        "phonetic": "/ˈʌŋkəl/",
+        "chinese": "叔叔/舅舅"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "coming",
+        "role": "V",
+        "phonetic": "/ˈkʌmɪŋ/",
+        "chinese": "来"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      }
+    ]
+  },
+  {
+    "chinese": "你还不饿吗",
+    "english": "Are you not hungry",
+    "soundmark": "/ɑːr/ /juː/ /nɑːt/ /ˈhʌŋɡri/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "hungry",
+        "role": "C",
+        "phonetic": "/ˈhʌŋɡri/",
+        "chinese": "饿的"
+      }
+    ]
+  },
+  {
+    "chinese": "我刚吃过早餐所以我不饿",
+    "english": "I have just had breakfast so I am not hungry",
+    "soundmark": "/aɪ/ /hæv/ /dʒʌst/ /hæd/ /ˈbrekfəst/ /soʊ/ /aɪ/ /æm/ /nɑːt/ /ˈhʌŋɡri/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      },
+      {
+        "text": "so",
+        "role": "P",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "hungry",
+        "role": "C",
+        "phonetic": "/ˈhʌŋɡri/",
+        "chinese": "饿的"
+      }
+    ]
+  },
+  {
+    "chinese": "他正朝我们走过来",
+    "english": "He is walking towards us",
+    "soundmark": "/hiː/ /ɪz/ /ˈwɔːkɪŋ/ /təˈwɔːrdz/ /ʌs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "walking",
+        "role": "V",
+        "phonetic": "/ˈwɔːkɪŋ/",
+        "chinese": "走路的"
+      },
+      {
+        "text": "towards",
+        "role": "P",
+        "phonetic": "/təˈwɔːrdz/",
+        "chinese": "朝向"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      }
+    ]
+  },
+  {
+    "chinese": "她正在房间里唱歌",
+    "english": "She is singing in the room",
+    "soundmark": "/ʃiː/ /ɪz/ /ˈsɪŋɪŋ/ /ɪn/ /ðə/ /ruːm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "singing",
+        "role": "V",
+        "phonetic": "/ˈsɪŋɪŋ/",
+        "chinese": "唱歌的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "room",
+        "role": "O",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "他们正在公园里散步",
+    "english": "They are taking a walk in the park",
+    "soundmark": "/ðeɪ/ /ɑːr/ /ˈteɪkɪŋ/ /ə/ /wɔːk/ /ɪn/ /ðə/ /pɑːrk/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "taking",
+        "role": "V",
+        "phonetic": "/ˈteɪkɪŋ/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "walk",
+        "role": "O",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "park",
+        "role": "O",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      }
+    ]
+  },
+  {
+    "chinese": "孩子正在做作业",
+    "english": "The child is doing his homework",
+    "soundmark": "/ðə/ /tʃaɪld/ /ɪz/ /ˈduːɪŋ/ /hɪz/ /ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "child",
+        "role": "S",
+        "phonetic": "/tʃaɪld/",
+        "chinese": "孩子"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "homework",
+        "role": "O",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "他们正在等公交车",
+    "english": "They are waiting for the bus",
+    "soundmark": "/ðeɪ/ /ɑːr/ /ˈweɪtɪŋ/ /fɔːr/ /ðə/ /bʌs/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bus",
+        "role": "O",
+        "phonetic": "/bʌs/",
+        "chinese": "公交车"
+      }
+    ]
+  },
+  {
+    "chinese": "你哥哥正在给你打电话",
+    "english": "Your brother is calling you",
+    "soundmark": "/jɔːr/ /ˈbrʌðər/ /ɪz/ /ˈkɔːlɪŋ/ /juː/",
+    "grammar": [
+      {
+        "text": "Your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "brother",
+        "role": "S",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "calling",
+        "role": "V",
+        "phonetic": "/ˈkɔːlɪŋ/",
+        "chinese": "打电话的"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "你为什么还躺在床上",
+    "english": "Why are you still in bed",
+    "soundmark": "/waɪ/ /ɑːr/ /juː/ /stɪl/ /ɪn/ /bed/",
+    "grammar": [
+      {
+        "text": "Why",
+        "role": "Adv",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "bed",
+        "role": "O",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      }
+    ]
+  },
+  {
+    "chinese": "外面还在下雨吗",
+    "english": "Is it still raining outside",
+    "soundmark": "/ɪz/ /ɪt/ /stɪl/ /ˈreɪnɪŋ/ /ˌaʊtˈsaɪd/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "chinese": "在…外面"
+      }
+    ]
+  },
+  {
+    "chinese": "你早餐通常吃什么",
+    "english": "What do you usually have for breakfast",
+    "soundmark": "/wʌt/ /duː/ /juː/ /ˈjuːʒuəli/ /hæv/ /fɔːr/ /ˈbrekfəst/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "usually",
+        "role": "Adv",
+        "phonetic": "/ˈjuːʒuəli/",
+        "chinese": "通常"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      }
+    ]
+  },
+  {
+    "chinese": "他星期天经常去教堂",
+    "english": "He often goes to church on Sundays",
+    "soundmark": "/hiː/ /ˈɔːfən/ /ɡoʊz/ /tuː/ /tʃɜːrtʃ/ /ɑːn/ /ˈsʌndeɪz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "goes",
+        "role": "V",
+        "phonetic": "/ɡoʊz/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "church",
+        "role": "O",
+        "phonetic": "/tʃɜːrtʃ/",
+        "chinese": "教堂"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "Sundays",
+        "role": "A",
+        "phonetic": "/ˈsʌndeɪz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你听起来累了",
+    "english": "You are sounding tired",
+    "soundmark": "/juː/ /ɑːr/ /ˈsaʊndɪŋ/ /ˈtaɪərd/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "sounding",
+        "role": "V",
+        "phonetic": "/ˈsaʊndɪŋ/",
+        "chinese": "声音"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/ˈtaɪərd/",
+        "chinese": "累的"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在给她写信",
+    "english": "I am writing a letter to her",
+    "soundmark": "/aɪ/ /æm/ /ˈraɪtɪŋ/ /ə/ /ˈletər/ /tuː/ /hɜːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "writing",
+        "role": "V",
+        "phonetic": "/ˈraɪtɪŋ/",
+        "chinese": "写作的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "letter",
+        "role": "O",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      }
+    ]
+  },
+  {
+    "chinese": "她说她正在做饭",
+    "english": "She says she is cooking",
+    "soundmark": "/ʃiː/ /sez/ /ʃiː/ /ɪz/ /ˈkʊkɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "says",
+        "role": "V",
+        "phonetic": "/sez/",
+        "chinese": "说"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "cooking",
+        "role": "V",
+        "phonetic": "/ˈkʊkɪŋ/",
+        "chinese": "做饭的"
+      }
+    ]
+  },
+  {
+    "chinese": "请不要打扰我我正在学习",
+    "english": "Please do not disturb me I am studying",
+    "soundmark": "/pliːz/ /duː/ /nɑːt/ /dɪˈstɜːrb/ /miː/ /aɪ/ /æm/ /ˈstʌdiɪŋ/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "disturb",
+        "role": "V",
+        "phonetic": "/dɪˈstɜːrb/",
+        "chinese": "打扰"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "studying",
+        "role": "V",
+        "phonetic": "/ˈstʌdiɪŋ/",
+        "chinese": "学习的"
+      }
+    ]
+  },
+  {
+    "chinese": "孩子们正在院子里玩",
+    "english": "The children are playing in the yard",
+    "soundmark": "/ðə/ /ˈtʃɪldrən/ /ɑːr/ /ˈpleɪɪŋ/ /ɪn/ /ðə/ /jɑːrd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "children",
+        "role": "S",
+        "phonetic": "/ˈtʃɪldrən/",
+        "chinese": "孩子们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "playing",
+        "role": "V",
+        "phonetic": "/ˈpleɪɪŋ/",
+        "chinese": "玩的/演奏的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "yard",
+        "role": "O",
+        "phonetic": "/jɑːrd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你叔叔经常来看你吗",
+    "english": "Does your uncle often come to see you",
+    "soundmark": "/dʌz/ /jɔːr/ /ˈʌŋkəl/ /ˈɔːfən/ /kʌm/ /tuː/ /siː/ /juː/",
+    "grammar": [
+      {
+        "text": "Does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "uncle",
+        "role": "S",
+        "phonetic": "/ˈʌŋkəl/",
+        "chinese": "叔叔/舅舅"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "现在是十一点了我还没起床",
+    "english": "It is eleven o'clock and I am still not up",
+    "soundmark": "/ɪt/ /ɪz/ /ɪˈlevən/ /əˈklɑːk/ /ænd/ /aɪ/ /æm/ /stɪl/ /nɑːt/ /ʌp/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "eleven",
+        "role": "C",
+        "phonetic": "/ɪˈlevən/",
+        "chinese": "十一"
+      },
+      {
+        "text": "o'clock",
+        "role": "C",
+        "phonetic": "/əˈklɑːk/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "up",
+        "role": "C",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      }
+    ]
+  },
+  {
+    "chinese": "你能再说一遍吗",
+    "english": "Can you repeat that",
+    "soundmark": "/kæn/ /juː/ /rɪˈpiːt/ /ðæt/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "repeat",
+        "role": "V",
+        "phonetic": "/rɪˈpiːt/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      }
+    ]
+  },
+  {
+    "chinese": "太阳正在升起好美啊",
+    "english": "The sun is rising it is so beautiful",
+    "soundmark": "/ðə/ /sʌn/ /ɪz/ /ˈraɪzɪŋ/ /ɪt/ /ɪz/ /soʊ/ /ˈbjuːtɪfəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sun",
+        "role": "S",
+        "phonetic": "/sʌn/",
+        "chinese": "太阳"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "rising",
+        "role": "V",
+        "phonetic": "/ˈraɪzɪŋ/",
+        "chinese": "上升"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      }
+    ]
+  },
+  {
+    "chinese": "她看起来很累因为她整晚没睡",
+    "english": "She looks tired because she did not sleep all night",
+    "soundmark": "/ʃiː/ /lʊks/ /ˈtaɪərd/ /bɪˈkɔːz/ /ʃiː/ /dɪd/ /nɑːt/ /sliːp/ /ɔːl/ /naɪt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "looks",
+        "role": "Lv",
+        "phonetic": "/lʊks/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/ˈtaɪərd/",
+        "chinese": "累的"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "sleep",
+        "role": "V",
+        "phonetic": "/sliːp/",
+        "chinese": "睡觉"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "下着雨",
+    "english": "raining",
+    "soundmark": "/ˈreɪnɪŋ/"
+  },
+  {
+    "chinese": "花园",
+    "english": "garden",
+    "soundmark": "/ˈɡɑːrdən/"
+  },
+  {
+    "chinese": "钟声",
+    "english": "bell",
+    "soundmark": "/bel/"
+  },
+  {
+    "chinese": "睡觉",
+    "english": "sleep",
+    "soundmark": "/sliːp/"
+  },
+  {
+    "chinese": "累的",
+    "english": "tired",
+    "soundmark": "/ˈtaɪərd/"
+  },
+  {
+    "chinese": "饿的",
+    "english": "hungry",
+    "soundmark": "/ˈhʌŋɡri/"
+  },
+  {
+    "chinese": "美丽的",
+    "english": "beautiful",
+    "soundmark": "/ˈbjuːtɪfəl/"
+  },
+  {
+    "chinese": "叔叔",
+    "english": "uncle",
+    "soundmark": "/ˈʌŋkəl/"
+  },
+  {
+    "chinese": "通常",
+    "english": "usually",
+    "soundmark": "/ˈjuːʒuəli/"
+  },
+  {
+    "chinese": "从不",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  },
+  {
+    "chinese": "重复说",
+    "english": "repeat",
+    "soundmark": "/rɪˈpiːt/"
+  },
+  {
+    "chinese": "早餐时间",
+    "english": "breakfast time",
+    "soundmark": "/ˈbrekfəst/ /taɪm/"
+  }
+]

@@ -1,0 +1,2744 @@
+[
+  {
+    "chinese": "谁(who)",
+    "english": "who",
+    "soundmark": "/huː/"
+  },
+  {
+    "chinese": "那个(that)",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "chinese": "人(person)",
+    "english": "person",
+    "soundmark": "/ˈpɜːrsən/"
+  },
+  {
+    "chinese": "男人(man)",
+    "english": "man",
+    "soundmark": "/mæn/"
+  },
+  {
+    "chinese": "女人(woman)",
+    "english": "woman",
+    "soundmark": "/ˈwʊmən/"
+  },
+  {
+    "chinese": "住……的人",
+    "english": "who lives",
+    "soundmark": "/huː lɪvz/"
+  },
+  {
+    "chinese": "工作……的人",
+    "english": "who works",
+    "soundmark": "/huː wɜːrks/"
+  },
+  {
+    "chinese": "认识……的人",
+    "english": "who knows",
+    "soundmark": "/huː noʊz/"
+  },
+  {
+    "chinese": "住在隔壁的人",
+    "english": "the man who lives next door",
+    "soundmark": "/ðə mæn huː lɪvz nekst dɔːr/"
+  },
+  {
+    "chinese": "在医院工作的人",
+    "english": "the woman who works at the hospital",
+    "soundmark": "/ðə ˈwʊmən huː wɜːrks æt ðə ˈhɒspɪtəl/"
+  },
+  {
+    "chinese": "住在隔壁的人是我的朋友",
+    "english": "The man who lives next door is my friend",
+    "soundmark": "/ðə mæn huː lɪvz nekst dɔːr ɪz maɪ frend/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "lives",
+        "role": "V",
+        "phonetic": "/lɪvz/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "door",
+        "role": "A",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "friend",
+        "role": "C",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "在医院工作的那个女人很善良",
+    "english": "The woman who works at the hospital is very kind",
+    "soundmark": "/ðə ˈwʊmən huː wɜːrks æt ðə ˈhɒspɪtəl ɪz ˈveri kaɪnd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "woman",
+        "role": "S",
+        "phonetic": "/ˈwʊmən/",
+        "chinese": "女人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "works",
+        "role": "V",
+        "phonetic": "/wɜːrks/",
+        "chinese": "工作"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "hospital",
+        "role": "A",
+        "phonetic": "/ˈhɒspɪtəl/",
+        "chinese": "医院"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "kind",
+        "role": "C",
+        "phonetic": "/kaɪnd/",
+        "chinese": "善良的"
+      }
+    ]
+  },
+  {
+    "chinese": "我认识一个会说五种语言的人",
+    "english": "I know a person who can speak five languages",
+    "soundmark": "/aɪ noʊ ə ˈpɜːrsən huː kæn spiːk faɪv ˈlæŋɡwɪdʒɪz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "person",
+        "role": "O",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "languages",
+        "role": "O",
+        "phonetic": "/ˈlæŋɡwɪdʒɪz/",
+        "chinese": "语言"
+      }
+    ]
+  },
+  {
+    "chinese": "教我们英语的那位老师很幽默",
+    "english": "The teacher who teaches us English is very funny",
+    "soundmark": "/ðə ˈtiːtʃər huː ˈtiːtʃɪz ʌs ˈɪŋɡlɪʃ ɪz ˈveri ˈfʌni/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "teacher",
+        "role": "S",
+        "phonetic": "/ˈtiːtʃər/",
+        "chinese": "老师"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "teaches",
+        "role": "V",
+        "phonetic": "/ˈtiːtʃɪz/",
+        "chinese": "教"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "funny",
+        "role": "C",
+        "phonetic": "/ˈfʌni/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "昨天打电话的那个人是谁",
+    "english": "Who is the person that called yesterday",
+    "soundmark": "/huː ɪz ðə ˈpɜːrsən ðæt kɔːld ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "person",
+        "role": "C",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "我不认识那个站在门口的人",
+    "english": "I don't know the man who is standing at the door",
+    "soundmark": "/aɪ doʊnt noʊ ðə mæn huː ɪz ˈstændɪŋ æt ðə dɔːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "don't",
+        "role": "V",
+        "phonetic": "/doʊnt/",
+        "chinese": "不"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "O",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "standing",
+        "role": "V",
+        "phonetic": "/ˈstændɪŋ/",
+        "chinese": "站着的"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "A",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      }
+    ]
+  },
+  {
+    "chinese": "帮助我完成项目的那个人是我的同事",
+    "english": "The person who helped me with the project is my colleague",
+    "soundmark": "/ðə ˈpɜːrsən huː helpt miː wɪð ðə ˈprɒdʒekt ɪz maɪ ˈkɒliːɡ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "person",
+        "role": "S",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "helped",
+        "role": "V",
+        "phonetic": "/helpt/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "project",
+        "role": "A",
+        "phonetic": "/ˈprɒdʒekt/",
+        "chinese": "项目"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "colleague",
+        "role": "C",
+        "phonetic": "/ˈkɒliːɡ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我有一个哥哥住在加拿大",
+    "english": "I have a brother who lives in Canada",
+    "soundmark": "/aɪ hæv ə ˈbrʌðər huː lɪvz ɪn ˈkænədə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "brother",
+        "role": "O",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "lives",
+        "role": "V",
+        "phonetic": "/lɪvz/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Canada",
+        "role": "A",
+        "phonetic": "/ˈkænədə/",
+        "chinese": "加拿大"
+      }
+    ]
+  },
+  {
+    "chinese": "她是唯一懂这首歌含义的人",
+    "english": "She is the only person who understands the meaning of this song",
+    "soundmark": "/ʃiː ɪz ði ˈoʊnli ˈpɜːrsən huː ˌʌndərˈstændz ðə ˈmiːnɪŋ əv ðɪs sɔːŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "only",
+        "role": "C",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "person",
+        "role": "C",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "understands",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstændz/",
+        "chinese": "理解"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meaning",
+        "role": "O",
+        "phonetic": "/ˈmiːnɪŋ/",
+        "chinese": "意思是/刻薄的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "song",
+        "role": "A",
+        "phonetic": "/sɔːŋ/",
+        "chinese": "歌曲"
+      }
+    ]
+  },
+  {
+    "chinese": "那个坐在角落的男生是我弟弟",
+    "english": "The boy who is sitting in the corner is my brother",
+    "soundmark": "/ðə bɔɪ huː ɪz ˈsɪtɪŋ ɪn ðə ˈkɔːrnər ɪz maɪ ˈbrʌðər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "boy",
+        "role": "S",
+        "phonetic": "/bɔɪ/",
+        "chinese": "男孩"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "sitting",
+        "role": "V",
+        "phonetic": "/ˈsɪtɪŋ/",
+        "chinese": "坐着的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "corner",
+        "role": "A",
+        "phonetic": "/ˈkɔːrnər/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "brother",
+        "role": "C",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      }
+    ]
+  },
+  {
+    "chinese": "那些早早起床的人更容易成功",
+    "english": "People who get up early are more likely to succeed",
+    "soundmark": "/ˈpiːpəl huː ɡet ʌp ˈɜːrli ɑːr mɔːr ˈlaɪkli tuː səkˈsiːd/",
+    "grammar": [
+      {
+        "text": "People",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "A",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "likely",
+        "role": "C",
+        "phonetic": "/ˈlaɪkli/",
+        "chinese": "…地(喜欢)"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "succeed",
+        "role": "V",
+        "phonetic": "/səkˈsiːd/",
+        "chinese": "成功"
+      }
+    ]
+  },
+  {
+    "chinese": "你认识那个每天早上跑步的老人吗",
+    "english": "Do you know the old man who runs every morning",
+    "soundmark": "/duː juː noʊ ði oʊld mæn huː rʌnz ˈevri ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "man",
+        "role": "O",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "runs",
+        "role": "V",
+        "phonetic": "/rʌnz/",
+        "chinese": "跑"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "那个发现这个错误的人应该得到奖励",
+    "english": "The person who found this mistake should be rewarded",
+    "soundmark": "/ðə ˈpɜːrsən huː faʊnd ðɪs mɪˈsteɪk ʃʊd biː rɪˈwɔːrdɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "person",
+        "role": "S",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "mistake",
+        "role": "O",
+        "phonetic": "/mɪˈsteɪk/",
+        "chinese": "错误"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "rewarded",
+        "role": "V",
+        "phonetic": "/rɪˈwɔːrdɪd/",
+        "chinese": "奖励"
+      }
+    ]
+  },
+  {
+    "chinese": "我喜欢那些努力奋斗的人",
+    "english": "I like people who work hard",
+    "soundmark": "/aɪ laɪk ˈpiːpəl huː wɜːrk hɑːrd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "people",
+        "role": "O",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "work",
+        "role": "V",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "hard",
+        "role": "A",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      }
+    ]
+  },
+  {
+    "chinese": "有没有人知道怎么修这个",
+    "english": "Is there anyone who knows how to fix this",
+    "soundmark": "/ɪz ðer ˈeniwʌn huː noʊz haʊ tuː fɪks ðɪs/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "anyone",
+        "role": "S",
+        "phonetic": "/ˈeniwʌn/",
+        "chinese": "任何人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "knows",
+        "role": "V",
+        "phonetic": "/noʊz/",
+        "chinese": "知道"
+      },
+      {
+        "text": "how",
+        "role": "A",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "fix",
+        "role": "V",
+        "phonetic": "/fɪks/",
+        "chinese": "修理/固定"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "她是我们学校第一位获得金牌的人",
+    "english": "She is the first person who has won a gold medal in our school",
+    "soundmark": "/ʃiː ɪz ðə fɜːrst ˈpɜːrsən huː hæz wʌn ə ɡoʊld ˈmedəl ɪn aʊər skuːl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "first",
+        "role": "C",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      },
+      {
+        "text": "person",
+        "role": "C",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "won",
+        "role": "V",
+        "phonetic": "/wʌn/",
+        "chinese": "赢（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "gold",
+        "role": "C",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "medal",
+        "role": "O",
+        "phonetic": "/ˈmedəl/",
+        "chinese": "奖牌"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "school",
+        "role": "A",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      }
+    ]
+  },
+  {
+    "chinese": "写那本书的人是我爸爸的朋友",
+    "english": "The person who wrote that book is a friend of my father",
+    "soundmark": "/ðə ˈpɜːrsən huː roʊt ðæt bʊk ɪz ə frend əv maɪ ˈfɑːðər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "person",
+        "role": "S",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "wrote",
+        "role": "V",
+        "phonetic": "/roʊt/",
+        "chinese": "写（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "friend",
+        "role": "C",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "father",
+        "role": "A",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      }
+    ]
+  },
+  {
+    "chinese": "很多人不喜欢总是抱怨的人",
+    "english": "Many people don't like those who complain all the time",
+    "soundmark": "/ˈmeni ˈpiːpəl doʊnt laɪk ðoʊz huː kəmˈpleɪn ɔːl ðə taɪm/",
+    "grammar": [
+      {
+        "text": "Many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "don't",
+        "role": "V",
+        "phonetic": "/doʊnt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "those",
+        "role": "O",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "complain",
+        "role": "V",
+        "phonetic": "/kəmˈpleɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "那个救了我的命的人我永远不会忘记",
+    "english": "I will never forget the person who saved my life",
+    "soundmark": "/aɪ wɪl ˈnevər fərˈɡet ðə ˈpɜːrsən huː seɪvd maɪ laɪf/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "forget",
+        "role": "V",
+        "phonetic": "/fərˈɡet/",
+        "chinese": "忘记"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "person",
+        "role": "O",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "saved",
+        "role": "V",
+        "phonetic": "/seɪvd/",
+        "chinese": "保存/救"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "life",
+        "role": "O",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      }
+    ]
+  },
+  {
+    "chinese": "那个获奖的女孩是她的女儿",
+    "english": "The girl who won the prize is her daughter",
+    "soundmark": "/ðə ɡɜːrl huː wʌn ðə praɪz ɪz hɜːr ˈdɔːtər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "girl",
+        "role": "S",
+        "phonetic": "/ɡɜːrl/",
+        "chinese": "女孩"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "won",
+        "role": "V",
+        "phonetic": "/wʌn/",
+        "chinese": "赢（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "prize",
+        "role": "O",
+        "phonetic": "/praɪz/",
+        "chinese": "奖品"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "daughter",
+        "role": "C",
+        "phonetic": "/ˈdɔːtər/",
+        "chinese": "女儿"
+      }
+    ]
+  },
+  {
+    "chinese": "我不认识任何住在这个小区的人",
+    "english": "I don't know anyone who lives in this neighborhood",
+    "soundmark": "/aɪ doʊnt noʊ ˈeniwʌn huː lɪvz ɪn ðɪs ˈneɪbərhʊd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "don't",
+        "role": "V",
+        "phonetic": "/doʊnt/",
+        "chinese": "不"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "anyone",
+        "role": "O",
+        "phonetic": "/ˈeniwʌn/",
+        "chinese": "任何人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "lives",
+        "role": "V",
+        "phonetic": "/lɪvz/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "neighborhood",
+        "role": "A",
+        "phonetic": "/ˈneɪbərhʊd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你记不记得那天跟我们一起来的人",
+    "english": "Do you remember the person who came with us that day",
+    "soundmark": "/duː juː rɪˈmembər ðə ˈpɜːrsən huː keɪm wɪð ʌs ðæt deɪ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "remember",
+        "role": "V",
+        "phonetic": "/rɪˈmembər/",
+        "chinese": "记住"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "person",
+        "role": "O",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "us",
+        "role": "A",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "只有那些不怕失败的人才能取得伟大成就",
+    "english": "Only those who are not afraid of failure can achieve great things",
+    "soundmark": "/ˈoʊnli ðoʊz huː ɑːr nɒt əˈfreɪd əv ˈfeɪljər kæn əˈtʃiːv ɡreɪt θɪŋz/",
+    "grammar": [
+      {
+        "text": "Only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "those",
+        "role": "S",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "afraid",
+        "role": "C",
+        "phonetic": "/əˈfreɪd/",
+        "chinese": "害怕的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "failure",
+        "role": "A",
+        "phonetic": "/ˈfeɪljər/",
+        "chinese": "失败"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "achieve",
+        "role": "V",
+        "phonetic": "/əˈtʃiːv/",
+        "chinese": "实现"
+      },
+      {
+        "text": "great",
+        "role": "C",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "things",
+        "role": "O",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      }
+    ]
+  },
+  {
+    "chinese": "那个正在弹钢琴的女孩是谁",
+    "english": "Who is that girl who is playing the piano",
+    "soundmark": "/huː ɪz ðæt ɡɜːrl huː ɪz ˈpleɪɪŋ ðə piˈænoʊ/",
+    "grammar": [
+      {
+        "text": "Who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "girl",
+        "role": "C",
+        "phonetic": "/ɡɜːrl/",
+        "chinese": "女孩"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "playing",
+        "role": "V",
+        "phonetic": "/ˈpleɪɪŋ/",
+        "chinese": "玩的/演奏的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "piano",
+        "role": "O",
+        "phonetic": "/piˈænoʊ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那些想去参加旅行的人请举手",
+    "english": "Those who want to join the trip please raise your hands",
+    "soundmark": "/ðoʊz huː wɒnt tuː dʒɔɪn ðə trɪp pliːz reɪz jɔːr hændz/",
+    "grammar": [
+      {
+        "text": "Those",
+        "role": "S",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɒnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "join",
+        "role": "V",
+        "phonetic": "/dʒɔɪn/",
+        "chinese": "加入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "trip",
+        "role": "O",
+        "phonetic": "/trɪp/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "raise",
+        "role": "V",
+        "phonetic": "/reɪz/",
+        "chinese": "举起"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "hands",
+        "role": "O",
+        "phonetic": "/hændz/",
+        "chinese": "手"
+      }
+    ]
+  },
+  {
+    "chinese": "那个帮你的人是你弟弟啊",
+    "english": "The one who helped you was your brother",
+    "soundmark": "/ðə wʌn huː helpt juː wʌz jɔːr ˈbrʌðər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "helped",
+        "role": "V",
+        "phonetic": "/helpt/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "brother",
+        "role": "C",
+        "phonetic": "/ˈbrʌðər/",
+        "chinese": "兄弟"
+      }
+    ]
+  },
+  {
+    "chinese": "我很佩服那些永不放弃的人",
+    "english": "I admire people who never give up",
+    "soundmark": "/aɪ ədˈmaɪər ˈpiːpəl huː ˈnevər ɡɪv ʌp/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "admire",
+        "role": "V",
+        "phonetic": "/ədˈmaɪər/",
+        "chinese": "钦佩"
+      },
+      {
+        "text": "people",
+        "role": "O",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      }
+    ]
+  },
+  {
+    "chinese": "那个帮我修车的人做得非常好",
+    "english": "The man who fixed my car did a great job",
+    "soundmark": "/ðə mæn huː fɪkst maɪ kɑːr dɪd ə ɡreɪt dʒɒb/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "fixed",
+        "role": "V",
+        "phonetic": "/fɪkst/",
+        "chinese": "修理/固定"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "great",
+        "role": "C",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "job",
+        "role": "O",
+        "phonetic": "/dʒɒb/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "有人能帮我翻译一下这个吗",
+    "english": "Is there anyone who can translate this for me",
+    "soundmark": "/ɪz ðer ˈeniwʌn huː kæn trænsˈleɪt ðɪs fɔːr miː/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "anyone",
+        "role": "S",
+        "phonetic": "/ˈeniwʌn/",
+        "chinese": "任何人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "translate",
+        "role": "V",
+        "phonetic": "/trænsˈleɪt/",
+        "chinese": "翻译"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "me",
+        "role": "A",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "她是一个总是信守承诺的人",
+    "english": "She is someone who always keeps her promises",
+    "soundmark": "/ʃiː ɪz ˈsʌmwʌn huː ˈɔːlweɪz kiːps hɜːr ˈprɒmɪsɪz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "someone",
+        "role": "C",
+        "phonetic": "/ˈsʌmwʌn/",
+        "chinese": "某人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "always",
+        "role": "A",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "keeps",
+        "role": "V",
+        "phonetic": "/kiːps/",
+        "chinese": "保持/保留"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "promises",
+        "role": "O",
+        "phonetic": "/ˈprɒmɪsɪz/",
+        "chinese": "承诺"
+      }
+    ]
+  },
+  {
+    "chinese": "答对的同学将会获得奖品",
+    "english": "The student who answers correctly will get a prize",
+    "soundmark": "/ðə ˈstuːdənt huː ˈænsərz kəˈrektli wɪl ɡet ə praɪz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "student",
+        "role": "S",
+        "phonetic": "/ˈstuːdənt/",
+        "chinese": "学生"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "answers",
+        "role": "V",
+        "phonetic": "/ˈænsərz/",
+        "chinese": "回答"
+      },
+      {
+        "text": "correctly",
+        "role": "A",
+        "phonetic": "/kəˈrektli/",
+        "chinese": "…地(正确的)"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "prize",
+        "role": "O",
+        "phonetic": "/praɪz/",
+        "chinese": "奖品"
+      }
+    ]
+  },
+  {
+    "chinese": "我想见见设计这座建筑的人",
+    "english": "I want to meet the person who designed this building",
+    "soundmark": "/aɪ wɒnt tuː miːt ðə ˈpɜːrsən huː dɪˈzaɪnd ðɪs ˈbɪldɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɒnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "meet",
+        "role": "V",
+        "phonetic": "/miːt/",
+        "chinese": "遇见/开会"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "person",
+        "role": "O",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "designed",
+        "role": "V",
+        "phonetic": "/dɪˈzaɪnd/",
+        "chinese": "设计的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "building",
+        "role": "O",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "chinese": "建筑的/建筑物"
+      }
+    ]
+  },
+  {
+    "chinese": "经常阅读的人词汇量更丰富",
+    "english": "People who read regularly have better vocabulary",
+    "soundmark": "/ˈpiːpəl huː riːd ˈreɡjələrli hæv ˈbetər vəˈkæbjəleri/",
+    "grammar": [
+      {
+        "text": "People",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/riːd/",
+        "chinese": "读"
+      },
+      {
+        "text": "regularly",
+        "role": "A",
+        "phonetic": "/ˈreɡjələrli/",
+        "chinese": "…地(定期的)"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "better",
+        "role": "C",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      },
+      {
+        "text": "vocabulary",
+        "role": "O",
+        "phonetic": "/vəˈkæbjəleri/",
+        "chinese": "词汇"
+      }
+    ]
+  },
+  {
+    "chinese": "他就是提出这个想法的那个",
+    "english": "He was the one who suggested this idea",
+    "soundmark": "/hiː wʌz ðə wʌn huː səˈdʒestɪd ðɪs aɪˈdiːə/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "one",
+        "role": "C",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "suggested",
+        "role": "V",
+        "phonetic": "/səˈdʒestɪd/",
+        "chinese": "建议"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "idea",
+        "role": "O",
+        "phonetic": "/aɪˈdiːə/",
+        "chinese": "想法"
+      }
+    ]
+  },
+  {
+    "chinese": "昨晚表演的那位歌手太棒了",
+    "english": "The singer who performed last night was amazing",
+    "soundmark": "/ðə ˈsɪŋər huː pərˈfɔːrmd lɑːst naɪt wʌz əˈmeɪzɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "singer",
+        "role": "S",
+        "phonetic": "/ˈsɪŋər/",
+        "chinese": "更…的/…者(唱)"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "performed",
+        "role": "V",
+        "phonetic": "/pərˈfɔːrmd/",
+        "chinese": ""
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/lɑːst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "amazing",
+        "role": "C",
+        "phonetic": "/əˈmeɪzɪŋ/",
+        "chinese": "令人惊奇的"
+      }
+    ]
+  },
+  {
+    "chinese": "你认不认识去过南极的人",
+    "english": "Do you know anyone who has been to Antarctica",
+    "soundmark": "/duː juː noʊ ˈeniwʌn huː hæz biːn tuː ænˈtɑːrktɪkə/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "anyone",
+        "role": "O",
+        "phonetic": "/ˈeniwʌn/",
+        "chinese": "任何人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "Antarctica",
+        "role": "A",
+        "phonetic": "/ænˈtɑːrktɪkə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "一个在困难时候支持你的朋友才是真正的朋友",
+    "english": "A friend who supports you in hard times is a true friend",
+    "soundmark": "/ə frend huː səˈpɔːrts juː ɪn hɑːrd taɪmz ɪz ə truː frend/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "friend",
+        "role": "S",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "supports",
+        "role": "V",
+        "phonetic": "/səˈpɔːrts/",
+        "chinese": "支持"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "hard",
+        "role": "C",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      },
+      {
+        "text": "times",
+        "role": "A",
+        "phonetic": "/taɪmz/",
+        "chinese": "时间"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "true",
+        "role": "C",
+        "phonetic": "/truː/",
+        "chinese": "真的"
+      },
+      {
+        "text": "friend",
+        "role": "C",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "那个帮我们的工作人员非常耐心",
+    "english": "The worker who helped us was very patient",
+    "soundmark": "/ðə ˈwɜːrkər huː helpt ʌs wʌz ˈveri ˈpeɪʃənt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "worker",
+        "role": "S",
+        "phonetic": "/ˈwɜːrkər/",
+        "chinese": "更…的/…者(工作)"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "helped",
+        "role": "V",
+        "phonetic": "/helpt/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "patient",
+        "role": "C",
+        "phonetic": "/ˈpeɪʃənt/",
+        "chinese": "耐心的/病人"
+      }
+    ]
+  },
+  {
+    "chinese": "提前做完的人可以先走了",
+    "english": "Those who finished early can leave now",
+    "soundmark": "/ðoʊz huː ˈfɪnɪʃt ˈɜːrli kæn liːv naʊ/",
+    "grammar": [
+      {
+        "text": "Those",
+        "role": "S",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要一个能说中英双语的人",
+    "english": "I need someone who speaks both English and Chinese",
+    "soundmark": "/aɪ niːd ˈsʌmwʌn huː spiːks boʊθ ˈɪŋɡlɪʃ ænd tʃaɪˈniːz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "someone",
+        "role": "O",
+        "phonetic": "/ˈsʌmwʌn/",
+        "chinese": "某人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "speaks",
+        "role": "V",
+        "phonetic": "/spiːks/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "both",
+        "role": "Det",
+        "phonetic": "/boʊθ/",
+        "chinese": "两者都"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "Chinese",
+        "role": "O",
+        "phonetic": "/tʃaɪˈniːz/",
+        "chinese": "中国人/中文"
+      }
+    ]
+  },
+  {
+    "chinese": "给我看病的那位医生非常专业",
+    "english": "The doctor who treated me was extremely professional",
+    "soundmark": "/ðə ˈdɒktər huː ˈtriːtɪd miː wʌz ɪkˈstriːmli prəˈfeʃənəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "doctor",
+        "role": "S",
+        "phonetic": "/ˈdɒktər/",
+        "chinese": "医生"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "treated",
+        "role": "V",
+        "phonetic": "/ˈtriːtɪd/",
+        "chinese": "对待/治疗"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "extremely",
+        "role": "A",
+        "phonetic": "/ɪkˈstriːmli/",
+        "chinese": "极其"
+      },
+      {
+        "text": "professional",
+        "role": "C",
+        "phonetic": "/prəˈfeʃənəl/",
+        "chinese": "专业的"
+      }
+    ]
+  },
+  {
+    "chinese": "经常微笑的人往往更长寿",
+    "english": "People who smile more tend to live longer",
+    "soundmark": "/ˈpiːpəl huː smaɪl mɔːr tend tuː lɪv ˈlɒŋɡər/",
+    "grammar": [
+      {
+        "text": "People",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "smile",
+        "role": "V",
+        "phonetic": "/smaɪl/",
+        "chinese": ""
+      },
+      {
+        "text": "more",
+        "role": "A",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "tend",
+        "role": "V",
+        "phonetic": "/tend/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "longer",
+        "role": "A",
+        "phonetic": "/ˈlɒŋɡər/",
+        "chinese": "更…的/…者(长的)"
+      }
+    ]
+  },
+  {
+    "chinese": "谁(who)",
+    "english": "who",
+    "soundmark": "/huː/"
+  },
+  {
+    "chinese": "那个(that)",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "chinese": "人(person)",
+    "english": "person",
+    "soundmark": "/ˈpɜːrsən/"
+  },
+  {
+    "chinese": "那些(those)",
+    "english": "those",
+    "soundmark": "/ðoʊz/"
+  },
+  {
+    "chinese": "任何人(anyone)",
+    "english": "anyone",
+    "soundmark": "/ˈeniwʌn/"
+  },
+  {
+    "chinese": "……的人(the one who)",
+    "english": "the one who",
+    "soundmark": "/ðə wʌn huː/"
+  },
+  {
+    "chinese": "住在……的人",
+    "english": "who lives in",
+    "soundmark": "/huː lɪvz ɪn/"
+  },
+  {
+    "chinese": "唯一……的人",
+    "english": "the only person who",
+    "soundmark": "/ði ˈoʊnli ˈpɜːrsən huː/"
+  }
+]

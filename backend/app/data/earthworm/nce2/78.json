@@ -1,0 +1,243 @@
+[
+  {
+    "chinese": "香烟",
+    "english": "cigarette",
+    "soundmark": "/ˌsɪɡəˈret/"
+  },
+  {
+    "chinese": "吸烟者",
+    "english": "smoker",
+    "soundmark": "/ˈsmoʊkər/"
+  },
+  {
+    "chinese": "习惯",
+    "english": "habit",
+    "soundmark": "/ˈhæbɪt/"
+  },
+  {
+    "chinese": "说服",
+    "english": "persuade",
+    "soundmark": "/pərˈsweɪd/"
+  },
+  {
+    "chinese": "健康",
+    "english": "health",
+    "soundmark": "/helθ/"
+  },
+  {
+    "chinese": "戒掉",
+    "english": "quit",
+    "soundmark": "/kwɪt/"
+  },
+  {
+    "chinese": "放弃",
+    "english": "give up",
+    "soundmark": "/ɡɪv ʌp/"
+  },
+  {
+    "chinese": "那个人……",
+    "english": "the man who",
+    "soundmark": "/ðə mæn huː/"
+  },
+  {
+    "chinese": "抽烟的那个人是我叔叔",
+    "english": "The man who is smoking is my uncle",
+    "soundmark": "/ðə mæn huː ɪz ˈsmoʊkɪŋ ɪz maɪ ˈʌŋkəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "smoking",
+        "role": "V",
+        "phonetic": "/ˈsmoʊkɪŋ/",
+        "chinese": "抽烟/烟"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "uncle",
+        "role": "C",
+        "phonetic": "/ˈʌŋkəl/",
+        "chinese": "叔叔/舅舅"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天买的那本书很有趣",
+    "english": "The book which I bought yesterday is very interesting",
+    "soundmark": "/ðə bʊk wɪtʃ aɪ bɔːt ˈjestərdeɪ ɪz ˈveri ˈɪntrəstɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "which",
+        "role": "O",
+        "phonetic": "/wɪtʃ/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      }
+    ]
+  },
+  {
+    "chinese": "这就是我们初次相遇的餐厅",
+    "english": "This is the restaurant where we first met",
+    "soundmark": "/ðɪs ɪz ðə ˈrestərɒnt wer wiː fɜːrst met/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "restaurant",
+        "role": "C",
+        "phonetic": "/ˈrestərɒnt/",
+        "chinese": "餐厅"
+      },
+      {
+        "text": "where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "first",
+        "role": "A",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      },
+      {
+        "text": "met",
+        "role": "V",
+        "phonetic": "/met/",
+        "chinese": "遇见（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "香烟",
+    "english": "cigarette",
+    "soundmark": "/ˌsɪɡəˈret/"
+  },
+  {
+    "chinese": "习惯",
+    "english": "habit",
+    "soundmark": "/ˈhæbɪt/"
+  },
+  {
+    "chinese": "戒掉",
+    "english": "quit",
+    "soundmark": "/kwɪt/"
+  },
+  {
+    "chinese": "谁(关系代词)",
+    "english": "who",
+    "soundmark": "/huː/"
+  },
+  {
+    "chinese": "哪个",
+    "english": "which",
+    "soundmark": "/wɪtʃ/"
+  },
+  {
+    "chinese": "那个",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  }
+]

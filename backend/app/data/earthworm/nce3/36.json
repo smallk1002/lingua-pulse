@@ -1,0 +1,592 @@
+[
+  {
+    "chinese": "百万分之一",
+    "english": "a chance in a million",
+    "soundmark": "/ə tʃæns ɪn ə ˈmɪljən/"
+  },
+  {
+    "chinese": "巧合",
+    "english": "coincidence",
+    "soundmark": "/koʊˈɪnsɪdəns/"
+  },
+  {
+    "chinese": "惊人的",
+    "english": "remarkable",
+    "soundmark": "/rɪˈmɑːrkəbəl/"
+  },
+  {
+    "chinese": "难以置信的",
+    "english": "incredible",
+    "soundmark": "/ɪnˈkredɪbəl/"
+  },
+  {
+    "chinese": "假设",
+    "english": "assume",
+    "soundmark": "/əˈsuːm/"
+  },
+  {
+    "chinese": "认出",
+    "english": "recognize",
+    "soundmark": "/ˈrekəɡnaɪz/"
+  },
+  {
+    "chinese": "身份",
+    "english": "identity",
+    "soundmark": "/aɪˈdentəti/"
+  },
+  {
+    "chinese": "相似",
+    "english": "resemblance",
+    "soundmark": "/rɪˈzembləns/"
+  },
+  {
+    "chinese": "如果我是你",
+    "english": "if I were you",
+    "soundmark": "/ɪf aɪ wɜːr juː/"
+  },
+  {
+    "chinese": "要不是",
+    "english": "if it had not been for",
+    "soundmark": "/ɪf ɪt hæd nɑːt biːn fɔːr/"
+  },
+  {
+    "chinese": "我要是早知道就好了。",
+    "english": "If only I had known earlier",
+    "soundmark": "/ɪf ˈoʊnli aɪ hæd noʊn ˈɜːrliər/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "A",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "earlier",
+        "role": "A",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      }
+    ]
+  },
+  {
+    "chinese": "我要是有更多时间就好了。",
+    "english": "I wish I had more time",
+    "soundmark": "/aɪ wɪʃ aɪ hæd mɔːr taɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "more",
+        "role": "C",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我是你我就会接受那个提议。",
+    "english": "If I were you I would accept the offer",
+    "soundmark": "/ɪf aɪ wɜːr juː aɪ wʊd əkˈsept ði ˈɒfər/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "A",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "C",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "accept",
+        "role": "V",
+        "phonetic": "/əkˈsept/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "offer",
+        "role": "O",
+        "phonetic": "/ˈɒfər/",
+        "chinese": "提供"
+      }
+    ]
+  },
+  {
+    "chinese": "要不是那张照片我永远认不出他。",
+    "english": "If it had not been for the photo I would never have recognized him",
+    "soundmark": "/ɪf ɪt hæd nɑːt biːn fɔːr ðə ˈfoʊtoʊ aɪ wʊd ˈnevər hæv ˈrekəɡnaɪzd hɪm/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "A",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "photo",
+        "role": "A",
+        "phonetic": "/ˈfoʊtoʊ/",
+        "chinese": "照片"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "recognized",
+        "role": "V",
+        "phonetic": "/ˈrekəɡnaɪzd/",
+        "chinese": "认出/承认"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望我没有犯那个错误。",
+    "english": "I wish I had not made that mistake",
+    "soundmark": "/aɪ wɪʃ aɪ hæd nɑːt meɪd ðæt mɪˈsteɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "mistake",
+        "role": "O",
+        "phonetic": "/mɪˈsteɪk/",
+        "chinese": "错误"
+      }
+    ]
+  },
+  {
+    "chinese": "好像他们以前见过面。",
+    "english": "It seemed as if they had met before",
+    "soundmark": "/ɪt siːmd æz ɪf ðeɪ hæd met bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "seemed",
+        "role": "V",
+        "phonetic": "/siːmd/",
+        "chinese": "似乎"
+      },
+      {
+        "text": "as",
+        "role": "A",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "if",
+        "role": "A",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "met",
+        "role": "V",
+        "phonetic": "/met/",
+        "chinese": "遇见（过去式）"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "假如他当时告诉了我真相一切都会不一样。",
+    "english": "Suppose he had told me the truth everything would have been different",
+    "soundmark": "/səˈpoʊz hiː hæd toʊld miː ðə truːθ ˈevriθɪŋ wʊd hæv biːn ˈdɪfərənt/",
+    "grammar": [
+      {
+        "text": "Suppose",
+        "role": "V",
+        "phonetic": "/səˈpoʊz/",
+        "chinese": "假设"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "truth",
+        "role": "O",
+        "phonetic": "/truːθ/",
+        "chinese": "真相"
+      },
+      {
+        "text": "everything",
+        "role": "S",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "different",
+        "role": "C",
+        "phonetic": "/ˈdɪfərənt/",
+        "chinese": "不同的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个巧合太惊人了我几乎不敢相信。",
+    "english": "The coincidence was so remarkable that I could hardly believe it",
+    "soundmark": "/ðə koʊˈɪnsɪdəns wʌz soʊ rɪˈmɑːrkəbəl ðæt aɪ kʊd ˈhɑːrdli bɪˈliːv ɪt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "coincidence",
+        "role": "S",
+        "phonetic": "/koʊˈɪnsɪdəns/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "remarkable",
+        "role": "C",
+        "phonetic": "/rɪˈmɑːrkəbəl/",
+        "chinese": "卓越的"
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "hardly",
+        "role": "Adv",
+        "phonetic": "/ˈhɑːrdli/",
+        "chinese": "几乎不"
+      },
+      {
+        "text": "believe",
+        "role": "V",
+        "phonetic": "/bɪˈliːv/",
+        "chinese": "相信"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "巧合",
+    "english": "coincidence",
+    "soundmark": "/koʊˈɪnsɪdəns/"
+  },
+  {
+    "chinese": "惊人的",
+    "english": "remarkable",
+    "soundmark": "/rɪˈmɑːrkəbəl/"
+  },
+  {
+    "chinese": "难以置信的",
+    "english": "incredible",
+    "soundmark": "/ɪnˈkredɪbəl/"
+  },
+  {
+    "chinese": "认出",
+    "english": "recognize",
+    "soundmark": "/ˈrekəɡnaɪz/"
+  },
+  {
+    "chinese": "身份",
+    "english": "identity",
+    "soundmark": "/aɪˈdentəti/"
+  },
+  {
+    "chinese": "相似",
+    "english": "resemblance",
+    "soundmark": "/rɪˈzembləns/"
+  },
+  {
+    "chinese": "假设",
+    "english": "assume",
+    "soundmark": "/əˈsuːm/"
+  },
+  {
+    "chinese": "提议",
+    "english": "offer",
+    "soundmark": "/ˈɒfər/"
+  }
+]

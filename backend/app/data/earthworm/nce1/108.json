@@ -1,0 +1,477 @@
+[
+  {
+    "chinese": "相同的",
+    "english": "the same",
+    "soundmark": "/ðə seɪm/"
+  },
+  {
+    "chinese": "不同的",
+    "english": "different",
+    "soundmark": "/ˈdɪfərənt/"
+  },
+  {
+    "chinese": "都（两者）",
+    "english": "both",
+    "soundmark": "/boʊθ/"
+  },
+  {
+    "chinese": "两者都不",
+    "english": "neither",
+    "soundmark": "/ˈniːðər/"
+  },
+  {
+    "chinese": "一样的",
+    "english": "alike",
+    "soundmark": "/əˈlaɪk/"
+  },
+  {
+    "chinese": "完全地",
+    "english": "exactly",
+    "soundmark": "/ɪɡˈzæktli/"
+  },
+  {
+    "chinese": "几乎",
+    "english": "almost",
+    "soundmark": "/ˈɔːlmoʊst/"
+  },
+  {
+    "chinese": "没有区别",
+    "english": "no difference",
+    "soundmark": "/noʊ ˈdɪfərəns/"
+  },
+  {
+    "chinese": "和...一样",
+    "english": "just like",
+    "soundmark": "/dʒʌst laɪk/"
+  },
+  {
+    "chinese": "相似的",
+    "english": "similar",
+    "soundmark": "/ˈsɪmɪlər/"
+  },
+  {
+    "chinese": "相反的",
+    "english": "opposite",
+    "soundmark": "/ˈɑːpəzɪt/"
+  },
+  {
+    "chinese": "一样好",
+    "english": "as good as",
+    "soundmark": "/æz ɡʊd æz/"
+  },
+  {
+    "chinese": "和...相同",
+    "english": "the same as",
+    "soundmark": "/ðə seɪm æz/"
+  },
+  {
+    "chinese": "他们俩看起来一模一样",
+    "english": "They both look the same",
+    "soundmark": "/ðeɪ boʊθ lʊk ðə seɪm/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "both",
+        "role": "A",
+        "phonetic": "/boʊθ/",
+        "chinese": "两者都"
+      },
+      {
+        "text": "look",
+        "role": "V",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "the same",
+        "role": "C",
+        "phonetic": "/ðə seɪm/",
+        "chinese": "这个/那个/相同的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的包和你的一样",
+    "english": "My bag is the same as yours",
+    "soundmark": "/maɪ bæɡ ɪz ðə seɪm æz jɔːrz/",
+    "grammar": [
+      {
+        "text": "My bag",
+        "role": "S",
+        "phonetic": "/maɪ bæɡ/",
+        "chinese": "我的/包"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the same as",
+        "role": "C",
+        "phonetic": "/ðə seɪm æz/",
+        "chinese": "和…一样"
+      },
+      {
+        "text": "yours",
+        "role": "O",
+        "phonetic": "/jɔːrz/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "他们的车完全相同",
+    "english": "Their car is exactly the same",
+    "soundmark": "/ðer kɑːr ɪz ɪɡˈzæktli ðə seɪm/",
+    "grammar": [
+      {
+        "text": "Their car",
+        "role": "S",
+        "phonetic": "/ðer kɑːr/",
+        "chinese": "他们的/汽车"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "exactly",
+        "role": "Adv",
+        "phonetic": "/ɪɡˈzæktli/",
+        "chinese": "确切地"
+      },
+      {
+        "text": "the same",
+        "role": "C",
+        "phonetic": "/ðə seɪm/",
+        "chinese": "这个/那个/相同的"
+      }
+    ]
+  },
+  {
+    "chinese": "这两个房间几乎一样大",
+    "english": "These two rooms are almost the same size",
+    "soundmark": "/ðiːz tuː ruːmz ɑːr ˈɔːlmoʊst ðə seɪm saɪz/",
+    "grammar": [
+      {
+        "text": "These two rooms",
+        "role": "S",
+        "phonetic": "/ðiːz tuː ruːmz/",
+        "chinese": "这些/二/…们/复数(房间)"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "almost",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlmoʊst/",
+        "chinese": "几乎"
+      },
+      {
+        "text": "the same size",
+        "role": "C",
+        "phonetic": "/ðə seɪm saɪz/",
+        "chinese": "这个/那个/相同的"
+      }
+    ]
+  },
+  {
+    "chinese": "她的答案和他的不一样",
+    "english": "Her answer is different from his",
+    "soundmark": "/hər ˈænsər ɪz ˈdɪfərənt frɒm hɪz/",
+    "grammar": [
+      {
+        "text": "Her answer",
+        "role": "S",
+        "phonetic": "/hər ˈænsər/",
+        "chinese": "她/她的/回答"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "different from",
+        "role": "C",
+        "phonetic": "/ˈdɪfərənt frɒm/",
+        "chinese": "与…不同"
+      },
+      {
+        "text": "his",
+        "role": "O",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们两个都不想去",
+    "english": "Neither of us wants to go",
+    "soundmark": "/ˈniːðər əv ʌs wɒnts tuː ɡəʊ/",
+    "grammar": [
+      {
+        "text": "Neither of us",
+        "role": "S",
+        "phonetic": "/ˈniːðər əv ʌs/",
+        "chinese": "也不/…的/我们"
+      },
+      {
+        "text": "wants",
+        "role": "V",
+        "phonetic": "/wɒnts/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to go",
+        "role": "V",
+        "phonetic": "/tuː ɡəʊ/",
+        "chinese": "到/向/去"
+      }
+    ]
+  },
+  {
+    "chinese": "她的头发和我的一样长",
+    "english": "Her hair is as long as mine",
+    "soundmark": "/hər heər ɪz æz lɒŋ æz maɪn/",
+    "grammar": [
+      {
+        "text": "Her hair",
+        "role": "S",
+        "phonetic": "/hər heər/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "as long as",
+        "role": "C",
+        "phonetic": "/æz lɒŋ æz/",
+        "chinese": "只要"
+      },
+      {
+        "text": "mine",
+        "role": "O",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "他们的想法总是相同的",
+    "english": "Their ideas are always the same",
+    "soundmark": "/ðeər aɪˈdɪəz ɑːr ˈɔːlweɪz ðə seɪm/",
+    "grammar": [
+      {
+        "text": "Their ideas",
+        "role": "S",
+        "phonetic": "/ðeər aɪˈdɪəz/",
+        "chinese": "他们的/…们/复数(想法)"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "the same",
+        "role": "C",
+        "phonetic": "/ðə seɪm/",
+        "chinese": "这个/那个/相同的"
+      }
+    ]
+  },
+  {
+    "chinese": "这对你我都一样",
+    "english": "It is the same for you and me",
+    "soundmark": "/ɪt ɪz ðə seɪm fɔːr juː ənd miː/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the same",
+        "role": "C",
+        "phonetic": "/ðə seɪm/",
+        "chinese": "这个/那个/相同的"
+      },
+      {
+        "text": "for you and me",
+        "role": "A",
+        "phonetic": "/fɔːr juː ənd miː/",
+        "chinese": "为了/对于/你/你们/和/我"
+      }
+    ]
+  },
+  {
+    "chinese": "她和她姐姐长得很像",
+    "english": "She looks just like her sister",
+    "soundmark": "/ʃiː lʊks dʒʌst laɪk hɜːr ˈsɪstər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "looks",
+        "role": "V",
+        "phonetic": "/lʊks/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "just like",
+        "role": "P",
+        "phonetic": "/dʒʌst laɪk/",
+        "chinese": "刚刚/只是/喜欢"
+      },
+      {
+        "text": "her sister",
+        "role": "O",
+        "phonetic": "/hɜːr ˈsɪstər/",
+        "chinese": "她/她的/姐妹"
+      }
+    ]
+  },
+  {
+    "chinese": "这件衬衫和那件颜色相同",
+    "english": "This shirt is the same colour as that one",
+    "soundmark": "/ðɪs ʃɜːrt ɪz ðə seɪm ˈkʌlər æz ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This shirt",
+        "role": "S",
+        "phonetic": "/ðɪs ʃɜːrt/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the same colour as",
+        "role": "C",
+        "phonetic": "/ðə seɪm ˈkʌlər æz/",
+        "chinese": "这个/那个/相同的/当…时/作为/因为"
+      },
+      {
+        "text": "that one",
+        "role": "O",
+        "phonetic": "/ðæt wʌn/",
+        "chinese": "那个/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "两个男孩都在同一个班级",
+    "english": "Both boys are in the same class",
+    "soundmark": "/boʊθ bɔɪz ɑːr ɪn ðə seɪm klɑːs/",
+    "grammar": [
+      {
+        "text": "Both boys",
+        "role": "S",
+        "phonetic": "/boʊθ bɔɪz/",
+        "chinese": "两者都/…们/复数(男孩)"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "in the same class",
+        "role": "A",
+        "phonetic": "/ɪn ðə seɪm klɑːs/",
+        "chinese": "在…里/这个/那个/相同的/班级/阶层"
+      }
+    ]
+  },
+  {
+    "chinese": "尺寸",
+    "english": "size",
+    "soundmark": "/saɪz/"
+  },
+  {
+    "chinese": "答案",
+    "english": "answer",
+    "soundmark": "/ˈɑːnsər/"
+  },
+  {
+    "chinese": "想法",
+    "english": "idea",
+    "soundmark": "/aɪˈdɪə/"
+  },
+  {
+    "chinese": "总是",
+    "english": "always",
+    "soundmark": "/ˈɔːlweɪz/"
+  },
+  {
+    "chinese": "衬衫",
+    "english": "shirt",
+    "soundmark": "/ʃɜːrt/"
+  },
+  {
+    "chinese": "姐姐",
+    "english": "sister",
+    "soundmark": "/ˈsɪstər/"
+  },
+  {
+    "chinese": "班级",
+    "english": "class",
+    "soundmark": "/klɑːs/"
+  },
+  {
+    "chinese": "颜色",
+    "english": "colour",
+    "soundmark": "/ˈkʌlər/"
+  },
+  {
+    "chinese": "看起来像",
+    "english": "look like",
+    "soundmark": "/lʊk laɪk/"
+  },
+  {
+    "chinese": "完全",
+    "english": "completely",
+    "soundmark": "/kəmˈpliːtli/"
+  }
+]

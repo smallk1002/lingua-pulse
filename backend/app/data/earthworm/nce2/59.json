@@ -1,0 +1,1510 @@
+[
+  {
+    "chinese": "进",
+    "english": "in",
+    "soundmark": "/ɪn/"
+  },
+  {
+    "chinese": "出",
+    "english": "out",
+    "soundmark": "/aʊt/"
+  },
+  {
+    "chinese": "宠物",
+    "english": "pet",
+    "soundmark": "/pet/"
+  },
+  {
+    "chinese": "允许",
+    "english": "allow",
+    "soundmark": "/əˈlaʊ/"
+  },
+  {
+    "chinese": "训练",
+    "english": "train",
+    "soundmark": "/treɪn/"
+  },
+  {
+    "chinese": "服从",
+    "english": "obey",
+    "soundmark": "/oʊˈbeɪ/"
+  },
+  {
+    "chinese": "命令",
+    "english": "command",
+    "soundmark": "/kəˈmænd/"
+  },
+  {
+    "chinese": "规则",
+    "english": "rule",
+    "soundmark": "/ruːl/"
+  },
+  {
+    "chinese": "禁止",
+    "english": "forbid",
+    "soundmark": "/fərˈbɪd/"
+  },
+  {
+    "chinese": "主人",
+    "english": "owner",
+    "soundmark": "/ˈoʊnər/"
+  },
+  {
+    "chinese": "必须服从",
+    "english": "must obey",
+    "soundmark": "/mʌst oʊˈbeɪ/"
+  },
+  {
+    "chinese": "禁止进入",
+    "english": "must not enter",
+    "soundmark": "/mʌst nɑːt ˈentər/"
+  },
+  {
+    "chinese": "可以进来",
+    "english": "may come in",
+    "soundmark": "/meɪ kʌm ɪn/"
+  },
+  {
+    "chinese": "能理解",
+    "english": "can understand",
+    "soundmark": "/kæn ˌʌndərˈstænd/"
+  },
+  {
+    "chinese": "应该被训练",
+    "english": "should be trained",
+    "soundmark": "/ʃʊd biː treɪnd/"
+  },
+  {
+    "chinese": "不必要吼",
+    "english": "need not shout",
+    "soundmark": "/niːd nɑːt ʃaʊt/"
+  },
+  {
+    "chinese": "狗能听懂命令",
+    "english": "A dog can understand commands",
+    "soundmark": "/ə dɔːɡ kæn ˌʌndərˈstænd kəˈmændz/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "commands",
+        "role": "O",
+        "phonetic": "/kəˈmændz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你必须遵守规矩",
+    "english": "You must obey the rules",
+    "soundmark": "/juː mʌst oʊˈbeɪ ðə ruːlz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "obey",
+        "role": "V",
+        "phonetic": "/oʊˈbeɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rules",
+        "role": "O",
+        "phonetic": "/ruːlz/",
+        "chinese": "规则/统治"
+      }
+    ]
+  },
+  {
+    "chinese": "你绝不能让它跑出去",
+    "english": "You must not let it run out",
+    "soundmark": "/juː mʌst nɑːt let ɪt rʌn aʊt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      }
+    ]
+  },
+  {
+    "chinese": "它也许会咬陌生人",
+    "english": "It might bite a stranger",
+    "soundmark": "/ɪt maɪt baɪt ə ˈstreɪndʒər/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "bite",
+        "role": "V",
+        "phonetic": "/baɪt/",
+        "chinese": "咬"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "stranger",
+        "role": "O",
+        "phonetic": "/ˈstreɪndʒər/",
+        "chinese": "更…的/…者(奇怪的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我应该先训练它",
+    "english": "I should train it first",
+    "soundmark": "/aɪ ʃʊd treɪn ɪt fɜːrst/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "train",
+        "role": "V",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "first",
+        "role": "Adv",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      }
+    ]
+  },
+  {
+    "chinese": "它今天可以留在外面",
+    "english": "It may stay outside today",
+    "soundmark": "/ɪt meɪ steɪ ˌaʊtˈsaɪd təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "may",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "stay",
+        "role": "V",
+        "phonetic": "/steɪ/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "chinese": "在…外面"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "她不应该让狗单独在家",
+    "english": "She should not leave the dog alone at home",
+    "soundmark": "/ʃiː ʃʊd nɑːt liːv ðə dɔːɡ əˈloʊn æt hoʊm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "O",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "alone",
+        "role": "C",
+        "phonetic": "/əˈloʊn/",
+        "chinese": "孤单的"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮忙照顾一下吗",
+    "english": "Could you help look after it",
+    "soundmark": "/kʊd juː help lʊk ˈæftər ɪt/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "look",
+        "role": "V",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "after",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "你没必要关门",
+    "english": "You need not close the door",
+    "soundmark": "/juː niːd nɑːt kloʊz ðə dɔːr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "close",
+        "role": "V",
+        "phonetic": "/kloʊz/",
+        "chinese": "关闭"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "O",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      }
+    ]
+  },
+  {
+    "chinese": "我明天必须带它去看兽医",
+    "english": "I have to take it to the vet tomorrow",
+    "soundmark": "/aɪ hæv tuː teɪk ɪt tuː ðə vet təˈmɔːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "vet",
+        "role": "O",
+        "phonetic": "/vet/",
+        "chinese": ""
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɔːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "你不能在公园里遛狗不拴绳",
+    "english": "You cannot walk the dog in the park without a leash",
+    "soundmark": "/juː ˈkænɑːt wɔːk ðə dɔːɡ ɪn ðə pɑːrk wɪðˈaʊt ə liːʃ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "O",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "park",
+        "role": "A",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      },
+      {
+        "text": "without",
+        "role": "P",
+        "phonetic": "/wɪðˈaʊt/",
+        "chinese": "没有"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "leash",
+        "role": "O",
+        "phonetic": "/liːʃ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "它一叫门就可能会被关到外面",
+    "english": "It might be put out if it barks",
+    "soundmark": "/ɪt maɪt biː pʊt aʊt ɪf ɪt bɑːrks/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "barks",
+        "role": "V",
+        "phonetic": "/bɑːrks/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我小时候能跑得很快",
+    "english": "I could run very fast when I was young",
+    "soundmark": "/aɪ kʊd rʌn ˈveri fæst wen aɪ wʌz jʌŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "fast",
+        "role": "Adv",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      }
+    ]
+  },
+  {
+    "chinese": "你想让狗进来还是出去",
+    "english": "Do you want the dog in or out",
+    "soundmark": "/duː juː wɑːnt ðə dɔːɡ ɪn ɔːr aʊt/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "O",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "in",
+        "role": "A",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      }
+    ]
+  },
+  {
+    "chinese": "你也许该教它认些基本指令",
+    "english": "You might want to teach it some basic commands",
+    "soundmark": "/juː maɪt wɑːnt tuː tiːtʃ ɪt sʌm ˈbeɪsɪk kəˈmændz/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "teach",
+        "role": "V",
+        "phonetic": "/tiːtʃ/",
+        "chinese": "教"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "basic",
+        "role": "A",
+        "phonetic": "/ˈbeɪsɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "commands",
+        "role": "O",
+        "phonetic": "/kəˈmændz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "任何狗都可以被训练，但需要耐心",
+    "english": "Any dog can be trained but it takes patience",
+    "soundmark": "/ˈeni dɔːɡ kæn biː treɪnd bʌt ɪt teɪks ˈpeɪʃəns/",
+    "grammar": [
+      {
+        "text": "Any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "trained",
+        "role": "V",
+        "phonetic": "/treɪnd/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "takes",
+        "role": "V",
+        "phonetic": "/teɪks/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "patience",
+        "role": "O",
+        "phonetic": "/ˈpeɪʃəns/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果我是你我就不会让它进屋",
+    "english": "I would not let it into the house if I were you",
+    "soundmark": "/aɪ wʊd nɑːt let ɪt ˈɪntuː ðə haʊs ɪf aɪ wɜːr juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "C",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "它肯定做错什么了——看他那样子",
+    "english": "It must have done something wrong just look at it",
+    "soundmark": "/ɪt mʌst hæv dʌn ˈsʌmθɪŋ rɔːŋ dʒʌst lʊk æt ɪt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "done",
+        "role": "V",
+        "phonetic": "/dʌn/",
+        "chinese": "做好的"
+      },
+      {
+        "text": "something",
+        "role": "O",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      },
+      {
+        "text": "wrong",
+        "role": "C",
+        "phonetic": "/rɔːŋ/",
+        "chinese": "错的"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "look",
+        "role": "V",
+        "phonetic": "/lʊk/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "规则上讲得很清楚，宠物不能被带进餐馆",
+    "english": "The rules say clearly that pets may not be brought into the restaurant",
+    "soundmark": "/ðə ruːlz seɪ ˈklɪrli ðæt pets meɪ nɑːt biː brɔːt ˈɪntuː ðə ˈrestrɑːnt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rules",
+        "role": "S",
+        "phonetic": "/ruːlz/",
+        "chinese": "规则/统治"
+      },
+      {
+        "text": "say",
+        "role": "V",
+        "phonetic": "/seɪ/",
+        "chinese": "说"
+      },
+      {
+        "text": "clearly",
+        "role": "Adv",
+        "phonetic": "/ˈklɪrli/",
+        "chinese": "…地(清楚的)"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "pets",
+        "role": "S",
+        "phonetic": "/pets/",
+        "chinese": "…们/复数(宠物)"
+      },
+      {
+        "text": "may",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "brought",
+        "role": "V",
+        "phonetic": "/brɔːt/",
+        "chinese": ""
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "restaurant",
+        "role": "O",
+        "phonetic": "/ˈrestrɑːnt/",
+        "chinese": "餐厅"
+      }
+    ]
+  },
+  {
+    "chinese": "兽医",
+    "english": "vet",
+    "soundmark": "/vet/"
+  },
+  {
+    "chinese": "拴狗绳",
+    "english": "leash",
+    "soundmark": "/liːʃ/"
+  },
+  {
+    "chinese": "吼叫",
+    "english": "bark",
+    "soundmark": "/bɑːrk/"
+  },
+  {
+    "chinese": "耐心",
+    "english": "patience",
+    "soundmark": "/ˈpeɪʃəns/"
+  },
+  {
+    "chinese": "陌生人",
+    "english": "stranger",
+    "soundmark": "/ˈstreɪndʒər/"
+  },
+  {
+    "chinese": "基本的",
+    "english": "basic",
+    "soundmark": "/ˈbeɪsɪk/"
+  },
+  {
+    "chinese": "咬",
+    "english": "bite",
+    "soundmark": "/baɪt/"
+  },
+  {
+    "chinese": "独自",
+    "english": "alone",
+    "soundmark": "/əˈloʊn/"
+  },
+  {
+    "chinese": "清楚的",
+    "english": "clear",
+    "soundmark": "/klɪr/"
+  },
+  {
+    "chinese": "餐馆",
+    "english": "restaurant",
+    "soundmark": "/ˈrestrɑːnt/"
+  },
+  {
+    "chinese": "你能帮我遛狗吗",
+    "english": "Could you walk the dog for me",
+    "soundmark": "/kʊd juː wɔːk ðə dɔːɡ fɔːr miː/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "O",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "你本该早点告诉我这件事",
+    "english": "You should have told me about this earlier",
+    "soundmark": "/juː ʃʊd hæv toʊld miː əˈbaʊt ðɪs ˈɜːrliər/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "earlier",
+        "role": "Adv",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      }
+    ]
+  },
+  {
+    "chinese": "主人也许正在找他走失的狗",
+    "english": "The owner might be looking for his lost dog",
+    "soundmark": "/ðə ˈoʊnər maɪt biː ˈlʊkɪŋ fɔːr hɪz lɔːst dɔːɡ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "owner",
+        "role": "S",
+        "phonetic": "/ˈoʊnər/",
+        "chinese": "更…的/…者(自己的)"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "looking",
+        "role": "V",
+        "phonetic": "/ˈlʊkɪŋ/",
+        "chinese": "看的/看起来"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "lost",
+        "role": "A",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "dog",
+        "role": "O",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      }
+    ]
+  },
+  {
+    "chinese": "你可以把狗留在外面过夜",
+    "english": "You may leave the dog outside overnight",
+    "soundmark": "/juː meɪ liːv ðə dɔːɡ ˌaʊtˈsaɪd ˌoʊvərˈnaɪt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "may",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "O",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "chinese": "在…外面"
+      },
+      {
+        "text": "overnight",
+        "role": "A",
+        "phonetic": "/ˌoʊvərˈnaɪt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你不必为这么点小事担心",
+    "english": "You need not worry about such a small thing",
+    "soundmark": "/juː niːd nɑːt ˈwɜːri əˈbaʊt sʌtʃ ə smɔːl θɪŋ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "worry",
+        "role": "V",
+        "phonetic": "/ˈwɜːri/",
+        "chinese": "担心"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "small",
+        "role": "A",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "thing",
+        "role": "O",
+        "phonetic": "/θɪŋ/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "那狗一定是听到外面有人才叫的",
+    "english": "The dog must have heard someone outside",
+    "soundmark": "/ðə dɔːɡ mʌst hæv hɜːrd ˈsʌmwʌn ˌaʊtˈsaɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "heard",
+        "role": "V",
+        "phonetic": "/hɜːrd/",
+        "chinese": "听到（过去式）"
+      },
+      {
+        "text": "someone",
+        "role": "O",
+        "phonetic": "/ˈsʌmwʌn/",
+        "chinese": "某人"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "chinese": "在…外面"
+      }
+    ]
+  },
+  {
+    "chinese": "遛狗",
+    "english": "walk the dog",
+    "soundmark": "/wɔːk ðə dɔːɡ/"
+  },
+  {
+    "chinese": "过夜",
+    "english": "overnight",
+    "soundmark": "/ˌoʊvərˈnaɪt/"
+  },
+  {
+    "chinese": "担心",
+    "english": "worry",
+    "soundmark": "/ˈwɜːri/"
+  }
+]

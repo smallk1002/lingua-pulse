@@ -1,0 +1,3372 @@
+[
+  {
+    "chinese": "从前(once upon a time)",
+    "english": "once upon a time",
+    "soundmark": "/wʌns əˈpɒn ə taɪm/"
+  },
+  {
+    "chinese": "很久以前(long ago)",
+    "english": "long ago",
+    "soundmark": "/lɔːŋ əˈɡoʊ/"
+  },
+  {
+    "chinese": "突然(suddenly)",
+    "english": "suddenly",
+    "soundmark": "/ˈsʌdənli/"
+  },
+  {
+    "chinese": "然后(then)",
+    "english": "then",
+    "soundmark": "/ðen/"
+  },
+  {
+    "chinese": "之后(after that)",
+    "english": "after that",
+    "soundmark": "/ˈæftər ðæt/"
+  },
+  {
+    "chinese": "最后(finally)",
+    "english": "finally",
+    "soundmark": "/ˈfaɪnəli/"
+  },
+  {
+    "chinese": "同时(meanwhile)",
+    "english": "meanwhile",
+    "soundmark": "/ˈmiːnwaɪl/"
+  },
+  {
+    "chinese": "起初(at first)",
+    "english": "at first",
+    "soundmark": "/æt fɜːrst/"
+  },
+  {
+    "chinese": "渐渐地(gradually)",
+    "english": "gradually",
+    "soundmark": "/ˈɡrædʒuəli/"
+  },
+  {
+    "chinese": "出乎意料地(unexpectedly)",
+    "english": "unexpectedly",
+    "soundmark": "/ˌʌnɪkˈspektɪdli/"
+  },
+  {
+    "chinese": "从前有一个人",
+    "english": "once upon a time there was a man",
+    "soundmark": "/wʌns əˈpɒn ə taɪm ðer wʌz ə mæn/"
+  },
+  {
+    "chinese": "很久以前发生了一件事",
+    "english": "something happened a long time ago",
+    "soundmark": "/ˈsʌmθɪŋ ˈhæpənd ə lɔːŋ taɪm əˈɡoʊ/"
+  },
+  {
+    "chinese": "太阳升起来了",
+    "english": "the sun was rising",
+    "soundmark": "/ðə sʌn wʌz ˈraɪzɪŋ/"
+  },
+  {
+    "chinese": "我正要出门的时候",
+    "english": "just as I was about to leave",
+    "soundmark": "/dʒʌst æz aɪ wʌz əˈbaʊt tuː liːv/"
+  },
+  {
+    "chinese": "不知不觉中",
+    "english": "before I knew it",
+    "soundmark": "/bɪˈfɔːr aɪ nuː ɪt/"
+  },
+  {
+    "chinese": "昨天我醒来的时候发现外面下雪了",
+    "english": "When I woke up yesterday I found that it had snowed outside",
+    "soundmark": "/wen aɪ woʊk ʌp ˈjestərdeɪ aɪ faʊnd ðæt ɪt hæd snoʊd ˌaʊtˈsaɪd/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "woke",
+        "role": "V",
+        "phonetic": "/woʊk/",
+        "chinese": "醒来（过去式）"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "snowed",
+        "role": "V",
+        "phonetic": "/snoʊd/",
+        "chinese": "雪"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "chinese": "在…外面"
+      }
+    ]
+  },
+  {
+    "chinese": "我们正在吃晚饭的时候突然有人敲门",
+    "english": "We were having dinner when someone suddenly knocked on the door",
+    "soundmark": "/wiː wɜːr ˈhævɪŋ ˈdɪnər wen ˈsʌmwʌn ˈsʌdənli nɒkt ɒn ðə dɔːr/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "having",
+        "role": "V",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "dinner",
+        "role": "O",
+        "phonetic": "/ˈdɪnər/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "someone",
+        "role": "S",
+        "phonetic": "/ˈsʌmwʌn/",
+        "chinese": "某人"
+      },
+      {
+        "text": "suddenly",
+        "role": "A",
+        "phonetic": "/ˈsʌdənli/",
+        "chinese": "突然"
+      },
+      {
+        "text": "knocked",
+        "role": "V",
+        "phonetic": "/nɒkt/",
+        "chinese": "敲"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "A",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天遇到了一件非常奇怪的事",
+    "english": "I came across something very strange yesterday",
+    "soundmark": "/aɪ keɪm əˈkrɒs ˈsʌmθɪŋ ˈveri streɪndʒ ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "across",
+        "role": "A",
+        "phonetic": "/əˈkrɒs/",
+        "chinese": "穿过/对面"
+      },
+      {
+        "text": "something",
+        "role": "O",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "strange",
+        "role": "C",
+        "phonetic": "/streɪndʒ/",
+        "chinese": "奇怪的"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他到达车站的时候火车已经开走了",
+    "english": "When he arrived at the station the train had already left",
+    "soundmark": "/wen hiː əˈraɪvd æt ðə ˈsteɪʃən ðə treɪn hæd ɔːlˈredi left/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "station",
+        "role": "A",
+        "phonetic": "/ˈsteɪʃən/",
+        "chinese": "车站"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "train",
+        "role": "S",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "我从没想过有一天我会来到这个地方",
+    "english": "I never thought that I would come to this place one day",
+    "soundmark": "/aɪ ˈnevər θɔːt ðæt aɪ wʊd kʌm tuː ðɪs pleɪs wʌn deɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɔːt/",
+        "chinese": "想/认为（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "place",
+        "role": "A",
+        "phonetic": "/pleɪs/",
+        "chinese": "地方"
+      },
+      {
+        "text": "one",
+        "role": "Det",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "她来找我的时候我正在花园里看书",
+    "english": "I was reading a book in the garden when she came to see me",
+    "soundmark": "/aɪ wʌz ˈriːdɪŋ ə bʊk ɪn ðə ˈɡɑːrdən wen ʃiː keɪm tuː siː miː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "reading",
+        "role": "V",
+        "phonetic": "/ˈriːdɪŋ/",
+        "chinese": "阅读的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "garden",
+        "role": "A",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然他累得不行但他还是坚持走到了终点",
+    "english": "Although he was extremely tired he kept walking until he reached the end",
+    "soundmark": "/ɔːlˈðoʊ hiː wʌz ɪkˈstriːmli taɪərd hiː kept ˈwɔːkɪŋ ənˈtɪl hiː riːtʃt ði end/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "extremely",
+        "role": "A",
+        "phonetic": "/ɪkˈstriːmli/",
+        "chinese": "极其"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/taɪərd/",
+        "chinese": "累的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "kept",
+        "role": "V",
+        "phonetic": "/kept/",
+        "chinese": "保持/保留（过去式）"
+      },
+      {
+        "text": "walking",
+        "role": "V",
+        "phonetic": "/ˈwɔːkɪŋ/",
+        "chinese": "走路的"
+      },
+      {
+        "text": "until",
+        "role": "P",
+        "phonetic": "/ənˈtɪl/",
+        "chinese": "直到"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "reached",
+        "role": "V",
+        "phonetic": "/riːtʃt/",
+        "chinese": "到达"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "end",
+        "role": "O",
+        "phonetic": "/end/",
+        "chinese": "结束"
+      }
+    ]
+  },
+  {
+    "chinese": "当我打开那个旧盒子的时候我发现了爷爷留下的信",
+    "english": "When I opened the old box I found the letter that my grandfather had left",
+    "soundmark": "/wen aɪ ˈoʊpənd ði oʊld bɒks aɪ faʊnd ðə ˈletər ðæt maɪ ˈɡrændˌfɑːðər hæd left/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "opened",
+        "role": "V",
+        "phonetic": "/ˈoʊpənd/",
+        "chinese": "打开的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "box",
+        "role": "O",
+        "phonetic": "/bɒks/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "letter",
+        "role": "O",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "grandfather",
+        "role": "S",
+        "phonetic": "/ˈɡrændˌfɑːðər/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "过了一会儿雨停了彩虹挂在天上",
+    "english": "After a while the rain stopped and a rainbow appeared in the sky",
+    "soundmark": "/ˈæftər ə waɪl ðə reɪn stɒpt ænd ə ˈreɪnboʊ əˈpɪrd ɪn ðə skaɪ/",
+    "grammar": [
+      {
+        "text": "After",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "while",
+        "role": "A",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rain",
+        "role": "S",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      },
+      {
+        "text": "stopped",
+        "role": "V",
+        "phonetic": "/stɒpt/",
+        "chinese": "停止（过去式）"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "rainbow",
+        "role": "S",
+        "phonetic": "/ˈreɪnboʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "appeared",
+        "role": "V",
+        "phonetic": "/əˈpɪrd/",
+        "chinese": "出现"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sky",
+        "role": "A",
+        "phonetic": "/skaɪ/",
+        "chinese": "天空"
+      }
+    ]
+  },
+  {
+    "chinese": "那是我一生中最快乐的一天",
+    "english": "That was the happiest day that I had ever had in my life",
+    "soundmark": "/ðæt wʌz ðə ˈhæpiɪst deɪ ðæt aɪ hæd ˈevər hæd ɪn maɪ laɪf/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "happiest",
+        "role": "C",
+        "phonetic": "/ˈhæpiɪst/",
+        "chinese": ""
+      },
+      {
+        "text": "day",
+        "role": "C",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "ever",
+        "role": "A",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "life",
+        "role": "A",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      }
+    ]
+  },
+  {
+    "chinese": "起初他听不懂英语但渐渐地他开始理解了",
+    "english": "At first he couldn't understand English but gradually he began to catch on",
+    "soundmark": "/æt fɜːrst hiː ˈkʊdənt ˌʌndərˈstænd ˈɪŋɡlɪʃ bʌt ˈɡrædʒuəli hiː bɪˈɡæn tuː kætʃ ɒn/",
+    "grammar": [
+      {
+        "text": "At",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "first",
+        "role": "A",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "couldn't",
+        "role": "V",
+        "phonetic": "/ˈkʊdənt/",
+        "chinese": "不能（过去）"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "gradually",
+        "role": "A",
+        "phonetic": "/ˈɡrædʒuəli/",
+        "chinese": "逐渐地"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "began",
+        "role": "V",
+        "phonetic": "/bɪˈɡæn/",
+        "chinese": "开始（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "catch",
+        "role": "V",
+        "phonetic": "/kætʃ/",
+        "chinese": "抓住"
+      },
+      {
+        "text": "on",
+        "role": "A",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      }
+    ]
+  },
+  {
+    "chinese": "正当我以为一切都结束的时候事情出现了转机",
+    "english": "Just when I thought everything was over things took a turn for the better",
+    "soundmark": "/dʒʌst wen aɪ θɔːt ˈevriθɪŋ wʌz ˈoʊvər θɪŋz tʊk ə tɜːrn fɔːr ðə ˈbetər/",
+    "grammar": [
+      {
+        "text": "Just",
+        "role": "A",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɔːt/",
+        "chinese": "想/认为（过去式）"
+      },
+      {
+        "text": "everything",
+        "role": "S",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "over",
+        "role": "C",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "things",
+        "role": "S",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "turn",
+        "role": "O",
+        "phonetic": "/tɜːrn/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "better",
+        "role": "A",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      }
+    ]
+  },
+  {
+    "chinese": "那些日子已经一去不复返了但我永远不会忘记",
+    "english": "Those days are gone forever but I will never forget them",
+    "soundmark": "/ðoʊz deɪz ɑːr ɡɒn fərˈevər bʌt aɪ wɪl ˈnevər fərˈɡet ðəm/",
+    "grammar": [
+      {
+        "text": "Those",
+        "role": "Det",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "days",
+        "role": "S",
+        "phonetic": "/deɪz/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "gone",
+        "role": "C",
+        "phonetic": "/ɡɒn/",
+        "chinese": "去（过去分词）"
+      },
+      {
+        "text": "forever",
+        "role": "A",
+        "phonetic": "/fərˈevər/",
+        "chinese": ""
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "forget",
+        "role": "V",
+        "phonetic": "/fərˈɡet/",
+        "chinese": "忘记"
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðəm/",
+        "chinese": "他们"
+      }
+    ]
+  },
+  {
+    "chinese": "她回头看的时候那个神秘的人已经消失在人群中了",
+    "english": "When she looked back the mysterious person had already disappeared into the crowd",
+    "soundmark": "/wen ʃiː lʊkt bæk ðə mɪˈstɪriəs ˈpɜːrsən hæd ɔːlˈredi ˌdɪsəˈpɪrd ˈɪntuː ðə kraʊd/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "looked",
+        "role": "V",
+        "phonetic": "/lʊkt/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "back",
+        "role": "A",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mysterious",
+        "role": "C",
+        "phonetic": "/mɪˈstɪriəs/",
+        "chinese": ""
+      },
+      {
+        "text": "person",
+        "role": "S",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "disappeared",
+        "role": "V",
+        "phonetic": "/ˌdɪsəˈpɪrd/",
+        "chinese": "消失"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "crowd",
+        "role": "A",
+        "phonetic": "/kraʊd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这一切都始于一个寒冷的冬日早晨当我收到一封意外的信",
+    "english": "It all began on a cold winter morning when I received an unexpected letter",
+    "soundmark": "/ɪt ɔːl bɪˈɡæn ɒn ə koʊld ˈwɪntər ˈmɔːrnɪŋ wen aɪ rɪˈsiːvd ən ˌʌnɪkˈspektɪd ˈletər/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "all",
+        "role": "A",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "began",
+        "role": "V",
+        "phonetic": "/bɪˈɡæn/",
+        "chinese": "开始（过去式）"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cold",
+        "role": "C",
+        "phonetic": "/koʊld/",
+        "chinese": "冷的"
+      },
+      {
+        "text": "winter",
+        "role": "C",
+        "phonetic": "/ˈwɪntər/",
+        "chinese": "冬天"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "unexpected",
+        "role": "C",
+        "phonetic": "/ˌʌnɪkˈspektɪd/",
+        "chinese": "意外的"
+      },
+      {
+        "text": "letter",
+        "role": "O",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      }
+    ]
+  },
+  {
+    "chinese": "收拾好行李后我头也不回地朝机场走去",
+    "english": "After I had packed my bags I headed to the airport without looking back",
+    "soundmark": "/ˈæftər aɪ hæd pækt maɪ bæɡz aɪ ˈhedɪd tuː ði ˈerpɔːrt wɪˈðaʊt ˈlʊkɪŋ bæk/",
+    "grammar": [
+      {
+        "text": "After",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "packed",
+        "role": "V",
+        "phonetic": "/pækt/",
+        "chinese": "塞满的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bags",
+        "role": "O",
+        "phonetic": "/bæɡz/",
+        "chinese": "包"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "headed",
+        "role": "V",
+        "phonetic": "/ˈhedɪd/",
+        "chinese": "头"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "airport",
+        "role": "A",
+        "phonetic": "/ˈerpɔːrt/",
+        "chinese": "机场"
+      },
+      {
+        "text": "without",
+        "role": "P",
+        "phonetic": "/wɪˈðaʊt/",
+        "chinese": "没有"
+      },
+      {
+        "text": "looking",
+        "role": "V",
+        "phonetic": "/ˈlʊkɪŋ/",
+        "chinese": "看的/看起来"
+      },
+      {
+        "text": "back",
+        "role": "A",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      }
+    ]
+  },
+  {
+    "chinese": "我在等公交车的时候一个陌生人微笑着向我走来",
+    "english": "While I was waiting for the bus a stranger approached me with a warm smile",
+    "soundmark": "/waɪl aɪ wʌz ˈweɪtɪŋ fɔːr ðə bʌs ə ˈstreɪndʒər əˈproʊtʃt miː wɪð ə wɔːrm smaɪl/",
+    "grammar": [
+      {
+        "text": "While",
+        "role": "P",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bus",
+        "role": "O",
+        "phonetic": "/bʌs/",
+        "chinese": "公交车"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "stranger",
+        "role": "S",
+        "phonetic": "/ˈstreɪndʒər/",
+        "chinese": "更…的/…者(奇怪的)"
+      },
+      {
+        "text": "approached",
+        "role": "V",
+        "phonetic": "/əˈproʊtʃt/",
+        "chinese": "方法/靠近"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "warm",
+        "role": "C",
+        "phonetic": "/wɔːrm/",
+        "chinese": "温暖的"
+      },
+      {
+        "text": "smile",
+        "role": "O",
+        "phonetic": "/smaɪl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她从小就一直梦想着这一刻",
+    "english": "She had been dreaming of this moment ever since she was a little girl",
+    "soundmark": "/ʃiː hæd biːn ˈdriːmɪŋ əv ðɪs ˈmoʊmənt ˈevər sɪns ʃiː wʌz ə ˈlɪtəl ɡɜːrl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "dreaming",
+        "role": "V",
+        "phonetic": "/ˈdriːmɪŋ/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "moment",
+        "role": "O",
+        "phonetic": "/ˈmoʊmənt/",
+        "chinese": "时刻"
+      },
+      {
+        "text": "ever",
+        "role": "A",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "since",
+        "role": "P",
+        "phonetic": "/sɪns/",
+        "chinese": "自从/因为"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "little",
+        "role": "C",
+        "phonetic": "/ˈlɪtəl/",
+        "chinese": "小的/少的"
+      },
+      {
+        "text": "girl",
+        "role": "C",
+        "phonetic": "/ɡɜːrl/",
+        "chinese": "女孩"
+      }
+    ]
+  },
+  {
+    "chinese": "太阳慢慢地沉入地平线我们知道冒险即将开始",
+    "english": "As the sun slowly set over the horizon we knew our adventure was about to begin",
+    "soundmark": "/æz ðə sʌn ˈsloʊli set ˈoʊvər ðə həˈraɪzən wiː nuː aʊr ədˈventʃər wʌz əˈbaʊt tuː bɪˈɡɪn/",
+    "grammar": [
+      {
+        "text": "As",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sun",
+        "role": "S",
+        "phonetic": "/sʌn/",
+        "chinese": "太阳"
+      },
+      {
+        "text": "slowly",
+        "role": "A",
+        "phonetic": "/ˈsloʊli/",
+        "chinese": "慢慢地"
+      },
+      {
+        "text": "set",
+        "role": "V",
+        "phonetic": "/set/",
+        "chinese": "设置/安置"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "horizon",
+        "role": "A",
+        "phonetic": "/həˈraɪzən/",
+        "chinese": ""
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "knew",
+        "role": "V",
+        "phonetic": "/nuː/",
+        "chinese": "知道（过去式）"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "adventure",
+        "role": "S",
+        "phonetic": "/ədˈventʃər/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "about",
+        "role": "A",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "begin",
+        "role": "V",
+        "phonetic": "/bɪˈɡɪn/",
+        "chinese": "开始"
+      }
+    ]
+  },
+  {
+    "chinese": "接下来发生的事是我余生都难以忘怀的",
+    "english": "What happened next was something that I would remember for the rest of my life",
+    "soundmark": "/wɒt ˈhæpənd nekst wʌz ˈsʌmθɪŋ ðæt aɪ wʊd rɪˈmembər fɔːr ðə rest əv maɪ laɪf/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "something",
+        "role": "C",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "remember",
+        "role": "V",
+        "phonetic": "/rɪˈmembər/",
+        "chinese": "记住"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rest",
+        "role": "A",
+        "phonetic": "/rest/",
+        "chinese": "休息"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "life",
+        "role": "A",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      }
+    ]
+  },
+  {
+    "chinese": "等到警察赶到的时候小偷已经消失在了黑暗中",
+    "english": "By the time the police arrived the thief had already disappeared into the darkness",
+    "soundmark": "/baɪ ðə taɪm ðə pəˈliːs əˈraɪvd ðə θiːf hæd ɔːlˈredi ˌdɪsəˈpɪrd ˈɪntuː ðə ˈdɑːrknɪs/",
+    "grammar": [
+      {
+        "text": "By",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "S",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thief",
+        "role": "S",
+        "phonetic": "/θiːf/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "disappeared",
+        "role": "V",
+        "phonetic": "/ˌdɪsəˈpɪrd/",
+        "chinese": "消失"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "darkness",
+        "role": "A",
+        "phonetic": "/ˈdɑːrknɪs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我完全没想到我即将接到的那个电话会改变一切",
+    "english": "I had no idea that the phone call I was about to answer would change everything",
+    "soundmark": "/aɪ hæd noʊ aɪˈdɪə ðæt ðə foʊn kɔːl aɪ wʌz əˈbaʊt tuː ˈænsər wʊd tʃeɪndʒ ˈevriθɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "idea",
+        "role": "O",
+        "phonetic": "/aɪˈdɪə/",
+        "chinese": "想法"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "phone",
+        "role": "C",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      },
+      {
+        "text": "call",
+        "role": "S",
+        "phonetic": "/kɔːl/",
+        "chinese": "打电话/叫"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "about",
+        "role": "A",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "answer",
+        "role": "V",
+        "phonetic": "/ˈænsər/",
+        "chinese": "回答"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "change",
+        "role": "V",
+        "phonetic": "/tʃeɪndʒ/",
+        "chinese": "改变"
+      },
+      {
+        "text": "everything",
+        "role": "O",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      }
+    ]
+  },
+  {
+    "chinese": "当她终于睁开眼睛时她发现这一切不过是一场梦",
+    "english": "When she finally opened her eyes she realized it had all been just a dream",
+    "soundmark": "/wen ʃiː ˈfaɪnəli ˈoʊpənd hɜːr aɪz ʃiː ˈrɪəlaɪzd ɪt hæd ɔːl biːn dʒʌst ə driːm/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "finally",
+        "role": "A",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "opened",
+        "role": "V",
+        "phonetic": "/ˈoʊpənd/",
+        "chinese": "打开的"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "eyes",
+        "role": "O",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "realized",
+        "role": "V",
+        "phonetic": "/ˈrɪəlaɪzd/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "all",
+        "role": "A",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "just",
+        "role": "A",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "dream",
+        "role": "C",
+        "phonetic": "/driːm/",
+        "chinese": "梦/梦想"
+      }
+    ]
+  },
+  {
+    "chinese": "那个老人每天都坐在长椅上看着来来往往的人想着他们的故事",
+    "english": "The old man sat on the bench every day watching people pass by and wondering about their stories",
+    "soundmark": "/ði oʊld mæn sæt ɒn ðə bentʃ ˈevri deɪ ˈwɒtʃɪŋ ˈpiːpəl pæs baɪ ænd ˈwʌndərɪŋ əˈbaʊt ðer ˈstɔːriz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "sat",
+        "role": "V",
+        "phonetic": "/sæt/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bench",
+        "role": "A",
+        "phonetic": "/bentʃ/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "watching",
+        "role": "V",
+        "phonetic": "/ˈwɒtʃɪŋ/",
+        "chinese": "看的"
+      },
+      {
+        "text": "people",
+        "role": "O",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "pass",
+        "role": "V",
+        "phonetic": "/pæs/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "by",
+        "role": "A",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "wondering",
+        "role": "V",
+        "phonetic": "/ˈwʌndərɪŋ/",
+        "chinese": "想知道/奇迹"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "stories",
+        "role": "A",
+        "phonetic": "/ˈstɔːriz/",
+        "chinese": "故事"
+      }
+    ]
+  },
+  {
+    "chinese": "他回到了他长大的那个村庄却发现一切都变了",
+    "english": "He had returned to the village where he had grown up only to find that everything was different",
+    "soundmark": "/hiː hæd rɪˈtɜːrnd tuː ðə ˈvɪlɪdʒ wer hiː hæd ɡroʊn ʌp ˈoʊnli tuː faɪnd ðæt ˈevriθɪŋ wʌz ˈdɪfərənt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "returned",
+        "role": "V",
+        "phonetic": "/rɪˈtɜːrnd/",
+        "chinese": "返回"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "village",
+        "role": "A",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "chinese": "村庄"
+      },
+      {
+        "text": "where",
+        "role": "O",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "grown",
+        "role": "V",
+        "phonetic": "/ɡroʊn/",
+        "chinese": "成长的"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "everything",
+        "role": "S",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "different",
+        "role": "C",
+        "phonetic": "/ˈdɪfərənt/",
+        "chinese": "不同的"
+      }
+    ]
+  },
+  {
+    "chinese": "当她听到她等待已久的消息时幸福的泪水顺着脸颊流了下来",
+    "english": "Tears of joy ran down her face when she heard the news that she had been waiting for",
+    "soundmark": "/tɪrz əv dʒɔɪ ræn daʊn hɜːr feɪs wen ʃiː hɜːrd ðə nuːz ðæt ʃiː hæd biːn ˈweɪtɪŋ fɔːr/",
+    "grammar": [
+      {
+        "text": "Tears",
+        "role": "S",
+        "phonetic": "/tɪrz/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "joy",
+        "role": "C",
+        "phonetic": "/dʒɔɪ/",
+        "chinese": "快乐"
+      },
+      {
+        "text": "ran",
+        "role": "V",
+        "phonetic": "/ræn/",
+        "chinese": "跑（过去式）"
+      },
+      {
+        "text": "down",
+        "role": "P",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "face",
+        "role": "A",
+        "phonetic": "/feɪs/",
+        "chinese": "脸"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "heard",
+        "role": "V",
+        "phonetic": "/hɜːrd/",
+        "chinese": "听到（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "news",
+        "role": "O",
+        "phonetic": "/nuːz/",
+        "chinese": "新闻"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      }
+    ]
+  },
+  {
+    "chinese": "我越想那个神秘的生物就越不理解我到底看到了什么",
+    "english": "The more I thought about the mysterious creature the less I understood what I had actually seen",
+    "soundmark": "/ðə mɔːr aɪ θɔːt əˈbaʊt ðə mɪˈstɪriəs ˈkriːtʃər ðə les aɪ ˌʌndərˈstʊd wɒt aɪ hæd ˈæktʃuəli siːn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "more",
+        "role": "A",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɔːt/",
+        "chinese": "想/认为（过去式）"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mysterious",
+        "role": "C",
+        "phonetic": "/mɪˈstɪriəs/",
+        "chinese": ""
+      },
+      {
+        "text": "creature",
+        "role": "A",
+        "phonetic": "/ˈkriːtʃər/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "less",
+        "role": "A",
+        "phonetic": "/les/",
+        "chinese": "更少"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "understood",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "what",
+        "role": "O",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "actually",
+        "role": "A",
+        "phonetic": "/ˈæktʃuəli/",
+        "chinese": "实际上"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "就在那一刻她做出了一个她永远不会后悔的决定",
+    "english": "It was at that very moment that she made a decision she would never regret",
+    "soundmark": "/ɪt wʌz æt ðæt ˈveri ˈmoʊmənt ðæt ʃiː meɪd ə dɪˈsɪʒən ʃiː wʊd ˈnevər rɪˈɡret/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "very",
+        "role": "Det",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "moment",
+        "role": "C",
+        "phonetic": "/ˈmoʊmənt/",
+        "chinese": "时刻"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "decision",
+        "role": "O",
+        "phonetic": "/dɪˈsɪʒən/",
+        "chinese": "决定"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "regret",
+        "role": "V",
+        "phonetic": "/rɪˈɡret/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他们走了好几个小时了前方仍然没有村庄或道路的迹象",
+    "english": "They had been walking for hours and there was still no sign of a village or a road ahead",
+    "soundmark": "/ðeɪ hæd biːn ˈwɔːkɪŋ fɔːr aʊərz ænd ðer wʌz stɪl noʊ saɪn əv ə ˈvɪlɪdʒ ɔːr ə roʊd əˈhed/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "walking",
+        "role": "V",
+        "phonetic": "/ˈwɔːkɪŋ/",
+        "chinese": "走路的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/aʊərz/",
+        "chinese": "小时"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "still",
+        "role": "A",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "sign",
+        "role": "S",
+        "phonetic": "/saɪn/",
+        "chinese": "签名"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "village",
+        "role": "A",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "chinese": "村庄"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "road",
+        "role": "A",
+        "phonetic": "/roʊd/",
+        "chinese": "路"
+      },
+      {
+        "text": "ahead",
+        "role": "A",
+        "phonetic": "/əˈhed/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "经过多年努力他的梦想终于成真了就像他一直相信的那样",
+    "english": "After many years of hard work his dream finally came true just as he had always believed it would",
+    "soundmark": "/ˈæftər ˈmeni jɪrz əv hɑːrd wɜːrk hɪz driːm ˈfaɪnəli keɪm truː dʒʌst æz hiː hæd ˈɔːlweɪz bɪˈliːvd ɪt wʊd/",
+    "grammar": [
+      {
+        "text": "After",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "hard",
+        "role": "C",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      },
+      {
+        "text": "work",
+        "role": "A",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "dream",
+        "role": "S",
+        "phonetic": "/driːm/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "finally",
+        "role": "A",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "true",
+        "role": "C",
+        "phonetic": "/truː/",
+        "chinese": "真的"
+      },
+      {
+        "text": "just",
+        "role": "A",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "always",
+        "role": "A",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "believed",
+        "role": "V",
+        "phonetic": "/bɪˈliːvd/",
+        "chinese": "相信"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      }
+    ]
+  },
+  {
+    "chinese": "我即将要讲的故事是我的家族代代相传下来的",
+    "english": "The story that I am about to tell you is one that has been passed down in my family for generations",
+    "soundmark": "/ðə ˈstɔːri ðæt aɪ æm əˈbaʊt tuː tel juː ɪz wʌn ðæt hæz biːn pæst daʊn ɪn maɪ ˈfæməli fɔːr ˌdʒenəˈreɪʃənz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "story",
+        "role": "S",
+        "phonetic": "/ˈstɔːri/",
+        "chinese": "故事"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "about",
+        "role": "A",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "one",
+        "role": "C",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pæst/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "down",
+        "role": "A",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "family",
+        "role": "A",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "generations",
+        "role": "A",
+        "phonetic": "/ˌdʒenəˈreɪʃənz/",
+        "chinese": "一代人/产生"
+      }
+    ]
+  },
+  {
+    "chinese": "她只带了自己需要的东西在任何人来得及阻止她之前就离开了",
+    "english": "She packed only what she needed and left before anyone could stop her from going",
+    "soundmark": "/ʃiː pækt ˈoʊnli wɒt ʃiː ˈniːdɪd ænd left bɪˈfɔːr ˈeniwʌn kʊd stɒp hɜːr frɒm ˈɡoʊɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "packed",
+        "role": "V",
+        "phonetic": "/pækt/",
+        "chinese": "塞满的"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "what",
+        "role": "O",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "needed",
+        "role": "V",
+        "phonetic": "/ˈniːdɪd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "anyone",
+        "role": "S",
+        "phonetic": "/ˈeniwʌn/",
+        "chinese": "任何人"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "stop",
+        "role": "V",
+        "phonetic": "/stɒp/",
+        "chinese": "停止"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      }
+    ]
+  },
+  {
+    "chinese": "到最后才发现宝藏原来一直就藏在他们的眼皮底下",
+    "english": "In the end it turned out that the treasure had been hidden right under their noses the whole time",
+    "soundmark": "/ɪn ði end ɪt tɜːrnd aʊt ðæt ðə ˈtreʒər hæd biːn ˈhɪdən raɪt ˈʌndər ðer noʊzɪz ðə hoʊl taɪm/",
+    "grammar": [
+      {
+        "text": "In",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "end",
+        "role": "A",
+        "phonetic": "/end/",
+        "chinese": "结束"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "turned",
+        "role": "V",
+        "phonetic": "/tɜːrnd/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "treasure",
+        "role": "S",
+        "phonetic": "/ˈtreʒər/",
+        "chinese": "宝藏"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "hidden",
+        "role": "V",
+        "phonetic": "/ˈhɪdən/",
+        "chinese": "隐藏的"
+      },
+      {
+        "text": "right",
+        "role": "A",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "noses",
+        "role": "A",
+        "phonetic": "/noʊzɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "Det",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "我完全没想到那天救了我的陌生人后来会成为我最好的朋友",
+    "english": "Little did I know that the stranger who saved me that day would later become my best friend",
+    "soundmark": "/ˈlɪtəl dɪd aɪ noʊ ðæt ðə ˈstreɪndʒər huː seɪvd miː ðæt deɪ wʊd ˈleɪtər bɪˈkʌm maɪ best frend/",
+    "grammar": [
+      {
+        "text": "Little",
+        "role": "A",
+        "phonetic": "/ˈlɪtəl/",
+        "chinese": "小的/少的"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "stranger",
+        "role": "S",
+        "phonetic": "/ˈstreɪndʒər/",
+        "chinese": "更…的/…者(奇怪的)"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "saved",
+        "role": "V",
+        "phonetic": "/seɪvd/",
+        "chinese": "保存/救"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "later",
+        "role": "A",
+        "phonetic": "/ˈleɪtər/",
+        "chinese": "后来"
+      },
+      {
+        "text": "become",
+        "role": "V",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "best",
+        "role": "C",
+        "phonetic": "/best/",
+        "chinese": "最好"
+      },
+      {
+        "text": "friend",
+        "role": "C",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "从前(once upon a time)",
+    "english": "once upon a time",
+    "soundmark": "/wʌns əˈpɒn ə taɪm/"
+  },
+  {
+    "chinese": "突然(suddenly)",
+    "english": "suddenly",
+    "soundmark": "/ˈsʌdənli/"
+  },
+  {
+    "chinese": "然后(then)",
+    "english": "then",
+    "soundmark": "/ðen/"
+  },
+  {
+    "chinese": "之后(after that)",
+    "english": "after that",
+    "soundmark": "/ˈæftər ðæt/"
+  },
+  {
+    "chinese": "最后(finally)",
+    "english": "finally",
+    "soundmark": "/ˈfaɪnəli/"
+  },
+  {
+    "chinese": "同时(meanwhile)",
+    "english": "meanwhile",
+    "soundmark": "/ˈmiːnwaɪl/"
+  },
+  {
+    "chinese": "起初(at first)",
+    "english": "at first",
+    "soundmark": "/æt fɜːrst/"
+  },
+  {
+    "chinese": "逐渐地(gradually)",
+    "english": "gradually",
+    "soundmark": "/ˈɡrædʒuəli/"
+  },
+  {
+    "chinese": "出乎意料地(unexpectedly)",
+    "english": "unexpectedly",
+    "soundmark": "/ˌʌnɪkˈspektɪdli/"
+  }
+]

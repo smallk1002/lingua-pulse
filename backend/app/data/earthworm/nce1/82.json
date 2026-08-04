@@ -1,0 +1,495 @@
+[
+  {
+    "chinese": "假期",
+    "english": "holiday",
+    "soundmark": "/ˈhɒlədeɪ/"
+  },
+  {
+    "chinese": "年",
+    "english": "year",
+    "soundmark": "/jɪə/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "travel",
+    "soundmark": "/ˈtrævl/"
+  },
+  {
+    "chinese": "参观",
+    "english": "visit",
+    "soundmark": "/ˈvɪzɪt/"
+  },
+  {
+    "chinese": "城市",
+    "english": "city",
+    "soundmark": "/ˈsɪti/"
+  },
+  {
+    "chinese": "国家",
+    "english": "country",
+    "soundmark": "/ˈkʌntri/"
+  },
+  {
+    "chinese": "海滩",
+    "english": "beach",
+    "soundmark": "/biːtʃ/"
+  },
+  {
+    "chinese": "山",
+    "english": "mountain",
+    "soundmark": "/ˈmaʊntɪn/"
+  },
+  {
+    "chinese": "旅馆",
+    "english": "hotel",
+    "soundmark": "/həʊˈtel/"
+  },
+  {
+    "chinese": "照片",
+    "english": "photo",
+    "soundmark": "/ˈfəʊtəʊ/"
+  },
+  {
+    "chinese": "美丽的",
+    "english": "beautiful",
+    "soundmark": "/ˈbjuːtɪfl/"
+  },
+  {
+    "chinese": "享受",
+    "english": "enjoy",
+    "soundmark": "/ɪnˈdʒɔɪ/"
+  },
+  {
+    "chinese": "去年",
+    "english": "last year",
+    "soundmark": "/lɑːst jɪə/"
+  },
+  {
+    "chinese": "去年夏天",
+    "english": "last summer",
+    "soundmark": "/lɑːst ˈsʌmə/"
+  },
+  {
+    "chinese": "游泳",
+    "english": "swim",
+    "soundmark": "/swɪm/"
+  },
+  {
+    "chinese": "去年我去了一个不同的国家。",
+    "english": "I went to a different country last year.",
+    "soundmark": "/aɪ went tuː ə ˈdɪfrənt ˈkʌntri lɑːst jɪə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to a different country",
+        "role": "Adv",
+        "phonetic": "/tuː ə ˈdɪfrənt ˈkʌntri/",
+        "chinese": "到/向/一个/不同的/国家"
+      },
+      {
+        "text": "last year",
+        "role": "A",
+        "phonetic": "/lɑːst jɪə/",
+        "chinese": "去年"
+      }
+    ]
+  },
+  {
+    "chinese": "去年你去了哪里度假？",
+    "english": "Where did you go on holiday last year?",
+    "soundmark": "/weə dɪd juː ɡəʊ ɒn ˈhɒlədeɪ lɑːst jɪə/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/weə/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡəʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "on holiday",
+        "role": "Adv",
+        "phonetic": "/ɒn ˈhɒlədeɪ/",
+        "chinese": "在度假"
+      },
+      {
+        "text": "last year",
+        "role": "A",
+        "phonetic": "/lɑːst jɪə/",
+        "chinese": "去年"
+      }
+    ]
+  },
+  {
+    "chinese": "他去年夏天去了海边。",
+    "english": "He went to the seaside last summer.",
+    "soundmark": "/hiː went tuː ðə ˈsiːsaɪd lɑːst ˈsʌmə/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to the seaside",
+        "role": "Adv",
+        "phonetic": "/tuː ðə ˈsiːsaɪd/",
+        "chinese": "到/向/这个/那个"
+      },
+      {
+        "text": "last summer",
+        "role": "A",
+        "phonetic": "/lɑːst ˈsʌmə/",
+        "chinese": "最后/夏天"
+      }
+    ]
+  },
+  {
+    "chinese": "我们住在一家小旅馆里。",
+    "english": "We stayed at a small hotel.",
+    "soundmark": "/wiː steɪd æt ə smɔːl həʊˈtel/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "stayed",
+        "role": "V",
+        "phonetic": "/steɪd/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "at a small hotel",
+        "role": "Adv",
+        "phonetic": "/æt ə smɔːl həʊˈtel/",
+        "chinese": "在/一个/小的/酒店"
+      }
+    ]
+  },
+  {
+    "chinese": "我拍了很多照片。",
+    "english": "I took a lot of photos.",
+    "soundmark": "/aɪ tʊk ə lɒt əv ˈfəʊtəʊz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "a lot of photos",
+        "role": "O",
+        "phonetic": "/ə lɒt əv ˈfəʊtəʊz/",
+        "chinese": "一个/许多/…的/…们/复数(照片)"
+      }
+    ]
+  },
+  {
+    "chinese": "那个城市非常美丽。",
+    "english": "The city was very beautiful.",
+    "soundmark": "/ðə ˈsɪti wɒz ˈveri ˈbjuːtɪfl/",
+    "grammar": [
+      {
+        "text": "The city",
+        "role": "S",
+        "phonetic": "/ðə ˈsɪti/",
+        "chinese": "这个/那个/城市"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wɒz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very beautiful",
+        "role": "C",
+        "phonetic": "/ˈveri ˈbjuːtɪfl/",
+        "chinese": "非常/美丽的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们玩得很开心。",
+    "english": "We enjoyed ourselves.",
+    "soundmark": "/wiː ɪnˈdʒɔɪd aʊəˈselvz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "enjoyed",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪd/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "ourselves",
+        "role": "O",
+        "phonetic": "/aʊəˈselvz/",
+        "chinese": "我们自己"
+      }
+    ]
+  },
+  {
+    "chinese": "天气很好，我们每天去海滩。",
+    "english": "The weather was fine and we went to the beach every day.",
+    "soundmark": "/ðə ˈweðə wɒz faɪn ənd wiː went tuː ðə biːtʃ ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "The weather",
+        "role": "S",
+        "phonetic": "/ðə ˈweðə/",
+        "chinese": "这个/那个/天气"
+      },
+      {
+        "text": "was fine",
+        "role": "C",
+        "phonetic": "/wɒz faɪn/",
+        "chinese": "是（过去式）/好的/晴朗的"
+      },
+      {
+        "text": "and we went",
+        "role": "V",
+        "phonetic": "/ənd wiː went/",
+        "chinese": "和/我们/去（过去式）"
+      },
+      {
+        "text": "to the beach",
+        "role": "Adv",
+        "phonetic": "/tuː ðə biːtʃ/",
+        "chinese": "到/向/这个/那个/海滩"
+      },
+      {
+        "text": "every day",
+        "role": "A",
+        "phonetic": "/ˈevri deɪ/",
+        "chinese": "每天"
+      }
+    ]
+  },
+  {
+    "chinese": "那座山很高。",
+    "english": "The mountain was very high.",
+    "soundmark": "/ðə ˈmaʊntɪn wɒz ˈveri haɪ/",
+    "grammar": [
+      {
+        "text": "The mountain",
+        "role": "S",
+        "phonetic": "/ðə ˈmaʊntɪn/",
+        "chinese": "这个/那个/山"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wɒz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very high",
+        "role": "C",
+        "phonetic": "/ˈveri haɪ/",
+        "chinese": "非常/高的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们旅行了两周。",
+    "english": "We travelled for two weeks.",
+    "soundmark": "/wiː ˈtrævld fɔːr tuː wiːks/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "travelled",
+        "role": "V",
+        "phonetic": "/ˈtrævld/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "for two weeks",
+        "role": "A",
+        "phonetic": "/fɔːr tuː wiːks/",
+        "chinese": "为了/对于/二/…们/复数(周)"
+      }
+    ]
+  },
+  {
+    "chinese": "我们参观了博物馆。",
+    "english": "We visited a museum.",
+    "soundmark": "/wiː ˈvɪzɪtɪd ə mjuːˈziːəm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "visited",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪtɪd/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "a museum",
+        "role": "O",
+        "phonetic": "/ə mjuːˈziːəm/",
+        "chinese": "一个/博物馆"
+      }
+    ]
+  },
+  {
+    "chinese": "我去年在海里游了泳。",
+    "english": "I swam in the sea last year.",
+    "soundmark": "/aɪ swæm ɪn ðə siː lɑːst jɪə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "swam",
+        "role": "V",
+        "phonetic": "/swæm/",
+        "chinese": "游泳（过去式）"
+      },
+      {
+        "text": "in the sea",
+        "role": "Adv",
+        "phonetic": "/ɪn ðə siː/",
+        "chinese": "在…里/这个/那个/海"
+      },
+      {
+        "text": "last year",
+        "role": "A",
+        "phonetic": "/lɑːst jɪə/",
+        "chinese": "去年"
+      }
+    ]
+  },
+  {
+    "chinese": "阳光",
+    "english": "sunshine",
+    "soundmark": "/ˈsʌnʃaɪn/"
+  },
+  {
+    "chinese": "愉快的",
+    "english": "pleasant",
+    "soundmark": "/ˈplezənt/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "记住",
+    "english": "remember",
+    "soundmark": "/rɪˈmembə/"
+  },
+  {
+    "chinese": "带回",
+    "english": "bring back",
+    "soundmark": "/brɪŋ bæk/"
+  },
+  {
+    "chinese": "纪念品",
+    "english": "souvenir",
+    "soundmark": "/ˌsuːvəˈnɪə/"
+  },
+  {
+    "chinese": "海滩",
+    "english": "seaside",
+    "soundmark": "/ˈsiːsaɪd/"
+  },
+  {
+    "chinese": "海",
+    "english": "sea",
+    "soundmark": "/siː/"
+  },
+  {
+    "chinese": "沙",
+    "english": "sand",
+    "soundmark": "/sænd/"
+  },
+  {
+    "chinese": "岛屿",
+    "english": "island",
+    "soundmark": "/ˈaɪlənd/"
+  },
+  {
+    "chinese": "湖",
+    "english": "lake",
+    "soundmark": "/leɪk/"
+  },
+  {
+    "chinese": "风景",
+    "english": "scenery",
+    "soundmark": "/ˈsiːnəri/"
+  },
+  {
+    "chinese": "便宜的",
+    "english": "cheap",
+    "soundmark": "/tʃiːp/"
+  },
+  {
+    "chinese": "昂贵的",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspensɪv/"
+  }
+]

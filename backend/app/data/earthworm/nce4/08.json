@@ -1,0 +1,633 @@
+[
+  {
+    "chinese": "贸易",
+    "english": "trade",
+    "soundmark": "/treɪd/"
+  },
+  {
+    "chinese": "标准",
+    "english": "standard",
+    "soundmark": "/ˈstændərd/"
+  },
+  {
+    "chinese": "规章",
+    "english": "regulation",
+    "soundmark": "/ˌreɡjuˈleɪʃn/"
+  },
+  {
+    "chinese": "关税",
+    "english": "tariff",
+    "soundmark": "/ˈtærɪf/"
+  },
+  {
+    "chinese": "壁垒",
+    "english": "barrier",
+    "soundmark": "/ˈbæriər/"
+  },
+  {
+    "chinese": "进口",
+    "english": "import",
+    "soundmark": "/ˈɪmpɔːrt/"
+  },
+  {
+    "chinese": "出口",
+    "english": "export",
+    "soundmark": "/ˈekspɔːrt/"
+  },
+  {
+    "chinese": "消费者",
+    "english": "consumer",
+    "soundmark": "/kənˈsuːmər/"
+  },
+  {
+    "chinese": "统一",
+    "english": "unify",
+    "soundmark": "/ˈjuːnɪfaɪ/"
+  },
+  {
+    "chinese": "差异",
+    "english": "discrepancy",
+    "soundmark": "/dɪˈskrepənsi/"
+  },
+  {
+    "chinese": "协调",
+    "english": "harmonize",
+    "soundmark": "/ˈhɑːrmənaɪz/"
+  },
+  {
+    "chinese": "合规",
+    "english": "compliance",
+    "soundmark": "/kəmˈplaɪəns/"
+  },
+  {
+    "chinese": "监管",
+    "english": "supervision",
+    "soundmark": "/ˌsuːpərˈvɪʒn/"
+  },
+  {
+    "chinese": "认证",
+    "english": "certification",
+    "soundmark": "/ˌsɜːrtɪfɪˈkeɪʃn/"
+  },
+  {
+    "chinese": "市场",
+    "english": "market",
+    "soundmark": "/ˈmɑːrkɪt/"
+  },
+  {
+    "chinese": "贸易标准",
+    "english": "trading standards",
+    "soundmark": "/ˈtreɪdɪŋ/ /ˈstændərdz/"
+  },
+  {
+    "chinese": "贸易壁垒",
+    "english": "trade barriers",
+    "soundmark": "/treɪd/ /ˈbæriərz/"
+  },
+  {
+    "chinese": "消费者权益",
+    "english": "consumer rights",
+    "soundmark": "/kənˈsuːmər/ /raɪts/"
+  },
+  {
+    "chinese": "市场准入",
+    "english": "market access",
+    "soundmark": "/ˈmɑːrkɪt/ /ˈækses/"
+  },
+  {
+    "chinese": "合规要求",
+    "english": "compliance requirements",
+    "soundmark": "/kəmˈplaɪəns/ /rɪˈkwaɪərmənts/"
+  },
+  {
+    "chinese": "如果标准一致贸易就会更容易",
+    "english": "if standards were uniform trade would be easier",
+    "soundmark": "/ɪf/ /ˈstændərdz/ /wɜːr/ /ˈjuːnɪfɔːrm/ /treɪd/ /wʊd/ /biː/ /ˈiːziər/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "standards",
+        "role": "S",
+        "phonetic": "/ˈstændərdz/",
+        "chinese": "标准"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "uniform",
+        "role": "C",
+        "phonetic": "/ˈjuːnɪfɔːrm/",
+        "chinese": "制服"
+      },
+      {
+        "text": "trade",
+        "role": "S",
+        "phonetic": "/treɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "easier",
+        "role": "C",
+        "phonetic": "/ˈiːziər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "除非关税降低否则国际贸易将受阻",
+    "english": "unless tariffs are reduced international trade will be hindered",
+    "soundmark": "/ənˈles/ /ˈtærɪfs/ /ɑːr/ /rɪˈduːst/ /ˌɪntərˈnæʃnəl/ /treɪd/ /wɪl/ /biː/ /ˈhɪndərd/",
+    "grammar": [
+      {
+        "text": "unless",
+        "role": "P",
+        "phonetic": "/ənˈles/",
+        "chinese": "除非"
+      },
+      {
+        "text": "tariffs",
+        "role": "S",
+        "phonetic": "/ˈtærɪfs/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "reduced",
+        "role": "V",
+        "phonetic": "/rɪˈduːst/",
+        "chinese": "减少"
+      },
+      {
+        "text": "international",
+        "role": "A",
+        "phonetic": "/ˌɪntərˈnæʃnəl/",
+        "chinese": "国际的"
+      },
+      {
+        "text": "trade",
+        "role": "S",
+        "phonetic": "/treɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "Aux",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "hindered",
+        "role": "V",
+        "phonetic": "/ˈhɪndərd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "各国如果统一标准消费者将从中获益",
+    "english": "if countries harmonized their standards consumers would benefit",
+    "soundmark": "/ɪf/ /ˈkʌntriz/ /ˈhɑːrmənaɪzd/ /ðer/ /ˈstændərdz/ /kənˈsuːmərz/ /wʊd/ /ˈbenɪfɪt/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "countries",
+        "role": "S",
+        "phonetic": "/ˈkʌntriz/",
+        "chinese": "国家"
+      },
+      {
+        "text": "harmonized",
+        "role": "V",
+        "phonetic": "/ˈhɑːrmənaɪzd/",
+        "chinese": ""
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "standards",
+        "role": "O",
+        "phonetic": "/ˈstændərdz/",
+        "chinese": "标准"
+      },
+      {
+        "text": "consumers",
+        "role": "S",
+        "phonetic": "/kənˈsuːmərz/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "benefit",
+        "role": "V",
+        "phonetic": "/ˈbenɪfɪt/",
+        "chinese": "好处"
+      }
+    ]
+  },
+  {
+    "chinese": "只要各国达成协议贸易壁垒就能被消除",
+    "english": "provided that nations reach agreement trade barriers can be eliminated",
+    "soundmark": "/prəˈvaɪdɪd/ /ðæt/ /ˈneɪʃnz/ /riːtʃ/ /əˈɡriːmənt/ /treɪd/ /ˈbæriərz/ /kæn/ /biː/ /ɪˈlɪmɪneɪtɪd/",
+    "grammar": [
+      {
+        "text": "provided",
+        "role": "P",
+        "phonetic": "/prəˈvaɪdɪd/",
+        "chinese": "提供"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "nations",
+        "role": "S",
+        "phonetic": "/ˈneɪʃnz/",
+        "chinese": ""
+      },
+      {
+        "text": "reach",
+        "role": "V",
+        "phonetic": "/riːtʃ/",
+        "chinese": "到达"
+      },
+      {
+        "text": "agreement",
+        "role": "O",
+        "phonetic": "/əˈɡriːmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "trade",
+        "role": "A",
+        "phonetic": "/treɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "barriers",
+        "role": "S",
+        "phonetic": "/ˈbæriərz/",
+        "chinese": ""
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "eliminated",
+        "role": "V",
+        "phonetic": "/ɪˈlɪmɪneɪtɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果制造商遵守国际标准就不会有贸易争端",
+    "english": "if manufacturers followed international standards there would be no trade disputes",
+    "soundmark": "/ɪf/ /ˌmænjuˈfæktʃərərz/ /ˈfɑːloʊd/ /ˌɪntərˈnæʃnəl/ /ˈstændərdz/ /ðer/ /wʊd/ /biː/ /noʊ/ /treɪd/ /dɪˈspjuːts/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "manufacturers",
+        "role": "S",
+        "phonetic": "/ˌmænjuˈfæktʃərərz/",
+        "chinese": ""
+      },
+      {
+        "text": "followed",
+        "role": "V",
+        "phonetic": "/ˈfɑːloʊd/",
+        "chinese": "跟随"
+      },
+      {
+        "text": "international",
+        "role": "A",
+        "phonetic": "/ˌɪntərˈnæʃnəl/",
+        "chinese": "国际的"
+      },
+      {
+        "text": "standards",
+        "role": "O",
+        "phonetic": "/ˈstændərdz/",
+        "chinese": "标准"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "trade",
+        "role": "A",
+        "phonetic": "/treɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "disputes",
+        "role": "C",
+        "phonetic": "/dɪˈspjuːts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "除非消费者意识到他们的权利否则不道德的商业行为将持续存在",
+    "english": "unless consumers become aware of their rights unethical business practices will continue",
+    "soundmark": "/ənˈles/ /kənˈsuːmərz/ /bɪˈkʌm/ /əˈwer/ /ʌv/ /ðer/ /raɪts/ /ʌnˈeθɪkl/ /ˈbɪznəs/ /ˈpræktɪsɪz/ /wɪl/ /kənˈtɪnjuː/",
+    "grammar": [
+      {
+        "text": "unless",
+        "role": "P",
+        "phonetic": "/ənˈles/",
+        "chinese": "除非"
+      },
+      {
+        "text": "consumers",
+        "role": "S",
+        "phonetic": "/kənˈsuːmərz/",
+        "chinese": ""
+      },
+      {
+        "text": "become",
+        "role": "Lv",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "aware",
+        "role": "C",
+        "phonetic": "/əˈwer/",
+        "chinese": "意识到的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "rights",
+        "role": "O",
+        "phonetic": "/raɪts/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "unethical",
+        "role": "A",
+        "phonetic": "/ʌnˈeθɪkl/",
+        "chinese": ""
+      },
+      {
+        "text": "business",
+        "role": "A",
+        "phonetic": "/ˈbɪznəs/",
+        "chinese": "生意/商业"
+      },
+      {
+        "text": "practices",
+        "role": "S",
+        "phonetic": "/ˈpræktɪsɪz/",
+        "chinese": "练习/实践"
+      },
+      {
+        "text": "will",
+        "role": "Aux",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "continue",
+        "role": "V",
+        "phonetic": "/kənˈtɪnjuː/",
+        "chinese": "继续"
+      }
+    ]
+  },
+  {
+    "chinese": "假如全球贸易标准能协调一致世界经济将更加稳定",
+    "english": "if global trading standards could be harmonized the world economy would be more stable",
+    "soundmark": "/ɪf/ /ˈɡloʊbl/ /ˈtreɪdɪŋ/ /ˈstændərdz/ /kʊd/ /biː/ /ˈhɑːrmənaɪzd/ /ðə/ /wɜːrld/ /ɪˈkɑːnəmi/ /wʊd/ /biː/ /mɔːr/ /ˈsteɪbl/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "global",
+        "role": "A",
+        "phonetic": "/ˈɡloʊbl/",
+        "chinese": "全球的"
+      },
+      {
+        "text": "trading",
+        "role": "A",
+        "phonetic": "/ˈtreɪdɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "standards",
+        "role": "S",
+        "phonetic": "/ˈstændərdz/",
+        "chinese": "标准"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "harmonized",
+        "role": "V",
+        "phonetic": "/ˈhɑːrmənaɪzd/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "A",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "economy",
+        "role": "S",
+        "phonetic": "/ɪˈkɑːnəmi/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "stable",
+        "role": "C",
+        "phonetic": "/ˈsteɪbl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "阻碍",
+    "english": "hinder",
+    "soundmark": "/ˈhɪndər/"
+  },
+  {
+    "chinese": "消除",
+    "english": "eliminate",
+    "soundmark": "/ɪˈlɪmɪneɪt/"
+  },
+  {
+    "chinese": "争端",
+    "english": "dispute",
+    "soundmark": "/dɪˈspjuːt/"
+  },
+  {
+    "chinese": "不道德的",
+    "english": "unethical",
+    "soundmark": "/ʌnˈeθɪkl/"
+  },
+  {
+    "chinese": "稳定的",
+    "english": "stable",
+    "soundmark": "/ˈsteɪbl/"
+  },
+  {
+    "chinese": "制造商",
+    "english": "manufacturer",
+    "soundmark": "/ˌmænjuˈfæktʃərər/"
+  },
+  {
+    "chinese": "经济",
+    "english": "economy",
+    "soundmark": "/ɪˈkɑːnəmi/"
+  },
+  {
+    "chinese": "收益",
+    "english": "benefit",
+    "soundmark": "/ˈbenɪfɪt/"
+  },
+  {
+    "chinese": "一致的",
+    "english": "uniform",
+    "soundmark": "/ˈjuːnɪfɔːrm/"
+  },
+  {
+    "chinese": "协议",
+    "english": "agreement",
+    "soundmark": "/əˈɡriːmənt/"
+  }
+]

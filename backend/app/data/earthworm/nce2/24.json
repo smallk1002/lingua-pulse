@@ -1,0 +1,660 @@
+[
+  {
+    "chinese": "悬崖",
+    "english": "cliff",
+    "soundmark": "/klɪf/"
+  },
+  {
+    "chinese": "汽车",
+    "english": "car",
+    "soundmark": "/kɑːr/"
+  },
+  {
+    "chinese": "驶离",
+    "english": "drive off",
+    "soundmark": "/draɪv/ /ɔːf/"
+  },
+  {
+    "chinese": "幸存者",
+    "english": "survivor",
+    "soundmark": "/sərˈvaɪvər/"
+  },
+  {
+    "chinese": "受伤",
+    "english": "injury",
+    "soundmark": "/ˈɪndʒəri/"
+  },
+  {
+    "chinese": "严重的",
+    "english": "serious",
+    "soundmark": "/ˈsɪriəs/"
+  },
+  {
+    "chinese": "幸运的是",
+    "english": "fortunately",
+    "soundmark": "/ˈfɔːrtʃənətli/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɑːspɪtəl/"
+  },
+  {
+    "chinese": "速度",
+    "english": "speed",
+    "soundmark": "/spiːd/"
+  },
+  {
+    "chinese": "驾驶",
+    "english": "drive",
+    "soundmark": "/draɪv/"
+  },
+  {
+    "chinese": "损坏",
+    "english": "damage",
+    "soundmark": "/ˈdæmɪdʒ/"
+  },
+  {
+    "chinese": "酒",
+    "english": "wine",
+    "soundmark": "/waɪn/"
+  },
+  {
+    "chinese": "乘客",
+    "english": "passenger",
+    "soundmark": "/ˈpæsɪndʒər/"
+  },
+  {
+    "chinese": "安全带",
+    "english": "seat belt",
+    "soundmark": "/siːt/ /belt/"
+  },
+  {
+    "chinese": "那辆车被驶离了悬崖",
+    "english": "The car was driven off the cliff",
+    "soundmark": "/ðə/ /kɑːr/ /wʌz/ /ˈdrɪvən/ /ɔːf/ /ðə/ /klɪf/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "driven",
+        "role": "V",
+        "phonetic": "/ˈdrɪvən/",
+        "chinese": "被驱动的"
+      },
+      {
+        "text": "off",
+        "role": "P",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cliff",
+        "role": "O",
+        "phonetic": "/klɪf/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "情况可能更糟",
+    "english": "It could be worse",
+    "soundmark": "/ɪt/ /kʊd/ /biː/ /wɜːrs/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "worse",
+        "role": "C",
+        "phonetic": "/wɜːrs/",
+        "chinese": "更糟"
+      }
+    ]
+  },
+  {
+    "chinese": "那个人被送往医院",
+    "english": "The man was taken to hospital",
+    "soundmark": "/ðə/ /mæn/ /wʌz/ /ˈteɪkən/ /tuː/ /ˈhɑːspɪtəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "hospital",
+        "role": "O",
+        "phonetic": "/ˈhɑːspɪtəl/",
+        "chinese": "医院"
+      }
+    ]
+  },
+  {
+    "chinese": "他没有受重伤",
+    "english": "He was not seriously injured",
+    "soundmark": "/hiː/ /wʌz/ /nɑːt/ /ˈsɪriəsli/ /ˈɪndʒərd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "seriously",
+        "role": "Adv",
+        "phonetic": "/ˈsɪriəsli/",
+        "chinese": "…地(严肃的)"
+      },
+      {
+        "text": "injured",
+        "role": "C",
+        "phonetic": "/ˈɪndʒərd/",
+        "chinese": "使受伤"
+      }
+    ]
+  },
+  {
+    "chinese": "幸运的是乘客们都幸存了",
+    "english": "Fortunately the passengers survived",
+    "soundmark": "/ˈfɔːrtʃənətli/ /ðə/ /ˈpæsɪndʒərz/ /sərˈvaɪvd/",
+    "grammar": [
+      {
+        "text": "Fortunately",
+        "role": "Adv",
+        "phonetic": "/ˈfɔːrtʃənətli/",
+        "chinese": "幸运地"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "passengers",
+        "role": "S",
+        "phonetic": "/ˈpæsɪndʒərz/",
+        "chinese": "乘客"
+      },
+      {
+        "text": "survived",
+        "role": "V",
+        "phonetic": "/sərˈvaɪvd/",
+        "chinese": "幸存"
+      }
+    ]
+  },
+  {
+    "chinese": "车被严重损坏了",
+    "english": "The car was badly damaged",
+    "soundmark": "/ðə/ /kɑːr/ /wʌz/ /ˈbædli/ /ˈdæmɪdʒd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "badly",
+        "role": "Adv",
+        "phonetic": "/ˈbædli/",
+        "chinese": "糟糕地"
+      },
+      {
+        "text": "damaged",
+        "role": "C",
+        "phonetic": "/ˈdæmɪdʒd/",
+        "chinese": "损坏的"
+      }
+    ]
+  },
+  {
+    "chinese": "他是酒后驾车",
+    "english": "He was driving after drinking wine",
+    "soundmark": "/hiː/ /wʌz/ /ˈdraɪvɪŋ/ /ˈæftər/ /ˈdrɪŋkɪŋ/ /waɪn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "after",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "drinking",
+        "role": "V",
+        "phonetic": "/ˈdrɪŋkɪŋ/",
+        "chinese": "喝的"
+      },
+      {
+        "text": "wine",
+        "role": "O",
+        "phonetic": "/waɪn/",
+        "chinese": "葡萄酒"
+      }
+    ]
+  },
+  {
+    "chinese": "他以极快的速度驾驶",
+    "english": "He drove at a very high speed",
+    "soundmark": "/hiː/ /droʊv/ /æt/ /ə/ /ˈveri/ /haɪ/ /spiːd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "drove",
+        "role": "V",
+        "phonetic": "/droʊv/",
+        "chinese": "驾驶（过去式）"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "high",
+        "role": "A",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      },
+      {
+        "text": "speed",
+        "role": "O",
+        "phonetic": "/spiːd/",
+        "chinese": "速度"
+      }
+    ]
+  },
+  {
+    "chinese": "悬崖很高",
+    "english": "The cliff was very high",
+    "soundmark": "/ðə/ /klɪf/ /wʌz/ /ˈveri/ /haɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cliff",
+        "role": "S",
+        "phonetic": "/klɪf/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "high",
+        "role": "C",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      }
+    ]
+  },
+  {
+    "chinese": "那辆车被找到了",
+    "english": "The car was found",
+    "soundmark": "/ðə/ /kɑːr/ /wʌz/ /faʊnd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "found",
+        "role": "C",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      }
+    ]
+  },
+  {
+    "chinese": "警察赶到了事故现场",
+    "english": "The police arrived at the scene of the accident",
+    "soundmark": "/ðə/ /pəˈliːs/ /əˈraɪvd/ /æt/ /ðə/ /siːn/ /ʌv/ /ði/ /ˈæksɪdənt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "S",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "scene",
+        "role": "O",
+        "phonetic": "/siːn/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "accident",
+        "role": "O",
+        "phonetic": "/ˈæksɪdənt/",
+        "chinese": "事故"
+      }
+    ]
+  },
+  {
+    "chinese": "司机被警察带走了",
+    "english": "The driver was taken away by the police",
+    "soundmark": "/ðə/ /ˈdraɪvər/ /wʌz/ /ˈteɪkən/ /əˈweɪ/ /baɪ/ /ðə/ /pəˈliːs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "driver",
+        "role": "S",
+        "phonetic": "/ˈdraɪvər/",
+        "chinese": "司机"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "away",
+        "role": "Adv",
+        "phonetic": "/əˈweɪ/",
+        "chinese": "离开/远"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "O",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      }
+    ]
+  },
+  {
+    "chinese": "他本应该系安全带的",
+    "english": "He should have worn a seat belt",
+    "soundmark": "/hiː/ /ʃʊd/ /hæv/ /wɔːrn/ /ə/ /siːt/ /belt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "worn",
+        "role": "V",
+        "phonetic": "/wɔːrn/",
+        "chinese": "穿旧的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "seat",
+        "role": "A",
+        "phonetic": "/siːt/",
+        "chinese": ""
+      },
+      {
+        "text": "belt",
+        "role": "O",
+        "phonetic": "/belt/",
+        "chinese": "腰带"
+      }
+    ]
+  },
+  {
+    "chinese": "幸存的",
+    "english": "surviving",
+    "soundmark": "/sərˈvaɪvɪŋ/"
+  },
+  {
+    "chinese": "事故",
+    "english": "accident",
+    "soundmark": "/ˈæksɪdənt/"
+  },
+  {
+    "chinese": "损坏",
+    "english": "damage",
+    "soundmark": "/ˈdæmɪdʒ/"
+  },
+  {
+    "chinese": "严重的",
+    "english": "serious",
+    "soundmark": "/ˈsɪriəs/"
+  },
+  {
+    "chinese": "警察",
+    "english": "police",
+    "soundmark": "/pəˈliːs/"
+  },
+  {
+    "chinese": "场景",
+    "english": "scene",
+    "soundmark": "/siːn/"
+  },
+  {
+    "chinese": "司机",
+    "english": "driver",
+    "soundmark": "/ˈdraɪvər/"
+  }
+]

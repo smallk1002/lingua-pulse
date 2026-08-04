@@ -1,0 +1,1364 @@
+[
+  {
+    "chinese": "寄",
+    "english": "send",
+    "soundmark": "/send/"
+  },
+  {
+    "chinese": "卡片",
+    "english": "card",
+    "soundmark": "/kɑːrd/"
+  },
+  {
+    "chinese": "明信片",
+    "english": "postcard",
+    "soundmark": "/ˈpoʊstkɑːrd/"
+  },
+  {
+    "chinese": "博物馆",
+    "english": "museum",
+    "soundmark": "/mjuːˈziːəm/"
+  },
+  {
+    "chinese": "假期",
+    "english": "holiday",
+    "soundmark": "/ˈhɑːlɪdeɪ/"
+  },
+  {
+    "chinese": "决定",
+    "english": "decide",
+    "soundmark": "/dɪˈsaɪd/"
+  },
+  {
+    "chinese": "友好的",
+    "english": "friendly",
+    "soundmark": "/ˈfrendli/"
+  },
+  {
+    "chinese": "毁坏",
+    "english": "spoil",
+    "soundmark": "/spɔɪl/"
+  },
+  {
+    "chinese": "意大利",
+    "english": "Italy",
+    "soundmark": "/ˈɪtəli/"
+  },
+  {
+    "chinese": "公共的",
+    "english": "public",
+    "soundmark": "/ˈpʌblɪk/"
+  },
+  {
+    "chinese": "寄卡片",
+    "english": "send a card",
+    "soundmark": "/send/ /ə/ /kɑːrd/"
+  },
+  {
+    "chinese": "去度假",
+    "english": "go on holiday",
+    "soundmark": "/ɡoʊ/ /ɑːn/ /ˈhɑːlɪdeɪ/"
+  },
+  {
+    "chinese": "做决定",
+    "english": "make a decision",
+    "soundmark": "/meɪk/ /ə/ /dɪˈsɪʒən/"
+  },
+  {
+    "chinese": "友好的人们",
+    "english": "friendly people",
+    "soundmark": "/ˈfrendli/ /ˈpiːpəl/"
+  },
+  {
+    "chinese": "去年夏天",
+    "english": "last summer",
+    "soundmark": "/læst/ /ˈsʌmər/"
+  },
+  {
+    "chinese": "去年夏天我去意大利度假了",
+    "english": "Last summer I went to Italy on holiday",
+    "soundmark": "/læst/ /ˈsʌmər/ /aɪ/ /went/ /tuː/ /ˈɪtəli/ /ɑːn/ /ˈhɑːlɪdeɪ/",
+    "grammar": [
+      {
+        "text": "Last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "summer",
+        "role": "A",
+        "phonetic": "/ˈsʌmər/",
+        "chinese": "夏天"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "Italy",
+        "role": "O",
+        "phonetic": "/ˈɪtəli/",
+        "chinese": "意大利"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "holiday",
+        "role": "O",
+        "phonetic": "/ˈhɑːlɪdeɪ/",
+        "chinese": "假期"
+      }
+    ]
+  },
+  {
+    "chinese": "我参观了许多博物馆",
+    "english": "I visited many museums",
+    "soundmark": "/aɪ/ /ˈvɪzɪtɪd/ /ˈmeni/ /mjuːˈziːəmz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "visited",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪtɪd/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "museums",
+        "role": "O",
+        "phonetic": "/mjuːˈziːəmz/",
+        "chinese": "博物馆"
+      }
+    ]
+  },
+  {
+    "chinese": "我坐在一个公共花园里",
+    "english": "I sat in a public garden",
+    "soundmark": "/aɪ/ /sæt/ /ɪn/ /ə/ /ˈpʌblɪk/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sat",
+        "role": "V",
+        "phonetic": "/sæt/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "public",
+        "role": "A",
+        "phonetic": "/ˈpʌblɪk/",
+        "chinese": "公共的"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "一位友好的侍者教了我几句意大利语",
+    "english": "A friendly waiter taught me a few words of Italian",
+    "soundmark": "/ə/ /ˈfrendli/ /ˈweɪtər/ /tɔːt/ /miː/ /ə/ /fjuː/ /wɜːrdz/ /ʌv/ /ɪˈtæljən/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "friendly",
+        "role": "A",
+        "phonetic": "/ˈfrendli/",
+        "chinese": "…地(朋友)"
+      },
+      {
+        "text": "waiter",
+        "role": "S",
+        "phonetic": "/ˈweɪtər/",
+        "chinese": "服务员"
+      },
+      {
+        "text": "taught",
+        "role": "V",
+        "phonetic": "/tɔːt/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "few",
+        "role": "Det",
+        "phonetic": "/fjuː/",
+        "chinese": "很少"
+      },
+      {
+        "text": "words",
+        "role": "O",
+        "phonetic": "/wɜːrdz/",
+        "chinese": "单词"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "Italian",
+        "role": "O",
+        "phonetic": "/ɪˈtæljən/",
+        "chinese": "意大利人"
+      }
+    ]
+  },
+  {
+    "chinese": "然后他给我借了一本书",
+    "english": "Then he lent me a book",
+    "soundmark": "/ðen/ /hiː/ /lent/ /miː/ /ə/ /bʊk/",
+    "grammar": [
+      {
+        "text": "Then",
+        "role": "Adv",
+        "phonetic": "/ðen/",
+        "chinese": "然后"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "lent",
+        "role": "V",
+        "phonetic": "/lent/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "我读了几行",
+    "english": "I read a few lines",
+    "soundmark": "/aɪ/ /red/ /ə/ /fjuː/ /laɪnz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/red/",
+        "chinese": "读"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "few",
+        "role": "Det",
+        "phonetic": "/fjuː/",
+        "chinese": "很少"
+      },
+      {
+        "text": "lines",
+        "role": "O",
+        "phonetic": "/laɪnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我一个单词也不认识",
+    "english": "I did not understand a word",
+    "soundmark": "/aɪ/ /dɪd/ /nɑːt/ /ˌʌndərˈstænd/ /ə/ /wɜːrd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "word",
+        "role": "O",
+        "phonetic": "/wɜːrd/",
+        "chinese": "单词"
+      }
+    ]
+  },
+  {
+    "chinese": "我每天都想着明信片",
+    "english": "Every day I thought about postcards",
+    "soundmark": "/ˈevri/ /deɪ/ /aɪ/ /θɔːt/ /əˈbaʊt/ /ˈpoʊstkɑːrdz/",
+    "grammar": [
+      {
+        "text": "Every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɔːt/",
+        "chinese": "想/认为（过去式）"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "postcards",
+        "role": "O",
+        "phonetic": "/ˈpoʊstkɑːrdz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "假期过得很快",
+    "english": "My holidays passed quickly",
+    "soundmark": "/maɪ/ /ˈhɑːlɪdeɪs/ /pæst/ /ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "holidays",
+        "role": "S",
+        "phonetic": "/ˈhɑːlɪdeɪs/",
+        "chinese": "假期"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pæst/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "quickly",
+        "role": "Adv",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "但我没有寄出任何卡片",
+    "english": "But I did not send any cards",
+    "soundmark": "/bʌt/ /aɪ/ /dɪd/ /nɑːt/ /send/ /ˈeni/ /kɑːrdz/",
+    "grammar": [
+      {
+        "text": "But",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "send",
+        "role": "V",
+        "phonetic": "/send/",
+        "chinese": "发送"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "cards",
+        "role": "O",
+        "phonetic": "/kɑːrdz/",
+        "chinese": "卡片"
+      }
+    ]
+  },
+  {
+    "chinese": "我给我朋友寄了一张明信片",
+    "english": "I sent a postcard to my friend",
+    "soundmark": "/aɪ/ /sent/ /ə/ /ˈpoʊstkɑːrd/ /tuː/ /maɪ/ /frend/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sent",
+        "role": "V",
+        "phonetic": "/sent/",
+        "chinese": "寄/发送（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "postcard",
+        "role": "O",
+        "phonetic": "/ˈpoʊstkɑːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "friend",
+        "role": "O",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "他决定不去那儿了",
+    "english": "He decided not to go there",
+    "soundmark": "/hiː/ /dɪˈsaɪdɪd/ /nɑːt/ /tuː/ /ɡoʊ/ /ðer/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "糟糕的天气毁了我们的旅行",
+    "english": "The bad weather spoiled our trip",
+    "soundmark": "/ðə/ /bæd/ /ˈweðər/ /spɔɪld/ /aʊr/ /trɪp/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bad",
+        "role": "A",
+        "phonetic": "/bæd/",
+        "chinese": "坏的"
+      },
+      {
+        "text": "weather",
+        "role": "S",
+        "phonetic": "/ˈweðər/",
+        "chinese": "天气"
+      },
+      {
+        "text": "spoiled",
+        "role": "V",
+        "phonetic": "/spɔɪld/",
+        "chinese": ""
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "trip",
+        "role": "O",
+        "phonetic": "/trɪp/",
+        "chinese": "旅行"
+      }
+    ]
+  },
+  {
+    "chinese": "你昨天去了博物馆吗",
+    "english": "Did you go to the museum yesterday",
+    "soundmark": "/dɪd/ /juː/ /ɡoʊ/ /tuː/ /ðə/ /mjuːˈziːəm/ /ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "museum",
+        "role": "O",
+        "phonetic": "/mjuːˈziːəm/",
+        "chinese": "博物馆"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "我很喜欢那儿的人",
+    "english": "I liked the people there very much",
+    "soundmark": "/aɪ/ /laɪkt/ /ðə/ /ˈpiːpəl/ /ðer/ /ˈveri/ /mʌtʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "liked",
+        "role": "V",
+        "phonetic": "/laɪkt/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "people",
+        "role": "O",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      }
+    ]
+  },
+  {
+    "chinese": "你能给我寄张明信片吗",
+    "english": "Can you send me a postcard",
+    "soundmark": "/kæn/ /juː/ /send/ /miː/ /ə/ /ˈpoʊstkɑːrd/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "send",
+        "role": "V",
+        "phonetic": "/send/",
+        "chinese": "发送"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "postcard",
+        "role": "O",
+        "phonetic": "/ˈpoʊstkɑːrd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我在一家咖啡馆认识了他",
+    "english": "I met him at a cafe",
+    "soundmark": "/aɪ/ /met/ /hɪm/ /æt/ /ə/ /kæˈfeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "met",
+        "role": "V",
+        "phonetic": "/met/",
+        "chinese": "遇见（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cafe",
+        "role": "O",
+        "phonetic": "/kæˈfeɪ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她没告诉我她的名字",
+    "english": "She did not tell me her name",
+    "soundmark": "/ʃiː/ /dɪd/ /nɑːt/ /tel/ /miː/ /hɜːr/ /neɪm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "name",
+        "role": "O",
+        "phonetic": "/neɪm/",
+        "chinese": "名字"
+      }
+    ]
+  },
+  {
+    "chinese": "我每天早上都读一会儿书",
+    "english": "I read for a while every morning",
+    "soundmark": "/aɪ/ /red/ /fɔːr/ /ə/ /waɪl/ /ˈevri/ /ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/red/",
+        "chinese": "读"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "while",
+        "role": "A",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "他借给我一把雨伞",
+    "english": "He lent me an umbrella",
+    "soundmark": "/hiː/ /lent/ /miː/ /ən/ /ʌmˈbrelə/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "lent",
+        "role": "V",
+        "phonetic": "/lent/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "umbrella",
+        "role": "O",
+        "phonetic": "/ʌmˈbrelə/",
+        "chinese": "雨伞"
+      }
+    ]
+  },
+  {
+    "chinese": "我在罗马待了三天",
+    "english": "I stayed in Rome for three days",
+    "soundmark": "/aɪ/ /steɪd/ /ɪn/ /roʊm/ /fɔːr/ /θriː/ /deɪz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "stayed",
+        "role": "V",
+        "phonetic": "/steɪd/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Rome",
+        "role": "O",
+        "phonetic": "/roʊm/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "days",
+        "role": "A",
+        "phonetic": "/deɪz/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "那张卡片上写了什么",
+    "english": "What did the card say",
+    "soundmark": "/wʌt/ /dɪd/ /ðə/ /kɑːrd/ /seɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "card",
+        "role": "S",
+        "phonetic": "/kɑːrd/",
+        "chinese": "卡片"
+      },
+      {
+        "text": "say",
+        "role": "V",
+        "phonetic": "/seɪ/",
+        "chinese": "说"
+      }
+    ]
+  },
+  {
+    "chinese": "雨毁了我们一整个下午",
+    "english": "The rain spoiled our whole afternoon",
+    "soundmark": "/ðə/ /reɪn/ /spɔɪld/ /aʊr/ /hoʊl/ /ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rain",
+        "role": "S",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      },
+      {
+        "text": "spoiled",
+        "role": "V",
+        "phonetic": "/spɔɪld/",
+        "chinese": ""
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "whole",
+        "role": "A",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "afternoon",
+        "role": "O",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      }
+    ]
+  },
+  {
+    "chinese": "我学了几句法语但我记不住了",
+    "english": "I learned a few French words but I could not remember them",
+    "soundmark": "/aɪ/ /lɜːrnd/ /ə/ /fjuː/ /frentʃ/ /wɜːrdz/ /bʌt/ /aɪ/ /kʊd/ /nɑːt/ /rɪˈmembər/ /ðem/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "learned",
+        "role": "V",
+        "phonetic": "/lɜːrnd/",
+        "chinese": "学习"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "few",
+        "role": "Det",
+        "phonetic": "/fjuː/",
+        "chinese": "很少"
+      },
+      {
+        "text": "French",
+        "role": "A",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      },
+      {
+        "text": "words",
+        "role": "O",
+        "phonetic": "/wɜːrdz/",
+        "chinese": "单词"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "remember",
+        "role": "V",
+        "phonetic": "/rɪˈmembər/",
+        "chinese": "记住"
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðem/",
+        "chinese": "他们"
+      }
+    ]
+  },
+  {
+    "chinese": "她做了一个错误的决定",
+    "english": "She made a wrong decision",
+    "soundmark": "/ʃiː/ /meɪd/ /ə/ /rɔːŋ/ /dɪˈsɪʒən/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "wrong",
+        "role": "A",
+        "phonetic": "/rɔːŋ/",
+        "chinese": "错的"
+      },
+      {
+        "text": "decision",
+        "role": "O",
+        "phonetic": "/dɪˈsɪʒən/",
+        "chinese": "决定"
+      }
+    ]
+  },
+  {
+    "chinese": "我忘了给他寄邀请函",
+    "english": "I forgot to send him the invitation",
+    "soundmark": "/aɪ/ /fərˈɡɑːt/ /tuː/ /send/ /hɪm/ /ðə/ /ˌɪnvɪˈteɪʃən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "forgot",
+        "role": "V",
+        "phonetic": "/fərˈɡɑːt/",
+        "chinese": "忘记（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "send",
+        "role": "V",
+        "phonetic": "/send/",
+        "chinese": "发送"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "invitation",
+        "role": "O",
+        "phonetic": "/ˌɪnvɪˈteɪʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那些友好的当地人帮助了我们",
+    "english": "The friendly locals helped us",
+    "soundmark": "/ðə/ /ˈfrendli/ /ˈloʊkəlz/ /helpt/ /ʌs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "friendly",
+        "role": "A",
+        "phonetic": "/ˈfrendli/",
+        "chinese": "…地(朋友)"
+      },
+      {
+        "text": "locals",
+        "role": "S",
+        "phonetic": "/ˈloʊkəlz/",
+        "chinese": "当地的"
+      },
+      {
+        "text": "helped",
+        "role": "V",
+        "phonetic": "/helpt/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      }
+    ]
+  },
+  {
+    "chinese": "侍者",
+    "english": "waiter",
+    "soundmark": "/ˈweɪtər/"
+  },
+  {
+    "chinese": "一些",
+    "english": "a few",
+    "soundmark": "/ə/ /fjuː/"
+  },
+  {
+    "chinese": "单词",
+    "english": "word",
+    "soundmark": "/wɜːrd/"
+  },
+  {
+    "chinese": "书",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "线",
+    "english": "line",
+    "soundmark": "/laɪn/"
+  },
+  {
+    "chinese": "决定",
+    "english": "decision",
+    "soundmark": "/dɪˈsɪʒən/"
+  },
+  {
+    "chinese": "天气",
+    "english": "weather",
+    "soundmark": "/ˈweðər/"
+  },
+  {
+    "chinese": "错误",
+    "english": "wrong",
+    "soundmark": "/rɔːŋ/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "trip",
+    "soundmark": "/trɪp/"
+  },
+  {
+    "chinese": "借出",
+    "english": "lend",
+    "soundmark": "/lend/"
+  },
+  {
+    "chinese": "度过",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "邀请",
+    "english": "invitation",
+    "soundmark": "/ˌɪnvɪˈteɪʃən/"
+  }
+]

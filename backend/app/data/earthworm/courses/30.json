@@ -1,0 +1,814 @@
+[
+  {
+    "chinese": "正在吃",
+    "english": "eating",
+    "soundmark": "/ˈiːtɪŋ/"
+  },
+  {
+    "chinese": "正在跑",
+    "english": "running",
+    "soundmark": "/ˈrʌnɪŋ/"
+  },
+  {
+    "chinese": "正在玩",
+    "english": "playing",
+    "soundmark": "/ˈpleɪɪŋ/"
+  },
+  {
+    "chinese": "正在读",
+    "english": "reading",
+    "soundmark": "/ˈriːdɪŋ/"
+  },
+  {
+    "chinese": "正在写",
+    "english": "writing",
+    "soundmark": "/ˈraɪtɪŋ/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "chinese": "此刻",
+    "english": "at the moment",
+    "soundmark": "/æt ðə ˈmoʊmənt/"
+  },
+  {
+    "chinese": "我正在吃午饭。",
+    "english": "I am eating lunch",
+    "soundmark": "/aɪ æm ˈiːtɪŋ lʌntʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am eating",
+        "role": "V",
+        "phonetic": "/æm ˈiːtɪŋ/",
+        "chinese": "是/吃"
+      },
+      {
+        "text": "lunch",
+        "role": "O",
+        "phonetic": "/lʌntʃ/",
+        "chinese": "午餐"
+      }
+    ]
+  },
+  {
+    "chinese": "他正在跑步。",
+    "english": "He is running",
+    "soundmark": "/hiː ɪz ˈrʌnɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is running",
+        "role": "V",
+        "phonetic": "/ɪz ˈrʌnɪŋ/",
+        "chinese": "是/正在…(跑)"
+      }
+    ]
+  },
+  {
+    "chinese": "他们正在踢足球。",
+    "english": "They are playing football",
+    "soundmark": "/ðeɪ ɑːr ˈpleɪɪŋ ˈfʊtbɔːl/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are playing",
+        "role": "V",
+        "phonetic": "/ɑːr ˈpleɪɪŋ/",
+        "chinese": "正在打/玩"
+      },
+      {
+        "text": "football",
+        "role": "O",
+        "phonetic": "/ˈfʊtbɔːl/",
+        "chinese": "足球"
+      }
+    ]
+  },
+  {
+    "chinese": "她正在看书。",
+    "english": "She is reading a book",
+    "soundmark": "/ʃiː ɪz ˈriːdɪŋ ə bʊk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is reading",
+        "role": "V",
+        "phonetic": "/ɪz ˈriːdɪŋ/",
+        "chinese": "是/读（过去式/过去分词）"
+      },
+      {
+        "text": "a book",
+        "role": "O",
+        "phonetic": "/ə bʊk/",
+        "chinese": "一本书"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在写一封信。",
+    "english": "I am writing a letter",
+    "soundmark": "/aɪ æm ˈraɪtɪŋ ə ˈletər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am writing",
+        "role": "V",
+        "phonetic": "/æm ˈraɪtɪŋ/",
+        "chinese": "是/正在…(写)"
+      },
+      {
+        "text": "a letter",
+        "role": "O",
+        "phonetic": "/ə ˈletər/",
+        "chinese": "一个/信/字母"
+      }
+    ]
+  },
+  {
+    "chinese": "外面正在下雨。",
+    "english": "It is raining outside",
+    "soundmark": "/ɪt ɪz ˈreɪnɪŋ ˌaʊtˈsaɪd/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is raining",
+        "role": "V",
+        "phonetic": "/ɪz ˈreɪnɪŋ/",
+        "chinese": "是/雨"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "chinese": "在…外面"
+      }
+    ]
+  },
+  {
+    "chinese": "我现在没在吃。",
+    "english": "I am not eating now",
+    "soundmark": "/aɪ æm nɑːt ˈiːtɪŋ naʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am not eating",
+        "role": "V",
+        "phonetic": "/æm nɑːt ˈiːtɪŋ/",
+        "chinese": "是/不/吃"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "他不在睡觉。",
+    "english": "He is not sleeping",
+    "soundmark": "/hiː ɪz nɑːt ˈsliːpɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is not sleeping",
+        "role": "V",
+        "phonetic": "/ɪz nɑːt ˈsliːpɪŋ/",
+        "chinese": "是/不/睡觉"
+      }
+    ]
+  },
+  {
+    "chinese": "你在做什么？",
+    "english": "What are you doing",
+    "soundmark": "/wʌt ɑːr juː ˈduːɪŋ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "你正在看电视吗？",
+    "english": "Are you watching TV",
+    "soundmark": "/ɑːr juː ˈwɑːtʃɪŋ ˌtiːˈviː/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "watching",
+        "role": "V",
+        "phonetic": "/ˈwɑːtʃɪŋ/",
+        "chinese": "看的"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      }
+    ]
+  },
+  {
+    "chinese": "他们在哪里玩？",
+    "english": "Where are they playing",
+    "soundmark": "/wer ɑːr ðeɪ ˈpleɪɪŋ/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "playing",
+        "role": "V",
+        "phonetic": "/ˈpleɪɪŋ/",
+        "chinese": "玩的/演奏的"
+      }
+    ]
+  },
+  {
+    "chinese": "妈妈正在厨房做饭。",
+    "english": "Mom is cooking in the kitchen",
+    "soundmark": "/mɑːm ɪz ˈkʊkɪŋ ɪn ðə ˈkɪtʃɪn/",
+    "grammar": [
+      {
+        "text": "Mom",
+        "role": "S",
+        "phonetic": "/mɑːm/",
+        "chinese": "妈妈"
+      },
+      {
+        "text": "is cooking",
+        "role": "V",
+        "phonetic": "/ɪz ˈkʊkɪŋ/",
+        "chinese": "是"
+      },
+      {
+        "text": "in the kitchen",
+        "role": "A",
+        "phonetic": "/ɪn ðə ˈkɪtʃɪn/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "孩子们正在公园玩。",
+    "english": "The children are playing in the park",
+    "soundmark": "/ðə ˈtʃɪldrən ɑːr ˈpleɪɪŋ ɪn ðə pɑːrk/",
+    "grammar": [
+      {
+        "text": "The children",
+        "role": "S",
+        "phonetic": "/ðə ˈtʃɪldrən/",
+        "chinese": "这个/那个/孩子们"
+      },
+      {
+        "text": "are playing",
+        "role": "V",
+        "phonetic": "/ɑːr ˈpleɪɪŋ/",
+        "chinese": "正在打/玩"
+      },
+      {
+        "text": "in the park",
+        "role": "A",
+        "phonetic": "/ɪn ðə pɑːrk/",
+        "chinese": "在公园里"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在等你。",
+    "english": "I am waiting for you",
+    "soundmark": "/aɪ æm ˈweɪtɪŋ fɔːr juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am waiting",
+        "role": "V",
+        "phonetic": "/æm ˈweɪtɪŋ/",
+        "chinese": "是/等"
+      },
+      {
+        "text": "for you",
+        "role": "A",
+        "phonetic": "/fɔːr juː/",
+        "chinese": "为你"
+      }
+    ]
+  },
+  {
+    "chinese": "时间在流逝。",
+    "english": "Time is passing",
+    "soundmark": "/taɪm ɪz ˈpæsɪŋ/",
+    "grammar": [
+      {
+        "text": "Time",
+        "role": "S",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "is passing",
+        "role": "V",
+        "phonetic": "/ɪz ˈpæsɪŋ/",
+        "chinese": "是/通过/传递"
+      }
+    ]
+  },
+  {
+    "chinese": "你妹妹正在睡觉吗？",
+    "english": "Is your sister sleeping",
+    "soundmark": "/ɪz jɔːr ˈsɪstər ˈsliːpɪŋ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your sister",
+        "role": "S",
+        "phonetic": "/jɔːr ˈsɪstər/",
+        "chinese": "你的/你们的/姐妹"
+      },
+      {
+        "text": "sleeping",
+        "role": "V",
+        "phonetic": "/ˈsliːpɪŋ/",
+        "chinese": "睡觉的"
+      }
+    ]
+  },
+  {
+    "chinese": "我现在不能说话，我在开会。",
+    "english": "I can't talk now I am in a meeting",
+    "soundmark": "/aɪ kænt tɔːk naʊ aɪ æm ɪn ə ˈmiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can't talk",
+        "role": "V",
+        "phonetic": "/kænt tɔːk/",
+        "chinese": "不能/谈话"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "I am in a meeting",
+        "role": "A",
+        "phonetic": "/aɪ æm ɪn ə ˈmiːtɪŋ/",
+        "chinese": "我/是/在…里/一个/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "他正在学习驾驶。",
+    "english": "He is learning to drive",
+    "soundmark": "/hiː ɪz ˈlɜːrnɪŋ tuː draɪv/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is learning",
+        "role": "V",
+        "phonetic": "/ɪz ˈlɜːrnɪŋ/",
+        "chinese": "是/学习"
+      },
+      {
+        "text": "to drive",
+        "role": "O",
+        "phonetic": "/tuː draɪv/",
+        "chinese": "到/向/驾驶"
+      }
+    ]
+  },
+  {
+    "chinese": "天气正在变暖。",
+    "english": "The weather is getting warmer",
+    "soundmark": "/ðə ˈweðər ɪz ˈɡetɪŋ ˈwɔːrmər/",
+    "grammar": [
+      {
+        "text": "The weather",
+        "role": "S",
+        "phonetic": "/ðə ˈweðər/",
+        "chinese": "这个/那个/天气"
+      },
+      {
+        "text": "is getting",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡetɪŋ/",
+        "chinese": "是/正在…(得到/变得)"
+      },
+      {
+        "text": "warmer",
+        "role": "C",
+        "phonetic": "/ˈwɔːrmər/",
+        "chinese": "更…的/…者(温暖的)"
+      }
+    ]
+  },
+  {
+    "chinese": "你们在讨论什么？",
+    "english": "What are you talking about",
+    "soundmark": "/wʌt ɑːr juː ˈtɔːkɪŋ əˈbaʊt/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "talking about",
+        "role": "V",
+        "phonetic": "/ˈtɔːkɪŋ əˈbaʊt/",
+        "chinese": "谈话/关于/大约"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在考虑换工作。",
+    "english": "I am thinking about changing jobs",
+    "soundmark": "/aɪ æm ˈθɪŋkɪŋ əˈbaʊt ˈtʃeɪndʒɪŋ dʒɑːbz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am thinking about",
+        "role": "V",
+        "phonetic": "/æm ˈθɪŋkɪŋ əˈbaʊt/",
+        "chinese": "是/想/认为/关于/大约"
+      },
+      {
+        "text": "changing jobs",
+        "role": "O",
+        "phonetic": "/ˈtʃeɪndʒɪŋ dʒɑːbz/",
+        "chinese": "正在…(改变)/…们/复数(工作)"
+      }
+    ]
+  },
+  {
+    "chinese": "他们正在为考试做准备。",
+    "english": "They are preparing for the exam",
+    "soundmark": "/ðeɪ ɑːr prɪˈperɪŋ fɔːr ðə ɪɡˈzæm/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are preparing",
+        "role": "V",
+        "phonetic": "/ɑːr prɪˈperɪŋ/",
+        "chinese": "是/正在…(准备)"
+      },
+      {
+        "text": "for the exam",
+        "role": "A",
+        "phonetic": "/fɔːr ðə ɪɡˈzæm/",
+        "chinese": "为了/对于/这个/那个/考试"
+      }
+    ]
+  },
+  {
+    "chinese": "太阳正在落山。",
+    "english": "The sun is going down",
+    "soundmark": "/ðə sʌn ɪz ˈɡoʊɪŋ daʊn/",
+    "grammar": [
+      {
+        "text": "The sun",
+        "role": "S",
+        "phonetic": "/ðə sʌn/",
+        "chinese": "这个/那个/太阳"
+      },
+      {
+        "text": "is going down",
+        "role": "V",
+        "phonetic": "/ɪz ˈɡoʊɪŋ daʊn/",
+        "chinese": "是/向下"
+      }
+    ]
+  },
+  {
+    "chinese": "你为什么在笑？",
+    "english": "Why are you smiling",
+    "soundmark": "/waɪ ɑːr juː ˈsmaɪlɪŋ/",
+    "grammar": [
+      {
+        "text": "Why",
+        "role": "A",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "smiling",
+        "role": "V",
+        "phonetic": "/ˈsmaɪlɪŋ/",
+        "chinese": "微笑的"
+      }
+    ]
+  },
+  {
+    "chinese": "她正在洗澡。",
+    "english": "She is taking a shower",
+    "soundmark": "/ʃiː ɪz ˈteɪkɪŋ ə ˈʃaʊər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is taking",
+        "role": "V",
+        "phonetic": "/ɪz ˈteɪkɪŋ/",
+        "chinese": "是/正在…(拿/带)"
+      },
+      {
+        "text": "a shower",
+        "role": "O",
+        "phonetic": "/ə ˈʃaʊər/",
+        "chinese": "一个/更…的/…者(展示)"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在回家的路上。",
+    "english": "I am on my way home",
+    "soundmark": "/aɪ æm ɑːn maɪ weɪ hoʊm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "on my way home",
+        "role": "A",
+        "phonetic": "/ɑːn maɪ weɪ hoʊm/",
+        "chinese": "在…上/我的/路/方式/家"
+      }
+    ]
+  },
+  {
+    "chinese": "他正在和老板谈话。",
+    "english": "He is talking to the boss",
+    "soundmark": "/hiː ɪz ˈtɔːkɪŋ tuː ðə bɔːs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is talking",
+        "role": "V",
+        "phonetic": "/ɪz ˈtɔːkɪŋ/",
+        "chinese": "是/谈话"
+      },
+      {
+        "text": "to the boss",
+        "role": "A",
+        "phonetic": "/tuː ðə bɔːs/",
+        "chinese": "到/向/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "有人在敲门。",
+    "english": "Someone is knocking at the door",
+    "soundmark": "/ˈsʌmwʌn ɪz ˈnɑːkɪŋ æt ðə dɔːr/",
+    "grammar": [
+      {
+        "text": "Someone",
+        "role": "S",
+        "phonetic": "/ˈsʌmwʌn/",
+        "chinese": "某人"
+      },
+      {
+        "text": "is knocking",
+        "role": "V",
+        "phonetic": "/ɪz ˈnɑːkɪŋ/",
+        "chinese": "是/敲"
+      },
+      {
+        "text": "at the door",
+        "role": "A",
+        "phonetic": "/æt ðə dɔːr/",
+        "chinese": "在/这个/那个/门"
+      }
+    ]
+  },
+  {
+    "chinese": "情况正在好转。",
+    "english": "Things are getting better",
+    "soundmark": "/θɪŋz ɑːr ˈɡetɪŋ ˈbetər/",
+    "grammar": [
+      {
+        "text": "Things",
+        "role": "S",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      },
+      {
+        "text": "are getting",
+        "role": "V",
+        "phonetic": "/ɑːr ˈɡetɪŋ/",
+        "chinese": "是/正在…(得到/变得)"
+      },
+      {
+        "text": "better",
+        "role": "C",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      }
+    ]
+  },
+  {
+    "chinese": "厨房",
+    "english": "kitchen",
+    "soundmark": "/ˈkɪtʃɪn/"
+  },
+  {
+    "chinese": "淋浴",
+    "english": "shower",
+    "soundmark": "/ˈʃaʊər/"
+  },
+  {
+    "chinese": "老板",
+    "english": "boss",
+    "soundmark": "/bɔːs/"
+  },
+  {
+    "chinese": "微笑",
+    "english": "smile",
+    "soundmark": "/smaɪl/"
+  },
+  {
+    "chinese": "敲门",
+    "english": "knock",
+    "soundmark": "/nɑːk/"
+  },
+  {
+    "chinese": "天气",
+    "english": "weather",
+    "soundmark": "/ˈweðər/"
+  },
+  {
+    "chinese": "驾驶",
+    "english": "drive",
+    "soundmark": "/draɪv/"
+  },
+  {
+    "chinese": "考试",
+    "english": "exam",
+    "soundmark": "/ɪɡˈzæm/"
+  }
+]

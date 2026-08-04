@@ -1,0 +1,433 @@
+[
+  {
+    "chinese": "决心",
+    "english": "resolution",
+    "soundmark": "/ˌrezəˈluːʃən/"
+  },
+  {
+    "chinese": "新年决心",
+    "english": "New Year resolution",
+    "soundmark": "/nuː jɪr ˌrezəˈluːʃən/"
+  },
+  {
+    "chinese": "戒掉",
+    "english": "give up",
+    "soundmark": "/ɡɪv ʌp/"
+  },
+  {
+    "chinese": "培养",
+    "english": "cultivate",
+    "soundmark": "/ˈkʌltɪveɪt/"
+  },
+  {
+    "chinese": "习惯",
+    "english": "habit",
+    "soundmark": "/ˈhæbɪt/"
+  },
+  {
+    "chinese": "健身",
+    "english": "work out",
+    "soundmark": "/wɜːrk aʊt/"
+  },
+  {
+    "chinese": "坚持",
+    "english": "stick to",
+    "soundmark": "/stɪk tuː/"
+  },
+  {
+    "chinese": "失败",
+    "english": "fail",
+    "soundmark": "/feɪl/"
+  },
+  {
+    "chinese": "已经决定",
+    "english": "have decided",
+    "soundmark": "/hæv dɪˈsaɪdɪd/"
+  },
+  {
+    "chinese": "已经戒掉",
+    "english": "have given up",
+    "soundmark": "/hæv ˈɡɪvən ʌp/"
+  },
+  {
+    "chinese": "我已经决定今年要多锻炼。",
+    "english": "I have decided to exercise more this year",
+    "soundmark": "/aɪ hæv dɪˈsaɪdɪd tuː ˈeksərsaɪz mɔːr ðɪs jɪr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "exercise",
+        "role": "V",
+        "phonetic": "/ˈeksərsaɪz/",
+        "chinese": "锻炼"
+      },
+      {
+        "text": "more",
+        "role": "A",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "他到现在为止已经坚持他的决心三个月了。",
+    "english": "He has stuck to his resolution for three months so far",
+    "soundmark": "/hiː hæz stʌk tuː hɪz ˌrezəˈluːʃən fɔːr θriː mʌnθs soʊ fɑːr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "stuck",
+        "role": "V",
+        "phonetic": "/stʌk/",
+        "chinese": "被卡住的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "resolution",
+        "role": "O",
+        "phonetic": "/ˌrezəˈluːʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "months",
+        "role": "A",
+        "phonetic": "/mʌnθs/",
+        "chinese": "月"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "far",
+        "role": "A",
+        "phonetic": "/fɑːr/",
+        "chinese": "远"
+      }
+    ]
+  },
+  {
+    "chinese": "她以前从未成功坚持过任何新年决心。",
+    "english": "She has never succeeded in keeping any New Year resolution before",
+    "soundmark": "/ʃiː hæz ˈnevər səkˈsiːdɪd ɪn ˈkiːpɪŋ ˈeni nuː jɪr ˌrezəˈluːʃən bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "succeeded",
+        "role": "V",
+        "phonetic": "/səkˈsiːdɪd/",
+        "chinese": "成功"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "keeping",
+        "role": "V",
+        "phonetic": "/ˈkiːpɪŋ/",
+        "chinese": "保持/保留"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "New",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "Year",
+        "role": "C",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      },
+      {
+        "text": "resolution",
+        "role": "O",
+        "phonetic": "/ˌrezəˈluːʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "我们已经养成了每天早起的习惯。",
+    "english": "We have already cultivated the habit of getting up early",
+    "soundmark": "/wiː hæv ɔːlˈredi ˈkʌltɪveɪtɪd ðə ˈhæbɪt əv ˈɡetɪŋ ʌp ˈɜːrli/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "cultivated",
+        "role": "V",
+        "phonetic": "/ˈkʌltɪveɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "habit",
+        "role": "O",
+        "phonetic": "/ˈhæbɪt/",
+        "chinese": "习惯"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "getting",
+        "role": "V",
+        "phonetic": "/ˈɡetɪŋ/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      }
+    ]
+  },
+  {
+    "chinese": "许多人立下决心但最终还是失败了。",
+    "english": "Many people have made resolutions but have failed to keep them",
+    "soundmark": "/ˈmeni ˈpiːpəl hæv meɪd ˌrezəˈluːʃənz bʌt hæv feɪld tuː kiːp ðem/",
+    "grammar": [
+      {
+        "text": "Many",
+        "role": "C",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "resolutions",
+        "role": "O",
+        "phonetic": "/ˌrezəˈluːʃənz/",
+        "chinese": ""
+      },
+      {
+        "text": "but",
+        "role": "A",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "failed",
+        "role": "V",
+        "phonetic": "/feɪld/",
+        "chinese": "失败"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "keep",
+        "role": "V",
+        "phonetic": "/kiːp/",
+        "chinese": "保持/保留"
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðem/",
+        "chinese": "他们"
+      }
+    ]
+  },
+  {
+    "chinese": "决心",
+    "english": "resolution",
+    "soundmark": "/ˌrezəˈluːʃən/"
+  },
+  {
+    "chinese": "戒掉",
+    "english": "give up",
+    "soundmark": "/ɡɪv ʌp/"
+  },
+  {
+    "chinese": "培养",
+    "english": "cultivate",
+    "soundmark": "/ˈkʌltɪveɪt/"
+  },
+  {
+    "chinese": "习惯",
+    "english": "habit",
+    "soundmark": "/ˈhæbɪt/"
+  },
+  {
+    "chinese": "坚持",
+    "english": "stick to",
+    "soundmark": "/stɪk tuː/"
+  },
+  {
+    "chinese": "失败",
+    "english": "fail",
+    "soundmark": "/feɪl/"
+  },
+  {
+    "chinese": "成功",
+    "english": "succeed",
+    "soundmark": "/səkˈsiːd/"
+  },
+  {
+    "chinese": "保持",
+    "english": "keep",
+    "soundmark": "/kiːp/"
+  }
+]

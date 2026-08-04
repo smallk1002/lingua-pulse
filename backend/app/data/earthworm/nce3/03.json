@@ -1,0 +1,1473 @@
+[
+  {
+    "chinese": "女神",
+    "english": "goddess",
+    "soundmark": "/ˈɡɑːdəs/"
+  },
+  {
+    "chinese": "考古学家",
+    "english": "archaeologist",
+    "soundmark": "/ˌɑːrkiˈɑːlədʒɪst/"
+  },
+  {
+    "chinese": "寺庙",
+    "english": "temple",
+    "soundmark": "/ˈtempəl/"
+  },
+  {
+    "chinese": "挖掘",
+    "english": "excavate",
+    "soundmark": "/ˈekskəveɪt/"
+  },
+  {
+    "chinese": "雕像",
+    "english": "statue",
+    "soundmark": "/ˈstætʃuː/"
+  },
+  {
+    "chinese": "古代",
+    "english": "ancient",
+    "soundmark": "/ˈeɪnʃənt/"
+  },
+  {
+    "chinese": "发现",
+    "english": "discover",
+    "soundmark": "/dɪˈskʌvər/"
+  },
+  {
+    "chinese": "大理石",
+    "english": "marble",
+    "soundmark": "/ˈmɑːrbəl/"
+  },
+  {
+    "chinese": "碎片",
+    "english": "fragment",
+    "soundmark": "/ˈfræɡmənt/"
+  },
+  {
+    "chinese": "身份",
+    "english": "identity",
+    "soundmark": "/aɪˈdentəti/"
+  },
+  {
+    "chinese": "古希腊的",
+    "english": "Greek",
+    "soundmark": "/ɡriːk/"
+  },
+  {
+    "chinese": "考古挖掘",
+    "english": "archaeological dig",
+    "soundmark": "/ˌɑːrkiəˈlɑːdʒɪkəl/ /dɪɡ/"
+  },
+  {
+    "chinese": "无名女神",
+    "english": "unknown goddess",
+    "soundmark": "/ʌnˈnoʊn/ /ˈɡɑːdəs/"
+  },
+  {
+    "chinese": "一座大理石头像",
+    "english": "a marble head",
+    "soundmark": "/ə/ /ˈmɑːrbəl/ /hed/"
+  },
+  {
+    "chinese": "古代寺庙",
+    "english": "ancient temple",
+    "soundmark": "/ˈeɪnʃənt/ /ˈtempəl/"
+  },
+  {
+    "chinese": "被发现",
+    "english": "was discovered",
+    "soundmark": "/wʌz/ /dɪˈskʌvərd/"
+  },
+  {
+    "chinese": "追溯到",
+    "english": "dated back to",
+    "soundmark": "/ˈdeɪtɪd/ /bæk/ /tuː/"
+  },
+  {
+    "chinese": "考古学家发现了一座古代寺庙的遗迹",
+    "english": "The archaeologists found the remains of an ancient temple",
+    "soundmark": "/ði/ /ˌɑːrkiˈɑːlədʒɪsts/ /faʊnd/ /ðə/ /rɪˈmeɪnz/ /ʌv/ /ən/ /ˈeɪnʃənt/ /ˈtempəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "archaeologists",
+        "role": "S",
+        "phonetic": "/ˌɑːrkiˈɑːlədʒɪsts/",
+        "chinese": "考古学家"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "remains",
+        "role": "O",
+        "phonetic": "/rɪˈmeɪnz/",
+        "chinese": "保持"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "ancient",
+        "role": "A",
+        "phonetic": "/ˈeɪnʃənt/",
+        "chinese": "古代的"
+      },
+      {
+        "text": "temple",
+        "role": "O",
+        "phonetic": "/ˈtempəl/",
+        "chinese": "寺庙"
+      }
+    ]
+  },
+  {
+    "chinese": "这座雕像此前已被埋藏了数百年",
+    "english": "The statue had been buried for hundreds of years",
+    "soundmark": "/ðə/ /ˈstætʃuː/ /hæd/ /bɪn/ /ˈberid/ /fɔːr/ /ˈhʌndrədz/ /ʌv/ /jɪrz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "statue",
+        "role": "S",
+        "phonetic": "/ˈstætʃuː/",
+        "chinese": "雕像"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "buried",
+        "role": "V",
+        "phonetic": "/ˈberid/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hundreds",
+        "role": "A",
+        "phonetic": "/ˈhʌndrədz/",
+        "chinese": "百"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "他们挖掘出了一尊无头女神雕像",
+    "english": "They excavated a headless statue of a goddess",
+    "soundmark": "/ðeɪ/ /ˈekskəveɪtɪd/ /ə/ /ˈhedləs/ /ˈstætʃuː/ /ʌv/ /ə/ /ˈɡɑːdəs/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "excavated",
+        "role": "V",
+        "phonetic": "/ˈekskəveɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "headless",
+        "role": "A",
+        "phonetic": "/ˈhedləs/",
+        "chinese": ""
+      },
+      {
+        "text": "statue",
+        "role": "O",
+        "phonetic": "/ˈstætʃuː/",
+        "chinese": "雕像"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "goddess",
+        "role": "O",
+        "phonetic": "/ˈɡɑːdəs/",
+        "chinese": "女神"
+      }
+    ]
+  },
+  {
+    "chinese": "这个地点在考古学家到达之前就已被盗挖过了",
+    "english": "The site had been robbed before the archaeologists arrived",
+    "soundmark": "/ðə/ /saɪt/ /hæd/ /bɪn/ /rɑːbd/ /bɪˈfɔːr/ /ði/ /ˌɑːrkiˈɑːlədʒɪsts/ /əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "site",
+        "role": "S",
+        "phonetic": "/saɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "robbed",
+        "role": "V",
+        "phonetic": "/rɑːbd/",
+        "chinese": "抢劫"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "archaeologists",
+        "role": "S",
+        "phonetic": "/ˌɑːrkiˈɑːlədʒɪsts/",
+        "chinese": "考古学家"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "他们还没有找到雕像的头部",
+    "english": "They had not yet found the head of the statue",
+    "soundmark": "/ðeɪ/ /hæd/ /nɑːt/ /jet/ /faʊnd/ /ðə/ /hed/ /ʌv/ /ðə/ /ˈstætʃuː/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "yet",
+        "role": "Adv",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "head",
+        "role": "O",
+        "phonetic": "/hed/",
+        "chinese": "头"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "statue",
+        "role": "O",
+        "phonetic": "/ˈstætʃuː/",
+        "chinese": "雕像"
+      }
+    ]
+  },
+  {
+    "chinese": "考古学家不知道这位女神是谁",
+    "english": "The archaeologists did not know who the goddess was",
+    "soundmark": "/ði/ /ˌɑːrkiˈɑːlədʒɪsts/ /dɪd/ /nɑːt/ /noʊ/ /huː/ /ðə/ /ˈɡɑːdəs/ /wʌz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "archaeologists",
+        "role": "S",
+        "phonetic": "/ˌɑːrkiˈɑːlədʒɪsts/",
+        "chinese": "考古学家"
+      },
+      {
+        "text": "did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "goddess",
+        "role": "S",
+        "phonetic": "/ˈɡɑːdəs/",
+        "chinese": "女神"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "你们发现什么重要的东西了吗",
+    "english": "Have you discovered anything important",
+    "soundmark": "/hæv/ /juː/ /dɪˈskʌvərd/ /ˈeniθɪŋ/ /ɪmˈpɔːrtənt/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      },
+      {
+        "text": "important",
+        "role": "A",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      }
+    ]
+  },
+  {
+    "chinese": "这座寺庙是多久以前建造的",
+    "english": "How long ago was the temple built",
+    "soundmark": "/haʊ/ /lɔːŋ/ /əˈɡoʊ/ /wʌz/ /ðə/ /ˈtempəl/ /bɪlt/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "long",
+        "role": "Adv",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "ago",
+        "role": "Adv",
+        "phonetic": "/əˈɡoʊ/",
+        "chinese": "以前"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "temple",
+        "role": "S",
+        "phonetic": "/ˈtempəl/",
+        "chinese": "寺庙"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      }
+    ]
+  },
+  {
+    "chinese": "在她被确认之前人们已经讨论了她的身份很多年了",
+    "english": "Her identity had been discussed for years before she was identified",
+    "soundmark": "/hɜːr/ /aɪˈdentəti/ /hæd/ /bɪn/ /dɪˈskʌst/ /fɔːr/ /jɪrz/ /bɪˈfɔːr/ /ʃiː/ /wʌz/ /aɪˈdentɪfaɪd/",
+    "grammar": [
+      {
+        "text": "Her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "identity",
+        "role": "S",
+        "phonetic": "/aɪˈdentəti/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "discussed",
+        "role": "V",
+        "phonetic": "/dɪˈskʌst/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "identified",
+        "role": "V",
+        "phonetic": "/aɪˈdentɪfaɪd/",
+        "chinese": "被确认的"
+      }
+    ]
+  },
+  {
+    "chinese": "那个大理石头像已经碎裂成几块了",
+    "english": "The marble head had been broken into several pieces",
+    "soundmark": "/ðə/ /ˈmɑːrbəl/ /hed/ /hæd/ /bɪn/ /ˈbroʊkən/ /ˈɪntuː/ /ˈsevrəl/ /ˈpiːsɪz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "marble",
+        "role": "A",
+        "phonetic": "/ˈmɑːrbəl/",
+        "chinese": ""
+      },
+      {
+        "text": "head",
+        "role": "S",
+        "phonetic": "/hed/",
+        "chinese": "头"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "broken",
+        "role": "V",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "several",
+        "role": "Det",
+        "phonetic": "/ˈsevrəl/",
+        "chinese": "几个"
+      },
+      {
+        "text": "pieces",
+        "role": "O",
+        "phonetic": "/ˈpiːsɪz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "专家认为这座雕像可追溯到公元前五世纪",
+    "english": "Experts believe the statue dates back to the fifth century BC",
+    "soundmark": "/ˈekspɜːrts/ /bɪˈliːv/ /ðə/ /ˈstætʃuː/ /deɪts/ /bæk/ /tuː/ /ðə/ /fɪfθ/ /ˈsentʃəri/ /ˌbiːˈsiː/",
+    "grammar": [
+      {
+        "text": "Experts",
+        "role": "S",
+        "phonetic": "/ˈekspɜːrts/",
+        "chinese": "专家们"
+      },
+      {
+        "text": "believe",
+        "role": "V",
+        "phonetic": "/bɪˈliːv/",
+        "chinese": "相信"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "statue",
+        "role": "S",
+        "phonetic": "/ˈstætʃuː/",
+        "chinese": "雕像"
+      },
+      {
+        "text": "dates",
+        "role": "V",
+        "phonetic": "/deɪts/",
+        "chinese": ""
+      },
+      {
+        "text": "back",
+        "role": "Adv",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fifth",
+        "role": "A",
+        "phonetic": "/fɪfθ/",
+        "chinese": ""
+      },
+      {
+        "text": "century",
+        "role": "A",
+        "phonetic": "/ˈsentʃəri/",
+        "chinese": "世纪"
+      },
+      {
+        "text": "BC",
+        "role": "A",
+        "phonetic": "/ˌbiːˈsiː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "考古学家在到达时发现大部分宝藏已不见了",
+    "english": "When the archaeologists arrived they found most of the treasure had disappeared",
+    "soundmark": "/wen/ /ði/ /ˌɑːrkiˈɑːlədʒɪsts/ /əˈraɪvd/ /ðeɪ/ /faʊnd/ /moʊst/ /ʌv/ /ðə/ /ˈtreʒər/ /hæd/ /ˌdɪsəˈpɪrd/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "archaeologists",
+        "role": "S",
+        "phonetic": "/ˌɑːrkiˈɑːlədʒɪsts/",
+        "chinese": "考古学家"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "most",
+        "role": "Det",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "treasure",
+        "role": "O",
+        "phonetic": "/ˈtreʒər/",
+        "chinese": "宝藏"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "disappeared",
+        "role": "V",
+        "phonetic": "/ˌdɪsəˈpɪrd/",
+        "chinese": "消失"
+      }
+    ]
+  },
+  {
+    "chinese": "发掘者们在发现躯干之前已经找到了手臂",
+    "english": "The excavators had found the arms before they discovered the body",
+    "soundmark": "/ði/ /ˈekskəveɪtərz/ /hæd/ /faʊnd/ /ði/ /ɑːrmz/ /bɪˈfɔːr/ /ðeɪ/ /dɪˈskʌvərd/ /ðə/ /ˈbɑːdi/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "excavators",
+        "role": "S",
+        "phonetic": "/ˈekskəveɪtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "arms",
+        "role": "O",
+        "phonetic": "/ɑːrmz/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "body",
+        "role": "O",
+        "phonetic": "/ˈbɑːdi/",
+        "chinese": "身体"
+      }
+    ]
+  },
+  {
+    "chinese": "当雕像被完全复原时它高达十五英尺",
+    "english": "When the statue was fully restored it stood fifteen feet high",
+    "soundmark": "/wen/ /ðə/ /ˈstætʃuː/ /wʌz/ /ˈfʊli/ /rɪˈstɔːrd/ /ɪt/ /stʊd/ /ˌfɪfˈtiːn/ /fiːt/ /haɪ/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "statue",
+        "role": "S",
+        "phonetic": "/ˈstætʃuː/",
+        "chinese": "雕像"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "fully",
+        "role": "Adv",
+        "phonetic": "/ˈfʊli/",
+        "chinese": "完全地"
+      },
+      {
+        "text": "restored",
+        "role": "V",
+        "phonetic": "/rɪˈstɔːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "stood",
+        "role": "V",
+        "phonetic": "/stʊd/",
+        "chinese": "站（过去式）"
+      },
+      {
+        "text": "fifteen",
+        "role": "A",
+        "phonetic": "/ˌfɪfˈtiːn/",
+        "chinese": "十五"
+      },
+      {
+        "text": "feet",
+        "role": "A",
+        "phonetic": "/fiːt/",
+        "chinese": "脚（复数）"
+      },
+      {
+        "text": "high",
+        "role": "C",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然该遗址已被洗劫过但仍然出土了重要的文物",
+    "english": "Although the site had been looted important relics were still found",
+    "soundmark": "/ɔːlˈðoʊ/ /ðə/ /saɪt/ /hæd/ /bɪn/ /ˈluːtɪd/ /ɪmˈpɔːrtənt/ /ˈrelɪks/ /wɜːr/ /stɪl/ /faʊnd/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "site",
+        "role": "S",
+        "phonetic": "/saɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "looted",
+        "role": "V",
+        "phonetic": "/ˈluːtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "important",
+        "role": "A",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "relics",
+        "role": "S",
+        "phonetic": "/ˈrelɪks/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      }
+    ]
+  },
+  {
+    "chinese": "她被认为是掌管丰收的女神",
+    "english": "She was believed to be the goddess of harvest",
+    "soundmark": "/ʃiː/ /wʌz/ /bɪˈliːvd/ /tuː/ /biː/ /ðə/ /ˈɡɑːdəs/ /ʌv/ /ˈhɑːrvɪst/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "believed",
+        "role": "V",
+        "phonetic": "/bɪˈliːvd/",
+        "chinese": "相信"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "goddess",
+        "role": "C",
+        "phonetic": "/ˈɡɑːdəs/",
+        "chinese": "女神"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "harvest",
+        "role": "O",
+        "phonetic": "/ˈhɑːrvɪst/",
+        "chinese": "收割"
+      }
+    ]
+  },
+  {
+    "chinese": "考古团队花了数年时间才拼合所有碎片",
+    "english": "It took the team years to piece all the fragments together",
+    "soundmark": "/ɪt/ /tʊk/ /ðə/ /tiːm/ /jɪrz/ /tuː/ /piːs/ /ɔːl/ /ðə/ /ˈfræɡmənts/ /təˈɡeðər/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "team",
+        "role": "O",
+        "phonetic": "/tiːm/",
+        "chinese": "团队"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "piece",
+        "role": "V",
+        "phonetic": "/piːs/",
+        "chinese": ""
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fragments",
+        "role": "O",
+        "phonetic": "/ˈfræɡmənts/",
+        "chinese": ""
+      },
+      {
+        "text": "together",
+        "role": "Adv",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      }
+    ]
+  },
+  {
+    "chinese": "他们还没有确定这尊雕像代表谁",
+    "english": "They have not determined who the statue represents",
+    "soundmark": "/ðeɪ/ /hæv/ /nɑːt/ /dɪˈtɜːrmɪnd/ /huː/ /ðə/ /ˈstætʃuː/ /ˌreprɪˈzents/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "determined",
+        "role": "V",
+        "phonetic": "/dɪˈtɜːrmɪnd/",
+        "chinese": ""
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "statue",
+        "role": "S",
+        "phonetic": "/ˈstætʃuː/",
+        "chinese": "雕像"
+      },
+      {
+        "text": "represents",
+        "role": "V",
+        "phonetic": "/ˌreprɪˈzents/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这座古城一定在火山爆发前就已繁荣昌盛",
+    "english": "The ancient city must have flourished before the volcano erupted",
+    "soundmark": "/ði/ /ˈeɪnʃənt/ /ˈsɪti/ /mʌst/ /hæv/ /ˈflɜːrɪʃt/ /bɪˈfɔːr/ /ðə/ /vɑːlˈkeɪnoʊ/ /ɪˈrʌptɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ancient",
+        "role": "A",
+        "phonetic": "/ˈeɪnʃənt/",
+        "chinese": "古代的"
+      },
+      {
+        "text": "city",
+        "role": "S",
+        "phonetic": "/ˈsɪti/",
+        "chinese": "城市"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "flourished",
+        "role": "V",
+        "phonetic": "/ˈflɜːrɪʃt/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "volcano",
+        "role": "S",
+        "phonetic": "/vɑːlˈkeɪnoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "erupted",
+        "role": "V",
+        "phonetic": "/ɪˈrʌptɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "挖掘",
+    "english": "excavation",
+    "soundmark": "/ˌekskəˈveɪʃən/"
+  },
+  {
+    "chinese": "宝藏",
+    "english": "treasure",
+    "soundmark": "/ˈtreʒər/"
+  },
+  {
+    "chinese": "遗物",
+    "english": "relic",
+    "soundmark": "/ˈrelɪk/"
+  },
+  {
+    "chinese": "洗劫",
+    "english": "loot",
+    "soundmark": "/luːt/"
+  },
+  {
+    "chinese": "碎片",
+    "english": "piec",
+    "soundmark": "/piːs/"
+  },
+  {
+    "chinese": "复原",
+    "english": "restore",
+    "soundmark": "/rɪˈstɔːr/"
+  },
+  {
+    "chinese": "代表",
+    "english": "represent",
+    "soundmark": "/ˌreprɪˈzent/"
+  },
+  {
+    "chinese": "确定",
+    "english": "determine",
+    "soundmark": "/dɪˈtɜːrmɪn/"
+  },
+  {
+    "chinese": "繁荣",
+    "english": "flourish",
+    "soundmark": "/ˈflɜːrɪʃ/"
+  },
+  {
+    "chinese": "考古学家最终确认女神是赫拉",
+    "english": "The archaeologists finally identified the goddess as Hera",
+    "soundmark": "/ði/ /ˌɑːrkiˈɑːlədʒɪsts/ /ˈfaɪnəli/ /aɪˈdentɪfaɪd/ /ðə/ /ˈɡɑːdəs/ /æz/ /ˈhɪrə/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "archaeologists",
+        "role": "S",
+        "phonetic": "/ˌɑːrkiˈɑːlədʒɪsts/",
+        "chinese": "考古学家"
+      },
+      {
+        "text": "finally",
+        "role": "Adv",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "identified",
+        "role": "V",
+        "phonetic": "/aɪˈdentɪfaɪd/",
+        "chinese": "被确认的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "goddess",
+        "role": "O",
+        "phonetic": "/ˈɡɑːdəs/",
+        "chinese": "女神"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "Hera",
+        "role": "C",
+        "phonetic": "/ˈhɪrə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "没人知道这尊雕像已在地下埋藏了多久",
+    "english": "Nobody knew how long the statue had lain beneath the earth",
+    "soundmark": "/ˈnoʊbədi/ /nuː/ /haʊ/ /lɔːŋ/ /ðə/ /ˈstætʃuː/ /hæd/ /leɪn/ /bɪˈniːθ/ /ði/ /ɜːrθ/",
+    "grammar": [
+      {
+        "text": "Nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "knew",
+        "role": "V",
+        "phonetic": "/nuː/",
+        "chinese": "知道（过去式）"
+      },
+      {
+        "text": "how",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "long",
+        "role": "Adv",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "statue",
+        "role": "S",
+        "phonetic": "/ˈstætʃuː/",
+        "chinese": "雕像"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "lain",
+        "role": "V",
+        "phonetic": "/leɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "beneath",
+        "role": "P",
+        "phonetic": "/bɪˈniːθ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "earth",
+        "role": "A",
+        "phonetic": "/ɜːrθ/",
+        "chinese": "地球/泥土"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1078 @@
+[
+  {
+    "chinese": "时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "chinese": "点钟",
+    "english": "o'clock",
+    "soundmark": "/əˈklɑːk/"
+  },
+  {
+    "chinese": "早上",
+    "english": "morning",
+    "soundmark": "/ˈmɔːrnɪŋ/"
+  },
+  {
+    "chinese": "下午",
+    "english": "afternoon",
+    "soundmark": "/ˌæftərˈnuːn/"
+  },
+  {
+    "chinese": "晚上",
+    "english": "evening",
+    "soundmark": "/ˈiːvnɪŋ/"
+  },
+  {
+    "chinese": "夜晚",
+    "english": "night",
+    "soundmark": "/naɪt/"
+  },
+  {
+    "chinese": "小时",
+    "english": "hour",
+    "soundmark": "/aʊər/"
+  },
+  {
+    "chinese": "分钟",
+    "english": "minute",
+    "soundmark": "/ˈmɪnɪt/"
+  },
+  {
+    "chinese": "一半",
+    "english": "half",
+    "soundmark": "/hæf/"
+  },
+  {
+    "chinese": "一刻钟",
+    "english": "quarter",
+    "soundmark": "/ˈkwɔːrtər/"
+  },
+  {
+    "chinese": "早的",
+    "english": "early",
+    "soundmark": "/ˈɜːrli/"
+  },
+  {
+    "chinese": "晚的",
+    "english": "late",
+    "soundmark": "/leɪt/"
+  },
+  {
+    "chinese": "现在",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "chinese": "然后",
+    "english": "then",
+    "soundmark": "/ðen/"
+  },
+  {
+    "chinese": "什么时候",
+    "english": "when",
+    "soundmark": "/wen/"
+  },
+  {
+    "chinese": "通常",
+    "english": "usually",
+    "soundmark": "/ˈjuːʒuəli/"
+  },
+  {
+    "chinese": "总是",
+    "english": "always",
+    "soundmark": "/ˈɔːlweɪz/"
+  },
+  {
+    "chinese": "从不",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  },
+  {
+    "chinese": "有时",
+    "english": "sometimes",
+    "soundmark": "/ˈsʌmtaɪmz/"
+  },
+  {
+    "chinese": "经常",
+    "english": "often",
+    "soundmark": "/ˈɔːfən/"
+  },
+  {
+    "chinese": "几点了",
+    "english": "What time is it",
+    "soundmark": "/wʌt/ /taɪm/ /ɪz/ /ɪt/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "time",
+        "role": "S",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "C",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "现在三点钟",
+    "english": "It is three o'clock",
+    "soundmark": "/ɪt/ /ɪz/ /θriː/ /əˈklɑːk/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "o'clock",
+        "role": "C",
+        "phonetic": "/əˈklɑːk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我早上六点起床",
+    "english": "I get up at six in the morning",
+    "soundmark": "/aɪ/ /ɡet/ /ʌp/ /æt/ /sɪks/ /ɪn/ /ðə/ /ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "six",
+        "role": "A",
+        "phonetic": "/sɪks/",
+        "chinese": "六"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "现在几点了现在七点半",
+    "english": "What time is it now It is seven thirty",
+    "soundmark": "/wʌt/ /taɪm/ /ɪz/ /ɪt/ /naʊ/ /ɪt/ /ɪz/ /ˈsevən/ /ˈθɜːrti/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "time",
+        "role": "S",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "C",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "seven",
+        "role": "Det",
+        "phonetic": "/ˈsevən/",
+        "chinese": "七"
+      },
+      {
+        "text": "thirty",
+        "role": "C",
+        "phonetic": "/ˈθɜːrti/",
+        "chinese": "三十"
+      }
+    ]
+  },
+  {
+    "chinese": "我通常晚上十点睡觉",
+    "english": "I usually go to bed at ten at night",
+    "soundmark": "/aɪ/ /ˈjuːʒuəli/ /ɡoʊ/ /tuː/ /bed/ /æt/ /ten/ /æt/ /naɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "usually",
+        "role": "Adv",
+        "phonetic": "/ˈjuːʒuəli/",
+        "chinese": "通常"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "bed",
+        "role": "A",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "ten",
+        "role": "A",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "你什么时候回家",
+    "english": "When do you go home",
+    "soundmark": "/wen/ /duː/ /juː/ /ɡoʊ/ /hoʊm/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "已经五点了",
+    "english": "It is already five o'clock",
+    "soundmark": "/ɪt/ /ɪz/ /ɔːlˈredi/ /faɪv/ /əˈklɑːk/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "o'clock",
+        "role": "C",
+        "phonetic": "/əˈklɑːk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我从不迟到",
+    "english": "I am never late",
+    "soundmark": "/aɪ/ /æm/ /ˈnevər/ /leɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "Lv",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他有时下午来",
+    "english": "He sometimes comes in the afternoon",
+    "soundmark": "/hiː/ /ˈsʌmtaɪmz/ /kʌmz/ /ɪn/ /ðə/ /ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "sometimes",
+        "role": "Adv",
+        "phonetic": "/ˈsʌmtaɪmz/",
+        "chinese": "有时"
+      },
+      {
+        "text": "comes",
+        "role": "V",
+        "phonetic": "/kʌmz/",
+        "chinese": "来"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "afternoon",
+        "role": "A",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      }
+    ]
+  },
+  {
+    "chinese": "我们经常晚上看电视",
+    "english": "We often watch TV in the evening",
+    "soundmark": "/wiː/ /ˈɔːfən/ /wɑːtʃ/ /ˌtiːˈviː/ /ɪn/ /ðə/ /ˈiːvnɪŋ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "watch",
+        "role": "V",
+        "phonetic": "/wɑːtʃ/",
+        "chinese": "观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "evening",
+        "role": "A",
+        "phonetic": "/ˈiːvnɪŋ/",
+        "chinese": "晚上"
+      }
+    ]
+  },
+  {
+    "chinese": "现在几点差一刻四点",
+    "english": "What time is it It is a quarter to four",
+    "soundmark": "/wʌt/ /taɪm/ /ɪz/ /ɪt/ /ɪt/ /ɪz/ /ə/ /ˈkwɔːrtər/ /tuː/ /fɔːr/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "time",
+        "role": "S",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "it",
+        "role": "C",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "quarter",
+        "role": "C",
+        "phonetic": "/ˈkwɔːrtər/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "four",
+        "role": "A",
+        "phonetic": "/fɔːr/",
+        "chinese": "四"
+      }
+    ]
+  },
+  {
+    "chinese": "起床",
+    "english": "get up",
+    "soundmark": "/ɡet/ /ʌp/"
+  },
+  {
+    "chinese": "回家",
+    "english": "go home",
+    "soundmark": "/ɡoʊ/ /hoʊm/"
+  },
+  {
+    "chinese": "睡觉",
+    "english": "go to bed",
+    "soundmark": "/ɡoʊ/ /tuː/ /bed/"
+  },
+  {
+    "chinese": "已经",
+    "english": "already",
+    "soundmark": "/ɔːlˈredi/"
+  },
+  {
+    "chinese": "电视",
+    "english": "TV",
+    "soundmark": "/ˌtiːˈviː/"
+  },
+  {
+    "chinese": "在",
+    "english": "at",
+    "soundmark": "/æt/"
+  },
+  {
+    "chinese": "他早上起得很早",
+    "english": "He wakes up early in the morning",
+    "soundmark": "/hiː/ /weɪks/ /ʌp/ /ˈɜːrli/ /ɪn/ /ðə/ /ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "wakes",
+        "role": "V",
+        "phonetic": "/weɪks/",
+        "chinese": "醒来"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "你晚上很晚才睡觉吗",
+    "english": "Do you go to bed late at night",
+    "soundmark": "/duː/ /juː/ /ɡoʊ/ /tuː/ /bed/ /leɪt/ /æt/ /naɪt/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "bed",
+        "role": "A",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      },
+      {
+        "text": "late",
+        "role": "A",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "现在是九点半",
+    "english": "It is half past nine",
+    "soundmark": "/ɪt/ /ɪz/ /hæf/ /pæst/ /naɪn/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "half",
+        "role": "Det",
+        "phonetic": "/hæf/",
+        "chinese": "一半"
+      },
+      {
+        "text": "past",
+        "role": "P",
+        "phonetic": "/pæst/",
+        "chinese": "过去"
+      },
+      {
+        "text": "nine",
+        "role": "A",
+        "phonetic": "/naɪn/",
+        "chinese": "九"
+      }
+    ]
+  },
+  {
+    "chinese": "她有时候晚上看电视",
+    "english": "She sometimes watches TV at night",
+    "soundmark": "/ʃiː/ /ˈsʌmtaɪmz/ /ˈwɑːtʃɪz/ /ˌtiːˈviː/ /æt/ /naɪt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "sometimes",
+        "role": "Adv",
+        "phonetic": "/ˈsʌmtaɪmz/",
+        "chinese": "有时"
+      },
+      {
+        "text": "watches",
+        "role": "V",
+        "phonetic": "/ˈwɑːtʃɪz/",
+        "chinese": "观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "电影什么时候开始",
+    "english": "What time does the movie start",
+    "soundmark": "/wʌt/ /taɪm/ /dʌz/ /ðə/ /ˈmuːvi/ /stɑːrt/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "movie",
+        "role": "S",
+        "phonetic": "/ˈmuːvi/",
+        "chinese": "电影"
+      },
+      {
+        "text": "start",
+        "role": "V",
+        "phonetic": "/stɑːrt/",
+        "chinese": "开始"
+      }
+    ]
+  },
+  {
+    "chinese": "我总是在七点吃早餐",
+    "english": "I always eat breakfast at seven",
+    "soundmark": "/aɪ/ /ˈɔːlweɪz/ /iːt/ /ˈbrekfəst/ /æt/ /ˈsevən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "seven",
+        "role": "A",
+        "phonetic": "/ˈsevən/",
+        "chinese": "七"
+      }
+    ]
+  },
+  {
+    "chinese": "他们从不迟到",
+    "english": "They never arrive late",
+    "soundmark": "/ðeɪ/ /ˈnevər/ /əˈraɪv/ /leɪt/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "arrive",
+        "role": "V",
+        "phonetic": "/əˈraɪv/",
+        "chinese": "到达"
+      },
+      {
+        "text": "late",
+        "role": "A",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我们经常下午开会",
+    "english": "We often have meetings in the afternoon",
+    "soundmark": "/wiː/ /ˈɔːfən/ /hæv/ /ˈmiːtɪŋz/ /ɪn/ /ðə/ /ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "meetings",
+        "role": "O",
+        "phonetic": "/ˈmiːtɪŋz/",
+        "chinese": "会议的/会议"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "afternoon",
+        "role": "A",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      }
+    ]
+  },
+  {
+    "chinese": "你能等五分钟吗",
+    "english": "Can you wait for five minutes",
+    "soundmark": "/kæn/ /juː/ /weɪt/ /fɔːr/ /faɪv/ /ˈmɪnɪts/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "wait",
+        "role": "V",
+        "phonetic": "/weɪt/",
+        "chinese": "等"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "minutes",
+        "role": "O",
+        "phonetic": "/ˈmɪnɪts/",
+        "chinese": "分钟"
+      }
+    ]
+  },
+  {
+    "chinese": "等待",
+    "english": "wait",
+    "soundmark": "/weɪt/"
+  },
+  {
+    "chinese": "开始",
+    "english": "start",
+    "soundmark": "/stɑːrt/"
+  },
+  {
+    "chinese": "到达",
+    "english": "arrive",
+    "soundmark": "/əˈraɪv/"
+  },
+  {
+    "chinese": "会议",
+    "english": "meeting",
+    "soundmark": "/ˈmiːtɪŋ/"
+  },
+  {
+    "chinese": "手表",
+    "english": "watch",
+    "soundmark": "/wɑːtʃ/"
+  },
+  {
+    "chinese": "中午",
+    "english": "noon",
+    "soundmark": "/nuːn/"
+  },
+  {
+    "chinese": "什么时候",
+    "english": "when",
+    "soundmark": "/wen/"
+  },
+  {
+    "chinese": "通常",
+    "english": "usually",
+    "soundmark": "/ˈjuːʒuəli/"
+  },
+  {
+    "chinese": "总是",
+    "english": "always",
+    "soundmark": "/ˈɔːlweɪz/"
+  },
+  {
+    "chinese": "从不",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  }
+]

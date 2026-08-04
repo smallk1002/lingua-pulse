@@ -1,0 +1,320 @@
+[
+  {
+    "chinese": "望远镜",
+    "english": "telescope",
+    "soundmark": "/ˈtelɪskəʊp/"
+  },
+  {
+    "chinese": "天文学的",
+    "english": "astronomical",
+    "soundmark": "/ˌæstrəˈnɒmɪkl/"
+  },
+  {
+    "chinese": "天体",
+    "english": "celestial",
+    "soundmark": "/səˈlestiəl/"
+  },
+  {
+    "chinese": "观察，观测",
+    "english": "observe",
+    "soundmark": "/əbˈzɜːv/"
+  },
+  {
+    "chinese": "银河",
+    "english": "Milky Way",
+    "soundmark": "/ˈmɪlki weɪ/"
+  },
+  {
+    "chinese": "木星",
+    "english": "Jupiter",
+    "soundmark": "/ˈdʒuːpɪtər/"
+  },
+  {
+    "chinese": "卫星",
+    "english": "satellite",
+    "soundmark": "/ˈsætəlaɪt/"
+  },
+  {
+    "chinese": "革命性的",
+    "english": "revolutionary",
+    "soundmark": "/ˌrevəˈluːʃənəri/"
+  },
+  {
+    "chinese": "推断",
+    "english": "deduce",
+    "soundmark": "/dɪˈdjuːs/"
+  },
+  {
+    "chinese": "地球中心的",
+    "english": "geocentric",
+    "soundmark": "/ˌdʒiːəʊˈsentrɪk/"
+  },
+  {
+    "chinese": "日心说的",
+    "english": "heliocentric",
+    "soundmark": "/ˌhiːliəʊˈsentrɪk/"
+  },
+  {
+    "chinese": "异端",
+    "english": "heresy",
+    "soundmark": "/ˈherəsi/"
+  },
+  {
+    "chinese": "伽利略用自制的望远镜观测到了木星的卫星。",
+    "english": "Galileo observed the moons of Jupiter with a telescope of his own making.",
+    "soundmark": "/gælɪˈleɪəʊ əbˈzɜːvd ðə muːnz ɒv ˈdʒuːpɪtər wɪð ə ˈtelɪskəʊp ɒv hɪz əʊn ˈmeɪkɪŋ/",
+    "grammar": [
+      {
+        "text": "Galileo",
+        "role": "S",
+        "phonetic": "/gælɪˈleɪəʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "observed",
+        "role": "V",
+        "phonetic": "/əbˈzɜːvd/",
+        "chinese": "观察"
+      },
+      {
+        "text": "the moons of Jupiter",
+        "role": "O",
+        "phonetic": "/ðə muːnz ɒv ˈdʒuːpɪtər/",
+        "chinese": "这个/那个/…们/复数(月亮)/…的"
+      },
+      {
+        "text": "with a telescope",
+        "role": "P",
+        "phonetic": "/wɪð ə ˈtelɪskəʊp/",
+        "chinese": "和/用/一个"
+      },
+      {
+        "text": "of his own making",
+        "role": "P",
+        "phonetic": "/ɒv hɪz əʊn ˈmeɪkɪŋ/",
+        "chinese": "…的/他的/自己的/正在…(做/让)"
+      }
+    ]
+  },
+  {
+    "chinese": "这一发现为哥白尼的日心说提供了有力证据。",
+    "english": "This discovery provided powerful evidence for the Copernican heliocentric theory.",
+    "soundmark": "/ðɪs dɪˈskʌvəri prəˈvaɪdɪd ˈpaʊəfl ˈevɪdəns fɔː ðə kəʊˈpɜːnɪkən ˌhiːliəʊˈsentrɪk ˈθɪəri/",
+    "grammar": [
+      {
+        "text": "This discovery",
+        "role": "S",
+        "phonetic": "/ðɪs dɪˈskʌvəri/",
+        "chinese": "这个/发现"
+      },
+      {
+        "text": "provided",
+        "role": "V",
+        "phonetic": "/prəˈvaɪdɪd/",
+        "chinese": "提供"
+      },
+      {
+        "text": "powerful evidence",
+        "role": "O",
+        "phonetic": "/ˈpaʊəfl ˈevɪdəns/",
+        "chinese": "证据"
+      },
+      {
+        "text": "for the Copernican heliocentric theory",
+        "role": "P",
+        "phonetic": "/fɔː ðə kəʊˈpɜːnɪkən ˌhiːliəʊˈsentrɪk ˈθɪəri/",
+        "chinese": "为了/对于/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "教会因为他的异端观点而审判了他。",
+    "english": "The Church put him on trial for his heretical views.",
+    "soundmark": "/ðə tʃɜːtʃ pʊt hɪm ɒn ˈtraɪəl fɔː hɪz ˈheretɪkl vjuːz/",
+    "grammar": [
+      {
+        "text": "The Church",
+        "role": "S",
+        "phonetic": "/ðə tʃɜːtʃ/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "on trial",
+        "role": "P",
+        "phonetic": "/ɒn ˈtraɪəl/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "for his heretical views",
+        "role": "P",
+        "phonetic": "/fɔː hɪz ˈheretɪkl vjuːz/",
+        "chinese": "为了/对于/他的"
+      }
+    ]
+  },
+  {
+    "chinese": "尽管受到压迫，他仍然坚持地球围绕太阳运转。",
+    "english": "Despite the persecution, he maintained that the Earth revolves around the Sun.",
+    "soundmark": "/dɪˈspaɪt ðə ˌpɜːsɪˈkjuːʃn hiː meɪnˈteɪnd ðæt ði ɜːθ rɪˈvɒlvz əˈraʊnd ðə sʌn/",
+    "grammar": [
+      {
+        "text": "Despite the persecution",
+        "role": "Adv",
+        "phonetic": "/dɪˈspaɪt ðə ˌpɜːsɪˈkjuːʃn/",
+        "chinese": "尽管/这个/那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "maintained",
+        "role": "V",
+        "phonetic": "/meɪnˈteɪnd/",
+        "chinese": ""
+      },
+      {
+        "text": "that the Earth revolves around the Sun",
+        "role": "C",
+        "phonetic": "/ðæt ði ɜːθ rɪˈvɒlvz əˈraʊnd ðə sʌn/",
+        "chinese": "那个/这个/那个/地球/泥土/围绕/大约/这个/那个/太阳"
+      }
+    ]
+  },
+  {
+    "chinese": "望远镜彻底改变了人类对宇宙的理解。",
+    "english": "The telescope fundamentally changed humanity's understanding of the universe.",
+    "soundmark": "/ðə ˈtelɪskəʊp ˌfʌndəˈmentəli tʃeɪndʒd hjuːˈmænɪtiz ˌʌndəˈstændɪŋ ɒv ðə ˈjuːnɪvɜːs/",
+    "grammar": [
+      {
+        "text": "The telescope",
+        "role": "S",
+        "phonetic": "/ðə ˈtelɪskəʊp/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fundamentally changed",
+        "role": "V",
+        "phonetic": "/ˌfʌndəˈmentəli tʃeɪndʒd/",
+        "chinese": "改变"
+      },
+      {
+        "text": "humanity's understanding",
+        "role": "O",
+        "phonetic": "/hjuːˈmænɪtiz ˌʌndəˈstændɪŋ/",
+        "chinese": "理解"
+      },
+      {
+        "text": "of the universe",
+        "role": "P",
+        "phonetic": "/ɒv ðə ˈjuːnɪvɜːs/",
+        "chinese": "…的/这个/那个/宇宙"
+      }
+    ]
+  },
+  {
+    "chinese": "他的观测推翻了延续数个世纪的地心说。",
+    "english": "His observations overturned the geocentric model that had persisted for centuries.",
+    "soundmark": "/hɪz ˌɒbzəˈveɪʃnz ˌəʊvəˈtɜːn ðə ˌdʒiːəʊˈsentrɪk ˈmɒdl ðæt hæd pəˈsɪstɪd fɔː ˈsentʃəriz/",
+    "grammar": [
+      {
+        "text": "His observations",
+        "role": "S",
+        "phonetic": "/hɪz ˌɒbzəˈveɪʃnz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "overturned",
+        "role": "V",
+        "phonetic": "/ˌəʊvəˈtɜːn/",
+        "chinese": ""
+      },
+      {
+        "text": "the geocentric model",
+        "role": "O",
+        "phonetic": "/ðə ˌdʒiːəʊˈsentrɪk ˈmɒdl/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "that had persisted for centuries",
+        "role": "C",
+        "phonetic": "/ðæt hæd pəˈsɪstɪd fɔː ˈsentʃəriz/",
+        "chinese": "那个/有/助动词（过去式）/为了/对于/世纪"
+      }
+    ]
+  },
+  {
+    "chinese": "这一发现的重要性怎么估计都不为过。",
+    "english": "The significance of this discovery cannot be overestimated.",
+    "soundmark": "/ðə sɪgˈnɪfɪkəns ɒv ðɪs dɪˈskʌvəri ˈkænɒt bi ˌəʊvərˈestɪmeɪtɪd/",
+    "grammar": [
+      {
+        "text": "The significance",
+        "role": "S",
+        "phonetic": "/ðə sɪgˈnɪfɪkəns/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "of this discovery",
+        "role": "P",
+        "phonetic": "/ɒv ðɪs dɪˈskʌvəri/",
+        "chinese": "…的/这个/发现"
+      },
+      {
+        "text": "cannot be overestimated",
+        "role": "V",
+        "phonetic": "/ˈkænɒt bi ˌəʊvərˈestɪmeɪtɪd/",
+        "chinese": "不能/是"
+      }
+    ]
+  },
+  {
+    "chinese": " lens",
+    "english": "lens",
+    "soundmark": "/lenz/"
+  },
+  {
+    "chinese": "折射",
+    "english": "refraction",
+    "soundmark": "/rɪˈfrækʃn/"
+  },
+  {
+    "chinese": "轨道",
+    "english": "orbit",
+    "soundmark": "/ˈɔːbɪt/"
+  },
+  {
+    "chinese": "宇宙",
+    "english": "universe",
+    "soundmark": "/ˈjuːnɪvɜːs/"
+  },
+  {
+    "chinese": "迫害",
+    "english": "persecution",
+    "soundmark": "/ˌpɜːsɪˈkjuːʃn/"
+  },
+  {
+    "chinese": "模型",
+    "english": "model",
+    "soundmark": "/ˈmɒdl/"
+  },
+  {
+    "chinese": "放大的",
+    "english": "magnified",
+    "soundmark": "/ˈmægnɪfaɪd/"
+  }
+]

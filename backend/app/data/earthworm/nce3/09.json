@@ -1,0 +1,618 @@
+[
+  {
+    "chinese": "猫",
+    "english": "cat",
+    "soundmark": "/kæt/"
+  },
+  {
+    "chinese": "飞机",
+    "english": "aircraft",
+    "soundmark": "/ˈerkræft/"
+  },
+  {
+    "chinese": "飞行",
+    "english": "fly",
+    "soundmark": "/flaɪ/"
+  },
+  {
+    "chinese": "高楼",
+    "english": "high-rise",
+    "soundmark": "/haɪ/ /raɪz/"
+  },
+  {
+    "chinese": "屋顶",
+    "english": "rooftop",
+    "soundmark": "/ˈruːftɑːp/"
+  },
+  {
+    "chinese": "好奇",
+    "english": "curiosity",
+    "soundmark": "/ˌkjʊriˈɑːsəti/"
+  },
+  {
+    "chinese": "本能",
+    "english": "instinct",
+    "soundmark": "/ˈɪnstɪŋkt/"
+  },
+  {
+    "chinese": "着陆",
+    "english": "land",
+    "soundmark": "/lænd/"
+  },
+  {
+    "chinese": "平衡",
+    "english": "balance",
+    "soundmark": "/ˈbæləns/"
+  },
+  {
+    "chinese": "飞猫",
+    "english": "flying cat",
+    "soundmark": "/ˈflaɪɪŋ/ /kæt/"
+  },
+  {
+    "chinese": "高层建筑",
+    "english": "tall building",
+    "soundmark": "/tɔːl/ /ˈbɪldɪŋ/"
+  },
+  {
+    "chinese": "生存本能",
+    "english": "survival instinct",
+    "soundmark": "/sərˈvaɪvəl/ /ˈɪnstɪŋkt/"
+  },
+  {
+    "chinese": "失去平衡",
+    "english": "lose balance",
+    "soundmark": "/luːz/ /ˈbæləns/"
+  },
+  {
+    "chinese": "从高处坠落",
+    "english": "fall from a height",
+    "soundmark": "/fɔːl/ /frʌm/ /ə/ /haɪt/"
+  },
+  {
+    "chinese": "一只猫从三十楼掉了下来",
+    "english": "A cat fell from the thirtieth floor",
+    "soundmark": "/ə/ /kæt/ /fel/ /frʌm/ /ðə/ /ˈθɜːrtiəθ/ /flɔːr/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "fell",
+        "role": "V",
+        "phonetic": "/fel/",
+        "chinese": "落下（过去式）"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thirtieth",
+        "role": "A",
+        "phonetic": "/ˈθɜːrtiəθ/",
+        "chinese": ""
+      },
+      {
+        "text": "floor",
+        "role": "A",
+        "phonetic": "/flɔːr/",
+        "chinese": "地板/楼层"
+      }
+    ]
+  },
+  {
+    "chinese": "猫能平安着陆",
+    "english": "Cats can land safely",
+    "soundmark": "/kæts/ /kæn/ /lænd/ /ˈseɪfli/",
+    "grammar": [
+      {
+        "text": "Cats",
+        "role": "S",
+        "phonetic": "/kæts/",
+        "chinese": "猫"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "land",
+        "role": "V",
+        "phonetic": "/lænd/",
+        "chinese": "着陆/土地"
+      },
+      {
+        "text": "safely",
+        "role": "Adv",
+        "phonetic": "/ˈseɪfli/",
+        "chinese": "…地(安全的)"
+      }
+    ]
+  },
+  {
+    "chinese": "猫有惊人的生存本能",
+    "english": "Cats have an amazing survival instinct",
+    "soundmark": "/kæts/ /hæv/ /ən/ /əˈmeɪzɪŋ/ /sərˈvaɪvəl/ /ˈɪnstɪŋkt/",
+    "grammar": [
+      {
+        "text": "Cats",
+        "role": "S",
+        "phonetic": "/kæts/",
+        "chinese": "猫"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "amazing",
+        "role": "A",
+        "phonetic": "/əˈmeɪzɪŋ/",
+        "chinese": "令人惊奇的"
+      },
+      {
+        "text": "survival",
+        "role": "A",
+        "phonetic": "/sərˈvaɪvəl/",
+        "chinese": ""
+      },
+      {
+        "text": "instinct",
+        "role": "O",
+        "phonetic": "/ˈɪnstɪŋkt/",
+        "chinese": "本能"
+      }
+    ]
+  },
+  {
+    "chinese": "它们能伸展身体以减缓下降速度",
+    "english": "They can stretch their bodies to slow the fall",
+    "soundmark": "/ðeɪ/ /kæn/ /stretʃ/ /ðer/ /ˈbɑːdiz/ /tuː/ /sloʊ/ /ðə/ /fɔːl/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "stretch",
+        "role": "V",
+        "phonetic": "/stretʃ/",
+        "chinese": ""
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "bodies",
+        "role": "O",
+        "phonetic": "/ˈbɑːdiz/",
+        "chinese": "身体"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "slow",
+        "role": "V",
+        "phonetic": "/sloʊ/",
+        "chinese": "慢的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fall",
+        "role": "O",
+        "phonetic": "/fɔːl/",
+        "chinese": "下降"
+      }
+    ]
+  },
+  {
+    "chinese": "猫不能像鸟一样飞",
+    "english": "Cats cannot fly like birds",
+    "soundmark": "/kæts/ /ˈkænɑːt/ /flaɪ/ /laɪk/ /bɜːrdz/",
+    "grammar": [
+      {
+        "text": "Cats",
+        "role": "S",
+        "phonetic": "/kæts/",
+        "chinese": "猫"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "fly",
+        "role": "V",
+        "phonetic": "/flaɪ/",
+        "chinese": "飞"
+      },
+      {
+        "text": "like",
+        "role": "P",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "birds",
+        "role": "O",
+        "phonetic": "/bɜːrdz/",
+        "chinese": "鸟"
+      }
+    ]
+  },
+  {
+    "chinese": "猫能活过如此高的坠落吗",
+    "english": "Can a cat survive such a high fall",
+    "soundmark": "/kæn/ /ə/ /kæt/ /sərˈvaɪv/ /sʌtʃ/ /ə/ /haɪ/ /fɔːl/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "survive",
+        "role": "V",
+        "phonetic": "/sərˈvaɪv/",
+        "chinese": "幸存"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "high",
+        "role": "A",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      },
+      {
+        "text": "fall",
+        "role": "O",
+        "phonetic": "/fɔːl/",
+        "chinese": "下降"
+      }
+    ]
+  },
+  {
+    "chinese": "猫伸开腿形成类似降落伞的效果",
+    "english": "Cats stretch out their legs to create a parachute effect",
+    "soundmark": "/kæts/ /stretʃ/ /aʊt/ /ðer/ /leɡz/ /tuː/ /kriˈeɪt/ /ə/ /ˈpærəʃuːt/ /ɪˈfekt/",
+    "grammar": [
+      {
+        "text": "Cats",
+        "role": "S",
+        "phonetic": "/kæts/",
+        "chinese": "猫"
+      },
+      {
+        "text": "stretch",
+        "role": "V",
+        "phonetic": "/stretʃ/",
+        "chinese": ""
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "legs",
+        "role": "O",
+        "phonetic": "/leɡz/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "create",
+        "role": "V",
+        "phonetic": "/kriˈeɪt/",
+        "chinese": "创造"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "parachute",
+        "role": "A",
+        "phonetic": "/ˈpærəʃuːt/",
+        "chinese": ""
+      },
+      {
+        "text": "effect",
+        "role": "O",
+        "phonetic": "/ɪˈfekt/",
+        "chinese": "效果"
+      }
+    ]
+  },
+  {
+    "chinese": "这解释了为何猫经常能从极高处坠落而存活下来",
+    "english": "This explains why cats often survive falls from great heights",
+    "soundmark": "/ðɪs/ /ɪkˈspleɪnz/ /waɪ/ /kæts/ /ˈɔːfən/ /sərˈvaɪv/ /fɔːlz/ /frʌm/ /ɡreɪt/ /haɪts/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "explains",
+        "role": "V",
+        "phonetic": "/ɪkˈspleɪnz/",
+        "chinese": "解释"
+      },
+      {
+        "text": "why",
+        "role": "Adv",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "cats",
+        "role": "S",
+        "phonetic": "/kæts/",
+        "chinese": "猫"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "survive",
+        "role": "V",
+        "phonetic": "/sərˈvaɪv/",
+        "chinese": "幸存"
+      },
+      {
+        "text": "falls",
+        "role": "O",
+        "phonetic": "/fɔːlz/",
+        "chinese": "下降"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "great",
+        "role": "A",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "heights",
+        "role": "A",
+        "phonetic": "/haɪts/",
+        "chinese": "…们/复数(高度)"
+      }
+    ]
+  },
+  {
+    "chinese": "本能",
+    "english": "instinct",
+    "soundmark": "/ˈɪnstɪŋkt/"
+  },
+  {
+    "chinese": "伸展",
+    "english": "stretch",
+    "soundmark": "/stretʃ/"
+  },
+  {
+    "chinese": "降落伞",
+    "english": "parachute",
+    "soundmark": "/ˈpærəʃuːt/"
+  },
+  {
+    "chinese": "效果",
+    "english": "effect",
+    "soundmark": "/ɪˈfekt/"
+  },
+  {
+    "chinese": "存活",
+    "english": "survive",
+    "soundmark": "/sərˈvaɪv/"
+  },
+  {
+    "chinese": "坠落",
+    "english": "fall",
+    "soundmark": "/fɔːl/"
+  },
+  {
+    "chinese": "高度",
+    "english": "height",
+    "soundmark": "/haɪt/"
+  },
+  {
+    "chinese": "惊人的",
+    "english": "amazing",
+    "soundmark": "/əˈmeɪzɪŋ/"
+  },
+  {
+    "chinese": "平衡感",
+    "english": "sense of balance",
+    "soundmark": "/sens/ /ʌv/ /ˈbæləns/"
+  },
+  {
+    "chinese": "据说猫的右脚先着地以减少伤害",
+    "english": "It is said that cats land on their right feet first to reduce injury",
+    "soundmark": "/ɪt/ /ɪz/ /sed/ /ðæt/ /kæts/ /lænd/ /ɑːn/ /ðer/ /raɪt/ /fiːt/ /fɜːrst/ /tuː/ /rɪˈduːs/ /ˈɪndʒəri/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "cats",
+        "role": "S",
+        "phonetic": "/kæts/",
+        "chinese": "猫"
+      },
+      {
+        "text": "land",
+        "role": "V",
+        "phonetic": "/lænd/",
+        "chinese": "着陆/土地"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "right",
+        "role": "A",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "feet",
+        "role": "O",
+        "phonetic": "/fiːt/",
+        "chinese": "脚（复数）"
+      },
+      {
+        "text": "first",
+        "role": "Adv",
+        "phonetic": "/fɜːrst/",
+        "chinese": "第一"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "reduce",
+        "role": "V",
+        "phonetic": "/rɪˈduːs/",
+        "chinese": "减少"
+      },
+      {
+        "text": "injury",
+        "role": "O",
+        "phonetic": "/ˈɪndʒəri/",
+        "chinese": ""
+      }
+    ]
+  }
+]

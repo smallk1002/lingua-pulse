@@ -1,0 +1,972 @@
+[
+  {
+    "chinese": "昨天",
+    "english": "yesterday",
+    "soundmark": "/ˈjestərdeɪ/"
+  },
+  {
+    "chinese": "前天",
+    "english": "the day before yesterday",
+    "soundmark": "/ðə/ /deɪ/ /bɪˈfɔːr/ /ˈjestərdeɪ/"
+  },
+  {
+    "chinese": "上周",
+    "english": "last week",
+    "soundmark": "/læst/ /wiːk/"
+  },
+  {
+    "chinese": "去年",
+    "english": "last year",
+    "soundmark": "/læst/ /jɪr/"
+  },
+  {
+    "chinese": "昨晚",
+    "english": "last night",
+    "soundmark": "/læst/ /naɪt/"
+  },
+  {
+    "chinese": "之前",
+    "english": "ago",
+    "soundmark": "/əˈɡoʊ/"
+  },
+  {
+    "chinese": "在(过去)",
+    "english": "was",
+    "soundmark": "/wʌz/"
+  },
+  {
+    "chinese": "在(过去复数)",
+    "english": "were",
+    "soundmark": "/wɜːr/"
+  },
+  {
+    "chinese": "出生",
+    "english": "born",
+    "soundmark": "/bɔːrn/"
+  },
+  {
+    "chinese": "在",
+    "english": "at",
+    "soundmark": "/æt/"
+  },
+  {
+    "chinese": "迟到",
+    "english": "late",
+    "soundmark": "/leɪt/"
+  },
+  {
+    "chinese": "生病",
+    "english": "ill",
+    "soundmark": "/ɪl/"
+  },
+  {
+    "chinese": "累的",
+    "english": "tired",
+    "soundmark": "/taɪrd/"
+  },
+  {
+    "chinese": "忙碌的",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "空闲的",
+    "english": "free",
+    "soundmark": "/friː/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "无聊的",
+    "english": "boring",
+    "soundmark": "/ˈbɔːrɪŋ/"
+  },
+  {
+    "chinese": "兴奋的",
+    "english": "excited",
+    "soundmark": "/ɪkˈsaɪtɪd/"
+  },
+  {
+    "chinese": "三天前",
+    "english": "three days ago",
+    "soundmark": "/θriː/ /deɪz/ /əˈɡoʊ/"
+  },
+  {
+    "chinese": "很久以前",
+    "english": "a long time ago",
+    "soundmark": "/ə/ /lɔːŋ/ /taɪm/ /əˈɡoʊ/"
+  },
+  {
+    "chinese": "我昨天在家",
+    "english": "I was at home yesterday",
+    "soundmark": "/aɪ/ /wʌz/ /æt/ /hoʊm/ /ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "home",
+        "role": "O",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "她上周生病了",
+    "english": "She was ill last week",
+    "soundmark": "/ʃiː/ /wʌz/ /ɪl/ /læst/ /wiːk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "ill",
+        "role": "C",
+        "phonetic": "/ɪl/",
+        "chinese": "生病的"
+      },
+      {
+        "text": "last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "他们去年在伦敦",
+    "english": "They were in London last year",
+    "soundmark": "/ðeɪ/ /wɜːr/ /ɪn/ /ˈlʌndən/ /læst/ /jɪr/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "London",
+        "role": "O",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      },
+      {
+        "text": "last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "电影很有趣",
+    "english": "The film was very interesting",
+    "soundmark": "/ðə/ /fɪlm/ /wʌz/ /ˈveri/ /ˈɪntrəstɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "film",
+        "role": "S",
+        "phonetic": "/fɪlm/",
+        "chinese": "电影"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      }
+    ]
+  },
+  {
+    "chinese": "我们昨晚在聚会上",
+    "english": "We were at the party last night",
+    "soundmark": "/wiː/ /wɜːr/ /æt/ /ðə/ /ˈpɑːrti/ /læst/ /naɪt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "party",
+        "role": "O",
+        "phonetic": "/ˈpɑːrti/",
+        "chinese": "派对"
+      },
+      {
+        "text": "last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "昨天天气好吗",
+    "english": "Was the weather nice yesterday",
+    "soundmark": "/wʌz/ /ðə/ /ˈweðər/ /naɪs/ /ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "weather",
+        "role": "S",
+        "phonetic": "/ˈweðər/",
+        "chinese": "天气"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他们昨晚在吗",
+    "english": "Were they in last night",
+    "soundmark": "/wɜːr/ /ðeɪ/ /ɪn/ /læst/ /naɪt/",
+    "grammar": [
+      {
+        "text": "Were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "in",
+        "role": "A",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "你昨天在学校吗",
+    "english": "Were you at school yesterday",
+    "soundmark": "/wɜːr/ /juː/ /æt/ /skuːl/ /ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "school",
+        "role": "O",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "他昨天不在办公室",
+    "english": "He was not at the office yesterday",
+    "soundmark": "/hiː/ /wʌz/ /nɑːt/ /æt/ /ðə/ /ˈɑːfɪs/ /ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "office",
+        "role": "O",
+        "phonetic": "/ˈɑːfɪs/",
+        "chinese": "办公室"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "我上周不在伦敦",
+    "english": "I was not in London last week",
+    "soundmark": "/aɪ/ /wʌz/ /nɑːt/ /ɪn/ /ˈlʌndən/ /læst/ /wiːk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "London",
+        "role": "O",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      },
+      {
+        "text": "last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "电影不无聊",
+    "english": "The film was not boring",
+    "soundmark": "/ðə/ /fɪlm/ /wʌz/ /nɑːt/ /ˈbɔːrɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "film",
+        "role": "S",
+        "phonetic": "/fɪlm/",
+        "chinese": "电影"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "boring",
+        "role": "C",
+        "phonetic": "/ˈbɔːrɪŋ/",
+        "chinese": "令人无聊的"
+      }
+    ]
+  },
+  {
+    "chinese": "我出生于1990年",
+    "english": "I was born in 1990",
+    "soundmark": "/aɪ/ /wʌz/ /bɔːrn/ /ɪn/ /ˌnaɪnˈtiːn/ /ˈnaɪnti/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "born",
+        "role": "V",
+        "phonetic": "/bɔːrn/",
+        "chinese": "出生的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "1990",
+        "role": "O",
+        "phonetic": "/ˌnaɪnˈtiːn/ /ˈnaɪnti/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "昨天我很累因为我工作了一整天",
+    "english": "I was very tired yesterday because I worked all day",
+    "soundmark": "/aɪ/ /wʌz/ /ˈveri/ /taɪrd/ /ˈjestərdeɪ/ /bɪˈkɔːz/ /aɪ/ /wɜːrkt/ /ɔːl/ /deɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "tired",
+        "role": "C",
+        "phonetic": "/taɪrd/",
+        "chinese": "累的"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "worked",
+        "role": "V",
+        "phonetic": "/wɜːrkt/",
+        "chinese": "工作"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "他不在家但他在办公室",
+    "english": "He was not at home but he was at the office",
+    "soundmark": "/hiː/ /wʌz/ /nɑːt/ /æt/ /hoʊm/ /bʌt/ /hiː/ /wʌz/ /æt/ /ðə/ /ˈɑːfɪs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "home",
+        "role": "O",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "office",
+        "role": "O",
+        "phonetic": "/ˈɑːfɪs/",
+        "chinese": "办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "累了",
+    "english": "tired",
+    "soundmark": "/taɪrd/"
+  },
+  {
+    "chinese": "忙碌的",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "空闲的",
+    "english": "free",
+    "soundmark": "/friː/"
+  },
+  {
+    "chinese": "出生",
+    "english": "born",
+    "soundmark": "/bɔːrn/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "无聊的",
+    "english": "boring",
+    "soundmark": "/ˈbɔːrɪŋ/"
+  },
+  {
+    "chinese": "兴奋的",
+    "english": "excited",
+    "soundmark": "/ɪkˈsaɪtɪd/"
+  },
+  {
+    "chinese": "之前",
+    "english": "ago",
+    "soundmark": "/əˈɡoʊ/"
+  },
+  {
+    "chinese": "两个月前",
+    "english": "two months ago",
+    "soundmark": "/tuː/ /mʌnθs/ /əˈɡoʊ/"
+  },
+  {
+    "chinese": "上周五",
+    "english": "last Friday",
+    "soundmark": "/læst/ /ˈfraɪdeɪ/"
+  },
+  {
+    "chinese": "我两年前在巴黎",
+    "english": "I was in Paris two years ago",
+    "soundmark": "/aɪ/ /wʌz/ /ɪn/ /ˈpærɪs/ /tuː/ /jɪrz/ /əˈɡoʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Paris",
+        "role": "O",
+        "phonetic": "/ˈpærɪs/",
+        "chinese": "巴黎"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "years",
+        "role": "O",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "ago",
+        "role": "A",
+        "phonetic": "/əˈɡoʊ/",
+        "chinese": "以前"
+      }
+    ]
+  },
+  {
+    "chinese": "她上个月很忙",
+    "english": "She was very busy last month",
+    "soundmark": "/ʃiː/ /wʌz/ /ˈveri/ /ˈbɪzi/ /læst/ /mʌnθ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "busy",
+        "role": "C",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      },
+      {
+        "text": "last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "month",
+        "role": "A",
+        "phonetic": "/mʌnθ/",
+        "chinese": "月"
+      }
+    ]
+  },
+  {
+    "chinese": "昨天是星期一吗",
+    "english": "Was yesterday Monday",
+    "soundmark": "/wʌz/ /ˈjestərdeɪ/ /ˈmʌndeɪ/",
+    "grammar": [
+      {
+        "text": "Was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "yesterday",
+        "role": "S",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      },
+      {
+        "text": "Monday",
+        "role": "C",
+        "phonetic": "/ˈmʌndeɪ/",
+        "chinese": "星期一"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天很开心因为我通过了考试",
+    "english": "I was very happy yesterday because I passed the exam",
+    "soundmark": "/aɪ/ /wʌz/ /ˈveri/ /ˈhæpi/ /ˈjestərdeɪ/ /bɪˈkɔːz/ /aɪ/ /pæst/ /ðə/ /ɪɡˈzæm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "happy",
+        "role": "C",
+        "phonetic": "/ˈhæpi/",
+        "chinese": "快乐的"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pæst/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "exam",
+        "role": "O",
+        "phonetic": "/ɪɡˈzæm/",
+        "chinese": "考试"
+      }
+    ]
+  },
+  {
+    "chinese": "通过",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "考试",
+    "english": "exam",
+    "soundmark": "/ɪɡˈzæm/"
+  }
+]

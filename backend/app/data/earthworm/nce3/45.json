@@ -1,0 +1,384 @@
+[
+  {
+    "chinese": "新闻界",
+    "english": "the press",
+    "soundmark": "/ðə pres/"
+  },
+  {
+    "chinese": "影响力",
+    "english": "influence",
+    "soundmark": "/ˈɪnfluəns/"
+  },
+  {
+    "chinese": "报道",
+    "english": "report",
+    "soundmark": "/rɪˈpɔːrt/"
+  },
+  {
+    "chinese": "记者",
+    "english": "journalist",
+    "soundmark": "/ˈdʒɜːrnəlɪst/"
+  },
+  {
+    "chinese": "头条",
+    "english": "headline",
+    "soundmark": "/ˈhedlaɪn/"
+  },
+  {
+    "chinese": "出版",
+    "english": "publish",
+    "soundmark": "/ˈpʌblɪʃ/"
+  },
+  {
+    "chinese": "舆论",
+    "english": "public opinion",
+    "soundmark": "/ˈpʌblɪk əˈpɪnjən/"
+  },
+  {
+    "chinese": "轰动",
+    "english": "sensation",
+    "soundmark": "/senˈseɪʃən/"
+  },
+  {
+    "chinese": "如此...以至于",
+    "english": "so...that",
+    "soundmark": "/soʊ ðæt/"
+  },
+  {
+    "chinese": "结果",
+    "english": "as a result",
+    "soundmark": "/æz ə rɪˈzʌlt/"
+  },
+  {
+    "chinese": "这个故事太轰动了以至于上了全国头条。",
+    "english": "The story was so sensational that it hit the national headlines",
+    "soundmark": "/ðə ˈstɔːri wʌz soʊ senˈseɪʃənəl ðæt ɪt hɪt ðə ˈnæʃənəl ˈhedlaɪnz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "story",
+        "role": "S",
+        "phonetic": "/ˈstɔːri/",
+        "chinese": "故事"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "sensational",
+        "role": "C",
+        "phonetic": "/senˈseɪʃənəl/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "hit",
+        "role": "V",
+        "phonetic": "/hɪt/",
+        "chinese": "打/击中"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "national",
+        "role": "C",
+        "phonetic": "/ˈnæʃənəl/",
+        "chinese": "国家的"
+      },
+      {
+        "text": "headlines",
+        "role": "O",
+        "phonetic": "/ˈhedlaɪnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "记者们写了如此之多以至于出版了特刊。",
+    "english": "The journalists wrote so much that a special edition was published",
+    "soundmark": "/ðə ˈdʒɜːrnəlɪsts roʊt soʊ mʌtʃ ðæt ə ˈspeʃəl ɪˈdɪʃən wʌz ˈpʌblɪʃt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "journalists",
+        "role": "S",
+        "phonetic": "/ˈdʒɜːrnəlɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "wrote",
+        "role": "V",
+        "phonetic": "/roʊt/",
+        "chinese": "写（过去式）"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "much",
+        "role": "O",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "special",
+        "role": "C",
+        "phonetic": "/ˈspeʃəl/",
+        "chinese": "特别的"
+      },
+      {
+        "text": "edition",
+        "role": "S",
+        "phonetic": "/ɪˈdɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "published",
+        "role": "V",
+        "phonetic": "/ˈpʌblɪʃt/",
+        "chinese": "已出版的"
+      }
+    ]
+  },
+  {
+    "chinese": "新闻界有如此大的影响力以至于它能改变舆论。",
+    "english": "The press has such great influence that it can change public opinion",
+    "soundmark": "/ðə pres hæz sʌtʃ ɡreɪt ˈɪnfluəns ðæt ɪt kæn tʃeɪndʒ ˈpʌblɪk əˈpɪnjən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "press",
+        "role": "S",
+        "phonetic": "/pres/",
+        "chinese": "按/压"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "such",
+        "role": "Adv",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "great",
+        "role": "C",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "influence",
+        "role": "O",
+        "phonetic": "/ˈɪnfluəns/",
+        "chinese": "影响"
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "change",
+        "role": "V",
+        "phonetic": "/tʃeɪndʒ/",
+        "chinese": "改变"
+      },
+      {
+        "text": "public",
+        "role": "C",
+        "phonetic": "/ˈpʌblɪk/",
+        "chinese": "公共的"
+      },
+      {
+        "text": "opinion",
+        "role": "O",
+        "phonetic": "/əˈpɪnjən/",
+        "chinese": "观点"
+      }
+    ]
+  },
+  {
+    "chinese": "这篇文章如此有说服力结果成千上万人签名请愿。",
+    "english": "The article was so persuasive that thousands signed the petition",
+    "soundmark": "/ði ˈɑːrtɪkəl wʌz soʊ pərˈsweɪsɪv ðæt ˈθaʊzəndz saɪnd ðə pəˈtɪʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "article",
+        "role": "S",
+        "phonetic": "/ˈɑːrtɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "persuasive",
+        "role": "C",
+        "phonetic": "/pərˈsweɪsɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "thousands",
+        "role": "S",
+        "phonetic": "/ˈθaʊzəndz/",
+        "chinese": "千"
+      },
+      {
+        "text": "signed",
+        "role": "V",
+        "phonetic": "/saɪnd/",
+        "chinese": "签名"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "petition",
+        "role": "O",
+        "phonetic": "/pəˈtɪʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "新闻界",
+    "english": "the press",
+    "soundmark": "/ðə pres/"
+  },
+  {
+    "chinese": "影响力",
+    "english": "influence",
+    "soundmark": "/ˈɪnfluəns/"
+  },
+  {
+    "chinese": "记者",
+    "english": "journalist",
+    "soundmark": "/ˈdʒɜːrnəlɪst/"
+  },
+  {
+    "chinese": "头条",
+    "english": "headline",
+    "soundmark": "/ˈhedlaɪn/"
+  },
+  {
+    "chinese": "出版",
+    "english": "publish",
+    "soundmark": "/ˈpʌblɪʃ/"
+  },
+  {
+    "chinese": "舆论",
+    "english": "public opinion",
+    "soundmark": "/ˈpʌblɪk əˈpɪnjən/"
+  },
+  {
+    "chinese": "轰动",
+    "english": "sensation",
+    "soundmark": "/senˈseɪʃən/"
+  },
+  {
+    "chinese": "说服力的",
+    "english": "persuasive",
+    "soundmark": "/pərˈsweɪsɪv/"
+  }
+]

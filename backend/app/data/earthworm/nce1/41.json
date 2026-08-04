@@ -1,0 +1,1040 @@
+[
+  {
+    "chinese": "一些",
+    "english": "some",
+    "soundmark": "/sʌm/"
+  },
+  {
+    "chinese": "任何",
+    "english": "any",
+    "soundmark": "/ˈeni/"
+  },
+  {
+    "chinese": "许多",
+    "english": "much",
+    "soundmark": "/mʌtʃ/"
+  },
+  {
+    "chinese": "许多",
+    "english": "many",
+    "soundmark": "/ˈmeni/"
+  },
+  {
+    "chinese": "一点",
+    "english": "a little",
+    "soundmark": "/ə ˈlɪtl/"
+  },
+  {
+    "chinese": "几个",
+    "english": "a few",
+    "soundmark": "/ə fjuː/"
+  },
+  {
+    "chinese": "很多",
+    "english": "a lot of",
+    "soundmark": "/ə lɑːt ʌv/"
+  },
+  {
+    "chinese": "没有",
+    "english": "no",
+    "soundmark": "/noʊ/"
+  },
+  {
+    "chinese": "足够",
+    "english": "enough",
+    "soundmark": "/ɪˈnʌf/"
+  },
+  {
+    "chinese": "水",
+    "english": "water",
+    "soundmark": "/ˈwɔːtər/"
+  },
+  {
+    "chinese": "面包",
+    "english": "bread",
+    "soundmark": "/bred/"
+  },
+  {
+    "chinese": "牛奶",
+    "english": "milk",
+    "soundmark": "/mɪlk/"
+  },
+  {
+    "chinese": "米饭",
+    "english": "rice",
+    "soundmark": "/raɪs/"
+  },
+  {
+    "chinese": "钱",
+    "english": "money",
+    "soundmark": "/ˈmʌni/"
+  },
+  {
+    "chinese": "时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "chinese": "苹果",
+    "english": "apple",
+    "soundmark": "/ˈæpl/"
+  },
+  {
+    "chinese": "书",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "一些水",
+    "english": "some water",
+    "soundmark": "/sʌm ˈwɔːtər/"
+  },
+  {
+    "chinese": "很多面包",
+    "english": "a lot of bread",
+    "soundmark": "/ə lɑːt ʌv bred/"
+  },
+  {
+    "chinese": "几本书",
+    "english": "a few books",
+    "soundmark": "/ə fjuː bʊks/"
+  },
+  {
+    "chinese": "我有一些苹果",
+    "english": "I have some apples",
+    "soundmark": "/aɪ hæv sʌm ˈæplz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "some apples",
+        "role": "O",
+        "phonetic": "/sʌm ˈæplz/",
+        "chinese": "一些苹果"
+      }
+    ]
+  },
+  {
+    "chinese": "你有牛奶吗",
+    "english": "Do you have any milk",
+    "soundmark": "/duː juː hæv ˈeni mɪlk/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "any milk",
+        "role": "O",
+        "phonetic": "/ˈeni mɪlk/",
+        "chinese": "任何牛奶"
+      }
+    ]
+  },
+  {
+    "chinese": "我没有钱",
+    "english": "I do not have any money",
+    "soundmark": "/aɪ duː nɑːt hæv ˈeni ˈmʌni/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "any money",
+        "role": "O",
+        "phonetic": "/ˈeni ˈmʌni/",
+        "chinese": "任何/钱"
+      }
+    ]
+  },
+  {
+    "chinese": "这里有多少水",
+    "english": "How much water is there",
+    "soundmark": "/haʊ mʌtʃ ˈwɔːtər ɪz ðer/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "water",
+        "role": "S",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "C",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "你有多少本书",
+    "english": "How many books do you have",
+    "soundmark": "/haʊ ˈmeni bʊks duː juː hæv/",
+    "grammar": [
+      {
+        "text": "How many",
+        "role": "A",
+        "phonetic": "/haʊ ˈmeni/",
+        "chinese": "多少"
+      },
+      {
+        "text": "books",
+        "role": "O",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "我们需要一些面包和水",
+    "english": "We need some bread and water",
+    "soundmark": "/wiː niːd sʌm bred ænd ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "some bread and water",
+        "role": "O",
+        "phonetic": "/sʌm bred ænd ˈwɔːtər/",
+        "chinese": "一些/面包/和/水"
+      }
+    ]
+  },
+  {
+    "chinese": "没有多少牛奶了",
+    "english": "There is not much milk left",
+    "soundmark": "/ðer ɪz nɑːt mʌtʃ mɪlk left/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not much milk",
+        "role": "C",
+        "phonetic": "/nɑːt mʌtʃ mɪlk/",
+        "chinese": "不/很多/牛奶"
+      },
+      {
+        "text": "left",
+        "role": "C",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "他只有几个朋友",
+    "english": "He has only a few friends",
+    "soundmark": "/hiː hæz ˈoʊnli ə fjuː frendz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "only a few friends",
+        "role": "O",
+        "phonetic": "/ˈoʊnli ə fjuː frendz/",
+        "chinese": "只/一个/很少/…们/复数(朋友)"
+      }
+    ]
+  },
+  {
+    "chinese": "你能给我一些糖吗",
+    "english": "Can you give me some sugar",
+    "soundmark": "/kæn juː ɡɪv miː sʌm ˈʃʊɡər/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "some sugar",
+        "role": "O",
+        "phonetic": "/sʌm ˈʃʊɡər/",
+        "chinese": "一些/糖"
+      }
+    ]
+  },
+  {
+    "chinese": "我时间不够了",
+    "english": "I do not have enough time",
+    "soundmark": "/aɪ duː nɑːt hæv ɪˈnʌf taɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "enough time",
+        "role": "O",
+        "phonetic": "/ɪˈnʌf taɪm/",
+        "chinese": "足够/时间"
+      }
+    ]
+  },
+  {
+    "chinese": "冰箱里有鸡蛋吗",
+    "english": "Are there any eggs in the fridge",
+    "soundmark": "/ɑːr ðer ˈeni eɡz ɪn ðə frɪdʒ/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "any eggs",
+        "role": "C",
+        "phonetic": "/ˈeni eɡz/",
+        "chinese": "任何/…们/复数(鸡蛋)"
+      },
+      {
+        "text": "in the fridge",
+        "role": "A",
+        "phonetic": "/ɪn ðə frɪdʒ/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "是的有一些",
+    "english": "Yes there are some",
+    "soundmark": "/jes ðer ɑːr sʌm/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Adv",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "some",
+        "role": "C",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      }
+    ]
+  },
+  {
+    "chinese": "不没有鸡蛋了",
+    "english": "No there are not any eggs",
+    "soundmark": "/noʊ ðer ɑːr nɑːt ˈeni eɡz/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "any eggs",
+        "role": "C",
+        "phonetic": "/ˈeni eɡz/",
+        "chinese": "任何/…们/复数(鸡蛋)"
+      }
+    ]
+  },
+  {
+    "chinese": "他吃了太多米饭",
+    "english": "He ate too much rice",
+    "soundmark": "/hiː eɪt tuː mʌtʃ raɪs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "ate",
+        "role": "V",
+        "phonetic": "/eɪt/",
+        "chinese": "吃（过去式）"
+      },
+      {
+        "text": "too much rice",
+        "role": "O",
+        "phonetic": "/tuː mʌtʃ raɪs/",
+        "chinese": "也/太/很多"
+      }
+    ]
+  },
+  {
+    "chinese": "我们班有太多学生了",
+    "english": "There are too many students in our class",
+    "soundmark": "/ðer ɑːr tuː ˈmeni ˈstuːdənts ɪn ˈaʊər klæs/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "too many students",
+        "role": "C",
+        "phonetic": "/tuː ˈmeni ˈstuːdənts/",
+        "chinese": "也/太/许多/…们/复数(学生)"
+      },
+      {
+        "text": "in our class",
+        "role": "A",
+        "phonetic": "/ɪn ˈaʊər klæs/",
+        "chinese": "在…里/我们的/班级/阶层"
+      }
+    ]
+  },
+  {
+    "chinese": "我能喝点水吗",
+    "english": "Can I have some water",
+    "soundmark": "/kæn aɪ hæv sʌm ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "some water",
+        "role": "O",
+        "phonetic": "/sʌm ˈwɔːtər/",
+        "chinese": "一些/水"
+      }
+    ]
+  },
+  {
+    "chinese": "我们不需要买任何东西",
+    "english": "We do not need to buy anything",
+    "soundmark": "/wiː duː nɑːt niːd tuː baɪ ˈeniθɪŋ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to buy anything",
+        "role": "O",
+        "phonetic": "/tuː baɪ ˈeniθɪŋ/",
+        "chinese": "到/向/买/任何东西"
+      }
+    ]
+  },
+  {
+    "chinese": "她有足够的钱买车票吗",
+    "english": "Does she have enough money for the ticket",
+    "soundmark": "/dʌz ʃiː hæv ɪˈnʌf ˈmʌni fɔːr ðə ˈtɪkɪt/",
+    "grammar": [
+      {
+        "text": "Does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "enough money",
+        "role": "O",
+        "phonetic": "/ɪˈnʌf ˈmʌni/",
+        "chinese": "足够/钱"
+      },
+      {
+        "text": "for the ticket",
+        "role": "A",
+        "phonetic": "/fɔːr ðə ˈtɪkɪt/",
+        "chinese": "为了/对于/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要一些纸和几支铅笔",
+    "english": "I need some paper and a few pencils",
+    "soundmark": "/aɪ niːd sʌm ˈpeɪpər ænd ə fjuː ˈpenslz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "some paper and a few pencils",
+        "role": "O",
+        "phonetic": "/sʌm ˈpeɪpər ænd ə fjuː ˈpenslz/",
+        "chinese": "一些/纸/论文/和/一个/很少"
+      }
+    ]
+  },
+  {
+    "chinese": "任何东西",
+    "english": "anything",
+    "soundmark": "/ˈeniθɪŋ/"
+  },
+  {
+    "chinese": "太多",
+    "english": "too much",
+    "soundmark": "/tuː mʌtʃ/"
+  },
+  {
+    "chinese": "只有",
+    "english": "only",
+    "soundmark": "/ˈoʊnli/"
+  },
+  {
+    "chinese": "冰箱",
+    "english": "fridge",
+    "soundmark": "/frɪdʒ/"
+  },
+  {
+    "chinese": "票",
+    "english": "ticket",
+    "soundmark": "/ˈtɪkɪt/"
+  },
+  {
+    "chinese": "班",
+    "english": "class",
+    "soundmark": "/klæs/"
+  },
+  {
+    "chinese": "铅笔",
+    "english": "pencil",
+    "soundmark": "/ˈpensl/"
+  },
+  {
+    "chinese": "没有足够",
+    "english": "not enough",
+    "soundmark": "/nɑːt ɪˈnʌf/"
+  },
+  {
+    "chinese": "你有一些空闲时间吗",
+    "english": "Do you have any free time",
+    "soundmark": "/duː juː hæv ˈeni friː taɪm/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "any free time",
+        "role": "O",
+        "phonetic": "/ˈeni friː taɪm/",
+        "chinese": "任何/自由的/免费的/时间"
+      }
+    ]
+  },
+  {
+    "chinese": "冰箱里有一些牛奶但没有多少了",
+    "english": "There is some milk in the fridge but not much left",
+    "soundmark": "/ðer ɪz sʌm mɪlk ɪn ðə frɪdʒ bʌt nɑːt mʌtʃ left/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "some milk",
+        "role": "C",
+        "phonetic": "/sʌm mɪlk/",
+        "chinese": "一些/牛奶"
+      },
+      {
+        "text": "in the fridge",
+        "role": "A",
+        "phonetic": "/ɪn ðə frɪdʒ/",
+        "chinese": "在…里/这个/那个"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "not much left",
+        "role": "C",
+        "phonetic": "/nɑːt mʌtʃ left/",
+        "chinese": "不/很多/左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "我只有几条建议给你",
+    "english": "I only have a few pieces of advice for you",
+    "soundmark": "/aɪ ˈoʊnli hæv ə fjuː ˈpiːsɪz ʌv ədˈvaɪs fɔːr juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "only have",
+        "role": "V",
+        "phonetic": "/ˈoʊnli hæv/",
+        "chinese": "只/有/助动词"
+      },
+      {
+        "text": "a few pieces of advice",
+        "role": "O",
+        "phonetic": "/ə fjuː ˈpiːsɪz ʌv ədˈvaɪs/",
+        "chinese": "一个/很少/…的"
+      },
+      {
+        "text": "for you",
+        "role": "A",
+        "phonetic": "/fɔːr juː/",
+        "chinese": "为你"
+      }
+    ]
+  },
+  {
+    "chinese": "你有多少姐妹",
+    "english": "How many sisters do you have",
+    "soundmark": "/haʊ ˈmeni ˈsɪstərz duː juː hæv/",
+    "grammar": [
+      {
+        "text": "How many",
+        "role": "A",
+        "phonetic": "/haʊ ˈmeni/",
+        "chinese": "多少"
+      },
+      {
+        "text": "sisters",
+        "role": "O",
+        "phonetic": "/ˈsɪstərz/",
+        "chinese": "…们/复数(姐妹)"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "我没有姐妹",
+    "english": "I do not have any sisters",
+    "soundmark": "/aɪ duː nɑːt hæv ˈeni ˈsɪstərz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do not have",
+        "role": "V",
+        "phonetic": "/duː nɑːt hæv/",
+        "chinese": "做/助动词/不/有/助动词"
+      },
+      {
+        "text": "any sisters",
+        "role": "O",
+        "phonetic": "/ˈeni ˈsɪstərz/",
+        "chinese": "任何/…们/复数(姐妹)"
+      }
+    ]
+  },
+  {
+    "chinese": "做这个蛋糕需要多少糖",
+    "english": "How much sugar is needed to make this cake",
+    "soundmark": "/haʊ mʌtʃ ˈʃʊɡər ɪz ˈniːdɪd tuː meɪk ðɪs keɪk/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "sugar",
+        "role": "S",
+        "phonetic": "/ˈʃʊɡər/",
+        "chinese": "糖"
+      },
+      {
+        "text": "is needed",
+        "role": "V",
+        "phonetic": "/ɪz ˈniːdɪd/",
+        "chinese": "是/需要"
+      },
+      {
+        "text": "to make this cake",
+        "role": "A",
+        "phonetic": "/tuː meɪk ðɪs keɪk/",
+        "chinese": "到/向/做/让/这个/蛋糕"
+      }
+    ]
+  },
+  {
+    "chinese": "我们还有一些面包不用担心",
+    "english": "We still have some bread do not worry",
+    "soundmark": "/wiː stɪl hæv sʌm bred duː nɑːt ˈwɜːri/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "still have",
+        "role": "V",
+        "phonetic": "/stɪl hæv/",
+        "chinese": "仍然/有/助动词"
+      },
+      {
+        "text": "some bread",
+        "role": "O",
+        "phonetic": "/sʌm bred/",
+        "chinese": "一些/面包"
+      },
+      {
+        "text": "do not worry",
+        "role": "A",
+        "phonetic": "/duː nɑːt ˈwɜːri/",
+        "chinese": "做/助动词/不/担心"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要多少时间来完成这项工作",
+    "english": "How much time do you need to finish this job",
+    "soundmark": "/haʊ mʌtʃ taɪm duː juː niːd tuː ˈfɪnɪʃ ðɪs dʒɑːb/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need",
+        "role": "V",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      },
+      {
+        "text": "to finish this job",
+        "role": "O",
+        "phonetic": "/tuː ˈfɪnɪʃ ðɪs dʒɑːb/",
+        "chinese": "到/向/完成/这个/工作"
+      }
+    ]
+  },
+  {
+    "chinese": "还有",
+    "english": "still",
+    "soundmark": "/stɪl/"
+  },
+  {
+    "chinese": "担心",
+    "english": "worry",
+    "soundmark": "/ˈwɜːri/"
+  },
+  {
+    "chinese": "姐妹",
+    "english": "sister",
+    "soundmark": "/ˈsɪstər/"
+  },
+  {
+    "chinese": "建议",
+    "english": "advice",
+    "soundmark": "/ədˈvaɪs/"
+  },
+  {
+    "chinese": "工作",
+    "english": "job",
+    "soundmark": "/dʒɑːb/"
+  }
+]

@@ -1,0 +1,1119 @@
+[
+  {
+    "chinese": "红色",
+    "english": "red",
+    "soundmark": "/red/"
+  },
+  {
+    "chinese": "蓝色",
+    "english": "blue",
+    "soundmark": "/bluː/"
+  },
+  {
+    "chinese": "绿色",
+    "english": "green",
+    "soundmark": "/ɡriːn/"
+  },
+  {
+    "chinese": "黄色",
+    "english": "yellow",
+    "soundmark": "/ˈjeloʊ/"
+  },
+  {
+    "chinese": "白色",
+    "english": "white",
+    "soundmark": "/waɪt/"
+  },
+  {
+    "chinese": "黑色",
+    "english": "black",
+    "soundmark": "/blæk/"
+  },
+  {
+    "chinese": "橙色",
+    "english": "orange",
+    "soundmark": "/ˈɔːrɪndʒ/"
+  },
+  {
+    "chinese": "粉色",
+    "english": "pink",
+    "soundmark": "/pɪŋk/"
+  },
+  {
+    "chinese": "紫色",
+    "english": "purple",
+    "soundmark": "/ˈpɜːrpəl/"
+  },
+  {
+    "chinese": "灰色",
+    "english": "gray",
+    "soundmark": "/ɡreɪ/"
+  },
+  {
+    "chinese": "棕色",
+    "english": "brown",
+    "soundmark": "/braʊn/"
+  },
+  {
+    "chinese": "金色",
+    "english": "gold",
+    "soundmark": "/ɡoʊld/"
+  },
+  {
+    "chinese": "银色",
+    "english": "silver",
+    "soundmark": "/ˈsɪlvər/"
+  },
+  {
+    "chinese": "颜色",
+    "english": "color",
+    "soundmark": "/ˈkʌlər/"
+  },
+  {
+    "chinese": "最喜欢的",
+    "english": "favorite",
+    "soundmark": "/ˈfeɪvərɪt/"
+  },
+  {
+    "chinese": "明亮",
+    "english": "bright",
+    "soundmark": "/braɪt/"
+  },
+  {
+    "chinese": "深",
+    "english": "dark",
+    "soundmark": "/dɑːrk/"
+  },
+  {
+    "chinese": "浅",
+    "english": "light",
+    "soundmark": "/laɪt/"
+  },
+  {
+    "chinese": "彩虹",
+    "english": "rainbow",
+    "soundmark": "/ˈreɪnboʊ/"
+  },
+  {
+    "chinese": "天空",
+    "english": "sky",
+    "soundmark": "/skaɪ/"
+  },
+  {
+    "chinese": "它是红色的",
+    "english": "It is red",
+    "soundmark": "/ɪt/ /ɪz/ /red/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "red",
+        "role": "C",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这本书是蓝色的",
+    "english": "This book is blue",
+    "soundmark": "/ðɪs/ /bʊk/ /ɪz/ /bluː/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "blue",
+        "role": "C",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      }
+    ]
+  },
+  {
+    "chinese": "我喜欢红色",
+    "english": "I like red",
+    "soundmark": "/aɪ/ /laɪk/ /red/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "red",
+        "role": "O",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      }
+    ]
+  },
+  {
+    "chinese": "她喜欢蓝色吗",
+    "english": "Does she like blue",
+    "soundmark": "/dʌz/ /ʃiː/ /laɪk/ /bluː/",
+    "grammar": [
+      {
+        "text": "Does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "blue",
+        "role": "O",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      }
+    ]
+  },
+  {
+    "chinese": "天空是蓝色的",
+    "english": "The sky is blue",
+    "soundmark": "/ðə/ /skaɪ/ /ɪz/ /bluː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sky",
+        "role": "S",
+        "phonetic": "/skaɪ/",
+        "chinese": "天空"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "blue",
+        "role": "C",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      }
+    ]
+  },
+  {
+    "chinese": "草是绿色的",
+    "english": "The grass is green",
+    "soundmark": "/ðə/ /ɡræs/ /ɪz/ /ɡriːn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "grass",
+        "role": "S",
+        "phonetic": "/ɡræs/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "green",
+        "role": "C",
+        "phonetic": "/ɡriːn/",
+        "chinese": "绿色的"
+      }
+    ]
+  },
+  {
+    "chinese": "太阳是黄色的",
+    "english": "The sun is yellow",
+    "soundmark": "/ðə/ /sʌn/ /ɪz/ /ˈjeloʊ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sun",
+        "role": "S",
+        "phonetic": "/sʌn/",
+        "chinese": "太阳"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "yellow",
+        "role": "C",
+        "phonetic": "/ˈjeloʊ/",
+        "chinese": "黄色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这只猫是黑色的吗",
+    "english": "Is this cat black",
+    "soundmark": "/ɪz/ /ðɪs/ /kæt/ /blæk/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "black",
+        "role": "C",
+        "phonetic": "/blæk/",
+        "chinese": "黑色的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的书包是粉色的",
+    "english": "My bag is pink",
+    "soundmark": "/maɪ/ /bæɡ/ /ɪz/ /pɪŋk/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bag",
+        "role": "S",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "pink",
+        "role": "C",
+        "phonetic": "/pɪŋk/",
+        "chinese": "粉色的"
+      }
+    ]
+  },
+  {
+    "chinese": "我不喜欢棕色",
+    "english": "I do not like brown",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /laɪk/ /braʊn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "brown",
+        "role": "O",
+        "phonetic": "/braʊn/",
+        "chinese": "棕色的"
+      }
+    ]
+  },
+  {
+    "chinese": "香蕉是黄色的",
+    "english": "A banana is yellow",
+    "soundmark": "/ə/ /bəˈnænə/ /ɪz/ /ˈjeloʊ/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "banana",
+        "role": "S",
+        "phonetic": "/bəˈnænə/",
+        "chinese": "香蕉"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "yellow",
+        "role": "C",
+        "phonetic": "/ˈjeloʊ/",
+        "chinese": "黄色的"
+      }
+    ]
+  },
+  {
+    "chinese": "他最喜欢的颜色是绿色",
+    "english": "His favorite color is green",
+    "soundmark": "/hɪz/ /ˈfeɪvərɪt/ /ˈkʌlər/ /ɪz/ /ɡriːn/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "favorite",
+        "role": "C",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "chinese": "最喜欢的"
+      },
+      {
+        "text": "color",
+        "role": "S",
+        "phonetic": "/ˈkʌlər/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "green",
+        "role": "C",
+        "phonetic": "/ɡriːn/",
+        "chinese": "绿色的"
+      }
+    ]
+  },
+  {
+    "chinese": "那朵花是紫色和白色的",
+    "english": "That flower is purple and white",
+    "soundmark": "/ðæt/ /ˈflaʊər/ /ɪz/ /ˈpɜːrpəl/ /ænd/ /waɪt/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "flower",
+        "role": "S",
+        "phonetic": "/ˈflaʊər/",
+        "chinese": "花"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "purple",
+        "role": "C",
+        "phonetic": "/ˈpɜːrpəl/",
+        "chinese": "紫色的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "white",
+        "role": "C",
+        "phonetic": "/waɪt/",
+        "chinese": "白色的"
+      }
+    ]
+  },
+  {
+    "chinese": "你有红色的笔吗不我只有黑色的",
+    "english": "Do you have a red pen No I only have a black one",
+    "soundmark": "/duː/ /juː/ /hæv/ /ə/ /red/ /pen/ /noʊ/ /aɪ/ /ˈoʊnli/ /hæv/ /ə/ /blæk/ /wʌn/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "red",
+        "role": "C",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      },
+      {
+        "text": "pen",
+        "role": "O",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "black",
+        "role": "C",
+        "phonetic": "/blæk/",
+        "chinese": "黑色的"
+      },
+      {
+        "text": "one",
+        "role": "O",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "彩虹有七种颜色",
+    "english": "A rainbow has seven colors",
+    "soundmark": "/ə/ /ˈreɪnboʊ/ /hæz/ /ˈsevən/ /ˈkʌlərz/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "rainbow",
+        "role": "S",
+        "phonetic": "/ˈreɪnboʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "seven",
+        "role": "Det",
+        "phonetic": "/ˈsevən/",
+        "chinese": "七"
+      },
+      {
+        "text": "colors",
+        "role": "O",
+        "phonetic": "/ˈkʌlərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这个苹果是红色的还是绿色的",
+    "english": "Is this apple red or green",
+    "soundmark": "/ɪz/ /ðɪs/ /ˈæpəl/ /red/ /ɔːr/ /ɡriːn/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "apple",
+        "role": "S",
+        "phonetic": "/ˈæpəl/",
+        "chinese": "苹果"
+      },
+      {
+        "text": "red",
+        "role": "C",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "green",
+        "role": "C",
+        "phonetic": "/ɡriːn/",
+        "chinese": "绿色的"
+      }
+    ]
+  },
+  {
+    "chinese": "我不喜欢深蓝色我喜欢浅蓝色",
+    "english": "I do not like dark blue I like light blue",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /laɪk/ /dɑːrk/ /bluː/ /aɪ/ /laɪk/ /laɪt/ /bluː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "dark",
+        "role": "C",
+        "phonetic": "/dɑːrk/",
+        "chinese": "黑暗的"
+      },
+      {
+        "text": "blue",
+        "role": "O",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "light",
+        "role": "C",
+        "phonetic": "/laɪt/",
+        "chinese": "轻的/浅色的"
+      },
+      {
+        "text": "blue",
+        "role": "O",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      }
+    ]
+  },
+  {
+    "chinese": "她的裙子是橙色的很漂亮",
+    "english": "Her dress is orange and it is beautiful",
+    "soundmark": "/hɜːr/ /dres/ /ɪz/ /ˈɔːrɪndʒ/ /ænd/ /ɪt/ /ɪz/ /ˈbjuːtɪfəl/",
+    "grammar": [
+      {
+        "text": "Her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "dress",
+        "role": "S",
+        "phonetic": "/dres/",
+        "chinese": "穿衣"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "orange",
+        "role": "C",
+        "phonetic": "/ˈɔːrɪndʒ/",
+        "chinese": "橙子"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的新车是银色的不是灰色的",
+    "english": "My new car is silver not gray",
+    "soundmark": "/maɪ/ /nuː/ /kɑːr/ /ɪz/ /ˈsɪlvər/ /nɑːt/ /ɡreɪ/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "silver",
+        "role": "C",
+        "phonetic": "/ˈsɪlvər/",
+        "chinese": "银/银色的"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "gray",
+        "role": "C",
+        "phonetic": "/ɡreɪ/",
+        "chinese": "灰色的"
+      }
+    ]
+  },
+  {
+    "chinese": "苹果",
+    "english": "apple",
+    "soundmark": "/ˈæpəl/"
+  },
+  {
+    "chinese": "香蕉",
+    "english": "banana",
+    "soundmark": "/bəˈnænə/"
+  },
+  {
+    "chinese": "花",
+    "english": "flower",
+    "soundmark": "/ˈflaʊər/"
+  },
+  {
+    "chinese": "草",
+    "english": "grass",
+    "soundmark": "/ɡræs/"
+  },
+  {
+    "chinese": "太阳",
+    "english": "sun",
+    "soundmark": "/sʌn/"
+  },
+  {
+    "chinese": "车",
+    "english": "car",
+    "soundmark": "/kɑːr/"
+  },
+  {
+    "chinese": "衣服",
+    "english": "dress",
+    "soundmark": "/dres/"
+  },
+  {
+    "chinese": "喜欢",
+    "english": "like",
+    "soundmark": "/laɪk/"
+  },
+  {
+    "chinese": "深色的",
+    "english": "dark",
+    "soundmark": "/dɑːrk/"
+  },
+  {
+    "chinese": "浅色的",
+    "english": "light",
+    "soundmark": "/laɪt/"
+  },
+  {
+    "chinese": "那棵树是绿色的而且很高",
+    "english": "That tree is green and very tall",
+    "soundmark": "/ðæt/ /triː/ /ɪz/ /ɡriːn/ /ænd/ /ˈveri/ /tɔːl/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "tree",
+        "role": "S",
+        "phonetic": "/triː/",
+        "chinese": "树"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "green",
+        "role": "C",
+        "phonetic": "/ɡriːn/",
+        "chinese": "绿色的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "tall",
+        "role": "C",
+        "phonetic": "/tɔːl/",
+        "chinese": "高的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个房间是白色和绿色的",
+    "english": "This room is white and green",
+    "soundmark": "/ðɪs/ /ruːm/ /ɪz/ /waɪt/ /ænd/ /ɡriːn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "room",
+        "role": "S",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "white",
+        "role": "C",
+        "phonetic": "/waɪt/",
+        "chinese": "白色的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "green",
+        "role": "C",
+        "phonetic": "/ɡriːn/",
+        "chinese": "绿色的"
+      }
+    ]
+  },
+  {
+    "chinese": "她的金色头发很漂亮",
+    "english": "Her gold hair is beautiful",
+    "soundmark": "/hɜːr/ /ɡoʊld/ /her/ /ɪz/ /ˈbjuːtɪfəl/",
+    "grammar": [
+      {
+        "text": "Her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "gold",
+        "role": "C",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "hair",
+        "role": "S",
+        "phonetic": "/her/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢紫色吗是的我非常喜欢",
+    "english": "Do you like purple Yes I like it very much",
+    "soundmark": "/duː/ /juː/ /laɪk/ /ˈpɜːrpəl/ /jes/ /aɪ/ /laɪk/ /ɪt/ /ˈveri/ /mʌtʃ/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "purple",
+        "role": "O",
+        "phonetic": "/ˈpɜːrpəl/",
+        "chinese": "紫色的"
+      },
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "much",
+        "role": "A",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      }
+    ]
+  },
+  {
+    "chinese": "树",
+    "english": "tree",
+    "soundmark": "/triː/"
+  },
+  {
+    "chinese": "头发",
+    "english": "hair",
+    "soundmark": "/her/"
+  },
+  {
+    "chinese": "明亮的",
+    "english": "bright",
+    "soundmark": "/braɪt/"
+  },
+  {
+    "chinese": "彩虹",
+    "english": "rainbow",
+    "soundmark": "/ˈreɪnboʊ/"
+  }
+]

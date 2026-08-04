@@ -1,0 +1,683 @@
+[
+  {
+    "chinese": "出租车",
+    "english": "taxi",
+    "soundmark": "/ˈtæksi/"
+  },
+  {
+    "chinese": "举手示意",
+    "english": "hail",
+    "soundmark": "/heɪl/"
+  },
+  {
+    "chinese": "司机",
+    "english": "driver",
+    "soundmark": "/ˈdraɪvər/"
+  },
+  {
+    "chinese": "车费",
+    "english": "fare",
+    "soundmark": "/fer/"
+  },
+  {
+    "chinese": "计价器",
+    "english": "meter",
+    "soundmark": "/ˈmiːtər/"
+  },
+  {
+    "chinese": "乘客",
+    "english": "passenger",
+    "soundmark": "/ˈpæsɪndʒər/"
+  },
+  {
+    "chinese": "急事",
+    "english": "urgent",
+    "soundmark": "/ˈɜːrdʒənt/"
+  },
+  {
+    "chinese": "认出",
+    "english": "recognize",
+    "soundmark": "/ˈrekəɡnaɪz/"
+  },
+  {
+    "chinese": "横穿",
+    "english": "cross",
+    "soundmark": "/krɔːs/"
+  },
+  {
+    "chinese": "拒绝",
+    "english": "refuse",
+    "soundmark": "/rɪˈfjuːz/"
+  },
+  {
+    "chinese": "聚集",
+    "english": "gather",
+    "soundmark": "/ˈɡæðər/"
+  },
+  {
+    "chinese": "交通堵塞",
+    "english": "traffic jam",
+    "soundmark": "/ˈtræfɪk/ /dʒæm/"
+  },
+  {
+    "chinese": "打出租车",
+    "english": "hail a taxi",
+    "soundmark": "/heɪl/ /ə/ /ˈtæksi/"
+  },
+  {
+    "chinese": "赶时间",
+    "english": "in a hurry",
+    "soundmark": "/ɪn/ /ə/ /ˈhɜːri/"
+  },
+  {
+    "chinese": "在路上",
+    "english": "on the way",
+    "soundmark": "/ɑːn/ /ðə/ /weɪ/"
+  },
+  {
+    "chinese": "我在路边挥手叫出租车",
+    "english": "I was standing by the road waving my hand",
+    "soundmark": "/aɪ/ /wʌz/ /ˈstændɪŋ/ /baɪ/ /ðə/ /roʊd/ /ˈweɪvɪŋ/ /maɪ/ /hænd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "standing",
+        "role": "V",
+        "phonetic": "/ˈstændɪŋ/",
+        "chinese": "站着的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "road",
+        "role": "O",
+        "phonetic": "/roʊd/",
+        "chinese": "路"
+      },
+      {
+        "text": "waving",
+        "role": "V",
+        "phonetic": "/ˈweɪvɪŋ/",
+        "chinese": "挥手/波浪"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "hand",
+        "role": "O",
+        "phonetic": "/hænd/",
+        "chinese": "手"
+      }
+    ]
+  },
+  {
+    "chinese": "出租车司机正在飞快地行驶",
+    "english": "The taxi driver was driving very fast",
+    "soundmark": "/ðə/ /ˈtæksi/ /ˈdraɪvər/ /wʌz/ /ˈdraɪvɪŋ/ /ˈveri/ /fæst/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "taxi",
+        "role": "A",
+        "phonetic": "/ˈtæksi/",
+        "chinese": "出租车"
+      },
+      {
+        "text": "driver",
+        "role": "S",
+        "phonetic": "/ˈdraɪvər/",
+        "chinese": "司机"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "fast",
+        "role": "Adv",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在赶往火车站",
+    "english": "I was rushing to the railway station",
+    "soundmark": "/aɪ/ /wʌz/ /ˈrʌʃɪŋ/ /tuː/ /ðə/ /ˈreɪlweɪ/ /ˈsteɪʃən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "rushing",
+        "role": "V",
+        "phonetic": "/ˈrʌʃɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "railway",
+        "role": "A",
+        "phonetic": "/ˈreɪlweɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "station",
+        "role": "O",
+        "phonetic": "/ˈsteɪʃən/",
+        "chinese": "车站"
+      }
+    ]
+  },
+  {
+    "chinese": "计价器正在飞快地跳动",
+    "english": "The meter was going up very quickly",
+    "soundmark": "/ðə/ /ˈmiːtər/ /wʌz/ /ˈɡoʊɪŋ/ /ʌp/ /ˈveri/ /ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meter",
+        "role": "S",
+        "phonetic": "/ˈmiːtər/",
+        "chinese": "更…的/…者(遇见（过去式）)"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "quickly",
+        "role": "Adv",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "我们正穿过一条繁忙的街道",
+    "english": "We were crossing a busy street",
+    "soundmark": "/wiː/ /wɜːr/ /ˈkrɒsɪŋ/ /ə/ /ˈbɪzi/ /striːt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "crossing",
+        "role": "V",
+        "phonetic": "/ˈkrɒsɪŋ/",
+        "chinese": "穿过"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "busy",
+        "role": "A",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      },
+      {
+        "text": "street",
+        "role": "O",
+        "phonetic": "/striːt/",
+        "chinese": "街道"
+      }
+    ]
+  },
+  {
+    "chinese": "司机拒绝再开快了",
+    "english": "The driver refused to drive any faster",
+    "soundmark": "/ðə/ /ˈdraɪvər/ /rɪˈfjuːzd/ /tuː/ /draɪv/ /ˈeni/ /ˈfæstər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "driver",
+        "role": "S",
+        "phonetic": "/ˈdraɪvər/",
+        "chinese": "司机"
+      },
+      {
+        "text": "refused",
+        "role": "V",
+        "phonetic": "/rɪˈfjuːzd/",
+        "chinese": "拒绝"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "drive",
+        "role": "V",
+        "phonetic": "/draɪv/",
+        "chinese": "驾驶"
+      },
+      {
+        "text": "any",
+        "role": "Adv",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "faster",
+        "role": "Adv",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      }
+    ]
+  },
+  {
+    "chinese": " traffic 正在变得越来越拥堵",
+    "english": "The traffic was getting heavier and heavier",
+    "soundmark": "/ðə/ /ˈtræfɪk/ /wʌz/ /ˈɡetɪŋ/ /ˈheviər/ /ænd/ /ˈheviər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "traffic",
+        "role": "S",
+        "phonetic": "/ˈtræfɪk/",
+        "chinese": "交通"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "getting",
+        "role": "V",
+        "phonetic": "/ˈɡetɪŋ/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "heavier",
+        "role": "C",
+        "phonetic": "/ˈheviər/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "heavier",
+        "role": "C",
+        "phonetic": "/ˈheviər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我认出那个司机是我的朋友",
+    "english": "I recognized the driver as my friend",
+    "soundmark": "/aɪ/ /ˈrekəɡnaɪzd/ /ðə/ /ˈdraɪvər/ /æz/ /maɪ/ /frend/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "recognized",
+        "role": "V",
+        "phonetic": "/ˈrekəɡnaɪzd/",
+        "chinese": "认出/承认"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "driver",
+        "role": "O",
+        "phonetic": "/ˈdraɪvər/",
+        "chinese": "司机"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "friend",
+        "role": "C",
+        "phonetic": "/frend/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "他正朝最近的路线行驶",
+    "english": "He was taking the shortest route",
+    "soundmark": "/hiː/ /wʌz/ /ˈteɪkɪŋ/ /ðə/ /ˈʃɔːrtɪst/ /ruːt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "taking",
+        "role": "V",
+        "phonetic": "/ˈteɪkɪŋ/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shortest",
+        "role": "A",
+        "phonetic": "/ˈʃɔːrtɪst/",
+        "chinese": "最…的(短的)"
+      },
+      {
+        "text": "route",
+        "role": "O",
+        "phonetic": "/ruːt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "人群正在马路边聚集",
+    "english": "A crowd was gathering by the roadside",
+    "soundmark": "/ə/ /kraʊd/ /wʌz/ /ˈɡæðərɪŋ/ /baɪ/ /ðə/ /ˈroʊdsaɪd/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "crowd",
+        "role": "S",
+        "phonetic": "/kraʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "gathering",
+        "role": "V",
+        "phonetic": "/ˈɡæðərɪŋ/",
+        "chinese": "聚集"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "roadside",
+        "role": "O",
+        "phonetic": "/ˈroʊdsaɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你为什么要开得这么快？",
+    "english": "Why were you driving so fast",
+    "soundmark": "/waɪ/ /wɜːr/ /juː/ /ˈdraɪvɪŋ/ /soʊ/ /fæst/",
+    "grammar": [
+      {
+        "text": "Why",
+        "role": "Int",
+        "phonetic": "/waɪ/",
+        "chinese": "为什么"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "fast",
+        "role": "Adv",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      }
+    ]
+  },
+  {
+    "chinese": "车费已经变得非常高了",
+    "english": "The fare had become very high",
+    "soundmark": "/ðə/ /fer/ /hæd/ /bɪˈkʌm/ /ˈveri/ /haɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fare",
+        "role": "S",
+        "phonetic": "/fer/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "become",
+        "role": "V",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "high",
+        "role": "C",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      }
+    ]
+  },
+  {
+    "chinese": "上周",
+    "english": "last week",
+    "soundmark": "/læst/ /wiːk/"
+  },
+  {
+    "chinese": "急忙地",
+    "english": "in a hurry",
+    "soundmark": "/ɪn/ /ə/ /ˈhɜːri/"
+  },
+  {
+    "chinese": "注意",
+    "english": "attention",
+    "soundmark": "/əˈtenʃən/"
+  },
+  {
+    "chinese": "粗鲁地",
+    "english": "rudely",
+    "soundmark": "/ˈruːdli/"
+  },
+  {
+    "chinese": "转身",
+    "english": "turn round",
+    "soundmark": "/tɜːrn/ /raʊnd/"
+  },
+  {
+    "chinese": "最后",
+    "english": "in the end",
+    "soundmark": "/ɪn/ /ði/ /end/"
+  }
+]

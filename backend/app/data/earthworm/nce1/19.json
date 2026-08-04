@@ -1,0 +1,551 @@
+[
+  {
+    "chinese": "购物",
+    "english": "shopping",
+    "soundmark": "/ˈʃɑːpɪŋ/"
+  },
+  {
+    "chinese": "商店",
+    "english": "shop",
+    "soundmark": "/ʃɑːp/"
+  },
+  {
+    "chinese": "超市",
+    "english": "supermarket",
+    "soundmark": "/ˈsuːpərmɑːrkɪt/"
+  },
+  {
+    "chinese": "市场",
+    "english": "market",
+    "soundmark": "/ˈmɑːrkɪt/"
+  },
+  {
+    "chinese": "价格",
+    "english": "price",
+    "soundmark": "/praɪs/"
+  },
+  {
+    "chinese": "多少钱",
+    "english": "how much",
+    "soundmark": "/haʊ/ /mʌtʃ/"
+  },
+  {
+    "chinese": "便宜的",
+    "english": "cheap",
+    "soundmark": "/tʃiːp/"
+  },
+  {
+    "chinese": "贵的",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "买",
+    "english": "buy",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "chinese": "卖",
+    "english": "sell",
+    "soundmark": "/sel/"
+  },
+  {
+    "chinese": "付钱",
+    "english": "pay",
+    "soundmark": "/peɪ/"
+  },
+  {
+    "chinese": "收据",
+    "english": "receipt",
+    "soundmark": "/rɪˈsiːt/"
+  },
+  {
+    "chinese": "零钱",
+    "english": "change",
+    "soundmark": "/tʃeɪndʒ/"
+  },
+  {
+    "chinese": "打折",
+    "english": "discount",
+    "soundmark": "/ˈdɪskaʊnt/"
+  },
+  {
+    "chinese": "尺码",
+    "english": "size",
+    "soundmark": "/saɪz/"
+  },
+  {
+    "chinese": "试穿",
+    "english": "try on",
+    "soundmark": "/traɪ/ /ɑːn/"
+  },
+  {
+    "chinese": "能帮您吗",
+    "english": "Can I help you",
+    "soundmark": "/kæn/ /aɪ/ /help/ /juː/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "我想买一件衬衫",
+    "english": "I would like to buy a shirt",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tuː/ /baɪ/ /ə/ /ʃɜːrt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "shirt",
+        "role": "O",
+        "phonetic": "/ʃɜːrt/",
+        "chinese": "衬衫"
+      }
+    ]
+  },
+  {
+    "chinese": "这件外套多少钱",
+    "english": "How much is this coat",
+    "soundmark": "/haʊ/ /mʌtʃ/ /ɪz/ /ðɪs/ /koʊt/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "coat",
+        "role": "C",
+        "phonetic": "/koʊt/",
+        "chinese": "外套"
+      }
+    ]
+  },
+  {
+    "chinese": "五十英镑",
+    "english": "Fifty pounds",
+    "soundmark": "/ˈfɪfti/ /paʊndz/",
+    "grammar": [
+      {
+        "text": "Fifty",
+        "role": "Det",
+        "phonetic": "/ˈfɪfti/",
+        "chinese": "五十"
+      },
+      {
+        "text": "pounds",
+        "role": "C",
+        "phonetic": "/paʊndz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "太贵了能便宜点吗",
+    "english": "That is too expensive can it be cheaper",
+    "soundmark": "/ðæt/ /ɪz/ /tuː/ /ɪkˈspensɪv/ /kæn/ /ɪt/ /biː/ /ˈtʃiːpər/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "expensive",
+        "role": "C",
+        "phonetic": "/ɪkˈspensɪv/",
+        "chinese": "昂贵的"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "cheaper",
+        "role": "C",
+        "phonetic": "/ˈtʃiːpər/",
+        "chinese": "更…的/…者(便宜的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以试穿一下吗",
+    "english": "Can I try it on",
+    "soundmark": "/kæn/ /aɪ/ /traɪ/ /ɪt/ /ɑːn/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "try",
+        "role": "V",
+        "phonetic": "/traɪ/",
+        "chinese": "尝试"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      }
+    ]
+  },
+  {
+    "chinese": "当然试衣间在那边",
+    "english": "Of course the fitting room is over there",
+    "soundmark": "/əv/ /kɔːrs/ /ðə/ /ˈfɪtɪŋ/ /ruːm/ /ɪz/ /ˈoʊvər/ /ðer/",
+    "grammar": [
+      {
+        "text": "Of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "course",
+        "role": "O",
+        "phonetic": "/kɔːrs/",
+        "chinese": "课程"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fitting",
+        "role": "C",
+        "phonetic": "/ˈfɪtɪŋ/",
+        "chinese": "适合"
+      },
+      {
+        "text": "room",
+        "role": "S",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "你有小号的吗",
+    "english": "Do you have this in a smaller size",
+    "soundmark": "/duː/ /juː/ /hæv/ /ðɪs/ /ɪn/ /ə/ /smɔːlər/ /saɪz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "smaller",
+        "role": "C",
+        "phonetic": "/smɔːlər/",
+        "chinese": "更…的/…者(小的)"
+      },
+      {
+        "text": "size",
+        "role": "O",
+        "phonetic": "/saɪz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "好的我买了",
+    "english": "OK I will take it",
+    "soundmark": "/oʊˈkeɪ/ /aɪ/ /wɪl/ /teɪk/ /ɪt/",
+    "grammar": [
+      {
+        "text": "OK",
+        "role": "Int",
+        "phonetic": "/oʊˈkeɪ/",
+        "chinese": "好的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "给你钱不用找零了",
+    "english": "Here is the money keep the change",
+    "soundmark": "/hɪr/ /ɪz/ /ðə/ /ˈmʌni/ /kiːp/ /ðə/ /tʃeɪndʒ/",
+    "grammar": [
+      {
+        "text": "Here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "money",
+        "role": "S",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      },
+      {
+        "text": "keep",
+        "role": "V",
+        "phonetic": "/kiːp/",
+        "chinese": "保持/保留"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "change",
+        "role": "O",
+        "phonetic": "/tʃeɪndʒ/",
+        "chinese": "改变"
+      }
+    ]
+  },
+  {
+    "chinese": "我想",
+    "english": "I would like",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/"
+  },
+  {
+    "chinese": "英镑",
+    "english": "pound",
+    "soundmark": "/paʊnd/"
+  },
+  {
+    "chinese": "美元",
+    "english": "dollar",
+    "soundmark": "/ˈdɑːlər/"
+  },
+  {
+    "chinese": "试衣间",
+    "english": "fitting room",
+    "soundmark": "/ˈfɪtɪŋ/ /ruːm/"
+  },
+  {
+    "chinese": "那边",
+    "english": "over there",
+    "soundmark": "/ˈoʊvər/ /ðer/"
+  },
+  {
+    "chinese": "钱",
+    "english": "money",
+    "soundmark": "/ˈmʌni/"
+  },
+  {
+    "chinese": "保留",
+    "english": "keep",
+    "soundmark": "/kiːp/"
+  },
+  {
+    "chinese": "好的",
+    "english": "OK",
+    "soundmark": "/oʊˈkeɪ/"
+  },
+  {
+    "chinese": "拿走",
+    "english": "take",
+    "soundmark": "/teɪk/"
+  }
+]

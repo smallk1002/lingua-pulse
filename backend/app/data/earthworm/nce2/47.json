@@ -1,0 +1,301 @@
+[
+  {
+    "chinese": "渴的",
+    "english": "thirsty",
+    "soundmark": "/ˈθɜːrsti/"
+  },
+  {
+    "chinese": "鬼",
+    "english": "ghost",
+    "soundmark": "/ɡoʊst/"
+  },
+  {
+    "chinese": "酒馆",
+    "english": "pub",
+    "soundmark": "/pʌb/"
+  },
+  {
+    "chinese": "建议",
+    "english": "suggest",
+    "soundmark": "/səˈdʒest/"
+  },
+  {
+    "chinese": "摇晃",
+    "english": "shake",
+    "soundmark": "/ʃeɪk/"
+  },
+  {
+    "chinese": "接受",
+    "english": "accept",
+    "soundmark": "/əkˈsept/"
+  },
+  {
+    "chinese": "被闹鬼",
+    "english": "be haunted",
+    "soundmark": "/biː ˈhɔːntɪd/"
+  },
+  {
+    "chinese": "所有者",
+    "english": "owner",
+    "soundmark": "/ˈoʊnər/"
+  },
+  {
+    "chinese": "这所房子据说闹鬼。",
+    "english": "The house is said to be haunted",
+    "soundmark": "/ðə haʊs ɪz sed tuː biː ˈhɔːntɪd/",
+    "grammar": [
+      {
+        "text": "The house",
+        "role": "S",
+        "phonetic": "/ðə haʊs/",
+        "chinese": "这个/那个/房子"
+      },
+      {
+        "text": "is said",
+        "role": "V",
+        "phonetic": "/ɪz sed/",
+        "chinese": "是/说（过去式）"
+      },
+      {
+        "text": "to be haunted",
+        "role": "C",
+        "phonetic": "/tuː biː ˈhɔːntɪd/",
+        "chinese": "到/向/是"
+      }
+    ]
+  },
+  {
+    "chinese": "那个酒馆被卖给了一个农民。",
+    "english": "The pub was sold to a farmer",
+    "soundmark": "/ðə pʌb wʌz soʊld tuː ə ˈfɑːrmər/",
+    "grammar": [
+      {
+        "text": "The pub",
+        "role": "S",
+        "phonetic": "/ðə pʌb/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "was sold",
+        "role": "V",
+        "phonetic": "/wʌz soʊld/",
+        "chinese": "是（过去式）/卖（过去式）"
+      },
+      {
+        "text": "to a farmer",
+        "role": "A",
+        "phonetic": "/tuː ə ˈfɑːrmər/",
+        "chinese": "到/向/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "有人提议要把酒馆关了。",
+    "english": "It was suggested that the pub should be closed",
+    "soundmark": "/ɪt wʌz səˈdʒestɪd ðæt ðə pʌb ʃʊd biː kloʊzd/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was suggested",
+        "role": "V",
+        "phonetic": "/wʌz səˈdʒestɪd/",
+        "chinese": "是（过去式）/建议的"
+      },
+      {
+        "text": "that the pub should be closed",
+        "role": "O",
+        "phonetic": "/ðæt ðə pʌb ʃʊd biː kloʊzd/",
+        "chinese": "那个/这个/那个/应该/是/关闭的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个瓶子被摇晃过。",
+    "english": "The bottle had been shaken",
+    "soundmark": "/ðə ˈbɑːtl hæd biːn ˈʃeɪkən/",
+    "grammar": [
+      {
+        "text": "The bottle",
+        "role": "S",
+        "phonetic": "/ðə ˈbɑːtl/",
+        "chinese": "这个/那个/瓶子"
+      },
+      {
+        "text": "had been shaken",
+        "role": "V",
+        "phonetic": "/hæd biːn ˈʃeɪkən/",
+        "chinese": "有/助动词（过去式）/是（过去分词）/摇晃（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "据说那个鬼晚上会出来。",
+    "english": "It is said that the ghost comes out at night",
+    "soundmark": "/ɪt ɪz sed ðæt ðə ɡoʊst kʌmz aʊt æt naɪt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is said",
+        "role": "V",
+        "phonetic": "/ɪz sed/",
+        "chinese": "是/说（过去式）"
+      },
+      {
+        "text": "that the ghost comes out at night",
+        "role": "O",
+        "phonetic": "/ðæt ðə ɡoʊst kʌmz aʊt æt naɪt/",
+        "chinese": "那个/这个/那个/鬼/…们/复数(来)/出去/在/夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他的提议没有被接受。",
+    "english": "His suggestion was not accepted",
+    "soundmark": "/hɪz səˈdʒestʃən wʌz nɑːt əkˈseptɪd/",
+    "grammar": [
+      {
+        "text": "His suggestion",
+        "role": "S",
+        "phonetic": "/hɪz səˈdʒestʃən/",
+        "chinese": "他的"
+      },
+      {
+        "text": "was not accepted",
+        "role": "V",
+        "phonetic": "/wʌz nɑːt əkˈseptɪd/",
+        "chinese": "是（过去式）/不"
+      }
+    ]
+  },
+  {
+    "chinese": "他们被告知这个地方闹鬼。",
+    "english": "They were told that the place was haunted",
+    "soundmark": "/ðeɪ wɜːr toʊld ðæt ðə pleɪs wʌz ˈhɔːntɪd/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were told",
+        "role": "V",
+        "phonetic": "/wɜːr toʊld/",
+        "chinese": "是（过去式）/告诉（过去式）"
+      },
+      {
+        "text": "that the place was haunted",
+        "role": "O",
+        "phonetic": "/ðæt ðə pleɪs wʌz ˈhɔːntɪd/",
+        "chinese": "那个/这个/那个/地方/是（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "地主决定把酒馆卖掉。",
+    "english": "The owner decided to sell the pub",
+    "soundmark": "/ðə ˈoʊnər dɪˈsaɪdɪd tuː sel ðə pʌb/",
+    "grammar": [
+      {
+        "text": "The owner",
+        "role": "S",
+        "phonetic": "/ðə ˈoʊnər/",
+        "chinese": "这个/那个/更…的/…者(自己的)"
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "to sell",
+        "role": "V",
+        "phonetic": "/tuː sel/",
+        "chinese": "到/向/卖"
+      },
+      {
+        "text": "the pub",
+        "role": "O",
+        "phonetic": "/ðə pʌb/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "据说那个鬼很渴所以一直喝酒。",
+    "english": "It was said that the ghost was thirsty and kept drinking",
+    "soundmark": "/ɪt wʌz sed ðæt ðə ɡoʊst wʌz ˈθɜːrsti ænd kept ˈdrɪŋkɪŋ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was said",
+        "role": "V",
+        "phonetic": "/wʌz sed/",
+        "chinese": "是（过去式）/说（过去式）"
+      },
+      {
+        "text": "that the ghost was thirsty and kept drinking",
+        "role": "O",
+        "phonetic": "/ðæt ðə ɡoʊst wʌz ˈθɜːrsti ænd kept ˈdrɪŋkɪŋ/",
+        "chinese": "那个/这个/那个/鬼/是（过去式）/渴的/和/保持/保留（过去式）/饮料"
+      }
+    ]
+  },
+  {
+    "chinese": "建议",
+    "english": "suggestion",
+    "soundmark": "/səˈdʒestʃən/"
+  },
+  {
+    "chinese": "关闭",
+    "english": "closed",
+    "soundmark": "/kloʊzd/"
+  },
+  {
+    "chinese": "农民",
+    "english": "farmer",
+    "soundmark": "/ˈfɑːrmər/"
+  },
+  {
+    "chinese": "决定",
+    "english": "decide",
+    "soundmark": "/dɪˈsaɪd/"
+  },
+  {
+    "chinese": "瓶子",
+    "english": "bottle",
+    "soundmark": "/ˈbɑːtl/"
+  },
+  {
+    "chinese": "卖",
+    "english": "sell",
+    "soundmark": "/sel/"
+  },
+  {
+    "chinese": "地方",
+    "english": "place",
+    "soundmark": "/pleɪs/"
+  },
+  {
+    "chinese": "喝",
+    "english": "drink",
+    "soundmark": "/drɪŋk/"
+  }
+]

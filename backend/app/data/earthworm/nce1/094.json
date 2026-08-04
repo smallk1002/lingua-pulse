@@ -1,0 +1,328 @@
+[
+  {
+    "english": "future",
+    "chinese": "未来",
+    "soundmark": "/ˈfjuːtʃər/"
+  },
+  {
+    "english": "plan",
+    "chinese": "计划",
+    "soundmark": "/plæn/"
+  },
+  {
+    "english": "career",
+    "chinese": "职业",
+    "soundmark": "/kəˈrɪr/"
+  },
+  {
+    "english": "goal",
+    "chinese": "目标",
+    "soundmark": "/ɡoʊl/"
+  },
+  {
+    "english": "ambition",
+    "chinese": "抱负",
+    "soundmark": "/æmˈbɪʃən/"
+  },
+  {
+    "english": "achieve",
+    "chinese": "实现",
+    "soundmark": "/əˈtʃiːv/"
+  },
+  {
+    "chinese": "我打算明年去美国留学",
+    "english": "I plan to study in the USA next year",
+    "soundmark": "/aɪ plæn tə ˈstʌdi ɪn ðə juːˌesˈeɪ nekst jɪr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "plan",
+        "role": "V",
+        "phonetic": "/plæn/",
+        "chinese": "计划"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "study",
+        "role": "V",
+        "phonetic": "/ˈstʌdi/",
+        "chinese": "学习/研究"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "USA",
+        "role": "O",
+        "phonetic": "/juːˌesˈeɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "next",
+        "role": "Det",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "year",
+        "role": "T",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "她的目标是成为一名医生",
+    "english": "Her goal is to become a doctor",
+    "soundmark": "/hɜːr ɡoʊl ɪz tə bɪˈkʌm ə ˈdɑːktər/",
+    "grammar": [
+      {
+        "text": "Her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "goal",
+        "role": "S",
+        "phonetic": "/ɡoʊl/",
+        "chinese": "目标/进球"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "become",
+        "role": "V",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "doctor",
+        "role": "C",
+        "phonetic": "/ˈdɑːktər/",
+        "chinese": "医生"
+      }
+    ]
+  },
+  {
+    "chinese": "他希望将来能自己创业",
+    "english": "He hopes to start his own business in the future",
+    "soundmark": "/hiː hoʊps tə stɑːrt hɪz oʊn ˈbɪznəs ɪn ðə ˈfjuːtʃər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "hopes",
+        "role": "V",
+        "phonetic": "/hoʊps/",
+        "chinese": "希望"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "start",
+        "role": "V",
+        "phonetic": "/stɑːrt/",
+        "chinese": "开始"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "own",
+        "role": "Det",
+        "phonetic": "/oʊn/",
+        "chinese": "自己的"
+      },
+      {
+        "text": "business",
+        "role": "O",
+        "phonetic": "/ˈbɪznəs/",
+        "chinese": "生意/商业"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "future",
+        "role": "O",
+        "phonetic": "/ˈfjuːtʃər/",
+        "chinese": "未来"
+      }
+    ]
+  },
+  {
+    "chinese": "我们计划买一栋新房子",
+    "english": "We are planning to buy a new house",
+    "soundmark": "/wiː ɑːr ˈplænɪŋ tə baɪ ə nuː haʊs/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "planning",
+        "role": "V",
+        "phonetic": "/ˈplænɪŋ/",
+        "chinese": "计划"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "Det",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      }
+    ]
+  },
+  {
+    "chinese": "他们打算明年结婚",
+    "english": "They intend to get married next year",
+    "soundmark": "/ðeɪ ɪnˈtend tə get ˈmærid nekst jɪr/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "intend",
+        "role": "V",
+        "phonetic": "/ɪnˈtend/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/get/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "married",
+        "role": "V",
+        "phonetic": "/ˈmærid/",
+        "chinese": "已婚的"
+      },
+      {
+        "text": "next",
+        "role": "Det",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "year",
+        "role": "T",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "english": "opportunity",
+    "chinese": "机会",
+    "soundmark": "/ˌɑːpərˈtuːnəti/"
+  },
+  {
+    "english": "preparation",
+    "chinese": "准备",
+    "soundmark": "/ˌprepəˈreɪʃən/"
+  },
+  {
+    "english": "determination",
+    "chinese": "决心",
+    "soundmark": "/dɪˌtɜːrmɪˈneɪʃən/"
+  }
+]

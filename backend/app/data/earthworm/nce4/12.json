@@ -1,0 +1,681 @@
+[
+  {
+    "chinese": "银行",
+    "english": "bank",
+    "soundmark": "/bæŋk/"
+  },
+  {
+    "chinese": "顾客",
+    "english": "customer",
+    "soundmark": "/ˈkʌstəmər/"
+  },
+  {
+    "chinese": "存款",
+    "english": "deposit",
+    "soundmark": "/dɪˈpɑːzɪt/"
+  },
+  {
+    "chinese": "贷款",
+    "english": "loan",
+    "soundmark": "/loʊn/"
+  },
+  {
+    "chinese": "利息",
+    "english": "interest",
+    "soundmark": "/ˈɪntrəst/"
+  },
+  {
+    "chinese": "账户",
+    "english": "account",
+    "soundmark": "/əˈkaʊnt/"
+  },
+  {
+    "chinese": "透支",
+    "english": "overdraft",
+    "soundmark": "/ˈoʊvərdræft/"
+  },
+  {
+    "chinese": "抵押",
+    "english": "mortgage",
+    "soundmark": "/ˈmɔːrɡɪdʒ/"
+  },
+  {
+    "chinese": "信用",
+    "english": "credit",
+    "soundmark": "/ˈkredɪt/"
+  },
+  {
+    "chinese": "债务",
+    "english": "debt",
+    "soundmark": "/det/"
+  },
+  {
+    "chinese": "债权人",
+    "english": "creditor",
+    "soundmark": "/ˈkredɪtər/"
+  },
+  {
+    "chinese": "偿还",
+    "english": "repay",
+    "soundmark": "/rɪˈpeɪ/"
+  },
+  {
+    "chinese": "担保",
+    "english": "guarantee",
+    "soundmark": "/ˌɡærənˈtiː/"
+  },
+  {
+    "chinese": "破产",
+    "english": "bankruptcy",
+    "soundmark": "/ˈbæŋkrʌptsi/"
+  },
+  {
+    "chinese": "利率",
+    "english": "interest rate",
+    "soundmark": "/ˈɪntrəst/ /reɪt/"
+  },
+  {
+    "chinese": "银行存款",
+    "english": "bank deposit",
+    "soundmark": "/bæŋk/ /dɪˈpɑːzɪt/"
+  },
+  {
+    "chinese": "抵押贷款",
+    "english": "mortgage loan",
+    "soundmark": "/ˈmɔːrɡɪdʒ/ /loʊn/"
+  },
+  {
+    "chinese": "信用评级",
+    "english": "credit rating",
+    "soundmark": "/ˈkredɪt/ /ˈreɪtɪŋ/"
+  },
+  {
+    "chinese": "偿还债务",
+    "english": "repay a debt",
+    "soundmark": "/rɪˈpeɪ/ /ə/ /det/"
+  },
+  {
+    "chinese": "如果银行倒闭储户将失去所有积蓄",
+    "english": "if the bank collapsed depositors would lose all their savings",
+    "soundmark": "/ɪf/ /ðə/ /bæŋk/ /kəˈlæpst/ /dɪˈpɑːzɪtərz/ /wʊd/ /luːz/ /ɔːl/ /ðer/ /ˈseɪvɪŋz/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bank",
+        "role": "S",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "collapsed",
+        "role": "V",
+        "phonetic": "/kəˈlæpst/",
+        "chinese": ""
+      },
+      {
+        "text": "depositors",
+        "role": "S",
+        "phonetic": "/dɪˈpɑːzɪtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "lose",
+        "role": "V",
+        "phonetic": "/luːz/",
+        "chinese": "输/丢失"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "savings",
+        "role": "O",
+        "phonetic": "/ˈseɪvɪŋz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "除非你能提供担保否则银行不会批准你的贷款申请",
+    "english": "unless you can provide a guarantee the bank will not approve your loan application",
+    "soundmark": "/ənˈles/ /juː/ /kæn/ /prəˈvaɪd/ /ə/ /ˌɡærənˈtiː/ /ðə/ /bæŋk/ /wɪl/ /nɑːt/ /əˈpruːv/ /jɔːr/ /loʊn/ /ˌæplɪˈkeɪʃn/",
+    "grammar": [
+      {
+        "text": "unless",
+        "role": "P",
+        "phonetic": "/ənˈles/",
+        "chinese": "除非"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "provide",
+        "role": "V",
+        "phonetic": "/prəˈvaɪd/",
+        "chinese": "提供"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "guarantee",
+        "role": "O",
+        "phonetic": "/ˌɡærənˈtiː/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bank",
+        "role": "S",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "will",
+        "role": "Aux",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "approve",
+        "role": "V",
+        "phonetic": "/əˈpruːv/",
+        "chinese": ""
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "loan",
+        "role": "A",
+        "phonetic": "/loʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "application",
+        "role": "O",
+        "phonetic": "/ˌæplɪˈkeɪʃn/",
+        "chinese": "申请/应用"
+      }
+    ]
+  },
+  {
+    "chinese": "假如利率持续上升许多企业将面临破产",
+    "english": "if interest rates continued to rise many businesses would face bankruptcy",
+    "soundmark": "/ɪf/ /ˈɪntrəst/ /reɪts/ /kənˈtɪnjuːd/ /tuː/ /raɪz/ /ˈmeni/ /ˈbɪznəsɪz/ /wʊd/ /feɪs/ /ˈbæŋkrʌptsi/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "interest",
+        "role": "A",
+        "phonetic": "/ˈɪntrəst/",
+        "chinese": "使感兴趣"
+      },
+      {
+        "text": "rates",
+        "role": "S",
+        "phonetic": "/reɪts/",
+        "chinese": ""
+      },
+      {
+        "text": "continued",
+        "role": "V",
+        "phonetic": "/kənˈtɪnjuːd/",
+        "chinese": "继续"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "rise",
+        "role": "V",
+        "phonetic": "/raɪz/",
+        "chinese": "上升"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "businesses",
+        "role": "S",
+        "phonetic": "/ˈbɪznəsɪz/",
+        "chinese": "生意/商业"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "face",
+        "role": "V",
+        "phonetic": "/feɪs/",
+        "chinese": "脸"
+      },
+      {
+        "text": "bankruptcy",
+        "role": "O",
+        "phonetic": "/ˈbæŋkrʌptsi/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "客户应当被告知如果无法偿还贷款可能失去房产",
+    "english": "customers should be informed that they may lose their property if they cannot repay the loan",
+    "soundmark": "/ˈkʌstəmərz/ /ʃʊd/ /biː/ /ɪnˈfɔːrmd/ /ðæt/ /ðeɪ/ /meɪ/ /luːz/ /ðer/ /ˈprɑːpərti/ /ɪf/ /ðeɪ/ /ˈkænɑːt/ /rɪˈpeɪ/ /ðə/ /loʊn/",
+    "grammar": [
+      {
+        "text": "customers",
+        "role": "S",
+        "phonetic": "/ˈkʌstəmərz/",
+        "chinese": "顾客"
+      },
+      {
+        "text": "should",
+        "role": "Aux",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "informed",
+        "role": "V",
+        "phonetic": "/ɪnˈfɔːrmd/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "may",
+        "role": "Aux",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "lose",
+        "role": "V",
+        "phonetic": "/luːz/",
+        "chinese": "输/丢失"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "property",
+        "role": "O",
+        "phonetic": "/ˈprɑːpərti/",
+        "chinese": ""
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "repay",
+        "role": "V",
+        "phonetic": "/rɪˈpeɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "loan",
+        "role": "O",
+        "phonetic": "/loʊn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "银行与客户之间是一种合同关系而许多人对此并不了解",
+    "english": "the relationship between a bank and its customers is a contractual one which many people fail to understand",
+    "soundmark": "/ðə/ /rɪˈleɪʃnʃɪp/ /bɪˈtwiːn/ /ə/ /bæŋk/ /ænd/ /ɪts/ /ˈkʌstəmərz/ /ɪz/ /ə/ /kənˈtræktʃuəl/ /wʌn/ /wɪtʃ/ /ˈmeni/ /ˈpiːpl/ /feɪl/ /tuː/ /ˌʌndərˈstænd/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "relationship",
+        "role": "S",
+        "phonetic": "/rɪˈleɪʃnʃɪp/",
+        "chinese": "关系"
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bank",
+        "role": "O",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "customers",
+        "role": "O",
+        "phonetic": "/ˈkʌstəmərz/",
+        "chinese": "顾客"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "contractual",
+        "role": "A",
+        "phonetic": "/kənˈtræktʃuəl/",
+        "chinese": ""
+      },
+      {
+        "text": "one",
+        "role": "C",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "which",
+        "role": "S",
+        "phonetic": "/wɪtʃ/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "fail",
+        "role": "V",
+        "phonetic": "/feɪl/",
+        "chinese": "失败"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      }
+    ]
+  },
+  {
+    "chinese": "如果银行更透明地公开收费项目许多纠纷本可避免",
+    "english": "if banks disclosed their charges more transparently many disputes could have been avoided",
+    "soundmark": "/ɪf/ /bæŋks/ /dɪsˈkloʊzd/ /ðer/ /ˈtʃɑːrdʒɪz/ /mɔːr/ /trænsˈpærəntli/ /ˈmeni/ /dɪˈspjuːts/ /kʊd/ /hæv/ /bɪn/ /əˈvɔɪdɪd/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "banks",
+        "role": "S",
+        "phonetic": "/bæŋks/",
+        "chinese": "银行"
+      },
+      {
+        "text": "disclosed",
+        "role": "V",
+        "phonetic": "/dɪsˈkloʊzd/",
+        "chinese": ""
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "charges",
+        "role": "O",
+        "phonetic": "/ˈtʃɑːrdʒɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "transparently",
+        "role": "Adv",
+        "phonetic": "/trænsˈpærəntli/",
+        "chinese": ""
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "disputes",
+        "role": "S",
+        "phonetic": "/dɪˈspjuːts/",
+        "chinese": ""
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "avoided",
+        "role": "V",
+        "phonetic": "/əˈvɔɪdɪd/",
+        "chinese": "避免"
+      }
+    ]
+  },
+  {
+    "chinese": "倒闭",
+    "english": "collapse",
+    "soundmark": "/kəˈlæps/"
+  },
+  {
+    "chinese": "透明的",
+    "english": "transparent",
+    "soundmark": "/trænsˈpærənt/"
+  },
+  {
+    "chinese": "披露",
+    "english": "disclose",
+    "soundmark": "/dɪsˈkloʊz/"
+  },
+  {
+    "chinese": "避免",
+    "english": "avoid",
+    "soundmark": "/əˈvɔɪd/"
+  },
+  {
+    "chinese": "合同",
+    "english": "contractual",
+    "soundmark": "/kənˈtræktʃuəl/"
+  },
+  {
+    "chinese": "储蓄",
+    "english": "savings",
+    "soundmark": "/ˈseɪvɪŋz/"
+  },
+  {
+    "chinese": "批准",
+    "english": "approve",
+    "soundmark": "/əˈpruːv/"
+  },
+  {
+    "chinese": "申请",
+    "english": "application",
+    "soundmark": "/ˌæplɪˈkeɪʃn/"
+  },
+  {
+    "chinese": "财产",
+    "english": "property",
+    "soundmark": "/ˈprɑːpərti/"
+  },
+  {
+    "chinese": "关系",
+    "english": "relationship",
+    "soundmark": "/rɪˈleɪʃnʃɪp/"
+  }
+]

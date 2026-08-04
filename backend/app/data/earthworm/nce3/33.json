@@ -1,0 +1,851 @@
+[
+  {
+    "chinese": "堵塞",
+    "english": "jam",
+    "soundmark": "/dʒæm/"
+  },
+  {
+    "chinese": "混乱",
+    "english": "chaos",
+    "soundmark": "/ˈkeɪɒs/"
+  },
+  {
+    "chinese": "巨大的",
+    "english": "immense",
+    "soundmark": "/ɪˈmens/"
+  },
+  {
+    "chinese": "连环相撞",
+    "english": "pile-up",
+    "soundmark": "/ˈpaɪl ʌp/"
+  },
+  {
+    "chinese": "瘫痪",
+    "english": "paralyse",
+    "soundmark": "/ˈpærəlaɪz/"
+  },
+  {
+    "chinese": "不可避免的",
+    "english": "inevitable",
+    "soundmark": "/ɪnˈevɪtəbəl/"
+  },
+  {
+    "chinese": "预先",
+    "english": "beforehand",
+    "soundmark": "/bɪˈfɔːrhænd/"
+  },
+  {
+    "chinese": "不耐烦的",
+    "english": "impatient",
+    "soundmark": "/ɪmˈpeɪʃənt/"
+  },
+  {
+    "chinese": "一直开",
+    "english": "had been driving",
+    "soundmark": "/hæd biːn ˈdraɪvɪŋ/"
+  },
+  {
+    "chinese": "一直等",
+    "english": "had been waiting",
+    "soundmark": "/hæd biːn ˈweɪtɪŋ/"
+  },
+  {
+    "chinese": "一直下",
+    "english": "had been raining",
+    "soundmark": "/hæd biːn ˈreɪnɪŋ/"
+  },
+  {
+    "chinese": "交通堵塞",
+    "english": "traffic jam",
+    "soundmark": "/ˈtræfɪk dʒæm/"
+  },
+  {
+    "chinese": "连环撞车事故",
+    "english": "a massive pile-up",
+    "soundmark": "/ə ˈmæsɪv ˈpaɪl ʌp/"
+  },
+  {
+    "chinese": "我已经开了三个小时了。",
+    "english": "I had been driving for three hours",
+    "soundmark": "/aɪ hæd biːn ˈdraɪvɪŋ fɔːr θriː ˈaʊərz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/ˈaʊərz/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "雨已经下了一整天了。",
+    "english": "It had been raining all day",
+    "soundmark": "/ɪt hæd biːn ˈreɪnɪŋ ɔːl deɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "他们已经等了两小时了。",
+    "english": "They had been waiting for two hours",
+    "soundmark": "/ðeɪ hæd biːn ˈweɪtɪŋ fɔːr tuː ˈaʊərz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/ˈaʊərz/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "她已经在高速公路上开了几个小时。",
+    "english": "She had been driving on the motorway for hours",
+    "soundmark": "/ʃiː hæd biːn ˈdraɪvɪŋ ɑːn ðə ˈmoʊtərweɪ fɔːr ˈaʊərz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "motorway",
+        "role": "A",
+        "phonetic": "/ˈmoʊtərweɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/ˈaʊərz/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "当我们到达时交通已经被堵了几个小时。",
+    "english": "The traffic had been jammed for hours when we arrived",
+    "soundmark": "/ðə ˈtræfɪk hæd biːn dʒæmd fɔːr ˈaʊərz wen wiː əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "traffic",
+        "role": "S",
+        "phonetic": "/ˈtræfɪk/",
+        "chinese": "交通"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "jammed",
+        "role": "V",
+        "phonetic": "/dʒæmd/",
+        "chinese": "果酱"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/ˈaʊərz/",
+        "chinese": "小时"
+      },
+      {
+        "text": "when",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "我一直在想我们会不会迟到。",
+    "english": "I had been wondering if we would be late",
+    "soundmark": "/aɪ hæd biːn ˈwʌndərɪŋ ɪf wiː wʊd biː leɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "wondering",
+        "role": "V",
+        "phonetic": "/ˈwʌndərɪŋ/",
+        "chinese": "想知道/奇迹"
+      },
+      {
+        "text": "if",
+        "role": "A",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "事故发生前他们一直在高速行驶。",
+    "english": "They had been driving fast before the accident happened",
+    "soundmark": "/ðeɪ hæd biːn ˈdraɪvɪŋ fæst bɪˈfɔːr ði ˈæksɪdənt ˈhæpənd/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "driving",
+        "role": "V",
+        "phonetic": "/ˈdraɪvɪŋ/",
+        "chinese": "驾驶的"
+      },
+      {
+        "text": "fast",
+        "role": "A",
+        "phonetic": "/fæst/",
+        "chinese": "快的"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "accident",
+        "role": "S",
+        "phonetic": "/ˈæksɪdənt/",
+        "chinese": "事故"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      }
+    ]
+  },
+  {
+    "chinese": "我没意识到我们已经等这么久了。",
+    "english": "I had not realized we had been waiting so long",
+    "soundmark": "/aɪ hæd nɑːt ˈriːəlaɪzd wiː hæd biːn ˈweɪtɪŋ soʊ lɔːŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "realized",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪzd/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "waiting",
+        "role": "V",
+        "phonetic": "/ˈweɪtɪŋ/",
+        "chinese": "等待的"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "long",
+        "role": "A",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      }
+    ]
+  },
+  {
+    "chinese": "这家人一直在计划这次旅行已经好几个月了。",
+    "english": "The family had been planning this trip for months",
+    "soundmark": "/ðə ˈfæməli hæd biːn ˈplænɪŋ ðɪs trɪp fɔːr mʌnθs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "family",
+        "role": "S",
+        "phonetic": "/ˈfæməli/",
+        "chinese": "家庭"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "planning",
+        "role": "V",
+        "phonetic": "/ˈplænɪŋ/",
+        "chinese": "计划"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "trip",
+        "role": "O",
+        "phonetic": "/trɪp/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "months",
+        "role": "A",
+        "phonetic": "/mʌnθs/",
+        "chinese": "月"
+      }
+    ]
+  },
+  {
+    "chinese": "太阳一早上都在照耀但突然开始下雨了。",
+    "english": "The sun had been shining all morning but suddenly it started to rain",
+    "soundmark": "/ðə sʌn hæd biːn ˈʃaɪnɪŋ ɔːl ˈmɔːrnɪŋ bʌt ˈsʌdənli ɪt ˈstɑːrtɪd tuː reɪn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sun",
+        "role": "S",
+        "phonetic": "/sʌn/",
+        "chinese": "太阳"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "shining",
+        "role": "V",
+        "phonetic": "/ˈʃaɪnɪŋ/",
+        "chinese": "闪耀的/发光的"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      },
+      {
+        "text": "but",
+        "role": "A",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "suddenly",
+        "role": "Adv",
+        "phonetic": "/ˈsʌdənli/",
+        "chinese": "突然"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "rain",
+        "role": "V",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      }
+    ]
+  },
+  {
+    "chinese": "连环撞车事故造成了巨大的混乱。",
+    "english": "The pile-up caused immense chaos on the motorway",
+    "soundmark": "/ðə ˈpaɪl ʌp kɔːzd ɪˈmens ˈkeɪɒs ɑːn ðə ˈmoʊtərweɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "pile-up",
+        "role": "S",
+        "phonetic": "/ˈpaɪl ʌp/",
+        "chinese": ""
+      },
+      {
+        "text": "caused",
+        "role": "V",
+        "phonetic": "/kɔːzd/",
+        "chinese": "原因/导致"
+      },
+      {
+        "text": "immense",
+        "role": "C",
+        "phonetic": "/ɪˈmens/",
+        "chinese": ""
+      },
+      {
+        "text": "chaos",
+        "role": "O",
+        "phonetic": "/ˈkeɪɒs/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "motorway",
+        "role": "A",
+        "phonetic": "/ˈmoʊtərweɪ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果你提前查了路况这一切本可避免。",
+    "english": "All this could have been avoided if you had checked the traffic beforehand",
+    "soundmark": "/ɔːl ðɪs kʊd hæv biːn əˈvɔɪdɪd ɪf juː hæd tʃekt ðə ˈtræfɪk bɪˈfɔːrhænd/",
+    "grammar": [
+      {
+        "text": "All",
+        "role": "S",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "avoided",
+        "role": "V",
+        "phonetic": "/əˈvɔɪdɪd/",
+        "chinese": "避免"
+      },
+      {
+        "text": "if",
+        "role": "A",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "checked",
+        "role": "V",
+        "phonetic": "/tʃekt/",
+        "chinese": "检查"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "traffic",
+        "role": "O",
+        "phonetic": "/ˈtræfɪk/",
+        "chinese": "交通"
+      },
+      {
+        "text": "beforehand",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːrhænd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "堵塞",
+    "english": "jam",
+    "soundmark": "/dʒæm/"
+  },
+  {
+    "chinese": "混乱",
+    "english": "chaos",
+    "soundmark": "/ˈkeɪɒs/"
+  },
+  {
+    "chinese": "瘫痪",
+    "english": "paralyse",
+    "soundmark": "/ˈpærəlaɪz/"
+  },
+  {
+    "chinese": "预先",
+    "english": "beforehand",
+    "soundmark": "/bɪˈfɔːrhænd/"
+  },
+  {
+    "chinese": "不耐烦的",
+    "english": "impatient",
+    "soundmark": "/ɪmˈpeɪʃənt/"
+  },
+  {
+    "chinese": "不可避免的",
+    "english": "inevitable",
+    "soundmark": "/ɪnˈevɪtəbəl/"
+  },
+  {
+    "chinese": "高速公路",
+    "english": "motorway",
+    "soundmark": "/ˈmoʊtərweɪ/"
+  },
+  {
+    "chinese": "事故",
+    "english": "accident",
+    "soundmark": "/ˈæksɪdənt/"
+  }
+]

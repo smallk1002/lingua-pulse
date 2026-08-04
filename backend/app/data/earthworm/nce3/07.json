@@ -1,0 +1,725 @@
+[
+  {
+    "chinese": "残缺的",
+    "english": "mutilated",
+    "soundmark": "/ˈmjuːtɪleɪtɪd/"
+  },
+  {
+    "chinese": "钞票",
+    "english": "note",
+    "soundmark": "/noʊt/"
+  },
+  {
+    "chinese": "银行",
+    "english": "bank",
+    "soundmark": "/bæŋk/"
+  },
+  {
+    "chinese": "残骸",
+    "english": "remains",
+    "soundmark": "/rɪˈmeɪnz/"
+  },
+  {
+    "chinese": "焚烧",
+    "english": "burn",
+    "soundmark": "/bɜːrn/"
+  },
+  {
+    "chinese": "鉴别",
+    "english": "identify",
+    "soundmark": "/aɪˈdentɪfaɪ/"
+  },
+  {
+    "chinese": "英镑",
+    "english": "pound",
+    "soundmark": "/paʊnd/"
+  },
+  {
+    "chinese": "面值",
+    "english": "value",
+    "soundmark": "/ˈvæljuː/"
+  },
+  {
+    "chinese": "补偿",
+    "english": "compensate",
+    "soundmark": "/ˈkɑːmpenseɪt/"
+  },
+  {
+    "chinese": "碎钞票",
+    "english": "mutilated notes",
+    "soundmark": "/ˈmjuːtɪleɪtɪd/ /noʊts/"
+  },
+  {
+    "chinese": "被烧毁的",
+    "english": "burnt",
+    "soundmark": "/bɜːrnt/"
+  },
+  {
+    "chinese": "鉴别残骸",
+    "english": "identify the remains",
+    "soundmark": "/aɪˈdentɪfaɪ/ /ðə/ /rɪˈmeɪnz/"
+  },
+  {
+    "chinese": "钞票被残缺了",
+    "english": "The notes were mutilated",
+    "soundmark": "/ðə/ /noʊts/ /wɜːr/ /ˈmjuːtɪleɪtɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "notes",
+        "role": "S",
+        "phonetic": "/noʊts/",
+        "chinese": "不"
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "mutilated",
+        "role": "V",
+        "phonetic": "/ˈmjuːtɪleɪtɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "钞票被送到银行去鉴别了",
+    "english": "The notes were sent to the bank for identification",
+    "soundmark": "/ðə/ /noʊts/ /wɜːr/ /sent/ /tuː/ /ðə/ /bæŋk/ /fɔːr/ /aɪˌdentɪfɪˈkeɪʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "notes",
+        "role": "S",
+        "phonetic": "/noʊts/",
+        "chinese": "不"
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "sent",
+        "role": "V",
+        "phonetic": "/sent/",
+        "chinese": "寄/发送（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bank",
+        "role": "A",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "identification",
+        "role": "O",
+        "phonetic": "/aɪˌdentɪfɪˈkeɪʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这堆灰烬被仔细检查了",
+    "english": "The ashes were carefully examined",
+    "soundmark": "/ði/ /ˈæʃɪz/ /wɜːr/ /ˈkerfəli/ /ɪɡˈzæmɪnd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ashes",
+        "role": "S",
+        "phonetic": "/ˈæʃɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "carefully",
+        "role": "Adv",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      },
+      {
+        "text": "examined",
+        "role": "V",
+        "phonetic": "/ɪɡˈzæmɪnd/",
+        "chinese": "检查"
+      }
+    ]
+  },
+  {
+    "chinese": "这些钞票没有被完全烧毁",
+    "english": "The notes were not completely burnt",
+    "soundmark": "/ðə/ /noʊts/ /wɜːr/ /nɑːt/ /kəmˈpliːtli/ /bɜːrnt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "notes",
+        "role": "S",
+        "phonetic": "/noʊts/",
+        "chinese": "不"
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "completely",
+        "role": "Adv",
+        "phonetic": "/kəmˈpliːtli/",
+        "chinese": "完全地"
+      },
+      {
+        "text": "burnt",
+        "role": "V",
+        "phonetic": "/bɜːrnt/",
+        "chinese": "被烧的"
+      }
+    ]
+  },
+  {
+    "chinese": "这些钞票被鉴别出来了吗",
+    "english": "Were the notes identified",
+    "soundmark": "/wɜːr/ /ðə/ /noʊts/ /aɪˈdentɪfaɪd/",
+    "grammar": [
+      {
+        "text": "Were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "notes",
+        "role": "S",
+        "phonetic": "/noʊts/",
+        "chinese": "不"
+      },
+      {
+        "text": "identified",
+        "role": "V",
+        "phonetic": "/aɪˈdentɪfaɪd/",
+        "chinese": "被确认的"
+      }
+    ]
+  },
+  {
+    "chinese": "持有人获得了全额赔偿",
+    "english": "The owner was fully compensated",
+    "soundmark": "/ði/ /ˈoʊnər/ /wʌz/ /ˈfʊli/ /ˈkɑːmpenseɪtɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "owner",
+        "role": "S",
+        "phonetic": "/ˈoʊnər/",
+        "chinese": "更…的/…者(自己的)"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "fully",
+        "role": "Adv",
+        "phonetic": "/ˈfʊli/",
+        "chinese": "完全地"
+      },
+      {
+        "text": "compensated",
+        "role": "V",
+        "phonetic": "/ˈkɑːmpenseɪtɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "专家们成功从灰烬中鉴别出了钞票的面值",
+    "english": "Experts managed to identify the value of the notes from the ashes",
+    "soundmark": "/ˈekspɜːrts/ /ˈmænɪdʒd/ /tuː/ /aɪˈdentɪfaɪ/ /ðə/ /ˈvæljuː/ /ʌv/ /ðə/ /noʊts/ /frʌm/ /ði/ /ˈæʃɪz/",
+    "grammar": [
+      {
+        "text": "Experts",
+        "role": "S",
+        "phonetic": "/ˈekspɜːrts/",
+        "chinese": "专家们"
+      },
+      {
+        "text": "managed",
+        "role": "V",
+        "phonetic": "/ˈmænɪdʒd/",
+        "chinese": "管理"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "identify",
+        "role": "V",
+        "phonetic": "/aɪˈdentɪfaɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "value",
+        "role": "O",
+        "phonetic": "/ˈvæljuː/",
+        "chinese": "价值"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "notes",
+        "role": "O",
+        "phonetic": "/noʊts/",
+        "chinese": "不"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ashes",
+        "role": "O",
+        "phonetic": "/ˈæʃɪz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "只要钞票还能辨认银行就会赔偿",
+    "english": "As long as the notes can be identified the bank will compensate",
+    "soundmark": "/æz/ /lɔːŋ/ /æz/ /ðə/ /noʊts/ /kæn/ /biː/ /aɪˈdentɪfaɪd/ /ðə/ /bæŋk/ /wɪl/ /ˈkɑːmpenseɪt/",
+    "grammar": [
+      {
+        "text": "As",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "long",
+        "role": "Adv",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "notes",
+        "role": "S",
+        "phonetic": "/noʊts/",
+        "chinese": "不"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "identified",
+        "role": "V",
+        "phonetic": "/aɪˈdentɪfaɪd/",
+        "chinese": "被确认的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bank",
+        "role": "S",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "will",
+        "role": "Aux",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "compensate",
+        "role": "V",
+        "phonetic": "/ˈkɑːmpenseɪt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "女子把钞票放进了微波炉里结果它们被烧毁了",
+    "english": "The woman put the notes in a microwave and they were burnt",
+    "soundmark": "/ðə/ /ˈwʊmən/ /pʊt/ /ðə/ /noʊts/ /ɪn/ /ə/ /ˈmaɪkrəweɪv/ /ænd/ /ðeɪ/ /wɜːr/ /bɜːrnt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "woman",
+        "role": "S",
+        "phonetic": "/ˈwʊmən/",
+        "chinese": "女人"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "notes",
+        "role": "O",
+        "phonetic": "/noʊts/",
+        "chinese": "不"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "microwave",
+        "role": "A",
+        "phonetic": "/ˈmaɪkrəweɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "burnt",
+        "role": "V",
+        "phonetic": "/bɜːrnt/",
+        "chinese": "被烧的"
+      }
+    ]
+  },
+  {
+    "chinese": "灰烬",
+    "english": "ash",
+    "soundmark": "/æʃ/"
+  },
+  {
+    "chinese": "检查",
+    "english": "examine",
+    "soundmark": "/ɪɡˈzæmɪn/"
+  },
+  {
+    "chinese": "完全地",
+    "english": "completely",
+    "soundmark": "/kəmˈpliːtli/"
+  },
+  {
+    "chinese": "微波炉",
+    "english": "microwave",
+    "soundmark": "/ˈmaɪkrəweɪv/"
+  },
+  {
+    "chinese": "持有人",
+    "english": "owner",
+    "soundmark": "/ˈoʊnər/"
+  },
+  {
+    "chinese": "全额",
+    "english": "fully",
+    "soundmark": "/ˈfʊli/"
+  },
+  {
+    "chinese": "辨认",
+    "english": "identify",
+    "soundmark": "/aɪˈdentɪfaɪ/"
+  },
+  {
+    "chinese": "只要",
+    "english": "as long as",
+    "soundmark": "/æz/ /lɔːŋ/ /æz/"
+  },
+  {
+    "chinese": "英格兰银行每年都要处理成千上万张残缺钞票",
+    "english": "The Bank of England deals with thousands of mutilated notes every year",
+    "soundmark": "/ðə/ /bæŋk/ /ʌv/ /ˈɪŋɡlənd/ /diːlz/ /wɪð/ /ˈθaʊzəndz/ /ʌv/ /ˈmjuːtɪleɪtɪd/ /noʊts/ /ˈevri/ /jɪr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Bank",
+        "role": "S",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "England",
+        "role": "A",
+        "phonetic": "/ˈɪŋɡlənd/",
+        "chinese": "英格兰"
+      },
+      {
+        "text": "deals",
+        "role": "V",
+        "phonetic": "/diːlz/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "thousands",
+        "role": "A",
+        "phonetic": "/ˈθaʊzəndz/",
+        "chinese": "千"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "mutilated",
+        "role": "A",
+        "phonetic": "/ˈmjuːtɪleɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "notes",
+        "role": "O",
+        "phonetic": "/noʊts/",
+        "chinese": "不"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "银行有一个专门团队负责检查破损钞票",
+    "english": "The bank has a special team to examine damaged notes",
+    "soundmark": "/ðə/ /bæŋk/ /hæz/ /ə/ /ˈspeʃəl/ /tiːm/ /tuː/ /ɪɡˈzæmɪn/ /ˈdæmɪdʒd/ /noʊts/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bank",
+        "role": "S",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "special",
+        "role": "A",
+        "phonetic": "/ˈspeʃəl/",
+        "chinese": "特别的"
+      },
+      {
+        "text": "team",
+        "role": "O",
+        "phonetic": "/tiːm/",
+        "chinese": "团队"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "examine",
+        "role": "V",
+        "phonetic": "/ɪɡˈzæmɪn/",
+        "chinese": "检查"
+      },
+      {
+        "text": "damaged",
+        "role": "A",
+        "phonetic": "/ˈdæmɪdʒd/",
+        "chinese": "损坏的"
+      },
+      {
+        "text": "notes",
+        "role": "O",
+        "phonetic": "/noʊts/",
+        "chinese": "不"
+      }
+    ]
+  }
+]

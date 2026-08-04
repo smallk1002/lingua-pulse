@@ -1,0 +1,1683 @@
+[
+  {
+    "chinese": "未来",
+    "english": "future",
+    "soundmark": "/ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "预测",
+    "english": "predict",
+    "soundmark": "/prɪˈdɪkt/"
+  },
+  {
+    "chinese": "科技",
+    "english": "technology",
+    "soundmark": "/tekˈnɑːlədʒi/"
+  },
+  {
+    "chinese": "改变",
+    "english": "change",
+    "soundmark": "/tʃeɪndʒ/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "travel",
+    "soundmark": "/ˈtrævəl/"
+  },
+  {
+    "chinese": "太空",
+    "english": "space",
+    "soundmark": "/speɪs/"
+  },
+  {
+    "chinese": "机器人",
+    "english": "robot",
+    "soundmark": "/ˈroʊbɑːt/"
+  },
+  {
+    "chinese": "发明",
+    "english": "invention",
+    "soundmark": "/ɪnˈvenʃən/"
+  },
+  {
+    "chinese": "环境",
+    "english": "environment",
+    "soundmark": "/ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "行星",
+    "english": "planet",
+    "soundmark": "/ˈplænɪt/"
+  },
+  {
+    "chinese": "在不久的将来",
+    "english": "in the near future",
+    "soundmark": "/ɪn ðə nɪr ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "将会改变",
+    "english": "will change",
+    "soundmark": "/wɪl tʃeɪndʒ/"
+  },
+  {
+    "chinese": "打算去旅行",
+    "english": "going to travel",
+    "soundmark": "/ˈɡoʊɪŋ tuː ˈtrævəl/"
+  },
+  {
+    "chinese": "将来有一天",
+    "english": "someday in the future",
+    "soundmark": "/ˈsʌmdeɪ ɪn ðə ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "到那时",
+    "english": "by then",
+    "soundmark": "/baɪ ðen/"
+  },
+  {
+    "chinese": "展望未来",
+    "english": "look into the future",
+    "soundmark": "/lʊk ˈɪntuː ðə ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "明天天气会好",
+    "english": "It will be fine tomorrow",
+    "soundmark": "/ɪt wɪl biː faɪn təˈmɔːroʊ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "fine",
+        "role": "C",
+        "phonetic": "/faɪn/",
+        "chinese": "好的/晴朗的"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɔːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "我打算明年学一门新语言",
+    "english": "I am going to learn a new language next year",
+    "soundmark": "/aɪ æm ˈɡoʊɪŋ tuː lɜːrn ə nuː ˈlæŋɡwɪdʒ nekst jɪr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "learn",
+        "role": "V",
+        "phonetic": "/lɜːrn/",
+        "chinese": "学习"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "language",
+        "role": "O",
+        "phonetic": "/ˈlæŋɡwɪdʒ/",
+        "chinese": "语言"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "他今晚要飞往伦敦",
+    "english": "He is flying to London tonight",
+    "soundmark": "/hiː ɪz ˈflaɪɪŋ tuː ˈlʌndən təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "flying",
+        "role": "V",
+        "phonetic": "/ˈflaɪɪŋ/",
+        "chinese": "飞的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "London",
+        "role": "A",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "到明年这个时候她就毕业了",
+    "english": "She will have graduated by this time next year",
+    "soundmark": "/ʃiː wɪl hæv ˈɡrædʒuˌeɪtɪd baɪ ðɪs taɪm nekst jɪr/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "graduated",
+        "role": "V",
+        "phonetic": "/ˈɡrædʒuˌeɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "机器人将在日常生活中帮我们忙",
+    "english": "Robots will help us in our daily lives",
+    "soundmark": "/ˈroʊbɑːts wɪl help ʌs ɪn aʊər ˈdeɪli laɪvz/",
+    "grammar": [
+      {
+        "text": "Robots",
+        "role": "S",
+        "phonetic": "/ˈroʊbɑːts/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "daily",
+        "role": "A",
+        "phonetic": "/ˈdeɪli/",
+        "chinese": "…地(天/日)"
+      },
+      {
+        "text": "lives",
+        "role": "O",
+        "phonetic": "/laɪvz/",
+        "chinese": "生活/住"
+      }
+    ]
+  },
+  {
+    "chinese": "将来某一天人类会去火星",
+    "english": "Men will travel to Mars someday",
+    "soundmark": "/men wɪl ˈtrævəl tuː mɑːrz ˈsʌmdeɪ/",
+    "grammar": [
+      {
+        "text": "Men",
+        "role": "S",
+        "phonetic": "/men/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "travel",
+        "role": "V",
+        "phonetic": "/ˈtrævəl/",
+        "chinese": "旅行"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "Mars",
+        "role": "A",
+        "phonetic": "/mɑːrz/",
+        "chinese": ""
+      },
+      {
+        "text": "someday",
+        "role": "A",
+        "phonetic": "/ˈsʌmdeɪ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "世界会继续变化",
+    "english": "The world will keep on changing",
+    "soundmark": "/ðə wɜːrld wɪl kiːp ɑːn ˈtʃeɪndʒɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "S",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "keep",
+        "role": "V",
+        "phonetic": "/kiːp/",
+        "chinese": "保持/保留"
+      },
+      {
+        "text": "on",
+        "role": "Adv",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "changing",
+        "role": "V",
+        "phonetic": "/ˈtʃeɪndʒɪŋ/",
+        "chinese": "变化的"
+      }
+    ]
+  },
+  {
+    "chinese": "到那时环境也许已经好多了",
+    "english": "The environment may have improved a lot by then",
+    "soundmark": "/ðə ɪnˈvaɪrənmənt meɪ hæv ɪmˈpruːvd ə lɑːt baɪ ðen/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "environment",
+        "role": "S",
+        "phonetic": "/ɪnˈvaɪrənmənt/",
+        "chinese": "环境"
+      },
+      {
+        "text": "may",
+        "role": "V",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "improved",
+        "role": "V",
+        "phonetic": "/ɪmˈpruːvd/",
+        "chinese": "改善"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lot",
+        "role": "Adv",
+        "phonetic": "/lɑːt/",
+        "chinese": "许多"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "then",
+        "role": "A",
+        "phonetic": "/ðen/",
+        "chinese": "然后"
+      }
+    ]
+  },
+  {
+    "chinese": "你将来想做什么",
+    "english": "What do you want to be in the future",
+    "soundmark": "/wʌt duː juː wɑːnt tuː biː ɪn ðə ˈfjuːtʃər/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "future",
+        "role": "A",
+        "phonetic": "/ˈfjuːtʃər/",
+        "chinese": "未来"
+      }
+    ]
+  },
+  {
+    "chinese": "到周末之前我会把这本书看完",
+    "english": "I will have finished this book by the end of the week",
+    "soundmark": "/aɪ wɪl hæv ˈfɪnɪʃt ðɪs bʊk baɪ ðə end ʌv ðə wiːk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "finished",
+        "role": "V",
+        "phonetic": "/ˈfɪnɪʃt/",
+        "chinese": "完成的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "book",
+        "role": "O",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "end",
+        "role": "O",
+        "phonetic": "/end/",
+        "chinese": "结束"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "她很快就要出发了",
+    "english": "She is about to leave",
+    "soundmark": "/ʃiː ɪz əˈbaʊt tuː liːv/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "about",
+        "role": "Adv",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      }
+    ]
+  },
+  {
+    "chinese": "我想新发明将会改变一切",
+    "english": "I think new inventions will change everything",
+    "soundmark": "/aɪ θɪŋk nuː ɪnˈvenʃənz wɪl tʃeɪndʒ ˈevriθɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "inventions",
+        "role": "S",
+        "phonetic": "/ɪnˈvenʃənz/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "change",
+        "role": "V",
+        "phonetic": "/tʃeɪndʒ/",
+        "chinese": "改变"
+      },
+      {
+        "text": "everything",
+        "role": "O",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望到那时我们已经找到了答案",
+    "english": "I hope we will have found the answer by then",
+    "soundmark": "/aɪ hoʊp wiː wɪl hæv faʊnd ðə ˈænsər baɪ ðen/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hope",
+        "role": "V",
+        "phonetic": "/hoʊp/",
+        "chinese": "希望"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "answer",
+        "role": "O",
+        "phonetic": "/ˈænsər/",
+        "chinese": "回答"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "then",
+        "role": "A",
+        "phonetic": "/ðen/",
+        "chinese": "然后"
+      }
+    ]
+  },
+  {
+    "chinese": "科学家预言到2100年海平面将上升",
+    "english": "Scientists predict that sea levels will rise by 2100",
+    "soundmark": "/ˈsaɪəntɪsts prɪˈdɪkt ðæt siː ˈlevəlz wɪl raɪz baɪ tuː θaʊzənd wʌn ˈhʌndrəd/",
+    "grammar": [
+      {
+        "text": "Scientists",
+        "role": "S",
+        "phonetic": "/ˈsaɪəntɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "predict",
+        "role": "V",
+        "phonetic": "/prɪˈdɪkt/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "sea",
+        "role": "A",
+        "phonetic": "/siː/",
+        "chinese": "海"
+      },
+      {
+        "text": "levels",
+        "role": "S",
+        "phonetic": "/ˈlevəlz/",
+        "chinese": ""
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "rise",
+        "role": "V",
+        "phonetic": "/raɪz/",
+        "chinese": "上升"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "2100",
+        "role": "A",
+        "phonetic": "/tuː θaʊzənd wʌn ˈhʌndrəd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "谁也不知道明天会发生什么",
+    "english": "Nobody knows what will happen tomorrow",
+    "soundmark": "/ˈnoʊbədi noʊz wʌt wɪl ˈhæpən təˈmɔːroʊ/",
+    "grammar": [
+      {
+        "text": "Nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "knows",
+        "role": "V",
+        "phonetic": "/noʊz/",
+        "chinese": "知道"
+      },
+      {
+        "text": "what",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "happen",
+        "role": "V",
+        "phonetic": "/ˈhæpən/",
+        "chinese": "发生"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɔːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "等他们到这里时电影就已经开始了",
+    "english": "The film will have started by the time they get here",
+    "soundmark": "/ðə fɪlm wɪl hæv ˈstɑːrtɪd baɪ ðə taɪm ðeɪ ɡet hɪr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "film",
+        "role": "S",
+        "phonetic": "/fɪlm/",
+        "chinese": "电影"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "如果好好保护它，这颗行星将来仍会适合居住",
+    "english": "The planet will still be livable in the future if we protect it",
+    "soundmark": "/ðə ˈplænɪt wɪl stɪl biː ˈlɪvəbəl ɪn ðə ˈfjuːtʃər ɪf wiː prəˈtekt ɪt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "planet",
+        "role": "S",
+        "phonetic": "/ˈplænɪt/",
+        "chinese": "行星"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "livable",
+        "role": "C",
+        "phonetic": "/ˈlɪvəbəl/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "future",
+        "role": "A",
+        "phonetic": "/ˈfjuːtʃər/",
+        "chinese": "未来"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "protect",
+        "role": "V",
+        "phonetic": "/prəˈtekt/",
+        "chinese": "保护"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "太阳将在五点半左右下山",
+    "english": "The sun will set at about half past five",
+    "soundmark": "/ðə sʌn wɪl set æt əˈbaʊt hæf pæst faɪv/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sun",
+        "role": "S",
+        "phonetic": "/sʌn/",
+        "chinese": "太阳"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "set",
+        "role": "V",
+        "phonetic": "/set/",
+        "chinese": "设置/安置"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "about",
+        "role": "Adv",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "half",
+        "role": "Det",
+        "phonetic": "/hæf/",
+        "chinese": "一半"
+      },
+      {
+        "text": "past",
+        "role": "P",
+        "phonetic": "/pæst/",
+        "chinese": "过去"
+      },
+      {
+        "text": "five",
+        "role": "A",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      }
+    ]
+  },
+  {
+    "chinese": "到明年年底我们会在一起十年了",
+    "english": "We will have been together for ten years by the end of next year",
+    "soundmark": "/wiː wɪl hæv biːn təˈɡeðər fɔːr ten jɪrz baɪ ðə end ʌv nekst jɪr/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "together",
+        "role": "C",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "ten",
+        "role": "Det",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "end",
+        "role": "O",
+        "phonetic": "/end/",
+        "chinese": "结束"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "未来的世界会更数字化",
+    "english": "The world of the future will be more digital",
+    "soundmark": "/ðə wɜːrld ʌv ðə ˈfjuːtʃər wɪl biː mɔːr ˈdɪdʒɪtl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "S",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "future",
+        "role": "O",
+        "phonetic": "/ˈfjuːtʃər/",
+        "chinese": "未来"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "digital",
+        "role": "C",
+        "phonetic": "/ˈdɪdʒɪtl/",
+        "chinese": "数字的"
+      }
+    ]
+  },
+  {
+    "chinese": "毕业生",
+    "english": "graduate",
+    "soundmark": "/ˈɡrædʒuˌeɪt/"
+  },
+  {
+    "chinese": "科学家",
+    "english": "scientist",
+    "soundmark": "/ˈsaɪəntɪst/"
+  },
+  {
+    "chinese": "改善",
+    "english": "improve",
+    "soundmark": "/ɪmˈpruːv/"
+  },
+  {
+    "chinese": "数位的",
+    "english": "digital",
+    "soundmark": "/ˈdɪdʒɪtl/"
+  },
+  {
+    "chinese": "保护",
+    "english": "protect",
+    "soundmark": "/prəˈtekt/"
+  },
+  {
+    "chinese": "日常的",
+    "english": "daily",
+    "soundmark": "/ˈdeɪli/"
+  },
+  {
+    "chinese": "适合居住的",
+    "english": "livable",
+    "soundmark": "/ˈlɪvəbəl/"
+  },
+  {
+    "chinese": "日落",
+    "english": "sunset",
+    "soundmark": "/ˈsʌnset/"
+  },
+  {
+    "chinese": "水平面",
+    "english": "level",
+    "soundmark": "/ˈlevəl/"
+  },
+  {
+    "chinese": "语言",
+    "english": "language",
+    "soundmark": "/ˈlæŋɡwɪdʒ/"
+  },
+  {
+    "chinese": "等我们到家的时候天就会放晴",
+    "english": "The weather will have cleared up by the time we get home",
+    "soundmark": "/ðə ˈweðər wɪl hæv klɪrd ʌp baɪ ðə taɪm wiː ɡet hoʊm/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "weather",
+        "role": "S",
+        "phonetic": "/ˈweðər/",
+        "chinese": "天气"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "cleared",
+        "role": "V",
+        "phonetic": "/klɪrd/",
+        "chinese": "清楚的"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "他们即将宣布一项新的太空计划",
+    "english": "They are about to announce a new space program",
+    "soundmark": "/ðeɪ ɑːr əˈbaʊt tuː əˈnaʊns ə nuː speɪs ˈproʊɡræm/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "about",
+        "role": "Adv",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "announce",
+        "role": "V",
+        "phonetic": "/əˈnaʊns/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "space",
+        "role": "A",
+        "phonetic": "/speɪs/",
+        "chinese": "太空/空间"
+      },
+      {
+        "text": "program",
+        "role": "O",
+        "phonetic": "/ˈproʊɡræm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你觉得我们五十年后还会开车吗",
+    "english": "Do you think we will still drive cars in fifty years",
+    "soundmark": "/duː juː θɪŋk wiː wɪl stɪl draɪv kɑːrz ɪn ˈfɪfti jɪrz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "drive",
+        "role": "V",
+        "phonetic": "/draɪv/",
+        "chinese": "驾驶"
+      },
+      {
+        "text": "cars",
+        "role": "O",
+        "phonetic": "/kɑːrz/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "fifty",
+        "role": "Det",
+        "phonetic": "/ˈfɪfti/",
+        "chinese": "五十"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "到明年夏天他们就会搬到新城市了",
+    "english": "They will have moved to a new city by next summer",
+    "soundmark": "/ðeɪ wɪl hæv muːvd tuː ə nuː ˈsɪti baɪ nekst ˈsʌmər/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "moved",
+        "role": "V",
+        "phonetic": "/muːvd/",
+        "chinese": "移动"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "city",
+        "role": "O",
+        "phonetic": "/ˈsɪti/",
+        "chinese": "城市"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "summer",
+        "role": "A",
+        "phonetic": "/ˈsʌmər/",
+        "chinese": "夏天"
+      }
+    ]
+  },
+  {
+    "chinese": "人类很快就将开始在其他星球上生活",
+    "english": "Human beings will soon begin to live on other planets",
+    "soundmark": "/ˈhjuːmən ˈbiːɪŋz wɪl suːn bɪˈɡɪn tuː lɪv ɑːn ˈʌðər ˈplænɪts/",
+    "grammar": [
+      {
+        "text": "Human",
+        "role": "A",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "beings",
+        "role": "S",
+        "phonetic": "/ˈbiːɪŋz/",
+        "chinese": "是（进行时）"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "soon",
+        "role": "Adv",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      },
+      {
+        "text": "begin",
+        "role": "V",
+        "phonetic": "/bɪˈɡɪn/",
+        "chinese": "开始"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "other",
+        "role": "Det",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      },
+      {
+        "text": "planets",
+        "role": "O",
+        "phonetic": "/ˈplænɪts/",
+        "chinese": "行星"
+      }
+    ]
+  },
+  {
+    "chinese": "宣布",
+    "english": "announce",
+    "soundmark": "/əˈnaʊns/"
+  },
+  {
+    "chinese": "放晴",
+    "english": "clear up",
+    "soundmark": "/klɪr ʌp/"
+  },
+  {
+    "chinese": "人类",
+    "english": "human being",
+    "soundmark": "/ˈhjuːmən ˈbiːɪŋ/"
+  },
+  {
+    "chinese": "项目计划",
+    "english": "program",
+    "soundmark": "/ˈproʊɡræm/"
+  }
+]

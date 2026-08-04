@@ -1,0 +1,1054 @@
+[
+  {
+    "chinese": "在哪里",
+    "english": "where",
+    "soundmark": "/wer/"
+  },
+  {
+    "chinese": "在…旁边",
+    "english": "beside",
+    "soundmark": "/bɪˈsaɪd/"
+  },
+  {
+    "chinese": "在…后面",
+    "english": "behind",
+    "soundmark": "/bɪˈhaɪnd/"
+  },
+  {
+    "chinese": "在…前面",
+    "english": "in front of",
+    "soundmark": "/ɪn frʌnt ʌv/"
+  },
+  {
+    "chinese": "在…之间",
+    "english": "between",
+    "soundmark": "/bɪˈtwiːn/"
+  },
+  {
+    "chinese": "在…附近",
+    "english": "near",
+    "soundmark": "/nɪr/"
+  },
+  {
+    "chinese": "在…对面",
+    "english": "opposite",
+    "soundmark": "/ˈɑːpəzɪt/"
+  },
+  {
+    "chinese": "在…上方",
+    "english": "above",
+    "soundmark": "/əˈbʌv/"
+  },
+  {
+    "chinese": "在…下方",
+    "english": "below",
+    "soundmark": "/bɪˈloʊ/"
+  },
+  {
+    "chinese": "沿着",
+    "english": "along",
+    "soundmark": "/əˈlɔːŋ/"
+  },
+  {
+    "chinese": "穿过",
+    "english": "across",
+    "soundmark": "/əˈkrɔːs/"
+  },
+  {
+    "chinese": "进入",
+    "english": "into",
+    "soundmark": "/ˈɪntuː/"
+  },
+  {
+    "chinese": "出去",
+    "english": "out of",
+    "soundmark": "/aʊt ʌv/"
+  },
+  {
+    "chinese": "银行",
+    "english": "bank",
+    "soundmark": "/bæŋk/"
+  },
+  {
+    "chinese": "超市",
+    "english": "supermarket",
+    "soundmark": "/ˈsuːpərmɑːrkɪt/"
+  },
+  {
+    "chinese": "邮局",
+    "english": "post office",
+    "soundmark": "/poʊst ˈɑːfɪs/"
+  },
+  {
+    "chinese": "图书馆",
+    "english": "library",
+    "soundmark": "/ˈlaɪbreri/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɑːspɪtl/"
+  },
+  {
+    "chinese": "车站在哪里",
+    "english": "where is the station",
+    "soundmark": "/wer ɪz ðə ˈsteɪʃn/"
+  },
+  {
+    "chinese": "在银行旁边",
+    "english": "beside the bank",
+    "soundmark": "/bɪˈsaɪd ðə bæŋk/"
+  },
+  {
+    "chinese": "在超市对面",
+    "english": "opposite the supermarket",
+    "soundmark": "/ˈɑːpəzɪt ðə ˈsuːpərmɑːrkɪt/"
+  },
+  {
+    "chinese": "银行在哪里",
+    "english": "Where is the bank",
+    "soundmark": "/wer ɪz ðə bæŋk/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the bank",
+        "role": "S",
+        "phonetic": "/ðə bæŋk/",
+        "chinese": "这个/那个/银行"
+      }
+    ]
+  },
+  {
+    "chinese": "邮局在图书馆旁边",
+    "english": "The post office is beside the library",
+    "soundmark": "/ðə poʊst ˈɑːfɪs ɪz bɪˈsaɪd ðə ˈlaɪbreri/",
+    "grammar": [
+      {
+        "text": "The post office",
+        "role": "S",
+        "phonetic": "/ðə poʊst ˈɑːfɪs/",
+        "chinese": "这个/那个/办公室"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "beside",
+        "role": "P",
+        "phonetic": "/bɪˈsaɪd/",
+        "chinese": "在…旁边"
+      },
+      {
+        "text": "the library",
+        "role": "C",
+        "phonetic": "/ðə ˈlaɪbreri/",
+        "chinese": "这个/那个/图书馆"
+      }
+    ]
+  },
+  {
+    "chinese": "超市在哪里",
+    "english": "Where is the supermarket",
+    "soundmark": "/wer ɪz ðə ˈsuːpərmɑːrkɪt/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the supermarket",
+        "role": "S",
+        "phonetic": "/ðə ˈsuːpərmɑːrkɪt/",
+        "chinese": "这个/那个/超市"
+      }
+    ]
+  },
+  {
+    "chinese": "它在邮局对面",
+    "english": "It is opposite the post office",
+    "soundmark": "/ɪt ɪz ˈɑːpəzɪt ðə poʊst ˈɑːfɪs/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "opposite",
+        "role": "P",
+        "phonetic": "/ˈɑːpəzɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "the post office",
+        "role": "C",
+        "phonetic": "/ðə poʊst ˈɑːfɪs/",
+        "chinese": "这个/那个/办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "医院在超市后面",
+    "english": "The hospital is behind the supermarket",
+    "soundmark": "/ðə ˈhɑːspɪtl ɪz bɪˈhaɪnd ðə ˈsuːpərmɑːrkɪt/",
+    "grammar": [
+      {
+        "text": "The hospital",
+        "role": "S",
+        "phonetic": "/ðə ˈhɑːspɪtl/",
+        "chinese": "这个/那个/医院"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "behind",
+        "role": "P",
+        "phonetic": "/bɪˈhaɪnd/",
+        "chinese": "在…后面"
+      },
+      {
+        "text": "the supermarket",
+        "role": "C",
+        "phonetic": "/ðə ˈsuːpərmɑːrkɪt/",
+        "chinese": "这个/那个/超市"
+      }
+    ]
+  },
+  {
+    "chinese": "图书馆在医院附近",
+    "english": "The library is near the hospital",
+    "soundmark": "/ðə ˈlaɪbreri ɪz nɪr ðə ˈhɑːspɪtl/",
+    "grammar": [
+      {
+        "text": "The library",
+        "role": "S",
+        "phonetic": "/ðə ˈlaɪbreri/",
+        "chinese": "这个/那个/图书馆"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "near",
+        "role": "P",
+        "phonetic": "/nɪr/",
+        "chinese": "在…附近"
+      },
+      {
+        "text": "the hospital",
+        "role": "C",
+        "phonetic": "/ðə ˈhɑːspɪtl/",
+        "chinese": "这个/那个/医院"
+      }
+    ]
+  },
+  {
+    "chinese": "银行不在超市旁边",
+    "english": "The bank is not beside the supermarket",
+    "soundmark": "/ðə bæŋk ɪz nɑːt bɪˈsaɪd ðə ˈsuːpərmɑːrkɪt/",
+    "grammar": [
+      {
+        "text": "The bank",
+        "role": "S",
+        "phonetic": "/ðə bæŋk/",
+        "chinese": "这个/那个/银行"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "beside",
+        "role": "P",
+        "phonetic": "/bɪˈsaɪd/",
+        "chinese": "在…旁边"
+      },
+      {
+        "text": "the supermarket",
+        "role": "C",
+        "phonetic": "/ðə ˈsuːpərmɑːrkɪt/",
+        "chinese": "这个/那个/超市"
+      }
+    ]
+  },
+  {
+    "chinese": "邮局在银行附近吗",
+    "english": "Is the post office near the bank",
+    "soundmark": "/ɪz ðə poʊst ˈɑːfɪs nɪr ðə bæŋk/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the post office",
+        "role": "S",
+        "phonetic": "/ðə poʊst ˈɑːfɪs/",
+        "chinese": "这个/那个/办公室"
+      },
+      {
+        "text": "near",
+        "role": "P",
+        "phonetic": "/nɪr/",
+        "chinese": "在…附近"
+      },
+      {
+        "text": "the bank",
+        "role": "C",
+        "phonetic": "/ðə bæŋk/",
+        "chinese": "这个/那个/银行"
+      }
+    ]
+  },
+  {
+    "chinese": "车站在哪里在银行和邮局之间",
+    "english": "Where is the station it is between the bank and the post office",
+    "soundmark": "/wer ɪz ðə ˈsteɪʃn ɪt ɪz bɪˈtwiːn ðə bæŋk ænd ðə poʊst ˈɑːfɪs/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the station",
+        "role": "S",
+        "phonetic": "/ðə ˈsteɪʃn/",
+        "chinese": "这个/那个/车站"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "between the bank and the post office",
+        "role": "C",
+        "phonetic": "/bɪˈtwiːn ðə bæŋk ænd ðə poʊst ˈɑːfɪs/",
+        "chinese": "在…之间/这个/那个/银行/和/这个/那个/办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "沿着这条路走",
+    "english": "Go along this road",
+    "soundmark": "/ɡoʊ əˈlɔːŋ ðɪs roʊd/",
+    "grammar": [
+      {
+        "text": "Go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "along",
+        "role": "P",
+        "phonetic": "/əˈlɔːŋ/",
+        "chinese": "沿着"
+      },
+      {
+        "text": "this road",
+        "role": "A",
+        "phonetic": "/ðɪs roʊd/",
+        "chinese": "这个/路"
+      }
+    ]
+  },
+  {
+    "chinese": "穿过那条街银行就在左边",
+    "english": "Go across the street the bank is on the left",
+    "soundmark": "/ɡoʊ əˈkrɔːs ðə striːt ðə bæŋk ɪz ɑːn ðə left/",
+    "grammar": [
+      {
+        "text": "Go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "across",
+        "role": "P",
+        "phonetic": "/əˈkrɔːs/",
+        "chinese": "穿过/对面"
+      },
+      {
+        "text": "the street",
+        "role": "A",
+        "phonetic": "/ðə striːt/",
+        "chinese": "这个/那个/街道"
+      },
+      {
+        "text": "the bank",
+        "role": "S",
+        "phonetic": "/ðə bæŋk/",
+        "chinese": "这个/那个/银行"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on the left",
+        "role": "C",
+        "phonetic": "/ɑːn ðə left/",
+        "chinese": "在…上/这个/那个/左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的书在你的书下面吗",
+    "english": "Is my book under your book",
+    "soundmark": "/ɪz maɪ bʊk ˈʌndər jɔːr bʊk/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my book",
+        "role": "S",
+        "phonetic": "/maɪ bʊk/",
+        "chinese": "我的/预订/书"
+      },
+      {
+        "text": "under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "your book",
+        "role": "C",
+        "phonetic": "/jɔːr bʊk/",
+        "chinese": "你的/你们的/预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "猫在沙发旁边",
+    "english": "The cat is beside the sofa",
+    "soundmark": "/ðə kæt ɪz bɪˈsaɪd ðə ˈsoʊfə/",
+    "grammar": [
+      {
+        "text": "The cat",
+        "role": "S",
+        "phonetic": "/ðə kæt/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "beside",
+        "role": "P",
+        "phonetic": "/bɪˈsaɪd/",
+        "chinese": "在…旁边"
+      },
+      {
+        "text": "the sofa",
+        "role": "C",
+        "phonetic": "/ðə ˈsoʊfə/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "公园在我们房子前面",
+    "english": "The park is in front of our house",
+    "soundmark": "/ðə pɑːrk ɪz ɪn frʌnt ʌv ˈaʊər haʊs/",
+    "grammar": [
+      {
+        "text": "The park",
+        "role": "S",
+        "phonetic": "/ðə pɑːrk/",
+        "chinese": "这个/那个/公园"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in front of",
+        "role": "P",
+        "phonetic": "/ɪn frʌnt ʌv/",
+        "chinese": "在…前面"
+      },
+      {
+        "text": "our house",
+        "role": "C",
+        "phonetic": "/ˈaʊər haʊs/",
+        "chinese": "我们的/房子"
+      }
+    ]
+  },
+  {
+    "chinese": "请问最近的公车站在哪里",
+    "english": "Where is the nearest bus stop please",
+    "soundmark": "/wer ɪz ðə ˈnɪrɪst bʌs stɑːp pliːz/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the nearest bus stop",
+        "role": "S",
+        "phonetic": "/ðə ˈnɪrɪst bʌs stɑːp/",
+        "chinese": "这个/那个/最…的(在…附近)/公交车/停止"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "医院就在邮局对面",
+    "english": "The hospital is right opposite the post office",
+    "soundmark": "/ðə ˈhɑːspɪtl ɪz raɪt ˈɑːpəzɪt ðə poʊst ˈɑːfɪs/",
+    "grammar": [
+      {
+        "text": "The hospital",
+        "role": "S",
+        "phonetic": "/ðə ˈhɑːspɪtl/",
+        "chinese": "这个/那个/医院"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "right opposite",
+        "role": "C",
+        "phonetic": "/raɪt ˈɑːpəzɪt/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "the post office",
+        "role": "C",
+        "phonetic": "/ðə poʊst ˈɑːfɪs/",
+        "chinese": "这个/那个/办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "图书馆在超市和银行之间",
+    "english": "The library is between the supermarket and the bank",
+    "soundmark": "/ðə ˈlaɪbreri ɪz bɪˈtwiːn ðə ˈsuːpərmɑːrkɪt ænd ðə bæŋk/",
+    "grammar": [
+      {
+        "text": "The library",
+        "role": "S",
+        "phonetic": "/ðə ˈlaɪbreri/",
+        "chinese": "这个/那个/图书馆"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "the supermarket and the bank",
+        "role": "C",
+        "phonetic": "/ðə ˈsuːpərmɑːrkɪt ænd ðə bæŋk/",
+        "chinese": "这个/那个/超市/和/这个/那个/银行"
+      }
+    ]
+  },
+  {
+    "chinese": "地图上的学校在哪里",
+    "english": "Where is the school on the map",
+    "soundmark": "/wer ɪz ðə skuːl ɑːn ðə mæp/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the school",
+        "role": "S",
+        "phonetic": "/ðə skuːl/",
+        "chinese": "这个/那个/学校"
+      },
+      {
+        "text": "on the map",
+        "role": "A",
+        "phonetic": "/ɑːn ðə mæp/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "那张桌子在窗子旁边吗",
+    "english": "Is that table beside the window",
+    "soundmark": "/ɪz ðæt ˈteɪbl bɪˈsaɪd ðə ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "that table",
+        "role": "S",
+        "phonetic": "/ðæt ˈteɪbl/",
+        "chinese": "那个"
+      },
+      {
+        "text": "beside",
+        "role": "P",
+        "phonetic": "/bɪˈsaɪd/",
+        "chinese": "在…旁边"
+      },
+      {
+        "text": "the window",
+        "role": "C",
+        "phonetic": "/ðə ˈwɪndoʊ/",
+        "chinese": "这个/那个/窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "不它不在窗边它在门旁边",
+    "english": "No it is not beside the window it is near the door",
+    "soundmark": "/noʊ ɪt ɪz nɑːt bɪˈsaɪd ðə ˈwɪndoʊ ɪt ɪz nɪr ðə dɔːr/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "beside the window",
+        "role": "C",
+        "phonetic": "/bɪˈsaɪd ðə ˈwɪndoʊ/",
+        "chinese": "在…旁边/这个/那个/窗户"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "near the door",
+        "role": "C",
+        "phonetic": "/nɪr ðə dɔːr/",
+        "chinese": "在…附近/这个/那个/门"
+      }
+    ]
+  },
+  {
+    "chinese": "沿这条路走然后在红绿灯右转",
+    "english": "Go along this road and turn right at the traffic lights",
+    "soundmark": "/ɡoʊ əˈlɔːŋ ðɪs roʊd ænd tɜːrn raɪt æt ðə ˈtræfɪk laɪts/",
+    "grammar": [
+      {
+        "text": "Go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "along this road",
+        "role": "A",
+        "phonetic": "/əˈlɔːŋ ðɪs roʊd/",
+        "chinese": "沿着/这个/路"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "turn",
+        "role": "V",
+        "phonetic": "/tɜːrn/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "right",
+        "role": "A",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "at the traffic lights",
+        "role": "A",
+        "phonetic": "/æt ðə ˈtræfɪk laɪts/",
+        "chinese": "在/这个/那个/交通/…们/复数(轻的/浅色的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我的钥匙在哪里",
+    "english": "Where are my keys",
+    "soundmark": "/wer ɑːr maɪ kiːz/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "my keys",
+        "role": "S",
+        "phonetic": "/maɪ kiːz/",
+        "chinese": "我的/钥匙"
+      }
+    ]
+  },
+  {
+    "chinese": "它们在桌子上",
+    "english": "They are on the table",
+    "soundmark": "/ðeɪ ɑːr ɑːn ðə ˈteɪbl/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the table",
+        "role": "C",
+        "phonetic": "/ðə ˈteɪbl/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你的包在椅子下面",
+    "english": "Your bag is under the chair",
+    "soundmark": "/jɔːr bæɡ ɪz ˈʌndər ðə tʃer/",
+    "grammar": [
+      {
+        "text": "Your bag",
+        "role": "S",
+        "phonetic": "/jɔːr bæɡ/",
+        "chinese": "你的/你们的/包"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "the chair",
+        "role": "C",
+        "phonetic": "/ðə tʃer/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我们站在房子前面",
+    "english": "We are standing in front of the house",
+    "soundmark": "/wiː ɑːr ˈstændɪŋ ɪn frʌnt ʌv ðə haʊs/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are standing",
+        "role": "V",
+        "phonetic": "/ɑːr ˈstændɪŋ/",
+        "chinese": "是"
+      },
+      {
+        "text": "in front of the house",
+        "role": "A",
+        "phonetic": "/ɪn frʌnt ʌv ðə haʊs/",
+        "chinese": "在…里/…的/这个/那个/房子"
+      }
+    ]
+  },
+  {
+    "chinese": "你能告诉我医院离这里远不远",
+    "english": "Can you tell me if the hospital is far from here",
+    "soundmark": "/kæn juː tel miː ɪf ðə ˈhɑːspɪtl ɪz fɑːr frʌm hɪr/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "if the hospital is far from here",
+        "role": "O",
+        "phonetic": "/ɪf ðə ˈhɑːspɪtl ɪz fɑːr frʌm hɪr/",
+        "chinese": "如果/这个/那个/医院/是/远/从/来自/这里"
+      }
+    ]
+  },
+  {
+    "chinese": "图书馆不在邮局对面它在学校旁边",
+    "english": "The library is not opposite the post office it is beside the school",
+    "soundmark": "/ðə ˈlaɪbreri ɪz nɑːt ˈɑːpəzɪt ðə poʊst ˈɑːfɪs ɪt ɪz bɪˈsaɪd ðə skuːl/",
+    "grammar": [
+      {
+        "text": "The library",
+        "role": "S",
+        "phonetic": "/ðə ˈlaɪbreri/",
+        "chinese": "这个/那个/图书馆"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "opposite the post office",
+        "role": "C",
+        "phonetic": "/ˈɑːpəzɪt ðə poʊst ˈɑːfɪs/",
+        "chinese": "这个/那个/办公室"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "beside the school",
+        "role": "C",
+        "phonetic": "/bɪˈsaɪd ðə skuːl/",
+        "chinese": "在…旁边/这个/那个/学校"
+      }
+    ]
+  },
+  {
+    "chinese": "车站",
+    "english": "station",
+    "soundmark": "/ˈsteɪʃn/"
+  },
+  {
+    "chinese": "地图",
+    "english": "map",
+    "soundmark": "/mæp/"
+  },
+  {
+    "chinese": "左边",
+    "english": "left",
+    "soundmark": "/left/"
+  },
+  {
+    "chinese": "右边",
+    "english": "right",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "chinese": "红绿灯",
+    "english": "traffic lights",
+    "soundmark": "/ˈtræfɪk laɪts/"
+  },
+  {
+    "chinese": "路",
+    "english": "road",
+    "soundmark": "/roʊd/"
+  },
+  {
+    "chinese": "街",
+    "english": "street",
+    "soundmark": "/striːt/"
+  },
+  {
+    "chinese": "离…远",
+    "english": "far from",
+    "soundmark": "/fɑːr frʌm/"
+  },
+  {
+    "chinese": "附近",
+    "english": "nearby",
+    "soundmark": "/ˌnɪrˈbaɪ/"
+  },
+  {
+    "chinese": "角落",
+    "english": "corner",
+    "soundmark": "/ˈkɔːrnər/"
+  }
+]

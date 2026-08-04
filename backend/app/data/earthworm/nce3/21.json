@@ -1,0 +1,1658 @@
+[
+  {
+    "chinese": "拳击",
+    "english": "boxing",
+    "soundmark": "/ˈbɑːksɪŋ/"
+  },
+  {
+    "chinese": "拳击手",
+    "english": "boxer",
+    "soundmark": "/ˈbɑːksər/"
+  },
+  {
+    "chinese": "冠军",
+    "english": "champion",
+    "soundmark": "/ˈtʃæmpiən/"
+  },
+  {
+    "chinese": "对手",
+    "english": "opponent",
+    "soundmark": "/əˈpoʊnənt/"
+  },
+  {
+    "chinese": "比赛",
+    "english": "match",
+    "soundmark": "/mætʃ/"
+  },
+  {
+    "chinese": "胜利",
+    "english": "victory",
+    "soundmark": "/ˈvɪktəri/"
+  },
+  {
+    "chinese": "击败",
+    "english": "defeat",
+    "soundmark": "/dɪˈfiːt/"
+  },
+  {
+    "chinese": "手套",
+    "english": "glove",
+    "soundmark": "/ɡlʌv/"
+  },
+  {
+    "chinese": "拳击场",
+    "english": "ring",
+    "soundmark": "/rɪŋ/"
+  },
+  {
+    "chinese": "名气",
+    "english": "fame",
+    "soundmark": "/feɪm/"
+  },
+  {
+    "chinese": "赤手拳击",
+    "english": "bare-knuckle boxing",
+    "soundmark": "/ber/ /ˈnʌkəl/ /ˈbɑːksɪŋ/"
+  },
+  {
+    "chinese": "职业拳击",
+    "english": "professional boxing",
+    "soundmark": "/prəˈfeʃənəl/ /ˈbɑːksɪŋ/"
+  },
+  {
+    "chinese": "拳击比赛",
+    "english": "boxing match",
+    "soundmark": "/ˈbɑːksɪŋ/ /mætʃ/"
+  },
+  {
+    "chinese": "赢得冠军",
+    "english": "win the championship",
+    "soundmark": "/wɪn/ /ðə/ /ˈtʃæmpiənʃɪp/"
+  },
+  {
+    "chinese": "把某人击倒",
+    "english": "knock someone out",
+    "soundmark": "/nɑːk/ /ˈsʌmwʌn/ /aʊt/"
+  },
+  {
+    "chinese": "重量级拳击手",
+    "english": "heavyweight boxer",
+    "soundmark": "/ˈheviweɪt/ /ˈbɑːksər/"
+  },
+  {
+    "chinese": "赤手格斗",
+    "english": "bare-fisted fight",
+    "soundmark": "/ber/ /ˈfɪstɪd/ /faɪt/"
+  },
+  {
+    "chinese": "丹尼尔·门多萨是一位著名的拳击手",
+    "english": "Daniel Mendoza was a famous boxer",
+    "soundmark": "/ˈdænjəl/ /menˈdoʊzə/ /wʌz/ /ə/ /ˈfeɪməs/ /ˈbɑːksər/",
+    "grammar": [
+      {
+        "text": "Daniel",
+        "role": "S",
+        "phonetic": "/ˈdænjəl/",
+        "chinese": ""
+      },
+      {
+        "text": "Mendoza",
+        "role": "S",
+        "phonetic": "/menˈdoʊzə/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "famous",
+        "role": "A",
+        "phonetic": "/ˈfeɪməs/",
+        "chinese": "著名的"
+      },
+      {
+        "text": "boxer",
+        "role": "C",
+        "phonetic": "/ˈbɑːksər/",
+        "chinese": "更…的/…者(箱子/盒)"
+      }
+    ]
+  },
+  {
+    "chinese": "拳击在当时是一项非常流行的运动",
+    "english": "Boxing was a very popular sport in those days",
+    "soundmark": "/ˈbɑːksɪŋ/ /wʌz/ /ə/ /ˈveri/ /ˈpɑːpjələr/ /spɔːrt/ /ɪn/ /ðoʊz/ /deɪz/",
+    "grammar": [
+      {
+        "text": "Boxing",
+        "role": "S",
+        "phonetic": "/ˈbɑːksɪŋ/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "popular",
+        "role": "A",
+        "phonetic": "/ˈpɑːpjələr/",
+        "chinese": "流行的"
+      },
+      {
+        "text": "sport",
+        "role": "C",
+        "phonetic": "/spɔːrt/",
+        "chinese": "运动"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "those",
+        "role": "Det",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "days",
+        "role": "A",
+        "phonetic": "/deɪz/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "他成为职业拳击手时还很年轻",
+    "english": "He became a professional boxer when he was very young",
+    "soundmark": "/hiː/ /bɪˈkeɪm/ /ə/ /prəˈfeʃənəl/ /ˈbɑːksər/ /wen/ /hiː/ /wʌz/ /ˈveri/ /jʌŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "became",
+        "role": "Lv",
+        "phonetic": "/bɪˈkeɪm/",
+        "chinese": "变成（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "professional",
+        "role": "A",
+        "phonetic": "/prəˈfeʃənəl/",
+        "chinese": "专业的"
+      },
+      {
+        "text": "boxer",
+        "role": "C",
+        "phonetic": "/ˈbɑːksər/",
+        "chinese": "更…的/…者(箱子/盒)"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      }
+    ]
+  },
+  {
+    "chinese": "门多萨比他的对手更聪明",
+    "english": "Mendoza was cleverer than his opponent",
+    "soundmark": "/menˈdoʊzə/ /wʌz/ /ˈklevərər/ /ðæn/ /hɪz/ /əˈpoʊnənt/",
+    "grammar": [
+      {
+        "text": "Mendoza",
+        "role": "S",
+        "phonetic": "/menˈdoʊzə/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "cleverer",
+        "role": "C",
+        "phonetic": "/ˈklevərər/",
+        "chinese": "更…的/…者(聪明的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "opponent",
+        "role": "O",
+        "phonetic": "/əˈpoʊnənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他比大多数拳击手都要轻",
+    "english": "He was lighter than most boxers",
+    "soundmark": "/hiː/ /wʌz/ /ˈlaɪtər/ /ðæn/ /moʊst/ /ˈbɑːksərz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "lighter",
+        "role": "C",
+        "phonetic": "/ˈlaɪtər/",
+        "chinese": "更…的/…者(轻的/浅色的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "most",
+        "role": "Det",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "boxers",
+        "role": "O",
+        "phonetic": "/ˈbɑːksərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他的技术比他的力量更出色",
+    "english": "His technique was better than his strength",
+    "soundmark": "/hɪz/ /tekˈniːk/ /wʌz/ /ˈbetər/ /ðæn/ /hɪz/ /streŋkθ/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "technique",
+        "role": "S",
+        "phonetic": "/tekˈniːk/",
+        "chinese": "技巧"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "better",
+        "role": "C",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "strength",
+        "role": "O",
+        "phonetic": "/streŋkθ/",
+        "chinese": "力量"
+      }
+    ]
+  },
+  {
+    "chinese": "他在1790年赢得了冠军",
+    "english": "He won the championship in 1790",
+    "soundmark": "/hiː/ /wʌn/ /ðə/ /ˈtʃæmpiənʃɪp/ /ɪn/ /ˈsevnˈtiːn/ /ˈnaɪnti/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "won",
+        "role": "V",
+        "phonetic": "/wʌn/",
+        "chinese": "赢（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "championship",
+        "role": "O",
+        "phonetic": "/ˈtʃæmpiənʃɪp/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "1790",
+        "role": "A",
+        "phonetic": "/ˈsevnˈtiːn/ /ˈnaɪnti/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "门多萨在拳击界享有盛名",
+    "english": "Mendoza enjoyed great fame in the boxing world",
+    "soundmark": "/menˈdoʊzə/ /ɪnˈdʒɔɪd/ /ɡreɪt/ /feɪm/ /ɪn/ /ðə/ /ˈbɑːksɪŋ/ /wɜːrld/",
+    "grammar": [
+      {
+        "text": "Mendoza",
+        "role": "S",
+        "phonetic": "/menˈdoʊzə/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "enjoyed",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪd/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "great",
+        "role": "A",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "fame",
+        "role": "O",
+        "phonetic": "/feɪm/",
+        "chinese": "名声"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "boxing",
+        "role": "A",
+        "phonetic": "/ˈbɑːksɪŋ/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "world",
+        "role": "A",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      }
+    ]
+  },
+  {
+    "chinese": "当时的拳击比赛是赤手进行的",
+    "english": "Boxing matches were fought with bare fists in those days",
+    "soundmark": "/ˈbɑːksɪŋ/ /ˈmætʃɪz/ /wɜːr/ /fɔːt/ /wɪð/ /ber/ /fɪsts/ /ɪn/ /ðoʊz/ /deɪz/",
+    "grammar": [
+      {
+        "text": "Boxing",
+        "role": "A",
+        "phonetic": "/ˈbɑːksɪŋ/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "matches",
+        "role": "S",
+        "phonetic": "/ˈmætʃɪz/",
+        "chinese": "匹配"
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "fought",
+        "role": "V",
+        "phonetic": "/fɔːt/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "bare",
+        "role": "A",
+        "phonetic": "/ber/",
+        "chinese": ""
+      },
+      {
+        "text": "fists",
+        "role": "O",
+        "phonetic": "/fɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "those",
+        "role": "Det",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "days",
+        "role": "A",
+        "phonetic": "/deɪz/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "门多萨没有用蛮力击败对手",
+    "english": "Mendoza did not defeat his opponents with brute force",
+    "soundmark": "/menˈdoʊzə/ /dɪd/ /nɑːt/ /dɪˈfiːt/ /hɪz/ /əˈpoʊnənts/ /wɪð/ /bruːt/ /fɔːrs/",
+    "grammar": [
+      {
+        "text": "Mendoza",
+        "role": "S",
+        "phonetic": "/menˈdoʊzə/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "defeat",
+        "role": "V",
+        "phonetic": "/dɪˈfiːt/",
+        "chinese": "失败"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "opponents",
+        "role": "O",
+        "phonetic": "/əˈpoʊnənts/",
+        "chinese": ""
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "brute",
+        "role": "A",
+        "phonetic": "/bruːt/",
+        "chinese": ""
+      },
+      {
+        "text": "force",
+        "role": "O",
+        "phonetic": "/fɔːrs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他并不比对手高大",
+    "english": "He was not bigger than his opponents",
+    "soundmark": "/hiː/ /wʌz/ /nɑːt/ /ˈbɪɡər/ /ðæn/ /hɪz/ /əˈpoʊnənts/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "bigger",
+        "role": "C",
+        "phonetic": "/ˈbɪɡər/",
+        "chinese": "更大的"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "opponents",
+        "role": "O",
+        "phonetic": "/əˈpoʊnənts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他从未在比赛中失去信心",
+    "english": "He never lost confidence in a match",
+    "soundmark": "/hiː/ /ˈnevər/ /lɔːst/ /ˈkɑːnfɪdəns/ /ɪn/ /ə/ /mætʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "confidence",
+        "role": "O",
+        "phonetic": "/ˈkɑːnfɪdəns/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "match",
+        "role": "A",
+        "phonetic": "/mætʃ/",
+        "chinese": "匹配"
+      }
+    ]
+  },
+  {
+    "chinese": "当时的规则允许抓抱和摔跤吗",
+    "english": "Did the rules allow holding and wrestling in those days",
+    "soundmark": "/dɪd/ /ðə/ /ruːlz/ /əˈlaʊ/ /ˈhoʊldɪŋ/ /ænd/ /ˈreslɪŋ/ /ɪn/ /ðoʊz/ /deɪz/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rules",
+        "role": "S",
+        "phonetic": "/ruːlz/",
+        "chinese": "规则/统治"
+      },
+      {
+        "text": "allow",
+        "role": "V",
+        "phonetic": "/əˈlaʊ/",
+        "chinese": "允许"
+      },
+      {
+        "text": "holding",
+        "role": "O",
+        "phonetic": "/ˈhoʊldɪŋ/",
+        "chinese": "握着的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "wrestling",
+        "role": "O",
+        "phonetic": "/ˈreslɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "those",
+        "role": "Det",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "days",
+        "role": "A",
+        "phonetic": "/deɪz/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "门多萨打败过所有挑战者吗",
+    "english": "Did Mendoza beat all his challengers",
+    "soundmark": "/dɪd/ /menˈdoʊzə/ /biːt/ /ɔːl/ /hɪz/ /ˈtʃælɪndʒərz/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "Mendoza",
+        "role": "S",
+        "phonetic": "/menˈdoʊzə/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "beat",
+        "role": "V",
+        "phonetic": "/biːt/",
+        "chinese": "打败/拍打"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "challengers",
+        "role": "O",
+        "phonetic": "/ˈtʃælɪndʒərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "门多萨不仅用拳头还用智慧作战",
+    "english": "Mendoza fought not only with his fists but also with his brain",
+    "soundmark": "/menˈdoʊzə/ /fɔːt/ /nɑːt/ /ˈoʊnli/ /wɪð/ /hɪz/ /fɪsts/ /bʌt/ /ˈɔːlsoʊ/ /wɪð/ /hɪz/ /breɪn/",
+    "grammar": [
+      {
+        "text": "Mendoza",
+        "role": "S",
+        "phonetic": "/menˈdoʊzə/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "fought",
+        "role": "V",
+        "phonetic": "/fɔːt/",
+        "chinese": ""
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "fists",
+        "role": "O",
+        "phonetic": "/fɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "also",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlsoʊ/",
+        "chinese": "也"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "brain",
+        "role": "O",
+        "phonetic": "/breɪn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "到他退役时他已经赚了很多钱",
+    "english": "By the time he retired he had earned a lot of money",
+    "soundmark": "/baɪ/ /ðə/ /taɪm/ /hiː/ /rɪˈtaɪərd/ /hiː/ /hæd/ /ɜːrnd/ /ə/ /lɑːt/ /ʌv/ /ˈmʌni/",
+    "grammar": [
+      {
+        "text": "By",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "retired",
+        "role": "V",
+        "phonetic": "/rɪˈtaɪərd/",
+        "chinese": "退休的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "earned",
+        "role": "V",
+        "phonetic": "/ɜːrnd/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lot",
+        "role": "O",
+        "phonetic": "/lɑːt/",
+        "chinese": "许多"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "money",
+        "role": "O",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      }
+    ]
+  },
+  {
+    "chinese": "门多萨曾经是英国最有名的运动员",
+    "english": "Mendoza was once the most famous athlete in Britain",
+    "soundmark": "/menˈdoʊzə/ /wʌz/ /wʌns/ /ðə/ /moʊst/ /ˈfeɪməs/ /ˈæθliːt/ /ɪn/ /ˈbrɪtən/",
+    "grammar": [
+      {
+        "text": "Mendoza",
+        "role": "S",
+        "phonetic": "/menˈdoʊzə/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "once",
+        "role": "Adv",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "famous",
+        "role": "A",
+        "phonetic": "/ˈfeɪməs/",
+        "chinese": "著名的"
+      },
+      {
+        "text": "athlete",
+        "role": "C",
+        "phonetic": "/ˈæθliːt/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Britain",
+        "role": "A",
+        "phonetic": "/ˈbrɪtən/",
+        "chinese": "英国"
+      }
+    ]
+  },
+  {
+    "chinese": "门多萨以前常常一天训练好几个小时",
+    "english": "Mendoza used to train for hours every day",
+    "soundmark": "/menˈdoʊzə/ /juːst/ /tə/ /treɪn/ /fɔːr/ /ˈaʊərz/ /ˈevri/ /deɪ/",
+    "grammar": [
+      {
+        "text": "Mendoza",
+        "role": "S",
+        "phonetic": "/menˈdoʊzə/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "used",
+        "role": "Aux",
+        "phonetic": "/juːst/",
+        "chinese": "用过的/二手的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "train",
+        "role": "V",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/ˈaʊərz/",
+        "chinese": "小时"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "他成了贵族拳击学校的校长",
+    "english": "He became the head of a boxing academy for noblemen",
+    "soundmark": "/hiː/ /bɪˈkeɪm/ /ðə/ /hed/ /ʌv/ /ə/ /ˈbɑːksɪŋ/ /əˈkædəmi/ /fɔːr/ /ˈnoʊbəlmən/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "became",
+        "role": "Lv",
+        "phonetic": "/bɪˈkeɪm/",
+        "chinese": "变成（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "head",
+        "role": "C",
+        "phonetic": "/hed/",
+        "chinese": "头"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "boxing",
+        "role": "A",
+        "phonetic": "/ˈbɑːksɪŋ/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "academy",
+        "role": "O",
+        "phonetic": "/əˈkædəmi/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "noblemen",
+        "role": "O",
+        "phonetic": "/ˈnoʊbəlmən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这场胜利让门多萨比以往任何时候都更加出名",
+    "english": "The victory made Mendoza more famous than ever before",
+    "soundmark": "/ðə/ /ˈvɪktəri/ /meɪd/ /menˈdoʊzə/ /mɔːr/ /ˈfeɪməs/ /ðæn/ /ˈevər/ /bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "victory",
+        "role": "S",
+        "phonetic": "/ˈvɪktəri/",
+        "chinese": "胜利"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "Mendoza",
+        "role": "O",
+        "phonetic": "/menˈdoʊzə/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "famous",
+        "role": "C",
+        "phonetic": "/ˈfeɪməs/",
+        "chinese": "著名的"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "before",
+        "role": "Adv",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "人们以前从未见过如此快速灵活的拳击手",
+    "english": "People had never seen such a quick and agile boxer before",
+    "soundmark": "/ˈpiːpəl/ /hæd/ /ˈnevər/ /siːn/ /sʌtʃ/ /ə/ /kwɪk/ /ænd/ /ˈædʒəl/ /ˈbɑːksər/ /bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "People",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "quick",
+        "role": "A",
+        "phonetic": "/kwɪk/",
+        "chinese": "快的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "agile",
+        "role": "A",
+        "phonetic": "/ˈædʒəl/",
+        "chinese": ""
+      },
+      {
+        "text": "boxer",
+        "role": "O",
+        "phonetic": "/ˈbɑːksər/",
+        "chinese": "更…的/…者(箱子/盒)"
+      },
+      {
+        "text": "before",
+        "role": "Adv",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "到1789年他已经打败了所有英国拳击手",
+    "english": "By 1789 he had defeated every boxer in Britain",
+    "soundmark": "/baɪ/ /ˈsevnˈtiːn/ /ˈeɪti/ /naɪn/ /hiː/ /hæd/ /dɪˈfiːtɪd/ /ˈevri/ /ˈbɑːksər/ /ɪn/ /ˈbrɪtən/",
+    "grammar": [
+      {
+        "text": "By",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "1789",
+        "role": "A",
+        "phonetic": "/ˈsevnˈtiːn/ /ˈeɪti/ /naɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "defeated",
+        "role": "V",
+        "phonetic": "/dɪˈfiːtɪd/",
+        "chinese": "失败"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "boxer",
+        "role": "O",
+        "phonetic": "/ˈbɑːksər/",
+        "chinese": "更…的/…者(箱子/盒)"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Britain",
+        "role": "A",
+        "phonetic": "/ˈbrɪtən/",
+        "chinese": "英国"
+      }
+    ]
+  },
+  {
+    "chinese": "门多萨改变了拳击这项运动因为它变得更具技术性",
+    "english": "Mendoza changed the sport of boxing because it became more technical",
+    "soundmark": "/menˈdoʊzə/ /tʃeɪndʒd/ /ðə/ /spɔːrt/ /ʌv/ /ˈbɑːksɪŋ/ /bɪˈkɔːz/ /ɪt/ /bɪˈkeɪm/ /mɔːr/ /ˈteknɪkəl/",
+    "grammar": [
+      {
+        "text": "Mendoza",
+        "role": "S",
+        "phonetic": "/menˈdoʊzə/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "changed",
+        "role": "V",
+        "phonetic": "/tʃeɪndʒd/",
+        "chinese": "改变"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sport",
+        "role": "O",
+        "phonetic": "/spɔːrt/",
+        "chinese": "运动"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "boxing",
+        "role": "O",
+        "phonetic": "/ˈbɑːksɪŋ/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "became",
+        "role": "Lv",
+        "phonetic": "/bɪˈkeɪm/",
+        "chinese": "变成（过去式）"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "technical",
+        "role": "C",
+        "phonetic": "/ˈteknɪkəl/",
+        "chinese": "技术的"
+      }
+    ]
+  },
+  {
+    "chinese": "谁是最伟大的拳击手这一点毫无疑问",
+    "english": "There was no doubt who was the greatest boxer",
+    "soundmark": "/ðer/ /wʌz/ /noʊ/ /daʊt/ /huː/ /wʌz/ /ðə/ /ˈɡreɪtɪst/ /ˈbɑːksər/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "doubt",
+        "role": "C",
+        "phonetic": "/daʊt/",
+        "chinese": "怀疑"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "greatest",
+        "role": "C",
+        "phonetic": "/ˈɡreɪtɪst/",
+        "chinese": "最…的(伟大的/很棒的)"
+      },
+      {
+        "text": "boxer",
+        "role": "C",
+        "phonetic": "/ˈbɑːksər/",
+        "chinese": "更…的/…者(箱子/盒)"
+      }
+    ]
+  },
+  {
+    "chinese": "尽管身高较矮但他比大多数拳手都快",
+    "english": "Although he was short he was quicker than most fighters",
+    "soundmark": "/ɔːlˈðoʊ/ /hiː/ /wʌz/ /ʃɔːrt/ /hiː/ /wʌz/ /ˈkwɪkər/ /ðæn/ /moʊst/ /ˈfaɪtərz/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "short",
+        "role": "C",
+        "phonetic": "/ʃɔːrt/",
+        "chinese": "短的"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "quicker",
+        "role": "C",
+        "phonetic": "/ˈkwɪkər/",
+        "chinese": "更…的/…者(快的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "most",
+        "role": "Det",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "fighters",
+        "role": "O",
+        "phonetic": "/ˈfaɪtərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "对手",
+    "english": "rival",
+    "soundmark": "/ˈraɪvəl/"
+  },
+  {
+    "chinese": "拳击运动",
+    "english": "fight",
+    "soundmark": "/faɪt/"
+  },
+  {
+    "chinese": "奖杯",
+    "english": "title",
+    "soundmark": "/ˈtaɪtəl/"
+  },
+  {
+    "chinese": "技术",
+    "english": "technique",
+    "soundmark": "/tekˈniːk/"
+  },
+  {
+    "chinese": "力量",
+    "english": "strength",
+    "soundmark": "/streŋkθ/"
+  },
+  {
+    "chinese": "学院",
+    "english": "academy",
+    "soundmark": "/əˈkædəmi/"
+  },
+  {
+    "chinese": "敏捷的",
+    "english": "agile",
+    "soundmark": "/ˈædʒəl/"
+  },
+  {
+    "chinese": "退役",
+    "english": "retire",
+    "soundmark": "/rɪˈtaɪər/"
+  },
+  {
+    "chinese": "贵族",
+    "english": "nobleman",
+    "soundmark": "/ˈnoʊbəlmən/"
+  },
+  {
+    "chinese": "门多萨的遗产至今仍然影响着现代拳击",
+    "english": "Mendoza's legacy still influences modern boxing today",
+    "soundmark": "/menˈdoʊzəz/ /ˈleɡəsi/ /stɪl/ /ˈɪnfluənsɪz/ /ˈmɑːdərn/ /ˈbɑːksɪŋ/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "Mendoza",
+        "role": "S",
+        "phonetic": "/menˈdoʊzəz/",
+        "chinese": "门多萨"
+      },
+      {
+        "text": "legacy",
+        "role": "S",
+        "phonetic": "/ˈleɡəsi/",
+        "chinese": ""
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "influences",
+        "role": "V",
+        "phonetic": "/ˈɪnfluənsɪz/",
+        "chinese": "影响"
+      },
+      {
+        "text": "modern",
+        "role": "A",
+        "phonetic": "/ˈmɑːdərn/",
+        "chinese": "现代的"
+      },
+      {
+        "text": "boxing",
+        "role": "O",
+        "phonetic": "/ˈbɑːksɪŋ/",
+        "chinese": "箱子/盒"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  }
+]

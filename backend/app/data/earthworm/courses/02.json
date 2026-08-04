@@ -1,0 +1,1601 @@
+[
+  {
+    "chinese": "这",
+    "english": "this",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "chinese": "那",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "chinese": "书",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "笔",
+    "english": "pen",
+    "soundmark": "/pen/"
+  },
+  {
+    "chinese": "包",
+    "english": "bag",
+    "soundmark": "/bæɡ/"
+  },
+  {
+    "chinese": "铅笔",
+    "english": "pencil",
+    "soundmark": "/ˈpensəl/"
+  },
+  {
+    "chinese": "尺子",
+    "english": "ruler",
+    "soundmark": "/ˈruːlər/"
+  },
+  {
+    "chinese": "橡皮",
+    "english": "eraser",
+    "soundmark": "/ɪˈreɪsər/"
+  },
+  {
+    "chinese": "桌子",
+    "english": "desk",
+    "soundmark": "/desk/"
+  },
+  {
+    "chinese": "椅子",
+    "english": "chair",
+    "soundmark": "/tʃer/"
+  },
+  {
+    "chinese": "笔记本",
+    "english": "notebook",
+    "soundmark": "/ˈnoʊtbʊk/"
+  },
+  {
+    "chinese": "手机",
+    "english": "phone",
+    "soundmark": "/foʊn/"
+  },
+  {
+    "chinese": "杯子",
+    "english": "cup",
+    "soundmark": "/kʌp/"
+  },
+  {
+    "chinese": "钥匙",
+    "english": "key",
+    "soundmark": "/kiː/"
+  },
+  {
+    "chinese": "手表",
+    "english": "watch",
+    "soundmark": "/wɑːtʃ/"
+  },
+  {
+    "chinese": "一个",
+    "english": "a",
+    "soundmark": "/ə/"
+  },
+  {
+    "chinese": "一个",
+    "english": "an",
+    "soundmark": "/æn/"
+  },
+  {
+    "chinese": "它的",
+    "english": "its",
+    "soundmark": "/ɪts/"
+  },
+  {
+    "chinese": "谁的",
+    "english": "whose",
+    "soundmark": "/huːz/"
+  },
+  {
+    "chinese": "颜色",
+    "english": "color",
+    "soundmark": "/ˈkʌlər/"
+  },
+  {
+    "chinese": "这是一本书",
+    "english": "This is a book",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /bʊk/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "book",
+        "role": "C",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "那是一支笔",
+    "english": "That is a pen",
+    "soundmark": "/ðæt/ /ɪz/ /ə/ /pen/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pen",
+        "role": "C",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我的书",
+    "english": "This is my book",
+    "soundmark": "/ðɪs/ /ɪz/ /maɪ/ /bʊk/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "book",
+        "role": "C",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "那是你的笔",
+    "english": "That is your pen",
+    "soundmark": "/ðæt/ /ɪz/ /jɔːr/ /pen/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "pen",
+        "role": "C",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      }
+    ]
+  },
+  {
+    "chinese": "这是你的包吗",
+    "english": "Is this your bag",
+    "soundmark": "/ɪz/ /ðɪs/ /jɔːr/ /bæɡ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "bag",
+        "role": "C",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "那不是我的笔",
+    "english": "That is not my pen",
+    "soundmark": "/ðæt/ /ɪz/ /nɑːt/ /maɪ/ /pen/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "pen",
+        "role": "C",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      }
+    ]
+  },
+  {
+    "chinese": "这是谁的尺子",
+    "english": "Whose ruler is this",
+    "soundmark": "/huːz/ /ˈruːlər/ /ɪz/ /ðɪs/",
+    "grammar": [
+      {
+        "text": "Whose",
+        "role": "Det",
+        "phonetic": "/huːz/",
+        "chinese": "谁的"
+      },
+      {
+        "text": "ruler",
+        "role": "S",
+        "phonetic": "/ˈruːlər/",
+        "chinese": "更…的/…者(规则/统治)"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "C",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我的铅笔",
+    "english": "This is my pencil",
+    "soundmark": "/ðɪs/ /ɪz/ /maɪ/ /ˈpensəl/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "pencil",
+        "role": "C",
+        "phonetic": "/ˈpensəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那是他的书",
+    "english": "That is his book",
+    "soundmark": "/ðæt/ /ɪz/ /hɪz/ /bʊk/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "book",
+        "role": "C",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "那是她的包",
+    "english": "That is her bag",
+    "soundmark": "/ðæt/ /ɪz/ /hɜːr/ /bæɡ/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "bag",
+        "role": "C",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "这是一块橡皮",
+    "english": "This is an eraser",
+    "soundmark": "/ðɪs/ /ɪz/ /æn/ /ɪˈreɪsər/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/æn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "eraser",
+        "role": "C",
+        "phonetic": "/ɪˈreɪsər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那不是你的书",
+    "english": "That is not your book",
+    "soundmark": "/ðæt/ /ɪz/ /nɑːt/ /jɔːr/ /bʊk/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "book",
+        "role": "C",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "这是他的手机吗",
+    "english": "Is this his phone",
+    "soundmark": "/ɪz/ /ðɪs/ /hɪz/ /foʊn/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "phone",
+        "role": "C",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我的杯子",
+    "english": "This is my cup",
+    "soundmark": "/ðɪs/ /ɪz/ /maɪ/ /kʌp/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "cup",
+        "role": "C",
+        "phonetic": "/kʌp/",
+        "chinese": "杯子"
+      }
+    ]
+  },
+  {
+    "chinese": "那不是她的钥匙",
+    "english": "That is not her key",
+    "soundmark": "/ðæt/ /ɪz/ /nɑːt/ /hɜːr/ /kiː/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "key",
+        "role": "C",
+        "phonetic": "/kiː/",
+        "chinese": "钥匙"
+      }
+    ]
+  },
+  {
+    "chinese": "这是你的手表吗",
+    "english": "Is this your watch",
+    "soundmark": "/ɪz/ /ðɪs/ /jɔːr/ /wɑːtʃ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "watch",
+        "role": "C",
+        "phonetic": "/wɑːtʃ/",
+        "chinese": "观看"
+      }
+    ]
+  },
+  {
+    "chinese": "我的书在桌子上",
+    "english": "My book is on the desk",
+    "soundmark": "/maɪ/ /bʊk/ /ɪz/ /ɑːn/ /ðə/ /desk/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "desk",
+        "role": "C",
+        "phonetic": "/desk/",
+        "chinese": "书桌"
+      }
+    ]
+  },
+  {
+    "chinese": "你的笔在包里",
+    "english": "Your pen is in the bag",
+    "soundmark": "/jɔːr/ /pen/ /ɪz/ /ɪn/ /ðə/ /bæɡ/",
+    "grammar": [
+      {
+        "text": "Your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "pen",
+        "role": "S",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bag",
+        "role": "C",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      }
+    ]
+  },
+  {
+    "chinese": "这本书是我的",
+    "english": "This book is mine",
+    "soundmark": "/ðɪs/ /bʊk/ /ɪz/ /maɪn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "那支笔是你的",
+    "english": "That pen is yours",
+    "soundmark": "/ðæt/ /pen/ /ɪz/ /jɔːrz/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "pen",
+        "role": "S",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "yours",
+        "role": "C",
+        "phonetic": "/jɔːrz/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个包是她的吗",
+    "english": "Is this bag hers",
+    "soundmark": "/ɪz/ /ðɪs/ /bæɡ/ /hɜːrz/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "bag",
+        "role": "S",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "hers",
+        "role": "C",
+        "phonetic": "/hɜːrz/",
+        "chinese": "她的"
+      }
+    ]
+  },
+  {
+    "chinese": "这支笔不是他的",
+    "english": "This pen is not his",
+    "soundmark": "/ðɪs/ /pen/ /ɪz/ /nɑːt/ /hɪz/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "pen",
+        "role": "S",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "his",
+        "role": "C",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      }
+    ]
+  },
+  {
+    "chinese": "那是你的笔记本吗",
+    "english": "Is that your notebook",
+    "soundmark": "/ɪz/ /ðæt/ /jɔːr/ /ˈnoʊtbʊk/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "notebook",
+        "role": "C",
+        "phonetic": "/ˈnoʊtbʊk/",
+        "chinese": "笔记本"
+      }
+    ]
+  },
+  {
+    "chinese": "这个蓝色的包是我的",
+    "english": "This blue bag is mine",
+    "soundmark": "/ðɪs/ /bluː/ /bæɡ/ /ɪz/ /maɪn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "blue",
+        "role": "C",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      },
+      {
+        "text": "bag",
+        "role": "S",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "那本红色的书是他的",
+    "english": "That red book is his",
+    "soundmark": "/ðæt/ /red/ /bʊk/ /ɪz/ /hɪz/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "red",
+        "role": "C",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "his",
+        "role": "C",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      }
+    ]
+  },
+  {
+    "chinese": "这些是我的东西",
+    "english": "These are my things",
+    "soundmark": "/ðiːz/ /ɑːr/ /maɪ/ /θɪŋz/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "S",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "things",
+        "role": "C",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      }
+    ]
+  },
+  {
+    "chinese": "那些是你的书吗",
+    "english": "Are those your books",
+    "soundmark": "/ɑːr/ /ðoʊz/ /jɔːr/ /bʊks/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "those",
+        "role": "S",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "books",
+        "role": "C",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "这些不是我的笔",
+    "english": "These are not my pens",
+    "soundmark": "/ðiːz/ /ɑːr/ /nɑːt/ /maɪ/ /penz/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "S",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "pens",
+        "role": "C",
+        "phonetic": "/penz/",
+        "chinese": "钢笔"
+      }
+    ]
+  },
+  {
+    "chinese": "这支笔是黑色的吗",
+    "english": "Is this pen black",
+    "soundmark": "/ɪz/ /ðɪs/ /pen/ /blæk/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "pen",
+        "role": "S",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      },
+      {
+        "text": "black",
+        "role": "C",
+        "phonetic": "/blæk/",
+        "chinese": "黑色的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的尺子是绿色的",
+    "english": "My ruler is green",
+    "soundmark": "/maɪ/ /ˈruːlər/ /ɪz/ /ɡriːn/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "ruler",
+        "role": "S",
+        "phonetic": "/ˈruːlər/",
+        "chinese": "更…的/…者(规则/统治)"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "green",
+        "role": "C",
+        "phonetic": "/ɡriːn/",
+        "chinese": "绿色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这是谁的笔记本",
+    "english": "Whose notebook is this",
+    "soundmark": "/huːz/ /ˈnoʊtbʊk/ /ɪz/ /ðɪs/",
+    "grammar": [
+      {
+        "text": "Whose",
+        "role": "Det",
+        "phonetic": "/huːz/",
+        "chinese": "谁的"
+      },
+      {
+        "text": "notebook",
+        "role": "S",
+        "phonetic": "/ˈnoʊtbʊk/",
+        "chinese": "笔记本"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "C",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "这本书是你的还是他的",
+    "english": "Is this book yours or his",
+    "soundmark": "/ɪz/ /ðɪs/ /bʊk/ /jɔːrz/ /ɔːr/ /hɪz/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "yours",
+        "role": "C",
+        "phonetic": "/jɔːrz/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "his",
+        "role": "C",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的书和你的笔都在桌上",
+    "english": "My book and your pen are on the desk",
+    "soundmark": "/maɪ/ /bʊk/ /ænd/ /jɔːr/ /pen/ /ɑːr/ /ɑːn/ /ðə/ /desk/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "pen",
+        "role": "S",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "desk",
+        "role": "C",
+        "phonetic": "/desk/",
+        "chinese": "书桌"
+      }
+    ]
+  },
+  {
+    "chinese": "这支笔是红色的那是黑色的",
+    "english": "This pen is red and that is black",
+    "soundmark": "/ðɪs/ /pen/ /ɪz/ /red/ /ænd/ /ðæt/ /ɪz/ /blæk/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "pen",
+        "role": "S",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "red",
+        "role": "C",
+        "phonetic": "/red/",
+        "chinese": "红色的"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "that",
+        "role": "S",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "black",
+        "role": "C",
+        "phonetic": "/blæk/",
+        "chinese": "黑色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这些是我的新书那些是你的旧书",
+    "english": "These are my new books and those are your old ones",
+    "soundmark": "/ðiːz/ /ɑːr/ /maɪ/ /nuː/ /bʊks/ /ænd/ /ðoʊz/ /ɑːr/ /jɔːr/ /oʊld/ /wʌnz/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "S",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "books",
+        "role": "C",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "those",
+        "role": "S",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "ones",
+        "role": "C",
+        "phonetic": "/wʌnz/",
+        "chinese": "一些"
+      }
+    ]
+  },
+  {
+    "chinese": "谁的白色橡皮在椅子上",
+    "english": "Whose white eraser is on the chair",
+    "soundmark": "/huːz/ /waɪt/ /ɪˈreɪsər/ /ɪz/ /ɑːn/ /ðə/ /tʃer/",
+    "grammar": [
+      {
+        "text": "Whose",
+        "role": "Det",
+        "phonetic": "/huːz/",
+        "chinese": "谁的"
+      },
+      {
+        "text": "white",
+        "role": "C",
+        "phonetic": "/waɪt/",
+        "chinese": "白色的"
+      },
+      {
+        "text": "eraser",
+        "role": "S",
+        "phonetic": "/ɪˈreɪsər/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "chair",
+        "role": "C",
+        "phonetic": "/tʃer/",
+        "chinese": "椅子"
+      }
+    ]
+  },
+  {
+    "chinese": "我的新手机是黑色的",
+    "english": "My new phone is black",
+    "soundmark": "/maɪ/ /nuː/ /foʊn/ /ɪz/ /blæk/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "phone",
+        "role": "S",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "black",
+        "role": "C",
+        "phonetic": "/blæk/",
+        "chinese": "黑色的"
+      }
+    ]
+  },
+  {
+    "chinese": "这是你的笔吗不这不是我的",
+    "english": "Is this your pen No this is not mine",
+    "soundmark": "/ɪz/ /ðɪs/ /jɔːr/ /pen/ /noʊ/ /ðɪs/ /ɪz/ /nɑːt/ /maɪn/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "pen",
+        "role": "C",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "这两个包都是我的吗",
+    "english": "Are these two bags both mine",
+    "soundmark": "/ɑːr/ /ðiːz/ /tuː/ /bæɡz/ /boʊθ/ /maɪn/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "bags",
+        "role": "S",
+        "phonetic": "/bæɡz/",
+        "chinese": "包"
+      },
+      {
+        "text": "both",
+        "role": "Adv",
+        "phonetic": "/boʊθ/",
+        "chinese": "两者都"
+      },
+      {
+        "text": "mine",
+        "role": "C",
+        "phonetic": "/maɪn/",
+        "chinese": "我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "这些",
+    "english": "these",
+    "soundmark": "/ðiːz/"
+  },
+  {
+    "chinese": "那些",
+    "english": "those",
+    "soundmark": "/ðoʊz/"
+  },
+  {
+    "chinese": "他的",
+    "english": "his",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "chinese": "她的",
+    "english": "her",
+    "soundmark": "/hɜːr/"
+  },
+  {
+    "chinese": "蓝色的",
+    "english": "blue",
+    "soundmark": "/bluː/"
+  },
+  {
+    "chinese": "红色的",
+    "english": "red",
+    "soundmark": "/red/"
+  },
+  {
+    "chinese": "白色的",
+    "english": "white",
+    "soundmark": "/waɪt/"
+  },
+  {
+    "chinese": "黑色的",
+    "english": "black",
+    "soundmark": "/blæk/"
+  },
+  {
+    "chinese": "新的",
+    "english": "new",
+    "soundmark": "/nuː/"
+  },
+  {
+    "chinese": "旧的",
+    "english": "old",
+    "soundmark": "/oʊld/"
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "chinese": "潮湿的",
+    "english": "wet",
+    "soundmark": "/wet/"
+  },
+  {
+    "chinese": "夜晚",
+    "english": "night",
+    "soundmark": "/naɪt/"
+  },
+  {
+    "chinese": "帐篷",
+    "english": "tent",
+    "soundmark": "/tent/"
+  },
+  {
+    "chinese": "露营",
+    "english": "camp",
+    "soundmark": "/kæmp/"
+  },
+  {
+    "chinese": "洪水",
+    "english": "flood",
+    "soundmark": "/flʌd/"
+  },
+  {
+    "chinese": "雨",
+    "english": "rain",
+    "soundmark": "/reɪn/"
+  },
+  {
+    "chinese": "暴风雨",
+    "english": "storm",
+    "soundmark": "/stɔːrm/"
+  },
+  {
+    "chinese": "田野",
+    "english": "field",
+    "soundmark": "/fiːld/"
+  },
+  {
+    "chinese": "醒来",
+    "english": "wake up",
+    "soundmark": "/weɪk/ /ʌp/"
+  },
+  {
+    "chinese": "睡袋",
+    "english": "sleeping bag",
+    "soundmark": "/ˈsliːpɪŋ/ /bæɡ/"
+  },
+  {
+    "chinese": "地面",
+    "english": "ground",
+    "soundmark": "/ɡraʊnd/"
+  },
+  {
+    "chinese": "水",
+    "english": "water",
+    "soundmark": "/ˈwɔːtər/"
+  },
+  {
+    "chinese": "里面",
+    "english": "inside",
+    "soundmark": "/ɪnˈsaɪd/"
+  },
+  {
+    "chinese": "逃跑",
+    "english": "run away",
+    "soundmark": "/rʌn/ /əˈweɪ/"
+  },
+  {
+    "chinese": "已经",
+    "english": "already",
+    "soundmark": "/ɔːlˈredi/"
+  },
+  {
+    "chinese": "那个潮湿的夜晚我们在田野里露营",
+    "english": "We were camping in a field on that wet night",
+    "soundmark": "/wiː/ /wɜːr/ /ˈkæmpɪŋ/ /ɪn/ /ə/ /fiːld/ /ɑːn/ /ðæt/ /wet/ /naɪt/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "camping",
+        "role": "V",
+        "phonetic": "/ˈkæmpɪŋ/",
+        "chinese": "露营"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "field",
+        "role": "O",
+        "phonetic": "/fiːld/",
+        "chinese": "田野/领域"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "wet",
+        "role": "A",
+        "phonetic": "/wet/",
+        "chinese": "湿的"
+      },
+      {
+        "text": "night",
+        "role": "O",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "雨已经下了好几个小时了",
+    "english": "It had been raining for hours",
+    "soundmark": "/ɪt/ /hæd/ /biːn/ /ˈreɪnɪŋ/ /fɔːr/ /ˈaʊərz/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hours",
+        "role": "O",
+        "phonetic": "/ˈaʊərz/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "我在半夜醒来了",
+    "english": "I woke up in the middle of the night",
+    "soundmark": "/aɪ/ /woʊk/ /ʌp/ /ɪn/ /ðə/ /ˈmɪdəl/ /ʌv/ /ðə/ /naɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "woke",
+        "role": "V",
+        "phonetic": "/woʊk/",
+        "chinese": "醒来（过去式）"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "middle",
+        "role": "O",
+        "phonetic": "/ˈmɪdəl/",
+        "chinese": "中间"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "night",
+        "role": "O",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "地面上已经全是水了",
+    "english": "The ground had been covered with water",
+    "soundmark": "/ðə/ /ɡraʊnd/ /hæd/ /biːn/ /ˈkʌvərd/ /wɪð/ /ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ground",
+        "role": "S",
+        "phonetic": "/ɡraʊnd/",
+        "chinese": "地面"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "covered",
+        "role": "C",
+        "phonetic": "/ˈkʌvərd/",
+        "chinese": "覆盖"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "帐篷里已经有水了",
+    "english": "Water had got inside the tent",
+    "soundmark": "/ˈwɔːtər/ /hæd/ /ɡɑːt/ /ɪnˈsaɪd/ /ðə/ /tent/",
+    "grammar": [
+      {
+        "text": "Water",
+        "role": "S",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "got",
+        "role": "V",
+        "phonetic": "/ɡɑːt/",
+        "chinese": "得到（过去式）"
+      },
+      {
+        "text": "inside",
+        "role": "P",
+        "phonetic": "/ɪnˈsaɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tent",
+        "role": "O",
+        "phonetic": "/tent/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我的睡袋已经湿了",
+    "english": "My sleeping bag had got wet",
+    "soundmark": "/maɪ/ /ˈsliːpɪŋ/ /bæɡ/ /hæd/ /ɡɑːt/ /wet/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "sleeping",
+        "role": "A",
+        "phonetic": "/ˈsliːpɪŋ/",
+        "chinese": "睡觉的"
+      },
+      {
+        "text": "bag",
+        "role": "S",
+        "phonetic": "/bæɡ/",
+        "chinese": "包"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "got",
+        "role": "V",
+        "phonetic": "/ɡɑːt/",
+        "chinese": "得到（过去式）"
+      },
+      {
+        "text": "wet",
+        "role": "C",
+        "phonetic": "/wet/",
+        "chinese": "湿的"
+      }
+    ]
+  },
+  {
+    "chinese": "暴风雨把帐篷吹倒了",
+    "english": "The storm had blown the tent down",
+    "soundmark": "/ðə/ /stɔːrm/ /hæd/ /bloʊn/ /ðə/ /tent/ /daʊn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "storm",
+        "role": "S",
+        "phonetic": "/stɔːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "blown",
+        "role": "V",
+        "phonetic": "/bloʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tent",
+        "role": "O",
+        "phonetic": "/tent/",
+        "chinese": ""
+      },
+      {
+        "text": "down",
+        "role": "Adv",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      }
+    ]
+  },
+  {
+    "chinese": "我们不得不逃到车里",
+    "english": "We had to run to the car",
+    "soundmark": "/wiː/ /hæd/ /tuː/ /rʌn/ /tuː/ /ðə/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "雨在下个不停",
+    "english": "The rain kept falling",
+    "soundmark": "/ðə/ /reɪn/ /kiːpt/ /ˈfɔːlɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rain",
+        "role": "S",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      },
+      {
+        "text": "kept",
+        "role": "V",
+        "phonetic": "/kiːpt/",
+        "chinese": "保持/保留（过去式）"
+      },
+      {
+        "text": "falling",
+        "role": "V",
+        "phonetic": "/ˈfɔːlɪŋ/",
+        "chinese": "下降"
+      }
+    ]
+  },
+  {
+    "chinese": "我们已经在帐篷里待了两小时了",
+    "english": "We had been in the tent for two hours",
+    "soundmark": "/wiː/ /hæd/ /biːn/ /ɪn/ /ðə/ /tent/ /fɔːr/ /tuː/ /ˈaʊərz/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tent",
+        "role": "O",
+        "phonetic": "/tent/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "hours",
+        "role": "O",
+        "phonetic": "/ˈaʊərz/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "这真是一个可怕的夜晚",
+    "english": "It was a terrible night",
+    "soundmark": "/ɪt/ /wʌz/ /ə/ /ˈterəbəl/ /naɪt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "terrible",
+        "role": "A",
+        "phonetic": "/ˈterəbəl/",
+        "chinese": "可怕的"
+      },
+      {
+        "text": "night",
+        "role": "C",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "潮湿的",
+    "english": "wet",
+    "soundmark": "/wet/"
+  },
+  {
+    "chinese": "帐篷",
+    "english": "tent",
+    "soundmark": "/tent/"
+  },
+  {
+    "chinese": "洪水",
+    "english": "flood",
+    "soundmark": "/flʌd/"
+  },
+  {
+    "chinese": "暴风雨",
+    "english": "storm",
+    "soundmark": "/stɔːrm/"
+  },
+  {
+    "chinese": "田野",
+    "english": "field",
+    "soundmark": "/fiːld/"
+  },
+  {
+    "chinese": "睡袋",
+    "english": "sleeping bag",
+    "soundmark": "/ˈsliːpɪŋ/ /bæɡ/"
+  },
+  {
+    "chinese": "可怕的",
+    "english": "terrible",
+    "soundmark": "/ˈterəbəl/"
+  },
+  {
+    "chinese": "逃跑",
+    "english": "run away",
+    "soundmark": "/rʌn/ /əˈweɪ/"
+  }
+]

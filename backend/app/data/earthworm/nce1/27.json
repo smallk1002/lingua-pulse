@@ -1,0 +1,920 @@
+[
+  {
+    "chinese": "天气",
+    "english": "weather",
+    "soundmark": "/ˈweðər/"
+  },
+  {
+    "chinese": "太阳",
+    "english": "sun",
+    "soundmark": "/sʌn/"
+  },
+  {
+    "chinese": "雨",
+    "english": "rain",
+    "soundmark": "/reɪn/"
+  },
+  {
+    "chinese": "风",
+    "english": "wind",
+    "soundmark": "/wɪnd/"
+  },
+  {
+    "chinese": "雪",
+    "english": "snow",
+    "soundmark": "/snoʊ/"
+  },
+  {
+    "chinese": "云",
+    "english": "cloud",
+    "soundmark": "/klaʊd/"
+  },
+  {
+    "chinese": "天空",
+    "english": "sky",
+    "soundmark": "/skaɪ/"
+  },
+  {
+    "chinese": "热的",
+    "english": "hot",
+    "soundmark": "/hɑːt/"
+  },
+  {
+    "chinese": "冷的",
+    "english": "cold",
+    "soundmark": "/koʊld/"
+  },
+  {
+    "chinese": "温暖的",
+    "english": "warm",
+    "soundmark": "/wɔːrm/"
+  },
+  {
+    "chinese": "凉爽的",
+    "english": "cool",
+    "soundmark": "/kuːl/"
+  },
+  {
+    "chinese": "潮湿的",
+    "english": "wet",
+    "soundmark": "/wet/"
+  },
+  {
+    "chinese": "干燥的",
+    "english": "dry",
+    "soundmark": "/draɪ/"
+  },
+  {
+    "chinese": "晴朗的",
+    "english": "sunny",
+    "soundmark": "/ˈsʌni/"
+  },
+  {
+    "chinese": "多云的",
+    "english": "cloudy",
+    "soundmark": "/ˈklaʊdi/"
+  },
+  {
+    "chinese": "有风的",
+    "english": "windy",
+    "soundmark": "/ˈwɪndi/"
+  },
+  {
+    "chinese": "下雨的",
+    "english": "rainy",
+    "soundmark": "/ˈreɪni/"
+  },
+  {
+    "chinese": "有雾的",
+    "english": "foggy",
+    "soundmark": "/ˈfɔːɡi/"
+  },
+  {
+    "chinese": "有雪的",
+    "english": "snowy",
+    "soundmark": "/ˈsnoʊi/"
+  },
+  {
+    "chinese": "好天气",
+    "english": "nice weather",
+    "soundmark": "/naɪs/ /ˈweðər/"
+  },
+  {
+    "chinese": "坏天气",
+    "english": "bad weather",
+    "soundmark": "/bæd/ /ˈweðər/"
+  },
+  {
+    "chinese": "下雨了",
+    "english": "It is raining",
+    "soundmark": "/ɪt/ /ɪz/ /ˈreɪnɪŋ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      }
+    ]
+  },
+  {
+    "chinese": "今天天气很好",
+    "english": "It is a nice day today",
+    "soundmark": "/ɪt/ /ɪz/ /ə/ /naɪs/ /deɪ/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "day",
+        "role": "C",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "今天天气怎么样",
+    "english": "What is the weather like today",
+    "soundmark": "/wʌt/ /ɪz/ /ðə/ /ˈweðər/ /laɪk/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "weather",
+        "role": "O",
+        "phonetic": "/ˈweðər/",
+        "chinese": "天气"
+      },
+      {
+        "text": "like",
+        "role": "P",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "外面很冷",
+    "english": "It is very cold outside",
+    "soundmark": "/ɪt/ /ɪz/ /ˈveri/ /koʊld/ /aʊtˈsaɪd/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "cold",
+        "role": "C",
+        "phonetic": "/koʊld/",
+        "chinese": "冷的"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/aʊtˈsaɪd/",
+        "chinese": "在…外面"
+      }
+    ]
+  },
+  {
+    "chinese": "今天有大风",
+    "english": "It is very windy today",
+    "soundmark": "/ɪt/ /ɪz/ /ˈveri/ /ˈwɪndi/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "windy",
+        "role": "C",
+        "phonetic": "/ˈwɪndi/",
+        "chinese": ""
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "天是晴朗的",
+    "english": "The sky is clear",
+    "soundmark": "/ðə/ /skaɪ/ /ɪz/ /klɪr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sky",
+        "role": "S",
+        "phonetic": "/skaɪ/",
+        "chinese": "天空"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "clear",
+        "role": "C",
+        "phonetic": "/klɪr/",
+        "chinese": "清楚的"
+      }
+    ]
+  },
+  {
+    "chinese": "太阳在照耀",
+    "english": "The sun is shining",
+    "soundmark": "/ðə/ /sʌn/ /ɪz/ /ˈʃaɪnɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sun",
+        "role": "S",
+        "phonetic": "/sʌn/",
+        "chinese": "太阳"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "shining",
+        "role": "V",
+        "phonetic": "/ˈʃaɪnɪŋ/",
+        "chinese": "闪耀的/发光的"
+      }
+    ]
+  },
+  {
+    "chinese": "秋天经常下雨吗",
+    "english": "Does it often rain in autumn",
+    "soundmark": "/dʌz/ /ɪt/ /ˈɔːfən/ /reɪn/ /ɪn/ /ˈɔːtəm/",
+    "grammar": [
+      {
+        "text": "Does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "rain",
+        "role": "V",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "autumn",
+        "role": "O",
+        "phonetic": "/ˈɔːtəm/",
+        "chinese": "秋天"
+      }
+    ]
+  },
+  {
+    "chinese": "今天不热",
+    "english": "It is not hot today",
+    "soundmark": "/ɪt/ /ɪz/ /nɑːt/ /hɑːt/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "hot",
+        "role": "C",
+        "phonetic": "/hɑːt/",
+        "chinese": "热的"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "有雾的时候我看不见路",
+    "english": "I can not see the road when it is foggy",
+    "soundmark": "/aɪ/ /kæn/ /nɑːt/ /siː/ /ðə/ /roʊd/ /wen/ /ɪt/ /ɪz/ /ˈfɔːɡi/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "road",
+        "role": "O",
+        "phonetic": "/roʊd/",
+        "chinese": "路"
+      },
+      {
+        "text": "when",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "foggy",
+        "role": "C",
+        "phonetic": "/ˈfɔːɡi/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "冬天很冷而且经常下雪",
+    "english": "It is very cold in winter and it often snows",
+    "soundmark": "/ɪt/ /ɪz/ /ˈveri/ /koʊld/ /ɪn/ /ˈwɪntər/ /ænd/ /ɪt/ /ˈɔːfən/ /snoʊz/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "cold",
+        "role": "C",
+        "phonetic": "/koʊld/",
+        "chinese": "冷的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "winter",
+        "role": "O",
+        "phonetic": "/ˈwɪntər/",
+        "chinese": "冬天"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "snows",
+        "role": "V",
+        "phonetic": "/snoʊz/",
+        "chinese": "雪"
+      }
+    ]
+  },
+  {
+    "chinese": "天气热所以我想喝点凉的东西",
+    "english": "It is hot so I want something cool to drink",
+    "soundmark": "/ɪt/ /ɪz/ /hɑːt/ /soʊ/ /aɪ/ /wɑːnt/ /ˈsʌmθɪŋ/ /kuːl/ /tuː/ /drɪŋk/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "hot",
+        "role": "C",
+        "phonetic": "/hɑːt/",
+        "chinese": "热的"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "something",
+        "role": "O",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      },
+      {
+        "text": "cool",
+        "role": "C",
+        "phonetic": "/kuːl/",
+        "chinese": "凉爽的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "drink",
+        "role": "V",
+        "phonetic": "/drɪŋk/",
+        "chinese": "喝/饮料"
+      }
+    ]
+  },
+  {
+    "chinese": "明天天气会好吗",
+    "english": "Will the weather be nice tomorrow",
+    "soundmark": "/wɪl/ /ðə/ /ˈweðər/ /biː/ /naɪs/ /təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "Will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "weather",
+        "role": "S",
+        "phonetic": "/ˈweðər/",
+        "chinese": "天气"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "nice",
+        "role": "C",
+        "phonetic": "/naɪs/",
+        "chinese": "好的/不错的"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "带上你的外套因为外面很冷",
+    "english": "Take your coat because it is cold outside",
+    "soundmark": "/teɪk/ /jɔːr/ /koʊt/ /bɪˈkɔːz/ /ɪt/ /ɪz/ /koʊld/ /aʊtˈsaɪd/",
+    "grammar": [
+      {
+        "text": "Take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "coat",
+        "role": "O",
+        "phonetic": "/koʊt/",
+        "chinese": "外套"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "cold",
+        "role": "C",
+        "phonetic": "/koʊld/",
+        "chinese": "冷的"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/aʊtˈsaɪd/",
+        "chinese": "在…外面"
+      }
+    ]
+  },
+  {
+    "chinese": "非常",
+    "english": "very",
+    "soundmark": "/ˈveri/"
+  },
+  {
+    "chinese": "经常",
+    "english": "often",
+    "soundmark": "/ˈɔːfən/"
+  },
+  {
+    "chinese": "有时",
+    "english": "sometimes",
+    "soundmark": "/ˈsʌmtaɪmz/"
+  },
+  {
+    "chinese": "明天",
+    "english": "tomorrow",
+    "soundmark": "/təˈmɑːroʊ/"
+  },
+  {
+    "chinese": "今天",
+    "english": "today",
+    "soundmark": "/təˈdeɪ/"
+  },
+  {
+    "chinese": "外面",
+    "english": "outside",
+    "soundmark": "/aʊtˈsaɪd/"
+  },
+  {
+    "chinese": "外套",
+    "english": "coat",
+    "soundmark": "/koʊt/"
+  },
+  {
+    "chinese": "伞",
+    "english": "umbrella",
+    "soundmark": "/ʌmˈbrelə/"
+  },
+  {
+    "chinese": "风暴",
+    "english": "storm",
+    "soundmark": "/stɔːrm/"
+  },
+  {
+    "chinese": "闪电",
+    "english": "lightning",
+    "soundmark": "/ˈlaɪtnɪŋ/"
+  },
+  {
+    "chinese": "雷声",
+    "english": "thunder",
+    "soundmark": "/ˈθʌndər/"
+  },
+  {
+    "chinese": "彩虹",
+    "english": "rainbow",
+    "soundmark": "/ˈreɪnboʊ/"
+  },
+  {
+    "chinese": "晴朗的天空",
+    "english": "clear sky",
+    "soundmark": "/klɪr/ /skaɪ/"
+  },
+  {
+    "chinese": "大风",
+    "english": "strong wind",
+    "soundmark": "/strɔːŋ/ /wɪnd/"
+  },
+  {
+    "chinese": "下雪了",
+    "english": "It is snowing",
+    "soundmark": "/ɪt/ /ɪz/ /ˈsnoʊɪŋ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "snowing",
+        "role": "V",
+        "phonetic": "/ˈsnoʊɪŋ/",
+        "chinese": "雪"
+      }
+    ]
+  },
+  {
+    "chinese": "今天阳光明媚",
+    "english": "It is sunny today",
+    "soundmark": "/ɪt/ /ɪz/ /ˈsʌni/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "sunny",
+        "role": "C",
+        "phonetic": "/ˈsʌni/",
+        "chinese": ""
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "多穿点衣服外面下雪了",
+    "english": "Put on more clothes because it is snowing outside",
+    "soundmark": "/pʊt/ /ɑːn/ /mɔːr/ /kloʊðz/ /bɪˈkɔːz/ /ɪt/ /ɪz/ /ˈsnoʊɪŋ/ /aʊtˈsaɪd/",
+    "grammar": [
+      {
+        "text": "Put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "more",
+        "role": "Det",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "clothes",
+        "role": "O",
+        "phonetic": "/kloʊðz/",
+        "chinese": "布"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "snowing",
+        "role": "V",
+        "phonetic": "/ˈsnoʊɪŋ/",
+        "chinese": "雪"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/aʊtˈsaɪd/",
+        "chinese": "在…外面"
+      }
+    ]
+  }
+]

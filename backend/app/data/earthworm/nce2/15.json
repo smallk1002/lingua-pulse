@@ -1,0 +1,626 @@
+[
+  {
+    "chinese": "秘书",
+    "english": "secretary",
+    "soundmark": "/ˈsekrəteri/"
+  },
+  {
+    "chinese": "紧张的",
+    "english": "nervous",
+    "soundmark": "/ˈnɜːrvəs/"
+  },
+  {
+    "chinese": "负担得起",
+    "english": "afford",
+    "soundmark": "/əˈfɔːrd/"
+  },
+  {
+    "chinese": "弱的",
+    "english": "weak",
+    "soundmark": "/wiːk/"
+  },
+  {
+    "chinese": "打断",
+    "english": "interrupt",
+    "soundmark": "/ˌɪntəˈrʌpt/"
+  },
+  {
+    "chinese": "额外的",
+    "english": "extra",
+    "soundmark": "/ˈekstrə/"
+  },
+  {
+    "chinese": "生意",
+    "english": "business",
+    "soundmark": "/ˈbɪznɪs/"
+  },
+  {
+    "chinese": "进入",
+    "english": "enter",
+    "soundmark": "/ˈentər/"
+  },
+  {
+    "chinese": "通知",
+    "english": "inform",
+    "soundmark": "/ɪnˈfɔːrm/"
+  },
+  {
+    "chinese": "抬头看",
+    "english": "look up",
+    "soundmark": "/lʊk/ /ʌp/"
+  },
+  {
+    "chinese": "全年",
+    "english": "all year round",
+    "soundmark": "/ɔːl/ /jɪr/ /raʊnd/"
+  },
+  {
+    "chinese": "告诉他这个消息",
+    "english": "tell him the news",
+    "soundmark": "/tel/ /hɪm/ /ðə/ /nuːz/"
+  },
+  {
+    "chinese": "打断别人",
+    "english": "interrupt someone",
+    "soundmark": "/ˌɪntəˈrʌpt/ /ˈsʌmwʌn/"
+  },
+  {
+    "chinese": "额外收入",
+    "english": "extra income",
+    "soundmark": "/ˈekstrə/ /ˈɪnkʌm/"
+  },
+  {
+    "chinese": "秘书告诉我他会见我的",
+    "english": "The secretary told me he would see me",
+    "soundmark": "/ðə/ /ˈsekrəteri/ /toʊld/ /miː/ /hiː/ /wʊd/ /siː/ /miː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "secretary",
+        "role": "S",
+        "phonetic": "/ˈsekrəteri/",
+        "chinese": ""
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "我感觉非常紧张",
+    "english": "I felt very nervous",
+    "soundmark": "/aɪ/ /felt/ /ˈveri/ /ˈnɜːrvəs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "felt",
+        "role": "Lv",
+        "phonetic": "/felt/",
+        "chinese": "被感觉的"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "nervous",
+        "role": "C",
+        "phonetic": "/ˈnɜːrvəs/",
+        "chinese": "紧张的"
+      }
+    ]
+  },
+  {
+    "chinese": "我说我负担不起这笔钱",
+    "english": "I said I could not afford it",
+    "soundmark": "/aɪ/ /sed/ /aɪ/ /kʊd/ /nɑːt/ /əˈfɔːrd/ /ɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "afford",
+        "role": "V",
+        "phonetic": "/əˈfɔːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "老板告诉我生意很糟",
+    "english": "The boss told me that business was very bad",
+    "soundmark": "/ðə/ /bɔːs/ /toʊld/ /miː/ /ðæt/ /ˈbɪznɪs/ /wʌz/ /ˈveri/ /bæd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "boss",
+        "role": "S",
+        "phonetic": "/bɔːs/",
+        "chinese": ""
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "business",
+        "role": "S",
+        "phonetic": "/ˈbɪznɪs/",
+        "chinese": "生意/商业"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "bad",
+        "role": "C",
+        "phonetic": "/bæd/",
+        "chinese": "坏的"
+      }
+    ]
+  },
+  {
+    "chinese": "他说公司承担不起这么大一笔开支",
+    "english": "He said the firm could not afford such a large expense",
+    "soundmark": "/hiː/ /sed/ /ðə/ /fɜːrm/ /kʊd/ /nɑːt/ /əˈfɔːrd/ /sʌtʃ/ /ə/ /lɑːrdʒ/ /ɪkˈspens/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "firm",
+        "role": "S",
+        "phonetic": "/fɜːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "afford",
+        "role": "V",
+        "phonetic": "/əˈfɔːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "large",
+        "role": "A",
+        "phonetic": "/lɑːrdʒ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "expense",
+        "role": "O",
+        "phonetic": "/ɪkˈspens/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "请别打断我说话",
+    "english": "Please do not interrupt me",
+    "soundmark": "/pliːz/ /duː/ /nɑːt/ /ˌɪntəˈrʌpt/ /miː/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "interrupt",
+        "role": "V",
+        "phonetic": "/ˌɪntəˈrʌpt/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "我不得不接受这份额外的工作",
+    "english": "I had to accept the extra work",
+    "soundmark": "/aɪ/ /hæd/ /tuː/ /əkˈsept/ /ðə/ /ˈekstrə/ /wɜːrk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "accept",
+        "role": "V",
+        "phonetic": "/əkˈsept/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "extra",
+        "role": "A",
+        "phonetic": "/ˈekstrə/",
+        "chinese": ""
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "他们通知我面试通过了",
+    "english": "They informed me that I had passed the interview",
+    "soundmark": "/ðeɪ/ /ɪnˈfɔːrmd/ /miː/ /ðæt/ /aɪ/ /hæd/ /pæst/ /ði/ /ˈɪntərvjuː/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "informed",
+        "role": "V",
+        "phonetic": "/ɪnˈfɔːrmd/",
+        "chinese": ""
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pæst/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "interview",
+        "role": "O",
+        "phonetic": "/ˈɪntərvjuː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我抬起头来看到了他",
+    "english": "I looked up and saw him",
+    "soundmark": "/aɪ/ /lʊkt/ /ʌp/ /ænd/ /sɔː/ /hɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "looked",
+        "role": "V",
+        "phonetic": "/lʊkt/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "老板",
+    "english": "boss",
+    "soundmark": "/bɔːs/"
+  },
+  {
+    "chinese": "秘书",
+    "english": "secretary",
+    "soundmark": "/ˈsekrəteri/"
+  },
+  {
+    "chinese": "紧张的",
+    "english": "nervous",
+    "soundmark": "/ˈnɜːrvəs/"
+  },
+  {
+    "chinese": "弱的",
+    "english": "weak",
+    "soundmark": "/wiːk/"
+  },
+  {
+    "chinese": "接受",
+    "english": "accept",
+    "soundmark": "/əkˈsept/"
+  },
+  {
+    "chinese": "额外的",
+    "english": "extra",
+    "soundmark": "/ˈekstrə/"
+  },
+  {
+    "chinese": "通知",
+    "english": "inform",
+    "soundmark": "/ɪnˈfɔːrm/"
+  },
+  {
+    "chinese": "打断",
+    "english": "interrupt",
+    "soundmark": "/ˌɪntəˈrʌpt/"
+  },
+  {
+    "chinese": "收入",
+    "english": "income",
+    "soundmark": "/ˈɪnkʌm/"
+  },
+  {
+    "chinese": "面试",
+    "english": "interview",
+    "soundmark": "/ˈɪntərvjuː/"
+  },
+  {
+    "chinese": "费用",
+    "english": "expense",
+    "soundmark": "/ɪkˈspens/"
+  },
+  {
+    "chinese": "负担",
+    "english": "afford",
+    "soundmark": "/əˈfɔːrd/"
+  },
+  {
+    "chinese": "整年",
+    "english": "all year round",
+    "soundmark": "/ɔːl/ /jɪr/ /raʊnd/"
+  },
+  {
+    "chinese": "进入",
+    "english": "enter",
+    "soundmark": "/ˈentər/"
+  },
+  {
+    "chinese": "通过",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "感觉",
+    "english": "feel",
+    "soundmark": "/fiːl/"
+  },
+  {
+    "chinese": "消息",
+    "english": "news",
+    "soundmark": "/nuːz/"
+  },
+  {
+    "chinese": "好的",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "chinese": "坏的",
+    "english": "bad",
+    "soundmark": "/bæd/"
+  }
+]

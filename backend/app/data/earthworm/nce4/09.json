@@ -1,0 +1,723 @@
+[
+  {
+    "chinese": "间谍活动",
+    "english": "espionage",
+    "soundmark": "/ˈespiənɑːʒ/"
+  },
+  {
+    "chinese": "王室的",
+    "english": "royal",
+    "soundmark": "/ˈrɔɪəl/"
+  },
+  {
+    "chinese": "密探",
+    "english": "agent",
+    "soundmark": "/ˈeɪdʒənt/"
+  },
+  {
+    "chinese": "情报",
+    "english": "intelligence",
+    "soundmark": "/ɪnˈtelɪdʒəns/"
+  },
+  {
+    "chinese": "密码",
+    "english": "cipher",
+    "soundmark": "/ˈsaɪfər/"
+  },
+  {
+    "chinese": "渗透",
+    "english": "infiltrate",
+    "soundmark": "/ˈɪnfɪltreɪt/"
+  },
+  {
+    "chinese": "叛国",
+    "english": "treason",
+    "soundmark": "/ˈtriːzn/"
+  },
+  {
+    "chinese": "伪装",
+    "english": "disguise",
+    "soundmark": "/dɪsˈɡaɪz/"
+  },
+  {
+    "chinese": "截获",
+    "english": "intercept",
+    "soundmark": "/ˌɪntərˈsept/"
+  },
+  {
+    "chinese": "解密",
+    "english": "decode",
+    "soundmark": "/ˌdiːˈkoʊd/"
+  },
+  {
+    "chinese": "监视",
+    "english": "surveillance",
+    "soundmark": "/sɜːrˈveɪləns/"
+  },
+  {
+    "chinese": "阴谋",
+    "english": "plot",
+    "soundmark": "/plɑːt/"
+  },
+  {
+    "chinese": "背叛",
+    "english": "betray",
+    "soundmark": "/bɪˈtreɪ/"
+  },
+  {
+    "chinese": "效忠",
+    "english": "allegiance",
+    "soundmark": "/əˈliːdʒəns/"
+  },
+  {
+    "chinese": "王室",
+    "english": "monarchy",
+    "soundmark": "/ˈmɑːnərki/"
+  },
+  {
+    "chinese": "情报人员",
+    "english": "intelligence agent",
+    "soundmark": "/ɪnˈtelɪdʒəns/ /ˈeɪdʒənt/"
+  },
+  {
+    "chinese": "破译密码",
+    "english": "break the cipher",
+    "soundmark": "/breɪk/ /ðə/ /ˈsaɪfər/"
+  },
+  {
+    "chinese": "叛国行为",
+    "english": "act of treason",
+    "soundmark": "/ækt/ /ʌv/ /ˈtriːzn/"
+  },
+  {
+    "chinese": "截获情报",
+    "english": "intercept intelligence",
+    "soundmark": "/ˌɪntərˈsept/ /ɪnˈtelɪdʒəns/"
+  },
+  {
+    "chinese": "王室的密探",
+    "english": "royal agent",
+    "soundmark": "/ˈrɔɪəl/ /ˈeɪdʒənt/"
+  },
+  {
+    "chinese": "国王派出的间谍已经渗透进了敌人的宫廷",
+    "english": "the spies sent by the king had infiltrated the enemy court",
+    "soundmark": "/ðə/ /spaɪz/ /sent/ /baɪ/ /ðə/ /kɪŋ/ /hæd/ /ˈɪnfɪltreɪtɪd/ /ði/ /ˈenəmi/ /kɔːrt/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "spies",
+        "role": "S",
+        "phonetic": "/spaɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "sent",
+        "role": "V",
+        "phonetic": "/sent/",
+        "chinese": "寄/发送（过去式）"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "king",
+        "role": "O",
+        "phonetic": "/kɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "infiltrated",
+        "role": "V",
+        "phonetic": "/ˈɪnfɪltreɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "enemy",
+        "role": "A",
+        "phonetic": "/ˈenəmi/",
+        "chinese": "敌人"
+      },
+      {
+        "text": "court",
+        "role": "O",
+        "phonetic": "/kɔːrt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在情报被截获之前它已经传到了国王手中",
+    "english": "before the intelligence could be intercepted it had already reached the king",
+    "soundmark": "/bɪˈfɔːr/ /ði/ /ɪnˈtelɪdʒəns/ /kʊd/ /biː/ /ˌɪntərˈseptɪd/ /ɪt/ /hæd/ /ɔːlˈredi/ /riːtʃt/ /ðə/ /kɪŋ/",
+    "grammar": [
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "intelligence",
+        "role": "S",
+        "phonetic": "/ɪnˈtelɪdʒəns/",
+        "chinese": ""
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "intercepted",
+        "role": "V",
+        "phonetic": "/ˌɪntərˈseptɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "reached",
+        "role": "V",
+        "phonetic": "/riːtʃt/",
+        "chinese": "到达"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "king",
+        "role": "O",
+        "phonetic": "/kɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那位间谍伪装成商人已在这座城市生活了三年",
+    "english": "the spy had been living in the city for three years disguised as a merchant",
+    "soundmark": "/ðə/ /spaɪ/ /hæd/ /bɪn/ /ˈlɪvɪŋ/ /ɪn/ /ðə/ /ˈsɪti/ /fɔːr/ /θriː/ /jɪrz/ /dɪsˈɡaɪzd/ /æz/ /ə/ /ˈmɜːrtʃənt/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "spy",
+        "role": "S",
+        "phonetic": "/spaɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "living",
+        "role": "V",
+        "phonetic": "/ˈlɪvɪŋ/",
+        "chinese": "活着的/生活的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "city",
+        "role": "O",
+        "phonetic": "/ˈsɪti/",
+        "chinese": "城市"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "three",
+        "role": "A",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "years",
+        "role": "O",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "disguised",
+        "role": "V",
+        "phonetic": "/dɪsˈɡaɪzd/",
+        "chinese": ""
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "merchant",
+        "role": "C",
+        "phonetic": "/ˈmɜːrtʃənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他曾经宣誓效忠王室但现在已背叛了自己的誓言",
+    "english": "he had once sworn allegiance to the monarchy but now he had betrayed his oath",
+    "soundmark": "/hiː/ /hæd/ /wʌns/ /swɔːrn/ /əˈliːdʒəns/ /tuː/ /ðə/ /ˈmɑːnərki/ /bʌt/ /naʊ/ /hiː/ /hæd/ /bɪˈtreɪd/ /hɪz/ /oʊθ/",
+    "grammar": [
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "once",
+        "role": "Adv",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      },
+      {
+        "text": "sworn",
+        "role": "V",
+        "phonetic": "/swɔːrn/",
+        "chinese": ""
+      },
+      {
+        "text": "allegiance",
+        "role": "O",
+        "phonetic": "/əˈliːdʒəns/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "monarchy",
+        "role": "O",
+        "phonetic": "/ˈmɑːnərki/",
+        "chinese": ""
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "now",
+        "role": "Adv",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "betrayed",
+        "role": "V",
+        "phonetic": "/bɪˈtreɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "oath",
+        "role": "O",
+        "phonetic": "/oʊθ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他们发现那位大使其实已经被敌方策反",
+    "english": "they discovered that the ambassador had already been turned by the enemy",
+    "soundmark": "/ðeɪ/ /dɪˈskʌvərd/ /ðæt/ /ði/ /æmˈbæsədər/ /hæd/ /ɔːlˈredi/ /bɪn/ /tɜːrnd/ /baɪ/ /ði/ /ˈenəmi/",
+    "grammar": [
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ambassador",
+        "role": "S",
+        "phonetic": "/æmˈbæsədər/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "turned",
+        "role": "V",
+        "phonetic": "/tɜːrnd/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "enemy",
+        "role": "O",
+        "phonetic": "/ˈenəmi/",
+        "chinese": "敌人"
+      }
+    ]
+  },
+  {
+    "chinese": "这场政变是国王最信任的顾问策划的",
+    "english": "the coup had been plotted by the king's most trusted adviser",
+    "soundmark": "/ðə/ /kuː/ /hæd/ /bɪn/ /ˈplɑːtɪd/ /baɪ/ /ðə/ /kɪŋz/ /moʊst/ /ˈtrʌstɪd/ /ədˈvaɪzər/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "coup",
+        "role": "S",
+        "phonetic": "/kuː/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "plotted",
+        "role": "V",
+        "phonetic": "/ˈplɑːtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "king's",
+        "role": "Det",
+        "phonetic": "/kɪŋz/",
+        "chinese": ""
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "trusted",
+        "role": "A",
+        "phonetic": "/ˈtrʌstɪd/",
+        "chinese": "信任"
+      },
+      {
+        "text": "adviser",
+        "role": "O",
+        "phonetic": "/ədˈvaɪzər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "密码本被藏了起来情报因而得以及时传递",
+    "english": "the codebook having been hidden the intelligence was delivered in time",
+    "soundmark": "/ðə/ /ˈkoʊdbʊk/ /ˈhævɪŋ/ /bɪn/ /ˈhɪdn/ /ði/ /ɪnˈtelɪdʒəns/ /wʌz/ /dɪˈlɪvərd/ /ɪn/ /taɪm/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "codebook",
+        "role": "S",
+        "phonetic": "/ˈkoʊdbʊk/",
+        "chinese": ""
+      },
+      {
+        "text": "having",
+        "role": "Aux",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "hidden",
+        "role": "V",
+        "phonetic": "/ˈhɪdn/",
+        "chinese": "隐藏的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "intelligence",
+        "role": "S",
+        "phonetic": "/ɪnˈtelɪdʒəns/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "delivered",
+        "role": "V",
+        "phonetic": "/dɪˈlɪvərd/",
+        "chinese": "递送（过去式/过去分词）"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "誓约",
+    "english": "oath",
+    "soundmark": "/oʊθ/"
+  },
+  {
+    "chinese": "政变",
+    "english": "coup",
+    "soundmark": "/kuː/"
+  },
+  {
+    "chinese": "大使",
+    "english": "ambassador",
+    "soundmark": "/æmˈbæsədər/"
+  },
+  {
+    "chinese": "信任的",
+    "english": "trusted",
+    "soundmark": "/ˈtrʌstɪd/"
+  },
+  {
+    "chinese": "顾问",
+    "english": "adviser",
+    "soundmark": "/ədˈvaɪzər/"
+  },
+  {
+    "chinese": "传送",
+    "english": "deliver",
+    "soundmark": "/dɪˈlɪvər/"
+  },
+  {
+    "chinese": "密码本",
+    "english": "codebook",
+    "soundmark": "/ˈkoʊdbʊk/"
+  },
+  {
+    "chinese": "宣誓",
+    "english": "swear",
+    "soundmark": "/swer/"
+  },
+  {
+    "chinese": "商人",
+    "english": "merchant",
+    "soundmark": "/ˈmɜːrtʃənt/"
+  },
+  {
+    "chinese": "被发现",
+    "english": "discover",
+    "soundmark": "/dɪˈskʌvər/"
+  }
+]

@@ -1,0 +1,1120 @@
+[
+  {
+    "chinese": "登山者",
+    "english": "mountaineer",
+    "soundmark": "/ˌmaʊntnˈɪr/"
+  },
+  {
+    "chinese": "山峰",
+    "english": "peak",
+    "soundmark": "/piːk/"
+  },
+  {
+    "chinese": "攀登",
+    "english": "climb",
+    "soundmark": "/klaɪm/"
+  },
+  {
+    "chinese": "孤零零的",
+    "english": "solitary",
+    "soundmark": "/ˈsɑːləteri/"
+  },
+  {
+    "chinese": "小屋",
+    "english": "hut",
+    "soundmark": "/hʌt/"
+  },
+  {
+    "chinese": "冒险",
+    "english": "adventure",
+    "soundmark": "/ədˈventʃər/"
+  },
+  {
+    "chinese": "险峻的",
+    "english": "steep",
+    "soundmark": "/stiːp/"
+  },
+  {
+    "chinese": "向导",
+    "english": "guide",
+    "soundmark": "/ɡaɪd/"
+  },
+  {
+    "chinese": "绳索",
+    "english": "rope",
+    "soundmark": "/roʊp/"
+  },
+  {
+    "chinese": "冰川",
+    "english": "glacier",
+    "soundmark": "/ˈɡleɪʃər/"
+  },
+  {
+    "chinese": "山谷",
+    "english": "valley",
+    "soundmark": "/ˈvæli/"
+  },
+  {
+    "chinese": "悬崖",
+    "english": "cliff",
+    "soundmark": "/klɪf/"
+  },
+  {
+    "chinese": "顶峰",
+    "english": "summit",
+    "soundmark": "/ˈsʌmɪt/"
+  },
+  {
+    "chinese": "雪崩",
+    "english": "avalanche",
+    "soundmark": "/ˈævəlæntʃ/"
+  },
+  {
+    "chinese": "偏远村庄",
+    "english": "remote village",
+    "soundmark": "/rɪˈmoʊt/ /ˈvɪlɪdʒ/"
+  },
+  {
+    "chinese": "登山装备",
+    "english": "climbing equipment",
+    "soundmark": "/ˈklaɪmɪŋ/ /ɪˈkwɪpmənt/"
+  },
+  {
+    "chinese": "陡峭的山坡",
+    "english": "steep slope",
+    "soundmark": "/stiːp/ /sloʊp/"
+  },
+  {
+    "chinese": "孤零零的小屋",
+    "english": "solitary hut",
+    "soundmark": "/ˈsɑːləteri/ /hʌt/"
+  },
+  {
+    "chinese": "高山向导",
+    "english": "mountain guide",
+    "soundmark": "/ˈmaʊntn/ /ɡaɪd/"
+  },
+  {
+    "chinese": "他曾攀登过马特霍恩峰",
+    "english": "he had climbed the Matterhorn",
+    "soundmark": "/hiː/ /hæd/ /klaɪmd/ /ðə/ /ˈmætərhɔːrn/",
+    "grammar": [
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "climbed",
+        "role": "V",
+        "phonetic": "/klaɪmd/",
+        "chinese": "爬"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Matterhorn",
+        "role": "O",
+        "phonetic": "/ˈmætərhɔːrn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在我们到达之前他已经在那座小屋里住了多年",
+    "english": "he had lived in that hut for many years before we arrived",
+    "soundmark": "/hiː/ /hæd/ /lɪvd/ /ɪn/ /ðæt/ /hʌt/ /fɔːr/ /ˈmeni/ /jɪrz/ /bɪˈfɔːr/ /wiː/ /əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "lived",
+        "role": "V",
+        "phonetic": "/lɪvd/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "hut",
+        "role": "O",
+        "phonetic": "/hʌt/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "years",
+        "role": "O",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "他从未结过婚因为他把一生都献给了高山",
+    "english": "he had never married because he had devoted his life to the mountains",
+    "soundmark": "/hiː/ /hæd/ /ˈnevər/ /ˈmærid/ /bɪˈkɔːz/ /hiː/ /hæd/ /dɪˈvoʊtɪd/ /hɪz/ /laɪf/ /tuː/ /ðə/ /ˈmaʊntnz/",
+    "grammar": [
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "married",
+        "role": "V",
+        "phonetic": "/ˈmærid/",
+        "chinese": "已婚的"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "devoted",
+        "role": "V",
+        "phonetic": "/dɪˈvoʊtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "life",
+        "role": "O",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mountains",
+        "role": "O",
+        "phonetic": "/ˈmaʊntnz/",
+        "chinese": "山"
+      }
+    ]
+  },
+  {
+    "chinese": "到六十岁时他已攀登了五十多座山峰",
+    "english": "by the age of sixty he had climbed more than fifty peaks",
+    "soundmark": "/baɪ/ /ði/ /eɪdʒ/ /ʌv/ /ˈsɪksti/ /hiː/ /hæd/ /klaɪmd/ /mɔːr/ /ðæn/ /ˈfɪfti/ /piːks/",
+    "grammar": [
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "age",
+        "role": "O",
+        "phonetic": "/eɪdʒ/",
+        "chinese": "年龄/时代"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "sixty",
+        "role": "O",
+        "phonetic": "/ˈsɪksti/",
+        "chinese": "六十"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "climbed",
+        "role": "V",
+        "phonetic": "/klaɪmd/",
+        "chinese": "爬"
+      },
+      {
+        "text": "more",
+        "role": "A",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "fifty",
+        "role": "A",
+        "phonetic": "/ˈfɪfti/",
+        "chinese": "五十"
+      },
+      {
+        "text": "peaks",
+        "role": "O",
+        "phonetic": "/piːks/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在他去世前他已经成了当地的一个传奇",
+    "english": "he had become a local legend before he died",
+    "soundmark": "/hiː/ /hæd/ /bɪˈkʌm/ /ə/ /ˈloʊkl/ /ˈledʒənd/ /bɪˈfɔːr/ /hiː/ /daɪd/",
+    "grammar": [
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "become",
+        "role": "Lv",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "local",
+        "role": "A",
+        "phonetic": "/ˈloʊkl/",
+        "chinese": "当地的"
+      },
+      {
+        "text": "legend",
+        "role": "C",
+        "phonetic": "/ˈledʒənd/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "died",
+        "role": "V",
+        "phonetic": "/daɪd/",
+        "chinese": "死"
+      }
+    ]
+  },
+  {
+    "chinese": "我们在他们出发前赶到的时候他们已经离开了",
+    "english": "they had already left when we arrived before their departure",
+    "soundmark": "/ðeɪ/ /hæd/ /ɔːlˈredi/ /left/ /wen/ /wiː/ /əˈraɪvd/ /bɪˈfɔːr/ /ðer/ /dɪˈpɑːrtʃər/",
+    "grammar": [
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "when",
+        "role": "Adv",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "departure",
+        "role": "O",
+        "phonetic": "/dɪˈpɑːrtʃər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他已经试过三次征服那座山峰但都失败了",
+    "english": "he had already attempted to conquer that peak three times and had failed",
+    "soundmark": "/hiː/ /hæd/ /ɔːlˈredi/ /əˈtemptɪd/ /tuː/ /ˈkɑːŋkər/ /ðæt/ /piːk/ /θriː/ /taɪmz/ /ænd/ /hæd/ /feɪld/",
+    "grammar": [
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "attempted",
+        "role": "V",
+        "phonetic": "/əˈtemptɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "conquer",
+        "role": "V",
+        "phonetic": "/ˈkɑːŋkər/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "peak",
+        "role": "O",
+        "phonetic": "/piːk/",
+        "chinese": ""
+      },
+      {
+        "text": "three",
+        "role": "A",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "times",
+        "role": "O",
+        "phonetic": "/taɪmz/",
+        "chinese": "时间"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "failed",
+        "role": "V",
+        "phonetic": "/feɪld/",
+        "chinese": "失败"
+      }
+    ]
+  },
+  {
+    "chinese": "他说他从来没有后悔过选择这种孤寂的生活",
+    "english": "he said that he had never regretted choosing such a solitary life",
+    "soundmark": "/hiː/ /sed/ /ðæt/ /hiː/ /hæd/ /ˈnevər/ /rɪˈɡretɪd/ /ˈtʃuːzɪŋ/ /sʌtʃ/ /ə/ /ˈsɑːləteri/ /laɪf/",
+    "grammar": [
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "regretted",
+        "role": "V",
+        "phonetic": "/rɪˈɡretɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "choosing",
+        "role": "V",
+        "phonetic": "/ˈtʃuːzɪŋ/",
+        "chinese": "选择"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "solitary",
+        "role": "A",
+        "phonetic": "/ˈsɑːləteri/",
+        "chinese": ""
+      },
+      {
+        "text": "life",
+        "role": "O",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      }
+    ]
+  },
+  {
+    "chinese": "当我们终于到达山顶时太阳已经落山了",
+    "english": "the sun had already set by the time we finally reached the summit",
+    "soundmark": "/ðə/ /sʌn/ /hæd/ /ɔːlˈredi/ /set/ /baɪ/ /ðə/ /taɪm/ /wiː/ /ˈfaɪnəli/ /riːtʃt/ /ðə/ /ˈsʌmɪt/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sun",
+        "role": "S",
+        "phonetic": "/sʌn/",
+        "chinese": "太阳"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "set",
+        "role": "V",
+        "phonetic": "/set/",
+        "chinese": "设置/安置"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "finally",
+        "role": "Adv",
+        "phonetic": "/ˈfaɪnəli/",
+        "chinese": "最后"
+      },
+      {
+        "text": "reached",
+        "role": "V",
+        "phonetic": "/riːtʃt/",
+        "chinese": "到达"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "summit",
+        "role": "O",
+        "phonetic": "/ˈsʌmɪt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他告诉我他曾被一场突如其来的暴风雪困在山里",
+    "english": "he told me that he had been trapped in the mountains by a sudden snowstorm",
+    "soundmark": "/hiː/ /toʊld/ /miː/ /ðæt/ /hiː/ /hæd/ /bɪn/ /træpt/ /ɪn/ /ðə/ /ˈmaʊntnz/ /baɪ/ /ə/ /ˈsʌdn/ /ˈsnoʊstɔːrm/",
+    "grammar": [
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "trapped",
+        "role": "V",
+        "phonetic": "/træpt/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mountains",
+        "role": "O",
+        "phonetic": "/ˈmaʊntnz/",
+        "chinese": "山"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "sudden",
+        "role": "A",
+        "phonetic": "/ˈsʌdn/",
+        "chinese": ""
+      },
+      {
+        "text": "snowstorm",
+        "role": "O",
+        "phonetic": "/ˈsnoʊstɔːrm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "到那次探险结束时他们已经用光了所有的补给",
+    "english": "by the end of that expedition they had run out of all their supplies",
+    "soundmark": "/baɪ/ /ði/ /end/ /ʌv/ /ðæt/ /ˌekspəˈdɪʃn/ /ðeɪ/ /hæd/ /rʌn/ /aʊt/ /ʌv/ /ɔːl/ /ðer/ /səˈplaɪz/",
+    "grammar": [
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "end",
+        "role": "O",
+        "phonetic": "/end/",
+        "chinese": "结束"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "expedition",
+        "role": "O",
+        "phonetic": "/ˌekspəˈdɪʃn/",
+        "chinese": ""
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "supplies",
+        "role": "O",
+        "phonetic": "/səˈplaɪz/",
+        "chinese": "供应"
+      }
+    ]
+  },
+  {
+    "chinese": "雪崩发生在我们到达营地之前",
+    "english": "the avalanche had occurred before we reached the camp",
+    "soundmark": "/ði/ /ˈævəlæntʃ/ /hæd/ /əˈkɜːrd/ /bɪˈfɔːr/ /wiː/ /riːtʃt/ /ðə/ /kæmp/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "avalanche",
+        "role": "S",
+        "phonetic": "/ˈævəlæntʃ/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "occurred",
+        "role": "V",
+        "phonetic": "/əˈkɜːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "reached",
+        "role": "V",
+        "phonetic": "/riːtʃt/",
+        "chinese": "到达"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "camp",
+        "role": "O",
+        "phonetic": "/kæmp/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在那之前没有人曾独自攀登过北面",
+    "english": "nobody had ever climbed the north face alone before that",
+    "soundmark": "/ˈnoʊbədi/ /hæd/ /ˈevər/ /klaɪmd/ /ðə/ /nɔːrθ/ /feɪs/ /əˈloʊn/ /bɪˈfɔːr/ /ðæt/",
+    "grammar": [
+      {
+        "text": "nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "climbed",
+        "role": "V",
+        "phonetic": "/klaɪmd/",
+        "chinese": "爬"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "north",
+        "role": "A",
+        "phonetic": "/nɔːrθ/",
+        "chinese": ""
+      },
+      {
+        "text": "face",
+        "role": "O",
+        "phonetic": "/feɪs/",
+        "chinese": "脸"
+      },
+      {
+        "text": "alone",
+        "role": "Adv",
+        "phonetic": "/əˈloʊn/",
+        "chinese": "孤单的"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      }
+    ]
+  },
+  {
+    "chinese": "探险",
+    "english": "expedition",
+    "soundmark": "/ˌekspəˈdɪʃn/"
+  },
+  {
+    "chinese": "征服",
+    "english": "conquer",
+    "soundmark": "/ˈkɑːŋkər/"
+  },
+  {
+    "chinese": "后悔",
+    "english": "regret",
+    "soundmark": "/rɪˈɡret/"
+  },
+  {
+    "chinese": "陷阱",
+    "english": "trap",
+    "soundmark": "/træp/"
+  },
+  {
+    "chinese": "补给",
+    "english": "supply",
+    "soundmark": "/səˈplaɪ/"
+  },
+  {
+    "chinese": "突然",
+    "english": "sudden",
+    "soundmark": "/ˈsʌdn/"
+  },
+  {
+    "chinese": "暴风雪",
+    "english": "snowstorm",
+    "soundmark": "/ˈsnoʊstɔːrm/"
+  },
+  {
+    "chinese": "营地",
+    "english": "camp",
+    "soundmark": "/kæmp/"
+  },
+  {
+    "chinese": "发生",
+    "english": "occur",
+    "soundmark": "/əˈkɜːr/"
+  },
+  {
+    "chinese": "奉献",
+    "english": "devote",
+    "soundmark": "/dɪˈvoʊt/"
+  }
+]

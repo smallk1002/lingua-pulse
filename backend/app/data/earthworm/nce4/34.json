@@ -1,0 +1,296 @@
+[
+  {
+    "chinese": "测量",
+    "english": "measure",
+    "soundmark": "/ˈmeʒər/"
+  },
+  {
+    "chinese": "日晷",
+    "english": "sundial",
+    "soundmark": "/ˈsʌndɪəl/"
+  },
+  {
+    "chinese": "沙漏",
+    "english": "hourglass",
+    "soundmark": "/ˈaʊəglɑːs/"
+  },
+  {
+    "chinese": "精确的",
+    "english": "precise",
+    "soundmark": "/prɪˈsaɪs/"
+  },
+  {
+    "chinese": "日历",
+    "english": "calendar",
+    "soundmark": "/ˈkælɪndər/"
+  },
+  {
+    "chinese": "天文",
+    "english": "astronomical",
+    "soundmark": "/ˌæstrəˈnɒmɪkl/"
+  },
+  {
+    "chinese": "原子钟",
+    "english": "atomic clock",
+    "soundmark": "/əˈtɒmɪk klɒk/"
+  },
+  {
+    "chinese": "文明",
+    "english": "civilization",
+    "soundmark": "/ˌsɪvəlaɪˈzeɪʃn/"
+  },
+  {
+    "chinese": "航海",
+    "english": "navigation",
+    "soundmark": "/ˌnævɪˈgeɪʃn/"
+  },
+  {
+    "chinese": "发明",
+    "english": "invent",
+    "soundmark": "/ɪnˈvent/"
+  },
+  {
+    "chinese": "现象",
+    "english": "phenomenon",
+    "soundmark": "/fəˈnɒmɪnən/"
+  },
+  {
+    "chinese": "刻度",
+    "english": "graduation",
+    "soundmark": "/ˌgrædʒuˈeɪʃn/"
+  },
+  {
+    "chinese": "古代文明通过观察天体运动来测量时间。",
+    "english": "Ancient civilizations measured time by observing the movements of celestial bodies.",
+    "soundmark": "/ˈeɪnʃənt ˌsɪvəlaɪˈzeɪʃnz ˈmeʒəd taɪm baɪ əbˈzɜːvɪŋ ðə ˈmuːvmənts ɒv səˈlestiəl ˈbɒdiz/",
+    "grammar": [
+      {
+        "text": "Ancient civilizations",
+        "role": "S",
+        "phonetic": "/ˈeɪnʃənt ˌsɪvəlaɪˈzeɪʃnz/",
+        "chinese": "古代的/…们/复数(文明)"
+      },
+      {
+        "text": "measured",
+        "role": "V",
+        "phonetic": "/ˈmeʒəd/",
+        "chinese": "测量"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "by observing the movements of celestial bodies",
+        "role": "Adv",
+        "phonetic": "/baɪ əbˈzɜːvɪŋ ðə ˈmuːvmənts ɒv səˈlestiəl ˈbɒdiz/",
+        "chinese": "通过/被/在…旁/正在…(观察)/这个/那个/…的/身体"
+      }
+    ]
+  },
+  {
+    "chinese": "日晷利用太阳的影子来指示时间。",
+    "english": "A sundial uses the shadow of the sun to indicate the time.",
+    "soundmark": "/ə ˈsʌndɪəl ˈjuːzɪz ðə ˈʃædəʊ ɒv ðə sʌn tuː ˈɪndɪkeɪt ðə taɪm/",
+    "grammar": [
+      {
+        "text": "A sundial",
+        "role": "S",
+        "phonetic": "/ə ˈsʌndɪəl/",
+        "chinese": "一个"
+      },
+      {
+        "text": "uses",
+        "role": "V",
+        "phonetic": "/ˈjuːzɪz/",
+        "chinese": "我们"
+      },
+      {
+        "text": "the shadow of the sun",
+        "role": "O",
+        "phonetic": "/ðə ˈʃædəʊ ɒv ðə sʌn/",
+        "chinese": "这个/那个/…的/这个/那个/太阳"
+      },
+      {
+        "text": "to indicate the time",
+        "role": "Adv",
+        "phonetic": "/tuː ˈɪndɪkeɪt ðə taɪm/",
+        "chinese": "到/向/这个/那个/时间"
+      }
+    ]
+  },
+  {
+    "chinese": "原子钟的发明使时间测量达到了前所未有的精确度。",
+    "english": "The invention of the atomic clock has brought time measurement to an unprecedented level of precision.",
+    "soundmark": "/ði ɪnˈvenʃən ɒv ði əˈtɒmɪk klɒk hæz brɔːt taɪm ˈmeʒəmənt tuː ən ʌnˈpresɪdentɪd ˈlevl ɒv prɪˈsɪʒn/",
+    "grammar": [
+      {
+        "text": "The invention",
+        "role": "S",
+        "phonetic": "/ði ɪnˈvenʃən/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "of the atomic clock",
+        "role": "P",
+        "phonetic": "/ɒv ði əˈtɒmɪk klɒk/",
+        "chinese": "…的/这个/那个/钟"
+      },
+      {
+        "text": "has brought",
+        "role": "V",
+        "phonetic": "/hæz brɔːt/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "time measurement",
+        "role": "O",
+        "phonetic": "/taɪm ˈmeʒəmənt/",
+        "chinese": "时间"
+      },
+      {
+        "text": "to an unprecedented level of precision",
+        "role": "P",
+        "phonetic": "/tuː ən ʌnˈpresɪdentɪd ˈlevl ɒv prɪˈsɪʒn/",
+        "chinese": "到/向/一个/…的"
+      }
+    ]
+  },
+  {
+    "chinese": "准确计时的需求推动了人类历史上许多最伟大的发明。",
+    "english": "The need for accurate timekeeping has driven many of the greatest inventions in human history.",
+    "soundmark": "/ðə niːd fɔːr ˈækjərɪt taɪmˌkiːpɪŋ hæz ˈdrɪvn ˈmeni ɒv ðə ˈgreɪtɪst ɪnˈvenʃnz ɪn ˈhjuːmən ˈhɪstəri/",
+    "grammar": [
+      {
+        "text": "The need",
+        "role": "S",
+        "phonetic": "/ðə niːd/",
+        "chinese": "这个/那个/需要"
+      },
+      {
+        "text": "for accurate timekeeping",
+        "role": "P",
+        "phonetic": "/fɔːr ˈækjərɪt taɪmˌkiːpɪŋ/",
+        "chinese": "为了/对于/准确的"
+      },
+      {
+        "text": "has driven",
+        "role": "V",
+        "phonetic": "/hæz ˈdrɪvn/",
+        "chinese": "有/助动词/驾驶（过去分词）"
+      },
+      {
+        "text": "many of the greatest inventions",
+        "role": "O",
+        "phonetic": "/ˈmeni ɒv ðə ˈgreɪtɪst ɪnˈvenʃnz/",
+        "chinese": "许多/…的/这个/那个/最…的(伟大的/很棒的)"
+      },
+      {
+        "text": "in human history",
+        "role": "P",
+        "phonetic": "/ɪn ˈhjuːmən ˈhɪstəri/",
+        "chinese": "在…里/人类/历史"
+      }
+    ]
+  },
+  {
+    "chinese": "沙漏曾经是水手们在漫长航行中最可靠的计时工具。",
+    "english": "The hourglass was once the most reliable timekeeping device for sailors on long voyages.",
+    "soundmark": "/ði ˈaʊəglɑːs wɒz wʌns ðə məʊst rɪˈlaɪəbl taɪmˌkiːpɪŋ dɪˈvaɪs fɔː ˈseɪləz ɒn lɒŋ ˈvɔɪɪdʒɪz/",
+    "grammar": [
+      {
+        "text": "The hourglass",
+        "role": "S",
+        "phonetic": "/ði ˈaʊəglɑːs/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "was once",
+        "role": "V",
+        "phonetic": "/wɒz wʌns/",
+        "chinese": "是（过去式）/一旦/一次"
+      },
+      {
+        "text": "the most reliable timekeeping device",
+        "role": "C",
+        "phonetic": "/ðə məʊst rɪˈlaɪəbl taɪmˌkiːpɪŋ dɪˈvaɪs/",
+        "chinese": "这个/那个/大多数"
+      },
+      {
+        "text": "for sailors",
+        "role": "P",
+        "phonetic": "/fɔː ˈseɪləz/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "on long voyages",
+        "role": "P",
+        "phonetic": "/ɒn lɒŋ ˈvɔɪɪdʒɪz/",
+        "chinese": "在…上/长的/…们/复数(航行)"
+      }
+    ]
+  },
+  {
+    "chinese": "现代计时方法依赖于原子的振动而非机械运动。",
+    "english": "Modern timekeeping methods rely on the vibration of atoms rather than mechanical motion.",
+    "soundmark": "/ˈmɒdn taɪmˌkiːpɪŋ ˈmeθədz rɪˈlaɪ ɒn ðə vaɪˈbreɪʃn ɒv ˈætəz ˈrɑːðə ðæn mɪˈkænɪkl ˈməʊʃn/",
+    "grammar": [
+      {
+        "text": "Modern timekeeping methods",
+        "role": "S",
+        "phonetic": "/ˈmɒdn taɪmˌkiːpɪŋ ˈmeθədz/",
+        "chinese": "现代的"
+      },
+      {
+        "text": "rely on",
+        "role": "V",
+        "phonetic": "/rɪˈlaɪ ɒn/",
+        "chinese": "依靠"
+      },
+      {
+        "text": "the vibration of atoms",
+        "role": "O",
+        "phonetic": "/ðə vaɪˈbreɪʃn ɒv ˈætəz/",
+        "chinese": "这个/那个/…的"
+      },
+      {
+        "text": "rather than mechanical motion",
+        "role": "P",
+        "phonetic": "/ˈrɑːðə ðæn mɪˈkænɪkl ˈməʊʃn/",
+        "chinese": "相当/宁愿/比"
+      }
+    ]
+  },
+  {
+    "chinese": "水钟",
+    "english": "water clock",
+    "soundmark": "/ˈwɔːtər klɒk/"
+  },
+  {
+    "chinese": "日食",
+    "english": "solar eclipse",
+    "soundmark": "/ˈsəʊlər ɪˈklɪps/"
+  },
+  {
+    "chinese": "振动",
+    "english": "vibration",
+    "soundmark": "/vaɪˈbreɪʃn/"
+  },
+  {
+    "chinese": "可靠",
+    "english": "reliable",
+    "soundmark": "/rɪˈlaɪəbl/"
+  },
+  {
+    "chinese": "精确度",
+    "english": "accuracy",
+    "soundmark": "/ˈækjərəsi/"
+  },
+  {
+    "chinese": "航海",
+    "english": "maritime",
+    "soundmark": "/ˈmærɪtaɪm/"
+  }
+]

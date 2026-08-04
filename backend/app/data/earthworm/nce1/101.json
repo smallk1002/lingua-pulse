@@ -1,0 +1,226 @@
+[
+  {
+    "english": "problem",
+    "chinese": "问题",
+    "soundmark": "/ˈprɑːbləm/"
+  },
+  {
+    "english": "homework",
+    "chinese": "家庭作业",
+    "soundmark": "/ˈhoʊmwɜːrk/"
+  },
+  {
+    "english": "difficult",
+    "chinese": "困难的",
+    "soundmark": "/ˈdɪfɪkəlt/"
+  },
+  {
+    "english": "help",
+    "chinese": "帮助",
+    "soundmark": "/help/"
+  },
+  {
+    "english": "explain",
+    "chinese": "解释",
+    "soundmark": "/ɪkˈspleɪn/"
+  },
+  {
+    "english": "understand",
+    "chinese": "理解",
+    "soundmark": "/ˌʌndərˈstænd/"
+  },
+  {
+    "chinese": "吉米有一个问题",
+    "english": "Jimmy has a problem",
+    "soundmark": "/ˈdʒɪmi hæz ə ˈprɑːbləm/",
+    "grammar": [
+      {
+        "text": "Jimmy",
+        "role": "S",
+        "phonetic": "/ˈdʒɪmi/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "problem",
+        "role": "O",
+        "phonetic": "/ˈprɑːbləm/",
+        "chinese": "问题/难题"
+      }
+    ]
+  },
+  {
+    "chinese": "他的作业太难了",
+    "english": "His homework is too difficult",
+    "soundmark": "/hɪz ˈhoʊmwɜːrk ɪz tuː ˈdɪfɪkəlt/",
+    "grammar": [
+      {
+        "text": "His",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "homework",
+        "role": "S",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "difficult",
+        "role": "C",
+        "phonetic": "/ˈdɪfɪkəlt/",
+        "chinese": "困难的"
+      }
+    ]
+  },
+  {
+    "chinese": "你能帮我解释一下吗？",
+    "english": "Can you explain it to me?",
+    "soundmark": "/kæn juː ɪkˈspleɪn ɪt tə miː/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "explain",
+        "role": "V",
+        "phonetic": "/ɪkˈspleɪn/",
+        "chinese": "解释"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "我不理解这道题",
+    "english": "I don't understand this question",
+    "soundmark": "/aɪ doʊnt ˌʌndərˈstænd ðɪs ˈkwestʃən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "don't",
+        "role": "V",
+        "phonetic": "/doʊnt/",
+        "chinese": "不"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "question",
+        "role": "O",
+        "phonetic": "/ˈkwestʃən/",
+        "chinese": "问题"
+      }
+    ]
+  },
+  {
+    "chinese": "让我来帮你",
+    "english": "Let me help you",
+    "soundmark": "/let miː help juː/",
+    "grammar": [
+      {
+        "text": "Let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "english": "confused",
+    "chinese": "困惑的",
+    "soundmark": "/kənˈfjuːzd/"
+  },
+  {
+    "english": "patient",
+    "chinese": "耐心的",
+    "soundmark": "/ˈpeɪʃənt/"
+  },
+  {
+    "english": "answer",
+    "chinese": "答案",
+    "soundmark": "/ˈænsər/"
+  }
+]

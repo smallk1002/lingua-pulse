@@ -1,0 +1,1167 @@
+[
+  {
+    "chinese": "复习",
+    "english": "review",
+    "soundmark": "/rɪˈvjuː/"
+  },
+  {
+    "chinese": "语法",
+    "english": "grammar",
+    "soundmark": "/ˈɡræmər/"
+  },
+  {
+    "chinese": "词汇",
+    "english": "vocabulary",
+    "soundmark": "/vəˈkæbjəleri/"
+  },
+  {
+    "chinese": "练习",
+    "english": "practice",
+    "soundmark": "/ˈpræktɪs/"
+  },
+  {
+    "chinese": "测试",
+    "english": "test",
+    "soundmark": "/test/"
+  },
+  {
+    "chinese": "进步",
+    "english": "progress",
+    "soundmark": "/ˈprɑːɡres/"
+  },
+  {
+    "chinese": "流利的",
+    "english": "fluent",
+    "soundmark": "/ˈfluːənt/"
+  },
+  {
+    "chinese": "自信的",
+    "english": "confident",
+    "soundmark": "/ˈkɑːnfɪdənt/"
+  },
+  {
+    "chinese": "错误",
+    "english": "mistake",
+    "soundmark": "/mɪˈsteɪk/"
+  },
+  {
+    "chinese": "改正",
+    "english": "correct",
+    "soundmark": "/kəˈrekt/"
+  },
+  {
+    "chinese": "银行在哪里在邮局旁边",
+    "english": "Where is the bank it is beside the post office",
+    "soundmark": "/wer ɪz ðə bæŋk ɪt ɪz bɪˈsaɪd ðə poʊst ˈɑːfɪs/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the bank",
+        "role": "S",
+        "phonetic": "/ðə bæŋk/",
+        "chinese": "这个/那个/银行"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "beside the post office",
+        "role": "C",
+        "phonetic": "/bɪˈsaɪd ðə poʊst ˈɑːfɪs/",
+        "chinese": "在…旁边/这个/那个/办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "我正在做一把椅子",
+    "english": "I am making a chair",
+    "soundmark": "/aɪ æm ˈmeɪkɪŋ ə tʃer/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am making",
+        "role": "V",
+        "phonetic": "/æm ˈmeɪkɪŋ/",
+        "chinese": "是/正在…(做/让)"
+      },
+      {
+        "text": "a chair",
+        "role": "O",
+        "phonetic": "/ə tʃer/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我昨天去了公园",
+    "english": "I went to the park yesterday",
+    "soundmark": "/aɪ went tuː ðə pɑːrk ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to the park",
+        "role": "A",
+        "phonetic": "/tuː ðə pɑːrk/",
+        "chinese": "到/向/这个/那个/公园"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "我明天会给你打电话",
+    "english": "I will call you tomorrow",
+    "soundmark": "/aɪ wɪl kɔːl juː təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will call",
+        "role": "V",
+        "phonetic": "/wɪl kɔːl/",
+        "chinese": "将要/打电话/叫"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "你有多少钱",
+    "english": "How much money do you have",
+    "soundmark": "/haʊ mʌtʃ ˈmʌni duː juː hæv/",
+    "grammar": [
+      {
+        "text": "How much money",
+        "role": "O",
+        "phonetic": "/haʊ mʌtʃ ˈmʌni/",
+        "chinese": "多少钱"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "桌子上曾经有一本书",
+    "english": "There was a book on the table",
+    "soundmark": "/ðer wʌz ə bʊk ɑːn ðə ˈteɪbl/",
+    "grammar": [
+      {
+        "text": "There was",
+        "role": "V",
+        "phonetic": "/ðer wʌz/",
+        "chinese": "有（过去单数）"
+      },
+      {
+        "text": "a book",
+        "role": "S",
+        "phonetic": "/ə bʊk/",
+        "chinese": "一本书"
+      },
+      {
+        "text": "on the table",
+        "role": "A",
+        "phonetic": "/ɑːn ðə ˈteɪbl/",
+        "chinese": "在…上/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你会游泳吗",
+    "english": "Can you swim",
+    "soundmark": "/kæn juː swɪm/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "swim",
+        "role": "V",
+        "phonetic": "/swɪm/",
+        "chinese": "游泳"
+      }
+    ]
+  },
+  {
+    "chinese": "你必须在这里保持安静",
+    "english": "You must be quiet here",
+    "soundmark": "/juː mʌst biː ˈkwaɪət hɪr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must be",
+        "role": "V",
+        "phonetic": "/mʌst biː/",
+        "chinese": "一定是"
+      },
+      {
+        "text": "quiet",
+        "role": "C",
+        "phonetic": "/ˈkwaɪət/",
+        "chinese": "安静的"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "你明天不必早起",
+    "english": "You don't have to get up early tomorrow",
+    "soundmark": "/juː doʊnt hæv tuː ɡet ʌp ˈɜːrli təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "don't have to get up",
+        "role": "V",
+        "phonetic": "/doʊnt hæv tuː ɡet ʌp/",
+        "chinese": "不/有/助动词/到/向/得到/变得/向上"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "我已经做完作业了",
+    "english": "I have already finished my homework",
+    "soundmark": "/aɪ hæv ɔːlˈredi ˈfɪnɪʃt maɪ ˈhoʊmwɜːrk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have already finished",
+        "role": "V",
+        "phonetic": "/hæv ɔːlˈredi ˈfɪnɪʃt/",
+        "chinese": "有/助动词/已经/完成的"
+      },
+      {
+        "text": "my homework",
+        "role": "O",
+        "phonetic": "/maɪ ˈhoʊmwɜːrk/",
+        "chinese": "我的/家庭作业"
+      }
+    ]
+  },
+  {
+    "chinese": "你曾经去过伦敦吗",
+    "english": "Have you ever been to London",
+    "soundmark": "/hæv juː ˈevər biːn tuː ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ever",
+        "role": "Adv",
+        "phonetic": "/ˈevər/",
+        "chinese": "曾经"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to London",
+        "role": "A",
+        "phonetic": "/tuː ˈlʌndən/",
+        "chinese": "到/向/伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "我从未吃过印度菜",
+    "english": "I have never eaten Indian food",
+    "soundmark": "/aɪ hæv ˈnevər ˈiːtn ˈɪndiən fuːd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have never eaten",
+        "role": "V",
+        "phonetic": "/hæv ˈnevər ˈiːtn/",
+        "chinese": "有/助动词/从不/被吃掉的"
+      },
+      {
+        "text": "Indian food",
+        "role": "O",
+        "phonetic": "/ˈɪndiən fuːd/",
+        "chinese": "食物"
+      }
+    ]
+  },
+  {
+    "chinese": "她唱得很美",
+    "english": "She sings beautifully",
+    "soundmark": "/ʃiː sɪŋz ˈbjuːtɪfli/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "sings",
+        "role": "V",
+        "phonetic": "/sɪŋz/",
+        "chinese": "唱"
+      },
+      {
+        "text": "beautifully",
+        "role": "A",
+        "phonetic": "/ˈbjuːtɪfli/",
+        "chinese": "…地(美丽的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我不舒服我需要看医生",
+    "english": "I am not feeling well I need to see a doctor",
+    "soundmark": "/aɪ æm nɑːt ˈfiːlɪŋ wel aɪ niːd tuː siː ə ˈdɑːktər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am not feeling",
+        "role": "V",
+        "phonetic": "/æm nɑːt ˈfiːlɪŋ/",
+        "chinese": "是/不/感觉"
+      },
+      {
+        "text": "well",
+        "role": "C",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need to see",
+        "role": "V",
+        "phonetic": "/niːd tuː siː/",
+        "chinese": "需要/到/向/看见"
+      },
+      {
+        "text": "a doctor",
+        "role": "O",
+        "phonetic": "/ə ˈdɑːktər/",
+        "chinese": "一名医生"
+      }
+    ]
+  },
+  {
+    "chinese": "火车几点出发",
+    "english": "What time does the train leave",
+    "soundmark": "/wʌt taɪm dʌz ðə treɪn liːv/",
+    "grammar": [
+      {
+        "text": "What time",
+        "role": "A",
+        "phonetic": "/wʌt taɪm/",
+        "chinese": "几点"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "the train",
+        "role": "S",
+        "phonetic": "/ðə treɪn/",
+        "chinese": "火车"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      }
+    ]
+  },
+  {
+    "chinese": "今天下午可以退房吗",
+    "english": "Can I check out this afternoon",
+    "soundmark": "/kæn aɪ tʃek aʊt ðɪs ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "check out",
+        "role": "V",
+        "phonetic": "/tʃek aʊt/",
+        "chinese": "退房/检查"
+      },
+      {
+        "text": "this afternoon",
+        "role": "A",
+        "phonetic": "/ðɪs ˌæftərˈnuːn/",
+        "chinese": "今天下午"
+      }
+    ]
+  },
+  {
+    "chinese": "请问博物馆怎么走",
+    "english": "How can I get to the museum please",
+    "soundmark": "/haʊ kæn aɪ ɡet tuː ðə mjuːˈziːəm pliːz/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "A",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "to the museum",
+        "role": "A",
+        "phonetic": "/tuː ðə mjuːˈziːəm/",
+        "chinese": "到/向/这个/那个/博物馆"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "电话占线你能稍等一下吗",
+    "english": "The line is busy can you hold on a moment",
+    "soundmark": "/ðə laɪn ɪz ˈbɪzi kæn juː hoʊld ɑːn ə ˈmoʊmənt/",
+    "grammar": [
+      {
+        "text": "The line",
+        "role": "S",
+        "phonetic": "/ðə laɪn/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "busy",
+        "role": "C",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "hold on",
+        "role": "V",
+        "phonetic": "/hoʊld ɑːn/",
+        "chinese": "等一下"
+      },
+      {
+        "text": "a moment",
+        "role": "A",
+        "phonetic": "/ə ˈmoʊmənt/",
+        "chinese": "一个/时刻/瞬间"
+      }
+    ]
+  },
+  {
+    "chinese": "你愿意周六来参加我的聚会吗",
+    "english": "Would you like to come to my party on Saturday",
+    "soundmark": "/wʊd juː laɪk tuː kʌm tuː maɪ ˈpɑːrti ɑːn ˈsætərdeɪ/",
+    "grammar": [
+      {
+        "text": "Would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like to come",
+        "role": "V",
+        "phonetic": "/laɪk tuː kʌm/",
+        "chinese": "喜欢/到/向/来"
+      },
+      {
+        "text": "to my party",
+        "role": "A",
+        "phonetic": "/tuː maɪ ˈpɑːrti/",
+        "chinese": "到/向/我的"
+      },
+      {
+        "text": "on Saturday",
+        "role": "A",
+        "phonetic": "/ɑːn ˈsætərdeɪ/",
+        "chinese": "在…上/星期六"
+      }
+    ]
+  },
+  {
+    "chinese": "我们为什么不去看电影呢",
+    "english": "Why don't we go to the cinema",
+    "soundmark": "/waɪ doʊnt wiː ɡoʊ tuː ðə ˈsɪnəmə/",
+    "grammar": [
+      {
+        "text": "Why don't",
+        "role": "Adv",
+        "phonetic": "/waɪ doʊnt/",
+        "chinese": "为什么/不"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to the cinema",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈsɪnəmə/",
+        "chinese": "到/向/这个/那个/电影院"
+      }
+    ]
+  },
+  {
+    "chinese": "这个盒子比那个盒子大",
+    "english": "This box is bigger than that one",
+    "soundmark": "/ðɪs bɑːks ɪz ˈbɪɡər ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This box",
+        "role": "S",
+        "phonetic": "/ðɪs bɑːks/",
+        "chinese": "这个/箱子/盒"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "bigger",
+        "role": "C",
+        "phonetic": "/ˈbɪɡər/",
+        "chinese": "更大的"
+      },
+      {
+        "text": "than that one",
+        "role": "A",
+        "phonetic": "/ðæn ðæt wʌn/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我起床的时候天正在下雨",
+    "english": "It was raining when I got up",
+    "soundmark": "/ɪt wʌz ˈreɪnɪŋ wen aɪ ɡɑːt ʌp/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was raining",
+        "role": "V",
+        "phonetic": "/wʌz ˈreɪnɪŋ/",
+        "chinese": "是（过去式）/雨"
+      },
+      {
+        "text": "when I got up",
+        "role": "A",
+        "phonetic": "/wen aɪ ɡɑːt ʌp/",
+        "chinese": "什么时候/我/得到（过去式）/向上"
+      }
+    ]
+  },
+  {
+    "chinese": "我能借一下你的笔吗",
+    "english": "Can I borrow your pen for a moment",
+    "soundmark": "/kæn aɪ ˈbɑːroʊ jɔːr pen fɔːr ə ˈmoʊmənt/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "borrow",
+        "role": "V",
+        "phonetic": "/ˈbɑːroʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "your pen",
+        "role": "O",
+        "phonetic": "/jɔːr pen/",
+        "chinese": "你的/你们的/钢笔"
+      },
+      {
+        "text": "for a moment",
+        "role": "A",
+        "phonetic": "/fɔːr ə ˈmoʊmənt/",
+        "chinese": "为了/对于/一个/时刻/瞬间"
+      }
+    ]
+  },
+  {
+    "chinese": "我想把美元换成欧元",
+    "english": "I would like to exchange dollars for euros",
+    "soundmark": "/aɪ wʊd laɪk tuː ɪksˈtʃeɪndʒ ˈdɑːlərz fɔːr ˈjʊroʊz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like to exchange",
+        "role": "V",
+        "phonetic": "/wʊd laɪk tuː ɪksˈtʃeɪndʒ/",
+        "chinese": "将会/喜欢/到/向"
+      },
+      {
+        "text": "dollars",
+        "role": "O",
+        "phonetic": "/ˈdɑːlərz/",
+        "chinese": ""
+      },
+      {
+        "text": "for euros",
+        "role": "A",
+        "phonetic": "/fɔːr ˈjʊroʊz/",
+        "chinese": "为了/对于"
+      }
+    ]
+  },
+  {
+    "chinese": "我想把这个包裹寄到日本",
+    "english": "I want to send this parcel to Japan",
+    "soundmark": "/aɪ wɑːnt tuː send ðɪs ˈpɑːrsl tuː dʒəˈpæn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want to send",
+        "role": "V",
+        "phonetic": "/wɑːnt tuː send/",
+        "chinese": "想要/到/向/发送/寄"
+      },
+      {
+        "text": "this parcel",
+        "role": "O",
+        "phonetic": "/ðɪs ˈpɑːrsl/",
+        "chinese": "这个/包裹"
+      },
+      {
+        "text": "to Japan",
+        "role": "A",
+        "phonetic": "/tuː dʒəˈpæn/",
+        "chinese": "到/向/日本"
+      }
+    ]
+  },
+  {
+    "chinese": "医生说你必须卧床休息两天",
+    "english": "The doctor said you must stay in bed for two days",
+    "soundmark": "/ðə ˈdɑːktər sed juː mʌst steɪ ɪn bed fɔːr tuː deɪz/",
+    "grammar": [
+      {
+        "text": "The doctor",
+        "role": "S",
+        "phonetic": "/ðə ˈdɑːktər/",
+        "chinese": "这个/那个/医生"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "you must stay in bed for two days",
+        "role": "O",
+        "phonetic": "/juː mʌst steɪ ɪn bed fɔːr tuː deɪz/",
+        "chinese": "你/你们/必须/停留/保持/在…里/为了/对于/二/…们/复数(天/日)"
+      }
+    ]
+  },
+  {
+    "chinese": "谢谢医生我感觉好多了",
+    "english": "Thank you doctor I am feeling much better now",
+    "soundmark": "/θæŋk juː ˈdɑːktər aɪ æm ˈfiːlɪŋ mʌtʃ ˈbetər naʊ/",
+    "grammar": [
+      {
+        "text": "Thank you",
+        "role": "V",
+        "phonetic": "/θæŋk juː/",
+        "chinese": "感谢/你/你们"
+      },
+      {
+        "text": "doctor",
+        "role": "S",
+        "phonetic": "/ˈdɑːktər/",
+        "chinese": "医生"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am feeling",
+        "role": "V",
+        "phonetic": "/æm ˈfiːlɪŋ/",
+        "chinese": "是/感觉"
+      },
+      {
+        "text": "much better",
+        "role": "C",
+        "phonetic": "/mʌtʃ ˈbetər/",
+        "chinese": "好多了"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "别忘了你的护照和机票",
+    "english": "Don't forget your passport and ticket",
+    "soundmark": "/doʊnt fərˈɡet jɔːr ˈpæspɔːrt ænd ˈtɪkɪt/",
+    "grammar": [
+      {
+        "text": "Don't forget",
+        "role": "V",
+        "phonetic": "/doʊnt fərˈɡet/",
+        "chinese": "不/忘记"
+      },
+      {
+        "text": "your passport and ticket",
+        "role": "O",
+        "phonetic": "/jɔːr ˈpæspɔːrt ænd ˈtɪkɪt/",
+        "chinese": "你的/你们的/和"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以自己处理这件事我不再是小孩子了",
+    "english": "I can handle this myself I am not a child anymore",
+    "soundmark": "/aɪ kæn ˈhændl ðɪs maɪˈself aɪ æm nɑːt ə tʃaɪld ˌenɪˈmɔːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can handle",
+        "role": "V",
+        "phonetic": "/kæn ˈhændl/",
+        "chinese": "能"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "myself",
+        "role": "A",
+        "phonetic": "/maɪˈself/",
+        "chinese": "我自己"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am not",
+        "role": "V",
+        "phonetic": "/æm nɑːt/",
+        "chinese": "是/不"
+      },
+      {
+        "text": "a child",
+        "role": "C",
+        "phonetic": "/ə tʃaɪld/",
+        "chinese": "一个/孩子"
+      },
+      {
+        "text": "anymore",
+        "role": "A",
+        "phonetic": "/ˌenɪˈmɔːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果明天天气好我们就去公园",
+    "english": "If the weather is nice tomorrow we will go to the park",
+    "soundmark": "/ɪf ðə ˈweðər ɪz naɪs təˈmɑːroʊ wiː wɪl ɡoʊ tuː ðə pɑːrk/",
+    "grammar": [
+      {
+        "text": "If the weather is nice tomorrow",
+        "role": "A",
+        "phonetic": "/ɪf ðə ˈweðər ɪz naɪs təˈmɑːroʊ/",
+        "chinese": "如果/这个/那个/天气/是/好的/不错的/明天"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will go",
+        "role": "V",
+        "phonetic": "/wɪl ɡoʊ/",
+        "chinese": "将要/去"
+      },
+      {
+        "text": "to the park",
+        "role": "A",
+        "phonetic": "/tuː ðə pɑːrk/",
+        "chinese": "到/向/这个/那个/公园"
+      }
+    ]
+  },
+  {
+    "chinese": "我在看书的时候他正在看电视",
+    "english": "While I was reading he was watching TV",
+    "soundmark": "/waɪl aɪ wʌz ˈriːdɪŋ hiː wʌz ˈwɑːtʃɪŋ ˌtiːˈviː/",
+    "grammar": [
+      {
+        "text": "While I was reading",
+        "role": "A",
+        "phonetic": "/waɪl aɪ wʌz ˈriːdɪŋ/",
+        "chinese": "当…时/而/我/是（过去式）/读（过去式/过去分词）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was watching",
+        "role": "V",
+        "phonetic": "/wʌz ˈwɑːtʃɪŋ/",
+        "chinese": "是（过去式）/观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˌtiːˈviː/",
+        "chinese": "电视"
+      }
+    ]
+  },
+  {
+    "chinese": "当我在等车的时候我看见了一场事故",
+    "english": "When I was waiting for the bus I saw an accident",
+    "soundmark": "/wen aɪ wʌz ˈweɪtɪŋ fɔːr ðə bʌs aɪ sɔː ən ˈæksɪdənt/",
+    "grammar": [
+      {
+        "text": "When I was waiting for the bus",
+        "role": "A",
+        "phonetic": "/wen aɪ wʌz ˈweɪtɪŋ fɔːr ðə bʌs/",
+        "chinese": "什么时候/我/是（过去式）/等/为了/对于/这个/那个/公交车"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "an accident",
+        "role": "O",
+        "phonetic": "/ən ˈæksɪdənt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我读过的最棒的书",
+    "english": "This is the best book I have ever read",
+    "soundmark": "/ðɪs ɪz ðə best bʊk aɪ hæv ˈevər red/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the best book I have ever read",
+        "role": "C",
+        "phonetic": "/ðə best bʊk aɪ hæv ˈevər red/",
+        "chinese": "这个/那个/最好/预订/书/我/有/助动词/曾经/读（过去式/过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "博物馆",
+    "english": "museum",
+    "soundmark": "/mjuːˈziːəm/"
+  },
+  {
+    "chinese": "退房",
+    "english": "check out",
+    "soundmark": "/tʃek aʊt/"
+  },
+  {
+    "chinese": "占线",
+    "english": "busy line",
+    "soundmark": "/ˈbɪzi laɪn/"
+  },
+  {
+    "chinese": "聚会",
+    "english": "party",
+    "soundmark": "/ˈpɑːrti/"
+  },
+  {
+    "chinese": "欧元",
+    "english": "euro",
+    "soundmark": "/ˈjʊroʊ/"
+  },
+  {
+    "chinese": "晚会",
+    "english": "party",
+    "soundmark": "/ˈpɑːrti/"
+  },
+  {
+    "chinese": "美丽的",
+    "english": "beautifully",
+    "soundmark": "/ˈbjuːtɪfli/"
+  },
+  {
+    "chinese": "流利",
+    "english": "fluently",
+    "soundmark": "/ˈfluːəntli/"
+  },
+  {
+    "chinese": "自信",
+    "english": "confidently",
+    "soundmark": "/ˈkɑːnfɪdəntli/"
+  },
+  {
+    "chinese": "祝贺你完成了这门课",
+    "english": "congratulations on finishing this course",
+    "soundmark": "/kənˌɡrætʃuˈleɪʃnz ɑːn ˈfɪnɪʃɪŋ ðɪs kɔːrs/"
+  }
+]

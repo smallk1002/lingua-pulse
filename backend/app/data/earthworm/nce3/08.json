@@ -1,0 +1,905 @@
+[
+  {
+    "chinese": "修道院",
+    "english": "monastery",
+    "soundmark": "/ˈmɑːnəsteri/"
+  },
+  {
+    "chinese": "圣伯纳德",
+    "english": "Saint Bernard",
+    "soundmark": "/seɪnt/ /bərˈnɑːrd/"
+  },
+  {
+    "chinese": "关口",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "海拔",
+    "english": "altitude",
+    "soundmark": "/ˈæltɪtuːd/"
+  },
+  {
+    "chinese": "旅客",
+    "english": "traveller",
+    "soundmark": "/ˈtrævələr/"
+  },
+  {
+    "chinese": "僧侣",
+    "english": "monk",
+    "soundmark": "/mʌŋk/"
+  },
+  {
+    "chinese": "款待",
+    "english": "hospitality",
+    "soundmark": "/ˌhɑːspɪˈtæləti/"
+  },
+  {
+    "chinese": "危险的",
+    "english": "dangerous",
+    "soundmark": "/ˈdeɪndʒərəs/"
+  },
+  {
+    "chinese": "通道",
+    "english": "tunnel",
+    "soundmark": "/ˈtʌnəl/"
+  },
+  {
+    "chinese": "著名的修道院",
+    "english": "famous monastery",
+    "soundmark": "/ˈfeɪməs/ /ˈmɑːnəsteri/"
+  },
+  {
+    "chinese": "高山关口",
+    "english": "mountain pass",
+    "soundmark": "/ˈmaʊntən/ /pæs/"
+  },
+  {
+    "chinese": "款待旅客",
+    "english": "offer hospitality to travellers",
+    "soundmark": "/ˈɔːfər/ /ˌhɑːspɪˈtæləti/ /tuː/ /ˈtrævələrz/"
+  },
+  {
+    "chinese": "海拔两千四百米",
+    "english": "at an altitude of 2400 metres",
+    "soundmark": "/æt/ /ən/ /ˈæltɪtuːd/ /ʌv/ /tuː/ /ˈθaʊzənd/ /fɔːr/ /ˈhʌndrəd/ /ˈmiːtərz/"
+  },
+  {
+    "chinese": "穿过隧道",
+    "english": "through the tunnel",
+    "soundmark": "/θruː/ /ðə/ /ˈtʌnəl/"
+  },
+  {
+    "chinese": "圣伯纳德修道院位于瑞士的高山上",
+    "english": "The monastery of Saint Bernard is high in the Swiss mountains",
+    "soundmark": "/ðə/ /ˈmɑːnəsteri/ /ʌv/ /seɪnt/ /bərˈnɑːrd/ /ɪz/ /haɪ/ /ɪn/ /ðə/ /swɪs/ /ˈmaʊntənz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "monastery",
+        "role": "S",
+        "phonetic": "/ˈmɑːnəsteri/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "Saint",
+        "role": "A",
+        "phonetic": "/seɪnt/",
+        "chinese": ""
+      },
+      {
+        "text": "Bernard",
+        "role": "A",
+        "phonetic": "/bərˈnɑːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "high",
+        "role": "C",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Swiss",
+        "role": "A",
+        "phonetic": "/swɪs/",
+        "chinese": ""
+      },
+      {
+        "text": "mountains",
+        "role": "A",
+        "phonetic": "/ˈmaʊntənz/",
+        "chinese": "山"
+      }
+    ]
+  },
+  {
+    "chinese": "僧侣们全年都住在修道院里",
+    "english": "The monks live in the monastery all year round",
+    "soundmark": "/ðə/ /mʌŋks/ /lɪv/ /ɪn/ /ðə/ /ˈmɑːnəsteri/ /ɔːl/ /jɪr/ /raʊnd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "monks",
+        "role": "S",
+        "phonetic": "/mʌŋks/",
+        "chinese": ""
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "monastery",
+        "role": "A",
+        "phonetic": "/ˈmɑːnəsteri/",
+        "chinese": ""
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      },
+      {
+        "text": "round",
+        "role": "Adv",
+        "phonetic": "/raʊnd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "旅客们可以在修道院里过夜",
+    "english": "Travellers can stay overnight at the monastery",
+    "soundmark": "/ˈtrævələrz/ /kæn/ /steɪ/ /ˌoʊvərˈnaɪt/ /æt/ /ðə/ /ˈmɑːnəsteri/",
+    "grammar": [
+      {
+        "text": "Travellers",
+        "role": "S",
+        "phonetic": "/ˈtrævələrz/",
+        "chinese": ""
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "stay",
+        "role": "V",
+        "phonetic": "/steɪ/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "overnight",
+        "role": "Adv",
+        "phonetic": "/ˌoʊvərˈnaɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "monastery",
+        "role": "A",
+        "phonetic": "/ˈmɑːnəsteri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "冬季关口不能通行",
+    "english": "The pass cannot be crossed in winter",
+    "soundmark": "/ðə/ /pæs/ /ˈkænɑːt/ /biː/ /krɔːst/ /ɪn/ /ˈwɪntər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "pass",
+        "role": "S",
+        "phonetic": "/pæs/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "crossed",
+        "role": "V",
+        "phonetic": "/krɔːst/",
+        "chinese": "穿过"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "winter",
+        "role": "A",
+        "phonetic": "/ˈwɪntər/",
+        "chinese": "冬天"
+      }
+    ]
+  },
+  {
+    "chinese": "他们不能在冬天过境",
+    "english": "They cannot cross the border in winter",
+    "soundmark": "/ðeɪ/ /ˈkænɑːt/ /krɔːs/ /ðə/ /ˈbɔːrdər/ /ɪn/ /ˈwɪntər/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "cannot",
+        "role": "Aux",
+        "phonetic": "/ˈkænɑːt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "cross",
+        "role": "V",
+        "phonetic": "/krɔːs/",
+        "chinese": "穿过"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "border",
+        "role": "O",
+        "phonetic": "/ˈbɔːrdər/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "winter",
+        "role": "A",
+        "phonetic": "/ˈwɪntər/",
+        "chinese": "冬天"
+      }
+    ]
+  },
+  {
+    "chinese": "游客夏天能参观修道院吗",
+    "english": "Can tourists visit the monastery in summer",
+    "soundmark": "/kæn/ /ˈtʊrɪsts/ /ˈvɪzɪt/ /ðə/ /ˈmɑːnəsteri/ /ɪn/ /ˈsʌmər/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "tourists",
+        "role": "S",
+        "phonetic": "/ˈtʊrɪsts/",
+        "chinese": "游客"
+      },
+      {
+        "text": "visit",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪt/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "monastery",
+        "role": "O",
+        "phonetic": "/ˈmɑːnəsteri/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "summer",
+        "role": "A",
+        "phonetic": "/ˈsʌmər/",
+        "chinese": "夏天"
+      }
+    ]
+  },
+  {
+    "chinese": "你在那里必须非常小心",
+    "english": "You must be very careful up there",
+    "soundmark": "/juː/ /mʌst/ /biː/ /ˈveri/ /ˈkerfəl/ /ʌp/ /ðer/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "careful",
+        "role": "C",
+        "phonetic": "/ˈkerfəl/",
+        "chinese": "小心的"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "there",
+        "role": "Adv",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "圣伯纳德犬过去常被用来救援迷路的旅客",
+    "english": "Saint Bernard dogs used to rescue lost travellers",
+    "soundmark": "/seɪnt/ /bərˈnɑːrd/ /dɔːɡz/ /juːzd/ /tuː/ /ˈreskjuː/ /lɔːst/ /ˈtrævələrz/",
+    "grammar": [
+      {
+        "text": "Saint",
+        "role": "A",
+        "phonetic": "/seɪnt/",
+        "chinese": ""
+      },
+      {
+        "text": "Bernard",
+        "role": "A",
+        "phonetic": "/bərˈnɑːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "dogs",
+        "role": "S",
+        "phonetic": "/dɔːɡz/",
+        "chinese": "狗"
+      },
+      {
+        "text": "used",
+        "role": "Aux",
+        "phonetic": "/juːzd/",
+        "chinese": "用过的/二手的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "rescue",
+        "role": "V",
+        "phonetic": "/ˈreskjuː/",
+        "chinese": ""
+      },
+      {
+        "text": "lost",
+        "role": "A",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "travellers",
+        "role": "O",
+        "phonetic": "/ˈtrævələrz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "现在一条隧道已经建成以取代那条危险的关口",
+    "english": "A tunnel has now been built to replace the dangerous pass",
+    "soundmark": "/ə/ /ˈtʌnəl/ /hæz/ /naʊ/ /bɪn/ /bɪlt/ /tuː/ /rɪˈpleɪs/ /ðə/ /ˈdeɪndʒərəs/ /pæs/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "tunnel",
+        "role": "S",
+        "phonetic": "/ˈtʌnəl/",
+        "chinese": "隧道"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "now",
+        "role": "Adv",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "replace",
+        "role": "V",
+        "phonetic": "/rɪˈpleɪs/",
+        "chinese": "替换"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dangerous",
+        "role": "A",
+        "phonetic": "/ˈdeɪndʒərəs/",
+        "chinese": "危险的"
+      },
+      {
+        "text": "pass",
+        "role": "O",
+        "phonetic": "/pæs/",
+        "chinese": "通过/传递"
+      }
+    ]
+  },
+  {
+    "chinese": "尽管有了隧道僧侣们仍然在那里生活",
+    "english": "Although there is a tunnel the monks still live there",
+    "soundmark": "/ɔːlˈðoʊ/ /ðer/ /ɪz/ /ə/ /ˈtʌnəl/ /ðə/ /mʌŋks/ /stɪl/ /lɪv/ /ðer/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "P",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "tunnel",
+        "role": "C",
+        "phonetic": "/ˈtʌnəl/",
+        "chinese": "隧道"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "monks",
+        "role": "S",
+        "phonetic": "/mʌŋks/",
+        "chinese": ""
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "修道院如今已成为著名的旅游景点",
+    "english": "The monastery has become a famous tourist attraction today",
+    "soundmark": "/ðə/ /ˈmɑːnəsteri/ /hæz/ /bɪˈkʌm/ /ə/ /ˈfeɪməs/ /ˈtʊrɪst/ /əˈtrækʃən/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "monastery",
+        "role": "S",
+        "phonetic": "/ˈmɑːnəsteri/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "become",
+        "role": "Lv",
+        "phonetic": "/bɪˈkʌm/",
+        "chinese": "变成"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "famous",
+        "role": "A",
+        "phonetic": "/ˈfeɪməs/",
+        "chinese": "著名的"
+      },
+      {
+        "text": "tourist",
+        "role": "A",
+        "phonetic": "/ˈtʊrɪst/",
+        "chinese": "游客"
+      },
+      {
+        "text": "attraction",
+        "role": "C",
+        "phonetic": "/əˈtrækʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "关口",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "隧道",
+    "english": "tunnel",
+    "soundmark": "/ˈtʌnəl/"
+  },
+  {
+    "chinese": "救援",
+    "english": "rescue",
+    "soundmark": "/ˈreskjuː/"
+  },
+  {
+    "chinese": "替换",
+    "english": "replace",
+    "soundmark": "/rɪˈpleɪs/"
+  },
+  {
+    "chinese": "边境",
+    "english": "border",
+    "soundmark": "/ˈbɔːrdər/"
+  },
+  {
+    "chinese": "旅游景点",
+    "english": "tourist attraction",
+    "soundmark": "/ˈtʊrɪst/ /əˈtrækʃən/"
+  },
+  {
+    "chinese": "过夜",
+    "english": "overnight",
+    "soundmark": "/ˌoʊvərˈnaɪt/"
+  },
+  {
+    "chinese": "全年",
+    "english": "all year round",
+    "soundmark": "/ɔːl/ /jɪr/ /raʊnd/"
+  },
+  {
+    "chinese": "尽管冬季严寒僧侣们仍然保持好客的传统",
+    "english": "Despite the severe winter the monks keep up the tradition of hospitality",
+    "soundmark": "/dɪˈspaɪt/ /ðə/ /sɪˈvɪr/ /ˈwɪntər/ /ðə/ /mʌŋks/ /kiːp/ /ʌp/ /ðə/ /trəˈdɪʃən/ /ʌv/ /ˌhɑːspɪˈtæləti/",
+    "grammar": [
+      {
+        "text": "Despite",
+        "role": "P",
+        "phonetic": "/dɪˈspaɪt/",
+        "chinese": "尽管"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "severe",
+        "role": "A",
+        "phonetic": "/sɪˈvɪr/",
+        "chinese": ""
+      },
+      {
+        "text": "winter",
+        "role": "O",
+        "phonetic": "/ˈwɪntər/",
+        "chinese": "冬天"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "monks",
+        "role": "S",
+        "phonetic": "/mʌŋks/",
+        "chinese": ""
+      },
+      {
+        "text": "keep",
+        "role": "V",
+        "phonetic": "/kiːp/",
+        "chinese": "保持/保留"
+      },
+      {
+        "text": "up",
+        "role": "Adv",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tradition",
+        "role": "O",
+        "phonetic": "/trəˈdɪʃən/",
+        "chinese": "传统"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "hospitality",
+        "role": "O",
+        "phonetic": "/ˌhɑːspɪˈtæləti/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如今游客可以驾车穿过隧道安全地到达另一侧",
+    "english": "Today tourists can drive through the tunnel safely to the other side",
+    "soundmark": "/təˈdeɪ/ /ˈtʊrɪsts/ /kæn/ /draɪv/ /θruː/ /ðə/ /ˈtʌnəl/ /ˈseɪfli/ /tuː/ /ði/ /ˈʌðər/ /saɪd/",
+    "grammar": [
+      {
+        "text": "Today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "tourists",
+        "role": "S",
+        "phonetic": "/ˈtʊrɪsts/",
+        "chinese": "游客"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "drive",
+        "role": "V",
+        "phonetic": "/draɪv/",
+        "chinese": "驾驶"
+      },
+      {
+        "text": "through",
+        "role": "P",
+        "phonetic": "/θruː/",
+        "chinese": "通过/穿过"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tunnel",
+        "role": "O",
+        "phonetic": "/ˈtʌnəl/",
+        "chinese": "隧道"
+      },
+      {
+        "text": "safely",
+        "role": "Adv",
+        "phonetic": "/ˈseɪfli/",
+        "chinese": "…地(安全的)"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "other",
+        "role": "A",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      },
+      {
+        "text": "side",
+        "role": "A",
+        "phonetic": "/saɪd/",
+        "chinese": "边/方面"
+      }
+    ]
+  }
+]

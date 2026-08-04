@@ -1,0 +1,375 @@
+[
+  {
+    "chinese": "代价",
+    "english": "price",
+    "soundmark": "/praɪs/"
+  },
+  {
+    "chinese": "太...而不能",
+    "english": "too...to",
+    "soundmark": "/tuː tuː/"
+  },
+  {
+    "chinese": "负担",
+    "english": "burden",
+    "soundmark": "/ˈbɜːrdən/"
+  },
+  {
+    "chinese": "牺牲",
+    "english": "sacrifice",
+    "soundmark": "/ˈsækrɪfaɪs/"
+  },
+  {
+    "chinese": "污染",
+    "english": "pollution",
+    "soundmark": "/pəˈluːʃən/"
+  },
+  {
+    "chinese": "环境",
+    "english": "environment",
+    "soundmark": "/ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "噪音",
+    "english": "noise",
+    "soundmark": "/nɔɪz/"
+  },
+  {
+    "chinese": "废气",
+    "english": "exhaust",
+    "soundmark": "/ɪɡˈzɔːst/"
+  },
+  {
+    "chinese": "代价太高了以至于无法承受。",
+    "english": "The price is too high to pay",
+    "soundmark": "/ðə praɪs ɪz tuː haɪ tuː peɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "price",
+        "role": "S",
+        "phonetic": "/praɪs/",
+        "chinese": "价格"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "high",
+        "role": "C",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "pay",
+        "role": "V",
+        "phonetic": "/peɪ/",
+        "chinese": "付钱"
+      }
+    ]
+  },
+  {
+    "chinese": "这些废气太危险了以至于无法忽视。",
+    "english": "The exhaust fumes are too dangerous to ignore",
+    "soundmark": "/ði ɪɡˈzɔːst fjuːmz ɑːr tuː ˈdeɪndʒərəs tuː ɪɡˈnɔːr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "exhaust",
+        "role": "C",
+        "phonetic": "/ɪɡˈzɔːst/",
+        "chinese": ""
+      },
+      {
+        "text": "fumes",
+        "role": "S",
+        "phonetic": "/fjuːmz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "dangerous",
+        "role": "C",
+        "phonetic": "/ˈdeɪndʒərəs/",
+        "chinese": "危险的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "ignore",
+        "role": "V",
+        "phonetic": "/ɪɡˈnɔːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "噪音变得太严重了居民无法入睡。",
+    "english": "The noise became too severe for residents to sleep",
+    "soundmark": "/ðə nɔɪz bɪˈkeɪm tuː sɪˈvɪr fɔːr ˈrezɪdənts tuː sliːp/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "noise",
+        "role": "S",
+        "phonetic": "/nɔɪz/",
+        "chinese": "噪音"
+      },
+      {
+        "text": "became",
+        "role": "Lv",
+        "phonetic": "/bɪˈkeɪm/",
+        "chinese": "变成（过去式）"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "severe",
+        "role": "C",
+        "phonetic": "/sɪˈvɪr/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "residents",
+        "role": "O",
+        "phonetic": "/ˈrezɪdənts/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "sleep",
+        "role": "V",
+        "phonetic": "/sliːp/",
+        "chinese": "睡觉"
+      }
+    ]
+  },
+  {
+    "chinese": "问题太复杂了以至于不能立刻解决。",
+    "english": "The problem is too complicated to be solved immediately",
+    "soundmark": "/ðə ˈprɒbləm ɪz tuː ˈkɒmplɪkeɪtɪd tuː biː sɒlvd ɪˈmiːdiətli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "problem",
+        "role": "S",
+        "phonetic": "/ˈprɒbləm/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "complicated",
+        "role": "C",
+        "phonetic": "/ˈkɒmplɪkeɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "solved",
+        "role": "V",
+        "phonetic": "/sɒlvd/",
+        "chinese": ""
+      },
+      {
+        "text": "immediately",
+        "role": "A",
+        "phonetic": "/ɪˈmiːdiətli/",
+        "chinese": "立刻"
+      }
+    ]
+  },
+  {
+    "chinese": "环境破坏已经太严重了无法逆转。",
+    "english": "The damage to the environment is too great to reverse",
+    "soundmark": "/ðə ˈdæmɪdʒ tuː ði ɪnˈvaɪrənmənt ɪz tuː ɡreɪt tuː rɪˈvɜːrs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "damage",
+        "role": "S",
+        "phonetic": "/ˈdæmɪdʒ/",
+        "chinese": "损坏"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "environment",
+        "role": "O",
+        "phonetic": "/ɪnˈvaɪrənmənt/",
+        "chinese": "环境"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "great",
+        "role": "C",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "reverse",
+        "role": "V",
+        "phonetic": "/rɪˈvɜːrs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "代价",
+    "english": "price",
+    "soundmark": "/praɪs/"
+  },
+  {
+    "chinese": "负担",
+    "english": "burden",
+    "soundmark": "/ˈbɜːrdən/"
+  },
+  {
+    "chinese": "牺牲",
+    "english": "sacrifice",
+    "soundmark": "/ˈsækrɪfaɪs/"
+  },
+  {
+    "chinese": "污染",
+    "english": "pollution",
+    "soundmark": "/pəˈluːʃən/"
+  },
+  {
+    "chinese": "环境",
+    "english": "environment",
+    "soundmark": "/ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "废气",
+    "english": "exhaust",
+    "soundmark": "/ɪɡˈzɔːst/"
+  },
+  {
+    "chinese": "严重的",
+    "english": "severe",
+    "soundmark": "/sɪˈvɪr/"
+  },
+  {
+    "chinese": "逆转",
+    "english": "reverse",
+    "soundmark": "/rɪˈvɜːrs/"
+  }
+]

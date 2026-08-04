@@ -1,0 +1,1493 @@
+[
+  {
+    "chinese": "祝福",
+    "english": "blessing",
+    "soundmark": "/ˈblesɪŋ/"
+  },
+  {
+    "chinese": "伪装",
+    "english": "disguise",
+    "soundmark": "/dɪsˈɡaɪz/"
+  },
+  {
+    "chinese": "事故",
+    "english": "accident",
+    "soundmark": "/ˈæksɪdənt/"
+  },
+  {
+    "chinese": "毁坏",
+    "english": "destroy",
+    "soundmark": "/dɪˈstrɔɪ/"
+  },
+  {
+    "chinese": "修理",
+    "english": "repair",
+    "soundmark": "/rɪˈper/"
+  },
+  {
+    "chinese": "损坏的",
+    "english": "damaged",
+    "soundmark": "/ˈdæmɪdʒd/"
+  },
+  {
+    "chinese": "替换",
+    "english": "replace",
+    "soundmark": "/rɪˈpleɪs/"
+  },
+  {
+    "chinese": "保险",
+    "english": "insurance",
+    "soundmark": "/ɪnˈʃʊrəns/"
+  },
+  {
+    "chinese": "申请",
+    "english": "claim",
+    "soundmark": "/kleɪm/"
+  },
+  {
+    "chinese": "修建",
+    "english": "build",
+    "soundmark": "/bɪld/"
+  },
+  {
+    "chinese": "被摧毁",
+    "english": "was destroyed",
+    "soundmark": "/wʌz dɪˈstrɔɪd/"
+  },
+  {
+    "chinese": "被修理",
+    "english": "was repaired",
+    "soundmark": "/wʌz rɪˈperd/"
+  },
+  {
+    "chinese": "被替换",
+    "english": "was replaced",
+    "soundmark": "/wʌz rɪˈpleɪst/"
+  },
+  {
+    "chinese": "因祸得福",
+    "english": "a blessing in disguise",
+    "soundmark": "/ə ˈblesɪŋ ɪn dɪsˈɡaɪz/"
+  },
+  {
+    "chinese": "提交保险理赔",
+    "english": "make an insurance claim",
+    "soundmark": "/meɪk ən ɪnˈʃʊrəns kleɪm/"
+  },
+  {
+    "chinese": "被烧毁",
+    "english": "was burned down",
+    "soundmark": "/wʌz bɜːrnd daʊn/"
+  },
+  {
+    "chinese": "这棵古树被砍了",
+    "english": "The old tree was cut down",
+    "soundmark": "/ðə oʊld triː wʌz kʌt daʊn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "tree",
+        "role": "S",
+        "phonetic": "/triː/",
+        "chinese": "树"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "cut",
+        "role": "V",
+        "phonetic": "/kʌt/",
+        "chinese": "剪/切"
+      },
+      {
+        "text": "down",
+        "role": "Adv",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      }
+    ]
+  },
+  {
+    "chinese": "那辆车在一次事故中被毁",
+    "english": "The car was destroyed in an accident",
+    "soundmark": "/ðə kɑːr wʌz dɪˈstrɔɪd ɪn ən ˈæksɪdənt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "car",
+        "role": "S",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "destroyed",
+        "role": "V",
+        "phonetic": "/dɪˈstrɔɪd/",
+        "chinese": "破坏"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "accident",
+        "role": "A",
+        "phonetic": "/ˈæksɪdənt/",
+        "chinese": "事故"
+      }
+    ]
+  },
+  {
+    "chinese": "房子被火烧毁了",
+    "english": "The house was destroyed by fire",
+    "soundmark": "/ðə haʊs wʌz dɪˈstrɔɪd baɪ faɪər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "S",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "destroyed",
+        "role": "V",
+        "phonetic": "/dɪˈstrɔɪd/",
+        "chinese": "破坏"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "fire",
+        "role": "O",
+        "phonetic": "/faɪər/",
+        "chinese": "火"
+      }
+    ]
+  },
+  {
+    "chinese": "这条路正在修建中",
+    "english": "The road is being built now",
+    "soundmark": "/ðə roʊd ɪz ˈbiːɪŋ bɪlt naʊ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "road",
+        "role": "S",
+        "phonetic": "/roʊd/",
+        "chinese": "路"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "being",
+        "role": "V",
+        "phonetic": "/ˈbiːɪŋ/",
+        "chinese": "是（进行时）"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "那封信是昨天寄出的",
+    "english": "The letter was posted yesterday",
+    "soundmark": "/ðə ˈletər wʌz ˈpoʊstɪd ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "letter",
+        "role": "S",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "posted",
+        "role": "V",
+        "phonetic": "/ˈpoʊstɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "窗户被哪个男孩打破了",
+    "english": "The window was broken by a boy",
+    "soundmark": "/ðə ˈwɪndoʊ wʌz ˈbroʊkən baɪ ə bɔɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "S",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "broken",
+        "role": "V",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "boy",
+        "role": "O",
+        "phonetic": "/bɔɪ/",
+        "chinese": "男孩"
+      }
+    ]
+  },
+  {
+    "chinese": "这些花每天早上都会被浇水",
+    "english": "The flowers are watered every morning",
+    "soundmark": "/ðə ˈflaʊərz ɑːr ˈwɔːtərd ˈevri ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "flowers",
+        "role": "S",
+        "phonetic": "/ˈflaʊərz/",
+        "chinese": "花"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "watered",
+        "role": "V",
+        "phonetic": "/ˈwɔːtərd/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "那个包裹明天才能送到",
+    "english": "The parcel will be delivered tomorrow",
+    "soundmark": "/ðə ˈpɑːrsl wɪl biː dɪˈlɪvərd təˈmɔːroʊ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "parcel",
+        "role": "S",
+        "phonetic": "/ˈpɑːrsl/",
+        "chinese": "包裹"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "delivered",
+        "role": "V",
+        "phonetic": "/dɪˈlɪvərd/",
+        "chinese": "递送（过去式/过去分词）"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɔːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "那名小偷还没有被抓住",
+    "english": "The thief has not been caught yet",
+    "soundmark": "/ðə θiːf hæz nɑːt biːn kɔːt jet/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thief",
+        "role": "S",
+        "phonetic": "/θiːf/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "yet",
+        "role": "Adv",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "那名病人被送进了医院",
+    "english": "The patient was taken to hospital",
+    "soundmark": "/ðə ˈpeɪʃənt wʌz ˈteɪkən tuː ˈhɑːspɪtl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "patient",
+        "role": "S",
+        "phonetic": "/ˈpeɪʃənt/",
+        "chinese": "耐心的/病人"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "hospital",
+        "role": "A",
+        "phonetic": "/ˈhɑːspɪtl/",
+        "chinese": "医院"
+      }
+    ]
+  },
+  {
+    "chinese": "那道难题终于被解开了",
+    "english": "The difficult problem was solved at last",
+    "soundmark": "/ðə ˈdɪfɪkəlt ˈprɑːbləm wʌz sɑːlvd æt læst/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "difficult",
+        "role": "A",
+        "phonetic": "/ˈdɪfɪkəlt/",
+        "chinese": "困难的"
+      },
+      {
+        "text": "problem",
+        "role": "S",
+        "phonetic": "/ˈprɑːbləm/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "solved",
+        "role": "V",
+        "phonetic": "/sɑːlvd/",
+        "chinese": ""
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      }
+    ]
+  },
+  {
+    "chinese": "那条狗是被一辆卡车撞倒的",
+    "english": "The dog was knocked down by a truck",
+    "soundmark": "/ðə dɔːɡ wʌz nɑːkt daʊn baɪ ə trʌk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "knocked",
+        "role": "V",
+        "phonetic": "/nɑːkt/",
+        "chinese": "敲"
+      },
+      {
+        "text": "down",
+        "role": "Adv",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "truck",
+        "role": "O",
+        "phonetic": "/trʌk/",
+        "chinese": "卡车"
+      }
+    ]
+  },
+  {
+    "chinese": "保险金已经全部赔付",
+    "english": "The insurance money has been paid out",
+    "soundmark": "/ðə ɪnˈʃʊrəns ˈmʌni hæz biːn peɪd aʊt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "insurance",
+        "role": "A",
+        "phonetic": "/ɪnˈʃʊrəns/",
+        "chinese": ""
+      },
+      {
+        "text": "money",
+        "role": "S",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "paid",
+        "role": "V",
+        "phonetic": "/peɪd/",
+        "chinese": "付钱（过去式）"
+      },
+      {
+        "text": "out",
+        "role": "Adv",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      }
+    ]
+  },
+  {
+    "chinese": "这些书是一位著名作家写的",
+    "english": "These books were written by a famous writer",
+    "soundmark": "/ðiːz bʊks wɜːr ˈrɪtən baɪ ə ˈfeɪməs ˈraɪtər/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "books",
+        "role": "S",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "written",
+        "role": "V",
+        "phonetic": "/ˈrɪtən/",
+        "chinese": "书面的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "famous",
+        "role": "A",
+        "phonetic": "/ˈfeɪməs/",
+        "chinese": "著名的"
+      },
+      {
+        "text": "writer",
+        "role": "O",
+        "phonetic": "/ˈraɪtər/",
+        "chinese": "更…的/…者(写)"
+      }
+    ]
+  },
+  {
+    "chinese": "会议昨天下午开了",
+    "english": "The meeting was held yesterday afternoon",
+    "soundmark": "/ðə ˈmiːtɪŋ wʌz held ˈjestərdeɪ ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meeting",
+        "role": "S",
+        "phonetic": "/ˈmiːtɪŋ/",
+        "chinese": "会议的/会议"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "held",
+        "role": "V",
+        "phonetic": "/held/",
+        "chinese": ""
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      },
+      {
+        "text": "afternoon",
+        "role": "A",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      }
+    ]
+  },
+  {
+    "chinese": "英语在全世界都被使用",
+    "english": "English is spoken all over the world",
+    "soundmark": "/ˈɪŋɡlɪʃ ɪz ˈspoʊkən ɔːl ˈoʊvər ðə wɜːrld/",
+    "grammar": [
+      {
+        "text": "English",
+        "role": "S",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "spoken",
+        "role": "V",
+        "phonetic": "/ˈspoʊkən/",
+        "chinese": "口头的"
+      },
+      {
+        "text": "all",
+        "role": "Adv",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "A",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      }
+    ]
+  },
+  {
+    "chinese": "比赛由于坏天气被推迟了",
+    "english": "The match was put off because of the bad weather",
+    "soundmark": "/ðə mætʃ wʌz pʊt ɔːf bɪˈkɔːz ʌv ðə bæd ˈweðər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "match",
+        "role": "S",
+        "phonetic": "/mætʃ/",
+        "chinese": "匹配"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "off",
+        "role": "Adv",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "because",
+        "role": "P",
+        "phonetic": "/bɪˈkɔːz/",
+        "chinese": "因为"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bad",
+        "role": "A",
+        "phonetic": "/bæd/",
+        "chinese": "坏的"
+      },
+      {
+        "text": "weather",
+        "role": "O",
+        "phonetic": "/ˈweðər/",
+        "chinese": "天气"
+      }
+    ]
+  },
+  {
+    "chinese": "后来发现那场事故其实是一件幸事",
+    "english": "It was later found that the accident was a blessing",
+    "soundmark": "/ɪt wʌz ˈleɪtər faʊnd ðæt ðə ˈæksɪdənt wʌz ə ˈblesɪŋ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "later",
+        "role": "Adv",
+        "phonetic": "/ˈleɪtər/",
+        "chinese": "后来"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "accident",
+        "role": "S",
+        "phonetic": "/ˈæksɪdənt/",
+        "chinese": "事故"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "blessing",
+        "role": "C",
+        "phonetic": "/ˈblesɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "一辆新车被作为替代提供给了他",
+    "english": "He was offered a new car as a replacement",
+    "soundmark": "/hiː wʌz ˈɔːfərd ə nuː kɑːr æz ə rɪˈpleɪsmənt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "offered",
+        "role": "V",
+        "phonetic": "/ˈɔːfərd/",
+        "chinese": "提供"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "replacement",
+        "role": "O",
+        "phonetic": "/rɪˈpleɪsmənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这场大火是雷击引发的",
+    "english": "The fire was caused by a lightning strike",
+    "soundmark": "/ðə faɪər wʌz kɔːzd baɪ ə ˈlaɪtnɪŋ straɪk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fire",
+        "role": "S",
+        "phonetic": "/faɪər/",
+        "chinese": "火"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "caused",
+        "role": "V",
+        "phonetic": "/kɔːzd/",
+        "chinese": "原因/导致"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lightning",
+        "role": "A",
+        "phonetic": "/ˈlaɪtnɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "strike",
+        "role": "O",
+        "phonetic": "/straɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那些老旧建筑将被拆除并建新的",
+    "english": "The old buildings will be torn down and new ones built",
+    "soundmark": "/ðə oʊld ˈbɪldɪŋz wɪl biː tɔːrn daʊn ænd nuː wʌnz bɪlt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "buildings",
+        "role": "S",
+        "phonetic": "/ˈbɪldɪŋz/",
+        "chinese": "建筑的/建筑物"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "torn",
+        "role": "V",
+        "phonetic": "/tɔːrn/",
+        "chinese": "撕破的"
+      },
+      {
+        "text": "down",
+        "role": "Adv",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "new",
+        "role": "A",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "ones",
+        "role": "S",
+        "phonetic": "/wʌnz/",
+        "chinese": "一些"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      }
+    ]
+  },
+  {
+    "chinese": "病人",
+    "english": "patient",
+    "soundmark": "/ˈpeɪʃənt/"
+  },
+  {
+    "chinese": "闪电",
+    "english": "lightning",
+    "soundmark": "/ˈlaɪtnɪŋ/"
+  },
+  {
+    "chinese": "卡车",
+    "english": "truck",
+    "soundmark": "/trʌk/"
+  },
+  {
+    "chinese": "替代品",
+    "english": "replacement",
+    "soundmark": "/rɪˈpleɪsmənt/"
+  },
+  {
+    "chinese": "解决",
+    "english": "solve",
+    "soundmark": "/sɑːlv/"
+  },
+  {
+    "chinese": "拆除",
+    "english": "tear down",
+    "soundmark": "/ter daʊn/"
+  },
+  {
+    "chinese": "撞倒",
+    "english": "knock down",
+    "soundmark": "/nɑːk daʊn/"
+  },
+  {
+    "chinese": "推迟",
+    "english": "put off",
+    "soundmark": "/pʊt ɔːf/"
+  },
+  {
+    "chinese": "递交",
+    "english": "deliver",
+    "soundmark": "/dɪˈlɪvər/"
+  },
+  {
+    "chinese": "浇水",
+    "english": "water",
+    "soundmark": "/ˈwɔːtər/"
+  },
+  {
+    "chinese": "那些老房子将被推倒重建",
+    "english": "Those old houses are going to be pulled down and rebuilt",
+    "soundmark": "/ðoʊz oʊld ˈhaʊzɪz ɑːr ˈɡoʊɪŋ tuː biː pʊld daʊn ænd riːˈbɪlt/",
+    "grammar": [
+      {
+        "text": "Those",
+        "role": "Det",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "old",
+        "role": "A",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "houses",
+        "role": "S",
+        "phonetic": "/ˈhaʊzɪz/",
+        "chinese": "房子"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "pulled",
+        "role": "V",
+        "phonetic": "/pʊld/",
+        "chinese": "拉"
+      },
+      {
+        "text": "down",
+        "role": "Adv",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "rebuilt",
+        "role": "V",
+        "phonetic": "/riːˈbɪlt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "小偷还没有被警察找到",
+    "english": "The thief has not been found by the police",
+    "soundmark": "/ðə θiːf hæz nɑːt biːn faʊnd baɪ ðə pəˈliːs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thief",
+        "role": "S",
+        "phonetic": "/θiːf/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "O",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      }
+    ]
+  },
+  {
+    "chinese": "那扇门被风猛地吹开了",
+    "english": "The door was blown open by the wind",
+    "soundmark": "/ðə dɔːr wʌz bloʊn ˈoʊpən baɪ ðə wɪnd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "S",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "blown",
+        "role": "V",
+        "phonetic": "/bloʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "open",
+        "role": "C",
+        "phonetic": "/ˈoʊpən/",
+        "chinese": "打开"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wind",
+        "role": "O",
+        "phonetic": "/wɪnd/",
+        "chinese": "风"
+      }
+    ]
+  },
+  {
+    "chinese": "所有损坏的部件很快就被更换了",
+    "english": "All the damaged parts were quickly replaced",
+    "soundmark": "/ɔːl ðə ˈdæmɪdʒd pɑːrts wɜːr ˈkwɪkli rɪˈpleɪst/",
+    "grammar": [
+      {
+        "text": "All",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "damaged",
+        "role": "A",
+        "phonetic": "/ˈdæmɪdʒd/",
+        "chinese": "损坏的"
+      },
+      {
+        "text": "parts",
+        "role": "S",
+        "phonetic": "/pɑːrts/",
+        "chinese": "部分"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "quickly",
+        "role": "Adv",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      },
+      {
+        "text": "replaced",
+        "role": "V",
+        "phonetic": "/rɪˈpleɪst/",
+        "chinese": "替换"
+      }
+    ]
+  },
+  {
+    "chinese": "这场事故本来可以被避免的",
+    "english": "The accident could have been avoided",
+    "soundmark": "/ðə ˈæksɪdənt kʊd hæv biːn əˈvɔɪdɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "accident",
+        "role": "S",
+        "phonetic": "/ˈæksɪdənt/",
+        "chinese": "事故"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "avoided",
+        "role": "V",
+        "phonetic": "/əˈvɔɪdɪd/",
+        "chinese": "避免"
+      }
+    ]
+  },
+  {
+    "chinese": "重建",
+    "english": "rebuild",
+    "soundmark": "/riːˈbɪld/"
+  },
+  {
+    "chinese": "被吹开",
+    "english": "blown open",
+    "soundmark": "/bloʊn ˈoʊpən/"
+  },
+  {
+    "chinese": "避免",
+    "english": "avoid",
+    "soundmark": "/əˈvɔɪd/"
+  }
+]

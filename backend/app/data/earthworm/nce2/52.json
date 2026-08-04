@@ -1,0 +1,300 @@
+[
+  {
+    "chinese": "漂亮的",
+    "english": "pretty",
+    "soundmark": "/ˈprɪti/"
+  },
+  {
+    "chinese": "地毯",
+    "english": "carpet",
+    "soundmark": "/ˈkɑːrpɪt/"
+  },
+  {
+    "chinese": "书房",
+    "english": "study",
+    "soundmark": "/ˈstʌdi/"
+  },
+  {
+    "chinese": "地板",
+    "english": "floor",
+    "soundmark": "/flɔːr/"
+  },
+  {
+    "chinese": "书",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "整理",
+    "english": "tidy",
+    "soundmark": "/ˈtaɪdi/"
+  },
+  {
+    "chinese": "覆盖",
+    "english": "cover",
+    "soundmark": "/ˈkʌvər/"
+  },
+  {
+    "chinese": "杂乱",
+    "english": "mess",
+    "soundmark": "/mes/"
+  },
+  {
+    "chinese": "我一直在整理书房。",
+    "english": "I have been tidying the study",
+    "soundmark": "/aɪ hæv biːn ˈtaɪdiɪŋ ðə ˈstʌdi/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have been tidying",
+        "role": "V",
+        "phonetic": "/hæv biːn ˈtaɪdiɪŋ/",
+        "chinese": "有/助动词/是（过去分词）"
+      },
+      {
+        "text": "the study",
+        "role": "O",
+        "phonetic": "/ðə ˈstʌdi/",
+        "chinese": "这个/那个/学习/研究"
+      }
+    ]
+  },
+  {
+    "chinese": "她一直在铺那块新地毯。",
+    "english": "She has been putting down the new carpet",
+    "soundmark": "/ʃiː hæz biːn ˈpʊtɪŋ daʊn ðə nuː ˈkɑːrpɪt/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has been putting down",
+        "role": "V",
+        "phonetic": "/hæz biːn ˈpʊtɪŋ daʊn/",
+        "chinese": "有/助动词/是（过去分词）/正在…(放（过去式/过去分词）)/向下"
+      },
+      {
+        "text": "the new carpet",
+        "role": "O",
+        "phonetic": "/ðə nuː ˈkɑːrpɪt/",
+        "chinese": "这个/那个/新的/地毯"
+      }
+    ]
+  },
+  {
+    "chinese": "他整个早上都在读书。",
+    "english": "He has been reading books all morning",
+    "soundmark": "/hiː hæz biːn ˈriːdɪŋ bʊks ɔːl ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has been reading",
+        "role": "V",
+        "phonetic": "/hæz biːn ˈriːdɪŋ/",
+        "chinese": "有/助动词/是（过去分词）/读（过去式/过去分词）"
+      },
+      {
+        "text": "books",
+        "role": "O",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "all morning",
+        "role": "A",
+        "phonetic": "/ɔːl ˈmɔːrnɪŋ/",
+        "chinese": "所有的/早上"
+      }
+    ]
+  },
+  {
+    "chinese": "书把整个地板都铺满了。",
+    "english": "Books have been covering the entire floor",
+    "soundmark": "/bʊks hæv biːn ˈkʌvərɪŋ ðə ɪnˈtaɪər flɔːr/",
+    "grammar": [
+      {
+        "text": "Books",
+        "role": "S",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "have been covering",
+        "role": "V",
+        "phonetic": "/hæv biːn ˈkʌvərɪŋ/",
+        "chinese": "有/助动词/是（过去分词）/覆盖"
+      },
+      {
+        "text": "the entire floor",
+        "role": "O",
+        "phonetic": "/ðə ɪnˈtaɪər flɔːr/",
+        "chinese": "这个/那个/地板/楼层"
+      }
+    ]
+  },
+  {
+    "chinese": "书房看起来漂亮多了因为它被整理过了。",
+    "english": "The study looked much prettier because it had been tidied",
+    "soundmark": "/ðə ˈstʌdi lʊkt mʌtʃ ˈprɪtiər bɪˈkɔːz ɪt hæd biːn ˈtaɪdid/",
+    "grammar": [
+      {
+        "text": "The study",
+        "role": "S",
+        "phonetic": "/ðə ˈstʌdi/",
+        "chinese": "这个/那个/学习/研究"
+      },
+      {
+        "text": "looked",
+        "role": "V",
+        "phonetic": "/lʊkt/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "much prettier",
+        "role": "C",
+        "phonetic": "/mʌtʃ ˈprɪtiər/",
+        "chinese": "很多"
+      },
+      {
+        "text": "because it had been tidied",
+        "role": "A",
+        "phonetic": "/bɪˈkɔːz ɪt hæd biːn ˈtaɪdid/",
+        "chinese": "因为/它/有/助动词（过去式）/是（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "她有好几个小时一直在收拾这堆杂乱的东西。",
+    "english": "She has been cleaning up the mess for hours",
+    "soundmark": "/ʃiː hæz biːn ˈkliːnɪŋ ʌp ðə mes fɔːr ˈaʊərz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has been cleaning up",
+        "role": "V",
+        "phonetic": "/hæz biːn ˈkliːnɪŋ ʌp/",
+        "chinese": "有/助动词/是（过去分词）/干净的/向上"
+      },
+      {
+        "text": "the mess",
+        "role": "O",
+        "phonetic": "/ðə mes/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "for hours",
+        "role": "A",
+        "phonetic": "/fɔːr ˈaʊərz/",
+        "chinese": "为了/对于/…们/复数(小时)"
+      }
+    ]
+  },
+  {
+    "chinese": "我一直在等你。",
+    "english": "I have been waiting for you",
+    "soundmark": "/aɪ hæv biːn ˈweɪtɪŋ fɔːr juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have been waiting",
+        "role": "V",
+        "phonetic": "/hæv biːn ˈweɪtɪŋ/",
+        "chinese": "有/助动词/是（过去分词）/等"
+      },
+      {
+        "text": "for you",
+        "role": "A",
+        "phonetic": "/fɔːr juː/",
+        "chinese": "为你"
+      }
+    ]
+  },
+  {
+    "chinese": "这些书放在地上倒是形成了一块漂亮的地毯。",
+    "english": "The books on the floor have formed a pretty carpet",
+    "soundmark": "/ðə bʊks ɑːn ðə flɔːr hæv fɔːrmd ə ˈprɪti ˈkɑːrpɪt/",
+    "grammar": [
+      {
+        "text": "The books on the floor",
+        "role": "S",
+        "phonetic": "/ðə bʊks ɑːn ðə flɔːr/",
+        "chinese": "这个/那个/…们/复数(预订/书)/在…上/这个/那个/地板/楼层"
+      },
+      {
+        "text": "have formed",
+        "role": "V",
+        "phonetic": "/hæv fɔːrmd/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a pretty carpet",
+        "role": "O",
+        "phonetic": "/ə ˈprɪti ˈkɑːrpɪt/",
+        "chinese": "一个/漂亮的/地毯"
+      }
+    ]
+  },
+  {
+    "chinese": "整个",
+    "english": "entire",
+    "soundmark": "/ɪnˈtaɪər/"
+  },
+  {
+    "chinese": "清理",
+    "english": "clean up",
+    "soundmark": "/kliːn ʌp/"
+  },
+  {
+    "chinese": "形成",
+    "english": "form",
+    "soundmark": "/fɔːrm/"
+  },
+  {
+    "chinese": "小时",
+    "english": "hour",
+    "soundmark": "/ˈaʊər/"
+  },
+  {
+    "chinese": "放下",
+    "english": "put down",
+    "soundmark": "/pʊt daʊn/"
+  },
+  {
+    "chinese": "新的",
+    "english": "new",
+    "soundmark": "/nuː/"
+  },
+  {
+    "chinese": "看起来",
+    "english": "look",
+    "soundmark": "/lʊk/"
+  },
+  {
+    "chinese": "更漂亮",
+    "english": "prettier",
+    "soundmark": "/ˈprɪtiər/"
+  }
+]

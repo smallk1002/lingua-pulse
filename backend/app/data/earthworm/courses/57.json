@@ -1,0 +1,2430 @@
+[
+  {
+    "chinese": "希望(wish)",
+    "english": "wish",
+    "soundmark": "/wɪʃ/"
+  },
+  {
+    "chinese": "要是……就好了(if only)",
+    "english": "if only",
+    "soundmark": "/ɪf ˈoʊnli/"
+  },
+  {
+    "chinese": "宁愿(would rather)",
+    "english": "would rather",
+    "soundmark": "/wʊd ˈræðər/"
+  },
+  {
+    "chinese": "是时候了(it's time)",
+    "english": "it's time",
+    "soundmark": "/ɪts taɪm/"
+  },
+  {
+    "chinese": "好像(as if)",
+    "english": "as if",
+    "soundmark": "/æz ɪf/"
+  },
+  {
+    "chinese": "建议(suggest)",
+    "english": "suggest",
+    "soundmark": "/səˈdʒest/"
+  },
+  {
+    "chinese": "推荐(recommend)",
+    "english": "recommend",
+    "soundmark": "/ˌrekəˈmend/"
+  },
+  {
+    "chinese": "坚持(insist)",
+    "english": "insist",
+    "soundmark": "/ɪnˈsɪst/"
+  },
+  {
+    "chinese": "重要的(essential)",
+    "english": "essential",
+    "soundmark": "/ɪˈsenʃəl/"
+  },
+  {
+    "chinese": "必要的(necessary)",
+    "english": "necessary",
+    "soundmark": "/ˈnesəseri/"
+  },
+  {
+    "chinese": "我希望我知道",
+    "english": "I wish I knew",
+    "soundmark": "/aɪ wɪʃ aɪ nuː/"
+  },
+  {
+    "chinese": "要是他能来就好了",
+    "english": "if only he could come",
+    "soundmark": "/ɪf ˈoʊnli hiː kʊd kʌm/"
+  },
+  {
+    "chinese": "我希望我是你",
+    "english": "I wish I were you",
+    "soundmark": "/aɪ wɪʃ aɪ wɜːr juː/"
+  },
+  {
+    "chinese": "我宁愿你去",
+    "english": "I would rather you went",
+    "soundmark": "/aɪ wʊd ˈræðər juː went/"
+  },
+  {
+    "chinese": "是时候我们出发了",
+    "english": "it's time we left",
+    "soundmark": "/ɪts taɪm wiː left/"
+  },
+  {
+    "chinese": "我真希望我早点知道这个消息",
+    "english": "I wish I had known this news earlier",
+    "soundmark": "/aɪ wɪʃ aɪ hæd noʊn ðɪs nuːz ˈɜːrliər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "known",
+        "role": "V",
+        "phonetic": "/noʊn/",
+        "chinese": "已知的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "news",
+        "role": "O",
+        "phonetic": "/nuːz/",
+        "chinese": "新闻"
+      },
+      {
+        "text": "earlier",
+        "role": "A",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      }
+    ]
+  },
+  {
+    "chinese": "要是我有更多时间就好了",
+    "english": "If only I had more time",
+    "soundmark": "/ɪf ˈoʊnli aɪ hæd mɔːr taɪm/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "more",
+        "role": "Det",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望我住在海边",
+    "english": "I wish I lived by the sea",
+    "soundmark": "/aɪ wɪʃ aɪ lɪvd baɪ ðə siː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "lived",
+        "role": "V",
+        "phonetic": "/lɪvd/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sea",
+        "role": "A",
+        "phonetic": "/siː/",
+        "chinese": "海"
+      }
+    ]
+  },
+  {
+    "chinese": "我宁愿你明天来",
+    "english": "I would rather you came tomorrow",
+    "soundmark": "/aɪ wʊd ˈræðər juː keɪm təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "rather",
+        "role": "A",
+        "phonetic": "/ˈræðər/",
+        "chinese": "相当/宁愿"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "came",
+        "role": "V",
+        "phonetic": "/keɪm/",
+        "chinese": "来（过去式）"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "他表现得好像什么都知道似的",
+    "english": "He acted as if he knew everything",
+    "soundmark": "/hiː ˈæktɪd æz ɪf hiː nuː ˈevriθɪŋ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "acted",
+        "role": "V",
+        "phonetic": "/ˈæktɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "knew",
+        "role": "V",
+        "phonetic": "/nuː/",
+        "chinese": "知道（过去式）"
+      },
+      {
+        "text": "everything",
+        "role": "O",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      }
+    ]
+  },
+  {
+    "chinese": "是时候我们该认真对待这个问题了",
+    "english": "It's high time we took this problem seriously",
+    "soundmark": "/ɪts haɪ taɪm wiː tʊk ðɪs ˈprɒbləm ˈsɪriəsli/",
+    "grammar": [
+      {
+        "text": "It's",
+        "role": "S",
+        "phonetic": "/ɪts/",
+        "chinese": "它是"
+      },
+      {
+        "text": "high",
+        "role": "A",
+        "phonetic": "/haɪ/",
+        "chinese": "高的"
+      },
+      {
+        "text": "time",
+        "role": "C",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "took",
+        "role": "V",
+        "phonetic": "/tʊk/",
+        "chinese": "拿/带（过去式）"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "problem",
+        "role": "O",
+        "phonetic": "/ˈprɒbləm/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "seriously",
+        "role": "A",
+        "phonetic": "/ˈsɪriəsli/",
+        "chinese": "…地(严肃的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我建议他马上去看医生",
+    "english": "I suggest that he see a doctor right away",
+    "soundmark": "/aɪ səˈdʒest ðæt hiː siː ə ˈdɒktər raɪt əˈweɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "suggest",
+        "role": "V",
+        "phonetic": "/səˈdʒest/",
+        "chinese": "建议"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "doctor",
+        "role": "O",
+        "phonetic": "/ˈdɒktər/",
+        "chinese": "医生"
+      },
+      {
+        "text": "right",
+        "role": "A",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      },
+      {
+        "text": "away",
+        "role": "A",
+        "phonetic": "/əˈweɪ/",
+        "chinese": "离开/远"
+      }
+    ]
+  },
+  {
+    "chinese": "要是我能像鸟一样飞就好了",
+    "english": "If only I could fly like a bird",
+    "soundmark": "/ɪf ˈoʊnli aɪ kʊd flaɪ laɪk ə bɜːrd/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "fly",
+        "role": "V",
+        "phonetic": "/flaɪ/",
+        "chinese": "飞"
+      },
+      {
+        "text": "like",
+        "role": "P",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bird",
+        "role": "O",
+        "phonetic": "/bɜːrd/",
+        "chinese": "鸟"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望我不必每天这么早起床",
+    "english": "I wish I didn't have to get up so early every day",
+    "soundmark": "/aɪ wɪʃ aɪ ˈdɪdənt hæv tuː ɡet ʌp soʊ ˈɜːrli ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "didn't",
+        "role": "V",
+        "phonetic": "/ˈdɪdənt/",
+        "chinese": "不（过去）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "so",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "她看起来好像刚哭过一样",
+    "english": "She looked as if she had been crying",
+    "soundmark": "/ʃiː lʊkt æz ɪf ʃiː hæd biːn ˈkraɪɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "looked",
+        "role": "V",
+        "phonetic": "/lʊkt/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "crying",
+        "role": "V",
+        "phonetic": "/ˈkraɪɪŋ/",
+        "chinese": "哭的"
+      }
+    ]
+  },
+  {
+    "chinese": "医生建议我多喝水和多休息",
+    "english": "The doctor recommended that I drink more water and rest more",
+    "soundmark": "/ðə ˈdɒktər ˌrekəˈmendɪd ðæt aɪ drɪŋk mɔːr ˈwɔːtər ænd rest mɔːr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "doctor",
+        "role": "S",
+        "phonetic": "/ˈdɒktər/",
+        "chinese": "医生"
+      },
+      {
+        "text": "recommended",
+        "role": "V",
+        "phonetic": "/ˌrekəˈmendɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "drink",
+        "role": "V",
+        "phonetic": "/drɪŋk/",
+        "chinese": "喝/饮料"
+      },
+      {
+        "text": "more",
+        "role": "Det",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "rest",
+        "role": "V",
+        "phonetic": "/rest/",
+        "chinese": "休息"
+      },
+      {
+        "text": "more",
+        "role": "A",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      }
+    ]
+  },
+  {
+    "chinese": "我真希望我当时听了你的话",
+    "english": "I wish I had listened to you back then",
+    "soundmark": "/aɪ wɪʃ aɪ hæd ˈlɪsənd tuː juː bæk ðen/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "listened",
+        "role": "V",
+        "phonetic": "/ˈlɪsənd/",
+        "chinese": "听"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "back",
+        "role": "A",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "then",
+        "role": "A",
+        "phonetic": "/ðen/",
+        "chinese": "然后"
+      }
+    ]
+  },
+  {
+    "chinese": "要是雨停就好了",
+    "english": "If only the rain would stop",
+    "soundmark": "/ɪf ˈoʊnli ðə reɪn wʊd stɒp/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "rain",
+        "role": "S",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "stop",
+        "role": "V",
+        "phonetic": "/stɒp/",
+        "chinese": "停止"
+      }
+    ]
+  },
+  {
+    "chinese": "她坚持要我们留下来吃晚饭",
+    "english": "She insisted that we stay for dinner",
+    "soundmark": "/ʃiː ɪnˈsɪstɪd ðæt wiː steɪ fɔːr ˈdɪnər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "insisted",
+        "role": "V",
+        "phonetic": "/ɪnˈsɪstɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "stay",
+        "role": "V",
+        "phonetic": "/steɪ/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "dinner",
+        "role": "A",
+        "phonetic": "/ˈdɪnər/",
+        "chinese": "晚餐"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望我当初没有对她说那些话",
+    "english": "I wish I hadn't said those words to her",
+    "soundmark": "/aɪ wɪʃ aɪ ˈhædənt sed ðoʊz wɜːrdz tuː hɜːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hadn't",
+        "role": "V",
+        "phonetic": "/ˈhædənt/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "those",
+        "role": "Det",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "words",
+        "role": "O",
+        "phonetic": "/wɜːrdz/",
+        "chinese": "单词"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      }
+    ]
+  },
+  {
+    "chinese": "每个人都必须准时到达",
+    "english": "It is essential that everyone arrive on time",
+    "soundmark": "/ɪt ɪz ɪˈsenʃəl ðæt ˈevriwʌn əˈraɪv ɒn taɪm/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "essential",
+        "role": "C",
+        "phonetic": "/ɪˈsenʃəl/",
+        "chinese": "必要的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "arrive",
+        "role": "V",
+        "phonetic": "/əˈraɪv/",
+        "chinese": "到达"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "要是我能回到过去改变一切就好了",
+    "english": "If only I could go back in time and change everything",
+    "soundmark": "/ɪf ˈoʊnli aɪ kʊd ɡoʊ bæk ɪn taɪm ænd tʃeɪndʒ ˈevriθɪŋ/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "back",
+        "role": "A",
+        "phonetic": "/bæk/",
+        "chinese": "回/向后/背部"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "change",
+        "role": "V",
+        "phonetic": "/tʃeɪndʒ/",
+        "chinese": "改变"
+      },
+      {
+        "text": "everything",
+        "role": "O",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      }
+    ]
+  },
+  {
+    "chinese": "我宁愿你当时没有告诉我真相",
+    "english": "I would rather you hadn't told me the truth",
+    "soundmark": "/aɪ wʊd ˈræðər juː ˈhædənt toʊld miː ðə truːθ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "rather",
+        "role": "A",
+        "phonetic": "/ˈræðər/",
+        "chinese": "相当/宁愿"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "hadn't",
+        "role": "V",
+        "phonetic": "/ˈhædənt/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "truth",
+        "role": "O",
+        "phonetic": "/truːθ/",
+        "chinese": "真相"
+      }
+    ]
+  },
+  {
+    "chinese": "他说话的语气好像他什么都知道",
+    "english": "He spoke as if he knew everything about this",
+    "soundmark": "/hiː spoʊk æz ɪf hiː nuː ˈevriθɪŋ əˈbaʊt ðɪs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "spoke",
+        "role": "V",
+        "phonetic": "/spoʊk/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "knew",
+        "role": "V",
+        "phonetic": "/nuː/",
+        "chinese": "知道（过去式）"
+      },
+      {
+        "text": "everything",
+        "role": "O",
+        "phonetic": "/ˈevriθɪŋ/",
+        "chinese": "一切"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "我真希望明天不要下雨",
+    "english": "I wish it wouldn't rain tomorrow",
+    "soundmark": "/aɪ wɪʃ ɪt ˈwʊdənt reɪn təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "wouldn't",
+        "role": "V",
+        "phonetic": "/ˈwʊdənt/",
+        "chinese": "不会"
+      },
+      {
+        "text": "rain",
+        "role": "V",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "要是没有你的帮助我不可能完成这件事",
+    "english": "If it hadn't been for your help I couldn't have done this",
+    "soundmark": "/ɪf ɪt ˈhædənt biːn fɔːr jɔːr help aɪ ˈkʊdənt hæv dʌn ðɪs/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "hadn't",
+        "role": "V",
+        "phonetic": "/ˈhædənt/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "help",
+        "role": "O",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "couldn't",
+        "role": "V",
+        "phonetic": "/ˈkʊdənt/",
+        "chinese": "不能（过去）"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "done",
+        "role": "V",
+        "phonetic": "/dʌn/",
+        "chinese": "做好的"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "要是我能流利地说五门语言就好了",
+    "english": "I wish I could speak five languages fluently",
+    "soundmark": "/aɪ wɪʃ aɪ kʊd spiːk faɪv ˈlæŋɡwɪdʒɪz ˈfluːəntli/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "languages",
+        "role": "O",
+        "phonetic": "/ˈlæŋɡwɪdʒɪz/",
+        "chinese": "语言"
+      },
+      {
+        "text": "fluently",
+        "role": "A",
+        "phonetic": "/ˈfluːəntli/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "要是我那次考试更努力一点就好了",
+    "english": "If only I had studied harder for that exam",
+    "soundmark": "/ɪf ˈoʊnli aɪ hæd ˈstʌdid ˈhɑːrdər fɔːr ðæt ɪɡˈzæm/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "studied",
+        "role": "V",
+        "phonetic": "/ˈstʌdid/",
+        "chinese": "学习（过去式）"
+      },
+      {
+        "text": "harder",
+        "role": "A",
+        "phonetic": "/ˈhɑːrdər/",
+        "chinese": "更…的/…者(硬的/难的)"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "exam",
+        "role": "A",
+        "phonetic": "/ɪɡˈzæm/",
+        "chinese": "考试"
+      }
+    ]
+  },
+  {
+    "chinese": "我宁愿你今晚留下来和我们一起",
+    "english": "I would rather you stayed here with us tonight",
+    "soundmark": "/aɪ wʊd ˈræðər juː steɪd hɪr wɪð ʌs təˈnaɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "rather",
+        "role": "A",
+        "phonetic": "/ˈræðər/",
+        "chinese": "相当/宁愿"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "stayed",
+        "role": "V",
+        "phonetic": "/steɪd/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "tonight",
+        "role": "A",
+        "phonetic": "/təˈnaɪt/",
+        "chinese": "今晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我们是时候开始准备这次旅行了",
+    "english": "It's about time we started preparing for the trip",
+    "soundmark": "/ɪts əˈbaʊt taɪm wiː ˈstɑːrtɪd prɪˈperɪŋ fɔːr ðə trɪp/",
+    "grammar": [
+      {
+        "text": "It's",
+        "role": "S",
+        "phonetic": "/ɪts/",
+        "chinese": "它是"
+      },
+      {
+        "text": "about",
+        "role": "A",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "time",
+        "role": "C",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "preparing",
+        "role": "V",
+        "phonetic": "/prɪˈperɪŋ/",
+        "chinese": "准备"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "trip",
+        "role": "A",
+        "phonetic": "/trɪp/",
+        "chinese": "旅行"
+      }
+    ]
+  },
+  {
+    "chinese": "他看着我的样子好像以前从没见过我似的",
+    "english": "He looked at me as if he had never seen me before",
+    "soundmark": "/hiː lʊkt æt miː æz ɪf hiː hæd ˈnevər siːn miː bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "looked",
+        "role": "V",
+        "phonetic": "/lʊkt/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "我建议你在做决定之前仔细想想",
+    "english": "I suggest that you think carefully before deciding",
+    "soundmark": "/aɪ səˈdʒest ðæt juː θɪŋk ˈkerfəli bɪˈfɔːr dɪˈsaɪdɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "suggest",
+        "role": "V",
+        "phonetic": "/səˈdʒest/",
+        "chinese": "建议"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "carefully",
+        "role": "A",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "deciding",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪŋ/",
+        "chinese": "决定"
+      }
+    ]
+  },
+  {
+    "chinese": "要是我们早五分钟出门就好了",
+    "english": "If only we had left the house five minutes earlier",
+    "soundmark": "/ɪf ˈoʊnli wiː hæd left ðə haʊs faɪv ˈmɪnɪts ˈɜːrliər/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "minutes",
+        "role": "A",
+        "phonetic": "/ˈmɪnɪts/",
+        "chinese": "分钟"
+      },
+      {
+        "text": "earlier",
+        "role": "A",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望雨快点停这样我们就能出去了",
+    "english": "I wish it would stop raining so we can go out",
+    "soundmark": "/aɪ wɪʃ ɪt wʊd stɒp ˈreɪnɪŋ soʊ wiː kæn ɡoʊ aʊt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "stop",
+        "role": "V",
+        "phonetic": "/stɒp/",
+        "chinese": "停止"
+      },
+      {
+        "text": "raining",
+        "role": "V",
+        "phonetic": "/ˈreɪnɪŋ/",
+        "chinese": "雨"
+      },
+      {
+        "text": "so",
+        "role": "P",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      }
+    ]
+  },
+  {
+    "chinese": "她坚持要每个人都准时参加会议",
+    "english": "She insisted that everyone attend the meeting on time",
+    "soundmark": "/ʃiː ɪnˈsɪstɪd ðæt ˈevriwʌn əˈtend ðə ˈmiːtɪŋ ɒn taɪm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "insisted",
+        "role": "V",
+        "phonetic": "/ɪnˈsɪstɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "attend",
+        "role": "V",
+        "phonetic": "/əˈtend/",
+        "chinese": "参加"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meeting",
+        "role": "O",
+        "phonetic": "/ˈmiːtɪŋ/",
+        "chinese": "会议的/会议"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "所有学生都必须完成作业",
+    "english": "It is necessary that all students complete the assignment",
+    "soundmark": "/ɪt ɪz ˈnesəseri ðæt ɔːl ˈstuːdənts kəmˈpliːt ði əˈsaɪnmənt/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "necessary",
+        "role": "C",
+        "phonetic": "/ˈnesəseri/",
+        "chinese": "必要的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "students",
+        "role": "S",
+        "phonetic": "/ˈstuːdənts/",
+        "chinese": "学生"
+      },
+      {
+        "text": "complete",
+        "role": "V",
+        "phonetic": "/kəmˈpliːt/",
+        "chinese": "完整的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "assignment",
+        "role": "O",
+        "phonetic": "/əˈsaɪnmənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我真希望年轻的时候能多感激父母一些",
+    "english": "I wish I had appreciated my parents more when I was young",
+    "soundmark": "/aɪ wɪʃ aɪ hæd əˈpriːʃieɪtɪd maɪ ˈperənts mɔːr wen aɪ wʌz jʌŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "appreciated",
+        "role": "V",
+        "phonetic": "/əˈpriːʃieɪtɪd/",
+        "chinese": "欣赏/感激"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "parents",
+        "role": "O",
+        "phonetic": "/ˈperənts/",
+        "chinese": "父母"
+      },
+      {
+        "text": "more",
+        "role": "A",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "young",
+        "role": "C",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      }
+    ]
+  },
+  {
+    "chinese": "要是有人事先警告我这个风险就好了",
+    "english": "If only someone had warned me about the risks",
+    "soundmark": "/ɪf ˈoʊnli ˈsʌmwʌn hæd wɔːrnd miː əˈbaʊt ðə rɪsks/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "someone",
+        "role": "S",
+        "phonetic": "/ˈsʌmwʌn/",
+        "chinese": "某人"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "warned",
+        "role": "V",
+        "phonetic": "/wɔːrnd/",
+        "chinese": "警告"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "risks",
+        "role": "A",
+        "phonetic": "/rɪsks/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我宁愿你把这个消息保密",
+    "english": "I would rather you kept this news to yourself",
+    "soundmark": "/aɪ wʊd ˈræðər juː kept ðɪs nuːz tuː jɔːrˈself/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "rather",
+        "role": "A",
+        "phonetic": "/ˈræðər/",
+        "chinese": "相当/宁愿"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "kept",
+        "role": "V",
+        "phonetic": "/kept/",
+        "chinese": "保持/保留（过去式）"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "news",
+        "role": "O",
+        "phonetic": "/nuːz/",
+        "chinese": "新闻"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "yourself",
+        "role": "O",
+        "phonetic": "/jɔːrˈself/",
+        "chinese": "你自己"
+      }
+    ]
+  },
+  {
+    "chinese": "他说话的口气好像这家公司是他的一样",
+    "english": "He talks as though he owns this entire company",
+    "soundmark": "/hiː tɔːks æz ðoʊ hiː oʊnz ðɪs ɪnˈtaɪər ˈkʌmpəni/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "talks",
+        "role": "V",
+        "phonetic": "/tɔːks/",
+        "chinese": "谈话"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "though",
+        "role": "P",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "owns",
+        "role": "V",
+        "phonetic": "/oʊnz/",
+        "chinese": "自己的"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "entire",
+        "role": "Det",
+        "phonetic": "/ɪnˈtaɪər/",
+        "chinese": ""
+      },
+      {
+        "text": "company",
+        "role": "O",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      }
+    ]
+  },
+  {
+    "chinese": "我建议这个项目尽快启动",
+    "english": "I recommend that the project be started as soon as possible",
+    "soundmark": "/aɪ ˌrekəˈmend ðæt ðə ˈprɒdʒekt biː ˈstɑːrtɪd æz suːn æz ˈpɒsəbəl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "recommend",
+        "role": "V",
+        "phonetic": "/ˌrekəˈmend/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "project",
+        "role": "S",
+        "phonetic": "/ˈprɒdʒekt/",
+        "chinese": "项目"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "soon",
+        "role": "A",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "possible",
+        "role": "A",
+        "phonetic": "/ˈpɒsəbəl/",
+        "chinese": "可能的"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望我能像他一样永远那么自信",
+    "english": "I wish I were as confident as he always seems to be",
+    "soundmark": "/aɪ wɪʃ aɪ wɜːr æz ˈkɒnfɪdənt æz hiː ˈɔːlweɪz siːmz tuː biː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "as",
+        "role": "A",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "confident",
+        "role": "C",
+        "phonetic": "/ˈkɒnfɪdənt/",
+        "chinese": "自信的"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "always",
+        "role": "A",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "seems",
+        "role": "V",
+        "phonetic": "/siːmz/",
+        "chinese": "似乎"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      }
+    ]
+  },
+  {
+    "chinese": "必须在中午之前让所有人都收到这个消息",
+    "english": "It is crucial that the message reach everyone before noon",
+    "soundmark": "/ɪt ɪz ˈkruːʃəl ðæt ðə ˈmesɪdʒ riːtʃ ˈevriwʌn bɪˈfɔːr nuːn/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "crucial",
+        "role": "C",
+        "phonetic": "/ˈkruːʃəl/",
+        "chinese": "关键的"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "message",
+        "role": "S",
+        "phonetic": "/ˈmesɪdʒ/",
+        "chinese": "消息"
+      },
+      {
+        "text": "reach",
+        "role": "V",
+        "phonetic": "/riːtʃ/",
+        "chinese": "到达"
+      },
+      {
+        "text": "everyone",
+        "role": "O",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "noon",
+        "role": "A",
+        "phonetic": "/nuːn/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "希望(wish)",
+    "english": "wish",
+    "soundmark": "/wɪʃ/"
+  },
+  {
+    "chinese": "要是……就好了(if only)",
+    "english": "if only",
+    "soundmark": "/ɪf ˈoʊnli/"
+  },
+  {
+    "chinese": "宁愿(would rather)",
+    "english": "would rather",
+    "soundmark": "/wʊd ˈræðər/"
+  },
+  {
+    "chinese": "是时候了(it's time)",
+    "english": "it's time",
+    "soundmark": "/ɪts taɪm/"
+  },
+  {
+    "chinese": "好像(as if)",
+    "english": "as if",
+    "soundmark": "/æz ɪf/"
+  },
+  {
+    "chinese": "建议(suggest)",
+    "english": "suggest",
+    "soundmark": "/səˈdʒest/"
+  },
+  {
+    "chinese": "坚持(insist)",
+    "english": "insist",
+    "soundmark": "/ɪnˈsɪst/"
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "english": "Olympic",
+    "chinese": "奥林匹克的",
+    "soundmark": "/oʊˈlɪmpɪk/"
+  },
+  {
+    "english": "Games",
+    "chinese": "运动会",
+    "soundmark": "/ɡeɪmz/"
+  },
+  {
+    "english": "athlete",
+    "chinese": "运动员",
+    "soundmark": "/ˈæθliːt/"
+  },
+  {
+    "english": "medal",
+    "chinese": "奖牌",
+    "soundmark": "/ˈmedəl/"
+  },
+  {
+    "english": "competition",
+    "chinese": "比赛",
+    "soundmark": "/ˌkɑːmpəˈtɪʃən/"
+  },
+  {
+    "english": "champion",
+    "chinese": "冠军",
+    "soundmark": "/ˈtʃæmpiən/"
+  },
+  {
+    "chinese": "奥运会每四年举办一次",
+    "english": "The Olympic Games are held every four years",
+    "soundmark": "/ði oʊˈlɪmpɪk ɡeɪmz ɑːr held ˈevri fɔːr jɪrz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Olympic",
+        "role": "Det",
+        "phonetic": "/oʊˈlɪmpɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "Games",
+        "role": "S",
+        "phonetic": "/ɡeɪmz/",
+        "chinese": "游戏/比赛"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "held",
+        "role": "V",
+        "phonetic": "/held/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "four",
+        "role": "Det",
+        "phonetic": "/fɔːr/",
+        "chinese": "四"
+      },
+      {
+        "text": "years",
+        "role": "T",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "他梦想获得奥运金牌",
+    "english": "He dreams of winning an Olympic gold medal",
+    "soundmark": "/hiː driːmz əv ˈwɪnɪŋ ən oʊˈlɪmpɪk ɡoʊld ˈmedəl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "dreams",
+        "role": "V",
+        "phonetic": "/driːmz/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "winning",
+        "role": "V",
+        "phonetic": "/ˈwɪnɪŋ/",
+        "chinese": "赢"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "Olympic",
+        "role": "Det",
+        "phonetic": "/oʊˈlɪmpɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "gold",
+        "role": "Det",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "medal",
+        "role": "O",
+        "phonetic": "/ˈmedəl/",
+        "chinese": "奖牌"
+      }
+    ]
+  },
+  {
+    "chinese": "运动员们为比赛刻苦训练",
+    "english": "The athletes train hard for the competition",
+    "soundmark": "/ði ˈæθliːts treɪn hɑːrd fɔːr ðə ˌkɑːmpəˈtɪʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "athletes",
+        "role": "S",
+        "phonetic": "/ˈæθliːts/",
+        "chinese": ""
+      },
+      {
+        "text": "train",
+        "role": "V",
+        "phonetic": "/treɪn/",
+        "chinese": "训练/火车"
+      },
+      {
+        "text": "hard",
+        "role": "Adv",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "competition",
+        "role": "O",
+        "phonetic": "/ˌkɑːmpəˈtɪʃən/",
+        "chinese": "比赛"
+      }
+    ]
+  },
+  {
+    "chinese": "她为祖国赢得了一枚银牌",
+    "english": "She won a silver medal for her country",
+    "soundmark": "/ʃiː wʌn ə ˈsɪlvər ˈmedəl fɔːr hɜːr ˈkʌntri/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "won",
+        "role": "V",
+        "phonetic": "/wʌn/",
+        "chinese": "赢（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "silver",
+        "role": "Det",
+        "phonetic": "/ˈsɪlvər/",
+        "chinese": "银/银色的"
+      },
+      {
+        "text": "medal",
+        "role": "O",
+        "phonetic": "/ˈmedəl/",
+        "chinese": "奖牌"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "country",
+        "role": "O",
+        "phonetic": "/ˈkʌntri/",
+        "chinese": "国家"
+      }
+    ]
+  },
+  {
+    "chinese": "奥运会是世界上最大的体育盛事",
+    "english": "The Olympic Games are the greatest sporting event in the world",
+    "soundmark": "/ði oʊˈlɪmpɪk ɡeɪmz ɑːr ðə ˈɡreɪtɪst ˈspɔːrtɪŋ ɪˈvent ɪn ðə wɜːrld/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Olympic",
+        "role": "Det",
+        "phonetic": "/oʊˈlɪmpɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "Games",
+        "role": "S",
+        "phonetic": "/ɡeɪmz/",
+        "chinese": "游戏/比赛"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "greatest",
+        "role": "Det",
+        "phonetic": "/ˈɡreɪtɪst/",
+        "chinese": "最…的(伟大的/很棒的)"
+      },
+      {
+        "text": "sporting",
+        "role": "Det",
+        "phonetic": "/ˈspɔːrtɪŋ/",
+        "chinese": "运动"
+      },
+      {
+        "text": "event",
+        "role": "C",
+        "phonetic": "/ɪˈvent/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "O",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      }
+    ]
+  },
+  {
+    "english": "stadium",
+    "chinese": "体育场",
+    "soundmark": "/ˈsteɪdiəm/"
+  },
+  {
+    "english": "opening ceremony",
+    "chinese": "开幕式",
+    "soundmark": "/ˈoʊpənɪŋ ˈserəmoʊni/"
+  },
+  {
+    "english": "record",
+    "chinese": "记录",
+    "soundmark": "/ˈrekɔːrd/"
+  }
+]

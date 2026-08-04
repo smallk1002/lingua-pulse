@@ -1,0 +1,238 @@
+[
+  {
+    "english": "goodbye",
+    "chinese": "再见",
+    "soundmark": "/ˌɡʊdˈbaɪ/"
+  },
+  {
+    "english": "farewell",
+    "chinese": "告别",
+    "soundmark": "/ˌferˈwel/"
+  },
+  {
+    "english": "miss",
+    "chinese": "想念",
+    "soundmark": "/mɪs/"
+  },
+  {
+    "english": "keep in touch",
+    "chinese": "保持联系",
+    "soundmark": "/kiːp ɪn tʌtʃ/"
+  },
+  {
+    "english": "soon",
+    "chinese": "很快",
+    "soundmark": "/suːn/"
+  },
+  {
+    "english": "visit",
+    "chinese": "拜访",
+    "soundmark": "/ˈvɪzɪt/"
+  },
+  {
+    "chinese": "再见，祝你一路平安！",
+    "english": "Goodbye, have a safe journey!",
+    "soundmark": "/ˌɡʊdˈbaɪ, həv ə seɪf ˈdʒɜːrni/",
+    "grammar": [
+      {
+        "text": "Goodbye",
+        "role": "Int",
+        "phonetic": "/ˌɡʊdˈbaɪ/",
+        "chinese": "再见"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/həv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "safe",
+        "role": "Det",
+        "phonetic": "/seɪf/",
+        "chinese": "安全的"
+      },
+      {
+        "text": "journey",
+        "role": "O",
+        "phonetic": "/ˈdʒɜːrni/",
+        "chinese": "旅程"
+      }
+    ]
+  },
+  {
+    "chinese": "我们会想念你的",
+    "english": "We will miss you",
+    "soundmark": "/wiː wɪl mɪs juː/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "will",
+        "role": "V",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "miss",
+        "role": "V",
+        "phonetic": "/mɪs/",
+        "chinese": "错过/想念"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "请保持联系",
+    "english": "Please keep in touch",
+    "soundmark": "/pliːz kiːp ɪn tʌtʃ/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "keep",
+        "role": "V",
+        "phonetic": "/kiːp/",
+        "chinese": "保持/保留"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "touch",
+        "role": "O",
+        "phonetic": "/tʌtʃ/",
+        "chinese": "触摸"
+      }
+    ]
+  },
+  {
+    "chinese": "希望很快能再见到你",
+    "english": "Hope to see you again soon",
+    "soundmark": "/hoʊp tə siː juː əˈɡen suːn/",
+    "grammar": [
+      {
+        "text": "Hope",
+        "role": "V",
+        "phonetic": "/hoʊp/",
+        "chinese": "希望"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "again",
+        "role": "Adv",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      },
+      {
+        "text": "soon",
+        "role": "A",
+        "phonetic": "/suːn/",
+        "chinese": "不久"
+      }
+    ]
+  },
+  {
+    "chinese": "欢迎随时来拜访我们",
+    "english": "You are welcome to visit us anytime",
+    "soundmark": "/juː ɑːr ˈwelkəm tə ˈvɪzɪt ʌs ˈenɪtaɪm/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "welcome",
+        "role": "C",
+        "phonetic": "/ˈwelkəm/",
+        "chinese": "欢迎"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "visit",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪt/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "anytime",
+        "role": "A",
+        "phonetic": "/ˈenɪtaɪm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "english": "memorable",
+    "chinese": "难忘的",
+    "soundmark": "/ˈmemərəbəl/"
+  },
+  {
+    "english": "warm",
+    "chinese": "温暖的",
+    "soundmark": "/wɔːrm/"
+  },
+  {
+    "english": "friendship",
+    "chinese": "友谊",
+    "soundmark": "/ˈfrendʃɪp/"
+  }
+]

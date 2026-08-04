@@ -1,0 +1,943 @@
+[
+  {
+    "chinese": "打劫",
+    "english": "smash-and-grab",
+    "soundmark": "/smæʃ/ /ænd/ /ɡræb/"
+  },
+  {
+    "chinese": "珠宝店",
+    "english": "jeweller",
+    "soundmark": "/ˈdʒuːələr/"
+  },
+  {
+    "chinese": "橱窗",
+    "english": "window",
+    "soundmark": "/ˈwɪndoʊ/"
+  },
+  {
+    "chinese": "铁棍",
+    "english": "iron bar",
+    "soundmark": "/ˈaɪərn/ /bɑːr/"
+  },
+  {
+    "chinese": "劫匪",
+    "english": "raider",
+    "soundmark": "/ˈreɪdər/"
+  },
+  {
+    "chinese": "项链",
+    "english": "necklace",
+    "soundmark": "/ˈnekləs/"
+  },
+  {
+    "chinese": "价值",
+    "english": "worth",
+    "soundmark": "/wɜːrθ/"
+  },
+  {
+    "chinese": "警报",
+    "english": "alarm",
+    "soundmark": "/əˈlɑːrm/"
+  },
+  {
+    "chinese": "钻石",
+    "english": "diamond",
+    "soundmark": "/ˈdaɪmənd/"
+  },
+  {
+    "chinese": "砸碎橱窗",
+    "english": "smash the window",
+    "soundmark": "/smæʃ/ /ðə/ /ˈwɪndoʊ/"
+  },
+  {
+    "chinese": "贵重的项链",
+    "english": "valuable necklace",
+    "soundmark": "/ˈvæljuəbəl/ /ˈnekləs/"
+  },
+  {
+    "chinese": "珠宝店",
+    "english": "jeweller's shop",
+    "soundmark": "/ˈdʒuːələrz/ /ʃɑːp/"
+  },
+  {
+    "chinese": "触发警报",
+    "english": "set off the alarm",
+    "soundmark": "/set/ /ɔːf/ /ði/ /əˈlɑːrm/"
+  },
+  {
+    "chinese": "抢走珠宝",
+    "english": "grab the jewellery",
+    "soundmark": "/ɡræb/ /ðə/ /ˈdʒuːəlri/"
+  },
+  {
+    "chinese": "劫匪正在砸橱窗",
+    "english": "The raiders were smashing the window",
+    "soundmark": "/ðə/ /ˈreɪdərz/ /wɜːr/ /ˈsmæʃɪŋ/ /ðə/ /ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "raiders",
+        "role": "S",
+        "phonetic": "/ˈreɪdərz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "smashing",
+        "role": "V",
+        "phonetic": "/ˈsmæʃɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "O",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "当警报响起时他们正在抢项链",
+    "english": "When the alarm went off they were grabbing the necklaces",
+    "soundmark": "/wen/ /ði/ /əˈlɑːrm/ /went/ /ɔːf/ /ðeɪ/ /wɜːr/ /ˈɡræbɪŋ/ /ðə/ /ˈnekləsɪz/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "alarm",
+        "role": "S",
+        "phonetic": "/əˈlɑːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "off",
+        "role": "Adv",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "grabbing",
+        "role": "V",
+        "phonetic": "/ˈɡræbɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "necklaces",
+        "role": "O",
+        "phonetic": "/ˈnekləsɪz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "店主听到了玻璃破碎的声音",
+    "english": "The owner heard the glass breaking",
+    "soundmark": "/ði/ /ˈoʊnər/ /hɜːrd/ /ðə/ /ɡlæs/ /ˈbreɪkɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "owner",
+        "role": "S",
+        "phonetic": "/ˈoʊnər/",
+        "chinese": "更…的/…者(自己的)"
+      },
+      {
+        "text": "heard",
+        "role": "V",
+        "phonetic": "/hɜːrd/",
+        "chinese": "听到（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "glass",
+        "role": "O",
+        "phonetic": "/ɡlæs/",
+        "chinese": "玻璃/玻璃杯"
+      },
+      {
+        "text": "breaking",
+        "role": "V",
+        "phonetic": "/ˈbreɪkɪŋ/",
+        "chinese": "打破"
+      }
+    ]
+  },
+  {
+    "chinese": "劫匪没有拿走所有的珠宝",
+    "english": "The raiders did not take all the jewellery",
+    "soundmark": "/ðə/ /ˈreɪdərz/ /dɪd/ /nɑːt/ /teɪk/ /ɔːl/ /ðə/ /ˈdʒuːəlri/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "raiders",
+        "role": "S",
+        "phonetic": "/ˈreɪdərz/",
+        "chinese": ""
+      },
+      {
+        "text": "did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "jewellery",
+        "role": "O",
+        "phonetic": "/ˈdʒuːəlri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "警察来的时候他们在干什么",
+    "english": "What were they doing when the police arrived",
+    "soundmark": "/wʌt/ /wɜːr/ /ðeɪ/ /ˈduːɪŋ/ /wen/ /ðə/ /pəˈliːs/ /əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "S",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "他一边跑一边抱着首饰",
+    "english": "He was running while carrying the jewellery",
+    "soundmark": "/hiː/ /wʌz/ /ˈrʌnɪŋ/ /waɪl/ /ˈkæriɪŋ/ /ðə/ /ˈdʒuːəlri/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "running",
+        "role": "V",
+        "phonetic": "/ˈrʌnɪŋ/",
+        "chinese": "跑步的/流动的"
+      },
+      {
+        "text": "while",
+        "role": "P",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "carrying",
+        "role": "V",
+        "phonetic": "/ˈkæriɪŋ/",
+        "chinese": "携带的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "jewellery",
+        "role": "O",
+        "phonetic": "/ˈdʒuːəlri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "价值数千英镑的珠宝被抢走了",
+    "english": "Jewellery worth thousands of pounds was stolen",
+    "soundmark": "/ˈdʒuːəlri/ /wɜːrθ/ /ˈθaʊzəndz/ /ʌv/ /paʊndz/ /wʌz/ /ˈstoʊlən/",
+    "grammar": [
+      {
+        "text": "Jewellery",
+        "role": "S",
+        "phonetic": "/ˈdʒuːəlri/",
+        "chinese": ""
+      },
+      {
+        "text": "worth",
+        "role": "P",
+        "phonetic": "/wɜːrθ/",
+        "chinese": ""
+      },
+      {
+        "text": "thousands",
+        "role": "A",
+        "phonetic": "/ˈθaʊzəndz/",
+        "chinese": "千"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "pounds",
+        "role": "O",
+        "phonetic": "/paʊndz/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "stolen",
+        "role": "V",
+        "phonetic": "/ˈstoʊlən/",
+        "chinese": "偷（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "警报被劫匪的铁棍触发了",
+    "english": "The alarm was set off by the raiders' iron bar",
+    "soundmark": "/ði/ /əˈlɑːrm/ /wʌz/ /set/ /ɔːf/ /baɪ/ /ðə/ /ˈreɪdərz/ /ˈaɪərn/ /bɑːr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "alarm",
+        "role": "S",
+        "phonetic": "/əˈlɑːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "set",
+        "role": "V",
+        "phonetic": "/set/",
+        "chinese": "设置/安置"
+      },
+      {
+        "text": "off",
+        "role": "Adv",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "raiders'",
+        "role": "Det",
+        "phonetic": "/ˈreɪdərz/",
+        "chinese": ""
+      },
+      {
+        "text": "iron",
+        "role": "A",
+        "phonetic": "/ˈaɪərn/",
+        "chinese": "铁"
+      },
+      {
+        "text": "bar",
+        "role": "O",
+        "phonetic": "/bɑːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "就在劫匪逃跑时警察赶到了",
+    "english": "Just as the raiders were escaping the police arrived",
+    "soundmark": "/dʒʌst/ /æz/ /ðə/ /ˈreɪdərz/ /wɜːr/ /ɪˈskeɪpɪŋ/ /ðə/ /pəˈliːs/ /əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "Just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "raiders",
+        "role": "S",
+        "phonetic": "/ˈreɪdərz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "escaping",
+        "role": "V",
+        "phonetic": "/ɪˈskeɪpɪŋ/",
+        "chinese": "逃离"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "S",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "大部分赃物后来被追回了",
+    "english": "Most of the stolen goods were later recovered",
+    "soundmark": "/moʊst/ /ʌv/ /ðə/ /ˈstoʊlən/ /ɡʊdz/ /wɜːr/ /ˈleɪtər/ /rɪˈkʌvərd/",
+    "grammar": [
+      {
+        "text": "Most",
+        "role": "Det",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "stolen",
+        "role": "A",
+        "phonetic": "/ˈstoʊlən/",
+        "chinese": "偷（过去分词）"
+      },
+      {
+        "text": "goods",
+        "role": "S",
+        "phonetic": "/ɡʊdz/",
+        "chinese": "好的"
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "later",
+        "role": "Adv",
+        "phonetic": "/ˈleɪtər/",
+        "chinese": "后来"
+      },
+      {
+        "text": "recovered",
+        "role": "V",
+        "phonetic": "/rɪˈkʌvərd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他们用一个铁棍砸开了展示柜",
+    "english": "They smashed the display case with an iron bar",
+    "soundmark": "/ðeɪ/ /smæʃt/ /ðə/ /dɪˈspleɪ/ /keɪs/ /wɪð/ /ən/ /ˈaɪərn/ /bɑːr/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "smashed",
+        "role": "V",
+        "phonetic": "/smæʃt/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "display",
+        "role": "A",
+        "phonetic": "/dɪˈspleɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "case",
+        "role": "O",
+        "phonetic": "/keɪs/",
+        "chinese": "情况/案例"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "iron",
+        "role": "A",
+        "phonetic": "/ˈaɪərn/",
+        "chinese": "铁"
+      },
+      {
+        "text": "bar",
+        "role": "O",
+        "phonetic": "/bɑːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "警方坚信劫匪们仍在伦敦活动",
+    "english": "Police believe the raiders are still in London",
+    "soundmark": "/pəˈliːs/ /bɪˈliːv/ /ðə/ /ˈreɪdərz/ /ɑːr/ /stɪl/ /ɪn/ /ˈlʌndən/",
+    "grammar": [
+      {
+        "text": "Police",
+        "role": "S",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "believe",
+        "role": "V",
+        "phonetic": "/bɪˈliːv/",
+        "chinese": "相信"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "raiders",
+        "role": "S",
+        "phonetic": "/ˈreɪdərz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "London",
+        "role": "A",
+        "phonetic": "/ˈlʌndən/",
+        "chinese": "伦敦"
+      }
+    ]
+  },
+  {
+    "chinese": "钻石项链是最值钱的被抢物品",
+    "english": "The diamond necklace was the most valuable item stolen",
+    "soundmark": "/ðə/ /ˈdaɪmənd/ /ˈnekləs/ /wʌz/ /ðə/ /moʊst/ /ˈvæljuəbəl/ /ˈaɪtəm/ /ˈstoʊlən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "diamond",
+        "role": "A",
+        "phonetic": "/ˈdaɪmənd/",
+        "chinese": ""
+      },
+      {
+        "text": "necklace",
+        "role": "S",
+        "phonetic": "/ˈnekləs/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "valuable",
+        "role": "A",
+        "phonetic": "/ˈvæljuəbəl/",
+        "chinese": "有价值的"
+      },
+      {
+        "text": "item",
+        "role": "C",
+        "phonetic": "/ˈaɪtəm/",
+        "chinese": "物品/项目"
+      },
+      {
+        "text": "stolen",
+        "role": "A",
+        "phonetic": "/ˈstoʊlən/",
+        "chinese": "偷（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "抢劫",
+    "english": "raid",
+    "soundmark": "/reɪd/"
+  },
+  {
+    "chinese": "展示柜",
+    "english": "display case",
+    "soundmark": "/dɪˈspleɪ/ /keɪs/"
+  },
+  {
+    "chinese": "被盗的",
+    "english": "stolen",
+    "soundmark": "/ˈstoʊlən/"
+  },
+  {
+    "chinese": "追回",
+    "english": "recover",
+    "soundmark": "/rɪˈkʌvər/"
+  },
+  {
+    "chinese": "物品",
+    "english": "item",
+    "soundmark": "/ˈaɪtəm/"
+  },
+  {
+    "chinese": "贵重的",
+    "english": "valuable",
+    "soundmark": "/ˈvæljuəbəl/"
+  },
+  {
+    "chinese": "店主",
+    "english": "owner",
+    "soundmark": "/ˈoʊnər/"
+  },
+  {
+    "chinese": "玻璃",
+    "english": "glass",
+    "soundmark": "/ɡlæs/"
+  },
+  {
+    "chinese": "这群劫匪用摩托车逃离了现场",
+    "english": "The raiders escaped from the scene on a motorbike",
+    "soundmark": "/ðə/ /ˈreɪdərz/ /ɪˈskeɪpt/ /frʌm/ /ðə/ /siːn/ /ɑːn/ /ə/ /ˈmoʊtərbaɪk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "raiders",
+        "role": "S",
+        "phonetic": "/ˈreɪdərz/",
+        "chinese": ""
+      },
+      {
+        "text": "escaped",
+        "role": "V",
+        "phonetic": "/ɪˈskeɪpt/",
+        "chinese": "逃离"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "scene",
+        "role": "A",
+        "phonetic": "/siːn/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "motorbike",
+        "role": "O",
+        "phonetic": "/ˈmoʊtərbaɪk/",
+        "chinese": "摩托车"
+      }
+    ]
+  },
+  {
+    "chinese": "整个抢劫过程只持续了三分钟",
+    "english": "The whole raid lasted only three minutes",
+    "soundmark": "/ðə/ /hoʊl/ /reɪd/ /ˈlæstɪd/ /ˈoʊnli/ /θriː/ /ˈmɪnɪts/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "A",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "raid",
+        "role": "S",
+        "phonetic": "/reɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "lasted",
+        "role": "V",
+        "phonetic": "/ˈlæstɪd/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "three",
+        "role": "A",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "minutes",
+        "role": "A",
+        "phonetic": "/ˈmɪnɪts/",
+        "chinese": "分钟"
+      }
+    ]
+  }
+]

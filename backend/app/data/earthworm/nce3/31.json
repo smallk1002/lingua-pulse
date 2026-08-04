@@ -1,0 +1,1323 @@
+[
+  {
+    "chinese": "怪人",
+    "english": "eccentric",
+    "soundmark": "/ɪkˈsentrɪk/"
+  },
+  {
+    "chinese": "可爱的",
+    "english": "lovable",
+    "soundmark": "/ˈlʌvəbəl/"
+  },
+  {
+    "chinese": "不顾",
+    "english": "disregard",
+    "soundmark": "/ˌdɪsrɪˈɡɑːrd/"
+  },
+  {
+    "chinese": "习俗",
+    "english": "convention",
+    "soundmark": "/kənˈvenʃən/"
+  },
+  {
+    "chinese": "有意识的",
+    "english": "conscious",
+    "soundmark": "/ˈkɒnʃəs/"
+  },
+  {
+    "chinese": "总是",
+    "english": "invariably",
+    "soundmark": "/ɪnˈveriəbli/"
+  },
+  {
+    "chinese": "日常工作",
+    "english": "routine",
+    "soundmark": "/ruːˈtiːn/"
+  },
+  {
+    "chinese": "精明的",
+    "english": "shrewd",
+    "soundmark": "/ʃruːd/"
+  },
+  {
+    "chinese": "过去常常",
+    "english": "used to",
+    "soundmark": "/juːst tuː/"
+  },
+  {
+    "chinese": "过去常常做",
+    "english": "used to do",
+    "soundmark": "/juːst tuː duː/"
+  },
+  {
+    "chinese": "过去常常去",
+    "english": "used to go",
+    "soundmark": "/juːst tuː ɡoʊ/"
+  },
+  {
+    "chinese": "不顾社会习俗",
+    "english": "disregard social conventions",
+    "soundmark": "/ˌdɪsrɪˈɡɑːrd ˈsoʊʃəl kənˈvenʃənz/"
+  },
+  {
+    "chinese": "一个可爱的怪人",
+    "english": "a lovable eccentric",
+    "soundmark": "/ə ˈlʌvəbəl ɪkˈsentrɪk/"
+  },
+  {
+    "chinese": "引起注意",
+    "english": "draw attention",
+    "soundmark": "/drɔː əˈtenʃən/"
+  },
+  {
+    "chinese": "他过去常常穿奇怪的帽子。",
+    "english": "He used to wear strange hats",
+    "soundmark": "/hiː juːst tuː wer streɪndʒ hæts/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "wear",
+        "role": "V",
+        "phonetic": "/wer/",
+        "chinese": "穿/戴"
+      },
+      {
+        "text": "strange",
+        "role": "C",
+        "phonetic": "/streɪndʒ/",
+        "chinese": "奇怪的"
+      },
+      {
+        "text": "hats",
+        "role": "O",
+        "phonetic": "/hæts/",
+        "chinese": "帽子"
+      }
+    ]
+  },
+  {
+    "chinese": "她过去常常在公园散步。",
+    "english": "She used to walk in the park",
+    "soundmark": "/ʃiː juːst tuː wɔːk ɪn ðə pɑːrk/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "park",
+        "role": "A",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      }
+    ]
+  },
+  {
+    "chinese": "我们过去常常住在一个小镇上。",
+    "english": "We used to live in a small town",
+    "soundmark": "/wiː juːst tuː lɪv ɪn ə smɔːl taʊn/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "small",
+        "role": "C",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "town",
+        "role": "A",
+        "phonetic": "/taʊn/",
+        "chinese": "城镇"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去不喝咖啡。",
+    "english": "He didn't use to drink coffee",
+    "soundmark": "/hiː ˈdɪdnt juːs tuː drɪŋk ˈkɒfi/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "didn't",
+        "role": "V",
+        "phonetic": "/ˈdɪdnt/",
+        "chinese": "不（过去）"
+      },
+      {
+        "text": "use",
+        "role": "V",
+        "phonetic": "/juːs/",
+        "chinese": "使用"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "drink",
+        "role": "V",
+        "phonetic": "/drɪŋk/",
+        "chinese": "喝/饮料"
+      },
+      {
+        "text": "coffee",
+        "role": "O",
+        "phonetic": "/ˈkɒfi/",
+        "chinese": "咖啡"
+      }
+    ]
+  },
+  {
+    "chinese": "你过去常常去那里吗？",
+    "english": "Did you use to go there",
+    "soundmark": "/dɪd juː juːs tuː ɡoʊ ðer/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "use",
+        "role": "V",
+        "phonetic": "/juːs/",
+        "chinese": "使用"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      }
+    ]
+  },
+  {
+    "chinese": "他每天下午都会来拜访。",
+    "english": "He would come to visit every afternoon",
+    "soundmark": "/hiː wʊd kʌm tuː ˈvɪzɪt ˈevri ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "visit",
+        "role": "V",
+        "phonetic": "/ˈvɪzɪt/",
+        "chinese": "访问/参观"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "afternoon",
+        "role": "A",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      }
+    ]
+  },
+  {
+    "chinese": "她小时候会坐在窗边看书。",
+    "english": "She would sit by the window and read as a child",
+    "soundmark": "/ʃiː wʊd sɪt baɪ ðə ˈwɪndoʊ ænd riːd æz ə tʃaɪld/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "sit",
+        "role": "V",
+        "phonetic": "/sɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "A",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "read",
+        "role": "V",
+        "phonetic": "/riːd/",
+        "chinese": "读"
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "child",
+        "role": "A",
+        "phonetic": "/tʃaɪld/",
+        "chinese": "孩子"
+      }
+    ]
+  },
+  {
+    "chinese": "我爷爷过去常常给我们讲故事。",
+    "english": "My grandfather used to tell us stories",
+    "soundmark": "/maɪ ˈɡrænˌfɑːðər juːst tuː tel ʌs ˈstɔːriz/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "grandfather",
+        "role": "S",
+        "phonetic": "/ˈɡrænˌfɑːðər/",
+        "chinese": ""
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "tell",
+        "role": "V",
+        "phonetic": "/tel/",
+        "chinese": "告诉"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "stories",
+        "role": "O",
+        "phonetic": "/ˈstɔːriz/",
+        "chinese": "故事"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去是个非常害羞的男孩。",
+    "english": "He used to be a very shy boy",
+    "soundmark": "/hiː juːst tuː biː ə ˈveri ʃaɪ bɔɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "shy",
+        "role": "C",
+        "phonetic": "/ʃaɪ/",
+        "chinese": "害羞的"
+      },
+      {
+        "text": "boy",
+        "role": "C",
+        "phonetic": "/bɔɪ/",
+        "chinese": "男孩"
+      }
+    ]
+  },
+  {
+    "chinese": "我过去常常早起但现在不了。",
+    "english": "I used to get up early but not anymore",
+    "soundmark": "/aɪ juːst tuː ɡet ʌp ˈɜːrli bʌt nɑːt ˌenɪˈmɔːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "early",
+        "role": "A",
+        "phonetic": "/ˈɜːrli/",
+        "chinese": "早"
+      },
+      {
+        "text": "but",
+        "role": "A",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "anymore",
+        "role": "A",
+        "phonetic": "/ˌenɪˈmɔːr/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她过去常常弹钢琴弹好几个小时。",
+    "english": "She used to play the piano for hours",
+    "soundmark": "/ʃiː juːst tuː pleɪ ðə piˈænoʊ fɔːr ˈaʊərz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "play",
+        "role": "V",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "piano",
+        "role": "O",
+        "phonetic": "/piˈænoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/ˈaʊərz/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "他以前从来不在意别人怎么想。",
+    "english": "He never used to care what others thought",
+    "soundmark": "/hiː ˈnevər juːst tuː ker wʌt ˈʌðərz θɔːt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "care",
+        "role": "V",
+        "phonetic": "/ker/",
+        "chinese": "关心"
+      },
+      {
+        "text": "what",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "others",
+        "role": "S",
+        "phonetic": "/ˈʌðərz/",
+        "chinese": "其他"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɔːt/",
+        "chinese": "想/认为（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "迪基是个可爱的怪人。",
+    "english": "Dickie was a lovable eccentric",
+    "soundmark": "/ˈdɪki wʌz ə ˈlʌvəbəl ɪkˈsentrɪk/",
+    "grammar": [
+      {
+        "text": "Dickie",
+        "role": "S",
+        "phonetic": "/ˈdɪki/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lovable",
+        "role": "C",
+        "phonetic": "/ˈlʌvəbəl/",
+        "chinese": ""
+      },
+      {
+        "text": "eccentric",
+        "role": "C",
+        "phonetic": "/ɪkˈsentrɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他总是不顾社会习俗。",
+    "english": "He invariably disregarded social conventions",
+    "soundmark": "/hiː ɪnˈveriəbli ˌdɪsrɪˈɡɑːrdɪd ˈsoʊʃəl kənˈvenʃənz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "invariably",
+        "role": "Adv",
+        "phonetic": "/ɪnˈveriəbli/",
+        "chinese": ""
+      },
+      {
+        "text": "disregarded",
+        "role": "V",
+        "phonetic": "/ˌdɪsrɪˈɡɑːrdɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "social",
+        "role": "C",
+        "phonetic": "/ˈsoʊʃəl/",
+        "chinese": "社会的"
+      },
+      {
+        "text": "conventions",
+        "role": "O",
+        "phonetic": "/kənˈvenʃənz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常做最奇怪的事。",
+    "english": "He used to do the strangest things",
+    "soundmark": "/hiː juːst tuː duː ðə ˈstreɪndʒɪst θɪŋz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "strangest",
+        "role": "C",
+        "phonetic": "/ˈstreɪndʒɪst/",
+        "chinese": "最…的(奇怪的)"
+      },
+      {
+        "text": "things",
+        "role": "O",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      }
+    ]
+  },
+  {
+    "chinese": "没有人真正了解他但每个人都喜欢他。",
+    "english": "Nobody really knew him but everyone liked him",
+    "soundmark": "/ˈnoʊbədi ˈriːəli nuː hɪm bʌt ˈevriwʌn laɪkt hɪm/",
+    "grammar": [
+      {
+        "text": "Nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "really",
+        "role": "Adv",
+        "phonetic": "/ˈriːəli/",
+        "chinese": "真正地"
+      },
+      {
+        "text": "knew",
+        "role": "V",
+        "phonetic": "/nuː/",
+        "chinese": "知道（过去式）"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      },
+      {
+        "text": "but",
+        "role": "A",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "liked",
+        "role": "V",
+        "phonetic": "/laɪkt/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常在镇上走来走去自言自语。",
+    "english": "He used to walk around the town talking to himself",
+    "soundmark": "/hiː juːst tuː wɔːk əˈraʊnd ðə taʊn ˈtɔːkɪŋ tuː hɪmˈself/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "around",
+        "role": "A",
+        "phonetic": "/əˈraʊnd/",
+        "chinese": "围绕/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "town",
+        "role": "A",
+        "phonetic": "/taʊn/",
+        "chinese": "城镇"
+      },
+      {
+        "text": "talking",
+        "role": "V",
+        "phonetic": "/ˈtɔːkɪŋ/",
+        "chinese": "说话的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "himself",
+        "role": "O",
+        "phonetic": "/hɪmˈself/",
+        "chinese": "他自己"
+      }
+    ]
+  },
+  {
+    "chinese": "他过去常常走进商店买一根烧过的火柴。",
+    "english": "He used to walk into shops and buy a burnt match",
+    "soundmark": "/hiː juːst tuː wɔːk ˈɪntuː ʃɒps ænd baɪ ə bɜːrnt mætʃ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "shops",
+        "role": "A",
+        "phonetic": "/ʃɒps/",
+        "chinese": "商店"
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "burnt",
+        "role": "C",
+        "phonetic": "/bɜːrnt/",
+        "chinese": "被烧的"
+      },
+      {
+        "text": "match",
+        "role": "O",
+        "phonetic": "/mætʃ/",
+        "chinese": "匹配"
+      }
+    ]
+  },
+  {
+    "chinese": "尽管他行为古怪他其实很精明。",
+    "english": "Although he behaved oddly he was actually very shrewd",
+    "soundmark": "/ɔːlˈðoʊ hiː bɪˈheɪvd ˈɒdli hiː wʌz ˈæktʃuəli ˈveri ʃruːd/",
+    "grammar": [
+      {
+        "text": "Although",
+        "role": "A",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "chinese": "虽然"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "behaved",
+        "role": "V",
+        "phonetic": "/bɪˈheɪvd/",
+        "chinese": ""
+      },
+      {
+        "text": "oddly",
+        "role": "A",
+        "phonetic": "/ˈɒdli/",
+        "chinese": ""
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "actually",
+        "role": "Adv",
+        "phonetic": "/ˈæktʃuəli/",
+        "chinese": "实际上"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "shrewd",
+        "role": "C",
+        "phonetic": "/ʃruːd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他曾经说过幽默是生活中最重要的东西。",
+    "english": "He once said that humour was the most important thing in life",
+    "soundmark": "/hiː wʌns sed ðæt ˈhjuːmər wʌz ðə moʊst ɪmˈpɔːrtənt θɪŋ ɪn laɪf/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "once",
+        "role": "A",
+        "phonetic": "/wʌns/",
+        "chinese": "一旦/一次"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "humour",
+        "role": "S",
+        "phonetic": "/ˈhjuːmər/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "important",
+        "role": "C",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "thing",
+        "role": "C",
+        "phonetic": "/θɪŋ/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "life",
+        "role": "A",
+        "phonetic": "/laɪf/",
+        "chinese": "生活/生命"
+      }
+    ]
+  },
+  {
+    "chinese": "他从来不在乎他给别人留下什么印象。",
+    "english": "He never cared what impression he made on others",
+    "soundmark": "/hiː ˈnevər kerd wʌt ɪmˈpreʃən hiː meɪd ɑːn ˈʌðərz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "cared",
+        "role": "V",
+        "phonetic": "/kerd/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "what",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "impression",
+        "role": "O",
+        "phonetic": "/ɪmˈpreʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "others",
+        "role": "O",
+        "phonetic": "/ˈʌðərz/",
+        "chinese": "其他"
+      }
+    ]
+  },
+  {
+    "chinese": "独特的个性比金钱和地位重要得多。",
+    "english": "A unique personality is far more important than money and status",
+    "soundmark": "/ə juːˈniːk ˌpɜːrsənˈæləti ɪz fɑːr mɔːr ɪmˈpɔːrtənt ðæn ˈmʌni ænd ˈsteɪtəs/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "unique",
+        "role": "C",
+        "phonetic": "/juːˈniːk/",
+        "chinese": "独特的"
+      },
+      {
+        "text": "personality",
+        "role": "S",
+        "phonetic": "/ˌpɜːrsənˈæləti/",
+        "chinese": "个性"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "far",
+        "role": "Adv",
+        "phonetic": "/fɑːr/",
+        "chinese": "远"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "important",
+        "role": "C",
+        "phonetic": "/ɪmˈpɔːrtənt/",
+        "chinese": "重要的"
+      },
+      {
+        "text": "than",
+        "role": "A",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "money",
+        "role": "A",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "status",
+        "role": "A",
+        "phonetic": "/ˈsteɪtəs/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我不记得他过去常常犯错。",
+    "english": "I cannot remember that he used to make mistakes",
+    "soundmark": "/aɪ ˈkænɒt rɪˈmembər ðæt hiː juːst tuː meɪk mɪˈsteɪks/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "cannot",
+        "role": "V",
+        "phonetic": "/ˈkænɒt/",
+        "chinese": "不能"
+      },
+      {
+        "text": "remember",
+        "role": "V",
+        "phonetic": "/rɪˈmembər/",
+        "chinese": "记住"
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "used to",
+        "role": "V",
+        "phonetic": "/juːst tuː/",
+        "chinese": "过去常常"
+      },
+      {
+        "text": "make",
+        "role": "V",
+        "phonetic": "/meɪk/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "mistakes",
+        "role": "O",
+        "phonetic": "/mɪˈsteɪks/",
+        "chinese": "错误"
+      }
+    ]
+  },
+  {
+    "chinese": "怪人",
+    "english": "eccentric",
+    "soundmark": "/ɪkˈsentrɪk/"
+  },
+  {
+    "chinese": "习俗",
+    "english": "convention",
+    "soundmark": "/kənˈvenʃən/"
+  },
+  {
+    "chinese": "精明的",
+    "english": "shrewd",
+    "soundmark": "/ʃruːd/"
+  },
+  {
+    "chinese": "不顾",
+    "english": "disregard",
+    "soundmark": "/ˌdɪsrɪˈɡɑːrd/"
+  },
+  {
+    "chinese": "印象",
+    "english": "impression",
+    "soundmark": "/ɪmˈpreʃən/"
+  },
+  {
+    "chinese": "个性",
+    "english": "personality",
+    "soundmark": "/ˌpɜːrsənˈæləti/"
+  },
+  {
+    "chinese": "怪异的",
+    "english": "oddly",
+    "soundmark": "/ˈɒdli/"
+  },
+  {
+    "chinese": "幽默",
+    "english": "humour",
+    "soundmark": "/ˈhjuːmər/"
+  }
+]

@@ -1,0 +1,912 @@
+[
+  {
+    "chinese": "假日",
+    "english": "holiday",
+    "soundmark": "/ˈhɑːlədeɪ/"
+  },
+  {
+    "chinese": "圣诞节",
+    "english": "Christmas",
+    "soundmark": "/ˈkrɪsməs/"
+  },
+  {
+    "chinese": "新年",
+    "english": "New Year",
+    "soundmark": "/nuː/ /jɪr/"
+  },
+  {
+    "chinese": "复活节",
+    "english": "Easter",
+    "soundmark": "/ˈiːstər/"
+  },
+  {
+    "chinese": "生日",
+    "english": "birthday",
+    "soundmark": "/ˈbɜːrθdeɪ/"
+  },
+  {
+    "chinese": "礼物",
+    "english": "present",
+    "soundmark": "/ˈprezənt/"
+  },
+  {
+    "chinese": "卡片",
+    "english": "card",
+    "soundmark": "/kɑːrd/"
+  },
+  {
+    "chinese": "聚会",
+    "english": "party",
+    "soundmark": "/ˈpɑːrti/"
+  },
+  {
+    "chinese": "蛋糕",
+    "english": "cake",
+    "soundmark": "/keɪk/"
+  },
+  {
+    "chinese": "蜡烛",
+    "english": "candle",
+    "soundmark": "/ˈkændəl/"
+  },
+  {
+    "chinese": "气球",
+    "english": "balloon",
+    "soundmark": "/bəˈluːn/"
+  },
+  {
+    "chinese": "装饰",
+    "english": "decoration",
+    "soundmark": "/ˌdekəˈreɪʃən/"
+  },
+  {
+    "chinese": "庆祝",
+    "english": "celebrate",
+    "soundmark": "/ˈseləbreɪt/"
+  },
+  {
+    "chinese": "旅行",
+    "english": "travel",
+    "soundmark": "/ˈtrævəl/"
+  },
+  {
+    "chinese": "明信片",
+    "english": "postcard",
+    "soundmark": "/ˈpoʊstkɑːrd/"
+  },
+  {
+    "chinese": "照片",
+    "english": "photograph",
+    "soundmark": "/ˈfoʊtəɡræf/"
+  },
+  {
+    "chinese": "圣诞树",
+    "english": "Christmas tree",
+    "soundmark": "/ˈkrɪsməs/ /triː/"
+  },
+  {
+    "chinese": "圣诞老人",
+    "english": "Father Christmas",
+    "soundmark": "/ˈfɑːðər/ /ˈkrɪsməs/"
+  },
+  {
+    "chinese": "生日聚会",
+    "english": "birthday party",
+    "soundmark": "/ˈbɜːrθdeɪ/ /ˈpɑːrti/"
+  },
+  {
+    "chinese": "长假",
+    "english": "long holiday",
+    "soundmark": "/lɔːŋ/ /ˈhɑːlədeɪ/"
+  },
+  {
+    "chinese": "我们在圣诞节交换礼物",
+    "english": "We give presents at Christmas",
+    "soundmark": "/wiː/ /ɡɪv/ /ˈprezənts/ /æt/ /ˈkrɪsməs/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "presents",
+        "role": "O",
+        "phonetic": "/ˈprezənts/",
+        "chinese": "礼物/现在"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "Christmas",
+        "role": "O",
+        "phonetic": "/ˈkrɪsməs/",
+        "chinese": "圣诞节"
+      }
+    ]
+  },
+  {
+    "chinese": "你假期打算做什么",
+    "english": "What are you going to do for your holiday",
+    "soundmark": "/wʌt/ /ɑːr/ /juː/ /ˈɡoʊɪŋ/ /tuː/ /duː/ /fɔːr/ /jɔːr/ /ˈhɑːlədeɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "holiday",
+        "role": "O",
+        "phonetic": "/ˈhɑːlədeɪ/",
+        "chinese": "假期"
+      }
+    ]
+  },
+  {
+    "chinese": "我去了海边度假",
+    "english": "I went to the seaside for my holiday",
+    "soundmark": "/aɪ/ /went/ /tuː/ /ðə/ /ˈsiːsaɪd/ /fɔːr/ /maɪ/ /ˈhɑːlədeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "seaside",
+        "role": "O",
+        "phonetic": "/ˈsiːsaɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "holiday",
+        "role": "O",
+        "phonetic": "/ˈhɑːlədeɪ/",
+        "chinese": "假期"
+      }
+    ]
+  },
+  {
+    "chinese": "今天是他的生日",
+    "english": "Today is his birthday",
+    "soundmark": "/təˈdeɪ/ /ɪz/ /hɪz/ /ˈbɜːrθdeɪ/",
+    "grammar": [
+      {
+        "text": "Today",
+        "role": "S",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "birthday",
+        "role": "C",
+        "phonetic": "/ˈbɜːrθdeɪ/",
+        "chinese": "生日"
+      }
+    ]
+  },
+  {
+    "chinese": "祝你生日快乐",
+    "english": "Happy birthday to you",
+    "soundmark": "/ˈhæpi/ /ˈbɜːrθdeɪ/ /tuː/ /juː/",
+    "grammar": [
+      {
+        "text": "Happy",
+        "role": "C",
+        "phonetic": "/ˈhæpi/",
+        "chinese": "快乐的"
+      },
+      {
+        "text": "birthday",
+        "role": "S",
+        "phonetic": "/ˈbɜːrθdeɪ/",
+        "chinese": "生日"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "你们玩得开心吗",
+    "english": "Did you have a good time",
+    "soundmark": "/dɪd/ /juː/ /hæv/ /ə/ /ɡʊd/ /taɪm/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "我没有在假期里去任何地方",
+    "english": "I did not go anywhere for my holiday",
+    "soundmark": "/aɪ/ /dɪd/ /nɑːt/ /ɡoʊ/ /ˈeniwer/ /fɔːr/ /maɪ/ /ˈhɑːlədeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "anywhere",
+        "role": "A",
+        "phonetic": "/ˈeniwer/",
+        "chinese": ""
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "holiday",
+        "role": "O",
+        "phonetic": "/ˈhɑːlədeɪ/",
+        "chinese": "假期"
+      }
+    ]
+  },
+  {
+    "chinese": "去年圣诞我们在家过的",
+    "english": "We stayed at home for Christmas last year",
+    "soundmark": "/wiː/ /steɪd/ /æt/ /hoʊm/ /fɔːr/ /ˈkrɪsməs/ /læst/ /jɪr/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "stayed",
+        "role": "V",
+        "phonetic": "/steɪd/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "home",
+        "role": "O",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "Christmas",
+        "role": "O",
+        "phonetic": "/ˈkrɪsməs/",
+        "chinese": "圣诞节"
+      },
+      {
+        "text": "last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "我妈妈做了生日蛋糕而我爸爸买了气球",
+    "english": "My mother made a birthday cake and my father bought balloons",
+    "soundmark": "/maɪ/ /ˈmʌðər/ /meɪd/ /ə/ /ˈbɜːrθdeɪ/ /keɪk/ /ænd/ /maɪ/ /ˈfɑːðər/ /bɔːt/ /bəˈluːnz/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "mother",
+        "role": "S",
+        "phonetic": "/ˈmʌðər/",
+        "chinese": "母亲"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "birthday",
+        "role": "C",
+        "phonetic": "/ˈbɜːrθdeɪ/",
+        "chinese": "生日"
+      },
+      {
+        "text": "cake",
+        "role": "O",
+        "phonetic": "/keɪk/",
+        "chinese": "蛋糕"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "father",
+        "role": "S",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "balloons",
+        "role": "O",
+        "phonetic": "/bəˈluːnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我给你带了一份礼物",
+    "english": "I have brought a present for you",
+    "soundmark": "/aɪ/ /hæv/ /brɔːt/ /ə/ /ˈprezənt/ /fɔːr/ /juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "brought",
+        "role": "V",
+        "phonetic": "/brɔːt/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "present",
+        "role": "O",
+        "phonetic": "/ˈprezənt/",
+        "chinese": "礼物/现在"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "他给我寄了一张明信片",
+    "english": "He sent me a postcard",
+    "soundmark": "/hiː/ /sent/ /miː/ /ə/ /ˈpoʊstkɑːrd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "sent",
+        "role": "V",
+        "phonetic": "/sent/",
+        "chinese": "寄/发送（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "postcard",
+        "role": "O",
+        "phonetic": "/ˈpoʊstkɑːrd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢举办生日派对吗",
+    "english": "Do you like having birthday parties",
+    "soundmark": "/duː/ /juː/ /laɪk/ /ˈhævɪŋ/ /ˈbɜːrθdeɪ/ /ˈpɑːrtiz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "having",
+        "role": "O",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "birthday",
+        "role": "C",
+        "phonetic": "/ˈbɜːrθdeɪ/",
+        "chinese": "生日"
+      },
+      {
+        "text": "parties",
+        "role": "O",
+        "phonetic": "/ˈpɑːrtiz/",
+        "chinese": "派对"
+      }
+    ]
+  },
+  {
+    "chinese": "新年快乐",
+    "english": "Happy New Year",
+    "soundmark": "/ˈhæpi/ /nuː/ /jɪr/"
+  },
+  {
+    "chinese": "圣诞快乐",
+    "english": "Merry Christmas",
+    "soundmark": "/ˈmeri/ /ˈkrɪsməs/"
+  },
+  {
+    "chinese": "给予",
+    "english": "give",
+    "soundmark": "/ɡɪv/"
+  },
+  {
+    "chinese": "带来",
+    "english": "bring",
+    "soundmark": "/brɪŋ/"
+  },
+  {
+    "chinese": "寄",
+    "english": "send",
+    "soundmark": "/send/"
+  },
+  {
+    "chinese": "停留",
+    "english": "stay",
+    "soundmark": "/steɪ/"
+  },
+  {
+    "chinese": "去(过去式)",
+    "english": "went",
+    "soundmark": "/went/"
+  },
+  {
+    "chinese": "去年的",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "chinese": "开心的",
+    "english": "happy",
+    "soundmark": "/ˈhæpi/"
+  },
+  {
+    "chinese": "复活节彩蛋",
+    "english": "Easter egg",
+    "soundmark": "/ˈiːstər/ /eɡ/"
+  },
+  {
+    "chinese": "圣诞礼物",
+    "english": "Christmas present",
+    "soundmark": "/ˈkrɪsməs/ /ˈprezənt/"
+  },
+  {
+    "chinese": "晚上我们有一个盛大的派对",
+    "english": "We had a big party in the evening",
+    "soundmark": "/wiː/ /hæd/ /ə/ /bɪɡ/ /ˈpɑːrti/ /ɪn/ /ðə/ /ˈiːvnɪŋ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "party",
+        "role": "O",
+        "phonetic": "/ˈpɑːrti/",
+        "chinese": "派对"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "evening",
+        "role": "A",
+        "phonetic": "/ˈiːvnɪŋ/",
+        "chinese": "晚上"
+      }
+    ]
+  },
+  {
+    "chinese": "每个孩子都从圣诞老人那里得到了礼物",
+    "english": "Every child got a present from Father Christmas",
+    "soundmark": "/ˈevri/ /tʃaɪld/ /ɡɑːt/ /ə/ /ˈprezənt/ /frʌm/ /ˈfɑːðər/ /ˈkrɪsməs/",
+    "grammar": [
+      {
+        "text": "Every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "child",
+        "role": "S",
+        "phonetic": "/tʃaɪld/",
+        "chinese": "孩子"
+      },
+      {
+        "text": "got",
+        "role": "V",
+        "phonetic": "/ɡɑːt/",
+        "chinese": "得到（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "present",
+        "role": "O",
+        "phonetic": "/ˈprezənt/",
+        "chinese": "礼物/现在"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "Father",
+        "role": "C",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      },
+      {
+        "text": "Christmas",
+        "role": "O",
+        "phonetic": "/ˈkrɪsməs/",
+        "chinese": "圣诞节"
+      }
+    ]
+  },
+  {
+    "chinese": "你打算怎么庆祝你的生日",
+    "english": "How are you going to celebrate your birthday",
+    "soundmark": "/haʊ/ /ɑːr/ /juː/ /ˈɡoʊɪŋ/ /tuː/ /ˈseləbreɪt/ /jɔːr/ /ˈbɜːrθdeɪ/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "celebrate",
+        "role": "V",
+        "phonetic": "/ˈseləbreɪt/",
+        "chinese": "庆祝"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "birthday",
+        "role": "O",
+        "phonetic": "/ˈbɜːrθdeɪ/",
+        "chinese": "生日"
+      }
+    ]
+  },
+  {
+    "chinese": "晚上",
+    "english": "evening",
+    "soundmark": "/ˈiːvnɪŋ/"
+  },
+  {
+    "chinese": "每个",
+    "english": "every",
+    "soundmark": "/ˈevri/"
+  },
+  {
+    "chinese": "得到(过去式)",
+    "english": "got",
+    "soundmark": "/ɡɑːt/"
+  },
+  {
+    "chinese": "来自",
+    "english": "from",
+    "soundmark": "/frʌm/"
+  }
+]

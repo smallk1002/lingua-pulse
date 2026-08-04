@@ -1,0 +1,287 @@
+[
+  {
+    "chinese": "梦",
+    "english": "dream",
+    "soundmark": "/driːm/"
+  },
+  {
+    "chinese": "吹走",
+    "english": "blow away",
+    "soundmark": "/bloʊ əˈweɪ/"
+  },
+  {
+    "chinese": "暴风雨",
+    "english": "storm",
+    "soundmark": "/stɔːrm/"
+  },
+  {
+    "chinese": "弹簧",
+    "english": "spring",
+    "soundmark": "/sprɪŋ/"
+  },
+  {
+    "chinese": "床垫",
+    "english": "mattress",
+    "soundmark": "/ˈmætrəs/"
+  },
+  {
+    "chinese": "扫",
+    "english": "sweep",
+    "soundmark": "/swiːp/"
+  },
+  {
+    "chinese": "庭院",
+    "english": "courtyard",
+    "soundmark": "/ˈkɔːrtjɑːrd/"
+  },
+  {
+    "chinese": "粉碎",
+    "english": "smash",
+    "soundmark": "/smæʃ/"
+  },
+  {
+    "chinese": "一阵风把床吹到了空中。",
+    "english": "A gust of wind swept the bed up into the sky",
+    "soundmark": "/ə ɡʌst əv wɪnd swept ðə bed ʌp ˈɪntuː ðə skaɪ/",
+    "grammar": [
+      {
+        "text": "A gust of wind",
+        "role": "S",
+        "phonetic": "/ə ɡʌst əv wɪnd/",
+        "chinese": "一个/…的/风"
+      },
+      {
+        "text": "swept",
+        "role": "V",
+        "phonetic": "/swept/",
+        "chinese": ""
+      },
+      {
+        "text": "the bed",
+        "role": "O",
+        "phonetic": "/ðə bed/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "up into the sky",
+        "role": "A",
+        "phonetic": "/ʌp ˈɪntuː ðə skaɪ/",
+        "chinese": "向上/进入/这个/那个/天空"
+      }
+    ]
+  },
+  {
+    "chinese": "暴风雨把床吹走了但床垫留了下来。",
+    "english": "The storm blew away the bed but the mattress was left",
+    "soundmark": "/ðə stɔːrm bluː əˈweɪ ðə bed bʌt ðə ˈmætrəs wʌz left/",
+    "grammar": [
+      {
+        "text": "The storm",
+        "role": "S",
+        "phonetic": "/ðə stɔːrm/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "blew away",
+        "role": "V",
+        "phonetic": "/bluː əˈweɪ/",
+        "chinese": "离开/远"
+      },
+      {
+        "text": "the bed",
+        "role": "O",
+        "phonetic": "/ðə bed/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "but the mattress was left",
+        "role": "A",
+        "phonetic": "/bʌt ðə ˈmætrəs wʌz left/",
+        "chinese": "但是/这个/那个/床垫/是（过去式）/左边的"
+      }
+    ]
+  },
+  {
+    "chinese": "虽然床摔碎了但他没事。",
+    "english": "Although the bed was smashed to pieces he was not hurt",
+    "soundmark": "/ɔːlˈðoʊ ðə bed wʌz smæʃt tuː ˈpiːsɪz hiː wʌz nɑːt hɜːrt/",
+    "grammar": [
+      {
+        "text": "Although the bed was smashed to pieces",
+        "role": "A",
+        "phonetic": "/ɔːlˈðoʊ ðə bed wʌz smæʃt tuː ˈpiːsɪz/",
+        "chinese": "虽然/这个/那个/是（过去式）/到/向"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was not hurt",
+        "role": "V",
+        "phonetic": "/wʌz nɑːt hɜːrt/",
+        "chinese": "是（过去式）/不/伤害"
+      }
+    ]
+  },
+  {
+    "chinese": "那个年轻人买了床因为他累坏了。",
+    "english": "The young man bought the bed because he was tired",
+    "soundmark": "/ðə jʌŋ mæn bɔːt ðə bed bɪˈkɔːz hiː wʌz ˈtaɪərd/",
+    "grammar": [
+      {
+        "text": "The young man",
+        "role": "S",
+        "phonetic": "/ðə jʌŋ mæn/",
+        "chinese": "这个/那个/年轻的/男人"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "the bed",
+        "role": "O",
+        "phonetic": "/ðə bed/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "because he was tired",
+        "role": "A",
+        "phonetic": "/bɪˈkɔːz hiː wʌz ˈtaɪərd/",
+        "chinese": "因为/他/是（过去式）/累的"
+      }
+    ]
+  },
+  {
+    "chinese": "他把床搬到屋顶上以便能睡个好觉。",
+    "english": "He carried the bed onto the roof so that he could sleep well",
+    "soundmark": "/hiː ˈkærid ðə bed ˈɑːntuː ðə ruːf soʊ ðæt hiː kʊd sliːp wel/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "carried",
+        "role": "V",
+        "phonetic": "/ˈkærid/",
+        "chinese": "搬运"
+      },
+      {
+        "text": "the bed",
+        "role": "O",
+        "phonetic": "/ðə bed/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "onto the roof",
+        "role": "A",
+        "phonetic": "/ˈɑːntuː ðə ruːf/",
+        "chinese": "到…上面/这个/那个"
+      },
+      {
+        "text": "so that he could sleep well",
+        "role": "A",
+        "phonetic": "/soʊ ðæt hiː kʊd sliːp wel/",
+        "chinese": "如此/所以/那个/他/可以/能（过去式）/睡觉/好"
+      }
+    ]
+  },
+  {
+    "chinese": "暴风雨来了之后床被吹走了。",
+    "english": "The bed was blown away after the storm came",
+    "soundmark": "/ðə bed wʌz bloʊn əˈweɪ ˈæftər ðə stɔːrm keɪm/",
+    "grammar": [
+      {
+        "text": "The bed",
+        "role": "S",
+        "phonetic": "/ðə bed/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "was blown away",
+        "role": "V",
+        "phonetic": "/wʌz bloʊn əˈweɪ/",
+        "chinese": "是（过去式）/离开/远"
+      },
+      {
+        "text": "after the storm came",
+        "role": "A",
+        "phonetic": "/ˈæftər ðə stɔːrm keɪm/",
+        "chinese": "在…之后/这个/那个/来（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "床垫掉进院子里时他没有受伤。",
+    "english": "He was not injured when the mattress fell into the courtyard",
+    "soundmark": "/hiː wʌz nɑːt ˈɪndʒərd wen ðə ˈmætrəs fel ˈɪntuː ðə ˈkɔːrtjɑːrd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was not injured",
+        "role": "V",
+        "phonetic": "/wʌz nɑːt ˈɪndʒərd/",
+        "chinese": "是（过去式）/不/使受伤"
+      },
+      {
+        "text": "when the mattress fell into the courtyard",
+        "role": "A",
+        "phonetic": "/wen ðə ˈmætrəs fel ˈɪntuː ðə ˈkɔːrtjɑːrd/",
+        "chinese": "什么时候/这个/那个/床垫/落下（过去式）/进入/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "一阵风",
+    "english": "a gust of wind",
+    "soundmark": "/ə ɡʌst əv wɪnd/"
+  },
+  {
+    "chinese": "天空",
+    "english": "sky",
+    "soundmark": "/skaɪ/"
+  },
+  {
+    "chinese": "虽然",
+    "english": "although",
+    "soundmark": "/ɔːlˈðoʊ/"
+  },
+  {
+    "chinese": "碎片",
+    "english": "pieces",
+    "soundmark": "/ˈpiːsɪz/"
+  },
+  {
+    "chinese": "屋顶",
+    "english": "roof",
+    "soundmark": "/ruːf/"
+  },
+  {
+    "chinese": "受伤",
+    "english": "injured",
+    "soundmark": "/ˈɪndʒərd/"
+  },
+  {
+    "chinese": "搬运",
+    "english": "carry",
+    "soundmark": "/ˈkæri/"
+  },
+  {
+    "chinese": "睡眠",
+    "english": "sleep",
+    "soundmark": "/sliːp/"
+  }
+]

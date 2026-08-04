@@ -1,0 +1,531 @@
+[
+  {
+    "chinese": "令人不快的",
+    "english": "unpleasant",
+    "soundmark": "/ʌnˈpleznt/"
+  },
+  {
+    "chinese": "办公室",
+    "english": "office",
+    "soundmark": "/ˈɒfɪs/"
+  },
+  {
+    "chinese": "同事",
+    "english": "colleague",
+    "soundmark": "/ˈkɒliːg/"
+  },
+  {
+    "chinese": "嘈杂的；吵闹的",
+    "english": "noisy",
+    "soundmark": "/ˈnɔɪzi/"
+  },
+  {
+    "chinese": "脏的",
+    "english": "dirty",
+    "soundmark": "/ˈdɜːti/"
+  },
+  {
+    "chinese": "杂乱的；凌乱的",
+    "english": "messy",
+    "soundmark": "/ˈmesi/"
+  },
+  {
+    "chinese": "问题",
+    "english": "problem",
+    "soundmark": "/ˈprɒbləm/"
+  },
+  {
+    "chinese": "抱怨",
+    "english": "complain",
+    "soundmark": "/kəmˈpleɪn/"
+  },
+  {
+    "chinese": "任务",
+    "english": "task",
+    "soundmark": "/tɑːsk/"
+  },
+  {
+    "chinese": "忙碌的",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "乏味的",
+    "english": "boring",
+    "soundmark": "/ˈbɔːrɪŋ/"
+  },
+  {
+    "chinese": "困难的",
+    "english": "difficult",
+    "soundmark": "/ˈdɪfɪkəlt/"
+  },
+  {
+    "chinese": "电话",
+    "english": "telephone",
+    "soundmark": "/ˈtelɪfəʊn/"
+  },
+  {
+    "chinese": "打字机",
+    "english": "typewriter",
+    "soundmark": "/ˈtaɪpˌraɪtə/"
+  },
+  {
+    "chinese": "文件",
+    "english": "document",
+    "soundmark": "/ˈdɒkjumənt/"
+  },
+  {
+    "chinese": "铅笔",
+    "english": "pencil",
+    "soundmark": "/ˈpensl/"
+  },
+  {
+    "chinese": "信",
+    "english": "letter",
+    "soundmark": "/ˈletə/"
+  },
+  {
+    "chinese": "复印机",
+    "english": "copier",
+    "soundmark": "/ˈkɒpiə/"
+  },
+  {
+    "chinese": "书架",
+    "english": "shelf",
+    "soundmark": "/ʃelf/"
+  },
+  {
+    "chinese": "办公室里很吵。",
+    "english": "The office is very noisy.",
+    "soundmark": "/ðə ˈɒfɪs ɪz ˈveri ˈnɔɪzi/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "office",
+        "role": "S",
+        "phonetic": "/ˈɒfɪs/",
+        "chinese": "办公室"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "noisy",
+        "role": "C",
+        "phonetic": "/ˈnɔɪzi/",
+        "chinese": "吵闹的"
+      }
+    ]
+  },
+  {
+    "chinese": "这个房间太脏了。",
+    "english": "This room is too dirty.",
+    "soundmark": "/ðɪs ruːm ɪz tuː ˈdɜːti/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "room",
+        "role": "S",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too",
+        "role": "Adv",
+        "phonetic": "/tuː/",
+        "chinese": "太"
+      },
+      {
+        "text": "dirty",
+        "role": "C",
+        "phonetic": "/ˈdɜːti/",
+        "chinese": "脏的"
+      }
+    ]
+  },
+  {
+    "chinese": "桌子很凌乱。",
+    "english": "The desk is very messy.",
+    "soundmark": "/ðə desk ɪz ˈveri ˈmesi/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "desk",
+        "role": "S",
+        "phonetic": "/desk/",
+        "chinese": "书桌"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "messy",
+        "role": "C",
+        "phonetic": "/ˈmesi/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我不喜欢这些不愉快的事。",
+    "english": "I don't like these unpleasant things.",
+    "soundmark": "/aɪ dəʊnt laɪk ðiːz ʌnˈpleznt θɪŋz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "don't like",
+        "role": "V",
+        "phonetic": "/dəʊnt laɪk/",
+        "chinese": "不/喜欢"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "unpleasant",
+        "role": "C",
+        "phonetic": "/ʌnˈpleznt/",
+        "chinese": "不愉快的"
+      },
+      {
+        "text": "things",
+        "role": "O",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      }
+    ]
+  },
+  {
+    "chinese": "电话一直在响。",
+    "english": "The telephone keeps ringing.",
+    "soundmark": "/ðə ˈtelɪfəʊn kiːps ˈrɪŋɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "telephone",
+        "role": "S",
+        "phonetic": "/ˈtelɪfəʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "keeps",
+        "role": "V",
+        "phonetic": "/kiːps/",
+        "chinese": "保持/保留"
+      },
+      {
+        "text": "ringing",
+        "role": "O",
+        "phonetic": "/ˈrɪŋɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这项任务很困难。",
+    "english": "This task is very difficult.",
+    "soundmark": "/ðɪs tɑːsk ɪz ˈveri ˈdɪfɪkəlt/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "task",
+        "role": "S",
+        "phonetic": "/tɑːsk/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "difficult",
+        "role": "C",
+        "phonetic": "/ˈdɪfɪkəlt/",
+        "chinese": "困难的"
+      }
+    ]
+  },
+  {
+    "chinese": "她总是抱怨。",
+    "english": "She always complains.",
+    "soundmark": "/ʃiː ˈɔːlweɪz kəmˈpleɪnz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "complains",
+        "role": "V",
+        "phonetic": "/kəmˈpleɪnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们今天很忙。",
+    "english": "We are very busy today.",
+    "soundmark": "/wiː ɑː ˈveri ˈbɪzi təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑː/",
+        "chinese": "是"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "busy",
+        "role": "C",
+        "phonetic": "/ˈbɪzi/",
+        "chinese": "忙碌的"
+      },
+      {
+        "text": "today",
+        "role": "Adv",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "工作很乏味。",
+    "english": "The work is boring.",
+    "soundmark": "/ðə wɜːk ɪz ˈbɔːrɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "work",
+        "role": "S",
+        "phonetic": "/wɜːk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "boring",
+        "role": "C",
+        "phonetic": "/ˈbɔːrɪŋ/",
+        "chinese": "令人无聊的"
+      }
+    ]
+  },
+  {
+    "chinese": "电脑",
+    "english": "computer",
+    "soundmark": "/kəmˈpjuːtə/"
+  },
+  {
+    "chinese": "打印机",
+    "english": "printer",
+    "soundmark": "/ˈprɪntə/"
+  },
+  {
+    "chinese": "订书机",
+    "english": "stapler",
+    "soundmark": "/ˈsteɪplə/"
+  },
+  {
+    "chinese": "剪刀",
+    "english": "scissors",
+    "soundmark": "/ˈsɪzəz/"
+  },
+  {
+    "chinese": "胶带",
+    "english": "tape",
+    "soundmark": "/teɪp/"
+  },
+  {
+    "chinese": "文件夹",
+    "english": "folder",
+    "soundmark": "/ˈfəʊldə/"
+  },
+  {
+    "chinese": "笔记本",
+    "english": "notebook",
+    "soundmark": "/ˈnəʊtbʊk/"
+  },
+  {
+    "chinese": "钢笔",
+    "english": "pen",
+    "soundmark": "/pen/"
+  },
+  {
+    "chinese": "橡皮",
+    "english": "eraser",
+    "soundmark": "/ɪˈreɪzə/"
+  },
+  {
+    "chinese": "尺子",
+    "english": "ruler",
+    "soundmark": "/ˈruːlə/"
+  },
+  {
+    "chinese": "桌子",
+    "english": "desk",
+    "soundmark": "/desk/"
+  },
+  {
+    "chinese": "椅子",
+    "english": "chair",
+    "soundmark": "/tʃeə/"
+  },
+  {
+    "chinese": "橱柜",
+    "english": "cabinet",
+    "soundmark": "/ˈkæbɪnət/"
+  },
+  {
+    "chinese": "抽屉",
+    "english": "drawer",
+    "soundmark": "/drɔːə/"
+  },
+  {
+    "chinese": "白板",
+    "english": "whiteboard",
+    "soundmark": "/ˈwaɪtbɔːd/"
+  },
+  {
+    "chinese": "会议室",
+    "english": "meeting room",
+    "soundmark": "/ˈmiːtɪŋ ruːm/"
+  },
+  {
+    "chinese": "老板",
+    "english": "boss",
+    "soundmark": "/bɒs/"
+  },
+  {
+    "chinese": "经理",
+    "english": "manager",
+    "soundmark": "/ˈmænɪdʒə/"
+  },
+  {
+    "chinese": "秘书",
+    "english": "secretary",
+    "soundmark": "/ˈsekrətri/"
+  },
+  {
+    "chinese": "实习生",
+    "english": "intern",
+    "soundmark": "/ˈɪntɜːn/"
+  },
+  {
+    "chinese": "项目",
+    "english": "project",
+    "soundmark": "/ˈprɒdʒekt/"
+  },
+  {
+    "chinese": "会议",
+    "english": "meeting",
+    "soundmark": "/ˈmiːtɪŋ/"
+  },
+  {
+    "chinese": "截止日期",
+    "english": "deadline",
+    "soundmark": "/ˈdedlaɪn/"
+  },
+  {
+    "chinese": "电子邮件",
+    "english": "email",
+    "soundmark": "/ˈiːmeɪl/"
+  },
+  {
+    "chinese": "报告",
+    "english": "report",
+    "soundmark": "/rɪˈpɔːt/"
+  }
+]

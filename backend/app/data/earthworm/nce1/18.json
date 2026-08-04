@@ -1,0 +1,571 @@
+[
+  {
+    "chinese": "起床",
+    "english": "get up",
+    "soundmark": "/ɡet/ /ʌp/"
+  },
+  {
+    "chinese": "睡觉",
+    "english": "go to bed",
+    "soundmark": "/ɡoʊ/ /tuː/ /bed/"
+  },
+  {
+    "chinese": "醒来",
+    "english": "wake up",
+    "soundmark": "/weɪk/ /ʌp/"
+  },
+  {
+    "chinese": "刷牙",
+    "english": "brush teeth",
+    "soundmark": "/brʌʃ/ /tiːθ/"
+  },
+  {
+    "chinese": "洗脸",
+    "english": "wash face",
+    "soundmark": "/wɑːʃ/ /feɪs/"
+  },
+  {
+    "chinese": "洗澡",
+    "english": "take a shower",
+    "soundmark": "/teɪk/ /ə/ /ˈʃaʊər/"
+  },
+  {
+    "chinese": "穿衣服",
+    "english": "get dressed",
+    "soundmark": "/ɡet/ /drest/"
+  },
+  {
+    "chinese": "吃早餐",
+    "english": "have breakfast",
+    "soundmark": "/hæv/ /ˈbrekfəst/"
+  },
+  {
+    "chinese": "去上班",
+    "english": "go to work",
+    "soundmark": "/ɡoʊ/ /tuː/ /wɜːrk/"
+  },
+  {
+    "chinese": "回家",
+    "english": "go home",
+    "soundmark": "/ɡoʊ/ /hoʊm/"
+  },
+  {
+    "chinese": "看电视",
+    "english": "watch TV",
+    "soundmark": "/wɑːtʃ/ /ˈtiːˈviː/"
+  },
+  {
+    "chinese": "读书",
+    "english": "read a book",
+    "soundmark": "/riːd/ /ə/ /bʊk/"
+  },
+  {
+    "chinese": "做作业",
+    "english": "do homework",
+    "soundmark": "/duː/ /ˈhoʊmwɜːrk/"
+  },
+  {
+    "chinese": "总是",
+    "english": "always",
+    "soundmark": "/ˈɔːlweɪz/"
+  },
+  {
+    "chinese": "通常",
+    "english": "usually",
+    "soundmark": "/ˈjuːʒuəli/"
+  },
+  {
+    "chinese": "有时",
+    "english": "sometimes",
+    "soundmark": "/ˈsʌmtaɪmz/"
+  },
+  {
+    "chinese": "从不",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  },
+  {
+    "chinese": "经常",
+    "english": "often",
+    "soundmark": "/ˈɔːfən/"
+  },
+  {
+    "chinese": "你几点起床",
+    "english": "What time do you get up",
+    "soundmark": "/wʌt/ /taɪm/ /duː/ /juː/ /ɡet/ /ʌp/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "time",
+        "role": "S",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "up",
+        "role": "P",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      }
+    ]
+  },
+  {
+    "chinese": "我每天早上七点起床",
+    "english": "I get up at seven every morning",
+    "soundmark": "/aɪ/ /ɡet/ /ʌp/ /æt/ /ˈsevən/ /ˈevri/ /ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "up",
+        "role": "P",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "seven",
+        "role": "O",
+        "phonetic": "/ˈsevən/",
+        "chinese": "七"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "morning",
+        "role": "A",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "chinese": "早上"
+      }
+    ]
+  },
+  {
+    "chinese": "你通常几点睡觉",
+    "english": "What time do you usually go to bed",
+    "soundmark": "/wʌt/ /taɪm/ /duː/ /juː/ /ˈjuːʒuəli/ /ɡoʊ/ /tuː/ /bed/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "time",
+        "role": "S",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "usually",
+        "role": "Adv",
+        "phonetic": "/ˈjuːʒuəli/",
+        "chinese": "通常"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "bed",
+        "role": "O",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      }
+    ]
+  },
+  {
+    "chinese": "我通常晚上十点睡觉",
+    "english": "I usually go to bed at ten at night",
+    "soundmark": "/aɪ/ /ˈjuːʒuəli/ /ɡoʊ/ /tuː/ /bed/ /æt/ /ten/ /æt/ /naɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "usually",
+        "role": "Adv",
+        "phonetic": "/ˈjuːʒuəli/",
+        "chinese": "通常"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "bed",
+        "role": "O",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "ten",
+        "role": "O",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "她每天早餐后刷牙",
+    "english": "She brushes her teeth after breakfast every day",
+    "soundmark": "/ʃiː/ /ˈbrʌʃɪz/ /hɜːr/ /tiːθ/ /ˈæftər/ /ˈbrekfəst/ /ˈevri/ /deɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "brushes",
+        "role": "V",
+        "phonetic": "/ˈbrʌʃɪz/",
+        "chinese": "刷"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "teeth",
+        "role": "O",
+        "phonetic": "/tiːθ/",
+        "chinese": ""
+      },
+      {
+        "text": "after",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "breakfast",
+        "role": "O",
+        "phonetic": "/ˈbrekfəst/",
+        "chinese": "早餐"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "你经常看电视吗",
+    "english": "Do you often watch TV",
+    "soundmark": "/duː/ /juː/ /ˈɔːfən/ /wɑːtʃ/ /ˈtiːˈviː/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "often",
+        "role": "Adv",
+        "phonetic": "/ˈɔːfən/",
+        "chinese": "经常"
+      },
+      {
+        "text": "watch",
+        "role": "V",
+        "phonetic": "/wɑːtʃ/",
+        "chinese": "观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˈtiːˈviː/",
+        "chinese": "电视"
+      }
+    ]
+  },
+  {
+    "chinese": "我有时看电视但从不看很久",
+    "english": "I sometimes watch TV but never for long",
+    "soundmark": "/aɪ/ /ˈsʌmtaɪmz/ /wɑːtʃ/ /ˈtiːˈviː/ /bʌt/ /ˈnevər/ /fɔːr/ /lɔːŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sometimes",
+        "role": "Adv",
+        "phonetic": "/ˈsʌmtaɪmz/",
+        "chinese": "有时"
+      },
+      {
+        "text": "watch",
+        "role": "V",
+        "phonetic": "/wɑːtʃ/",
+        "chinese": "观看"
+      },
+      {
+        "text": "TV",
+        "role": "O",
+        "phonetic": "/ˈtiːˈviː/",
+        "chinese": "电视"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "long",
+        "role": "A",
+        "phonetic": "/lɔːŋ/",
+        "chinese": "长的"
+      }
+    ]
+  },
+  {
+    "chinese": "他周末做什么他做家务和读书",
+    "english": "What does he do at weekends he does housework and reads books",
+    "soundmark": "/wʌt/ /dʌz/ /hiː/ /duː/ /æt/ /ˈwiːkendz/ /hiː/ /dʌz/ /ˈhaʊswɜːrk/ /ænd/ /riːdz/ /bʊks/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "weekends",
+        "role": "A",
+        "phonetic": "/ˈwiːkendz/",
+        "chinese": "周末"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "housework",
+        "role": "O",
+        "phonetic": "/ˈhaʊswɜːrk/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "reads",
+        "role": "V",
+        "phonetic": "/riːdz/",
+        "chinese": "读"
+      },
+      {
+        "text": "books",
+        "role": "O",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "每天晚上",
+    "english": "every evening",
+    "soundmark": "/ˈevri/ /ˈiːvnɪŋ/"
+  },
+  {
+    "chinese": "每个周末",
+    "english": "every weekend",
+    "soundmark": "/ˈevri/ /ˈwiːkend/"
+  },
+  {
+    "chinese": "在早上",
+    "english": "in the morning",
+    "soundmark": "/ɪn/ /ðə/ /ˈmɔːrnɪŋ/"
+  },
+  {
+    "chinese": "在下午",
+    "english": "in the afternoon",
+    "soundmark": "/ɪn/ /ði/ /ˌæftərˈnuːn/"
+  },
+  {
+    "chinese": "在晚上",
+    "english": "in the evening",
+    "soundmark": "/ɪn/ /ði/ /ˈiːvnɪŋ/"
+  },
+  {
+    "chinese": "在夜里",
+    "english": "at night",
+    "soundmark": "/æt/ /naɪt/"
+  },
+  {
+    "chinese": "之后",
+    "english": "after",
+    "soundmark": "/ˈæftər/"
+  },
+  {
+    "chinese": "之前",
+    "english": "before",
+    "soundmark": "/bɪˈfɔːr/"
+  },
+  {
+    "chinese": "然后",
+    "english": "then",
+    "soundmark": "/ðen/"
+  }
+]

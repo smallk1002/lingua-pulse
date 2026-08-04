@@ -1,0 +1,1091 @@
+[
+  {
+    "chinese": "编辑",
+    "english": "editor",
+    "soundmark": "/ˈedɪtər/"
+  },
+  {
+    "chinese": "文章",
+    "english": "article",
+    "soundmark": "/ˈɑːrtɪkəl/"
+  },
+  {
+    "chinese": "统计数字",
+    "english": "statistics",
+    "soundmark": "/stəˈtɪstɪks/"
+  },
+  {
+    "chinese": "报社",
+    "english": "newspaper",
+    "soundmark": "/ˈnuːzpeɪpər/"
+  },
+  {
+    "chinese": "记者",
+    "english": "journalist",
+    "soundmark": "/ˈdʒɜːrnəlɪst/"
+  },
+  {
+    "chinese": "准确的",
+    "english": "accurate",
+    "soundmark": "/ˈækjərət/"
+  },
+  {
+    "chinese": "出版",
+    "english": "publish",
+    "soundmark": "/ˈpʌblɪʃ/"
+  },
+  {
+    "chinese": "事实",
+    "english": "fact",
+    "soundmark": "/fækt/"
+  },
+  {
+    "chinese": "极端",
+    "english": "extreme",
+    "soundmark": "/ɪkˈstriːm/"
+  },
+  {
+    "chinese": "政府",
+    "english": "government",
+    "soundmark": "/ˈɡʌvərnmənt/"
+  },
+  {
+    "chinese": "主编",
+    "english": "chief editor",
+    "soundmark": "/tʃiːf/ /ˈedɪtər/"
+  },
+  {
+    "chinese": "发表文章",
+    "english": "publish an article",
+    "soundmark": "/ˈpʌblɪʃ/ /ən/ /ˈɑːrtɪkəl/"
+  },
+  {
+    "chinese": "极端不耐烦",
+    "english": "extreme impatience",
+    "soundmark": "/ɪkˈstriːm/ /ɪmˈpeɪʃəns/"
+  },
+  {
+    "chinese": "统计数字",
+    "english": "statistical figures",
+    "soundmark": "/stəˈtɪstɪkəl/ /ˈfɪɡjərz/"
+  },
+  {
+    "chinese": "政府大楼",
+    "english": "government building",
+    "soundmark": "/ˈɡʌvərnmənt/ /ˈbɪldɪŋ/"
+  },
+  {
+    "chinese": "核实事实",
+    "english": "check the facts",
+    "soundmark": "/tʃek/ /ðə/ /fækts/"
+  },
+  {
+    "chinese": "编辑们正在核实这些数据",
+    "english": "The editors are checking the figures",
+    "soundmark": "/ði/ /ˈedɪtərz/ /ɑːr/ /ˈtʃekɪŋ/ /ðə/ /ˈfɪɡjərz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "editors",
+        "role": "S",
+        "phonetic": "/ˈedɪtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "checking",
+        "role": "V",
+        "phonetic": "/ˈtʃekɪŋ/",
+        "chinese": "检查"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "figures",
+        "role": "O",
+        "phonetic": "/ˈfɪɡjərz/",
+        "chinese": "人物/数字"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望这些数据是准确的",
+    "english": "I wish the figures were accurate",
+    "soundmark": "/aɪ/ /wɪʃ/ /ðə/ /ˈfɪɡjərz/ /wɜːr/ /ˈækjərət/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "figures",
+        "role": "S",
+        "phonetic": "/ˈfɪɡjərz/",
+        "chinese": "人物/数字"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "accurate",
+        "role": "C",
+        "phonetic": "/ˈækjərət/",
+        "chinese": "准确的"
+      }
+    ]
+  },
+  {
+    "chinese": "我真希望我昨晚能早点睡",
+    "english": "I wish I had gone to bed earlier last night",
+    "soundmark": "/aɪ/ /wɪʃ/ /aɪ/ /hæd/ /ɡɔːn/ /tuː/ /bed/ /ˈɜːrliər/ /læst/ /naɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɔːn/",
+        "chinese": "去（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "bed",
+        "role": "A",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      },
+      {
+        "text": "earlier",
+        "role": "Adv",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "他真希望自己没说过那句话",
+    "english": "He wished he had not said that",
+    "soundmark": "/hiː/ /wɪʃt/ /hiː/ /hæd/ /nɑːt/ /sed/ /ðæt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "wished",
+        "role": "V",
+        "phonetic": "/wɪʃt/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      }
+    ]
+  },
+  {
+    "chinese": "他们不希望这篇文章被发表",
+    "english": "They did not wish the article to be published",
+    "soundmark": "/ðeɪ/ /dɪd/ /nɑːt/ /wɪʃ/ /ði/ /ˈɑːrtɪkəl/ /tuː/ /biː/ /ˈpʌblɪʃt/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "did",
+        "role": "Aux",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "article",
+        "role": "O",
+        "phonetic": "/ˈɑːrtɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "published",
+        "role": "V",
+        "phonetic": "/ˈpʌblɪʃt/",
+        "chinese": "已出版的"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望政府能采取行动",
+    "english": "I wish the government would take action",
+    "soundmark": "/aɪ/ /wɪʃ/ /ðə/ /ˈɡʌvərnmənt/ /wʊd/ /teɪk/ /ˈækʃən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "government",
+        "role": "S",
+        "phonetic": "/ˈɡʌvərnmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "action",
+        "role": "O",
+        "phonetic": "/ˈækʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "编辑希望记者们能更仔细一些",
+    "english": "The editor wished the journalists had been more careful",
+    "soundmark": "/ði/ /ˈedɪtər/ /wɪʃt/ /ðə/ /ˈdʒɜːrnəlɪsts/ /hæd/ /bɪn/ /mɔːr/ /ˈkerfəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "editor",
+        "role": "S",
+        "phonetic": "/ˈedɪtər/",
+        "chinese": ""
+      },
+      {
+        "text": "wished",
+        "role": "V",
+        "phonetic": "/wɪʃt/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "journalists",
+        "role": "S",
+        "phonetic": "/ˈdʒɜːrnəlɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "Lv",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "careful",
+        "role": "C",
+        "phonetic": "/ˈkerfəl/",
+        "chinese": "小心的"
+      }
+    ]
+  },
+  {
+    "chinese": "要是这些数字是准确的那该多好啊",
+    "english": "If only the figures were correct",
+    "soundmark": "/ɪf/ /ˈoʊnli/ /ðə/ /ˈfɪɡjərz/ /wɜːr/ /kəˈrekt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "figures",
+        "role": "S",
+        "phonetic": "/ˈfɪɡjərz/",
+        "chinese": "人物/数字"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "correct",
+        "role": "C",
+        "phonetic": "/kəˈrekt/",
+        "chinese": "正确的"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望我有更多时间来核实这些数据",
+    "english": "I wish I had more time to check the data",
+    "soundmark": "/aɪ/ /wɪʃ/ /aɪ/ /hæd/ /mɔːr/ /taɪm/ /tuː/ /tʃek/ /ðə/ /ˈdeɪtə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "more",
+        "role": "A",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "check",
+        "role": "V",
+        "phonetic": "/tʃek/",
+        "chinese": "检查"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "data",
+        "role": "O",
+        "phonetic": "/ˈdeɪtə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果主编提前看到那篇文章他绝不会批准发表的",
+    "english": "If the chief editor had seen the article earlier he would never have approved it",
+    "soundmark": "/ɪf/ /ðə/ /tʃiːf/ /ˈedɪtər/ /hæd/ /siːn/ /ði/ /ˈɑːrtɪkəl/ /ˈɜːrliər/ /hiː/ /wʊd/ /ˈnevər/ /hæv/ /əˈpruːvd/ /ɪt/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "chief",
+        "role": "A",
+        "phonetic": "/tʃiːf/",
+        "chinese": ""
+      },
+      {
+        "text": "editor",
+        "role": "S",
+        "phonetic": "/ˈedɪtər/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "article",
+        "role": "O",
+        "phonetic": "/ˈɑːrtɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "earlier",
+        "role": "Adv",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "approved",
+        "role": "V",
+        "phonetic": "/əˈpruːvd/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "编辑们对那位记者极其不耐烦",
+    "english": "The editors were extremely impatient with the journalist",
+    "soundmark": "/ði/ /ˈedɪtərz/ /wɜːr/ /ɪkˈstriːmli/ /ɪmˈpeɪʃənt/ /wɪð/ /ðə/ /ˈdʒɜːrnəlɪst/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "editors",
+        "role": "S",
+        "phonetic": "/ˈedɪtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "extremely",
+        "role": "Adv",
+        "phonetic": "/ɪkˈstriːmli/",
+        "chinese": "极其"
+      },
+      {
+        "text": "impatient",
+        "role": "C",
+        "phonetic": "/ɪmˈpeɪʃənt/",
+        "chinese": "不耐烦的"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "journalist",
+        "role": "O",
+        "phonetic": "/ˈdʒɜːrnəlɪst/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "要是编辑们自己核实了这些事实就好了",
+    "english": "If only the editors had checked the facts themselves",
+    "soundmark": "/ɪf/ /ˈoʊnli/ /ði/ /ˈedɪtərz/ /hæd/ /tʃekt/ /ðə/ /fækts/ /ðəmˈselvz/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "editors",
+        "role": "S",
+        "phonetic": "/ˈedɪtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "checked",
+        "role": "V",
+        "phonetic": "/tʃekt/",
+        "chinese": "检查"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "facts",
+        "role": "O",
+        "phonetic": "/fækts/",
+        "chinese": "事实"
+      },
+      {
+        "text": "themselves",
+        "role": "O",
+        "phonetic": "/ðəmˈselvz/",
+        "chinese": "他们自己"
+      }
+    ]
+  },
+  {
+    "chinese": "文章发表后才发现数据有误",
+    "english": "The article had already been published when the errors were discovered",
+    "soundmark": "/ði/ /ˈɑːrtɪkəl/ /hæd/ /ɔːlˈredi/ /bɪn/ /ˈpʌblɪʃt/ /wen/ /ði/ /ˈerərz/ /wɜːr/ /dɪˈskʌvərd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "article",
+        "role": "S",
+        "phonetic": "/ˈɑːrtɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "published",
+        "role": "V",
+        "phonetic": "/ˈpʌblɪʃt/",
+        "chinese": "已出版的"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "errors",
+        "role": "S",
+        "phonetic": "/ˈerərz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      }
+    ]
+  },
+  {
+    "chinese": "他真希望自己在采访中问的问题更尖锐一些",
+    "english": "He wished he had asked sharper questions in the interview",
+    "soundmark": "/hiː/ /wɪʃt/ /hiː/ /hæd/ /æskt/ /ˈʃɑːrpər/ /ˈkwestʃənz/ /ɪn/ /ði/ /ˈɪntərvjuː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "wished",
+        "role": "V",
+        "phonetic": "/wɪʃt/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "asked",
+        "role": "V",
+        "phonetic": "/æskt/",
+        "chinese": "问"
+      },
+      {
+        "text": "sharper",
+        "role": "A",
+        "phonetic": "/ˈʃɑːrpər/",
+        "chinese": "更…的/…者(锋利的/尖锐的)"
+      },
+      {
+        "text": "questions",
+        "role": "O",
+        "phonetic": "/ˈkwestʃənz/",
+        "chinese": "问题"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "interview",
+        "role": "A",
+        "phonetic": "/ˈɪntərvjuː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "记者希望那篇文章从未被发表",
+    "english": "The journalist wished the article had never been published",
+    "soundmark": "/ðə/ /ˈdʒɜːrnəlɪst/ /wɪʃt/ /ði/ /ˈɑːrtɪkəl/ /hæd/ /ˈnevər/ /bɪn/ /ˈpʌblɪʃt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "journalist",
+        "role": "S",
+        "phonetic": "/ˈdʒɜːrnəlɪst/",
+        "chinese": ""
+      },
+      {
+        "text": "wished",
+        "role": "V",
+        "phonetic": "/wɪʃt/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "article",
+        "role": "S",
+        "phonetic": "/ˈɑːrtɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "published",
+        "role": "V",
+        "phonetic": "/ˈpʌblɪʃt/",
+        "chinese": "已出版的"
+      }
+    ]
+  },
+  {
+    "chinese": "准确",
+    "english": "accurate",
+    "soundmark": "/ˈækjərət/"
+  },
+  {
+    "chinese": "批准",
+    "english": "approve",
+    "soundmark": "/əˈpruːv/"
+  },
+  {
+    "chinese": "错误",
+    "english": "error",
+    "soundmark": "/ˈerər/"
+  },
+  {
+    "chinese": "不耐烦的",
+    "english": "impatient",
+    "soundmark": "/ɪmˈpeɪʃənt/"
+  },
+  {
+    "chinese": "采访",
+    "english": "interview",
+    "soundmark": "/ˈɪntərvjuː/"
+  },
+  {
+    "chinese": "尖锐的",
+    "english": "sharp",
+    "soundmark": "/ʃɑːrp/"
+  },
+  {
+    "chinese": "行动",
+    "english": "action",
+    "soundmark": "/ˈækʃən/"
+  },
+  {
+    "chinese": "小心的",
+    "english": "careful",
+    "soundmark": "/ˈkerfəl/"
+  },
+  {
+    "chinese": "数据",
+    "english": "data",
+    "soundmark": "/ˈdeɪtə/"
+  },
+  {
+    "chinese": "真希望我们当时能更仔细地核对每一个事实",
+    "english": "I wish we had checked every single fact more carefully",
+    "soundmark": "/aɪ/ /wɪʃ/ /wiː/ /hæd/ /tʃekt/ /ˈevri/ /ˈsɪŋɡəl/ /fækt/ /mɔːr/ /ˈkerfəli/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "Aux",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "checked",
+        "role": "V",
+        "phonetic": "/tʃekt/",
+        "chinese": "检查"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "single",
+        "role": "A",
+        "phonetic": "/ˈsɪŋɡəl/",
+        "chinese": ""
+      },
+      {
+        "text": "fact",
+        "role": "O",
+        "phonetic": "/fækt/",
+        "chinese": "事实"
+      },
+      {
+        "text": "more",
+        "role": "Adv",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "carefully",
+        "role": "Adv",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      }
+    ]
+  }
+]

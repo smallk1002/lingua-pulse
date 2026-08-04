@@ -1,0 +1,715 @@
+[
+  {
+    "chinese": "幽灵",
+    "english": "ghost",
+    "soundmark": "/ɡoʊst/"
+  },
+  {
+    "chinese": "死亡",
+    "english": "death",
+    "soundmark": "/deθ/"
+  },
+  {
+    "chinese": "消失",
+    "english": "vanish",
+    "soundmark": "/ˈvænɪʃ/"
+  },
+  {
+    "chinese": "闹鬼的",
+    "english": "haunted",
+    "soundmark": "/ˈhɔːntɪd/"
+  },
+  {
+    "chinese": "恐惧",
+    "english": "fear",
+    "soundmark": "/fɪr/"
+  },
+  {
+    "chinese": "传说",
+    "english": "legend",
+    "soundmark": "/ˈledʒənd/"
+  },
+  {
+    "chinese": "超自然",
+    "english": "supernatural",
+    "soundmark": "/ˌsuːpərˈnætʃərəl/"
+  },
+  {
+    "chinese": "相信",
+    "english": "believe",
+    "soundmark": "/bɪˈliːv/"
+  },
+  {
+    "chinese": "出现",
+    "english": "appear",
+    "soundmark": "/əˈpɪr/"
+  },
+  {
+    "chinese": "失踪",
+    "english": "disappearance",
+    "soundmark": "/ˌdɪsəˈpɪrəns/"
+  },
+  {
+    "chinese": "解释",
+    "english": "explanation",
+    "soundmark": "/ˌekspləˈneɪʃən/"
+  },
+  {
+    "chinese": "证据",
+    "english": "proof",
+    "soundmark": "/pruːf/"
+  },
+  {
+    "chinese": "目击",
+    "english": "witness",
+    "soundmark": "/ˈwɪtnəs/"
+  },
+  {
+    "chinese": "幻觉",
+    "english": "illusion",
+    "soundmark": "/ɪˈluːʒən/"
+  },
+  {
+    "chinese": "迷信",
+    "english": "superstition",
+    "soundmark": "/ˌsuːpərˈstɪʃən/"
+  },
+  {
+    "chinese": "村里人传说那个幽灵已经在夜里消失无踪",
+    "english": "Villagers say the ghost has vanished in the night",
+    "soundmark": "/ˈvɪlɪdʒərz/ /seɪ/ /ðə/ /ɡoʊst/ /hæz/ /ˈvænɪʃt/ /ɪn/ /ðə/ /naɪt/",
+    "grammar": [
+      {
+        "text": "Villagers",
+        "role": "S",
+        "phonetic": "/ˈvɪlɪdʒərz/",
+        "chinese": ""
+      },
+      {
+        "text": "say",
+        "role": "V",
+        "phonetic": "/seɪ/",
+        "chinese": "说"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ghost",
+        "role": "S",
+        "phonetic": "/ɡoʊst/",
+        "chinese": "鬼"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "vanished",
+        "role": "V",
+        "phonetic": "/ˈvænɪʃt/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "没有人能解释那个幽灵是如何消失的",
+    "english": "No one can explain how the ghost disappeared",
+    "soundmark": "/noʊ/ /wʌn/ /kæn/ /ɪkˈspleɪn/ /haʊ/ /ðə/ /ɡoʊst/ /ˌdɪsəˈpɪrd/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "explain",
+        "role": "V",
+        "phonetic": "/ɪkˈspleɪn/",
+        "chinese": "解释"
+      },
+      {
+        "text": "how",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ghost",
+        "role": "S",
+        "phonetic": "/ɡoʊst/",
+        "chinese": "鬼"
+      },
+      {
+        "text": "disappeared",
+        "role": "V",
+        "phonetic": "/ˌdɪsəˈpɪrd/",
+        "chinese": "消失"
+      }
+    ]
+  },
+  {
+    "chinese": "那个闹鬼的房子里的幽灵被许多人声称亲眼看到过",
+    "english": "The ghost in the haunted house has been witnessed by many people",
+    "soundmark": "/ðə/ /ɡoʊst/ /ɪn/ /ðə/ /ˈhɔːntɪd/ /haʊs/ /hæz/ /bɪn/ /ˈwɪtnəst/ /baɪ/ /ˈmeni/ /ˈpiːpəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ghost",
+        "role": "S",
+        "phonetic": "/ɡoʊst/",
+        "chinese": "鬼"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "haunted",
+        "role": "A",
+        "phonetic": "/ˈhɔːntɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "house",
+        "role": "A",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "witnessed",
+        "role": "V",
+        "phonetic": "/ˈwɪtnəst/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "people",
+        "role": "A",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      }
+    ]
+  },
+  {
+    "chinese": "幽灵的死亡其实是传说的一部分",
+    "english": "The death of the ghost is actually part of the legend",
+    "soundmark": "/ðə/ /deθ/ /əv/ /ðə/ /ɡoʊst/ /ɪz/ /ˈæktʃuəli/ /pɑːrt/ /əv/ /ðə/ /ˈledʒənd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "death",
+        "role": "S",
+        "phonetic": "/deθ/",
+        "chinese": "死亡"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ghost",
+        "role": "O",
+        "phonetic": "/ɡoʊst/",
+        "chinese": "鬼"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "actually",
+        "role": "Adv",
+        "phonetic": "/ˈæktʃuəli/",
+        "chinese": "实际上"
+      },
+      {
+        "text": "part",
+        "role": "C",
+        "phonetic": "/pɑːrt/",
+        "chinese": "部分"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "legend",
+        "role": "O",
+        "phonetic": "/ˈledʒənd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "有些目击事件可能只是幻觉而已",
+    "english": "Some sightings may just be illusions",
+    "soundmark": "/sʌm/ /ˈsaɪtɪŋz/ /meɪ/ /dʒʌst/ /biː/ /ɪˈluːʒənz/",
+    "grammar": [
+      {
+        "text": "Some",
+        "role": "Det",
+        "phonetic": "/sʌm/",
+        "chinese": "一些"
+      },
+      {
+        "text": "sightings",
+        "role": "S",
+        "phonetic": "/ˈsaɪtɪŋz/",
+        "chinese": ""
+      },
+      {
+        "text": "may",
+        "role": "Aux",
+        "phonetic": "/meɪ/",
+        "chinese": "可以"
+      },
+      {
+        "text": "just",
+        "role": "Adv",
+        "phonetic": "/dʒʌst/",
+        "chinese": "刚刚/只是"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "illusions",
+        "role": "C",
+        "phonetic": "/ɪˈluːʒənz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "关于幽灵的迷信在很多文化中都有存在",
+    "english": "Superstitions about ghosts exist in many cultures",
+    "soundmark": "/ˌsuːpərˈstɪʃənz/ /əˈbaʊt/ /ɡoʊsts/ /ɪɡˈzɪst/ /ɪn/ /ˈmeni/ /ˈkʌltʃərz/",
+    "grammar": [
+      {
+        "text": "Superstitions",
+        "role": "S",
+        "phonetic": "/ˌsuːpərˈstɪʃənz/",
+        "chinese": ""
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "ghosts",
+        "role": "O",
+        "phonetic": "/ɡoʊsts/",
+        "chinese": "…们/复数(鬼)"
+      },
+      {
+        "text": "exist",
+        "role": "V",
+        "phonetic": "/ɪɡˈzɪst/",
+        "chinese": "存在"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "cultures",
+        "role": "O",
+        "phonetic": "/ˈkʌltʃərz/",
+        "chinese": "文化"
+      }
+    ]
+  },
+  {
+    "chinese": "尽管没有确凿证据很多人仍然相信幽灵的存在",
+    "english": "Despite the lack of proof many people still believe in ghosts",
+    "soundmark": "/dɪˈspaɪt/ /ðə/ /læk/ /əv/ /pruːf/ /ˈmeni/ /ˈpiːpəl/ /stɪl/ /bɪˈliːv/ /ɪn/ /ɡoʊsts/",
+    "grammar": [
+      {
+        "text": "Despite",
+        "role": "P",
+        "phonetic": "/dɪˈspaɪt/",
+        "chinese": "尽管"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "lack",
+        "role": "O",
+        "phonetic": "/læk/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "proof",
+        "role": "O",
+        "phonetic": "/pruːf/",
+        "chinese": ""
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "still",
+        "role": "Adv",
+        "phonetic": "/stɪl/",
+        "chinese": "仍然"
+      },
+      {
+        "text": "believe",
+        "role": "V",
+        "phonetic": "/bɪˈliːv/",
+        "chinese": "相信"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "ghosts",
+        "role": "O",
+        "phonetic": "/ɡoʊsts/",
+        "chinese": "…们/复数(鬼)"
+      }
+    ]
+  },
+  {
+    "chinese": "那个幽灵据说是几百年前死去的一个人",
+    "english": "The ghost is said to have been a person who died centuries ago",
+    "soundmark": "/ðə/ /ɡoʊst/ /ɪz/ /sed/ /tuː/ /hæv/ /bɪn/ /ə/ /ˈpɜːrsən/ /huː/ /daɪd/ /ˈsentʃəriz/ /əˈɡoʊ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ghost",
+        "role": "S",
+        "phonetic": "/ɡoʊst/",
+        "chinese": "鬼"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Lv",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "person",
+        "role": "C",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "died",
+        "role": "V",
+        "phonetic": "/daɪd/",
+        "chinese": "死"
+      },
+      {
+        "text": "centuries",
+        "role": "A",
+        "phonetic": "/ˈsentʃəriz/",
+        "chinese": "世纪"
+      },
+      {
+        "text": "ago",
+        "role": "Adv",
+        "phonetic": "/əˈɡoʊ/",
+        "chinese": "以前"
+      }
+    ]
+  },
+  {
+    "chinese": "关于这个幽灵消失的传说一直流传至今",
+    "english": "The legend about the ghost's disappearance has been passed down to this day",
+    "soundmark": "/ðə/ /ˈledʒənd/ /əˈbaʊt/ /ðə/ /ɡoʊsts/ /ˌdɪsəˈpɪrəns/ /hæz/ /bɪn/ /pæst/ /daʊn/ /tuː/ /ðɪs/ /deɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "legend",
+        "role": "S",
+        "phonetic": "/ˈledʒənd/",
+        "chinese": ""
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ghost's",
+        "role": "Det",
+        "phonetic": "/ɡoʊsts/",
+        "chinese": "鬼"
+      },
+      {
+        "text": "disappearance",
+        "role": "O",
+        "phonetic": "/ˌdɪsəˈpɪrəns/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "Aux",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "Aux",
+        "phonetic": "/bɪn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pæst/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "down",
+        "role": "Adv",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "目击者",
+    "english": "eyewitness",
+    "soundmark": "/ˈaɪˌwɪtnəs/"
+  },
+  {
+    "chinese": "闹鬼",
+    "english": "haunting",
+    "soundmark": "/ˈhɔːntɪŋ/"
+  },
+  {
+    "chinese": "迷信",
+    "english": "superstition",
+    "soundmark": "/ˌsuːpərˈstɪʃən/"
+  },
+  {
+    "chinese": "幻觉",
+    "english": "hallucination",
+    "soundmark": "/həˌluːsɪˈneɪʃən/"
+  },
+  {
+    "chinese": "传说",
+    "english": "myth",
+    "soundmark": "/mɪθ/"
+  },
+  {
+    "chinese": "消失",
+    "english": "disappear",
+    "soundmark": "/ˌdɪsəˈpɪr/"
+  },
+  {
+    "chinese": "流传",
+    "english": "spread",
+    "soundmark": "/spred/"
+  }
+]

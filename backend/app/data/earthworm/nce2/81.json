@@ -1,0 +1,202 @@
+[
+  {
+    "chinese": "逃跑",
+    "english": "escape",
+    "soundmark": "/ɪˈskeɪp/"
+  },
+  {
+    "chinese": "囚犯",
+    "english": "prisoner",
+    "soundmark": "/ˈprɪzənər/"
+  },
+  {
+    "chinese": "守卫",
+    "english": "guard",
+    "soundmark": "/ɡɑːrd/"
+  },
+  {
+    "chinese": "监狱",
+    "english": "prison",
+    "soundmark": "/ˈprɪzən/"
+  },
+  {
+    "chinese": "步枪",
+    "english": "rifle",
+    "soundmark": "/ˈraɪfəl/"
+  },
+  {
+    "chinese": "营地",
+    "english": "camp",
+    "soundmark": "/kæmp/"
+  },
+  {
+    "chinese": "制服",
+    "english": "uniform",
+    "soundmark": "/ˈjuːnɪfɔːrm/"
+  },
+  {
+    "chinese": "行进",
+    "english": "march",
+    "soundmark": "/mɑːrtʃ/"
+  },
+  {
+    "chinese": "翻过墙",
+    "english": "climb over the wall",
+    "soundmark": "/klaɪm ˈoʊvər ðə wɔːl/"
+  },
+  {
+    "chinese": "跳进河里",
+    "english": "jump into the river",
+    "soundmark": "/dʒʌmp ˈɪntuː ðə ˈrɪvər/"
+  },
+  {
+    "chinese": "躲在树后",
+    "english": "hide behind the tree",
+    "soundmark": "/haɪd bɪˈhaɪnd ðə triː/"
+  },
+  {
+    "chinese": "向森林跑去",
+    "english": "run towards the forest",
+    "soundmark": "/rʌn təˈwɔːrdz ðə ˈfɒrɪst/"
+  },
+  {
+    "chinese": "囚犯翻过墙逃跑了",
+    "english": "The prisoner climbed over the wall and escaped",
+    "soundmark": "/ðə ˈprɪzənər klaɪmd ˈoʊvər ðə wɔːl ænd ɪˈskeɪpt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "prisoner",
+        "role": "S",
+        "phonetic": "/ˈprɪzənər/",
+        "chinese": ""
+      },
+      {
+        "text": "climbed",
+        "role": "V",
+        "phonetic": "/klaɪmd/",
+        "chinese": "爬"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wall",
+        "role": "A",
+        "phonetic": "/wɔːl/",
+        "chinese": "墙"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "escaped",
+        "role": "V",
+        "phonetic": "/ɪˈskeɪpt/",
+        "chinese": "逃离"
+      }
+    ]
+  },
+  {
+    "chinese": "他们穿过森林向边境跑去",
+    "english": "They ran through the forest toward the border",
+    "soundmark": "/ðeɪ ræn θruː ðə ˈfɒrɪst təˈwɔːrdz ðə ˈbɔːrdər/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "ran",
+        "role": "V",
+        "phonetic": "/ræn/",
+        "chinese": "跑（过去式）"
+      },
+      {
+        "text": "through",
+        "role": "P",
+        "phonetic": "/θruː/",
+        "chinese": "通过/穿过"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "forest",
+        "role": "A",
+        "phonetic": "/ˈfɒrɪst/",
+        "chinese": "森林"
+      },
+      {
+        "text": "toward",
+        "role": "P",
+        "phonetic": "/təˈwɔːrdz/",
+        "chinese": "朝向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "border",
+        "role": "A",
+        "phonetic": "/ˈbɔːrdər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "逃跑",
+    "english": "escape",
+    "soundmark": "/ɪˈskeɪp/"
+  },
+  {
+    "chinese": "囚犯",
+    "english": "prisoner",
+    "soundmark": "/ˈprɪzənər/"
+  },
+  {
+    "chinese": "守卫",
+    "english": "guard",
+    "soundmark": "/ɡɑːrd/"
+  },
+  {
+    "chinese": "在……上方",
+    "english": "over",
+    "soundmark": "/ˈoʊvər/"
+  },
+  {
+    "chinese": "穿过",
+    "english": "through",
+    "soundmark": "/θruː/"
+  },
+  {
+    "chinese": "向……",
+    "english": "toward",
+    "soundmark": "/təˈwɔːrdz/"
+  }
+]

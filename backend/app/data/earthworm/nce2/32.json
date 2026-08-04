@@ -1,0 +1,627 @@
+[
+  {
+    "chinese": "购物",
+    "english": "shopping",
+    "soundmark": "/ˈʃɑːpɪŋ/"
+  },
+  {
+    "chinese": "容易的",
+    "english": "easy",
+    "soundmark": "/ˈiːzi/"
+  },
+  {
+    "chinese": "比较",
+    "english": "compare",
+    "soundmark": "/kəmˈper/"
+  },
+  {
+    "chinese": "昂贵的",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "便宜的",
+    "english": "cheap",
+    "soundmark": "/tʃiːp/"
+  },
+  {
+    "chinese": "诱惑",
+    "english": "temptation",
+    "soundmark": "/tempˈteɪʃn/"
+  },
+  {
+    "chinese": "物品",
+    "english": "article",
+    "soundmark": "/ˈɑːrtɪkl/"
+  },
+  {
+    "chinese": "包装",
+    "english": "wrap",
+    "soundmark": "/ræp/"
+  },
+  {
+    "chinese": "诚实的",
+    "english": "honest",
+    "soundmark": "/ˈɑːnɪst/"
+  },
+  {
+    "chinese": "逮捕",
+    "english": "arrest",
+    "soundmark": "/əˈrest/"
+  },
+  {
+    "chinese": "更贵",
+    "english": "more expensive",
+    "soundmark": "/mɔːr ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "更容易",
+    "english": "easier",
+    "soundmark": "/ˈiːziər/"
+  },
+  {
+    "chinese": "没那么贵",
+    "english": "less expensive",
+    "soundmark": "/les ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "偷东西",
+    "english": "steal things",
+    "soundmark": "/stiːl θɪŋz/"
+  },
+  {
+    "chinese": "这家店比那家更便宜。",
+    "english": "This shop is cheaper than that one",
+    "soundmark": "/ðɪs ʃɑːp ɪz ˈtʃiːpər ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This shop",
+        "role": "S",
+        "phonetic": "/ðɪs ʃɑːp/",
+        "chinese": "这个/商店"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "cheaper",
+        "role": "C",
+        "phonetic": "/ˈtʃiːpər/",
+        "chinese": "更…的/…者(便宜的)"
+      },
+      {
+        "text": "than that one",
+        "role": "A",
+        "phonetic": "/ðæn ðæt wʌn/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "购物比以前容易多了。",
+    "english": "Shopping is much easier than before",
+    "soundmark": "/ˈʃɑːpɪŋ ɪz mʌtʃ ˈiːziər ðæn bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "Shopping",
+        "role": "S",
+        "phonetic": "/ˈʃɑːpɪŋ/",
+        "chinese": "商店"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "much easier",
+        "role": "C",
+        "phonetic": "/mʌtʃ ˈiːziər/",
+        "chinese": "很多"
+      },
+      {
+        "text": "than before",
+        "role": "A",
+        "phonetic": "/ðæn bɪˈfɔːr/",
+        "chinese": "比之前"
+      }
+    ]
+  },
+  {
+    "chinese": "这本书比那本书更有趣。",
+    "english": "This book is more interesting than that one",
+    "soundmark": "/ðɪs bʊk ɪz mɔːr ˈɪntrəstɪŋ ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This book",
+        "role": "S",
+        "phonetic": "/ðɪs bʊk/",
+        "chinese": "这个/预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more interesting",
+        "role": "C",
+        "phonetic": "/mɔːr ˈɪntrəstɪŋ/",
+        "chinese": "更多/有趣的"
+      },
+      {
+        "text": "than that one",
+        "role": "A",
+        "phonetic": "/ðæn ðæt wʌn/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "这衣服比那件便宜不了多少。",
+    "english": "This dress is not much cheaper than that one",
+    "soundmark": "/ðɪs dres ɪz nɑːt mʌtʃ ˈtʃiːpər ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This dress",
+        "role": "S",
+        "phonetic": "/ðɪs dres/",
+        "chinese": "这个/穿衣"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not much cheaper",
+        "role": "C",
+        "phonetic": "/nɑːt mʌtʃ ˈtʃiːpər/",
+        "chinese": "不/很多/更…的/…者(便宜的)"
+      },
+      {
+        "text": "than that one",
+        "role": "A",
+        "phonetic": "/ðæn ðæt wʌn/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "今天比昨天暖和。",
+    "english": "Today is warmer than yesterday",
+    "soundmark": "/təˈdeɪ ɪz ˈwɔːrmər ðæn ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "Today",
+        "role": "S",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "warmer",
+        "role": "C",
+        "phonetic": "/ˈwɔːrmər/",
+        "chinese": "更…的/…者(温暖的)"
+      },
+      {
+        "text": "than yesterday",
+        "role": "A",
+        "phonetic": "/ðæn ˈjestərdeɪ/",
+        "chinese": "比/昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "她比我跑得快。",
+    "english": "She runs faster than me",
+    "soundmark": "/ʃiː rʌnz ˈfæstər ðæn miː/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "runs",
+        "role": "V",
+        "phonetic": "/rʌnz/",
+        "chinese": "跑"
+      },
+      {
+        "text": "faster",
+        "role": "A",
+        "phonetic": "/ˈfæstər/",
+        "chinese": "更快地"
+      },
+      {
+        "text": "than me",
+        "role": "A",
+        "phonetic": "/ðæn miː/",
+        "chinese": "比我"
+      }
+    ]
+  },
+  {
+    "chinese": "他是班上最高的男孩。",
+    "english": "He is the tallest boy in the class",
+    "soundmark": "/hiː ɪz ðə ˈtɔːlɪst bɔɪ ɪn ðə klæs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the tallest boy",
+        "role": "C",
+        "phonetic": "/ðə ˈtɔːlɪst bɔɪ/",
+        "chinese": "这个/那个/最…的(高的)/男孩"
+      },
+      {
+        "text": "in the class",
+        "role": "A",
+        "phonetic": "/ɪn ðə klæs/",
+        "chinese": "在班上"
+      }
+    ]
+  },
+  {
+    "chinese": "你买东西没有以前精明了。",
+    "english": "You are not as smart as before when shopping",
+    "soundmark": "/juː ɑːr nɑːt æz smɑːrt æz bɪˈfɔːr wen ˈʃɑːpɪŋ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are not",
+        "role": "Lv",
+        "phonetic": "/ɑːr nɑːt/",
+        "chinese": "是/不"
+      },
+      {
+        "text": "as smart as before",
+        "role": "C",
+        "phonetic": "/æz smɑːrt æz bɪˈfɔːr/",
+        "chinese": "当…时/作为/因为/聪明的/当…时/作为/因为/在…之前"
+      },
+      {
+        "text": "when shopping",
+        "role": "A",
+        "phonetic": "/wen ˈʃɑːpɪŋ/",
+        "chinese": "什么时候/正在…(商店)"
+      }
+    ]
+  },
+  {
+    "chinese": "她和她姐姐一样漂亮。",
+    "english": "She is as beautiful as her sister",
+    "soundmark": "/ʃiː ɪz æz ˈbjuːtɪfl æz hɜːr ˈsɪstər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "as beautiful as",
+        "role": "C",
+        "phonetic": "/æz ˈbjuːtɪfl æz/",
+        "chinese": "当…时/作为/因为/美丽的/当…时/作为/因为"
+      },
+      {
+        "text": "her sister",
+        "role": "O",
+        "phonetic": "/hɜːr ˈsɪstər/",
+        "chinese": "她/她的/姐妹"
+      }
+    ]
+  },
+  {
+    "chinese": "网购不比去实体店难。",
+    "english": "Online shopping is not more difficult than going to a store",
+    "soundmark": "/ˌɑːnˈlaɪn ˈʃɑːpɪŋ ɪz nɑːt mɔːr ˈdɪfɪkəlt ðæn ˈɡoʊɪŋ tuː ə stɔːr/",
+    "grammar": [
+      {
+        "text": "Online shopping",
+        "role": "S",
+        "phonetic": "/ˌɑːnˈlaɪn ˈʃɑːpɪŋ/",
+        "chinese": "正在…(商店)"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not more difficult",
+        "role": "C",
+        "phonetic": "/nɑːt mɔːr ˈdɪfɪkəlt/",
+        "chinese": "不/更多/困难的"
+      },
+      {
+        "text": "than going to a store",
+        "role": "A",
+        "phonetic": "/ðæn ˈɡoʊɪŋ tuː ə stɔːr/",
+        "chinese": "比/到/向/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "数字支付让购物变得更容易。",
+    "english": "Digital payment makes shopping easier",
+    "soundmark": "/ˈdɪdʒɪtl ˈpeɪmənt meɪks ˈʃɑːpɪŋ ˈiːziər/",
+    "grammar": [
+      {
+        "text": "Digital payment",
+        "role": "S",
+        "phonetic": "/ˈdɪdʒɪtl ˈpeɪmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "makes",
+        "role": "V",
+        "phonetic": "/meɪks/",
+        "chinese": "做/让"
+      },
+      {
+        "text": "shopping",
+        "role": "O",
+        "phonetic": "/ˈʃɑːpɪŋ/",
+        "chinese": "商店"
+      },
+      {
+        "text": "easier",
+        "role": "C",
+        "phonetic": "/ˈiːziər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "你应该更小心一点。",
+    "english": "You should be more careful",
+    "soundmark": "/juː ʃʊd biː mɔːr ˈkerfl/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "more careful",
+        "role": "C",
+        "phonetic": "/mɔːr ˈkerfl/",
+        "chinese": "更多/小心的"
+      }
+    ]
+  },
+  {
+    "chinese": "他在偷东西时被抓住了。",
+    "english": "He was caught while he was stealing things",
+    "soundmark": "/hiː wʌz kɔːt waɪl hiː wʌz ˈstiːlɪŋ θɪŋz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was caught",
+        "role": "V",
+        "phonetic": "/wʌz kɔːt/",
+        "chinese": "是（过去式）/抓住（过去式）"
+      },
+      {
+        "text": "while he was stealing things",
+        "role": "A",
+        "phonetic": "/waɪl hiː wʌz ˈstiːlɪŋ θɪŋz/",
+        "chinese": "当…时/而/他/是（过去式）/偷/东西/事情"
+      }
+    ]
+  },
+  {
+    "chinese": "人们没有以前那么诚实了。",
+    "english": "People are not as honest as they used to be",
+    "soundmark": "/ˈpiːpl ɑːr nɑːt æz ˈɑːnɪst æz ðeɪ juːst tuː biː/",
+    "grammar": [
+      {
+        "text": "People",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "are not",
+        "role": "Lv",
+        "phonetic": "/ɑːr nɑːt/",
+        "chinese": "是/不"
+      },
+      {
+        "text": "as honest as they used to be",
+        "role": "C",
+        "phonetic": "/æz ˈɑːnɪst æz ðeɪ juːst tuː biː/",
+        "chinese": "当…时/作为/因为/诚实的/当…时/作为/因为/他们/用过的/习惯的/到/向/是"
+      }
+    ]
+  },
+  {
+    "chinese": "她觉得偷窃比付钱更容易。",
+    "english": "She thought stealing was easier than paying",
+    "soundmark": "/ʃiː θɔːt ˈstiːlɪŋ wʌz ˈiːziər ðæn ˈpeɪɪŋ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "thought",
+        "role": "V",
+        "phonetic": "/θɔːt/",
+        "chinese": "想/认为（过去式）"
+      },
+      {
+        "text": "stealing was easier than paying",
+        "role": "O",
+        "phonetic": "/ˈstiːlɪŋ wʌz ˈiːziər ðæn ˈpeɪɪŋ/",
+        "chinese": "偷/是（过去式）/比/付钱"
+      }
+    ]
+  },
+  {
+    "chinese": "购物变得更容易了因为技术进步了。",
+    "english": "Shopping has become easier because technology has advanced",
+    "soundmark": "/ˈʃɑːpɪŋ hæz bɪˈkʌm ˈiːziər bɪˈkɔːz tekˈnɑːlədʒi hæz ədˈvænst/",
+    "grammar": [
+      {
+        "text": "Shopping",
+        "role": "S",
+        "phonetic": "/ˈʃɑːpɪŋ/",
+        "chinese": "商店"
+      },
+      {
+        "text": "has become",
+        "role": "V",
+        "phonetic": "/hæz bɪˈkʌm/",
+        "chinese": "有/助动词/变成"
+      },
+      {
+        "text": "easier",
+        "role": "C",
+        "phonetic": "/ˈiːziər/",
+        "chinese": ""
+      },
+      {
+        "text": "because technology has advanced",
+        "role": "A",
+        "phonetic": "/bɪˈkɔːz tekˈnɑːlədʒi hæz ədˈvænst/",
+        "chinese": "因为/技术/有/助动词"
+      }
+    ]
+  },
+  {
+    "chinese": "你买东西越少花的钱就越少。",
+    "english": "The less you buy the less you spend",
+    "soundmark": "/ðə les juː baɪ ðə les juː spend/",
+    "grammar": [
+      {
+        "text": "The less",
+        "role": "A",
+        "phonetic": "/ðə les/",
+        "chinese": "这个/那个/更少"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "the less",
+        "role": "A",
+        "phonetic": "/ðə les/",
+        "chinese": "这个/那个/更少"
+      },
+      {
+        "text": "you spend",
+        "role": "V",
+        "phonetic": "/juː spend/",
+        "chinese": "你/你们/花费"
+      }
+    ]
+  },
+  {
+    "chinese": "网店",
+    "english": "online store",
+    "soundmark": "/ˌɑːnˈlaɪn stɔːr/"
+  },
+  {
+    "chinese": "偷窃",
+    "english": "steal",
+    "soundmark": "/stiːl/"
+  },
+  {
+    "chinese": "付钱",
+    "english": "pay",
+    "soundmark": "/peɪ/"
+  },
+  {
+    "chinese": "简单的",
+    "english": "simple",
+    "soundmark": "/ˈsɪmpl/"
+  },
+  {
+    "chinese": "数字的",
+    "english": "digital",
+    "soundmark": "/ˈdɪdʒɪtl/"
+  },
+  {
+    "chinese": "技术",
+    "english": "technology",
+    "soundmark": "/tekˈnɑːlədʒi/"
+  },
+  {
+    "chinese": "支付",
+    "english": "payment",
+    "soundmark": "/ˈpeɪmənt/"
+  },
+  {
+    "chinese": "被抓",
+    "english": "was caught",
+    "soundmark": "/wʌz kɔːt/"
+  }
+]

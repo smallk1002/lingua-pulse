@@ -1,0 +1,487 @@
+[
+  {
+    "chinese": "快的",
+    "english": "quick",
+    "soundmark": "/kwɪk/"
+  },
+  {
+    "chinese": "工作",
+    "english": "work",
+    "soundmark": "/wɜːrk/"
+  },
+  {
+    "chinese": "车站",
+    "english": "station",
+    "soundmark": "/ˈsteɪʃn/"
+  },
+  {
+    "chinese": "被偷的",
+    "english": "stolen",
+    "soundmark": "/ˈstoʊlən/"
+  },
+  {
+    "chinese": "当地的",
+    "english": "local",
+    "soundmark": "/ˈloʊkl/"
+  },
+  {
+    "chinese": "想知道",
+    "english": "wonder",
+    "soundmark": "/ˈwʌndər/"
+  },
+  {
+    "chinese": "期待的",
+    "english": "expect",
+    "soundmark": "/ɪkˈspekt/"
+  },
+  {
+    "chinese": "接走",
+    "english": "pick up",
+    "soundmark": "/pɪk ʌp/"
+  },
+  {
+    "chinese": "博物馆",
+    "english": "museum",
+    "soundmark": "/mjuːˈziːəm/"
+  },
+  {
+    "chinese": "令人惊讶的",
+    "english": "surprising",
+    "soundmark": "/sərˈpraɪzɪŋ/"
+  },
+  {
+    "chinese": "被偷了",
+    "english": "was stolen",
+    "soundmark": "/wʌz ˈstoʊlən/"
+  },
+  {
+    "chinese": "被找到了",
+    "english": "was found",
+    "soundmark": "/wʌz faʊnd/"
+  },
+  {
+    "chinese": "被接走",
+    "english": "was picked up",
+    "soundmark": "/wʌz pɪkt ʌp/"
+  },
+  {
+    "chinese": "被逮捕",
+    "english": "was arrested",
+    "soundmark": "/wʌz əˈrestɪd/"
+  },
+  {
+    "chinese": "我的自行车被偷了。",
+    "english": "My bicycle was stolen",
+    "soundmark": "/maɪ ˈbaɪsɪkl wʌz ˈstoʊlən/",
+    "grammar": [
+      {
+        "text": "My bicycle",
+        "role": "S",
+        "phonetic": "/maɪ ˈbaɪsɪkl/",
+        "chinese": "我的/自行车"
+      },
+      {
+        "text": "was stolen",
+        "role": "V",
+        "phonetic": "/wʌz ˈstoʊlən/",
+        "chinese": "是（过去式）/偷（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "小偷被警察抓住了。",
+    "english": "The thief was caught by the police",
+    "soundmark": "/ðə θiːf wʌz kɔːt baɪ ðə pəˈliːs/",
+    "grammar": [
+      {
+        "text": "The thief",
+        "role": "S",
+        "phonetic": "/ðə θiːf/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "was caught",
+        "role": "V",
+        "phonetic": "/wʌz kɔːt/",
+        "chinese": "是（过去式）/抓住（过去式）"
+      },
+      {
+        "text": "by the police",
+        "role": "A",
+        "phonetic": "/baɪ ðə pəˈliːs/",
+        "chinese": "通过/被/在…旁/这个/那个/警察"
+      }
+    ]
+  },
+  {
+    "chinese": "这本书是他写的。",
+    "english": "This book was written by him",
+    "soundmark": "/ðɪs bʊk wʌz ˈrɪtn baɪ hɪm/",
+    "grammar": [
+      {
+        "text": "This book",
+        "role": "S",
+        "phonetic": "/ðɪs bʊk/",
+        "chinese": "这个/预订/书"
+      },
+      {
+        "text": "was written",
+        "role": "V",
+        "phonetic": "/wʌz ˈrɪtn/",
+        "chinese": "是（过去式）/写（过去分词）"
+      },
+      {
+        "text": "by him",
+        "role": "A",
+        "phonetic": "/baɪ hɪm/",
+        "chinese": "通过/被/在…旁/他"
+      }
+    ]
+  },
+  {
+    "chinese": "那封信是昨天寄出的。",
+    "english": "The letter was sent yesterday",
+    "soundmark": "/ðə ˈletər wʌz sent ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "The letter",
+        "role": "S",
+        "phonetic": "/ðə ˈletər/",
+        "chinese": "这个/那个/信/字母"
+      },
+      {
+        "text": "was sent",
+        "role": "V",
+        "phonetic": "/wʌz sent/",
+        "chinese": "是（过去式）/寄/发送（过去式）"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "这些苹果是今天早上摘的。",
+    "english": "These apples were picked this morning",
+    "soundmark": "/ðiːz ˈæplz wɜːr pɪkt ðɪs ˈmɔːrnɪŋ/",
+    "grammar": [
+      {
+        "text": "These apples",
+        "role": "S",
+        "phonetic": "/ðiːz ˈæplz/",
+        "chinese": "这些/…们/复数(苹果)"
+      },
+      {
+        "text": "were picked",
+        "role": "V",
+        "phonetic": "/wɜːr pɪkt/",
+        "chinese": "是（过去式）/摘/捡（过去式）"
+      },
+      {
+        "text": "this morning",
+        "role": "A",
+        "phonetic": "/ðɪs ˈmɔːrnɪŋ/",
+        "chinese": "今天早上"
+      }
+    ]
+  },
+  {
+    "chinese": "窗户是被风打破的。",
+    "english": "The window was broken by the wind",
+    "soundmark": "/ðə ˈwɪndoʊ wʌz ˈbroʊkən baɪ ðə wɪnd/",
+    "grammar": [
+      {
+        "text": "The window",
+        "role": "S",
+        "phonetic": "/ðə ˈwɪndoʊ/",
+        "chinese": "这个/那个/窗户"
+      },
+      {
+        "text": "was broken",
+        "role": "V",
+        "phonetic": "/wʌz ˈbroʊkən/",
+        "chinese": "是（过去式）/破碎的"
+      },
+      {
+        "text": "by the wind",
+        "role": "A",
+        "phonetic": "/baɪ ðə wɪnd/",
+        "chinese": "通过/被/在…旁/这个/那个/风"
+      }
+    ]
+  },
+  {
+    "chinese": "他被告知要等在外面。",
+    "english": "He was told to wait outside",
+    "soundmark": "/hiː wʌz toʊld tuː weɪt ˌaʊtˈsaɪd/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was told",
+        "role": "V",
+        "phonetic": "/wʌz toʊld/",
+        "chinese": "是（过去式）/告诉（过去式）"
+      },
+      {
+        "text": "to wait outside",
+        "role": "A",
+        "phonetic": "/tuː weɪt ˌaʊtˈsaɪd/",
+        "chinese": "到/向/等/在…外面"
+      }
+    ]
+  },
+  {
+    "chinese": "那栋楼是去年建的。",
+    "english": "That building was built last year",
+    "soundmark": "/ðæt ˈbɪldɪŋ wʌz bɪlt læst jɪr/",
+    "grammar": [
+      {
+        "text": "That building",
+        "role": "S",
+        "phonetic": "/ðæt ˈbɪldɪŋ/",
+        "chinese": "那个/建造"
+      },
+      {
+        "text": "was built",
+        "role": "V",
+        "phonetic": "/wʌz bɪlt/",
+        "chinese": "是（过去式）/建造的"
+      },
+      {
+        "text": "last year",
+        "role": "A",
+        "phonetic": "/læst jɪr/",
+        "chinese": "去年"
+      }
+    ]
+  },
+  {
+    "chinese": "他的自行车在车站被找到了。",
+    "english": "His bicycle was found at the station",
+    "soundmark": "/hɪz ˈbaɪsɪkl wʌz faʊnd æt ðə ˈsteɪʃn/",
+    "grammar": [
+      {
+        "text": "His bicycle",
+        "role": "S",
+        "phonetic": "/hɪz ˈbaɪsɪkl/",
+        "chinese": "他的/自行车"
+      },
+      {
+        "text": "was found",
+        "role": "V",
+        "phonetic": "/wʌz faʊnd/",
+        "chinese": "是（过去式）/找到的"
+      },
+      {
+        "text": "at the station",
+        "role": "A",
+        "phonetic": "/æt ðə ˈsteɪʃn/",
+        "chinese": "在/这个/那个/车站"
+      }
+    ]
+  },
+  {
+    "chinese": "这个问题在会上被讨论过。",
+    "english": "The problem was discussed at the meeting",
+    "soundmark": "/ðə ˈprɑːbləm wʌz dɪˈskʌst æt ðə ˈmiːtɪŋ/",
+    "grammar": [
+      {
+        "text": "The problem",
+        "role": "S",
+        "phonetic": "/ðə ˈprɑːbləm/",
+        "chinese": "这个/那个/问题/难题"
+      },
+      {
+        "text": "was discussed",
+        "role": "V",
+        "phonetic": "/wʌz dɪˈskʌst/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "at the meeting",
+        "role": "A",
+        "phonetic": "/æt ðə ˈmiːtɪŋ/",
+        "chinese": "在/这个/那个/会议"
+      }
+    ]
+  },
+  {
+    "chinese": "他还没被告知消息。",
+    "english": "He has not been told the news yet",
+    "soundmark": "/hiː hæz nɑːt biːn toʊld ðə nuːz jet/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has not been told",
+        "role": "V",
+        "phonetic": "/hæz nɑːt biːn toʊld/",
+        "chinese": "有/助动词/不/是（过去分词）/告诉（过去式）"
+      },
+      {
+        "text": "the news",
+        "role": "O",
+        "phonetic": "/ðə nuːz/",
+        "chinese": "这个/那个/新闻"
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "这些花每天都要浇水。",
+    "english": "These flowers are watered every day",
+    "soundmark": "/ðiːz ˈflaʊərz ɑːr ˈwɔːtərd ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "These flowers",
+        "role": "S",
+        "phonetic": "/ðiːz ˈflaʊərz/",
+        "chinese": "这些/…们/复数(花)"
+      },
+      {
+        "text": "are watered",
+        "role": "V",
+        "phonetic": "/ɑːr ˈwɔːtərd/",
+        "chinese": "是/水"
+      },
+      {
+        "text": "every day",
+        "role": "A",
+        "phonetic": "/ˈevri deɪ/",
+        "chinese": "每天"
+      }
+    ]
+  },
+  {
+    "chinese": "比赛因下雨被取消了。",
+    "english": "The match was cancelled because of the rain",
+    "soundmark": "/ðə mætʃ wʌz ˈkænsld bɪˈkɔːz əv ðə reɪn/",
+    "grammar": [
+      {
+        "text": "The match",
+        "role": "S",
+        "phonetic": "/ðə mætʃ/",
+        "chinese": "这个/那个/火柴/比赛"
+      },
+      {
+        "text": "was cancelled",
+        "role": "V",
+        "phonetic": "/wʌz ˈkænsld/",
+        "chinese": "是（过去式）/取消"
+      },
+      {
+        "text": "because of the rain",
+        "role": "A",
+        "phonetic": "/bɪˈkɔːz əv ðə reɪn/",
+        "chinese": "因为/…的/这个/那个/雨"
+      }
+    ]
+  },
+  {
+    "chinese": "警察被告知这起盗窃案后很快就到了。",
+    "english": "The police arrived soon after they were told about the theft",
+    "soundmark": "/ðə pəˈliːs əˈraɪvd suːn ˈæftər ðeɪ wɜːr toʊld əˈbaʊt ðə θeft/",
+    "grammar": [
+      {
+        "text": "The police",
+        "role": "S",
+        "phonetic": "/ðə pəˈliːs/",
+        "chinese": "这个/那个/警察"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "soon after they were told about the theft",
+        "role": "A",
+        "phonetic": "/suːn ˈæftər ðeɪ wɜːr toʊld əˈbaʊt ðə θeft/",
+        "chinese": "不久/在…之后/他们/是（过去式）/告诉（过去式）/关于/大约/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "没人知道他的车是怎么被找到的。",
+    "english": "No one knows how his car was found",
+    "soundmark": "/noʊ wʌn noʊz haʊ hɪz kɑːr wʌz faʊnd/",
+    "grammar": [
+      {
+        "text": "No one",
+        "role": "S",
+        "phonetic": "/noʊ wʌn/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "knows",
+        "role": "V",
+        "phonetic": "/noʊz/",
+        "chinese": "知道"
+      },
+      {
+        "text": "how his car was found",
+        "role": "O",
+        "phonetic": "/haʊ hɪz kɑːr wʌz faʊnd/",
+        "chinese": "怎么/他的/汽车/是（过去式）/找到的"
+      }
+    ]
+  },
+  {
+    "chinese": "小偷",
+    "english": "thief",
+    "soundmark": "/θiːf/"
+  },
+  {
+    "chinese": "盗窃",
+    "english": "theft",
+    "soundmark": "/θeft/"
+  },
+  {
+    "chinese": "取消",
+    "english": "cancel",
+    "soundmark": "/ˈkænsl/"
+  },
+  {
+    "chinese": "讨论",
+    "english": "discuss",
+    "soundmark": "/dɪˈskʌs/"
+  },
+  {
+    "chinese": "打破",
+    "english": "break",
+    "soundmark": "/breɪk/"
+  },
+  {
+    "chinese": "建造",
+    "english": "build",
+    "soundmark": "/bɪld/"
+  },
+  {
+    "chinese": "浇水",
+    "english": "water",
+    "soundmark": "/ˈwɔːtər/"
+  },
+  {
+    "chinese": "消息",
+    "english": "news",
+    "soundmark": "/nuːz/"
+  }
+]

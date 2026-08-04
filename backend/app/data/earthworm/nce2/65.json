@@ -1,0 +1,587 @@
+[
+  {
+    "chinese": "大象(elephant)",
+    "english": "elephant",
+    "soundmark": "/ˈelɪfənt/"
+  },
+  {
+    "chinese": "警察(police)",
+    "english": "police",
+    "soundmark": "/pəˈliːs/"
+  },
+  {
+    "chinese": "马戏团(circus)",
+    "english": "circus",
+    "soundmark": "/ˈsɜːrkəs/"
+  },
+  {
+    "chinese": "训练员(trainer)",
+    "english": "trainer",
+    "soundmark": "/ˈtreɪnər/"
+  },
+  {
+    "chinese": "街道(street)",
+    "english": "street",
+    "soundmark": "/striːt/"
+  },
+  {
+    "chinese": "交通(traffic)",
+    "english": "traffic",
+    "soundmark": "/ˈtræfɪk/"
+  },
+  {
+    "chinese": "体重(weight)",
+    "english": "weight",
+    "soundmark": "/weɪt/"
+  },
+  {
+    "chinese": "应该(should)",
+    "english": "should",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "chinese": "应当(ought to)",
+    "english": "ought to",
+    "soundmark": "/ɔːt tuː/"
+  },
+  {
+    "chinese": "过街",
+    "english": "cross the street",
+    "soundmark": "/krɒs ðə striːt/"
+  },
+  {
+    "chinese": "阻挡交通",
+    "english": "hold up the traffic",
+    "soundmark": "/hoʊld ʌp ðə ˈtræfɪk/"
+  },
+  {
+    "chinese": "把象带走",
+    "english": "take the elephant away",
+    "soundmark": "/teɪk ði ˈelɪfənt əˈweɪ/"
+  },
+  {
+    "chinese": "你应该早点出发",
+    "english": "You should leave earlier",
+    "soundmark": "/juː ʃʊd liːv ˈɜːrliər/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "leave",
+        "role": "V",
+        "phonetic": "/liːv/",
+        "chinese": "离开"
+      },
+      {
+        "text": "earlier",
+        "role": "A",
+        "phonetic": "/ˈɜːrliər/",
+        "chinese": "更早/之前"
+      }
+    ]
+  },
+  {
+    "chinese": "你应当多喝些水",
+    "english": "You ought to drink more water",
+    "soundmark": "/juː ɔːt tuː drɪŋk mɔːr ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ought",
+        "role": "V",
+        "phonetic": "/ɔːt/",
+        "chinese": "应该"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "drink",
+        "role": "V",
+        "phonetic": "/drɪŋk/",
+        "chinese": "喝/饮料"
+      },
+      {
+        "text": "more",
+        "role": "Det",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "water",
+        "role": "O",
+        "phonetic": "/ˈwɔːtər/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "你不应该对父母那样说话",
+    "english": "You should not talk to your parents like that",
+    "soundmark": "/juː ʃʊd nɒt tɔːk tuː jɔːr ˈperənts laɪk ðæt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "talk",
+        "role": "V",
+        "phonetic": "/tɔːk/",
+        "chinese": "谈话"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "parents",
+        "role": "O",
+        "phonetic": "/ˈperənts/",
+        "chinese": "父母"
+      },
+      {
+        "text": "like",
+        "role": "P",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我们应该帮助那些需要帮助的人",
+    "english": "We should help those who are in need",
+    "soundmark": "/wiː ʃʊd help ðoʊz huː ɑːr ɪn niːd/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "help",
+        "role": "V",
+        "phonetic": "/help/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "those",
+        "role": "O",
+        "phonetic": "/ðoʊz/",
+        "chinese": "那些"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "need",
+        "role": "A",
+        "phonetic": "/niːd/",
+        "chinese": "需要"
+      }
+    ]
+  },
+  {
+    "chinese": "你应当为你的行为道歉",
+    "english": "You ought to apologize for your behavior",
+    "soundmark": "/juː ɔːt tuː əˈpɒlədʒaɪz fɔːr jɔːr bɪˈheɪvjər/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ought",
+        "role": "V",
+        "phonetic": "/ɔːt/",
+        "chinese": "应该"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "apologize",
+        "role": "V",
+        "phonetic": "/əˈpɒlədʒaɪz/",
+        "chinese": "道歉"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "behavior",
+        "role": "A",
+        "phonetic": "/bɪˈheɪvjər/",
+        "chinese": "行为"
+      }
+    ]
+  },
+  {
+    "chinese": "我认为你不应该接受那份工作",
+    "english": "I don't think you should accept that job",
+    "soundmark": "/aɪ doʊnt θɪŋk juː ʃʊd əkˈsept ðæt dʒɒb/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "don't",
+        "role": "V",
+        "phonetic": "/doʊnt/",
+        "chinese": "不"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "accept",
+        "role": "V",
+        "phonetic": "/əkˈsept/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "job",
+        "role": "O",
+        "phonetic": "/dʒɒb/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "我们应该每天锻炼来保持健康",
+    "english": "We ought to exercise every day to stay healthy",
+    "soundmark": "/wiː ɔːt tuː ˈeksərsaɪz ˈevri deɪ tuː steɪ ˈhelθi/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "ought",
+        "role": "V",
+        "phonetic": "/ɔːt/",
+        "chinese": "应该"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "exercise",
+        "role": "V",
+        "phonetic": "/ˈeksərsaɪz/",
+        "chinese": "锻炼"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "stay",
+        "role": "V",
+        "phonetic": "/steɪ/",
+        "chinese": "停留/保持"
+      },
+      {
+        "text": "healthy",
+        "role": "C",
+        "phonetic": "/ˈhelθi/",
+        "chinese": "健康的"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该告诉我你要迟到了",
+    "english": "You should have told me you would be late",
+    "soundmark": "/juː ʃʊd hæv toʊld miː juː wʊd biː leɪt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      }
+    ]
+  },
+  {
+    "chinese": "你应当准时这里不允许迟到",
+    "english": "You ought to be on time being late is not allowed here",
+    "soundmark": "/juː ɔːt tuː biː ɒn taɪm ˈbiːɪŋ leɪt ɪz nɒt əˈlaʊd hɪr/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "ought",
+        "role": "V",
+        "phonetic": "/ɔːt/",
+        "chinese": "应该"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "being",
+        "role": "S",
+        "phonetic": "/ˈbiːɪŋ/",
+        "chinese": "是（进行时）"
+      },
+      {
+        "text": "late",
+        "role": "C",
+        "phonetic": "/leɪt/",
+        "chinese": "晚"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "allowed",
+        "role": "V",
+        "phonetic": "/əˈlaʊd/",
+        "chinese": "允许"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "大象(elephant)",
+    "english": "elephant",
+    "soundmark": "/ˈelɪfənt/"
+  },
+  {
+    "chinese": "警察(police)",
+    "english": "police",
+    "soundmark": "/pəˈliːs/"
+  },
+  {
+    "chinese": "交通(traffic)",
+    "english": "traffic",
+    "soundmark": "/ˈtræfɪk/"
+  },
+  {
+    "chinese": "应该(should)",
+    "english": "should",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "chinese": "应当(ought to)",
+    "english": "ought to",
+    "soundmark": "/ɔːt tuː/"
+  },
+  {
+    "chinese": "不应该(should not)",
+    "english": "should not",
+    "soundmark": "/ʃʊd nɒt/"
+  }
+]

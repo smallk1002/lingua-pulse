@@ -1,0 +1,518 @@
+[
+  {
+    "chinese": "日历",
+    "english": "calendar",
+    "soundmark": "/ˈkælɪndər/"
+  },
+  {
+    "chinese": "历法",
+    "english": "calendar system",
+    "soundmark": "/ˈkælɪndər ˈsɪstəm/"
+  },
+  {
+    "chinese": "天文学家",
+    "english": "astronomer",
+    "soundmark": "/əˈstrɒnəmər/"
+  },
+  {
+    "chinese": "准确的",
+    "english": "accurate",
+    "soundmark": "/ˈækjərət/"
+  },
+  {
+    "chinese": "测量",
+    "english": "measure",
+    "soundmark": "/ˈmeʒər/"
+  },
+  {
+    "chinese": "周期",
+    "english": "cycle",
+    "soundmark": "/ˈsaɪkəl/"
+  },
+  {
+    "chinese": "古代",
+    "english": "ancient",
+    "soundmark": "/ˈeɪnʃənt/"
+  },
+  {
+    "chinese": "文明",
+    "english": "civilization",
+    "soundmark": "/ˌsɪvəlaɪˈzeɪʃən/"
+  },
+  {
+    "chinese": "已经发明",
+    "english": "had invented",
+    "soundmark": "/hæd ɪnˈventɪd/"
+  },
+  {
+    "chinese": "已经发展",
+    "english": "had developed",
+    "soundmark": "/hæd dɪˈveləpt/"
+  },
+  {
+    "chinese": "古人早就发明了日历。",
+    "english": "The ancients had already invented the calendar",
+    "soundmark": "/ði ˈeɪnʃənts hæd ɔːlˈredi ɪnˈventɪd ðə ˈkælɪndər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ancients",
+        "role": "S",
+        "phonetic": "/ˈeɪnʃənts/",
+        "chinese": "古代的"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "invented",
+        "role": "V",
+        "phonetic": "/ɪnˈventɪd/",
+        "chinese": "发明"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "calendar",
+        "role": "O",
+        "phonetic": "/ˈkælɪndər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "在他们制定历法之前天文学家已经观测了天空许多年。",
+    "english": "Astronomers had been observing the sky for many years before they made the calendar",
+    "soundmark": "/əˈstrɒnəmərz hæd biːn əbˈzɜːrvɪŋ ðə skaɪ fɔːr ˈmeni jɪrz bɪˈfɔːr ðeɪ meɪd ðə ˈkælɪndər/",
+    "grammar": [
+      {
+        "text": "Astronomers",
+        "role": "S",
+        "phonetic": "/əˈstrɒnəmərz/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "observing",
+        "role": "V",
+        "phonetic": "/əbˈzɜːrvɪŋ/",
+        "chinese": "观察"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sky",
+        "role": "O",
+        "phonetic": "/skaɪ/",
+        "chinese": "天空"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "many",
+        "role": "C",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "calendar",
+        "role": "O",
+        "phonetic": "/ˈkælɪndər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "到那时巴比伦人已经创造了最精确的历法。",
+    "english": "By then the Babylonians had created the most accurate calendar system",
+    "soundmark": "/baɪ ðen ðə ˌbæbɪˈloʊniənz hæd kriˈeɪtɪd ðə moʊst ˈækjərət ˈkælɪndər ˈsɪstəm/",
+    "grammar": [
+      {
+        "text": "By",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "then",
+        "role": "A",
+        "phonetic": "/ðen/",
+        "chinese": "然后"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "Babylonians",
+        "role": "S",
+        "phonetic": "/ˌbæbɪˈloʊniənz/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "created",
+        "role": "V",
+        "phonetic": "/kriˈeɪtɪd/",
+        "chinese": "创造"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "most",
+        "role": "Adv",
+        "phonetic": "/moʊst/",
+        "chinese": "大多数"
+      },
+      {
+        "text": "accurate",
+        "role": "C",
+        "phonetic": "/ˈækjərət/",
+        "chinese": "准确的"
+      },
+      {
+        "text": "calendar",
+        "role": "C",
+        "phonetic": "/ˈkælɪndər/",
+        "chinese": ""
+      },
+      {
+        "text": "system",
+        "role": "O",
+        "phonetic": "/ˈsɪstəm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "各种文明都发展出了自己的计时方法。",
+    "english": "Various civilizations had developed their own methods of measuring time",
+    "soundmark": "/ˈveriəs ˌsɪvəlaɪˈzeɪʃənz hæd dɪˈveləpt ðer oʊn ˈmeθədz əv ˈmeʒərɪŋ taɪm/",
+    "grammar": [
+      {
+        "text": "Various",
+        "role": "C",
+        "phonetic": "/ˈveriəs/",
+        "chinese": "各种的"
+      },
+      {
+        "text": "civilizations",
+        "role": "S",
+        "phonetic": "/ˌsɪvəlaɪˈzeɪʃənz/",
+        "chinese": "文明"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "developed",
+        "role": "V",
+        "phonetic": "/dɪˈveləpt/",
+        "chinese": "发展"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "own",
+        "role": "C",
+        "phonetic": "/oʊn/",
+        "chinese": "自己的"
+      },
+      {
+        "text": "methods",
+        "role": "O",
+        "phonetic": "/ˈmeθədz/",
+        "chinese": "方法"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "measuring",
+        "role": "V",
+        "phonetic": "/ˈmeʒərɪŋ/",
+        "chinese": "测量"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "太阳周期被研究之后才被理解。",
+    "english": "The solar cycle had been studied before it was fully understood",
+    "soundmark": "/ðə ˈsoʊlər ˈsaɪkəl hæd biːn ˈstʌdid bɪˈfɔːr ɪt wʌz ˈfʊli ˌʌndərˈstʊd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "solar",
+        "role": "C",
+        "phonetic": "/ˈsoʊlər/",
+        "chinese": ""
+      },
+      {
+        "text": "cycle",
+        "role": "S",
+        "phonetic": "/ˈsaɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "studied",
+        "role": "V",
+        "phonetic": "/ˈstʌdid/",
+        "chinese": "学习（过去式）"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "fully",
+        "role": "Adv",
+        "phonetic": "/ˈfʊli/",
+        "chinese": "完全地"
+      },
+      {
+        "text": "understood",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstʊd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们直到最近才意识到古代人多么先进。",
+    "english": "We had not realized until recently how advanced the ancients were",
+    "soundmark": "/wiː hæd nɑːt ˈriːəlaɪzd ʌnˈtɪl ˈriːsəntli haʊ ədˈvænst ði ˈeɪnʃənts wɜːr/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "realized",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪzd/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "until",
+        "role": "A",
+        "phonetic": "/ʌnˈtɪl/",
+        "chinese": "直到"
+      },
+      {
+        "text": "recently",
+        "role": "A",
+        "phonetic": "/ˈriːsəntli/",
+        "chinese": "最近"
+      },
+      {
+        "text": "how",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "advanced",
+        "role": "C",
+        "phonetic": "/ədˈvænst/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ancients",
+        "role": "S",
+        "phonetic": "/ˈeɪnʃənts/",
+        "chinese": "古代的"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "日历",
+    "english": "calendar",
+    "soundmark": "/ˈkælɪndər/"
+  },
+  {
+    "chinese": "天文学家",
+    "english": "astronomer",
+    "soundmark": "/əˈstrɒnəmər/"
+  },
+  {
+    "chinese": "准确的",
+    "english": "accurate",
+    "soundmark": "/ˈækjərət/"
+  },
+  {
+    "chinese": "观测",
+    "english": "observe",
+    "soundmark": "/əbˈzɜːrv/"
+  },
+  {
+    "chinese": "周期",
+    "english": "cycle",
+    "soundmark": "/ˈsaɪkəl/"
+  },
+  {
+    "chinese": "文明",
+    "english": "civilization",
+    "soundmark": "/ˌsɪvəlaɪˈzeɪʃən/"
+  },
+  {
+    "chinese": "先进的",
+    "english": "advanced",
+    "soundmark": "/ədˈvænst/"
+  },
+  {
+    "chinese": "太阳的",
+    "english": "solar",
+    "soundmark": "/ˈsoʊlər/"
+  }
+]

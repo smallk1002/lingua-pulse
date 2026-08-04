@@ -1,0 +1,1619 @@
+[
+  {
+    "chinese": "私人的",
+    "english": "private",
+    "soundmark": "/ˈpraɪvɪt/"
+  },
+  {
+    "chinese": "谈话",
+    "english": "conversation",
+    "soundmark": "/ˌkɑːnvərˈseɪʃən/"
+  },
+  {
+    "chinese": "剧院",
+    "english": "theatre",
+    "soundmark": "/ˈθiːətər/"
+  },
+  {
+    "chinese": "座位",
+    "english": "seat",
+    "soundmark": "/siːt/"
+  },
+  {
+    "chinese": "生气地",
+    "english": "angrily",
+    "soundmark": "/ˈæŋɡrɪli/"
+  },
+  {
+    "chinese": "注意",
+    "english": "attention",
+    "soundmark": "/əˈtenʃən/"
+  },
+  {
+    "chinese": "忍受",
+    "english": "bear",
+    "soundmark": "/ber/"
+  },
+  {
+    "chinese": "生意",
+    "english": "business",
+    "soundmark": "/ˈbɪznɪs/"
+  },
+  {
+    "chinese": "粗鲁地",
+    "english": "rudely",
+    "soundmark": "/ˈruːdli/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "私人谈话",
+    "english": "private conversation",
+    "soundmark": "/ˈpraɪvɪt/ /ˌkɑːnvərˈseɪʃən/"
+  },
+  {
+    "chinese": "上星期",
+    "english": "last week",
+    "soundmark": "/læst/ /wiːk/"
+  },
+  {
+    "chinese": "去看戏",
+    "english": "go to the theatre",
+    "soundmark": "/ɡoʊ/ /tuː/ /ðə/ /ˈθiːətər/"
+  },
+  {
+    "chinese": "非常好",
+    "english": "very good",
+    "soundmark": "/ˈveri/ /ɡʊd/"
+  },
+  {
+    "chinese": "转过身",
+    "english": "turn round",
+    "soundmark": "/tɜːrn/ /raʊnd/"
+  },
+  {
+    "chinese": "生气地说",
+    "english": "said angrily",
+    "soundmark": "/sed/ /ˈæŋɡrɪli/"
+  },
+  {
+    "chinese": "没注意",
+    "english": "did not pay any attention",
+    "soundmark": "/dɪd/ /nɑːt/ /peɪ/ /ˈeni/ /əˈtenʃən/"
+  },
+  {
+    "chinese": "最后",
+    "english": "in the end",
+    "soundmark": "/ɪn/ /ðə/ /end/"
+  },
+  {
+    "chinese": "上星期我去看戏",
+    "english": "Last week I went to the theatre",
+    "soundmark": "/læst/ /wiːk/ /aɪ/ /went/ /tuː/ /ðə/ /ˈθiːətər/",
+    "grammar": [
+      {
+        "text": "Last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "theatre",
+        "role": "O",
+        "phonetic": "/ˈθiːətər/",
+        "chinese": "剧院"
+      }
+    ]
+  },
+  {
+    "chinese": "我有一个很好的座位",
+    "english": "I had a very good seat",
+    "soundmark": "/aɪ/ /hæd/ /ə/ /ˈveri/ /ɡʊd/ /siːt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "good",
+        "role": "A",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "seat",
+        "role": "O",
+        "phonetic": "/siːt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "戏很有意思",
+    "english": "The play was very interesting",
+    "soundmark": "/ðə/ /pleɪ/ /wʌz/ /ˈveri/ /ˈɪntrəstɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "play",
+        "role": "S",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      }
+    ]
+  },
+  {
+    "chinese": "我看得津津有味",
+    "english": "I enjoyed it very much",
+    "soundmark": "/aɪ/ /ɪnˈdʒɔɪd/ /ɪt/ /ˈveri/ /mʌtʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "enjoyed",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪd/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      }
+    ]
+  },
+  {
+    "chinese": "一对年轻男女坐在我身后",
+    "english": "A young man and a young woman were sitting behind me",
+    "soundmark": "/ə/ /jʌŋ/ /mæn/ /ænd/ /ə/ /jʌŋ/ /ˈwʊmən/ /wɜːr/ /ˈsɪtɪŋ/ /bɪˈhaɪnd/ /miː/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "young",
+        "role": "A",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "young",
+        "role": "A",
+        "phonetic": "/jʌŋ/",
+        "chinese": "年轻的"
+      },
+      {
+        "text": "woman",
+        "role": "S",
+        "phonetic": "/ˈwʊmən/",
+        "chinese": "女人"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "sitting",
+        "role": "V",
+        "phonetic": "/ˈsɪtɪŋ/",
+        "chinese": "坐着的"
+      },
+      {
+        "text": "behind",
+        "role": "P",
+        "phonetic": "/bɪˈhaɪnd/",
+        "chinese": "在…后面"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "他们说话声音很大",
+    "english": "They were talking loudly",
+    "soundmark": "/ðeɪ/ /wɜːr/ /ˈtɔːkɪŋ/ /ˈlaʊdli/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "talking",
+        "role": "V",
+        "phonetic": "/ˈtɔːkɪŋ/",
+        "chinese": "说话的"
+      },
+      {
+        "text": "loudly",
+        "role": "Adv",
+        "phonetic": "/ˈlaʊdli/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我听不见演员的台词",
+    "english": "I could not hear the actors",
+    "soundmark": "/aɪ/ /kʊd/ /nɑːt/ /hɪr/ /ðə/ /ˈæktərz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "hear",
+        "role": "V",
+        "phonetic": "/hɪr/",
+        "chinese": "听到"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "actors",
+        "role": "O",
+        "phonetic": "/ˈæktərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我转过身去",
+    "english": "I turned round",
+    "soundmark": "/aɪ/ /tɜːrnd/ /raʊnd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "turned",
+        "role": "V",
+        "phonetic": "/tɜːrnd/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "round",
+        "role": "Adv",
+        "phonetic": "/raʊnd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我看着那一男一女",
+    "english": "I looked at the man and the woman",
+    "soundmark": "/aɪ/ /lʊkt/ /æt/ /ðə/ /mæn/ /ænd/ /ðə/ /ˈwʊmən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "looked",
+        "role": "V",
+        "phonetic": "/lʊkt/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "O",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "woman",
+        "role": "O",
+        "phonetic": "/ˈwʊmən/",
+        "chinese": "女人"
+      }
+    ]
+  },
+  {
+    "chinese": "他们毫不理睬",
+    "english": "They did not pay any attention",
+    "soundmark": "/ðeɪ/ /dɪd/ /nɑːt/ /peɪ/ /ˈeni/ /əˈtenʃən/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "pay",
+        "role": "V",
+        "phonetic": "/peɪ/",
+        "chinese": "付钱"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "attention",
+        "role": "O",
+        "phonetic": "/əˈtenʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "最后我忍不住了",
+    "english": "In the end I could not bear it",
+    "soundmark": "/ɪn/ /ðə/ /end/ /aɪ/ /kʊd/ /nɑːt/ /ber/ /ɪt/",
+    "grammar": [
+      {
+        "text": "In",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "end",
+        "role": "A",
+        "phonetic": "/end/",
+        "chinese": "结束"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "bear",
+        "role": "V",
+        "phonetic": "/ber/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "我生气地回过头去",
+    "english": "I turned round again",
+    "soundmark": "/aɪ/ /tɜːrnd/ /raʊnd/ /əˈɡen/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "turned",
+        "role": "V",
+        "phonetic": "/tɜːrnd/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "round",
+        "role": "Adv",
+        "phonetic": "/raʊnd/",
+        "chinese": ""
+      },
+      {
+        "text": "again",
+        "role": "Adv",
+        "phonetic": "/əˈɡen/",
+        "chinese": "再"
+      }
+    ]
+  },
+  {
+    "chinese": "我一个字也听不见了",
+    "english": "I could not hear a word",
+    "soundmark": "/aɪ/ /kʊd/ /nɑːt/ /hɪr/ /ə/ /wɜːrd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "hear",
+        "role": "V",
+        "phonetic": "/hɪr/",
+        "chinese": "听到"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "word",
+        "role": "O",
+        "phonetic": "/wɜːrd/",
+        "chinese": "单词"
+      }
+    ]
+  },
+  {
+    "chinese": "这不关你的事",
+    "english": "It is none of your business",
+    "soundmark": "/ɪt/ /ɪz/ /nʌn/ /ʌv/ /jɔːr/ /ˈbɪznɪs/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "none",
+        "role": "C",
+        "phonetic": "/nʌn/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "business",
+        "role": "O",
+        "phonetic": "/ˈbɪznɪs/",
+        "chinese": "生意/商业"
+      }
+    ]
+  },
+  {
+    "chinese": "这是私人谈话",
+    "english": "This is a private conversation",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpraɪvɪt/ /ˌkɑːnvərˈseɪʃən/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "private",
+        "role": "A",
+        "phonetic": "/ˈpraɪvɪt/",
+        "chinese": "私人的"
+      },
+      {
+        "text": "conversation",
+        "role": "C",
+        "phonetic": "/ˌkɑːnvərˈseɪʃən/",
+        "chinese": "对话"
+      }
+    ]
+  },
+  {
+    "chinese": "他粗鲁地对我说话",
+    "english": "He spoke to me rudely",
+    "soundmark": "/hiː/ /spoʊk/ /tuː/ /miː/ /ˈruːdli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "spoke",
+        "role": "V",
+        "phonetic": "/spoʊk/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "rudely",
+        "role": "Adv",
+        "phonetic": "/ˈruːdli/",
+        "chinese": "…地(粗鲁的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我没法忍受他了",
+    "english": "I could not bear him",
+    "soundmark": "/aɪ/ /kʊd/ /nɑːt/ /ber/ /hɪm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "bear",
+        "role": "V",
+        "phonetic": "/ber/",
+        "chinese": ""
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "你昨晚去哪儿了",
+    "english": "Where did you go last night",
+    "soundmark": "/wer/ /dɪd/ /juː/ /ɡoʊ/ /læst/ /naɪt/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "night",
+        "role": "A",
+        "phonetic": "/naɪt/",
+        "chinese": "夜晚"
+      }
+    ]
+  },
+  {
+    "chinese": "我去了剧院",
+    "english": "I went to the theatre",
+    "soundmark": "/aɪ/ /went/ /tuː/ /ðə/ /ˈθiːətər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "theatre",
+        "role": "O",
+        "phonetic": "/ˈθiːətər/",
+        "chinese": "剧院"
+      }
+    ]
+  },
+  {
+    "chinese": "你喜欢那场戏吗",
+    "english": "Did you enjoy the play",
+    "soundmark": "/dɪd/ /juː/ /ɪnˈdʒɔɪ/ /ðə/ /pleɪ/",
+    "grammar": [
+      {
+        "text": "Did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "enjoy",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "play",
+        "role": "O",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      }
+    ]
+  },
+  {
+    "chinese": "我旁边的座位是空的",
+    "english": "The seat next to me was empty",
+    "soundmark": "/ðə/ /siːt/ /nekst/ /tuː/ /miː/ /wʌz/ /ˈempti/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "seat",
+        "role": "S",
+        "phonetic": "/siːt/",
+        "chinese": ""
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "empty",
+        "role": "C",
+        "phonetic": "/ˈempti/",
+        "chinese": "空的"
+      }
+    ]
+  },
+  {
+    "chinese": "他坐到了我前面",
+    "english": "He sat in front of me",
+    "soundmark": "/hiː/ /sæt/ /ɪn/ /frʌnt/ /ʌv/ /miː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "sat",
+        "role": "V",
+        "phonetic": "/sæt/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "front",
+        "role": "O",
+        "phonetic": "/frʌnt/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "我告诉她不要说话",
+    "english": "I told her not to talk",
+    "soundmark": "/aɪ/ /toʊld/ /hɜːr/ /nɑːt/ /tuː/ /tɔːk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "her",
+        "role": "O",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "talk",
+        "role": "V",
+        "phonetic": "/tɔːk/",
+        "chinese": "谈话"
+      }
+    ]
+  },
+  {
+    "chinese": "你能安静一点吗",
+    "english": "Could you be quiet please",
+    "soundmark": "/kʊd/ /juː/ /biː/ /ˈkwaɪət/ /pliːz/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "quiet",
+        "role": "C",
+        "phonetic": "/ˈkwaɪət/",
+        "chinese": "安静的"
+      },
+      {
+        "text": "please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "观众们非常安静",
+    "english": "The audience was very quiet",
+    "soundmark": "/ðə/ /ˈɔːdiəns/ /wʌz/ /ˈveri/ /ˈkwaɪət/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "audience",
+        "role": "S",
+        "phonetic": "/ˈɔːdiəns/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "quiet",
+        "role": "C",
+        "phonetic": "/ˈkwaɪət/",
+        "chinese": "安静的"
+      }
+    ]
+  },
+  {
+    "chinese": "他转过身来对我笑了笑",
+    "english": "He turned round and smiled at me",
+    "soundmark": "/hiː/ /tɜːrnd/ /raʊnd/ /ænd/ /smaɪld/ /æt/ /miː/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "turned",
+        "role": "V",
+        "phonetic": "/tɜːrnd/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "round",
+        "role": "Adv",
+        "phonetic": "/raʊnd/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "smiled",
+        "role": "V",
+        "phonetic": "/smaɪld/",
+        "chinese": ""
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "我不喜欢在公共场合大声说话的人",
+    "english": "I do not like people who talk loudly in public",
+    "soundmark": "/aɪ/ /duː/ /nɑːt/ /laɪk/ /ˈpiːpəl/ /huː/ /tɔːk/ /ˈlaʊdli/ /ɪn/ /ˈpʌblɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "people",
+        "role": "O",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "talk",
+        "role": "V",
+        "phonetic": "/tɔːk/",
+        "chinese": "谈话"
+      },
+      {
+        "text": "loudly",
+        "role": "Adv",
+        "phonetic": "/ˈlaʊdli/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "public",
+        "role": "O",
+        "phonetic": "/ˈpʌblɪk/",
+        "chinese": "公共的"
+      }
+    ]
+  },
+  {
+    "chinese": "那男人根本没听我说话",
+    "english": "The man did not listen to me at all",
+    "soundmark": "/ðə/ /mæn/ /dɪd/ /nɑːt/ /ˈlɪsən/ /tuː/ /miː/ /æt/ /ɔːl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "man",
+        "role": "S",
+        "phonetic": "/mæn/",
+        "chinese": "男人"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "listen",
+        "role": "V",
+        "phonetic": "/ˈlɪsən/",
+        "chinese": "听"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      }
+    ]
+  },
+  {
+    "chinese": "他说那不关我的事",
+    "english": "He said it was none of my business",
+    "soundmark": "/hiː/ /sed/ /ɪt/ /wʌz/ /nʌn/ /ʌv/ /maɪ/ /ˈbɪznɪs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "none",
+        "role": "C",
+        "phonetic": "/nʌn/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "business",
+        "role": "O",
+        "phonetic": "/ˈbɪznɪs/",
+        "chinese": "生意/商业"
+      }
+    ]
+  },
+  {
+    "chinese": "请别那么大声说话",
+    "english": "Please do not talk so loudly",
+    "soundmark": "/pliːz/ /duː/ /nɑːt/ /tɔːk/ /soʊ/ /ˈlaʊdli/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "talk",
+        "role": "V",
+        "phonetic": "/tɔːk/",
+        "chinese": "谈话"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "loudly",
+        "role": "Adv",
+        "phonetic": "/ˈlaʊdli/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我没法集中注意力看戏",
+    "english": "I could not concentrate on the play",
+    "soundmark": "/aɪ/ /kʊd/ /nɑːt/ /ˈkɑːnsəntreɪt/ /ɑːn/ /ðə/ /pleɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "concentrate",
+        "role": "V",
+        "phonetic": "/ˈkɑːnsəntreɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "play",
+        "role": "O",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      }
+    ]
+  },
+  {
+    "chinese": "这是一次非常不愉快的经历",
+    "english": "It was a very unpleasant experience",
+    "soundmark": "/ɪt/ /wʌz/ /ə/ /ˈveri/ /ʌnˈplezənt/ /ɪkˈspɪriəns/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "unpleasant",
+        "role": "A",
+        "phonetic": "/ʌnˈplezənt/",
+        "chinese": "不愉快的"
+      },
+      {
+        "text": "experience",
+        "role": "C",
+        "phonetic": "/ɪkˈspɪriəns/",
+        "chinese": "经历/经验"
+      }
+    ]
+  },
+  {
+    "chinese": "我们下次去别的剧院吧",
+    "english": "Let us go to another theatre next time",
+    "soundmark": "/let/ /ʌs/ /ɡoʊ/ /tuː/ /əˈnʌðər/ /ˈθiːətər/ /nekst/ /taɪm/",
+    "grammar": [
+      {
+        "text": "Let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "another",
+        "role": "Det",
+        "phonetic": "/əˈnʌðər/",
+        "chinese": "另一个"
+      },
+      {
+        "text": "theatre",
+        "role": "O",
+        "phonetic": "/ˈθiːətər/",
+        "chinese": "剧院"
+      },
+      {
+        "text": "next",
+        "role": "A",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      }
+    ]
+  },
+  {
+    "chinese": "年轻男子",
+    "english": "young man",
+    "soundmark": "/jʌŋ/ /mæn/"
+  },
+  {
+    "chinese": "年轻女子",
+    "english": "young woman",
+    "soundmark": "/jʌŋ/ /ˈwʊmən/"
+  },
+  {
+    "chinese": "非常有趣",
+    "english": "very interesting",
+    "soundmark": "/ˈveri/ /ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "精彩的戏",
+    "english": "wonderful play",
+    "soundmark": "/ˈwʌndərfəl/ /pleɪ/"
+  },
+  {
+    "chinese": "后排",
+    "english": "back row",
+    "soundmark": "/bæk/ /roʊ/"
+  },
+  {
+    "chinese": "表示不赞同",
+    "english": "show disapproval",
+    "soundmark": "/ʃoʊ/ /ˌdɪsəˈpruːvəl/"
+  },
+  {
+    "chinese": "安静的",
+    "english": "quiet",
+    "soundmark": "/ˈkwaɪət/"
+  },
+  {
+    "chinese": "观众",
+    "english": "audience",
+    "soundmark": "/ˈɔːdiəns/"
+  },
+  {
+    "chinese": "生气",
+    "english": "angry",
+    "soundmark": "/ˈæŋɡri/"
+  },
+  {
+    "chinese": "经历",
+    "english": "experience",
+    "soundmark": "/ɪkˈspɪriəns/"
+  },
+  {
+    "chinese": "粗鲁的",
+    "english": "rude",
+    "soundmark": "/ruːd/"
+  },
+  {
+    "chinese": "微笑",
+    "english": "smile",
+    "soundmark": "/smaɪl/"
+  }
+]

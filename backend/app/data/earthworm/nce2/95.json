@@ -1,0 +1,615 @@
+[
+  {
+    "chinese": "幻想",
+    "english": "fantasy",
+    "soundmark": "/ˈfæntəsi/"
+  },
+  {
+    "chinese": "想象",
+    "english": "imagine",
+    "soundmark": "/ɪˈmædʒɪn/"
+  },
+  {
+    "chinese": "梦",
+    "english": "dream",
+    "soundmark": "/driːm/"
+  },
+  {
+    "chinese": "富有的",
+    "english": "wealthy",
+    "soundmark": "/ˈwelθi/"
+  },
+  {
+    "chinese": "城堡",
+    "english": "castle",
+    "soundmark": "/ˈkæsəl/"
+  },
+  {
+    "chinese": "冒险",
+    "english": "adventure",
+    "soundmark": "/ədˈventʃər/"
+  },
+  {
+    "chinese": "神奇的",
+    "english": "magical",
+    "soundmark": "/ˈmædʒɪkəl/"
+  },
+  {
+    "chinese": "生物",
+    "english": "creature",
+    "soundmark": "/ˈkriːtʃər/"
+  },
+  {
+    "chinese": "飞行",
+    "english": "fly",
+    "soundmark": "/flaɪ/"
+  },
+  {
+    "chinese": "宝藏",
+    "english": "treasure",
+    "soundmark": "/ˈtreʒər/"
+  },
+  {
+    "chinese": "神秘的",
+    "english": "mysterious",
+    "soundmark": "/mɪˈstɪriəs/"
+  },
+  {
+    "chinese": "隐形的",
+    "english": "invisible",
+    "soundmark": "/ɪnˈvɪzəbəl/"
+  },
+  {
+    "chinese": "假装",
+    "english": "pretend to",
+    "soundmark": "/prɪˈtend/ /tuː/"
+  },
+  {
+    "chinese": "实现",
+    "english": "come true",
+    "soundmark": "/kʌm/ /truː/"
+  },
+  {
+    "chinese": "在梦中",
+    "english": "in a dream",
+    "soundmark": "/ɪn/ /ə/ /driːm/"
+  },
+  {
+    "chinese": "如果我很有钱，我会买一座城堡",
+    "english": "If I were wealthy I would buy a castle",
+    "soundmark": "/ɪf/ /aɪ/ /wɜːr/ /ˈwelθi/ /aɪ/ /wʊd/ /baɪ/ /ə/ /ˈkæsəl/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "Int",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "wealthy",
+        "role": "C",
+        "phonetic": "/ˈwelθi/",
+        "chinese": ""
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "buy",
+        "role": "V",
+        "phonetic": "/baɪ/",
+        "chinese": "买"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "castle",
+        "role": "O",
+        "phonetic": "/ˈkæsəl/",
+        "chinese": "城堡"
+      }
+    ]
+  },
+  {
+    "chinese": "他幻想着自己能飞",
+    "english": "He fantasized that he could fly",
+    "soundmark": "/hiː/ /ˈfæntəsaɪzd/ /ðæt/ /hiː/ /kʊd/ /flaɪ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "fantasized",
+        "role": "V",
+        "phonetic": "/ˈfæntəsaɪzd/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "fly",
+        "role": "V",
+        "phonetic": "/flaɪ/",
+        "chinese": "飞"
+      }
+    ]
+  },
+  {
+    "chinese": "我想象自己住在一座大城堡里",
+    "english": "I imagined myself living in a big castle",
+    "soundmark": "/aɪ/ /ɪˈmædʒɪnd/ /maɪˈself/ /ˈlɪvɪŋ/ /ɪn/ /ə/ /bɪɡ/ /ˈkæsəl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "imagined",
+        "role": "V",
+        "phonetic": "/ɪˈmædʒɪnd/",
+        "chinese": "想象"
+      },
+      {
+        "text": "myself",
+        "role": "O",
+        "phonetic": "/maɪˈself/",
+        "chinese": "我自己"
+      },
+      {
+        "text": "living",
+        "role": "V",
+        "phonetic": "/ˈlɪvɪŋ/",
+        "chinese": "活着的/生活的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "A",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "castle",
+        "role": "O",
+        "phonetic": "/ˈkæsəl/",
+        "chinese": "城堡"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我能隐形那该多好",
+    "english": "If only I could be invisible",
+    "soundmark": "/ɪf/ /ˈoʊnli/ /aɪ/ /kʊd/ /biː/ /ɪnˈvɪzəbəl/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "Int",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "invisible",
+        "role": "C",
+        "phonetic": "/ɪnˈvɪzəbəl/",
+        "chinese": "不可见的"
+      }
+    ]
+  },
+  {
+    "chinese": "他梦想着找到隐藏的宝藏",
+    "english": "He dreamed of finding the hidden treasure",
+    "soundmark": "/hiː/ /driːmd/ /ʌv/ /ˈfaɪndɪŋ/ /ðə/ /ˈhɪdən/ /ˈtreʒər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "dreamed",
+        "role": "V",
+        "phonetic": "/driːmd/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "finding",
+        "role": "V",
+        "phonetic": "/ˈfaɪndɪŋ/",
+        "chinese": "找到"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "hidden",
+        "role": "A",
+        "phonetic": "/ˈhɪdən/",
+        "chinese": "隐藏的"
+      },
+      {
+        "text": "treasure",
+        "role": "O",
+        "phonetic": "/ˈtreʒər/",
+        "chinese": "宝藏"
+      }
+    ]
+  },
+  {
+    "chinese": "一个神秘的生物出现在他面前",
+    "english": "A mysterious creature appeared before him",
+    "soundmark": "/ə/ /mɪˈstɪriəs/ /ˈkriːtʃər/ /əˈpɪrd/ /bɪˈfɔːr/ /hɪm/",
+    "grammar": [
+      {
+        "text": "A",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "mysterious",
+        "role": "A",
+        "phonetic": "/mɪˈstɪriəs/",
+        "chinese": ""
+      },
+      {
+        "text": "creature",
+        "role": "S",
+        "phonetic": "/ˈkriːtʃər/",
+        "chinese": ""
+      },
+      {
+        "text": "appeared",
+        "role": "V",
+        "phonetic": "/əˈpɪrd/",
+        "chinese": "出现"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我有魔法力量我会做很多好事",
+    "english": "If I had magical powers I would do many good things",
+    "soundmark": "/ɪf/ /aɪ/ /hæd/ /ˈmædʒɪkəl/ /ˈpaʊərz/ /aɪ/ /wʊd/ /duː/ /ˈmeni/ /ɡʊd/ /θɪŋz/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "Int",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "magical",
+        "role": "A",
+        "phonetic": "/ˈmædʒɪkəl/",
+        "chinese": ""
+      },
+      {
+        "text": "powers",
+        "role": "O",
+        "phonetic": "/ˈpaʊərz/",
+        "chinese": "力量/权力"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "good",
+        "role": "A",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "things",
+        "role": "O",
+        "phonetic": "/θɪŋz/",
+        "chinese": "东西/事情"
+      }
+    ]
+  },
+  {
+    "chinese": "这只是一场幻想而不是现实",
+    "english": "It was only a fantasy and not reality",
+    "soundmark": "/ɪt/ /wʌz/ /ˈoʊnli/ /ə/ /ˈfæntəsi/ /ænd/ /nɑːt/ /riˈælɪti/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "fantasy",
+        "role": "C",
+        "phonetic": "/ˈfæntəsi/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "reality",
+        "role": "C",
+        "phonetic": "/riˈælɪti/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他正在进行一场奇妙的冒险",
+    "english": "He was having a wonderful adventure",
+    "soundmark": "/hiː/ /wʌz/ /ˈhævɪŋ/ /ə/ /ˈwʌndərfəl/ /ədˈventʃər/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "having",
+        "role": "V",
+        "phonetic": "/ˈhævɪŋ/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "wonderful",
+        "role": "A",
+        "phonetic": "/ˈwʌndərfəl/",
+        "chinese": "精彩的"
+      },
+      {
+        "text": "adventure",
+        "role": "O",
+        "phonetic": "/ədˈventʃər/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "如果梦境能成真就好了",
+    "english": "If only dreams could come true",
+    "soundmark": "/ɪf/ /ˈoʊnli/ /driːmz/ /kʊd/ /kʌm/ /truː/",
+    "grammar": [
+      {
+        "text": "If",
+        "role": "Int",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "dreams",
+        "role": "S",
+        "phonetic": "/driːmz/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "true",
+        "role": "C",
+        "phonetic": "/truː/",
+        "chinese": "真的"
+      }
+    ]
+  },
+  {
+    "chinese": "运动员",
+    "english": "athlete",
+    "soundmark": "/ˈæθliːt/"
+  },
+  {
+    "chinese": "竞争",
+    "english": "compete",
+    "soundmark": "/kəmˈpiːt/"
+  },
+  {
+    "chinese": "奖牌",
+    "english": "medal",
+    "soundmark": "/ˈmedəl/"
+  },
+  {
+    "chinese": "训练",
+    "english": "train",
+    "soundmark": "/treɪn/"
+  },
+  {
+    "chinese": "教练",
+    "english": "coach",
+    "soundmark": "/koʊtʃ/"
+  },
+  {
+    "chinese": "天赋",
+    "english": "talent",
+    "soundmark": "/ˈtælənt/"
+  }
+]

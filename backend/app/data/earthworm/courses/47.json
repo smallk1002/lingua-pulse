@@ -1,0 +1,2525 @@
+[
+  {
+    "chinese": "已经被做完了",
+    "english": "has been done",
+    "soundmark": "/hæz biːn dʌn/"
+  },
+  {
+    "chinese": "已经被解决了",
+    "english": "has been solved",
+    "soundmark": "/hæz biːn sɒlvd/"
+  },
+  {
+    "chinese": "已经被完成了",
+    "english": "has been finished",
+    "soundmark": "/hæz biːn ˈfɪnɪʃt/"
+  },
+  {
+    "chinese": "已经被修好了",
+    "english": "has been repaired",
+    "soundmark": "/hæz biːn rɪˈperd/"
+  },
+  {
+    "chinese": "之前已经被做了",
+    "english": "had been done",
+    "soundmark": "/hæd biːn dʌn/"
+  },
+  {
+    "chinese": "之前已经被解决了",
+    "english": "had been solved",
+    "soundmark": "/hæd biːn sɒlvd/"
+  },
+  {
+    "chinese": "之前已经被完成了",
+    "english": "had been finished",
+    "soundmark": "/hæd biːn ˈfɪnɪʃt/"
+  },
+  {
+    "chinese": "作业已经被完成了",
+    "english": "The homework has been done",
+    "soundmark": "/ðə ˈhoʊmwɜːrk hæz biːn dʌn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "homework",
+        "role": "S",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "done",
+        "role": "V",
+        "phonetic": "/dʌn/",
+        "chinese": "做好的"
+      }
+    ]
+  },
+  {
+    "chinese": "问题已经被解决了",
+    "english": "The problem has been solved",
+    "soundmark": "/ðə ˈprɒbləm hæz biːn sɒlvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "problem",
+        "role": "S",
+        "phonetic": "/ˈprɒbləm/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "solved",
+        "role": "V",
+        "phonetic": "/sɒlvd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "报告已经写好了",
+    "english": "The report has been written",
+    "soundmark": "/ðə rɪˈpɔːrt hæz biːn ˈrɪtən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "report",
+        "role": "S",
+        "phonetic": "/rɪˈpɔːrt/",
+        "chinese": "报告"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "written",
+        "role": "V",
+        "phonetic": "/ˈrɪtən/",
+        "chinese": "书面的"
+      }
+    ]
+  },
+  {
+    "chinese": "门已经锁好了",
+    "english": "The door has been locked",
+    "soundmark": "/ðə dɔːr hæz biːn lɒkt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "S",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "locked",
+        "role": "V",
+        "phonetic": "/lɒkt/",
+        "chinese": "锁"
+      }
+    ]
+  },
+  {
+    "chinese": "窗户已经擦干净了",
+    "english": "The windows have been cleaned",
+    "soundmark": "/ðə ˈwɪndoʊz hæv biːn kliːnd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "windows",
+        "role": "S",
+        "phonetic": "/ˈwɪndoʊz/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "cleaned",
+        "role": "V",
+        "phonetic": "/kliːnd/",
+        "chinese": "清洁"
+      }
+    ]
+  },
+  {
+    "chinese": "饭菜已经做好了",
+    "english": "The meal has been prepared",
+    "soundmark": "/ðə miːl hæz biːn prɪˈperd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meal",
+        "role": "S",
+        "phonetic": "/miːl/",
+        "chinese": "一餐"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "prepared",
+        "role": "V",
+        "phonetic": "/prɪˈperd/",
+        "chinese": "准备"
+      }
+    ]
+  },
+  {
+    "chinese": "问题还没被解决",
+    "english": "The problem hasn't been solved yet",
+    "soundmark": "/ðə ˈprɒbləm ˈhæzənt biːn sɒlvd jet/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "problem",
+        "role": "S",
+        "phonetic": "/ˈprɒbləm/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "hasn't",
+        "role": "V",
+        "phonetic": "/ˈhæzənt/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "solved",
+        "role": "V",
+        "phonetic": "/sɒlvd/",
+        "chinese": ""
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "信已经寄出去了吗",
+    "english": "Has the letter been sent",
+    "soundmark": "/hæz ðə ˈletər biːn sent/",
+    "grammar": [
+      {
+        "text": "Has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "letter",
+        "role": "S",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "sent",
+        "role": "V",
+        "phonetic": "/sent/",
+        "chinese": "寄/发送（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "这些花已经浇过水了吗",
+    "english": "Have these flowers been watered",
+    "soundmark": "/hæv ðiːz ˈflaʊərz biːn ˈwɔːtərd/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "flowers",
+        "role": "S",
+        "phonetic": "/ˈflaʊərz/",
+        "chinese": "花"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "watered",
+        "role": "V",
+        "phonetic": "/ˈwɔːtərd/",
+        "chinese": "浇水/水"
+      }
+    ]
+  },
+  {
+    "chinese": "会议已经被推迟了",
+    "english": "The meeting has been postponed",
+    "soundmark": "/ðə ˈmiːtɪŋ hæz biːn poʊstˈpoʊnd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "meeting",
+        "role": "S",
+        "phonetic": "/ˈmiːtɪŋ/",
+        "chinese": "会议的/会议"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "postponed",
+        "role": "V",
+        "phonetic": "/poʊstˈpoʊnd/",
+        "chinese": "推迟"
+      }
+    ]
+  },
+  {
+    "chinese": "她已经被提升为经理了",
+    "english": "She has been promoted to manager",
+    "soundmark": "/ʃiː hæz biːn prəˈmoʊtɪd tuː ˈmænɪdʒər/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "promoted",
+        "role": "V",
+        "phonetic": "/prəˈmoʊtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "manager",
+        "role": "C",
+        "phonetic": "/ˈmænɪdʒər/",
+        "chinese": "更…的/…者(管理)"
+      }
+    ]
+  },
+  {
+    "chinese": "我之前到的时候作业已经做完了",
+    "english": "The homework had been done when I arrived",
+    "soundmark": "/ðə ˈhoʊmwɜːrk hæd biːn dʌn wen aɪ əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "homework",
+        "role": "S",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "done",
+        "role": "V",
+        "phonetic": "/dʌn/",
+        "chinese": "做好的"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "我到的时候门已经锁了",
+    "english": "The door had been locked by the time I arrived",
+    "soundmark": "/ðə dɔːr hæd biːn lɒkt baɪ ðə taɪm aɪ əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "S",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "locked",
+        "role": "V",
+        "phonetic": "/lɒkt/",
+        "chinese": "锁"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "警察到的时候所有证据已经被销毁了",
+    "english": "All the evidence had been destroyed by the time the police arrived",
+    "soundmark": "/ɔːl ði ˈevɪdəns hæd biːn dɪˈstrɔɪd baɪ ðə taɪm ðə pəˈliːs əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "All",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "evidence",
+        "role": "S",
+        "phonetic": "/ˈevɪdəns/",
+        "chinese": "证据"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "destroyed",
+        "role": "V",
+        "phonetic": "/dɪˈstrɔɪd/",
+        "chinese": "破坏"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "S",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "这座楼在过去五年里被装修过",
+    "english": "This building has been renovated in the past five years",
+    "soundmark": "/ðɪs ˈbɪldɪŋ hæz biːn ˈrenəveɪtɪd ɪn ðə pæst faɪv jɪrz/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "building",
+        "role": "S",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "chinese": "建筑的/建筑物"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "renovated",
+        "role": "V",
+        "phonetic": "/ˈrenəveɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "past",
+        "role": "A",
+        "phonetic": "/pæst/",
+        "chinese": "过去"
+      },
+      {
+        "text": "five",
+        "role": "Det",
+        "phonetic": "/faɪv/",
+        "chinese": "五"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "目前已经收到了超过一千份申请",
+    "english": "More than a thousand applications have been received so far",
+    "soundmark": "/mɔːr ðæn ə ˈθaʊzənd ˌæplɪˈkeɪʃənz hæv biːn rɪˈsiːvd soʊ fɑːr/",
+    "grammar": [
+      {
+        "text": "More",
+        "role": "Det",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "thousand",
+        "role": "Det",
+        "phonetic": "/ˈθaʊzənd/",
+        "chinese": "千"
+      },
+      {
+        "text": "applications",
+        "role": "S",
+        "phonetic": "/ˌæplɪˈkeɪʃənz/",
+        "chinese": "申请/应用"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "received",
+        "role": "V",
+        "phonetic": "/rɪˈsiːvd/",
+        "chinese": "接收"
+      },
+      {
+        "text": "so",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "far",
+        "role": "A",
+        "phonetic": "/fɑːr/",
+        "chinese": "远"
+      }
+    ]
+  },
+  {
+    "chinese": "那封邮件还没有被打开",
+    "english": "That email hasn't been opened yet",
+    "soundmark": "/ðæt ˈiːmeɪl ˈhæzənt biːn ˈoʊpənd jet/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "email",
+        "role": "S",
+        "phonetic": "/ˈiːmeɪl/",
+        "chinese": "电子邮件"
+      },
+      {
+        "text": "hasn't",
+        "role": "V",
+        "phonetic": "/ˈhæzənt/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "opened",
+        "role": "V",
+        "phonetic": "/ˈoʊpənd/",
+        "chinese": "打开的"
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "这个房间之前有没有被打扫过",
+    "english": "Had this room been cleaned before",
+    "soundmark": "/hæd ðɪs ruːm biːn kliːnd bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "Had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "room",
+        "role": "S",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "cleaned",
+        "role": "V",
+        "phonetic": "/kliːnd/",
+        "chinese": "清洁"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "这个错误已经被指出了",
+    "english": "This mistake has been pointed out",
+    "soundmark": "/ðɪs mɪˈsteɪk hæz biːn ˈpɔɪntɪd aʊt/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "mistake",
+        "role": "S",
+        "phonetic": "/mɪˈsteɪk/",
+        "chinese": "错误"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "pointed",
+        "role": "V",
+        "phonetic": "/ˈpɔɪntɪd/",
+        "chinese": "指向/点"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      }
+    ]
+  },
+  {
+    "chinese": "所有的嘉宾都已经通知过了",
+    "english": "All the guests have been informed",
+    "soundmark": "/ɔːl ðə ɡests hæv biːn ɪnˈfɔːrmd/",
+    "grammar": [
+      {
+        "text": "All",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "guests",
+        "role": "S",
+        "phonetic": "/ɡests/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "informed",
+        "role": "V",
+        "phonetic": "/ɪnˈfɔːrmd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这个电影已经被翻译成十几种语言了",
+    "english": "This movie has been translated into more than ten languages",
+    "soundmark": "/ðɪs ˈmuːvi hæz biːn trænsˈleɪtɪd ˈɪntuː mɔːr ðæn ten ˈlæŋɡwɪdʒɪz/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "movie",
+        "role": "S",
+        "phonetic": "/ˈmuːvi/",
+        "chinese": "电影"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "translated",
+        "role": "V",
+        "phonetic": "/trænsˈleɪtɪd/",
+        "chinese": "翻译"
+      },
+      {
+        "text": "into",
+        "role": "P",
+        "phonetic": "/ˈɪntuː/",
+        "chinese": "进入"
+      },
+      {
+        "text": "more",
+        "role": "Det",
+        "phonetic": "/mɔːr/",
+        "chinese": "更多"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "ten",
+        "role": "Det",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "languages",
+        "role": "A",
+        "phonetic": "/ˈlæŋɡwɪdʒɪz/",
+        "chinese": "语言"
+      }
+    ]
+  },
+  {
+    "chinese": "这个城市的道路最近都被拓宽了",
+    "english": "The roads in this city have been widened recently",
+    "soundmark": "/ðə roʊdz ɪn ðɪs ˈsɪti hæv biːn ˈwaɪdənd ˈriːsəntli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "roads",
+        "role": "S",
+        "phonetic": "/roʊdz/",
+        "chinese": "路"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "city",
+        "role": "A",
+        "phonetic": "/ˈsɪti/",
+        "chinese": "城市"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "widened",
+        "role": "V",
+        "phonetic": "/ˈwaɪdənd/",
+        "chinese": ""
+      },
+      {
+        "text": "recently",
+        "role": "A",
+        "phonetic": "/ˈriːsəntli/",
+        "chinese": "最近"
+      }
+    ]
+  },
+  {
+    "chinese": "那个网站还没有被更新",
+    "english": "That website hasn't been updated yet",
+    "soundmark": "/ðæt ˈwebsaɪt ˈhæzənt biːn ʌpˈdeɪtɪd jet/",
+    "grammar": [
+      {
+        "text": "That",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "website",
+        "role": "S",
+        "phonetic": "/ˈwebsaɪt/",
+        "chinese": "网站"
+      },
+      {
+        "text": "hasn't",
+        "role": "V",
+        "phonetic": "/ˈhæzənt/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "updated",
+        "role": "V",
+        "phonetic": "/ʌpˈdeɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "你们有没有被告知新的安排",
+    "english": "Have you been told about the new arrangement",
+    "soundmark": "/hæv juː biːn toʊld əˈbaʊt ðə nuː əˈreɪndʒmənt/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "arrangement",
+        "role": "O",
+        "phonetic": "/əˈreɪndʒmənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我到的时候证据已经被销毁了",
+    "english": "The evidence had been destroyed by the time I arrived",
+    "soundmark": "/ði ˈevɪdəns hæd biːn dɪˈstrɔɪd baɪ ðə taɪm aɪ əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "evidence",
+        "role": "S",
+        "phonetic": "/ˈevɪdəns/",
+        "chinese": "证据"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "destroyed",
+        "role": "V",
+        "phonetic": "/dɪˈstrɔɪd/",
+        "chinese": "破坏"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "那笔钱已经被转到一个海外账户了",
+    "english": "The money has been transferred to an overseas account",
+    "soundmark": "/ðə ˈmʌni hæz biːn trænsˈfɜːrd tuː æn ˌoʊvərˈsiːz əˈkaʊnt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "money",
+        "role": "S",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "transferred",
+        "role": "V",
+        "phonetic": "/trænsˈfɜːrd/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/æn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "overseas",
+        "role": "C",
+        "phonetic": "/ˌoʊvərˈsiːz/",
+        "chinese": ""
+      },
+      {
+        "text": "account",
+        "role": "A",
+        "phonetic": "/əˈkaʊnt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "作业已经被检查过了吗",
+    "english": "Has the homework been checked",
+    "soundmark": "/hæz ðə ˈhoʊmwɜːrk biːn tʃekt/",
+    "grammar": [
+      {
+        "text": "Has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "homework",
+        "role": "S",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "chinese": "家庭作业"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "checked",
+        "role": "V",
+        "phonetic": "/tʃekt/",
+        "chinese": "检查"
+      }
+    ]
+  },
+  {
+    "chinese": "这个计划还没有被批准",
+    "english": "This plan hasn't been approved yet",
+    "soundmark": "/ðɪs plæn ˈhæzənt biːn əˈpruːvd jet/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "plan",
+        "role": "S",
+        "phonetic": "/plæn/",
+        "chinese": "计划"
+      },
+      {
+        "text": "hasn't",
+        "role": "V",
+        "phonetic": "/ˈhæzənt/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "approved",
+        "role": "V",
+        "phonetic": "/əˈpruːvd/",
+        "chinese": ""
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "我们搬进来之前房子已经装修好了",
+    "english": "The house had been decorated before we moved in",
+    "soundmark": "/ðə haʊs hæd biːn ˈdekəreɪtɪd bɪˈfɔːr wiː muːvd ɪn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "S",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "decorated",
+        "role": "V",
+        "phonetic": "/ˈdekəreɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "moved",
+        "role": "V",
+        "phonetic": "/muːvd/",
+        "chinese": "移动"
+      },
+      {
+        "text": "in",
+        "role": "A",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "到现在为止已经有两个人被选出来了",
+    "english": "Two people have been selected so far",
+    "soundmark": "/tuː ˈpiːpəl hæv biːn sɪˈlektɪd soʊ fɑːr/",
+    "grammar": [
+      {
+        "text": "Two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpəl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "selected",
+        "role": "V",
+        "phonetic": "/sɪˈlektɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "so",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "far",
+        "role": "A",
+        "phonetic": "/fɑːr/",
+        "chinese": "远"
+      }
+    ]
+  },
+  {
+    "chinese": "那封信之前有没有被打过",
+    "english": "Had that letter been opened before you saw it",
+    "soundmark": "/hæd ðæt ˈletər biːn ˈoʊpənd bɪˈfɔːr juː sɔː ɪt/",
+    "grammar": [
+      {
+        "text": "Had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "letter",
+        "role": "S",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "opened",
+        "role": "V",
+        "phonetic": "/ˈoʊpənd/",
+        "chinese": "打开的"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "saw",
+        "role": "V",
+        "phonetic": "/sɔː/",
+        "chinese": "看见（过去式）"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "到目前为止问题已经全部解决了",
+    "english": "The problems have all been solved by now",
+    "soundmark": "/ðə ˈprɒbləmz hæv ɔːl biːn sɒlvd baɪ naʊ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "problems",
+        "role": "S",
+        "phonetic": "/ˈprɒbləmz/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "all",
+        "role": "A",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "solved",
+        "role": "V",
+        "phonetic": "/sɒlvd/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "now",
+        "role": "A",
+        "phonetic": "/naʊ/",
+        "chinese": "现在"
+      }
+    ]
+  },
+  {
+    "chinese": "这些规则之前没有被解释清楚",
+    "english": "These rules had not been explained clearly",
+    "soundmark": "/ðiːz ruːlz hæd nɒt biːn ɪkˈspleɪnd ˈklɪrli/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "rules",
+        "role": "S",
+        "phonetic": "/ruːlz/",
+        "chinese": "规则/统治"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "explained",
+        "role": "V",
+        "phonetic": "/ɪkˈspleɪnd/",
+        "chinese": "解释"
+      },
+      {
+        "text": "clearly",
+        "role": "A",
+        "phonetic": "/ˈklɪrli/",
+        "chinese": "…地(清楚的)"
+      }
+    ]
+  },
+  {
+    "chinese": "这个城市在过去十年里已经完全改变了",
+    "english": "This city has been completely changed in the past ten years",
+    "soundmark": "/ðɪs ˈsɪti hæz biːn kəmˈpliːtli tʃeɪndʒd ɪn ðə pæst ten jɪrz/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "city",
+        "role": "S",
+        "phonetic": "/ˈsɪti/",
+        "chinese": "城市"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "completely",
+        "role": "A",
+        "phonetic": "/kəmˈpliːtli/",
+        "chinese": "完全地"
+      },
+      {
+        "text": "changed",
+        "role": "V",
+        "phonetic": "/tʃeɪndʒd/",
+        "chinese": "改变"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "past",
+        "role": "A",
+        "phonetic": "/pæst/",
+        "chinese": "过去"
+      },
+      {
+        "text": "ten",
+        "role": "Det",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "你的申请被处理了吗",
+    "english": "Has your application been processed",
+    "soundmark": "/hæz jɔːr ˌæplɪˈkeɪʃən biːn ˈprɑːsest/",
+    "grammar": [
+      {
+        "text": "Has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "application",
+        "role": "S",
+        "phonetic": "/ˌæplɪˈkeɪʃən/",
+        "chinese": "申请/应用"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "processed",
+        "role": "V",
+        "phonetic": "/ˈprɑːsest/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "饭菜在客人到达之前就已经准备好了",
+    "english": "The food had been prepared before the guests arrived",
+    "soundmark": "/ðə fuːd hæd biːn prɪˈperd bɪˈfɔːr ðə ɡests əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "food",
+        "role": "S",
+        "phonetic": "/fuːd/",
+        "chinese": "食物"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "prepared",
+        "role": "V",
+        "phonetic": "/prɪˈperd/",
+        "chinese": "准备"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "guests",
+        "role": "S",
+        "phonetic": "/ɡests/",
+        "chinese": ""
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "这个设备已经测试过了吗",
+    "english": "Has this equipment been tested",
+    "soundmark": "/hæz ðɪs ɪˈkwɪpmənt biːn ˈtestɪd/",
+    "grammar": [
+      {
+        "text": "Has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "equipment",
+        "role": "S",
+        "phonetic": "/ɪˈkwɪpmənt/",
+        "chinese": ""
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "tested",
+        "role": "V",
+        "phonetic": "/ˈtestɪd/",
+        "chinese": "测试"
+      }
+    ]
+  },
+  {
+    "chinese": "这些孩子没有被好好照顾",
+    "english": "These children have not been properly cared for",
+    "soundmark": "/ðiːz ˈtʃɪldrən hæv nɒt biːn ˈprɒpərli kerd fɔːr/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "children",
+        "role": "S",
+        "phonetic": "/ˈtʃɪldrən/",
+        "chinese": "孩子们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "properly",
+        "role": "A",
+        "phonetic": "/ˈprɒpərli/",
+        "chinese": "…地(适当的)"
+      },
+      {
+        "text": "cared",
+        "role": "V",
+        "phonetic": "/kerd/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "for",
+        "role": "A",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      }
+    ]
+  },
+  {
+    "chinese": "新政策已经被宣布了",
+    "english": "The new policy has been announced",
+    "soundmark": "/ðə nuː ˈpɒləsi hæz biːn əˈnaʊnst/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "policy",
+        "role": "S",
+        "phonetic": "/ˈpɒləsi/",
+        "chinese": "政策"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "announced",
+        "role": "V",
+        "phonetic": "/əˈnaʊnst/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "包裹已经送到了吗",
+    "english": "Has the package been delivered",
+    "soundmark": "/hæz ðə ˈpækɪdʒ biːn dɪˈlɪvərd/",
+    "grammar": [
+      {
+        "text": "Has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "package",
+        "role": "S",
+        "phonetic": "/ˈpækɪdʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "delivered",
+        "role": "V",
+        "phonetic": "/dɪˈlɪvərd/",
+        "chinese": "递送（过去式/过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "这座大楼定期接受检查",
+    "english": "This building has been inspected regularly",
+    "soundmark": "/ðɪs ˈbɪldɪŋ hæz biːn ɪnˈspektɪd ˈreɡjələrli/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "building",
+        "role": "S",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "chinese": "建筑的/建筑物"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "inspected",
+        "role": "V",
+        "phonetic": "/ɪnˈspektɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "regularly",
+        "role": "A",
+        "phonetic": "/ˈreɡjələrli/",
+        "chinese": "…地(定期的)"
+      }
+    ]
+  },
+  {
+    "chinese": "文件已经被双方签署了",
+    "english": "The documents have been signed by both parties",
+    "soundmark": "/ðə ˈdɒkjumənts hæv biːn saɪnd baɪ boʊθ ˈpɑːrtiz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "documents",
+        "role": "S",
+        "phonetic": "/ˈdɒkjumənts/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "signed",
+        "role": "V",
+        "phonetic": "/saɪnd/",
+        "chinese": "签名"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "both",
+        "role": "Det",
+        "phonetic": "/boʊθ/",
+        "chinese": "两者都"
+      },
+      {
+        "text": "parties",
+        "role": "A",
+        "phonetic": "/ˈpɑːrtiz/",
+        "chinese": "派对"
+      }
+    ]
+  },
+  {
+    "chinese": "典礼之前所有的安排都做好了",
+    "english": "All the arrangements had been made before the ceremony",
+    "soundmark": "/ɔːl ði əˈreɪndʒmənts hæd biːn meɪd bɪˈfɔːr ðə ˈserəmoʊni/",
+    "grammar": [
+      {
+        "text": "All",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "arrangements",
+        "role": "S",
+        "phonetic": "/əˈreɪndʒmənts/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ceremony",
+        "role": "A",
+        "phonetic": "/ˈserəmoʊni/",
+        "chinese": "仪式"
+      }
+    ]
+  },
+  {
+    "chinese": "目前什么都还没有决定",
+    "english": "Nothing has been decided yet",
+    "soundmark": "/ˈnʌθɪŋ hæz biːn dɪˈsaɪdɪd jet/",
+    "grammar": [
+      {
+        "text": "Nothing",
+        "role": "S",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "你的护照是否已经被续签了",
+    "english": "Has your passport been renewed",
+    "soundmark": "/hæz jɔːr ˈpæspɔːrt biːn rɪˈnuːd/",
+    "grammar": [
+      {
+        "text": "Has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "passport",
+        "role": "S",
+        "phonetic": "/ˈpæspɔːrt/",
+        "chinese": "护照"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "renewed",
+        "role": "V",
+        "phonetic": "/rɪˈnuːd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "那座旧桥已经被新的取代了",
+    "english": "The old bridge has been replaced with a new one",
+    "soundmark": "/ði oʊld brɪdʒ hæz biːn rɪˈpleɪst wɪð ə nuː wʌn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "old",
+        "role": "C",
+        "phonetic": "/oʊld/",
+        "chinese": "老的/旧的"
+      },
+      {
+        "text": "bridge",
+        "role": "S",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "replaced",
+        "role": "V",
+        "phonetic": "/rɪˈpleɪst/",
+        "chinese": "替换"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "one",
+        "role": "A",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "这份合同已经被仔细审查过了",
+    "english": "This contract has been carefully reviewed",
+    "soundmark": "/ðɪs ˈkɒntrækt hæz biːn ˈkerfəli rɪˈvjuːd/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "contract",
+        "role": "S",
+        "phonetic": "/ˈkɒntrækt/",
+        "chinese": ""
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "carefully",
+        "role": "A",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      },
+      {
+        "text": "reviewed",
+        "role": "V",
+        "phonetic": "/rɪˈvjuːd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这些传统直到今天仍被保留着",
+    "english": "These traditions have been preserved to this day",
+    "soundmark": "/ðiːz trəˈdɪʃənz hæv biːn prɪˈzɜːrvd tuː ðɪs deɪ/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "traditions",
+        "role": "S",
+        "phonetic": "/trəˈdɪʃənz/",
+        "chinese": "传统"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "preserved",
+        "role": "V",
+        "phonetic": "/prɪˈzɜːrvd/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "我下班之前所有邮件已经发出去了",
+    "english": "All the emails had been sent before I left work",
+    "soundmark": "/ɔːl ði ˈiːmeɪlz hæd biːn sent bɪˈfɔːr aɪ left wɜːrk/",
+    "grammar": [
+      {
+        "text": "All",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "emails",
+        "role": "S",
+        "phonetic": "/ˈiːmeɪlz/",
+        "chinese": "电子邮件"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "sent",
+        "role": "V",
+        "phonetic": "/sent/",
+        "chinese": "寄/发送（过去式）"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "work",
+        "role": "A",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      }
+    ]
+  },
+  {
+    "chinese": "已经被完成了",
+    "english": "has been finished",
+    "soundmark": "/hæz biːn ˈfɪnɪʃt/"
+  },
+  {
+    "chinese": "已经被解决了",
+    "english": "has been solved",
+    "soundmark": "/hæz biːn sɒlvd/"
+  },
+  {
+    "chinese": "已经被修好了",
+    "english": "has been repaired",
+    "soundmark": "/hæz biːn rɪˈperd/"
+  },
+  {
+    "chinese": "之前已经被做了",
+    "english": "had been done",
+    "soundmark": "/hæd biːn dʌn/"
+  },
+  {
+    "chinese": "之前已经被锁了",
+    "english": "had been locked",
+    "soundmark": "/hæd biːn lɒkt/"
+  },
+  {
+    "chinese": "被提升了",
+    "english": "has been promoted",
+    "soundmark": "/hæz biːn prəˈmoʊtɪd/"
+  },
+  {
+    "chinese": "被推迟了",
+    "english": "has been postponed",
+    "soundmark": "/hæz biːn poʊstˈpoʊnd/"
+  },
+  {
+    "chinese": "被送到",
+    "english": "has been sent",
+    "soundmark": "/hæz biːn sent/"
+  },
+  {
+    "chinese": "目前(so far)",
+    "english": "so far",
+    "soundmark": "/soʊ fɑːr/"
+  }
+]

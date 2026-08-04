@@ -1,0 +1,671 @@
+[
+  {
+    "chinese": "波浪",
+    "english": "wave",
+    "soundmark": "/weɪv/"
+  },
+  {
+    "chinese": "振幅",
+    "english": "amplitude",
+    "soundmark": "/ˈæmplɪtjuːd/"
+  },
+  {
+    "chinese": "频率",
+    "english": "frequency",
+    "soundmark": "/ˈfriːkwənsi/"
+  },
+  {
+    "chinese": "波长",
+    "english": "wavelength",
+    "soundmark": "/ˈweɪvleŋθ/"
+  },
+  {
+    "chinese": "振荡",
+    "english": "oscillation",
+    "soundmark": "/ˌɒsɪˈleɪʃən/"
+  },
+  {
+    "chinese": "传播",
+    "english": "propagation",
+    "soundmark": "/ˌprɒpəˈɡeɪʃən/"
+  },
+  {
+    "chinese": "干涉",
+    "english": "interference",
+    "soundmark": "/ˌɪntəˈfɪərəns/"
+  },
+  {
+    "chinese": "衍射",
+    "english": "diffraction",
+    "soundmark": "/dɪˈfrækʃən/"
+  },
+  {
+    "chinese": "光谱",
+    "english": "spectrum",
+    "soundmark": "/ˈspektrəm/"
+  },
+  {
+    "chinese": "电磁的",
+    "english": "electromagnetic",
+    "soundmark": "/ɪˌlektrəʊmæɡˈnetɪk/"
+  },
+  {
+    "chinese": "声波",
+    "english": "sound wave",
+    "soundmark": "/saʊnd wiːv/"
+  },
+  {
+    "chinese": "正弦波",
+    "english": "sine wave",
+    "soundmark": "/saɪn wiːv/"
+  },
+  {
+    "chinese": "波是能量从一个地方传播到另一个地方的方式",
+    "english": "a wave is a means by which energy is transmitted from one place to another",
+    "soundmark": "/ə wiːv ɪz ə miːnz baɪ wɪtʃ ˈenədʒi ɪz trænzˈmɪtɪd frɒm wʌn pleɪs tuː əˈnʌðə/",
+    "grammar": [
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "wave",
+        "role": "S",
+        "phonetic": "/wiːv/",
+        "chinese": "挥手/波浪"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "means",
+        "role": "C",
+        "phonetic": "/miːnz/",
+        "chinese": "意思是/刻薄的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "which",
+        "role": "O",
+        "phonetic": "/wɪtʃ/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "energy",
+        "role": "S",
+        "phonetic": "/ˈenədʒi/",
+        "chinese": "能量"
+      },
+      {
+        "text": "is",
+        "role": "Aux",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "transmitted",
+        "role": "V",
+        "phonetic": "/trænzˈmɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "one",
+        "role": "Det",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "place",
+        "role": "O",
+        "phonetic": "/pleɪs/",
+        "chinese": "地方"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "another",
+        "role": "O",
+        "phonetic": "/əˈnʌðə/",
+        "chinese": "另一个"
+      }
+    ]
+  },
+  {
+    "chinese": "波的频率决定了它的音调高低",
+    "english": "the frequency of a wave determines its pitch",
+    "soundmark": "/ðə ˈfriːkwənsi əv ə wiːv dɪˈtɜːmɪnz ɪts pɪtʃ/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "frequency",
+        "role": "S",
+        "phonetic": "/ˈfriːkwənsi/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "wave",
+        "role": "O",
+        "phonetic": "/wiːv/",
+        "chinese": "挥手/波浪"
+      },
+      {
+        "text": "determines",
+        "role": "V",
+        "phonetic": "/dɪˈtɜːmɪnz/",
+        "chinese": ""
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "pitch",
+        "role": "O",
+        "phonetic": "/pɪtʃ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "光波和声波都能产生干涉现象",
+    "english": "both light waves and sound waves can produce interference patterns",
+    "soundmark": "/bəʊθ laɪt wiːvz ənd saʊnd wiːvz kən prəˈdjuːs ˌɪntəˈfɪərəns ˈpætənz/",
+    "grammar": [
+      {
+        "text": "both",
+        "role": "Det",
+        "phonetic": "/bəʊθ/",
+        "chinese": "两者都"
+      },
+      {
+        "text": "light",
+        "role": "A",
+        "phonetic": "/laɪt/",
+        "chinese": "轻的/浅色的"
+      },
+      {
+        "text": "waves",
+        "role": "S",
+        "phonetic": "/wiːvz/",
+        "chinese": "挥手/波浪"
+      },
+      {
+        "text": "and",
+        "role": "C",
+        "phonetic": "/ənd/",
+        "chinese": "和"
+      },
+      {
+        "text": "sound",
+        "role": "A",
+        "phonetic": "/saʊnd/",
+        "chinese": "声音"
+      },
+      {
+        "text": "waves",
+        "role": "S",
+        "phonetic": "/wiːvz/",
+        "chinese": "挥手/波浪"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kən/",
+        "chinese": "能"
+      },
+      {
+        "text": "produce",
+        "role": "V",
+        "phonetic": "/prəˈdjuːs/",
+        "chinese": "生产"
+      },
+      {
+        "text": "interference",
+        "role": "A",
+        "phonetic": "/ˌɪntəˈfɪərəns/",
+        "chinese": ""
+      },
+      {
+        "text": "patterns",
+        "role": "O",
+        "phonetic": "/ˈpætənz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "电磁波的传播不需要任何介质",
+    "english": "the propagation of electromagnetic waves does not require any medium",
+    "soundmark": "/ðə ˌprɒpəˈɡeɪʃən əv ɪˌlektrəʊmæɡˈnetɪk wiːvz dʌz nɒt rɪˈkwaɪər ˈeni ˈmiːdiəm/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "propagation",
+        "role": "S",
+        "phonetic": "/ˌprɒpəˈɡeɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "electromagnetic",
+        "role": "A",
+        "phonetic": "/ɪˌlektrəʊmæɡˈnetɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "waves",
+        "role": "O",
+        "phonetic": "/wiːvz/",
+        "chinese": "挥手/波浪"
+      },
+      {
+        "text": "does",
+        "role": "Aux",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "require",
+        "role": "V",
+        "phonetic": "/rɪˈkwaɪə/",
+        "chinese": "需要"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "medium",
+        "role": "O",
+        "phonetic": "/ˈmiːdiəm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "波的振幅越大它携带的能量就越多",
+    "english": "the greater the amplitude of a wave the more energy it carries",
+    "soundmark": "/ðə ˈɡreɪtə ðə ˈæmplɪtjuːd əv ə wiːv ðə mɔː ˈenədʒi ɪt ˈkæriz/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "greater",
+        "role": "C",
+        "phonetic": "/ˈɡreɪtə/",
+        "chinese": "更…的/…者(伟大的/很棒的)"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "amplitude",
+        "role": "S",
+        "phonetic": "/ˈæmplɪtjuːd/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "wave",
+        "role": "O",
+        "phonetic": "/wiːv/",
+        "chinese": "挥手/波浪"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "more",
+        "role": "Det",
+        "phonetic": "/mɔː/",
+        "chinese": "更多"
+      },
+      {
+        "text": "energy",
+        "role": "O",
+        "phonetic": "/ˈenədʒi/",
+        "chinese": "能量"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "carries",
+        "role": "V",
+        "phonetic": "/ˈkæriz/",
+        "chinese": "搬运"
+      }
+    ]
+  },
+  {
+    "chinese": "当波遇到障碍物时会发生衍射",
+    "english": "diffraction occurs when a wave encounters an obstacle",
+    "soundmark": "/dɪˈfrækʃən əˈkɜːz wen ə wiːv ɪnˈkaʊntəz ən ˈɒbstəkəl/",
+    "grammar": [
+      {
+        "text": "diffraction",
+        "role": "S",
+        "phonetic": "/dɪˈfrækʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "occurs",
+        "role": "V",
+        "phonetic": "/əˈkɜːz/",
+        "chinese": ""
+      },
+      {
+        "text": "when",
+        "role": "C",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "wave",
+        "role": "S",
+        "phonetic": "/wiːv/",
+        "chinese": "挥手/波浪"
+      },
+      {
+        "text": "encounters",
+        "role": "V",
+        "phonetic": "/ɪnˈkaʊntəz/",
+        "chinese": ""
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "obstacle",
+        "role": "O",
+        "phonetic": "/ˈɒbstəkəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "可见光只是电磁光谱中很窄的一段",
+    "english": "visible light is only a narrow band within the electromagnetic spectrum",
+    "soundmark": "/ˈvɪzəbl laɪt ɪz ˈəʊnli ə ˈnærəʊ bænd wɪˈðɪn ði ɪˌlektrəʊmæɡˈnetɪk ˈspektrəm/",
+    "grammar": [
+      {
+        "text": "visible",
+        "role": "A",
+        "phonetic": "/ˈvɪzəbl/",
+        "chinese": "可见的"
+      },
+      {
+        "text": "light",
+        "role": "S",
+        "phonetic": "/laɪt/",
+        "chinese": "轻的/浅色的"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/ˈəʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "narrow",
+        "role": "A",
+        "phonetic": "/ˈnærəʊ/",
+        "chinese": "窄的"
+      },
+      {
+        "text": "band",
+        "role": "C",
+        "phonetic": "/bænd/",
+        "chinese": ""
+      },
+      {
+        "text": "within",
+        "role": "P",
+        "phonetic": "/wɪˈðɪn/",
+        "chinese": "在…之内"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "electromagnetic",
+        "role": "A",
+        "phonetic": "/ɪˌlektrəʊmæɡˈnetɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "spectrum",
+        "role": "O",
+        "phonetic": "/ˈspektrəm/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "物理学家已经证明了所有物质都具有波动性",
+    "english": "physicists have demonstrated that all matter possesses wave properties",
+    "soundmark": "/ˈfɪzɪsɪsts hæv ˈdemənstreɪtɪd ðət ɔːl ˈmætə pəˈzesɪz wiːv ˈprɒpətiz/",
+    "grammar": [
+      {
+        "text": "physicists",
+        "role": "S",
+        "phonetic": "/ˈfɪzɪsɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "demonstrated",
+        "role": "V",
+        "phonetic": "/ˈdemənstreɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "C",
+        "phonetic": "/ðət/",
+        "chinese": "那个"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "matter",
+        "role": "S",
+        "phonetic": "/ˈmætə/",
+        "chinese": "要紧"
+      },
+      {
+        "text": "possesses",
+        "role": "V",
+        "phonetic": "/pəˈzesɪz/",
+        "chinese": "拥有"
+      },
+      {
+        "text": "wave",
+        "role": "A",
+        "phonetic": "/wiːv/",
+        "chinese": "挥手/波浪"
+      },
+      {
+        "text": "properties",
+        "role": "O",
+        "phonetic": "/ˈprɒpətiz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "共振",
+    "english": "resonance",
+    "soundmark": "/ˈreznəns/"
+  },
+  {
+    "chinese": "折射",
+    "english": "refraction",
+    "soundmark": "/rɪˈfrækʃən/"
+  },
+  {
+    "chinese": "反射",
+    "english": "reflection",
+    "soundmark": "/rɪˈflekʃən/"
+  },
+  {
+    "chinese": "周期",
+    "english": "period",
+    "soundmark": "/ˈpɪəriəd/"
+  },
+  {
+    "chinese": "谐波",
+    "english": "harmonic",
+    "soundmark": "/hɑːˈmɒnɪk/"
+  },
+  {
+    "chinese": "纵波",
+    "english": "longitudinal wave",
+    "soundmark": "/ˌlɒŋɡɪˈtjuːdɪnəl wiːv/"
+  },
+  {
+    "chinese": "横波",
+    "english": "transverse wave",
+    "soundmark": "/ˈtrænzvɜːs wiːv/"
+  },
+  {
+    "chinese": "振动",
+    "english": "vibration",
+    "soundmark": "/vaɪˈbreɪʃn/"
+  },
+  {
+    "chinese": "波动",
+    "english": "undulation",
+    "soundmark": "/ˌʌndʒʊˈleɪʃn/"
+  },
+  {
+    "chinese": "脉冲",
+    "english": "pulse",
+    "soundmark": "/pʌls/"
+  },
+  {
+    "chinese": "波峰",
+    "english": "crest",
+    "soundmark": "/krest/"
+  }
+]

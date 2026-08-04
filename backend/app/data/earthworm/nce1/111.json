@@ -1,0 +1,436 @@
+[
+  {
+    "chinese": "最大的",
+    "english": "the biggest",
+    "soundmark": "/ðə ˈbɪɡɪst/"
+  },
+  {
+    "chinese": "最小的",
+    "english": "the smallest",
+    "soundmark": "/ðə ˈsmɔːlɪst/"
+  },
+  {
+    "chinese": "最好的",
+    "english": "the best",
+    "soundmark": "/ðə best/"
+  },
+  {
+    "chinese": "最差的",
+    "english": "the worst",
+    "soundmark": "/ðə wɜːst/"
+  },
+  {
+    "chinese": "最贵的",
+    "english": "the most expensive",
+    "soundmark": "/ðə məʊst ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "最便宜的",
+    "english": "the cheapest",
+    "soundmark": "/ðə ˈtʃiːpɪst/"
+  },
+  {
+    "chinese": "最长的",
+    "english": "the longest",
+    "soundmark": "/ðə ˈlɒŋɡɪst/"
+  },
+  {
+    "chinese": "最短的",
+    "english": "the shortest",
+    "soundmark": "/ðə ˈʃɔːtɪst/"
+  },
+  {
+    "chinese": "更高的",
+    "english": "taller",
+    "soundmark": "/ˈtɔːlər/"
+  },
+  {
+    "chinese": "更年长的",
+    "english": "older",
+    "soundmark": "/ˈəʊldər/"
+  },
+  {
+    "chinese": "比较",
+    "english": "compare",
+    "soundmark": "/kəmˈpeər/"
+  },
+  {
+    "chinese": "比",
+    "english": "than",
+    "soundmark": "/ðæn/"
+  },
+  {
+    "chinese": "最热的",
+    "english": "the hottest",
+    "soundmark": "/ðə ˈhɒtɪst/"
+  },
+  {
+    "chinese": "这是这家店里最便宜的",
+    "english": "This is the cheapest in this shop",
+    "soundmark": "/ðɪs ɪz ðə ˈtʃiːpɪst ɪn ðɪs ʃɒp/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the cheapest",
+        "role": "C",
+        "phonetic": "/ðə ˈtʃiːpɪst/",
+        "chinese": "这个/那个/最…的(便宜的)"
+      },
+      {
+        "text": "in this shop",
+        "role": "A",
+        "phonetic": "/ɪn ðɪs ʃɒp/",
+        "chinese": "在…里/这个/商店"
+      }
+    ]
+  },
+  {
+    "chinese": "Tommy是班里最高的男孩",
+    "english": "Tommy is the tallest boy in the class",
+    "soundmark": "/ˈtɒmi ɪz ðə ˈtɔːləst bɔɪ ɪn ðə klɑːs/",
+    "grammar": [
+      {
+        "text": "Tommy",
+        "role": "S",
+        "phonetic": "/ˈtɒmi/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the tallest boy",
+        "role": "C",
+        "phonetic": "/ðə ˈtɔːləst bɔɪ/",
+        "chinese": "这个/那个/最…的(高的)/男孩"
+      },
+      {
+        "text": "in the class",
+        "role": "A",
+        "phonetic": "/ɪn ðə klɑːs/",
+        "chinese": "在班上"
+      }
+    ]
+  },
+  {
+    "chinese": "这条河是英国最长的",
+    "english": "This river is the longest in England",
+    "soundmark": "/ðɪs ˈrɪvər ɪz ðə ˈlɒŋɡɪst ɪn ˈɪŋɡlənd/",
+    "grammar": [
+      {
+        "text": "This river",
+        "role": "S",
+        "phonetic": "/ðɪs ˈrɪvər/",
+        "chinese": "这个/河"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the longest",
+        "role": "C",
+        "phonetic": "/ðə ˈlɒŋɡɪst/",
+        "chinese": "这个/那个/最…的(长的)"
+      },
+      {
+        "text": "in England",
+        "role": "A",
+        "phonetic": "/ɪn ˈɪŋɡlənd/",
+        "chinese": "在…里/英格兰"
+      }
+    ]
+  },
+  {
+    "chinese": "我的哥哥比你大",
+    "english": "My brother is older than you",
+    "soundmark": "/maɪ ˈbrʌðər ɪz ˈəʊldər ðæn juː/",
+    "grammar": [
+      {
+        "text": "My brother",
+        "role": "S",
+        "phonetic": "/maɪ ˈbrʌðər/",
+        "chinese": "我的/兄弟"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "older",
+        "role": "C",
+        "phonetic": "/ˈəʊldər/",
+        "chinese": "更…的/…者(老的/旧的)"
+      },
+      {
+        "text": "than you",
+        "role": "A",
+        "phonetic": "/ðæn juː/",
+        "chinese": "比你"
+      }
+    ]
+  },
+  {
+    "chinese": "今天是今年最热的一天",
+    "english": "Today is the hottest day of the year",
+    "soundmark": "/təˈdeɪ ɪz ðə ˈhɒtɪst deɪ əv ðə jɪər/",
+    "grammar": [
+      {
+        "text": "Today",
+        "role": "S",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the hottest day",
+        "role": "C",
+        "phonetic": "/ðə ˈhɒtɪst deɪ/",
+        "chinese": "这个/那个/最…的(热的)/天/日"
+      },
+      {
+        "text": "of the year",
+        "role": "A",
+        "phonetic": "/əv ðə jɪər/",
+        "chinese": "这一年中"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我看过的最差的电影",
+    "english": "This is the worst film I have ever seen",
+    "soundmark": "/ðɪs ɪz ðə wɜːst fɪlm aɪ hæv ˈevər siːn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the worst film",
+        "role": "C",
+        "phonetic": "/ðə wɜːst fɪlm/",
+        "chinese": "这个/那个/最糟/电影"
+      },
+      {
+        "text": "I have ever seen",
+        "role": "A",
+        "phonetic": "/aɪ hæv ˈevər siːn/",
+        "chinese": "我/有/助动词/曾经/看见（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "她的英语比我好",
+    "english": "Her English is better than mine",
+    "soundmark": "/hər ˈɪŋɡlɪʃ ɪz ˈbetər ðæn maɪn/",
+    "grammar": [
+      {
+        "text": "Her English",
+        "role": "S",
+        "phonetic": "/hər ˈɪŋɡlɪʃ/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "better",
+        "role": "C",
+        "phonetic": "/ˈbetər/",
+        "chinese": "更好"
+      },
+      {
+        "text": "than mine",
+        "role": "A",
+        "phonetic": "/ðæn maɪn/",
+        "chinese": "比/我的（东西）"
+      }
+    ]
+  },
+  {
+    "chinese": "他是我们学校最好的学生",
+    "english": "He is the best student in our school",
+    "soundmark": "/hiː ɪz ðə best ˈstjuːdənt ɪn aʊər skuːl/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the best student",
+        "role": "C",
+        "phonetic": "/ðə best ˈstjuːdənt/",
+        "chinese": "这个/那个/最好/学生"
+      },
+      {
+        "text": "in our school",
+        "role": "A",
+        "phonetic": "/ɪn aʊər skuːl/",
+        "chinese": "在…里/我们的/学校"
+      }
+    ]
+  },
+  {
+    "chinese": "这本书比那本有趣",
+    "english": "This book is more interesting than that one",
+    "soundmark": "/ðɪs bʊk ɪz mɔːr ˈɪntrəstɪŋ ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This book",
+        "role": "S",
+        "phonetic": "/ðɪs bʊk/",
+        "chinese": "这个/预订/书"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more interesting",
+        "role": "C",
+        "phonetic": "/mɔːr ˈɪntrəstɪŋ/",
+        "chinese": "更多/有趣的"
+      },
+      {
+        "text": "than that one",
+        "role": "A",
+        "phonetic": "/ðæn ðæt wʌn/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "哪个是最贵的",
+    "english": "Which is the most expensive",
+    "soundmark": "/wɪtʃ ɪz ðə məʊst ɪkˈspensɪv/",
+    "grammar": [
+      {
+        "text": "Which",
+        "role": "S",
+        "phonetic": "/wɪtʃ/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the most expensive",
+        "role": "C",
+        "phonetic": "/ðə məʊst ɪkˈspensɪv/",
+        "chinese": "这个/那个/大多数/昂贵的"
+      }
+    ]
+  },
+  {
+    "chinese": "这条裙子太短了",
+    "english": "This skirt is too short",
+    "soundmark": "/ðɪs skɜːt ɪz tuː ʃɔːt/",
+    "grammar": [
+      {
+        "text": "This skirt",
+        "role": "S",
+        "phonetic": "/ðɪs skɜːt/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too short",
+        "role": "C",
+        "phonetic": "/tuː ʃɔːt/",
+        "chinese": "也/太/短的"
+      }
+    ]
+  },
+  {
+    "chinese": "河流",
+    "english": "river",
+    "soundmark": "/ˈrɪvər/"
+  },
+  {
+    "chinese": "电影",
+    "english": "film",
+    "soundmark": "/fɪlm/"
+  },
+  {
+    "chinese": "学校",
+    "english": "school",
+    "soundmark": "/skuːl/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "书",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "chinese": "学生",
+    "english": "student",
+    "soundmark": "/ˈstjuːdənt/"
+  },
+  {
+    "chinese": "商店",
+    "english": "shop",
+    "soundmark": "/ʃɒp/"
+  },
+  {
+    "chinese": "裙子",
+    "english": "skirt",
+    "soundmark": "/skɜːt/"
+  }
+]

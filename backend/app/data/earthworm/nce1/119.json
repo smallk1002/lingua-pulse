@@ -1,0 +1,204 @@
+[
+  {
+    "english": "true",
+    "chinese": "真实的",
+    "soundmark": "/truː/"
+  },
+  {
+    "english": "story",
+    "chinese": "故事",
+    "soundmark": "/ˈstɔːri/"
+  },
+  {
+    "english": "happen",
+    "chinese": "发生",
+    "soundmark": "/ˈhæpən/"
+  },
+  {
+    "english": "believe",
+    "chinese": "相信",
+    "soundmark": "/bɪˈliːv/"
+  },
+  {
+    "chinese": "这是一个真实的故事",
+    "english": "This is a true story",
+    "soundmark": "/ðɪs ɪz ə truː ˈstɔːri/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "true",
+        "role": "Det",
+        "phonetic": "/truː/",
+        "chinese": "真的"
+      },
+      {
+        "text": "story",
+        "role": "C",
+        "phonetic": "/ˈstɔːri/",
+        "chinese": "故事"
+      }
+    ]
+  },
+  {
+    "chinese": "它真的发生了",
+    "english": "It really happened",
+    "soundmark": "/ɪt ˈriːəli ˈhæpənd/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "really",
+        "role": "Adv",
+        "phonetic": "/ˈriːəli/",
+        "chinese": "真正地"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      }
+    ]
+  },
+  {
+    "chinese": "你可能不会相信",
+    "english": "You might not believe it",
+    "soundmark": "/juː maɪt nɑːt bɪˈliːv ɪt/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "not",
+        "role": "Adv",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "believe",
+        "role": "V",
+        "phonetic": "/bɪˈliːv/",
+        "chinese": "相信"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "故事发生在上个月",
+    "english": "The story happened last month",
+    "soundmark": "/ðə ˈstɔːri ˈhæpənd læst mʌnθ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "story",
+        "role": "S",
+        "phonetic": "/ˈstɔːri/",
+        "chinese": "故事"
+      },
+      {
+        "text": "happened",
+        "role": "V",
+        "phonetic": "/ˈhæpənd/",
+        "chinese": "发生"
+      },
+      {
+        "text": "last",
+        "role": "Det",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "month",
+        "role": "T",
+        "phonetic": "/mʌnθ/",
+        "chinese": "月"
+      }
+    ]
+  },
+  {
+    "chinese": "非常有趣",
+    "english": "It's very interesting",
+    "soundmark": "/ɪts ˈveri ˈɪntrəstɪŋ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "'s",
+        "role": "V",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      }
+    ]
+  },
+  {
+    "english": "amazing",
+    "chinese": "惊人的",
+    "soundmark": "/əˈmeɪzɪŋ/"
+  },
+  {
+    "english": "incredible",
+    "chinese": "难以置信的",
+    "soundmark": "/ɪnˈkredəbəl/"
+  },
+  {
+    "english": "experience",
+    "chinese": "经历",
+    "soundmark": "/ɪkˈspɪriəns/"
+  }
+]

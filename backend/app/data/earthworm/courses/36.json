@@ -1,0 +1,1083 @@
+[
+  {
+    "chinese": "餐厅",
+    "english": "restaurant",
+    "soundmark": "/ˈrestərɑːnt/"
+  },
+  {
+    "chinese": "菜单",
+    "english": "menu",
+    "soundmark": "/ˈmenjuː/"
+  },
+  {
+    "chinese": "菜单(英式)",
+    "english": "order",
+    "soundmark": "/ˈɔːrdər/"
+  },
+  {
+    "chinese": "账单",
+    "english": "bill",
+    "soundmark": "/bɪl/"
+  },
+  {
+    "chinese": "服务员",
+    "english": "waiter",
+    "soundmark": "/ˈweɪtər/"
+  },
+  {
+    "chinese": "女服务员",
+    "english": "waitress",
+    "soundmark": "/ˈweɪtrəs/"
+  },
+  {
+    "chinese": "预订",
+    "english": "reservation",
+    "soundmark": "/ˌrezərˈveɪʃn/"
+  },
+  {
+    "chinese": "小费",
+    "english": "tip",
+    "soundmark": "/tɪp/"
+  },
+  {
+    "chinese": "开胃菜",
+    "english": "appetizer",
+    "soundmark": "/ˈæpɪtaɪzər/"
+  },
+  {
+    "chinese": "主菜",
+    "english": "main course",
+    "soundmark": "/meɪn kɔːrs/"
+  },
+  {
+    "chinese": "甜点",
+    "english": "dessert",
+    "soundmark": "/dɪˈzɜːrt/"
+  },
+  {
+    "chinese": "饮料",
+    "english": "drink",
+    "soundmark": "/drɪŋk/"
+  },
+  {
+    "chinese": "想吃/想要",
+    "english": "would like",
+    "soundmark": "/wʊd laɪk/"
+  },
+  {
+    "chinese": "美味",
+    "english": "delicious",
+    "soundmark": "/dɪˈlɪʃəs/"
+  },
+  {
+    "chinese": "点餐",
+    "english": "take an order",
+    "soundmark": "/teɪk ən ˈɔːrdər/"
+  },
+  {
+    "chinese": "你能拿菜单来吗？",
+    "english": "Can you bring the menu",
+    "soundmark": "/kæn juː brɪŋ ðə ˈmenjuː/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "bring",
+        "role": "V",
+        "phonetic": "/brɪŋ/",
+        "chinese": "带来"
+      },
+      {
+        "text": "the menu",
+        "role": "O",
+        "phonetic": "/ðə ˈmenjuː/",
+        "chinese": "这个/那个/菜单"
+      }
+    ]
+  },
+  {
+    "chinese": "我想点餐。",
+    "english": "I would like to order",
+    "soundmark": "/aɪ wʊd laɪk tuː ˈɔːrdər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like",
+        "role": "V",
+        "phonetic": "/wʊd laɪk/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to order",
+        "role": "O",
+        "phonetic": "/tuː ˈɔːrdər/",
+        "chinese": "到/向/秩序/命令"
+      }
+    ]
+  },
+  {
+    "chinese": "你们有素食的吗？",
+    "english": "Do you have vegetarian options",
+    "soundmark": "/duː juː hæv ˌvedʒəˈteriən ˈɑːpʃnz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "vegetarian options",
+        "role": "O",
+        "phonetic": "/ˌvedʒəˈteriən ˈɑːpʃnz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我想要一份牛排。",
+    "english": "I would like a steak",
+    "soundmark": "/aɪ wʊd laɪk ə steɪk/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like",
+        "role": "V",
+        "phonetic": "/wʊd laɪk/",
+        "chinese": "想要"
+      },
+      {
+        "text": "a steak",
+        "role": "O",
+        "phonetic": "/ə steɪk/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "你能推荐一下吗？",
+    "english": "Can you recommend something",
+    "soundmark": "/kæn juː ˌrekəˈmend ˈsʌmθɪŋ/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "recommend",
+        "role": "V",
+        "phonetic": "/ˌrekəˈmend/",
+        "chinese": ""
+      },
+      {
+        "text": "something",
+        "role": "O",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      }
+    ]
+  },
+  {
+    "chinese": "我预订了一张两人桌。",
+    "english": "I have a reservation for two",
+    "soundmark": "/aɪ hæv ə ˌrezərˈveɪʃn fɔːr tuː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a reservation",
+        "role": "O",
+        "phonetic": "/ə ˌrezərˈveɪʃn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "for two",
+        "role": "A",
+        "phonetic": "/fɔːr tuː/",
+        "chinese": "为了/对于/二"
+      }
+    ]
+  },
+  {
+    "chinese": "这菜太好吃了。",
+    "english": "This dish is delicious",
+    "soundmark": "/ðɪs dɪʃ ɪz dɪˈlɪʃəs/",
+    "grammar": [
+      {
+        "text": "This dish",
+        "role": "S",
+        "phonetic": "/ðɪs dɪʃ/",
+        "chinese": "这个/碟子/菜"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "delicious",
+        "role": "C",
+        "phonetic": "/dɪˈlɪʃəs/",
+        "chinese": "美味的"
+      }
+    ]
+  },
+  {
+    "chinese": "请给我菜单看看。",
+    "english": "Could I see the menu please",
+    "soundmark": "/kʊd aɪ siː ðə ˈmenjuː pliːz/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "the menu",
+        "role": "O",
+        "phonetic": "/ðə ˈmenjuː/",
+        "chinese": "这个/那个/菜单"
+      },
+      {
+        "text": "please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      }
+    ]
+  },
+  {
+    "chinese": "你要喝点什么？",
+    "english": "What would you like to drink",
+    "soundmark": "/wɑːt wʊd juː laɪk tuː drɪŋk/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wɑːt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "to drink",
+        "role": "O",
+        "phonetic": "/tuː drɪŋk/",
+        "chinese": "到/向/饮料"
+      }
+    ]
+  },
+  {
+    "chinese": "我要一杯咖啡。",
+    "english": "I will have a cup of coffee",
+    "soundmark": "/aɪ wɪl hæv ə kʌp ʌv ˈkɔːfi/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will have",
+        "role": "V",
+        "phonetic": "/wɪl hæv/",
+        "chinese": "将会有"
+      },
+      {
+        "text": "a cup of coffee",
+        "role": "O",
+        "phonetic": "/ə kʌp ʌv ˈkɔːfi/",
+        "chinese": "一个/杯子/…的/咖啡"
+      }
+    ]
+  },
+  {
+    "chinese": "我们可以分开结账吗？",
+    "english": "Can we split the bill",
+    "soundmark": "/kæn wiː splɪt ðə bɪl/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "split",
+        "role": "V",
+        "phonetic": "/splɪt/",
+        "chinese": "分裂（过去式/过去分词）"
+      },
+      {
+        "text": "the bill",
+        "role": "O",
+        "phonetic": "/ðə bɪl/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "牛排要几分熟？",
+    "english": "How would you like your steak",
+    "soundmark": "/haʊ wʊd juː laɪk jɔːr steɪk/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "A",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "your steak",
+        "role": "O",
+        "phonetic": "/jɔːr steɪk/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "账单多少钱？",
+    "english": "How much is the bill",
+    "soundmark": "/haʊ mʌtʃ ɪz ðə bɪl/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the bill",
+        "role": "S",
+        "phonetic": "/ðə bɪl/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "服务员非常友好。",
+    "english": "The waiter is very friendly",
+    "soundmark": "/ðə ˈweɪtər ɪz ˈveri ˈfrendli/",
+    "grammar": [
+      {
+        "text": "The waiter",
+        "role": "S",
+        "phonetic": "/ðə ˈweɪtər/",
+        "chinese": "这个/那个/更…的/…者(等)"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very friendly",
+        "role": "C",
+        "phonetic": "/ˈveri ˈfrendli/",
+        "chinese": "非常/…地(朋友)"
+      }
+    ]
+  },
+  {
+    "chinese": "我想订一个靠窗的座位。",
+    "english": "I would like a table by the window",
+    "soundmark": "/aɪ wʊd laɪk ə ˈteɪbl baɪ ðə ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like",
+        "role": "V",
+        "phonetic": "/wʊd laɪk/",
+        "chinese": "想要"
+      },
+      {
+        "text": "a table",
+        "role": "O",
+        "phonetic": "/ə ˈteɪbl/",
+        "chinese": "一个"
+      },
+      {
+        "text": "by the window",
+        "role": "A",
+        "phonetic": "/baɪ ðə ˈwɪndoʊ/",
+        "chinese": "通过/被/在…旁/这个/那个/窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "我们不着急。",
+    "english": "We are not in a hurry",
+    "soundmark": "/wiː ɑːr nɑːt ɪn ə ˈhɜːri/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "in a hurry",
+        "role": "C",
+        "phonetic": "/ɪn ə ˈhɜːri/",
+        "chinese": "在…里/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "请把盐递给我。",
+    "english": "Please pass me the salt",
+    "soundmark": "/pliːz pæs miː ðə sɔːlt/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "pass",
+        "role": "V",
+        "phonetic": "/pæs/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "the salt",
+        "role": "O",
+        "phonetic": "/ðə sɔːlt/",
+        "chinese": "这个/那个/盐"
+      }
+    ]
+  },
+  {
+    "chinese": "我对花生过敏。",
+    "english": "I am allergic to peanuts",
+    "soundmark": "/aɪ æm əˈlɜːrdʒɪk tuː ˈpiːnʌts/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "allergic",
+        "role": "C",
+        "phonetic": "/əˈlɜːrdʒɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "to peanuts",
+        "role": "A",
+        "phonetic": "/tuː ˈpiːnʌts/",
+        "chinese": "到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "这个菜太辣了。",
+    "english": "This dish is too spicy",
+    "soundmark": "/ðɪs dɪʃ ɪz tuː ˈspaɪsi/",
+    "grammar": [
+      {
+        "text": "This dish",
+        "role": "S",
+        "phonetic": "/ðɪs dɪʃ/",
+        "chinese": "这个/碟子/菜"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too spicy",
+        "role": "C",
+        "phonetic": "/tuː ˈspaɪsi/",
+        "chinese": "也/太/辣的"
+      }
+    ]
+  },
+  {
+    "chinese": "请给我加点水。",
+    "english": "Could I have some more water",
+    "soundmark": "/kʊd aɪ hæv sʌm mɔːr ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "Could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "some more water",
+        "role": "O",
+        "phonetic": "/sʌm mɔːr ˈwɔːtər/",
+        "chinese": "一些/更多/水"
+      }
+    ]
+  },
+  {
+    "chinese": "我们等了三十分钟。",
+    "english": "We have been waiting for thirty minutes",
+    "soundmark": "/wiː hæv biːn ˈweɪtɪŋ fɔːr ˈθɜːrti ˈmɪnɪts/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have been waiting",
+        "role": "V",
+        "phonetic": "/hæv biːn ˈweɪtɪŋ/",
+        "chinese": "有/助动词/是（过去分词）/等"
+      },
+      {
+        "text": "for thirty minutes",
+        "role": "A",
+        "phonetic": "/fɔːr ˈθɜːrti ˈmɪnɪts/",
+        "chinese": "为了/对于/三十/…们/复数(分钟)"
+      }
+    ]
+  },
+  {
+    "chinese": "今天的特色菜是什么？",
+    "english": "What is the special today",
+    "soundmark": "/wɑːt ɪz ðə ˈspeʃl təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "C",
+        "phonetic": "/wɑːt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the special",
+        "role": "S",
+        "phonetic": "/ðə ˈspeʃl/",
+        "chinese": "这个/那个/特别的"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "你能把打包盒给我吗？",
+    "english": "Can I get a box to go",
+    "soundmark": "/kæn aɪ ɡet ə bɑːks tuː ɡoʊ/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "a box to go",
+        "role": "O",
+        "phonetic": "/ə bɑːks tuː ɡoʊ/",
+        "chinese": "一个/箱子/盒/到/向/去"
+      }
+    ]
+  },
+  {
+    "chinese": "这里服务太好了。",
+    "english": "The service here is great",
+    "soundmark": "/ðə ˈsɜːrvɪs hɪr ɪz ɡreɪt/",
+    "grammar": [
+      {
+        "text": "The service",
+        "role": "S",
+        "phonetic": "/ðə ˈsɜːrvɪs/",
+        "chinese": "这个/那个/服务"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "great",
+        "role": "C",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      }
+    ]
+  },
+  {
+    "chinese": "我要一份和那位先生一样的。",
+    "english": "I will have the same as that gentleman",
+    "soundmark": "/aɪ wɪl hæv ðə seɪm æz ðæt ˈdʒentlmən/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will have",
+        "role": "V",
+        "phonetic": "/wɪl hæv/",
+        "chinese": "将会有"
+      },
+      {
+        "text": "the same as that gentleman",
+        "role": "O",
+        "phonetic": "/ðə seɪm æz ðæt ˈdʒentlmən/",
+        "chinese": "这个/那个/相同的/当…时/作为/因为/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "我还没决定要点什么。",
+    "english": "I have not decided what to order yet",
+    "soundmark": "/aɪ hæv nɑːt dɪˈsaɪdɪd wɑːt tuː ˈɔːrdər jet/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have not decided",
+        "role": "V",
+        "phonetic": "/hæv nɑːt dɪˈsaɪdɪd/",
+        "chinese": "有/助动词/不/决定"
+      },
+      {
+        "text": "what to order",
+        "role": "O",
+        "phonetic": "/wɑːt tuː ˈɔːrdər/",
+        "chinese": "什么/到/向/秩序/命令"
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "我们上次来这里吃了晚饭。",
+    "english": "We had dinner here last time",
+    "soundmark": "/wiː hæd ˈdɪnər hɪr læst taɪm/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "dinner",
+        "role": "O",
+        "phonetic": "/ˈdɪnər/",
+        "chinese": "晚餐"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪr/",
+        "chinese": "这里"
+      },
+      {
+        "text": "last time",
+        "role": "A",
+        "phonetic": "/læst taɪm/",
+        "chinese": "最后/时间"
+      }
+    ]
+  },
+  {
+    "chinese": "请慢用。",
+    "english": "Please enjoy your meal",
+    "soundmark": "/pliːz ɪnˈdʒɔɪ jɔːr miːl/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "enjoy",
+        "role": "V",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "chinese": "享受/喜欢"
+      },
+      {
+        "text": "your meal",
+        "role": "O",
+        "phonetic": "/jɔːr miːl/",
+        "chinese": "你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "服务员给我们找了个好座位。",
+    "english": "The waitress found us a good table",
+    "soundmark": "/ðə ˈweɪtrəs faʊnd ʌs ə ɡʊd ˈteɪbl/",
+    "grammar": [
+      {
+        "text": "The waitress",
+        "role": "S",
+        "phonetic": "/ðə ˈweɪtrəs/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      },
+      {
+        "text": "a good table",
+        "role": "O",
+        "phonetic": "/ə ɡʊd ˈteɪbl/",
+        "chinese": "一个/好的"
+      }
+    ]
+  },
+  {
+    "chinese": "这顿晚餐太完美了。",
+    "english": "This dinner was perfect",
+    "soundmark": "/ðɪs ˈdɪnər wʌz ˈpɜːrfɪkt/",
+    "grammar": [
+      {
+        "text": "This dinner",
+        "role": "S",
+        "phonetic": "/ðɪs ˈdɪnər/",
+        "chinese": "这个"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "perfect",
+        "role": "C",
+        "phonetic": "/ˈpɜːrfɪkt/",
+        "chinese": "完美的"
+      }
+    ]
+  },
+  {
+    "chinese": "要不要再来点面包？",
+    "english": "Would you like some more bread",
+    "soundmark": "/wʊd juː laɪk sʌm mɔːr bred/",
+    "grammar": [
+      {
+        "text": "Would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "some more bread",
+        "role": "O",
+        "phonetic": "/sʌm mɔːr bred/",
+        "chinese": "一些/更多/面包"
+      }
+    ]
+  },
+  {
+    "chinese": "我饱了，吃不下了。",
+    "english": "I am full and cannot eat anymore",
+    "soundmark": "/aɪ æm fʊl ænd ˈkænɑːt iːt ˌeniˈmɔːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "full",
+        "role": "C",
+        "phonetic": "/fʊl/",
+        "chinese": "满的/饱的"
+      },
+      {
+        "text": "and",
+        "role": "V",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "cannot eat anymore",
+        "role": "V",
+        "phonetic": "/ˈkænɑːt iːt ˌeniˈmɔːr/",
+        "chinese": "不能/吃"
+      }
+    ]
+  },
+  {
+    "chinese": "预订",
+    "english": "reservation",
+    "soundmark": "/ˌrezərˈveɪʃn/"
+  },
+  {
+    "chinese": "特色菜",
+    "english": "special",
+    "soundmark": "/ˈspeʃl/"
+  },
+  {
+    "chinese": "过敏",
+    "english": "allergic",
+    "soundmark": "/əˈlɜːrdʒɪk/"
+  },
+  {
+    "chinese": "花生",
+    "english": "peanut",
+    "soundmark": "/ˈpiːnʌt/"
+  },
+  {
+    "chinese": "打包",
+    "english": "to go",
+    "soundmark": "/tuː ɡoʊ/"
+  },
+  {
+    "chinese": "推荐",
+    "english": "recommend",
+    "soundmark": "/ˌrekəˈmend/"
+  },
+  {
+    "chinese": "服务",
+    "english": "service",
+    "soundmark": "/ˈsɜːrvɪs/"
+  },
+  {
+    "chinese": "素食",
+    "english": "vegetarian",
+    "soundmark": "/ˌvedʒəˈteriən/"
+  },
+  {
+    "chinese": "美味",
+    "english": "delicious",
+    "soundmark": "/dɪˈlɪʃəs/"
+  },
+  {
+    "chinese": "完美",
+    "english": "perfect",
+    "soundmark": "/ˈpɜːrfɪkt/"
+  }
+]

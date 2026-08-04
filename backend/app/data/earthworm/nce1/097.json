@@ -1,0 +1,262 @@
+[
+  {
+    "english": "small",
+    "chinese": "小的",
+    "soundmark": "/smɔːl/"
+  },
+  {
+    "english": "blue",
+    "chinese": "蓝色的",
+    "soundmark": "/bluː/"
+  },
+  {
+    "english": "case",
+    "chinese": "箱子",
+    "soundmark": "/keɪs/"
+  },
+  {
+    "english": "belong",
+    "chinese": "属于",
+    "soundmark": "/bɪˈlɔːŋ/"
+  },
+  {
+    "english": "owner",
+    "chinese": "主人",
+    "soundmark": "/ˈoʊnər/"
+  },
+  {
+    "english": "return",
+    "chinese": "归还",
+    "soundmark": "/rɪˈtɜːrn/"
+  },
+  {
+    "chinese": "这是一个小蓝箱子",
+    "english": "This is a small blue case",
+    "soundmark": "/ðɪs ɪz ə smɔːl bluː keɪs/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "small",
+        "role": "Det",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "blue",
+        "role": "Det",
+        "phonetic": "/bluː/",
+        "chinese": "蓝色的"
+      },
+      {
+        "text": "case",
+        "role": "C",
+        "phonetic": "/keɪs/",
+        "chinese": "情况/案例"
+      }
+    ]
+  },
+  {
+    "chinese": "这个箱子属于谁？",
+    "english": "Who does this case belong to?",
+    "soundmark": "/huː dʌz ðɪs keɪs bɪˈlɔːŋ tə/",
+    "grammar": [
+      {
+        "text": "Who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "case",
+        "role": "S",
+        "phonetic": "/keɪs/",
+        "chinese": "情况/案例"
+      },
+      {
+        "text": "belong",
+        "role": "V",
+        "phonetic": "/bɪˈlɔːŋ/",
+        "chinese": "属于"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "我在地上发现了它",
+    "english": "I found it on the ground",
+    "soundmark": "/aɪ faʊnd ɪt ɒn ðə ɡraʊnd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ground",
+        "role": "O",
+        "phonetic": "/ɡraʊnd/",
+        "chinese": "地面"
+      }
+    ]
+  },
+  {
+    "chinese": "让我们想办法找到主人",
+    "english": "Let's try to find the owner",
+    "soundmark": "/lets traɪ tə faɪnd ðə ˈoʊnər/",
+    "grammar": [
+      {
+        "text": "Let",
+        "role": "V",
+        "phonetic": "/lets/",
+        "chinese": "让"
+      },
+      {
+        "text": "'s",
+        "role": "O",
+        "phonetic": "/s/",
+        "chinese": ""
+      },
+      {
+        "text": "try",
+        "role": "V",
+        "phonetic": "/traɪ/",
+        "chinese": "尝试"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "owner",
+        "role": "O",
+        "phonetic": "/ˈoʊnər/",
+        "chinese": "更…的/…者(自己的)"
+      }
+    ]
+  },
+  {
+    "chinese": "箱子可能是她的",
+    "english": "The case might be hers",
+    "soundmark": "/ðə keɪs maɪt biː hɜːrz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "case",
+        "role": "S",
+        "phonetic": "/keɪs/",
+        "chinese": "情况/案例"
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "hers",
+        "role": "C",
+        "phonetic": "/hɜːrz/",
+        "chinese": "她的"
+      }
+    ]
+  },
+  {
+    "english": "lost",
+    "chinese": "丢失的",
+    "soundmark": "/lɔːst/"
+  },
+  {
+    "english": "found",
+    "chinese": "被发现的",
+    "soundmark": "/faʊnd/"
+  },
+  {
+    "english": "valuable",
+    "chinese": "有价值的",
+    "soundmark": "/ˈvæljuəbəl/"
+  }
+]

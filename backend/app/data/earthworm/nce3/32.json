@@ -1,0 +1,875 @@
+[
+  {
+    "chinese": "沉船",
+    "english": "wreck",
+    "soundmark": "/rek/"
+  },
+  {
+    "chinese": "货物",
+    "english": "cargo",
+    "soundmark": "/ˈkɑːrɡoʊ/"
+  },
+  {
+    "chinese": "打捞",
+    "english": "salvage",
+    "soundmark": "/ˈsælvɪdʒ/"
+  },
+  {
+    "chinese": "海床",
+    "english": "seabed",
+    "soundmark": "/ˈsiːbed/"
+  },
+  {
+    "chinese": "寻回",
+    "english": "recover",
+    "soundmark": "/rɪˈkʌvər/"
+  },
+  {
+    "chinese": "价值",
+    "english": "value",
+    "soundmark": "/ˈvæljuː/"
+  },
+  {
+    "chinese": "金银块",
+    "english": "bullion",
+    "soundmark": "/ˈbʊljən/"
+  },
+  {
+    "chinese": "潜水员",
+    "english": "diver",
+    "soundmark": "/ˈdaɪvər/"
+  },
+  {
+    "chinese": "被找到",
+    "english": "was found",
+    "soundmark": "/wʌz faʊnd/"
+  },
+  {
+    "chinese": "被发现",
+    "english": "was discovered",
+    "soundmark": "/wʌz dɪˈskʌvərd/"
+  },
+  {
+    "chinese": "被沉没",
+    "english": "was sunk",
+    "soundmark": "/wʌz sʌŋk/"
+  },
+  {
+    "chinese": "被带回",
+    "english": "was brought back",
+    "soundmark": "/wʌz brɔːt bæk/"
+  },
+  {
+    "chinese": "被打捞上来",
+    "english": "was salvaged",
+    "soundmark": "/wʌz ˈsælvɪdʒd/"
+  },
+  {
+    "chinese": "这艘船是1943年被击沉的。",
+    "english": "The ship was sunk in 1943",
+    "soundmark": "/ðə ʃɪp wʌz sʌŋk ɪn ˌnaɪnˈtiːn ˈfɔːrti θriː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ship",
+        "role": "S",
+        "phonetic": "/ʃɪp/",
+        "chinese": "船"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "sunk",
+        "role": "V",
+        "phonetic": "/sʌŋk/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "1943",
+        "role": "A",
+        "phonetic": "/ˌnaɪnˈtiːn ˈfɔːrti θriː/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这艘沉船去年被潜水员发现了。",
+    "english": "The wreck was discovered by divers last year",
+    "soundmark": "/ðə rek wʌz dɪˈskʌvərd baɪ ˈdaɪvərz læst jɪr/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wreck",
+        "role": "S",
+        "phonetic": "/rek/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "discovered",
+        "role": "V",
+        "phonetic": "/dɪˈskʌvərd/",
+        "chinese": "发现"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "divers",
+        "role": "A",
+        "phonetic": "/ˈdaɪvərz/",
+        "chinese": ""
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "贵重货物已经被打捞了。",
+    "english": "The valuable cargo had already been salvaged",
+    "soundmark": "/ðə ˈvæljuəbəl ˈkɑːrɡoʊ hæd ɔːlˈredi biːn ˈsælvɪdʒd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "valuable",
+        "role": "C",
+        "phonetic": "/ˈvæljuəbəl/",
+        "chinese": "有价值的"
+      },
+      {
+        "text": "cargo",
+        "role": "S",
+        "phonetic": "/ˈkɑːrɡoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "Adv",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "salvaged",
+        "role": "V",
+        "phonetic": "/ˈsælvɪdʒd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "船长没有被告知船上有金条。",
+    "english": "The captain had not been told about the gold bullion",
+    "soundmark": "/ðə ˈkæptɪn hæd nɑːt biːn toʊld əˈbaʊt ðə ɡoʊld ˈbʊljən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "captain",
+        "role": "S",
+        "phonetic": "/ˈkæptɪn/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "about",
+        "role": "P",
+        "phonetic": "/əˈbaʊt/",
+        "chinese": "关于/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "gold",
+        "role": "C",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "bullion",
+        "role": "O",
+        "phonetic": "/ˈbʊljən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "船沉没之前它已经被鱼雷击中了。",
+    "english": "The ship had been hit by a torpedo before it sank",
+    "soundmark": "/ðə ʃɪp hæd biːn hɪt baɪ ə tɔːrˈpiːdoʊ bɪˈfɔːr ɪt sæŋk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ship",
+        "role": "S",
+        "phonetic": "/ʃɪp/",
+        "chinese": "船"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "hit",
+        "role": "V",
+        "phonetic": "/hɪt/",
+        "chinese": "打/击中"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "torpedo",
+        "role": "A",
+        "phonetic": "/tɔːrˈpiːdoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "sank",
+        "role": "V",
+        "phonetic": "/sæŋk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这些金条被秘密地装上了船。",
+    "english": "The gold bars had been secretly loaded onto the ship",
+    "soundmark": "/ðə ɡoʊld bɑːrz hæd biːn ˈsiːkrɪtli ˈloʊdɪd ˈɒntuː ðə ʃɪp/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "gold",
+        "role": "C",
+        "phonetic": "/ɡoʊld/",
+        "chinese": "金子/金色"
+      },
+      {
+        "text": "bars",
+        "role": "S",
+        "phonetic": "/bɑːrz/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "secretly",
+        "role": "Adv",
+        "phonetic": "/ˈsiːkrɪtli/",
+        "chinese": "…地(秘密)"
+      },
+      {
+        "text": "loaded",
+        "role": "V",
+        "phonetic": "/ˈloʊdɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "onto",
+        "role": "P",
+        "phonetic": "/ˈɒntuː/",
+        "chinese": "到…上面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ship",
+        "role": "A",
+        "phonetic": "/ʃɪp/",
+        "chinese": "船"
+      }
+    ]
+  },
+  {
+    "chinese": "当潜水员到达时海床已经被搜查过了。",
+    "english": "The seabed had been searched when the divers arrived",
+    "soundmark": "/ðə ˈsiːbed hæd biːn sɜːrtʃt wen ðə ˈdaɪvərz əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "seabed",
+        "role": "S",
+        "phonetic": "/ˈsiːbed/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "searched",
+        "role": "V",
+        "phonetic": "/sɜːrtʃt/",
+        "chinese": "搜索"
+      },
+      {
+        "text": "when",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "divers",
+        "role": "S",
+        "phonetic": "/ˈdaɪvərz/",
+        "chinese": ""
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "没有人知道货物那么值钱。",
+    "english": "Nobody knew that the cargo was so valuable",
+    "soundmark": "/ˈnoʊbədi nuː ðæt ðə ˈkɑːrɡoʊ wʌz soʊ ˈvæljuəbəl/",
+    "grammar": [
+      {
+        "text": "Nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "knew",
+        "role": "V",
+        "phonetic": "/nuː/",
+        "chinese": "知道（过去式）"
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cargo",
+        "role": "S",
+        "phonetic": "/ˈkɑːrɡoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "so",
+        "role": "Adv",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "valuable",
+        "role": "C",
+        "phonetic": "/ˈvæljuəbəl/",
+        "chinese": "有价值的"
+      }
+    ]
+  },
+  {
+    "chinese": "这艘船被命令开往一个秘密目的地。",
+    "english": "The ship was ordered to sail to a secret destination",
+    "soundmark": "/ðə ʃɪp wʌz ˈɔːrdərd tuː seɪl tuː ə ˈsiːkrɪt ˌdestɪˈneɪʃən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ship",
+        "role": "S",
+        "phonetic": "/ʃɪp/",
+        "chinese": "船"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "ordered",
+        "role": "V",
+        "phonetic": "/ˈɔːrdərd/",
+        "chinese": "点餐/命令/顺序"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "sail",
+        "role": "V",
+        "phonetic": "/seɪl/",
+        "chinese": "航行"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "secret",
+        "role": "C",
+        "phonetic": "/ˈsiːkrɪt/",
+        "chinese": "秘密"
+      },
+      {
+        "text": "destination",
+        "role": "A",
+        "phonetic": "/ˌdestɪˈneɪʃən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "当它航行时这艘船被认为是在执行常规任务。",
+    "english": "The ship was believed to be on a routine mission when it sailed",
+    "soundmark": "/ðə ʃɪp wʌz bɪˈliːvd tuː biː ɑːn ə ruːˈtiːn ˈmɪʃən wen ɪt seɪld/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ship",
+        "role": "S",
+        "phonetic": "/ʃɪp/",
+        "chinese": "船"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "believed",
+        "role": "V",
+        "phonetic": "/bɪˈliːvd/",
+        "chinese": "相信"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "routine",
+        "role": "C",
+        "phonetic": "/ruːˈtiːn/",
+        "chinese": ""
+      },
+      {
+        "text": "mission",
+        "role": "A",
+        "phonetic": "/ˈmɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "when",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "sailed",
+        "role": "V",
+        "phonetic": "/seɪld/",
+        "chinese": "航行"
+      }
+    ]
+  },
+  {
+    "chinese": "沉船被找到后金条被打捞并归还了。",
+    "english": "After the wreck was found the bullion was recovered and returned",
+    "soundmark": "/ˈæftər ðə rek wʌz faʊnd ðə ˈbʊljən wʌz rɪˈkʌvərd ænd rɪˈtɜːrnd/",
+    "grammar": [
+      {
+        "text": "After",
+        "role": "A",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wreck",
+        "role": "S",
+        "phonetic": "/rek/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bullion",
+        "role": "S",
+        "phonetic": "/ˈbʊljən/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "recovered",
+        "role": "V",
+        "phonetic": "/rɪˈkʌvərd/",
+        "chinese": ""
+      },
+      {
+        "text": "and",
+        "role": "A",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "returned",
+        "role": "V",
+        "phonetic": "/rɪˈtɜːrnd/",
+        "chinese": "返回"
+      }
+    ]
+  },
+  {
+    "chinese": "搜寻队被告知金块可能已经被带走了。",
+    "english": "The search team was told the bullion might have been taken",
+    "soundmark": "/ðə sɜːrtʃ tiːm wʌz toʊld ðə ˈbʊljən maɪt hæv biːn ˈteɪkən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "search",
+        "role": "C",
+        "phonetic": "/sɜːrtʃ/",
+        "chinese": "搜索"
+      },
+      {
+        "text": "team",
+        "role": "S",
+        "phonetic": "/tiːm/",
+        "chinese": "团队"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bullion",
+        "role": "S",
+        "phonetic": "/ˈbʊljən/",
+        "chinese": ""
+      },
+      {
+        "text": "might",
+        "role": "V",
+        "phonetic": "/maɪt/",
+        "chinese": "可能"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      }
+    ]
+  },
+  {
+    "chinese": "沉船",
+    "english": "wreck",
+    "soundmark": "/rek/"
+  },
+  {
+    "chinese": "货物",
+    "english": "cargo",
+    "soundmark": "/ˈkɑːrɡoʊ/"
+  },
+  {
+    "chinese": "打捞",
+    "english": "salvage",
+    "soundmark": "/ˈsælvɪdʒ/"
+  },
+  {
+    "chinese": "寻回",
+    "english": "recover",
+    "soundmark": "/rɪˈkʌvər/"
+  },
+  {
+    "chinese": "金银块",
+    "english": "bullion",
+    "soundmark": "/ˈbʊljən/"
+  },
+  {
+    "chinese": "潜水员",
+    "english": "diver",
+    "soundmark": "/ˈdaɪvər/"
+  },
+  {
+    "chinese": "鱼雷",
+    "english": "torpedo",
+    "soundmark": "/tɔːrˈpiːdoʊ/"
+  },
+  {
+    "chinese": "秘密地",
+    "english": "secretly",
+    "soundmark": "/ˈsiːkrɪtli/"
+  }
+]

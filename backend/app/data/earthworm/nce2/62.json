@@ -1,0 +1,935 @@
+[
+  {
+    "chinese": "火(fire)",
+    "english": "fire",
+    "soundmark": "/faɪər/"
+  },
+  {
+    "chinese": "森林(forest)",
+    "english": "forest",
+    "soundmark": "/ˈfɒrɪst/"
+  },
+  {
+    "chinese": "烧毁(burn)",
+    "english": "burn",
+    "soundmark": "/bɜːrn/"
+  },
+  {
+    "chinese": "控制(control)",
+    "english": "control",
+    "soundmark": "/kənˈtroʊl/"
+  },
+  {
+    "chinese": "破坏(destroy)",
+    "english": "destroy",
+    "soundmark": "/dɪˈstrɔɪ/"
+  },
+  {
+    "chinese": "灰烬(ash)",
+    "english": "ash",
+    "soundmark": "/æʃ/"
+  },
+  {
+    "chinese": "烟雾(smoke)",
+    "english": "smoke",
+    "soundmark": "/smoʊk/"
+  },
+  {
+    "chinese": "蔓延(spread)",
+    "english": "spread",
+    "soundmark": "/spred/"
+  },
+  {
+    "chinese": "扑灭(put out)",
+    "english": "put out",
+    "soundmark": "/pʊt aʊt/"
+  },
+  {
+    "chinese": "草原(grassland)",
+    "english": "grassland",
+    "soundmark": "/ˈɡræslænd/"
+  },
+  {
+    "chinese": "消防员(firefighter)",
+    "english": "firefighter",
+    "soundmark": "/ˈfaɪərfaɪtər/"
+  },
+  {
+    "chinese": "直升机(helicopter)",
+    "english": "helicopter",
+    "soundmark": "/ˈhelɪkɒptər/"
+  },
+  {
+    "chinese": "大片地区",
+    "english": "large areas",
+    "soundmark": "/lɑːrdʒ ˈeriəz/"
+  },
+  {
+    "chinese": "森林大火",
+    "english": "a forest fire",
+    "soundmark": "/ə ˈfɒrɪst faɪər/"
+  },
+  {
+    "chinese": "失去控制",
+    "english": "out of control",
+    "soundmark": "/aʊt əv kənˈtroʊl/"
+  },
+  {
+    "chinese": "烧了几个星期",
+    "english": "burn for weeks",
+    "soundmark": "/bɜːrn fɔːr wiːks/"
+  },
+  {
+    "chinese": "被大火烧毁",
+    "english": "destroyed by the fire",
+    "soundmark": "/dɪˈstrɔɪd baɪ ðə faɪər/"
+  },
+  {
+    "chinese": "覆盖着灰烬",
+    "english": "covered with ash",
+    "soundmark": "/ˈkʌvərd wɪð æʃ/"
+  },
+  {
+    "chinese": "消防员们扑灭了火焰",
+    "english": "The firefighters put out the flames",
+    "soundmark": "/ðə ˈfaɪərfaɪtərz pʊt aʊt ðə fleɪmz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "firefighters",
+        "role": "S",
+        "phonetic": "/ˈfaɪərfaɪtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "flames",
+        "role": "O",
+        "phonetic": "/fleɪmz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "火势蔓延得非常快",
+    "english": "The fire spread very quickly",
+    "soundmark": "/ðə faɪər spred ˈveri ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fire",
+        "role": "S",
+        "phonetic": "/faɪər/",
+        "chinese": "火"
+      },
+      {
+        "text": "spread",
+        "role": "V",
+        "phonetic": "/spred/",
+        "chinese": "传播（过去式/过去分词）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "quickly",
+        "role": "A",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "在消防员到达之前大火已经烧毁了整片森林",
+    "english": "The fire had already destroyed the whole forest before the firefighters arrived",
+    "soundmark": "/ðə faɪər hæd ɔːlˈredi dɪˈstrɔɪd ðə hoʊl ˈfɒrɪst bɪˈfɔːr ðə ˈfaɪərfaɪtərz əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fire",
+        "role": "S",
+        "phonetic": "/faɪər/",
+        "chinese": "火"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "destroyed",
+        "role": "V",
+        "phonetic": "/dɪˈstrɔɪd/",
+        "chinese": "破坏"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "C",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "forest",
+        "role": "O",
+        "phonetic": "/ˈfɒrɪst/",
+        "chinese": "森林"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "firefighters",
+        "role": "S",
+        "phonetic": "/ˈfaɪərfaɪtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "他们赶到时火已经烧了三个小时",
+    "english": "The fire had been burning for three hours when they arrived",
+    "soundmark": "/ðə faɪər hæd biːn ˈbɜːrnɪŋ fɔːr θriː aʊərz wen ðeɪ əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fire",
+        "role": "S",
+        "phonetic": "/faɪər/",
+        "chinese": "火"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "burning",
+        "role": "V",
+        "phonetic": "/ˈbɜːrnɪŋ/",
+        "chinese": "烧"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/aʊərz/",
+        "chinese": "小时"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "在此之前我从未见过这么大的火灾",
+    "english": "I had never seen such a big fire before that",
+    "soundmark": "/aɪ hæd ˈnevər siːn sʌtʃ ə bɪɡ faɪər bɪˈfɔːr ðæt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "fire",
+        "role": "O",
+        "phonetic": "/faɪər/",
+        "chinese": "火"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "that",
+        "role": "A",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      }
+    ]
+  },
+  {
+    "chinese": "等他到家时妻子已经睡了",
+    "english": "By the time he got home his wife had already gone to bed",
+    "soundmark": "/baɪ ðə taɪm hiː ɡɒt hoʊm hɪz waɪf hæd ɔːlˈredi ɡɒn tuː bed/",
+    "grammar": [
+      {
+        "text": "By",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "time",
+        "role": "A",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "got",
+        "role": "V",
+        "phonetic": "/ɡɒt/",
+        "chinese": "得到（过去式）"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "wife",
+        "role": "S",
+        "phonetic": "/waɪf/",
+        "chinese": "妻子"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "gone",
+        "role": "V",
+        "phonetic": "/ɡɒn/",
+        "chinese": "去（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "bed",
+        "role": "A",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      }
+    ]
+  },
+  {
+    "chinese": "她告诉我她以前从未去过那个国家",
+    "english": "She told me that she had never been to that country before",
+    "soundmark": "/ʃiː toʊld miː ðæt ʃiː hæd ˈnevər biːn tuː ðæt ˈkʌntri bɪˈfɔːr/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "country",
+        "role": "A",
+        "phonetic": "/ˈkʌntri/",
+        "chinese": "国家"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      }
+    ]
+  },
+  {
+    "chinese": "我意识到我把钥匙忘在办公室了",
+    "english": "I realized that I had left my keys in the office",
+    "soundmark": "/aɪ ˈrɪəlaɪzd ðæt aɪ hæd left maɪ kiːz ɪn ði ˈɒfɪs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "realized",
+        "role": "V",
+        "phonetic": "/ˈrɪəlaɪzd/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "keys",
+        "role": "O",
+        "phonetic": "/kiːz/",
+        "chinese": "钥匙"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "office",
+        "role": "A",
+        "phonetic": "/ˈɒfɪs/",
+        "chinese": "办公室"
+      }
+    ]
+  },
+  {
+    "chinese": "我们到达剧院时电影已经开始了",
+    "english": "When we arrived at the cinema the film had already started",
+    "soundmark": "/wen wiː əˈraɪvd æt ðə ˈsɪnəmə ðə fɪlm hæd ɔːlˈredi ˈstɑːrtɪd/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cinema",
+        "role": "A",
+        "phonetic": "/ˈsɪnəmə/",
+        "chinese": "电影院"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "film",
+        "role": "S",
+        "phonetic": "/fɪlm/",
+        "chinese": "电影"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "already",
+        "role": "A",
+        "phonetic": "/ɔːlˈredi/",
+        "chinese": "已经"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      }
+    ]
+  },
+  {
+    "chinese": "这场大火烧了整整两个星期才被扑灭",
+    "english": "The big fire had been burning for two whole weeks before it was put out",
+    "soundmark": "/ðə bɪɡ faɪər hæd biːn ˈbɜːrnɪŋ fɔːr tuː hoʊl wiːks bɪˈfɔːr ɪt wʌz pʊt aʊt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "fire",
+        "role": "S",
+        "phonetic": "/faɪər/",
+        "chinese": "火"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "burning",
+        "role": "V",
+        "phonetic": "/ˈbɜːrnɪŋ/",
+        "chinese": "烧"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "whole",
+        "role": "C",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "weeks",
+        "role": "A",
+        "phonetic": "/wiːks/",
+        "chinese": "周"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "out",
+        "role": "A",
+        "phonetic": "/aʊt/",
+        "chinese": "出去"
+      }
+    ]
+  },
+  {
+    "chinese": "直升机到达之前地面队伍已经尽力控制了火势",
+    "english": "The ground team had tried their best to control the fire before the helicopters arrived",
+    "soundmark": "/ðə ɡraʊnd tiːm hæd traɪd ðer best tuː kənˈtroʊl ðə faɪər bɪˈfɔːr ðə ˈhelɪkɒptərz əˈraɪvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "ground",
+        "role": "C",
+        "phonetic": "/ɡraʊnd/",
+        "chinese": "地面"
+      },
+      {
+        "text": "team",
+        "role": "S",
+        "phonetic": "/tiːm/",
+        "chinese": "团队"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "tried",
+        "role": "V",
+        "phonetic": "/traɪd/",
+        "chinese": "尝试（过去式）"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "best",
+        "role": "O",
+        "phonetic": "/best/",
+        "chinese": "最好"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "control",
+        "role": "V",
+        "phonetic": "/kənˈtroʊl/",
+        "chinese": "控制"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fire",
+        "role": "O",
+        "phonetic": "/faɪər/",
+        "chinese": "火"
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "helicopters",
+        "role": "S",
+        "phonetic": "/ˈhelɪkɒptərz/",
+        "chinese": "…们/复数(直升机)"
+      },
+      {
+        "text": "arrived",
+        "role": "V",
+        "phonetic": "/əˈraɪvd/",
+        "chinese": "到达"
+      }
+    ]
+  },
+  {
+    "chinese": "火(fire)",
+    "english": "fire",
+    "soundmark": "/faɪər/"
+  },
+  {
+    "chinese": "森林(forest)",
+    "english": "forest",
+    "soundmark": "/ˈfɒrɪst/"
+  },
+  {
+    "chinese": "破坏(destroy)",
+    "english": "destroy",
+    "soundmark": "/dɪˈstrɔɪ/"
+  },
+  {
+    "chinese": "控制(control)",
+    "english": "control",
+    "soundmark": "/kənˈtroʊl/"
+  },
+  {
+    "chinese": "蔓延(spread)",
+    "english": "spread",
+    "soundmark": "/spred/"
+  },
+  {
+    "chinese": "扑灭(put out)",
+    "english": "put out",
+    "soundmark": "/pʊt aʊt/"
+  },
+  {
+    "chinese": "灰烬(ash)",
+    "english": "ash",
+    "soundmark": "/æʃ/"
+  },
+  {
+    "chinese": "直升机(helicopter)",
+    "english": "helicopter",
+    "soundmark": "/ˈhelɪkɒptər/"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "chinese": "电流",
+    "english": "electric current",
+    "soundmark": "/ɪˈlektrɪk/ /ˈkɜːrənt/"
+  },
+  {
+    "chinese": "雕塑",
+    "english": "sculpture",
+    "soundmark": "/ˈskʌlptʃər/"
+  },
+  {
+    "chinese": "展览",
+    "english": "exhibition",
+    "soundmark": "/ˌeksɪˈbɪʃən/"
+  },
+  {
+    "chinese": "现代艺术",
+    "english": "modern art",
+    "soundmark": "/ˈmɑːdərn/ /ɑːrt/"
+  },
+  {
+    "chinese": "电线",
+    "english": "wire",
+    "soundmark": "/waɪər/"
+  },
+  {
+    "chinese": "开关",
+    "english": "switch",
+    "soundmark": "/swɪtʃ/"
+  },
+  {
+    "chinese": "金属",
+    "english": "metal",
+    "soundmark": "/ˈmetəl/"
+  },
+  {
+    "chinese": "展品",
+    "english": "exhibit",
+    "soundmark": "/ɪɡˈzɪbɪt/"
+  },
+  {
+    "chinese": "艺术家",
+    "english": "artist",
+    "soundmark": "/ˈɑːrtɪst/"
+  },
+  {
+    "chinese": "现代艺术展览",
+    "english": "modern art exhibition",
+    "soundmark": "/ˈmɑːdərn/ /ɑːrt/ /ˌeksɪˈbɪʃən/"
+  },
+  {
+    "chinese": "电流被用来创造艺术作品",
+    "english": "Electric currents are used to create art",
+    "soundmark": "/ɪˈlektrɪk/ /ˈkɜːrənts/ /ɑːr/ /juːzd/ /tuː/ /kriˈeɪt/ /ɑːrt/",
+    "grammar": [
+      {
+        "text": "Electric",
+        "role": "A",
+        "phonetic": "/ɪˈlektrɪk/",
+        "chinese": "电的"
+      },
+      {
+        "text": "currents",
+        "role": "S",
+        "phonetic": "/ˈkɜːrənts/",
+        "chinese": ""
+      },
+      {
+        "text": "are",
+        "role": "Aux",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "used",
+        "role": "V",
+        "phonetic": "/juːzd/",
+        "chinese": "用过的/二手的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "create",
+        "role": "V",
+        "phonetic": "/kriˈeɪt/",
+        "chinese": "创造"
+      },
+      {
+        "text": "art",
+        "role": "O",
+        "phonetic": "/ɑːrt/",
+        "chinese": "艺术"
+      }
+    ]
+  },
+  {
+    "chinese": "这个展览是由一位著名艺术家设计的",
+    "english": "The exhibition was designed by a famous artist",
+    "soundmark": "/ði/ /ˌeksɪˈbɪʃən/ /wʌz/ /dɪˈzaɪnd/ /baɪ/ /ə/ /ˈfeɪməs/ /ˈɑːrtɪst/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "exhibition",
+        "role": "S",
+        "phonetic": "/ˌeksɪˈbɪʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "designed",
+        "role": "V",
+        "phonetic": "/dɪˈzaɪnd/",
+        "chinese": "设计的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "famous",
+        "role": "A",
+        "phonetic": "/ˈfeɪməs/",
+        "chinese": "著名的"
+      },
+      {
+        "text": "artist",
+        "role": "O",
+        "phonetic": "/ˈɑːrtɪst/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这些金属雕塑被连接到了电线上",
+    "english": "The metal sculptures were connected to wires",
+    "soundmark": "/ðə/ /ˈmetəl/ /ˈskʌlptʃərz/ /wɜːr/ /kəˈnektɪd/ /tuː/ /waɪərz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "metal",
+        "role": "A",
+        "phonetic": "/ˈmetəl/",
+        "chinese": "金属"
+      },
+      {
+        "text": "sculptures",
+        "role": "S",
+        "phonetic": "/ˈskʌlptʃərz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "connected",
+        "role": "V",
+        "phonetic": "/kəˈnektɪd/",
+        "chinese": "连接的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "wires",
+        "role": "O",
+        "phonetic": "/waɪərz/",
+        "chinese": "…们/复数(电线)"
+      }
+    ]
+  },
+  {
+    "chinese": "开关没有被打开",
+    "english": "The switch was not turned on",
+    "soundmark": "/ðə/ /swɪtʃ/ /wʌz/ /nɑːt/ /tɜːrnd/ /ɑːn/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "switch",
+        "role": "S",
+        "phonetic": "/swɪtʃ/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "turned",
+        "role": "V",
+        "phonetic": "/tɜːrnd/",
+        "chinese": "转/变得"
+      },
+      {
+        "text": "on",
+        "role": "Adv",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      }
+    ]
+  },
+  {
+    "chinese": "这个展品受到了观众的极大欢迎",
+    "english": "The exhibit was greatly welcomed by the audience",
+    "soundmark": "/ði/ /ɪɡˈzɪbɪt/ /wʌz/ /ˈɡreɪtli/ /ˈwelkəmd/ /baɪ/ /ði/ /ˈɔːdiəns/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "exhibit",
+        "role": "S",
+        "phonetic": "/ɪɡˈzɪbɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "Aux",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "greatly",
+        "role": "Adv",
+        "phonetic": "/ˈɡreɪtli/",
+        "chinese": "…地(伟大的/很棒的)"
+      },
+      {
+        "text": "welcomed",
+        "role": "V",
+        "phonetic": "/ˈwelkəmd/",
+        "chinese": "欢迎"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "audience",
+        "role": "O",
+        "phonetic": "/ˈɔːdiəns/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "电流产生了奇妙的视觉效果",
+    "english": "Wonderful visual effects were produced by the electric currents",
+    "soundmark": "/ˈwʌndərfəl/ /ˈvɪʒuəl/ /ɪˈfekts/ /wɜːr/ /prəˈduːst/ /baɪ/ /ði/ /ɪˈlektrɪk/ /ˈkɜːrənts/",
+    "grammar": [
+      {
+        "text": "Wonderful",
+        "role": "A",
+        "phonetic": "/ˈwʌndərfəl/",
+        "chinese": "精彩的"
+      },
+      {
+        "text": "visual",
+        "role": "A",
+        "phonetic": "/ˈvɪʒuəl/",
+        "chinese": ""
+      },
+      {
+        "text": "effects",
+        "role": "S",
+        "phonetic": "/ɪˈfekts/",
+        "chinese": "效果"
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "produced",
+        "role": "V",
+        "phonetic": "/prəˈduːst/",
+        "chinese": "生产"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "electric",
+        "role": "A",
+        "phonetic": "/ɪˈlektrɪk/",
+        "chinese": "电的"
+      },
+      {
+        "text": "currents",
+        "role": "O",
+        "phonetic": "/ˈkɜːrənts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这些雕塑能在黑暗中发光",
+    "english": "The sculptures can be made to glow in the dark",
+    "soundmark": "/ðə/ /ˈskʌlptʃərz/ /kæn/ /biː/ /meɪd/ /tuː/ /ɡloʊ/ /ɪn/ /ðə/ /dɑːrk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "sculptures",
+        "role": "S",
+        "phonetic": "/ˈskʌlptʃərz/",
+        "chinese": ""
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "glow",
+        "role": "V",
+        "phonetic": "/ɡloʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dark",
+        "role": "A",
+        "phonetic": "/dɑːrk/",
+        "chinese": "黑暗的"
+      }
+    ]
+  },
+  {
+    "chinese": "雕塑",
+    "english": "sculpture",
+    "soundmark": "/ˈskʌlptʃər/"
+  },
+  {
+    "chinese": "视觉效果",
+    "english": "visual effect",
+    "soundmark": "/ˈvɪʒuəl/ /ɪˈfekt/"
+  },
+  {
+    "chinese": "连接",
+    "english": "connect",
+    "soundmark": "/kəˈnekt/"
+  },
+  {
+    "chinese": "观众",
+    "english": "audience",
+    "soundmark": "/ˈɔːdiəns/"
+  },
+  {
+    "chinese": "发光",
+    "english": "glow",
+    "soundmark": "/ɡloʊ/"
+  },
+  {
+    "chinese": "极大的",
+    "english": "greatly",
+    "soundmark": "/ˈɡreɪtli/"
+  },
+  {
+    "chinese": "欢迎",
+    "english": "welcome",
+    "soundmark": "/ˈwelkəm/"
+  },
+  {
+    "chinese": "产生",
+    "english": "produce",
+    "soundmark": "/prəˈduːs/"
+  },
+  {
+    "chinese": "参观者被告知可以触摸这些装置因为电流非常微弱",
+    "english": "Visitors were told they could touch the installations as the currents were very weak",
+    "soundmark": "/ˈvɪzɪtərz/ /wɜːr/ /toʊld/ /ðeɪ/ /kʊd/ /tʌtʃ/ /ði/ /ˌɪnstəˈleɪʃənz/ /æz/ /ðə/ /ˈkɜːrənts/ /wɜːr/ /ˈveri/ /wiːk/",
+    "grammar": [
+      {
+        "text": "Visitors",
+        "role": "S",
+        "phonetic": "/ˈvɪzɪtərz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Aux",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "told",
+        "role": "V",
+        "phonetic": "/toʊld/",
+        "chinese": "告诉（过去式）"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "could",
+        "role": "Aux",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "touch",
+        "role": "V",
+        "phonetic": "/tʌtʃ/",
+        "chinese": "触摸"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "installations",
+        "role": "O",
+        "phonetic": "/ˌɪnstəˈleɪʃənz/",
+        "chinese": ""
+      },
+      {
+        "text": "as",
+        "role": "P",
+        "phonetic": "/æz/",
+        "chinese": "作为/当…的时候"
+      },
+      {
+        "text": "the",
+        "role": "Det",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "currents",
+        "role": "S",
+        "phonetic": "/ˈkɜːrənts/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "weak",
+        "role": "C",
+        "phonetic": "/wiːk/",
+        "chinese": "虚弱的"
+      }
+    ]
+  }
+]

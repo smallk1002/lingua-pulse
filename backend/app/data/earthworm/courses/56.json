@@ -1,0 +1,2602 @@
+[
+  {
+    "chinese": "从未(never)",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  },
+  {
+    "chinese": "不仅(not only)",
+    "english": "not only",
+    "soundmark": "/nɒt ˈoʊnli/"
+  },
+  {
+    "chinese": "几乎不(hardly)",
+    "english": "hardly",
+    "soundmark": "/ˈhɑːrdli/"
+  },
+  {
+    "chinese": "很少(seldom)",
+    "english": "seldom",
+    "soundmark": "/ˈseldəm/"
+  },
+  {
+    "chinese": "几乎不(scarcely)",
+    "english": "scarcely",
+    "soundmark": "/ˈskersli/"
+  },
+  {
+    "chinese": "很少(rarely)",
+    "english": "rarely",
+    "soundmark": "/ˈrerli/"
+  },
+  {
+    "chinese": "几乎没有(little)",
+    "english": "little",
+    "soundmark": "/ˈlɪtəl/"
+  },
+  {
+    "chinese": "无处(nowhere)",
+    "english": "nowhere",
+    "soundmark": "/ˈnoʊwer/"
+  },
+  {
+    "chinese": "只有到那时(only then)",
+    "english": "only then",
+    "soundmark": "/ˈoʊnli ðen/"
+  },
+  {
+    "chinese": "如此……以至于(so that)",
+    "english": "so",
+    "soundmark": "/soʊ/"
+  },
+  {
+    "chinese": "从未见过",
+    "english": "never have I seen",
+    "soundmark": "/ˈnevər hæv aɪ siːn/"
+  },
+  {
+    "chinese": "不仅他说",
+    "english": "not only does he say",
+    "soundmark": "/nɒt ˈoʊnli dʌz hiː seɪ/"
+  },
+  {
+    "chinese": "几乎没……就……",
+    "english": "hardly had I",
+    "soundmark": "/ˈhɑːrdli hæd aɪ/"
+  },
+  {
+    "chinese": "很少我们去",
+    "english": "seldom do we go",
+    "soundmark": "/ˈseldəm duː wiː ɡoʊ/"
+  },
+  {
+    "chinese": "我哪里都找不到",
+    "english": "nowhere can I find",
+    "soundmark": "/ˈnoʊwer kæn aɪ faɪnd/"
+  },
+  {
+    "chinese": "我从未见过如此美丽的日落",
+    "english": "Never have I seen such a beautiful sunset",
+    "soundmark": "/ˈnevər hæv aɪ siːn sʌtʃ ə ˈbjuːtɪfəl ˈsʌnset/",
+    "grammar": [
+      {
+        "text": "Never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "seen",
+        "role": "V",
+        "phonetic": "/siːn/",
+        "chinese": "看见（过去分词）"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "sunset",
+        "role": "O",
+        "phonetic": "/ˈsʌnset/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他不仅会说英语还会说法语",
+    "english": "Not only does he speak English but he also speaks French",
+    "soundmark": "/nɒt ˈoʊnli dʌz hiː spiːk ˈɪŋɡlɪʃ bʌt hiː ˈɔːlsoʊ spiːks frentʃ/",
+    "grammar": [
+      {
+        "text": "Not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "also",
+        "role": "A",
+        "phonetic": "/ˈɔːlsoʊ/",
+        "chinese": "也"
+      },
+      {
+        "text": "speaks",
+        "role": "V",
+        "phonetic": "/spiːks/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "French",
+        "role": "O",
+        "phonetic": "/frentʃ/",
+        "chinese": "法国人/法语"
+      }
+    ]
+  },
+  {
+    "chinese": "我刚一坐下电话就响了",
+    "english": "Hardly had I sat down when the phone rang",
+    "soundmark": "/ˈhɑːrdli hæd aɪ sæt daʊn wen ðə foʊn ræŋ/",
+    "grammar": [
+      {
+        "text": "Hardly",
+        "role": "A",
+        "phonetic": "/ˈhɑːrdli/",
+        "chinese": "几乎不"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sat",
+        "role": "V",
+        "phonetic": "/sæt/",
+        "chinese": ""
+      },
+      {
+        "text": "down",
+        "role": "A",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "phone",
+        "role": "S",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      },
+      {
+        "text": "rang",
+        "role": "V",
+        "phonetic": "/ræŋ/",
+        "chinese": "响（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "我们很少有机会一起吃饭",
+    "english": "Seldom do we have the chance to eat together",
+    "soundmark": "/ˈseldəm duː wiː hæv ðə tʃæns tuː iːt təˈɡeðər/",
+    "grammar": [
+      {
+        "text": "Seldom",
+        "role": "A",
+        "phonetic": "/ˈseldəm/",
+        "chinese": "很少"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "chance",
+        "role": "O",
+        "phonetic": "/tʃæns/",
+        "chinese": "机会"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      },
+      {
+        "text": "together",
+        "role": "A",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      }
+    ]
+  },
+  {
+    "chinese": "我到处都找不到我的钥匙",
+    "english": "Nowhere could I find my keys",
+    "soundmark": "/ˈnoʊwer kʊd aɪ faɪnd maɪ kiːz/",
+    "grammar": [
+      {
+        "text": "Nowhere",
+        "role": "A",
+        "phonetic": "/ˈnoʊwer/",
+        "chinese": "无处"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "keys",
+        "role": "O",
+        "phonetic": "/kiːz/",
+        "chinese": "钥匙"
+      }
+    ]
+  },
+  {
+    "chinese": "直到那时我才意识到我错了",
+    "english": "Only then did I realize that I was wrong",
+    "soundmark": "/ˈoʊnli ðen dɪd aɪ ˈriːəlaɪz ðæt aɪ wʌz rɒŋ/",
+    "grammar": [
+      {
+        "text": "Only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "then",
+        "role": "A",
+        "phonetic": "/ðen/",
+        "chinese": "然后"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "realize",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪz/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "wrong",
+        "role": "C",
+        "phonetic": "/rɒŋ/",
+        "chinese": "错的"
+      }
+    ]
+  },
+  {
+    "chinese": "他很少去电影院看电影",
+    "english": "Rarely does he go to the cinema",
+    "soundmark": "/ˈrerli dʌz hiː ɡoʊ tuː ðə ˈsɪnəmə/",
+    "grammar": [
+      {
+        "text": "Rarely",
+        "role": "A",
+        "phonetic": "/ˈrerli/",
+        "chinese": "很少"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "go",
+        "role": "V",
+        "phonetic": "/ɡoʊ/",
+        "chinese": "去"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cinema",
+        "role": "A",
+        "phonetic": "/ˈsɪnəmə/",
+        "chinese": "电影院"
+      }
+    ]
+  },
+  {
+    "chinese": "他几乎不知道会发生什么",
+    "english": "Little did he know what was going to happen",
+    "soundmark": "/ˈlɪtəl dɪd hiː noʊ wɒt wʌz ˈɡoʊɪŋ tuː ˈhæpən/",
+    "grammar": [
+      {
+        "text": "Little",
+        "role": "A",
+        "phonetic": "/ˈlɪtəl/",
+        "chinese": "小的/少的"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "know",
+        "role": "V",
+        "phonetic": "/noʊ/",
+        "chinese": "知道"
+      },
+      {
+        "text": "what",
+        "role": "O",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "going",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ/",
+        "chinese": "去/将要"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "happen",
+        "role": "V",
+        "phonetic": "/ˈhæpən/",
+        "chinese": "发生"
+      }
+    ]
+  },
+  {
+    "chinese": "他那么生气以至于一句话都说不出来",
+    "english": "So angry was he that he couldn't say a word",
+    "soundmark": "/soʊ ˈæŋɡri wʌz hiː ðæt hiː ˈkʊdənt seɪ ə wɜːrd/",
+    "grammar": [
+      {
+        "text": "So",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "angry",
+        "role": "C",
+        "phonetic": "/ˈæŋɡri/",
+        "chinese": "生气的"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "couldn't",
+        "role": "V",
+        "phonetic": "/ˈkʊdənt/",
+        "chinese": "不能（过去）"
+      },
+      {
+        "text": "say",
+        "role": "V",
+        "phonetic": "/seɪ/",
+        "chinese": "说"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "word",
+        "role": "O",
+        "phonetic": "/wɜːrd/",
+        "chinese": "单词"
+      }
+    ]
+  },
+  {
+    "chinese": "我不仅丢了钱包还丢了手机",
+    "english": "Not only did I lose my wallet but I also lost my phone",
+    "soundmark": "/nɒt ˈoʊnli dɪd aɪ luːz maɪ ˈwɒlɪt bʌt aɪ ˈɔːlsoʊ lɒst maɪ foʊn/",
+    "grammar": [
+      {
+        "text": "Not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "lose",
+        "role": "V",
+        "phonetic": "/luːz/",
+        "chinese": "输/丢失"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "wallet",
+        "role": "O",
+        "phonetic": "/ˈwɒlɪt/",
+        "chinese": "钱包"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "also",
+        "role": "A",
+        "phonetic": "/ˈɔːlsoʊ/",
+        "chinese": "也"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɒst/",
+        "chinese": "丢失的/迷路的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "phone",
+        "role": "O",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      }
+    ]
+  },
+  {
+    "chinese": "我一出门就开始下雨了",
+    "english": "Scarcely had I stepped outside when it started to rain",
+    "soundmark": "/ˈskersli hæd aɪ stept ˌaʊtˈsaɪd wen ɪt ˈstɑːrtɪd tuː reɪn/",
+    "grammar": [
+      {
+        "text": "Scarcely",
+        "role": "A",
+        "phonetic": "/ˈskersli/",
+        "chinese": "几乎不"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "stepped",
+        "role": "V",
+        "phonetic": "/stept/",
+        "chinese": ""
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "chinese": "在…外面"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "rain",
+        "role": "V",
+        "phonetic": "/reɪn/",
+        "chinese": "雨"
+      }
+    ]
+  },
+  {
+    "chinese": "在任何情况下你都不能打开那扇门",
+    "english": "Under no circumstances should you open that door",
+    "soundmark": "/ˈʌndər noʊ ˈsɜːrkəmstænsɪz ʃʊd juː ˈoʊpən ðæt dɔːr/",
+    "grammar": [
+      {
+        "text": "Under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "circumstances",
+        "role": "A",
+        "phonetic": "/ˈsɜːrkəmstænsɪz/",
+        "chinese": "环境/情况"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "open",
+        "role": "V",
+        "phonetic": "/ˈoʊpən/",
+        "chinese": "打开"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "door",
+        "role": "O",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      }
+    ]
+  },
+  {
+    "chinese": "只有在付出努力之后你才能获得成功",
+    "english": "Only by working hard can you achieve success",
+    "soundmark": "/ˈoʊnli baɪ ˈwɜːrkɪŋ hɑːrd kæn juː əˈtʃiːv səkˈses/",
+    "grammar": [
+      {
+        "text": "Only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "working",
+        "role": "V",
+        "phonetic": "/ˈwɜːrkɪŋ/",
+        "chinese": "工作的/有效的"
+      },
+      {
+        "text": "hard",
+        "role": "A",
+        "phonetic": "/hɑːrd/",
+        "chinese": "硬的/难的"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "achieve",
+        "role": "V",
+        "phonetic": "/əˈtʃiːv/",
+        "chinese": "实现"
+      },
+      {
+        "text": "success",
+        "role": "O",
+        "phonetic": "/səkˈses/",
+        "chinese": "成功"
+      }
+    ]
+  },
+  {
+    "chinese": "他不仅歌唱得好舞也跳得棒",
+    "english": "Not only can he sing well but he can also dance beautifully",
+    "soundmark": "/nɒt ˈoʊnli kæn hiː sɪŋ wel bʌt hiː kæn ˈɔːlsoʊ dæns ˈbjuːtɪfəli/",
+    "grammar": [
+      {
+        "text": "Not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "sing",
+        "role": "V",
+        "phonetic": "/sɪŋ/",
+        "chinese": "唱"
+      },
+      {
+        "text": "well",
+        "role": "A",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "also",
+        "role": "A",
+        "phonetic": "/ˈɔːlsoʊ/",
+        "chinese": "也"
+      },
+      {
+        "text": "dance",
+        "role": "V",
+        "phonetic": "/dæns/",
+        "chinese": "跳舞"
+      },
+      {
+        "text": "beautifully",
+        "role": "A",
+        "phonetic": "/ˈbjuːtɪfəli/",
+        "chinese": "…地(美丽的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我从没想过有一天我会站上这个舞台",
+    "english": "Never did I imagine that I would stand on this stage one day",
+    "soundmark": "/ˈnevər dɪd aɪ ɪˈmædʒɪn ðæt aɪ wʊd stænd ɒn ðɪs steɪdʒ wʌn deɪ/",
+    "grammar": [
+      {
+        "text": "Never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "imagine",
+        "role": "V",
+        "phonetic": "/ɪˈmædʒɪn/",
+        "chinese": "想象"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "stand",
+        "role": "V",
+        "phonetic": "/stænd/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "stage",
+        "role": "A",
+        "phonetic": "/steɪdʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "one",
+        "role": "Det",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "只有当你真正失去时你才会懂得珍惜",
+    "english": "Only when you lose something do you truly appreciate it",
+    "soundmark": "/ˈoʊnli wen juː luːz ˈsʌmθɪŋ duː juː ˈtruːli əˈpriːʃieɪt ɪt/",
+    "grammar": [
+      {
+        "text": "Only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "lose",
+        "role": "V",
+        "phonetic": "/luːz/",
+        "chinese": "输/丢失"
+      },
+      {
+        "text": "something",
+        "role": "O",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "truly",
+        "role": "A",
+        "phonetic": "/ˈtruːli/",
+        "chinese": "…地(真的)"
+      },
+      {
+        "text": "appreciate",
+        "role": "V",
+        "phonetic": "/əˈpriːʃieɪt/",
+        "chinese": "欣赏/感激"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "我不但没生气反而觉得很好笑",
+    "english": "Not only was I not angry but I actually found it funny",
+    "soundmark": "/nɒt ˈoʊnli wʌz aɪ nɒt ˈæŋɡri bʌt aɪ ˈæktʃuəli faʊnd ɪt ˈfʌni/",
+    "grammar": [
+      {
+        "text": "Not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "angry",
+        "role": "C",
+        "phonetic": "/ˈæŋɡri/",
+        "chinese": "生气的"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "actually",
+        "role": "A",
+        "phonetic": "/ˈæktʃuəli/",
+        "chinese": "实际上"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "funny",
+        "role": "C",
+        "phonetic": "/ˈfʌni/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他如此专注于工作以至于忘了吃饭",
+    "english": "So focused was he on his work that he forgot to eat",
+    "soundmark": "/soʊ ˈfoʊkəst wʌz hiː ɒn hɪz wɜːrk ðæt hiː fərˈɡɒt tuː iːt/",
+    "grammar": [
+      {
+        "text": "So",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "focused",
+        "role": "C",
+        "phonetic": "/ˈfoʊkəst/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "work",
+        "role": "O",
+        "phonetic": "/wɜːrk/",
+        "chinese": "工作"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "forgot",
+        "role": "V",
+        "phonetic": "/fərˈɡɒt/",
+        "chinese": "忘记（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "eat",
+        "role": "V",
+        "phonetic": "/iːt/",
+        "chinese": "吃"
+      }
+    ]
+  },
+  {
+    "chinese": "无论走到哪里我都没法忘记她的微笑",
+    "english": "Nowhere could I escape the memory of her smile",
+    "soundmark": "/ˈnoʊwer kʊd aɪ ɪˈskeɪp ðə ˈmeməri əv hɜːr smaɪl/",
+    "grammar": [
+      {
+        "text": "Nowhere",
+        "role": "A",
+        "phonetic": "/ˈnoʊwer/",
+        "chinese": "无处"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "escape",
+        "role": "V",
+        "phonetic": "/ɪˈskeɪp/",
+        "chinese": "逃离"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "memory",
+        "role": "O",
+        "phonetic": "/ˈmeməri/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "her",
+        "role": "Det",
+        "phonetic": "/hɜːr/",
+        "chinese": "她/她的"
+      },
+      {
+        "text": "smile",
+        "role": "A",
+        "phonetic": "/smaɪl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他刚一开口说话大家就都安静了",
+    "english": "No sooner had he begun to speak than everyone fell silent",
+    "soundmark": "/noʊ ˈsuːnər hæd hiː bɪˈɡʌn tuː spiːk ðæn ˈevriwʌn fel ˈsaɪlənt/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "sooner",
+        "role": "A",
+        "phonetic": "/ˈsuːnər/",
+        "chinese": "更…的/…者(不久)"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "begun",
+        "role": "V",
+        "phonetic": "/bɪˈɡʌn/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "fell",
+        "role": "V",
+        "phonetic": "/fel/",
+        "chinese": "落下（过去式）"
+      },
+      {
+        "text": "silent",
+        "role": "C",
+        "phonetic": "/ˈsaɪlənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我不仅欣赏他的才华更敬重他的为人",
+    "english": "Not only do I admire his talent but I also respect his character",
+    "soundmark": "/nɒt ˈoʊnli duː aɪ ədˈmaɪər hɪz ˈtælənt bʌt aɪ ˈɔːlsoʊ rɪˈspekt hɪz ˈkærɪktər/",
+    "grammar": [
+      {
+        "text": "Not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "admire",
+        "role": "V",
+        "phonetic": "/ədˈmaɪər/",
+        "chinese": "钦佩"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "talent",
+        "role": "O",
+        "phonetic": "/ˈtælənt/",
+        "chinese": "天赋"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "also",
+        "role": "A",
+        "phonetic": "/ˈɔːlsoʊ/",
+        "chinese": "也"
+      },
+      {
+        "text": "respect",
+        "role": "V",
+        "phonetic": "/rɪˈspekt/",
+        "chinese": "尊重"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "character",
+        "role": "O",
+        "phonetic": "/ˈkærɪktər/",
+        "chinese": "性格/角色"
+      }
+    ]
+  },
+  {
+    "chinese": "他从没在任何时候让我失望过",
+    "english": "Never at any moment has he let me down",
+    "soundmark": "/ˈnevər æt ˈeni ˈmoʊmənt hæz hiː let miː daʊn/",
+    "grammar": [
+      {
+        "text": "Never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "moment",
+        "role": "A",
+        "phonetic": "/ˈmoʊmənt/",
+        "chinese": "时刻"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "let",
+        "role": "V",
+        "phonetic": "/let/",
+        "chinese": "让"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "down",
+        "role": "A",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      }
+    ]
+  },
+  {
+    "chinese": "只是在那个时候我才真正理解了父亲那句话的意思",
+    "english": "Only at that moment did I truly understand what my father meant",
+    "soundmark": "/ˈoʊnli æt ðæt ˈmoʊmənt dɪd aɪ ˈtruːli ˌʌndərˈstænd wɒt maɪ ˈfɑːðər ment/",
+    "grammar": [
+      {
+        "text": "Only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "that",
+        "role": "Det",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "moment",
+        "role": "A",
+        "phonetic": "/ˈmoʊmənt/",
+        "chinese": "时刻"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "truly",
+        "role": "A",
+        "phonetic": "/ˈtruːli/",
+        "chinese": "…地(真的)"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "what",
+        "role": "O",
+        "phonetic": "/wɒt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "father",
+        "role": "S",
+        "phonetic": "/ˈfɑːðər/",
+        "chinese": "父亲"
+      },
+      {
+        "text": "meant",
+        "role": "V",
+        "phonetic": "/ment/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我从来没有感受到如此强烈的活力",
+    "english": "Never before have I felt so alive",
+    "soundmark": "/ˈnevər bɪˈfɔːr hæv aɪ felt soʊ əˈlaɪv/",
+    "grammar": [
+      {
+        "text": "Never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "felt",
+        "role": "V",
+        "phonetic": "/felt/",
+        "chinese": "被感觉的"
+      },
+      {
+        "text": "so",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "alive",
+        "role": "C",
+        "phonetic": "/əˈlaɪv/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "她不仅有才华而且还非常努力",
+    "english": "Not only is she talented but she is also very hardworking",
+    "soundmark": "/nɒt ˈoʊnli ɪz ʃiː ˈtæləntɪd bʌt ʃiː ɪz ˈɔːlsoʊ ˈveri ˌhɑːrdˈwɜːrkɪŋ/",
+    "grammar": [
+      {
+        "text": "Not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "talented",
+        "role": "C",
+        "phonetic": "/ˈtæləntɪd/",
+        "chinese": "天赋"
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "also",
+        "role": "A",
+        "phonetic": "/ˈɔːlsoʊ/",
+        "chinese": "也"
+      },
+      {
+        "text": "very",
+        "role": "Adv",
+        "phonetic": "/ˈveri/",
+        "chinese": "非常"
+      },
+      {
+        "text": "hardworking",
+        "role": "C",
+        "phonetic": "/ˌhɑːrdˈwɜːrkɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们刚坐下表演就开始了",
+    "english": "Hardly had we sat down when the show began",
+    "soundmark": "/ˈhɑːrdli hæd wiː sæt daʊn wen ðə ʃoʊ bɪˈɡæn/",
+    "grammar": [
+      {
+        "text": "Hardly",
+        "role": "A",
+        "phonetic": "/ˈhɑːrdli/",
+        "chinese": "几乎不"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "sat",
+        "role": "V",
+        "phonetic": "/sæt/",
+        "chinese": ""
+      },
+      {
+        "text": "down",
+        "role": "A",
+        "phonetic": "/daʊn/",
+        "chinese": "向下"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "show",
+        "role": "S",
+        "phonetic": "/ʃoʊ/",
+        "chinese": "展示"
+      },
+      {
+        "text": "began",
+        "role": "V",
+        "phonetic": "/bɪˈɡæn/",
+        "chinese": "开始（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "一个人很少能遇见如此诚实的人",
+    "english": "Seldom does one find such an honest person",
+    "soundmark": "/ˈseldəm dʌz wʌn faɪnd sʌtʃ ən ˈɒnɪst ˈpɜːrsən/",
+    "grammar": [
+      {
+        "text": "Seldom",
+        "role": "A",
+        "phonetic": "/ˈseldəm/",
+        "chinese": "很少"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "find",
+        "role": "V",
+        "phonetic": "/faɪnd/",
+        "chinese": "找到"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "an",
+        "role": "Art",
+        "phonetic": "/ən/",
+        "chinese": "一个"
+      },
+      {
+        "text": "honest",
+        "role": "C",
+        "phonetic": "/ˈɒnɪst/",
+        "chinese": "诚实的"
+      },
+      {
+        "text": "person",
+        "role": "O",
+        "phonetic": "/ˈpɜːrsən/",
+        "chinese": "人"
+      }
+    ]
+  },
+  {
+    "chinese": "我刚闭上眼睛闹钟就响了",
+    "english": "No sooner had I closed my eyes than the alarm went off",
+    "soundmark": "/noʊ ˈsuːnər hæd aɪ kloʊzd maɪ aɪz ðæn ði əˈlɑːrm went ɒf/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "sooner",
+        "role": "A",
+        "phonetic": "/ˈsuːnər/",
+        "chinese": "更…的/…者(不久)"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "closed",
+        "role": "V",
+        "phonetic": "/kloʊzd/",
+        "chinese": "关闭的"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "eyes",
+        "role": "O",
+        "phonetic": "/aɪz/",
+        "chinese": "眼睛"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "alarm",
+        "role": "S",
+        "phonetic": "/əˈlɑːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "went",
+        "role": "V",
+        "phonetic": "/went/",
+        "chinese": "去（过去式）"
+      },
+      {
+        "text": "off",
+        "role": "A",
+        "phonetic": "/ɒf/",
+        "chinese": "离开/关"
+      }
+    ]
+  },
+  {
+    "chinese": "只有经过多年的练习才能掌握这项技能",
+    "english": "Only after years of practice can one master this skill",
+    "soundmark": "/ˈoʊnli ˈæftər jɪrz əv ˈpræktɪs kæn wʌn ˈmæstər ðɪs skɪl/",
+    "grammar": [
+      {
+        "text": "Only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "after",
+        "role": "P",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "practice",
+        "role": "A",
+        "phonetic": "/ˈpræktɪs/",
+        "chinese": "练习/实践"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "one",
+        "role": "S",
+        "phonetic": "/wʌn/",
+        "chinese": "一个"
+      },
+      {
+        "text": "master",
+        "role": "V",
+        "phonetic": "/ˈmæstər/",
+        "chinese": ""
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "skill",
+        "role": "O",
+        "phonetic": "/skɪl/",
+        "chinese": "技能"
+      }
+    ]
+  },
+  {
+    "chinese": "景色如此美丽以至于我们在那里站了好几个小时",
+    "english": "So beautiful was the view that we stood there for hours",
+    "soundmark": "/soʊ ˈbjuːtɪfəl wʌz ðə vjuː ðæt wiː stʊd ðer fɔːr aʊərz/",
+    "grammar": [
+      {
+        "text": "So",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "view",
+        "role": "S",
+        "phonetic": "/vjuː/",
+        "chinese": "观点/景色"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "stood",
+        "role": "V",
+        "phonetic": "/stʊd/",
+        "chinese": "站（过去式）"
+      },
+      {
+        "text": "there",
+        "role": "A",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "hours",
+        "role": "A",
+        "phonetic": "/aʊərz/",
+        "chinese": "小时"
+      }
+    ]
+  },
+  {
+    "chinese": "她几乎意识不到她对我们来说有多么重要",
+    "english": "Little does she realize how much she means to us",
+    "soundmark": "/ˈlɪtəl dʌz ʃiː ˈrɪəlaɪz haʊ mʌtʃ ʃiː miːnz tuː ʌs/",
+    "grammar": [
+      {
+        "text": "Little",
+        "role": "A",
+        "phonetic": "/ˈlɪtəl/",
+        "chinese": "小的/少的"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "realize",
+        "role": "V",
+        "phonetic": "/ˈrɪəlaɪz/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "how",
+        "role": "O",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "much",
+        "role": "A",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "she",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "means",
+        "role": "V",
+        "phonetic": "/miːnz/",
+        "chinese": "意思是/刻薄的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "us",
+        "role": "O",
+        "phonetic": "/ʌs/",
+        "chinese": "我们"
+      }
+    ]
+  },
+  {
+    "chinese": "无论如何你都不能放弃你的梦想",
+    "english": "Under no circumstances should you give up your dreams",
+    "soundmark": "/ˈʌndər noʊ ˈsɜːrkəmstænsɪz ʃʊd juː ɡɪv ʌp jɔːr driːmz/",
+    "grammar": [
+      {
+        "text": "Under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "circumstances",
+        "role": "A",
+        "phonetic": "/ˈsɜːrkəmstænsɪz/",
+        "chinese": "环境/情况"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "dreams",
+        "role": "O",
+        "phonetic": "/driːmz/",
+        "chinese": "梦/梦想"
+      }
+    ]
+  },
+  {
+    "chinese": "我做梦都从没想到会有这样的结果",
+    "english": "Never in my wildest dreams did I expect such a result",
+    "soundmark": "/ˈnevər ɪn maɪ ˈwaɪldɪst driːmz dɪd aɪ ɪkˈspekt sʌtʃ ə rɪˈzʌlt/",
+    "grammar": [
+      {
+        "text": "Never",
+        "role": "A",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "wildest",
+        "role": "C",
+        "phonetic": "/ˈwaɪldɪst/",
+        "chinese": ""
+      },
+      {
+        "text": "dreams",
+        "role": "A",
+        "phonetic": "/driːmz/",
+        "chinese": "梦/梦想"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "expect",
+        "role": "V",
+        "phonetic": "/ɪkˈspekt/",
+        "chinese": "期望"
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "result",
+        "role": "O",
+        "phonetic": "/rɪˈzʌlt/",
+        "chinese": "结果"
+      }
+    ]
+  },
+  {
+    "chinese": "暴风雨不仅毁了庄稼还摧毁了房屋",
+    "english": "Not only did the storm damage the crops but it also destroyed homes",
+    "soundmark": "/nɒt ˈoʊnli dɪd ðə stɔːrm ˈdæmɪdʒ ðə krɒps bʌt ɪt ˈɔːlsoʊ dɪˈstrɔɪd hoʊmz/",
+    "grammar": [
+      {
+        "text": "Not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "storm",
+        "role": "S",
+        "phonetic": "/stɔːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "damage",
+        "role": "V",
+        "phonetic": "/ˈdæmɪdʒ/",
+        "chinese": "损坏"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "crops",
+        "role": "O",
+        "phonetic": "/krɒps/",
+        "chinese": ""
+      },
+      {
+        "text": "but",
+        "role": "P",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "also",
+        "role": "A",
+        "phonetic": "/ˈɔːlsoʊ/",
+        "chinese": "也"
+      },
+      {
+        "text": "destroyed",
+        "role": "V",
+        "phonetic": "/dɪˈstrɔɪd/",
+        "chinese": "破坏"
+      },
+      {
+        "text": "homes",
+        "role": "O",
+        "phonetic": "/hoʊmz/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "我很少遇到如此困难的挑战",
+    "english": "Rarely have I encountered such a difficult challenge",
+    "soundmark": "/ˈrerli hæv aɪ ɪnˈkaʊntərd sʌtʃ ə ˈdɪfɪkəlt ˈtʃælɪndʒ/",
+    "grammar": [
+      {
+        "text": "Rarely",
+        "role": "A",
+        "phonetic": "/ˈrerli/",
+        "chinese": "很少"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "encountered",
+        "role": "V",
+        "phonetic": "/ɪnˈkaʊntərd/",
+        "chinese": ""
+      },
+      {
+        "text": "such",
+        "role": "Det",
+        "phonetic": "/sʌtʃ/",
+        "chinese": "这样的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "difficult",
+        "role": "C",
+        "phonetic": "/ˈdɪfɪkəlt/",
+        "chinese": "困难的"
+      },
+      {
+        "text": "challenge",
+        "role": "O",
+        "phonetic": "/ˈtʃælɪndʒ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "只有当我们真正倾听时我们才能相互理解",
+    "english": "Only when we truly listen can we understand each other",
+    "soundmark": "/ˈoʊnli wen wiː ˈtruːli ˈlɪsən kæn wiː ˌʌndərˈstænd iːtʃ ˈʌðər/",
+    "grammar": [
+      {
+        "text": "Only",
+        "role": "A",
+        "phonetic": "/ˈoʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "when",
+        "role": "P",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "truly",
+        "role": "A",
+        "phonetic": "/ˈtruːli/",
+        "chinese": "…地(真的)"
+      },
+      {
+        "text": "listen",
+        "role": "V",
+        "phonetic": "/ˈlɪsən/",
+        "chinese": "听"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "understand",
+        "role": "V",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "chinese": "理解"
+      },
+      {
+        "text": "each",
+        "role": "Det",
+        "phonetic": "/iːtʃ/",
+        "chinese": "每个"
+      },
+      {
+        "text": "other",
+        "role": "O",
+        "phonetic": "/ˈʌðər/",
+        "chinese": "其他"
+      }
+    ]
+  },
+  {
+    "chinese": "他跑得如此之快以至于没人能追上他",
+    "english": "So quickly did he run that nobody could catch up with him",
+    "soundmark": "/soʊ ˈkwɪkli dɪd hiː rʌn ðæt ˈnoʊbədi kʊd kætʃ ʌp wɪð hɪm/",
+    "grammar": [
+      {
+        "text": "So",
+        "role": "A",
+        "phonetic": "/soʊ/",
+        "chinese": "如此/所以"
+      },
+      {
+        "text": "quickly",
+        "role": "A",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "run",
+        "role": "V",
+        "phonetic": "/rʌn/",
+        "chinese": "跑"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "nobody",
+        "role": "S",
+        "phonetic": "/ˈnoʊbədi/",
+        "chinese": "没有人"
+      },
+      {
+        "text": "could",
+        "role": "V",
+        "phonetic": "/kʊd/",
+        "chinese": "可以/能（过去式）"
+      },
+      {
+        "text": "catch",
+        "role": "V",
+        "phonetic": "/kætʃ/",
+        "chinese": "抓住"
+      },
+      {
+        "text": "up",
+        "role": "A",
+        "phonetic": "/ʌp/",
+        "chinese": "向上"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "him",
+        "role": "O",
+        "phonetic": "/hɪm/",
+        "chinese": "他"
+      }
+    ]
+  },
+  {
+    "chinese": "从未(never)",
+    "english": "never",
+    "soundmark": "/ˈnevər/"
+  },
+  {
+    "chinese": "不仅(not only)",
+    "english": "not only",
+    "soundmark": "/nɒt ˈoʊnli/"
+  },
+  {
+    "chinese": "几乎不(hardly)",
+    "english": "hardly",
+    "soundmark": "/ˈhɑːrdli/"
+  },
+  {
+    "chinese": "很少(seldom)",
+    "english": "seldom",
+    "soundmark": "/ˈseldəm/"
+  },
+  {
+    "chinese": "很少(rarely)",
+    "english": "rarely",
+    "soundmark": "/ˈrerli/"
+  },
+  {
+    "chinese": "几乎没有(little did)",
+    "english": "little did",
+    "soundmark": "/ˈlɪtəl dɪd/"
+  },
+  {
+    "chinese": "无处(nowhere)",
+    "english": "nowhere",
+    "soundmark": "/ˈnoʊwer/"
+  },
+  {
+    "chinese": "只有到那时(only then)",
+    "english": "only then",
+    "soundmark": "/ˈoʊnli ðen/"
+  }
+]

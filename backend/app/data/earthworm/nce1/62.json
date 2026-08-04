@@ -1,0 +1,723 @@
+[
+  {
+    "chinese": "生病",
+    "english": "illness",
+    "soundmark": "/ˈɪlnəs/"
+  },
+  {
+    "chinese": "感冒",
+    "english": "cold",
+    "soundmark": "/koʊld/"
+  },
+  {
+    "chinese": "发烧",
+    "english": "fever",
+    "soundmark": "/ˈfiːvər/"
+  },
+  {
+    "chinese": "头痛",
+    "english": "headache",
+    "soundmark": "/ˈhedeɪk/"
+  },
+  {
+    "chinese": "牙痛",
+    "english": "toothache",
+    "soundmark": "/ˈtuːθeɪk/"
+  },
+  {
+    "chinese": "胃痛",
+    "english": "stomachache",
+    "soundmark": "/ˈstʌməkeɪk/"
+  },
+  {
+    "chinese": "咳嗽",
+    "english": "cough",
+    "soundmark": "/kɔːf/"
+  },
+  {
+    "chinese": "打喷嚏",
+    "english": "sneeze",
+    "soundmark": "/sniːz/"
+  },
+  {
+    "chinese": "流感",
+    "english": "flu",
+    "soundmark": "/fluː/"
+  },
+  {
+    "chinese": "疼痛",
+    "english": "pain",
+    "soundmark": "/peɪn/"
+  },
+  {
+    "chinese": "喉咙痛",
+    "english": "sore throat",
+    "soundmark": "/sɔːr θroʊt/"
+  },
+  {
+    "chinese": "发痒",
+    "english": "itch",
+    "soundmark": "/ɪtʃ/"
+  },
+  {
+    "chinese": "药",
+    "english": "medicine",
+    "soundmark": "/ˈmedɪsn/"
+  },
+  {
+    "chinese": "药片",
+    "english": "pill",
+    "soundmark": "/pɪl/"
+  },
+  {
+    "chinese": "处方",
+    "english": "prescription",
+    "soundmark": "/prɪˈskrɪpʃn/"
+  },
+  {
+    "chinese": "医生",
+    "english": "doctor",
+    "soundmark": "/ˈdɑːktər/"
+  },
+  {
+    "chinese": "护士",
+    "english": "nurse",
+    "soundmark": "/nɜːrs/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɑːspɪtl/"
+  },
+  {
+    "chinese": "药房",
+    "english": "pharmacy",
+    "soundmark": "/ˈfɑːrməsi/"
+  },
+  {
+    "chinese": "预约",
+    "english": "appointment",
+    "soundmark": "/əˈpɔɪntmənt/"
+  },
+  {
+    "chinese": "我感冒了",
+    "english": "I have a cold",
+    "soundmark": "/aɪ hæv ə koʊld/"
+  },
+  {
+    "chinese": "我发烧了",
+    "english": "I have a fever",
+    "soundmark": "/aɪ hæv ə ˈfiːvər/"
+  },
+  {
+    "chinese": "我头痛",
+    "english": "I have a headache",
+    "soundmark": "/aɪ hæv ə ˈhedeɪk/"
+  },
+  {
+    "chinese": "我喉咙痛",
+    "english": "I have a sore throat",
+    "soundmark": "/aɪ hæv ə sɔːr θroʊt/"
+  },
+  {
+    "chinese": "我感觉不舒服",
+    "english": "I feel sick",
+    "soundmark": "/aɪ fiːl sɪk/"
+  },
+  {
+    "chinese": "我不太舒服",
+    "english": "I am not feeling well",
+    "soundmark": "/aɪ æm nɑːt ˈfiːlɪŋ wel/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "feeling",
+        "role": "V",
+        "phonetic": "/ˈfiːlɪŋ/",
+        "chinese": "感觉的"
+      },
+      {
+        "text": "well",
+        "role": "C",
+        "phonetic": "/wel/",
+        "chinese": "健康的"
+      }
+    ]
+  },
+  {
+    "chinese": "我已经头痛三天了",
+    "english": "I have had a headache for three days",
+    "soundmark": "/aɪ hæv hæd ə ˈhedeɪk fɔːr θriː deɪz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have had",
+        "role": "V",
+        "phonetic": "/hæv hæd/",
+        "chinese": "有/助动词/有/助动词（过去式）"
+      },
+      {
+        "text": "a headache",
+        "role": "O",
+        "phonetic": "/ə ˈhedeɪk/",
+        "chinese": "一个"
+      },
+      {
+        "text": "for three days",
+        "role": "A",
+        "phonetic": "/fɔːr θriː deɪz/",
+        "chinese": "为了/对于/三/…们/复数(天/日)"
+      }
+    ]
+  },
+  {
+    "chinese": "你吃药了吗",
+    "english": "Have you taken any medicine",
+    "soundmark": "/hæv juː ˈteɪkən ˈeni ˈmedɪsn/",
+    "grammar": [
+      {
+        "text": "Have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "any medicine",
+        "role": "O",
+        "phonetic": "/ˈeni ˈmedɪsn/",
+        "chinese": "任何"
+      }
+    ]
+  },
+  {
+    "chinese": "不我还没吃药",
+    "english": "No I have not taken any medicine yet",
+    "soundmark": "/noʊ aɪ hæv nɑːt ˈteɪkən ˈeni ˈmedɪsn jet/",
+    "grammar": [
+      {
+        "text": "No",
+        "role": "Adv",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have not taken",
+        "role": "V",
+        "phonetic": "/hæv nɑːt ˈteɪkən/",
+        "chinese": "有/助动词/不/拿走的"
+      },
+      {
+        "text": "any medicine",
+        "role": "O",
+        "phonetic": "/ˈeni ˈmedɪsn/",
+        "chinese": "任何"
+      },
+      {
+        "text": "yet",
+        "role": "A",
+        "phonetic": "/jet/",
+        "chinese": "还/然而/已经"
+      }
+    ]
+  },
+  {
+    "chinese": "我的嗓子很痛",
+    "english": "My throat hurts a lot",
+    "soundmark": "/maɪ θroʊt hɜːrts ə lɑːt/",
+    "grammar": [
+      {
+        "text": "My throat",
+        "role": "S",
+        "phonetic": "/maɪ θroʊt/",
+        "chinese": "我的"
+      },
+      {
+        "text": "hurts",
+        "role": "V",
+        "phonetic": "/hɜːrts/",
+        "chinese": "伤害"
+      },
+      {
+        "text": "a lot",
+        "role": "A",
+        "phonetic": "/ə lɑːt/",
+        "chinese": "许多"
+      }
+    ]
+  },
+  {
+    "chinese": "我一直在咳嗽",
+    "english": "I have been coughing a lot",
+    "soundmark": "/aɪ hæv biːn ˈkɔːfɪŋ ə lɑːt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have been coughing",
+        "role": "V",
+        "phonetic": "/hæv biːn ˈkɔːfɪŋ/",
+        "chinese": "有/助动词/是（过去分词）"
+      },
+      {
+        "text": "a lot",
+        "role": "A",
+        "phonetic": "/ə lɑːt/",
+        "chinese": "许多"
+      }
+    ]
+  },
+  {
+    "chinese": "你觉得你需要看医生吗",
+    "english": "Do you think you need to see a doctor",
+    "soundmark": "/duː juː θɪŋk juː niːd tuː siː ə ˈdɑːktər/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "you need to see a doctor",
+        "role": "O",
+        "phonetic": "/juː niːd tuː siː ə ˈdɑːktər/",
+        "chinese": "你/你们/需要/到/向/看见/一个/医生"
+      }
+    ]
+  },
+  {
+    "chinese": "我应该预约看医生",
+    "english": "I should make an appointment to see the doctor",
+    "soundmark": "/aɪ ʃʊd meɪk ən əˈpɔɪntmənt tuː siː ðə ˈdɑːktər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "should make",
+        "role": "V",
+        "phonetic": "/ʃʊd meɪk/",
+        "chinese": "应该/做/让"
+      },
+      {
+        "text": "an appointment",
+        "role": "O",
+        "phonetic": "/ən əˈpɔɪntmənt/",
+        "chinese": "一个"
+      },
+      {
+        "text": "to see the doctor",
+        "role": "A",
+        "phonetic": "/tuː siː ðə ˈdɑːktər/",
+        "chinese": "到/向/看见/这个/那个/医生"
+      }
+    ]
+  },
+  {
+    "chinese": "你的体温很高",
+    "english": "Your temperature is very high",
+    "soundmark": "/jɔːr ˈtemprətʃər ɪz ˈveri haɪ/",
+    "grammar": [
+      {
+        "text": "Your temperature",
+        "role": "S",
+        "phonetic": "/jɔːr ˈtemprətʃər/",
+        "chinese": "你的/你们的/温度"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "very high",
+        "role": "C",
+        "phonetic": "/ˈveri haɪ/",
+        "chinese": "非常/高的"
+      }
+    ]
+  },
+  {
+    "chinese": "你需要卧床休息",
+    "english": "You need to stay in bed",
+    "soundmark": "/juː niːd tuː steɪ ɪn bed/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "need to stay",
+        "role": "V",
+        "phonetic": "/niːd tuː steɪ/",
+        "chinese": "需要/到/向/停留/保持"
+      },
+      {
+        "text": "in bed",
+        "role": "A",
+        "phonetic": "/ɪn bed/",
+        "chinese": "在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "你应该多喝水",
+    "english": "You should drink plenty of water",
+    "soundmark": "/juː ʃʊd drɪŋk ˈplenti ʌv ˈwɔːtər/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "should drink",
+        "role": "V",
+        "phonetic": "/ʃʊd drɪŋk/",
+        "chinese": "应该/饮料"
+      },
+      {
+        "text": "plenty of water",
+        "role": "O",
+        "phonetic": "/ˈplenti ʌv ˈwɔːtər/",
+        "chinese": "…的/水"
+      }
+    ]
+  },
+  {
+    "chinese": "这药每四小时服一次",
+    "english": "Take this medicine every four hours",
+    "soundmark": "/teɪk ðɪs ˈmedɪsn ˈevri fɔːr ˈaʊərz/",
+    "grammar": [
+      {
+        "text": "Take",
+        "role": "V",
+        "phonetic": "/teɪk/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "this medicine",
+        "role": "O",
+        "phonetic": "/ðɪs ˈmedɪsn/",
+        "chinese": "这个"
+      },
+      {
+        "text": "every four hours",
+        "role": "A",
+        "phonetic": "/ˈevri fɔːr ˈaʊərz/",
+        "chinese": "每个/四/…们/复数(小时)"
+      }
+    ]
+  },
+  {
+    "chinese": "我的牙痛让我睡不着",
+    "english": "My toothache kept me awake all night",
+    "soundmark": "/maɪ ˈtuːθeɪk kept miː əˈweɪk ɔːl naɪt/",
+    "grammar": [
+      {
+        "text": "My toothache",
+        "role": "S",
+        "phonetic": "/maɪ ˈtuːθeɪk/",
+        "chinese": "我的"
+      },
+      {
+        "text": "kept",
+        "role": "V",
+        "phonetic": "/kept/",
+        "chinese": "保持/保留（过去式）"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "awake",
+        "role": "C",
+        "phonetic": "/əˈweɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "all night",
+        "role": "A",
+        "phonetic": "/ɔːl naɪt/",
+        "chinese": "整夜"
+      }
+    ]
+  },
+  {
+    "chinese": "我肚子疼可能是因为吃太多了",
+    "english": "I have a stomachache maybe because I ate too much",
+    "soundmark": "/aɪ hæv ə ˈstʌməkeɪk ˈmeɪbiː bɪˈkɔːz aɪ eɪt tuː mʌtʃ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a stomachache",
+        "role": "O",
+        "phonetic": "/ə ˈstʌməkeɪk/",
+        "chinese": "一个"
+      },
+      {
+        "text": "maybe",
+        "role": "A",
+        "phonetic": "/ˈmeɪbiː/",
+        "chinese": "也许"
+      },
+      {
+        "text": "because I ate too much",
+        "role": "A",
+        "phonetic": "/bɪˈkɔːz aɪ eɪt tuː mʌtʃ/",
+        "chinese": "因为/我/吃（过去式）/也/太/很多"
+      }
+    ]
+  },
+  {
+    "chinese": "我觉得你可能得了流感",
+    "english": "I think you might have the flu",
+    "soundmark": "/aɪ θɪŋk juː maɪt hæv ðə fluː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "might have",
+        "role": "V",
+        "phonetic": "/maɪt hæv/",
+        "chinese": "可能/有/助动词"
+      },
+      {
+        "text": "the flu",
+        "role": "O",
+        "phonetic": "/ðə fluː/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你哪里疼",
+    "english": "Where does it hurt",
+    "soundmark": "/wer dʌz ɪt hɜːrt/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "hurt",
+        "role": "V",
+        "phonetic": "/hɜːrt/",
+        "chinese": "伤害"
+      }
+    ]
+  },
+  {
+    "chinese": "它在这里疼",
+    "english": "It hurts right here",
+    "soundmark": "/ɪt hɜːrts raɪt hɪr/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "hurts",
+        "role": "V",
+        "phonetic": "/hɜːrts/",
+        "chinese": "伤害"
+      },
+      {
+        "text": "right here",
+        "role": "A",
+        "phonetic": "/raɪt hɪr/",
+        "chinese": "对的/右边的/这里"
+      }
+    ]
+  },
+  {
+    "chinese": "我需要去药房取药",
+    "english": "I need to go to the pharmacy to get my medicine",
+    "soundmark": "/aɪ niːd tuː ɡoʊ tuː ðə ˈfɑːrməsi tuː ɡet maɪ ˈmedɪsn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "need to go",
+        "role": "V",
+        "phonetic": "/niːd tuː ɡoʊ/",
+        "chinese": "需要/到/向/去"
+      },
+      {
+        "text": "to the pharmacy",
+        "role": "A",
+        "phonetic": "/tuː ðə ˈfɑːrməsi/",
+        "chinese": "到/向/这个/那个"
+      },
+      {
+        "text": "to get my medicine",
+        "role": "A",
+        "phonetic": "/tuː ɡet maɪ ˈmedɪsn/",
+        "chinese": "到/向/得到/变得/我的"
+      }
+    ]
+  },
+  {
+    "chinese": "身体",
+    "english": "body",
+    "soundmark": "/ˈbɑːdi/"
+  },
+  {
+    "chinese": "体温",
+    "english": "temperature",
+    "soundmark": "/ˈtemprətʃər/"
+  },
+  {
+    "chinese": "充足的",
+    "english": "plenty of",
+    "soundmark": "/ˈplenti ʌv/"
+  },
+  {
+    "chinese": "卧床",
+    "english": "stay in bed",
+    "soundmark": "/steɪ ɪn bed/"
+  },
+  {
+    "chinese": "醒着",
+    "english": "awake",
+    "soundmark": "/əˈweɪk/"
+  },
+  {
+    "chinese": "或许",
+    "english": "maybe",
+    "soundmark": "/ˈmeɪbiː/"
+  },
+  {
+    "chinese": "可能",
+    "english": "might",
+    "soundmark": "/maɪt/"
+  },
+  {
+    "chinese": "疼痛的",
+    "english": "sore",
+    "soundmark": "/sɔːr/"
+  },
+  {
+    "chinese": "嗓子",
+    "english": "throat",
+    "soundmark": "/θroʊt/"
+  },
+  {
+    "chinese": "胃",
+    "english": "stomach",
+    "soundmark": "/ˈstʌmək/"
+  }
+]

@@ -1,0 +1,1143 @@
+[
+  {
+    "chinese": "购买",
+    "english": "buy",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "chinese": "出售",
+    "english": "sell",
+    "soundmark": "/sel/"
+  },
+  {
+    "chinese": "支付",
+    "english": "pay",
+    "soundmark": "/peɪ/"
+  },
+  {
+    "chinese": "花费",
+    "english": "cost",
+    "soundmark": "/kɔːst/"
+  },
+  {
+    "chinese": "昂贵的",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "便宜的",
+    "english": "cheap",
+    "soundmark": "/tʃiːp/"
+  },
+  {
+    "chinese": "价格",
+    "english": "price",
+    "soundmark": "/praɪs/"
+  },
+  {
+    "chinese": "现金",
+    "english": "cash",
+    "soundmark": "/kæʃ/"
+  },
+  {
+    "chinese": "信用卡",
+    "english": "credit card",
+    "soundmark": "/ˈkredɪt kɑːrd/"
+  },
+  {
+    "chinese": "收据",
+    "english": "receipt",
+    "soundmark": "/rɪˈsiːt/"
+  },
+  {
+    "chinese": "试衣间",
+    "english": "fitting room",
+    "soundmark": "/ˈfɪtɪŋ ruːm/"
+  },
+  {
+    "chinese": "多少数量",
+    "english": "how much",
+    "soundmark": "/haʊ mʌtʃ/"
+  },
+  {
+    "chinese": "多少数量(可数)",
+    "english": "how many",
+    "soundmark": "/haʊ ˈmeni/"
+  },
+  {
+    "chinese": "折扣",
+    "english": "discount",
+    "soundmark": "/ˈdɪskaʊnt/"
+  },
+  {
+    "chinese": "尺码",
+    "english": "size",
+    "soundmark": "/saɪz/"
+  },
+  {
+    "chinese": "颜色",
+    "english": "color",
+    "soundmark": "/ˈkʌlər/"
+  },
+  {
+    "chinese": "商店",
+    "english": "store",
+    "soundmark": "/stɔːr/"
+  },
+  {
+    "chinese": "超市",
+    "english": "supermarket",
+    "soundmark": "/ˈsuːpərmɑːrkɪt/"
+  },
+  {
+    "chinese": "买衣服",
+    "english": "buy clothes",
+    "soundmark": "/baɪ kloʊðz/"
+  },
+  {
+    "chinese": "付现金",
+    "english": "pay in cash",
+    "soundmark": "/peɪ ɪn kæʃ/"
+  },
+  {
+    "chinese": "多少钱",
+    "english": "how much is it",
+    "soundmark": "/haʊ mʌtʃ ɪz ɪt/"
+  },
+  {
+    "chinese": "太贵了",
+    "english": "too expensive",
+    "soundmark": "/tuː ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "这个多少钱？",
+    "english": "How much is this",
+    "soundmark": "/haʊ mʌtʃ ɪz ðɪs/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "我想买这个。",
+    "english": "I want to buy this",
+    "soundmark": "/aɪ wɑːnt tuː baɪ ðɪs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want",
+        "role": "V",
+        "phonetic": "/wɑːnt/",
+        "chinese": "想要"
+      },
+      {
+        "text": "to buy this",
+        "role": "O",
+        "phonetic": "/tuː baɪ ðɪs/",
+        "chinese": "到/向/买/这个"
+      }
+    ]
+  },
+  {
+    "chinese": "这些苹果多少钱？",
+    "english": "How much are these apples",
+    "soundmark": "/haʊ mʌtʃ ɑːr ðiːz ˈæplz/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "these apples",
+        "role": "S",
+        "phonetic": "/ðiːz ˈæplz/",
+        "chinese": "这些/…们/复数(苹果)"
+      }
+    ]
+  },
+  {
+    "chinese": "这太贵了。",
+    "english": "This is too expensive",
+    "soundmark": "/ðɪs ɪz tuː ɪkˈspensɪv/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "too expensive",
+        "role": "C",
+        "phonetic": "/tuː ɪkˈspensɪv/",
+        "chinese": "也/太/昂贵的"
+      }
+    ]
+  },
+  {
+    "chinese": "你有便宜点的吗？",
+    "english": "Do you have anything cheaper",
+    "soundmark": "/duː juː hæv ˈeniθɪŋ ˈtʃiːpər/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "anything cheaper",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ ˈtʃiːpər/",
+        "chinese": "任何东西/更…的/…者(便宜的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我用信用卡支付。",
+    "english": "I pay by credit card",
+    "soundmark": "/aɪ peɪ baɪ ˈkredɪt kɑːrd/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "pay",
+        "role": "V",
+        "phonetic": "/peɪ/",
+        "chinese": "付钱"
+      },
+      {
+        "text": "by credit card",
+        "role": "A",
+        "phonetic": "/baɪ ˈkredɪt kɑːrd/",
+        "chinese": "通过/被/在…旁"
+      }
+    ]
+  },
+  {
+    "chinese": "这件连衣裙多少钱？",
+    "english": "How much does this dress cost",
+    "soundmark": "/haʊ mʌtʃ dʌz ðɪs dres kɔːst/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "this dress",
+        "role": "S",
+        "phonetic": "/ðɪs dres/",
+        "chinese": "这个/穿衣"
+      },
+      {
+        "text": "cost",
+        "role": "V",
+        "phonetic": "/kɔːst/",
+        "chinese": "花费"
+      }
+    ]
+  },
+  {
+    "chinese": "我想要大一号的。",
+    "english": "I would like a larger size",
+    "soundmark": "/aɪ wʊd laɪk ə lɑːrdʒər saɪz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would like",
+        "role": "V",
+        "phonetic": "/wʊd laɪk/",
+        "chinese": "想要"
+      },
+      {
+        "text": "a larger size",
+        "role": "O",
+        "phonetic": "/ə lɑːrdʒər saɪz/",
+        "chinese": "一个/更…的/…者(大的)"
+      }
+    ]
+  },
+  {
+    "chinese": "这双鞋正好合适。",
+    "english": "These shoes fit me perfectly",
+    "soundmark": "/ðiːz ʃuːz fɪt miː ˈpɜːrfɪktli/",
+    "grammar": [
+      {
+        "text": "These shoes",
+        "role": "S",
+        "phonetic": "/ðiːz ʃuːz/",
+        "chinese": "这些/…们/复数(鞋)"
+      },
+      {
+        "text": "fit",
+        "role": "V",
+        "phonetic": "/fɪt/",
+        "chinese": "适合"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "perfectly",
+        "role": "A",
+        "phonetic": "/ˈpɜːrfɪktli/",
+        "chinese": "…地(完美的)"
+      }
+    ]
+  },
+  {
+    "chinese": "这件衬衫有蓝色的吗？",
+    "english": "Do you have this shirt in blue",
+    "soundmark": "/duː juː hæv ðɪs ʃɜːrt ɪn bluː/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "this shirt in blue",
+        "role": "O",
+        "phonetic": "/ðɪs ʃɜːrt ɪn bluː/",
+        "chinese": "这个/在…里/蓝色的"
+      }
+    ]
+  },
+  {
+    "chinese": "可以打折吗？",
+    "english": "Can I get a discount",
+    "soundmark": "/kæn aɪ ɡet ə ˈdɪskaʊnt/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "get",
+        "role": "V",
+        "phonetic": "/ɡet/",
+        "chinese": "得到/变得"
+      },
+      {
+        "text": "a discount",
+        "role": "O",
+        "phonetic": "/ə ˈdɪskaʊnt/",
+        "chinese": "一个"
+      }
+    ]
+  },
+  {
+    "chinese": "我把这个包卖给她了。",
+    "english": "I sold the bag to her",
+    "soundmark": "/aɪ soʊld ðə bæɡ tuː hɜːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sold",
+        "role": "V",
+        "phonetic": "/soʊld/",
+        "chinese": "卖（过去式）"
+      },
+      {
+        "text": "the bag",
+        "role": "O",
+        "phonetic": "/ðə bæɡ/",
+        "chinese": "这个/那个/包"
+      },
+      {
+        "text": "to her",
+        "role": "A",
+        "phonetic": "/tuː hɜːr/",
+        "chinese": "到/向/她/她的"
+      }
+    ]
+  },
+  {
+    "chinese": "我总共该付多少钱？",
+    "english": "How much should I pay in total",
+    "soundmark": "/haʊ mʌtʃ ʃʊd aɪ peɪ ɪn ˈtoʊtl/",
+    "grammar": [
+      {
+        "text": "How much",
+        "role": "A",
+        "phonetic": "/haʊ mʌtʃ/",
+        "chinese": "多少"
+      },
+      {
+        "text": "should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "pay",
+        "role": "V",
+        "phonetic": "/peɪ/",
+        "chinese": "付钱"
+      },
+      {
+        "text": "in total",
+        "role": "A",
+        "phonetic": "/ɪn ˈtoʊtl/",
+        "chinese": "在…里"
+      }
+    ]
+  },
+  {
+    "chinese": "我在超市买了一些水果。",
+    "english": "I bought some fruit at the supermarket",
+    "soundmark": "/aɪ bɔːt sʌm fruːt æt ðə ˈsuːpərmɑːrkɪt/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "some fruit",
+        "role": "O",
+        "phonetic": "/sʌm fruːt/",
+        "chinese": "一些/水果"
+      },
+      {
+        "text": "at the supermarket",
+        "role": "A",
+        "phonetic": "/æt ðə ˈsuːpərmɑːrkɪt/",
+        "chinese": "在/这个/那个/超市"
+      }
+    ]
+  },
+  {
+    "chinese": "这件夹克花了五百块。",
+    "english": "This jacket cost five hundred yuan",
+    "soundmark": "/ðɪs ˈdʒækɪt kɔːst faɪv ˈhʌndrəd juːˈɑːn/",
+    "grammar": [
+      {
+        "text": "This jacket",
+        "role": "S",
+        "phonetic": "/ðɪs ˈdʒækɪt/",
+        "chinese": "这个"
+      },
+      {
+        "text": "cost",
+        "role": "V",
+        "phonetic": "/kɔːst/",
+        "chinese": "花费"
+      },
+      {
+        "text": "five hundred yuan",
+        "role": "O",
+        "phonetic": "/faɪv ˈhʌndrəd juːˈɑːn/",
+        "chinese": "五/百"
+      }
+    ]
+  },
+  {
+    "chinese": "你觉得这件怎么样？",
+    "english": "What do you think of this one",
+    "soundmark": "/wɑːt duː juː θɪŋk ʌv ðɪs wʌn/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "O",
+        "phonetic": "/wɑːt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "of this one",
+        "role": "A",
+        "phonetic": "/ʌv ðɪs wʌn/",
+        "chinese": "…的/这个/一个"
+      }
+    ]
+  },
+  {
+    "chinese": "这个价格太划算了。",
+    "english": "This price is a great deal",
+    "soundmark": "/ðɪs praɪs ɪz ə ɡreɪt diːl/",
+    "grammar": [
+      {
+        "text": "This price",
+        "role": "S",
+        "phonetic": "/ðɪs praɪs/",
+        "chinese": "这个/价格"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a great deal",
+        "role": "C",
+        "phonetic": "/ə ɡreɪt diːl/",
+        "chinese": "一个/伟大的/很棒的"
+      }
+    ]
+  },
+  {
+    "chinese": "请给我收据。",
+    "english": "Please give me the receipt",
+    "soundmark": "/pliːz ɡɪv miː ðə rɪˈsiːt/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "A",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "give",
+        "role": "V",
+        "phonetic": "/ɡɪv/",
+        "chinese": "给"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "the receipt",
+        "role": "O",
+        "phonetic": "/ðə rɪˈsiːt/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "你有这个颜色的吗？",
+    "english": "Do you have this in another color",
+    "soundmark": "/duː juː hæv ðɪs ɪn əˈnʌðər ˈkʌlər/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "this in another color",
+        "role": "O",
+        "phonetic": "/ðɪs ɪn əˈnʌðər ˈkʌlər/",
+        "chinese": "这个/在…里/另一个"
+      }
+    ]
+  },
+  {
+    "chinese": "你带了多少钱？",
+    "english": "How much money did you bring",
+    "soundmark": "/haʊ mʌtʃ ˈmʌni dɪd juː brɪŋ/",
+    "grammar": [
+      {
+        "text": "How much money",
+        "role": "O",
+        "phonetic": "/haʊ mʌtʃ ˈmʌni/",
+        "chinese": "多少钱"
+      },
+      {
+        "text": "did",
+        "role": "V",
+        "phonetic": "/dɪd/",
+        "chinese": "做/助动词（过去式）"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "bring",
+        "role": "V",
+        "phonetic": "/brɪŋ/",
+        "chinese": "带来"
+      }
+    ]
+  },
+  {
+    "chinese": "我花了太多钱。",
+    "english": "I spent too much money",
+    "soundmark": "/aɪ spent tuː mʌtʃ ˈmʌni/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "spent",
+        "role": "V",
+        "phonetic": "/spent/",
+        "chinese": "花费（过去式）"
+      },
+      {
+        "text": "too much money",
+        "role": "O",
+        "phonetic": "/tuː mʌtʃ ˈmʌni/",
+        "chinese": "也/太/很多/钱"
+      }
+    ]
+  },
+  {
+    "chinese": "我去商场买点东西。",
+    "english": "I am going to the mall to buy something",
+    "soundmark": "/aɪ æm ˈɡoʊɪŋ tuː ðə mɔːl tuː baɪ ˈsʌmθɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am going",
+        "role": "V",
+        "phonetic": "/æm ˈɡoʊɪŋ/",
+        "chinese": "是"
+      },
+      {
+        "text": "to the mall",
+        "role": "A",
+        "phonetic": "/tuː ðə mɔːl/",
+        "chinese": "到/向/这个/那个"
+      },
+      {
+        "text": "to buy something",
+        "role": "A",
+        "phonetic": "/tuː baɪ ˈsʌmθɪŋ/",
+        "chinese": "到/向/买/某物"
+      }
+    ]
+  },
+  {
+    "chinese": "你能把这个包起来吗？",
+    "english": "Can you wrap this for me",
+    "soundmark": "/kæn juː ræp ðɪs fɔːr miː/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "wrap",
+        "role": "V",
+        "phonetic": "/ræp/",
+        "chinese": ""
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "for me",
+        "role": "A",
+        "phonetic": "/fɔːr miː/",
+        "chinese": "为我"
+      }
+    ]
+  },
+  {
+    "chinese": "这比我想象的要便宜。",
+    "english": "This is cheaper than I expected",
+    "soundmark": "/ðɪs ɪz ˈtʃiːpər ðæn aɪ ɪkˈspektɪd/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "cheaper",
+        "role": "C",
+        "phonetic": "/ˈtʃiːpər/",
+        "chinese": "更…的/…者(便宜的)"
+      },
+      {
+        "text": "than I expected",
+        "role": "A",
+        "phonetic": "/ðæn aɪ ɪkˈspektɪd/",
+        "chinese": "比/我/预期的"
+      }
+    ]
+  },
+  {
+    "chinese": "我明天去换一条小一号的。",
+    "english": "I will exchange it for a smaller size tomorrow",
+    "soundmark": "/aɪ wɪl ɪksˈtʃeɪndʒ ɪt fɔːr ə smɔːlər saɪz təˈmɑːroʊ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will exchange",
+        "role": "V",
+        "phonetic": "/wɪl ɪksˈtʃeɪndʒ/",
+        "chinese": "将要"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "for a smaller size",
+        "role": "A",
+        "phonetic": "/fɔːr ə smɔːlər saɪz/",
+        "chinese": "为了/对于/一个/更…的/…者(小的)"
+      },
+      {
+        "text": "tomorrow",
+        "role": "A",
+        "phonetic": "/təˈmɑːroʊ/",
+        "chinese": "明天"
+      }
+    ]
+  },
+  {
+    "chinese": "他们正在搞促销活动。",
+    "english": "They are having a sale right now",
+    "soundmark": "/ðeɪ ɑːr ˈhævɪŋ ə seɪl raɪt naʊ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are having",
+        "role": "V",
+        "phonetic": "/ɑːr ˈhævɪŋ/",
+        "chinese": "是/正在…(有/助动词)"
+      },
+      {
+        "text": "a sale",
+        "role": "O",
+        "phonetic": "/ə seɪl/",
+        "chinese": "一个"
+      },
+      {
+        "text": "right now",
+        "role": "A",
+        "phonetic": "/raɪt naʊ/",
+        "chinese": "现在/马上"
+      }
+    ]
+  },
+  {
+    "chinese": "能帮我试一下穿这双鞋吗？",
+    "english": "Can I try on these shoes",
+    "soundmark": "/kæn aɪ traɪ ɑːn ðiːz ʃuːz/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "try on",
+        "role": "V",
+        "phonetic": "/traɪ ɑːn/",
+        "chinese": "尝试/在…上"
+      },
+      {
+        "text": "these shoes",
+        "role": "O",
+        "phonetic": "/ðiːz ʃuːz/",
+        "chinese": "这些/…们/复数(鞋)"
+      }
+    ]
+  },
+  {
+    "chinese": "我想要退货。",
+    "english": "I want to return this",
+    "soundmark": "/aɪ wɑːnt tuː rɪˈtɜːrn ðɪs/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "want to return",
+        "role": "V",
+        "phonetic": "/wɑːnt tuː rɪˈtɜːrn/",
+        "chinese": "想要/到/向/返回"
+      },
+      {
+        "text": "this",
+        "role": "O",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      }
+    ]
+  },
+  {
+    "chinese": "这比那件更贵。",
+    "english": "This one is more expensive than that one",
+    "soundmark": "/ðɪs wʌn ɪz mɔːr ɪkˈspensɪv ðæn ðæt wʌn/",
+    "grammar": [
+      {
+        "text": "This one",
+        "role": "S",
+        "phonetic": "/ðɪs wʌn/",
+        "chinese": "这个/一个"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "more expensive",
+        "role": "C",
+        "phonetic": "/mɔːr ɪkˈspensɪv/",
+        "chinese": "更贵的"
+      },
+      {
+        "text": "than that one",
+        "role": "A",
+        "phonetic": "/ðæn ðæt wʌn/",
+        "chinese": "比那个"
+      }
+    ]
+  },
+  {
+    "chinese": "售货员帮了我很多。",
+    "english": "The salesperson helped me a lot",
+    "soundmark": "/ðə ˈseɪlzpɜːrsn helped miː ə lɑːt/",
+    "grammar": [
+      {
+        "text": "The salesperson",
+        "role": "S",
+        "phonetic": "/ðə ˈseɪlzpɜːrsn/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "helped",
+        "role": "V",
+        "phonetic": "/helpt/",
+        "chinese": "帮助"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "a lot",
+        "role": "A",
+        "phonetic": "/ə lɑːt/",
+        "chinese": "许多"
+      }
+    ]
+  },
+  {
+    "chinese": "我们买了三件衬衫和两条裤子。",
+    "english": "We bought three shirts and two pairs of pants",
+    "soundmark": "/wiː bɔːt θriː ʃɜːrts ænd tuː perz ʌv pænts/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "bought",
+        "role": "V",
+        "phonetic": "/bɔːt/",
+        "chinese": "买（过去式）"
+      },
+      {
+        "text": "three shirts and two pairs of pants",
+        "role": "O",
+        "phonetic": "/θriː ʃɜːrts ænd tuː perz ʌv pænts/",
+        "chinese": "三/和/二/…的"
+      }
+    ]
+  },
+  {
+    "chinese": "我今天在商场花了三百块。",
+    "english": "I spent three hundred yuan at the mall today",
+    "soundmark": "/aɪ spent θriː ˈhʌndrəd juːˈɑːn æt ðə mɔːl təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "spent",
+        "role": "V",
+        "phonetic": "/spent/",
+        "chinese": "花费（过去式）"
+      },
+      {
+        "text": "three hundred yuan",
+        "role": "O",
+        "phonetic": "/θriː ˈhʌndrəd juːˈɑːn/",
+        "chinese": "三/百"
+      },
+      {
+        "text": "at the mall",
+        "role": "A",
+        "phonetic": "/æt ðə mɔːl/",
+        "chinese": "在/这个/那个"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "这些鞋正在打折。",
+    "english": "These shoes are on sale",
+    "soundmark": "/ðiːz ʃuːz ɑːr ɑːn seɪl/",
+    "grammar": [
+      {
+        "text": "These shoes",
+        "role": "S",
+        "phonetic": "/ðiːz ʃuːz/",
+        "chinese": "这些/…们/复数(鞋)"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "on sale",
+        "role": "C",
+        "phonetic": "/ɑːn seɪl/",
+        "chinese": "在…上"
+      }
+    ]
+  },
+  {
+    "chinese": "出售",
+    "english": "sell",
+    "soundmark": "/sel/"
+  },
+  {
+    "chinese": "支付",
+    "english": "pay",
+    "soundmark": "/peɪ/"
+  },
+  {
+    "chinese": "收据",
+    "english": "receipt",
+    "soundmark": "/rɪˈsiːt/"
+  },
+  {
+    "chinese": "促销",
+    "english": "sale",
+    "soundmark": "/seɪl/"
+  },
+  {
+    "chinese": "比较",
+    "english": "compare",
+    "soundmark": "/kəmˈper/"
+  },
+  {
+    "chinese": "退货",
+    "english": "return",
+    "soundmark": "/rɪˈtɜːrn/"
+  },
+  {
+    "chinese": "换货",
+    "english": "exchange",
+    "soundmark": "/ɪksˈtʃeɪndʒ/"
+  },
+  {
+    "chinese": "售货员",
+    "english": "salesperson",
+    "soundmark": "/ˈseɪlzpɜːrsn/"
+  },
+  {
+    "chinese": "商场",
+    "english": "mall",
+    "soundmark": "/mɔːl/"
+  },
+  {
+    "chinese": "包裹",
+    "english": "wrap",
+    "soundmark": "/ræp/"
+  }
+]

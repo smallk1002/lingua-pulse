@@ -1,0 +1,1054 @@
+[
+  {
+    "chinese": "有",
+    "english": "have",
+    "soundmark": "/hæv/"
+  },
+  {
+    "chinese": "有",
+    "english": "has",
+    "soundmark": "/hæz/"
+  },
+  {
+    "chinese": "车",
+    "english": "car",
+    "soundmark": "/kɑːr/"
+  },
+  {
+    "chinese": "房子",
+    "english": "house",
+    "soundmark": "/haʊs/"
+  },
+  {
+    "chinese": "宠物",
+    "english": "pet",
+    "soundmark": "/pet/"
+  },
+  {
+    "chinese": "电话",
+    "english": "phone",
+    "soundmark": "/foʊn/"
+  },
+  {
+    "chinese": "自行车",
+    "english": "bicycle",
+    "soundmark": "/ˈbaɪsɪkəl/"
+  },
+  {
+    "chinese": "电脑",
+    "english": "computer",
+    "soundmark": "/kəmˈpjuːtər/"
+  },
+  {
+    "chinese": "花园",
+    "english": "garden",
+    "soundmark": "/ˈɡɑːrdən/"
+  },
+  {
+    "chinese": "房间",
+    "english": "room",
+    "soundmark": "/ruːm/"
+  },
+  {
+    "chinese": "工作",
+    "english": "job",
+    "soundmark": "/dʒɑːb/"
+  },
+  {
+    "chinese": "钱",
+    "english": "money",
+    "soundmark": "/ˈmʌni/"
+  },
+  {
+    "chinese": "时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "chinese": "问题",
+    "english": "problem",
+    "soundmark": "/ˈprɑːbləm/"
+  },
+  {
+    "chinese": "主意",
+    "english": "idea",
+    "soundmark": "/aɪˈdiːə/"
+  },
+  {
+    "chinese": "梦想",
+    "english": "dream",
+    "soundmark": "/driːm/"
+  },
+  {
+    "chinese": "机会",
+    "english": "chance",
+    "soundmark": "/tʃæns/"
+  },
+  {
+    "chinese": "很多",
+    "english": "a lot of",
+    "soundmark": "/ə/ /lɑːt/ /əv/"
+  },
+  {
+    "chinese": "一些",
+    "english": "some",
+    "soundmark": "/sʌm/"
+  },
+  {
+    "chinese": "任何",
+    "english": "any",
+    "soundmark": "/ˈeni/"
+  },
+  {
+    "chinese": "我有一辆车",
+    "english": "I have a car",
+    "soundmark": "/aɪ/ /hæv/ /ə/ /kɑːr/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "car",
+        "role": "O",
+        "phonetic": "/kɑːr/",
+        "chinese": "汽车"
+      }
+    ]
+  },
+  {
+    "chinese": "他有一所大房子",
+    "english": "He has a big house",
+    "soundmark": "/hiː/ /hæz/ /ə/ /bɪɡ/ /haʊs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      }
+    ]
+  },
+  {
+    "chinese": "我有一只宠物狗",
+    "english": "I have a pet dog",
+    "soundmark": "/aɪ/ /hæv/ /ə/ /pet/ /dɔːɡ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "pet",
+        "role": "C",
+        "phonetic": "/pet/",
+        "chinese": "宠物"
+      },
+      {
+        "text": "dog",
+        "role": "O",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      }
+    ]
+  },
+  {
+    "chinese": "她没有手机",
+    "english": "She does not have a phone",
+    "soundmark": "/ʃiː/ /dʌz/ /nɑːt/ /hæv/ /ə/ /foʊn/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "phone",
+        "role": "O",
+        "phonetic": "/foʊn/",
+        "chinese": "电话"
+      }
+    ]
+  },
+  {
+    "chinese": "你有自行车吗",
+    "english": "Do you have a bicycle",
+    "soundmark": "/duː/ /juː/ /hæv/ /ə/ /ˈbaɪsɪkəl/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "bicycle",
+        "role": "O",
+        "phonetic": "/ˈbaɪsɪkəl/",
+        "chinese": "自行车"
+      }
+    ]
+  },
+  {
+    "chinese": "我们有一个漂亮的花园",
+    "english": "We have a beautiful garden",
+    "soundmark": "/wiː/ /hæv/ /ə/ /ˈbjuːtɪfəl/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "他有很多钱吗",
+    "english": "Does he have a lot of money",
+    "soundmark": "/dʌz/ /hiː/ /hæv/ /ə/ /lɑːt/ /əv/ /ˈmʌni/",
+    "grammar": [
+      {
+        "text": "Does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "he",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lot",
+        "role": "Det",
+        "phonetic": "/lɑːt/",
+        "chinese": "许多"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "money",
+        "role": "O",
+        "phonetic": "/ˈmʌni/",
+        "chinese": "钱"
+      }
+    ]
+  },
+  {
+    "chinese": "我有时间今天下午",
+    "english": "I have time this afternoon",
+    "soundmark": "/aɪ/ /hæv/ /taɪm/ /ðɪs/ /ˌæftərˈnuːn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "afternoon",
+        "role": "A",
+        "phonetic": "/ˌæftərˈnuːn/",
+        "chinese": "下午"
+      }
+    ]
+  },
+  {
+    "chinese": "她没有很多朋友",
+    "english": "She does not have many friends",
+    "soundmark": "/ʃiː/ /dʌz/ /nɑːt/ /hæv/ /ˈmeni/ /frendz/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "friends",
+        "role": "O",
+        "phonetic": "/frendz/",
+        "chinese": "朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "他有自己的房间",
+    "english": "He has his own room",
+    "soundmark": "/hiː/ /hæz/ /hɪz/ /oʊn/ /ruːm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "own",
+        "role": "C",
+        "phonetic": "/oʊn/",
+        "chinese": "自己的"
+      },
+      {
+        "text": "room",
+        "role": "O",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "我有一个好主意",
+    "english": "I have a good idea",
+    "soundmark": "/aɪ/ /hæv/ /ə/ /ɡʊd/ /aɪˈdiːə/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "good",
+        "role": "C",
+        "phonetic": "/ɡʊd/",
+        "chinese": "好的"
+      },
+      {
+        "text": "idea",
+        "role": "O",
+        "phonetic": "/aɪˈdiːə/",
+        "chinese": "想法"
+      }
+    ]
+  },
+  {
+    "chinese": "你有问题吗不我没有",
+    "english": "Do you have any problems No I do not",
+    "soundmark": "/duː/ /juː/ /hæv/ /ˈeni/ /ˈprɑːbləmz/ /noʊ/ /aɪ/ /duː/ /nɑːt/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "problems",
+        "role": "O",
+        "phonetic": "/ˈprɑːbləmz/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "No",
+        "role": "Int",
+        "phonetic": "/noʊ/",
+        "chinese": "不"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      }
+    ]
+  },
+  {
+    "chinese": "他们有很多机会学英语",
+    "english": "They have many chances to learn English",
+    "soundmark": "/ðeɪ/ /hæv/ /ˈmeni/ /ˈtʃænsɪz/ /tuː/ /lɜːrn/ /ˈɪŋɡlɪʃ/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "chances",
+        "role": "O",
+        "phonetic": "/ˈtʃænsɪz/",
+        "chinese": "机会"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "learn",
+        "role": "V",
+        "phonetic": "/lɜːrn/",
+        "chinese": "学习"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      }
+    ]
+  },
+  {
+    "chinese": "下午",
+    "english": "afternoon",
+    "soundmark": "/ˌæftərˈnuːn/"
+  },
+  {
+    "chinese": "自己的",
+    "english": "own",
+    "soundmark": "/oʊn/"
+  },
+  {
+    "chinese": "学习",
+    "english": "learn",
+    "soundmark": "/lɜːrn/"
+  },
+  {
+    "chinese": "工作",
+    "english": "job",
+    "soundmark": "/dʒɑːb/"
+  },
+  {
+    "chinese": "梦想",
+    "english": "dream",
+    "soundmark": "/driːm/"
+  },
+  {
+    "chinese": "主意",
+    "english": "idea",
+    "soundmark": "/aɪˈdiːə/"
+  },
+  {
+    "chinese": "机会",
+    "english": "chance",
+    "soundmark": "/tʃæns/"
+  },
+  {
+    "chinese": "很多",
+    "english": "a lot of",
+    "soundmark": "/ə/ /lɑːt/ /əv/"
+  },
+  {
+    "chinese": "我们今年有一位新老师",
+    "english": "We have a new teacher this year",
+    "soundmark": "/wiː/ /hæv/ /ə/ /nuː/ /ˈtiːtʃər/ /ðɪs/ /jɪr/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "new",
+        "role": "C",
+        "phonetic": "/nuː/",
+        "chinese": "新的"
+      },
+      {
+        "text": "teacher",
+        "role": "O",
+        "phonetic": "/ˈtiːtʃər/",
+        "chinese": "老师"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "你有兄弟姐妹吗",
+    "english": "Do you have any brothers or sisters",
+    "soundmark": "/duː/ /juː/ /hæv/ /ˈeni/ /ˈbrʌðərz/ /ɔːr/ /ˈsɪstərz/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "any",
+        "role": "Det",
+        "phonetic": "/ˈeni/",
+        "chinese": "任何"
+      },
+      {
+        "text": "brothers",
+        "role": "O",
+        "phonetic": "/ˈbrʌðərz/",
+        "chinese": "…们/复数(兄弟)"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "sisters",
+        "role": "O",
+        "phonetic": "/ˈsɪstərz/",
+        "chinese": "…们/复数(姐妹)"
+      }
+    ]
+  },
+  {
+    "chinese": "他房间里有很多书",
+    "english": "He has a lot of books in his room",
+    "soundmark": "/hiː/ /hæz/ /ə/ /lɑːt/ /əv/ /bʊks/ /ɪn/ /hɪz/ /ruːm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "lot",
+        "role": "Det",
+        "phonetic": "/lɑːt/",
+        "chinese": "许多"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "books",
+        "role": "O",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "room",
+        "role": "A",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "我有一个问题要问你",
+    "english": "I have a question for you",
+    "soundmark": "/aɪ/ /hæv/ /ə/ /ˈkwestʃən/ /fɔːr/ /juː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "question",
+        "role": "O",
+        "phonetic": "/ˈkwestʃən/",
+        "chinese": "问题"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "她今天没有时间玩",
+    "english": "She does not have time to play today",
+    "soundmark": "/ʃiː/ /dʌz/ /nɑːt/ /hæv/ /taɪm/ /tuː/ /pleɪ/ /təˈdeɪ/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "play",
+        "role": "V",
+        "phonetic": "/pleɪ/",
+        "chinese": "玩"
+      },
+      {
+        "text": "today",
+        "role": "A",
+        "phonetic": "/təˈdeɪ/",
+        "chinese": "今天"
+      }
+    ]
+  },
+  {
+    "chinese": "我父母有一个小花园",
+    "english": "My parents have a small garden",
+    "soundmark": "/maɪ/ /ˈperənts/ /hæv/ /ə/ /smɔːl/ /ˈɡɑːrdən/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "parents",
+        "role": "S",
+        "phonetic": "/ˈperənts/",
+        "chinese": "父母"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "small",
+        "role": "C",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "garden",
+        "role": "O",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "他们有很多有趣的主意",
+    "english": "They have many interesting ideas",
+    "soundmark": "/ðeɪ/ /hæv/ /ˈmeni/ /ˈɪntrəstɪŋ/ /aɪˈdiːəz/",
+    "grammar": [
+      {
+        "text": "They",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "interesting",
+        "role": "C",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "chinese": "有趣的"
+      },
+      {
+        "text": "ideas",
+        "role": "O",
+        "phonetic": "/aɪˈdiːəz/",
+        "chinese": "想法"
+      }
+    ]
+  },
+  {
+    "chinese": "问题",
+    "english": "question",
+    "soundmark": "/ˈkwestʃən/"
+  },
+  {
+    "chinese": "父母",
+    "english": "parents",
+    "soundmark": "/ˈperənts/"
+  },
+  {
+    "chinese": "老师",
+    "english": "teacher",
+    "soundmark": "/ˈtiːtʃər/"
+  },
+  {
+    "chinese": "钥匙",
+    "english": "key",
+    "soundmark": "/kiː/"
+  },
+  {
+    "chinese": "钱包",
+    "english": "wallet",
+    "soundmark": "/ˈwɑːlɪt/"
+  },
+  {
+    "chinese": "雨伞",
+    "english": "umbrella",
+    "soundmark": "/ʌmˈbrelə/"
+  },
+  {
+    "chinese": "任何",
+    "english": "any",
+    "soundmark": "/ˈeni/"
+  },
+  {
+    "chinese": "没有",
+    "english": "do not have",
+    "soundmark": "/duː/ /nɑːt/ /hæv/"
+  }
+]

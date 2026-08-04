@@ -1,0 +1,357 @@
+[
+  {
+    "chinese": "良心",
+    "english": "conscience",
+    "soundmark": "/ˈkɑːnʃəns/"
+  },
+  {
+    "chinese": "钱包",
+    "english": "wallet",
+    "soundmark": "/ˈwɑːlɪt/"
+  },
+  {
+    "chinese": "归还",
+    "english": "return",
+    "soundmark": "/rɪˈtɜːrn/"
+  },
+  {
+    "chinese": "村民",
+    "english": "villager",
+    "soundmark": "/ˈvɪlɪdʒər/"
+  },
+  {
+    "chinese": "内含物",
+    "english": "contents",
+    "soundmark": "/ˈkɑːntents/"
+  },
+  {
+    "chinese": "寻找",
+    "english": "search",
+    "soundmark": "/sɜːrtʃ/"
+  },
+  {
+    "chinese": "清晰的",
+    "english": "clear",
+    "soundmark": "/klɪr/"
+  },
+  {
+    "chinese": "百分比",
+    "english": "percent",
+    "soundmark": "/pərˈsent/"
+  },
+  {
+    "chinese": "钱包被一个小男孩找到了。",
+    "english": "The wallet was found by a little boy",
+    "soundmark": "/ðə ˈwɑːlɪt wʌz faʊnd baɪ ə ˈlɪtl bɔɪ/",
+    "grammar": [
+      {
+        "text": "The wallet",
+        "role": "S",
+        "phonetic": "/ðə ˈwɑːlɪt/",
+        "chinese": "这个/那个/钱包"
+      },
+      {
+        "text": "was found",
+        "role": "V",
+        "phonetic": "/wʌz faʊnd/",
+        "chinese": "是（过去式）/找到的"
+      },
+      {
+        "text": "by a little boy",
+        "role": "A",
+        "phonetic": "/baɪ ə ˈlɪtl bɔɪ/",
+        "chinese": "通过/被/在…旁/一个/小的/少的/男孩"
+      }
+    ]
+  },
+  {
+    "chinese": "丢失的钱包已经被归还了。",
+    "english": "The lost wallet had been returned",
+    "soundmark": "/ðə lɔːst ˈwɑːlɪt hæd biːn rɪˈtɜːrnd/",
+    "grammar": [
+      {
+        "text": "The lost wallet",
+        "role": "S",
+        "phonetic": "/ðə lɔːst ˈwɑːlɪt/",
+        "chinese": "这个/那个/丢失的/迷路的/钱包"
+      },
+      {
+        "text": "had been returned",
+        "role": "V",
+        "phonetic": "/hæd biːn rɪˈtɜːrnd/",
+        "chinese": "有/助动词（过去式）/是（过去分词）/返回"
+      }
+    ]
+  },
+  {
+    "chinese": "整个村子都被搜查过了。",
+    "english": "The whole village had been searched",
+    "soundmark": "/ðə hoʊl ˈvɪlɪdʒ hæd biːn sɜːrtʃt/",
+    "grammar": [
+      {
+        "text": "The whole village",
+        "role": "S",
+        "phonetic": "/ðə hoʊl ˈvɪlɪdʒ/",
+        "chinese": "这个/那个/整个的/村庄"
+      },
+      {
+        "text": "had been searched",
+        "role": "V",
+        "phonetic": "/hæd biːn sɜːrtʃt/",
+        "chinese": "有/助动词（过去式）/是（过去分词）/搜索"
+      }
+    ]
+  },
+  {
+    "chinese": "我觉得问心无愧。",
+    "english": "I felt that I had a clear conscience",
+    "soundmark": "/aɪ felt ðæt aɪ hæd ə klɪr ˈkɑːnʃəns/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "felt",
+        "role": "V",
+        "phonetic": "/felt/",
+        "chinese": "被感觉的"
+      },
+      {
+        "text": "that I had a clear conscience",
+        "role": "O",
+        "phonetic": "/ðæt aɪ hæd ə klɪr ˈkɑːnʃəns/",
+        "chinese": "那个/我/有/助动词（过去式）/一个/清楚的"
+      }
+    ]
+  },
+  {
+    "chinese": "钱包里的东西还在。",
+    "english": "The contents of the wallet were still there",
+    "soundmark": "/ðə ˈkɑːntents əv ðə ˈwɑːlɪt wɜːr stɪl ðer/",
+    "grammar": [
+      {
+        "text": "The contents of the wallet",
+        "role": "S",
+        "phonetic": "/ðə ˈkɑːntents əv ðə ˈwɑːlɪt/",
+        "chinese": "这个/那个/…的/这个/那个/钱包"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "still there",
+        "role": "C",
+        "phonetic": "/stɪl ðer/",
+        "chinese": "仍然/那里"
+      }
+    ]
+  },
+  {
+    "chinese": "村民被告知要配合调查。",
+    "english": "The villagers were told to help with the search",
+    "soundmark": "/ðə ˈvɪlɪdʒərz wɜːr toʊld tuː help wɪð ðə sɜːrtʃ/",
+    "grammar": [
+      {
+        "text": "The villagers",
+        "role": "S",
+        "phonetic": "/ðə ˈvɪlɪdʒərz/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "were told",
+        "role": "V",
+        "phonetic": "/wɜːr toʊld/",
+        "chinese": "是（过去式）/告诉（过去式）"
+      },
+      {
+        "text": "to help",
+        "role": "V",
+        "phonetic": "/tuː help/",
+        "chinese": "到/向/帮助"
+      },
+      {
+        "text": "with the search",
+        "role": "A",
+        "phonetic": "/wɪð ðə sɜːrtʃ/",
+        "chinese": "和/用/这个/那个/搜索"
+      }
+    ]
+  },
+  {
+    "chinese": "百分之四十的钱已经被寄走了。",
+    "english": "Forty percent of the money had been sent away",
+    "soundmark": "/ˈfɔːrti pərˈsent əv ðə ˈmʌni hæd biːn sent əˈweɪ/",
+    "grammar": [
+      {
+        "text": "Forty percent of the money",
+        "role": "S",
+        "phonetic": "/ˈfɔːrti pərˈsent əv ðə ˈmʌni/",
+        "chinese": "四十/…的/这个/那个/钱"
+      },
+      {
+        "text": "had been sent",
+        "role": "V",
+        "phonetic": "/hæd biːn sent/",
+        "chinese": "有/助动词（过去式）/是（过去分词）/寄/发送（过去式）"
+      },
+      {
+        "text": "away",
+        "role": "A",
+        "phonetic": "/əˈweɪ/",
+        "chinese": "离开/远"
+      }
+    ]
+  },
+  {
+    "chinese": "他因归还钱包而受到表扬。",
+    "english": "He was praised for returning the wallet",
+    "soundmark": "/hiː wʌz preɪzd fɔːr rɪˈtɜːrnɪŋ ðə ˈwɑːlɪt/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was praised",
+        "role": "V",
+        "phonetic": "/wʌz preɪzd/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "for returning the wallet",
+        "role": "A",
+        "phonetic": "/fɔːr rɪˈtɜːrnɪŋ ðə ˈwɑːlɪt/",
+        "chinese": "为了/对于/返回/这个/那个/钱包"
+      }
+    ]
+  },
+  {
+    "chinese": "他被村里每个人都知道。",
+    "english": "He was known by everyone in the village",
+    "soundmark": "/hiː wʌz noʊn baɪ ˈevriwʌn ɪn ðə ˈvɪlɪdʒ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was known",
+        "role": "V",
+        "phonetic": "/wʌz noʊn/",
+        "chinese": "是（过去式）/已知的"
+      },
+      {
+        "text": "by everyone in the village",
+        "role": "A",
+        "phonetic": "/baɪ ˈevriwʌn ɪn ðə ˈvɪlɪdʒ/",
+        "chinese": "通过/被/在…旁/每个人/在…里/这个/那个/村庄"
+      }
+    ]
+  },
+  {
+    "chinese": "警察向所有村民询问过这件事。",
+    "english": "All the villagers had been asked about it by the police",
+    "soundmark": "/ɔːl ðə ˈvɪlɪdʒərz hæd biːn æskt əˈbaʊt ɪt baɪ ðə pəˈliːs/",
+    "grammar": [
+      {
+        "text": "All the villagers",
+        "role": "S",
+        "phonetic": "/ɔːl ðə ˈvɪlɪdʒərz/",
+        "chinese": "所有的/这个/那个"
+      },
+      {
+        "text": "had been asked",
+        "role": "V",
+        "phonetic": "/hæd biːn æskt/",
+        "chinese": "有/助动词（过去式）/是（过去分词）/问"
+      },
+      {
+        "text": "about it",
+        "role": "A",
+        "phonetic": "/əˈbaʊt ɪt/",
+        "chinese": "关于/大约/它"
+      },
+      {
+        "text": "by the police",
+        "role": "A",
+        "phonetic": "/baɪ ðə pəˈliːs/",
+        "chinese": "通过/被/在…旁/这个/那个/警察"
+      }
+    ]
+  },
+  {
+    "chinese": "大家终于发现钱包被人偷后又扔掉了。",
+    "english": "It was finally found that the wallet had been stolen and thrown away",
+    "soundmark": "/ɪt wʌz ˈfaɪnəli faʊnd ðæt ðə ˈwɑːlɪt hæd biːn ˈstoʊlən ænd θroʊn əˈweɪ/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was finally found",
+        "role": "V",
+        "phonetic": "/wʌz ˈfaɪnəli faʊnd/",
+        "chinese": "是（过去式）/最后/找到的"
+      },
+      {
+        "text": "that the wallet had been stolen and thrown away",
+        "role": "O",
+        "phonetic": "/ðæt ðə ˈwɑːlɪt hæd biːn ˈstoʊlən ænd θroʊn əˈweɪ/",
+        "chinese": "那个/这个/那个/钱包/有/助动词（过去式）/是（过去分词）/偷（过去分词）/和/扔（过去分词）/离开/远"
+      }
+    ]
+  },
+  {
+    "chinese": "表扬",
+    "english": "praise",
+    "soundmark": "/preɪz/"
+  },
+  {
+    "chinese": "知道",
+    "english": "known",
+    "soundmark": "/noʊn/"
+  },
+  {
+    "chinese": "整个",
+    "english": "whole",
+    "soundmark": "/hoʊl/"
+  },
+  {
+    "chinese": "仍然",
+    "english": "still",
+    "soundmark": "/stɪl/"
+  },
+  {
+    "chinese": "扔掉",
+    "english": "throw away",
+    "soundmark": "/θroʊ əˈweɪ/"
+  },
+  {
+    "chinese": "四十",
+    "english": "forty",
+    "soundmark": "/ˈfɔːrti/"
+  },
+  {
+    "chinese": "寄送",
+    "english": "send",
+    "soundmark": "/send/"
+  },
+  {
+    "chinese": "每个人",
+    "english": "everyone",
+    "soundmark": "/ˈevriwʌn/"
+  }
+]

@@ -1,0 +1,713 @@
+[
+  {
+    "chinese": "录音",
+    "english": "recording",
+    "soundmark": "/rɪˈkɔːdɪŋ/"
+  },
+  {
+    "chinese": "旋律",
+    "english": "melody",
+    "soundmark": "/ˈmelədi/"
+  },
+  {
+    "chinese": "录音室",
+    "english": "studio",
+    "soundmark": "/ˈstjuːdiəʊ/"
+  },
+  {
+    "chinese": "麦克风",
+    "english": "microphone",
+    "soundmark": "/ˈmaɪkrəfəʊn/"
+  },
+  {
+    "chinese": "保真度",
+    "english": "fidelity",
+    "soundmark": "/fɪˈdelɪti/"
+  },
+  {
+    "chinese": "回响",
+    "english": "echo",
+    "soundmark": "/ˈekəʊ/"
+  },
+  {
+    "chinese": "调谐",
+    "english": "tune",
+    "soundmark": "/tjuːn/"
+  },
+  {
+    "chinese": "声学",
+    "english": "acoustics",
+    "soundmark": "/əˈkuːstɪks/"
+  },
+  {
+    "chinese": "合成器",
+    "english": "synthesizer",
+    "soundmark": "/ˈsɪnθəsaɪzə/"
+  },
+  {
+    "chinese": "模拟的",
+    "english": "analogue",
+    "soundmark": "/ˈænəlɒɡ/"
+  },
+  {
+    "chinese": "数字的",
+    "english": "digital",
+    "soundmark": "/ˈdɪdʒɪtəl/"
+  },
+  {
+    "chinese": "音频",
+    "english": "audio",
+    "soundmark": "/ˈɔːdiəʊ/"
+  },
+  {
+    "chinese": "录音技术的进步彻底改变了音乐产业",
+    "english": "advances in recording technology have revolutionized the music industry",
+    "soundmark": "/ədˈvɑːnsɪz ɪn rɪˈkɔːdɪŋ tekˈnɒlədʒi hæv ˌrevəˈluːʃənaɪzd ðə ˈmjuːzɪk ˈɪndəstri/",
+    "grammar": [
+      {
+        "text": "advances",
+        "role": "S",
+        "phonetic": "/ədˈvɑːnsɪz/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "recording",
+        "role": "A",
+        "phonetic": "/rɪˈkɔːdɪŋ/",
+        "chinese": "记录"
+      },
+      {
+        "text": "technology",
+        "role": "O",
+        "phonetic": "/tekˈnɒlədʒi/",
+        "chinese": "技术"
+      },
+      {
+        "text": "have",
+        "role": "Aux",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "revolutionized",
+        "role": "V",
+        "phonetic": "/ˌrevəˈluːʃənaɪzd/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "music",
+        "role": "A",
+        "phonetic": "/ˈmjuːzɪk/",
+        "chinese": "音乐"
+      },
+      {
+        "text": "industry",
+        "role": "O",
+        "phonetic": "/ˈɪndəstri/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "录音室必须隔绝一切外部噪音",
+    "english": "a recording studio must be insulated from all external noise",
+    "soundmark": "/ə rɪˈkɔːdɪŋ ˈstjuːdiəʊ mʌst bi ˈɪnsjuleɪtɪd frɒm ɔːl ɪkˈstɜːnl nɔɪz/",
+    "grammar": [
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "recording",
+        "role": "A",
+        "phonetic": "/rɪˈkɔːdɪŋ/",
+        "chinese": "记录"
+      },
+      {
+        "text": "studio",
+        "role": "S",
+        "phonetic": "/ˈstjuːdiəʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "must",
+        "role": "Aux",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/bi/",
+        "chinese": "是"
+      },
+      {
+        "text": "insulated",
+        "role": "V",
+        "phonetic": "/ˈɪnsjuleɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frɒm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "external",
+        "role": "A",
+        "phonetic": "/ɪkˈstɜːnl/",
+        "chinese": ""
+      },
+      {
+        "text": "noise",
+        "role": "O",
+        "phonetic": "/nɔɪz/",
+        "chinese": "噪音"
+      }
+    ]
+  },
+  {
+    "chinese": "声音的保真度取决于录音设备的品质",
+    "english": "the fidelity of sound depends on the quality of the recording equipment",
+    "soundmark": "/ðə fɪˈdelɪti əv saʊnd dɪˈpendz ɒn ðə ˈkwɒlɪti əv ðə rɪˈkɔːdɪŋ ɪˈkwɪpmənt/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "fidelity",
+        "role": "S",
+        "phonetic": "/fɪˈdelɪti/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "sound",
+        "role": "O",
+        "phonetic": "/saʊnd/",
+        "chinese": "声音"
+      },
+      {
+        "text": "depends",
+        "role": "V",
+        "phonetic": "/dɪˈpendz/",
+        "chinese": "依赖"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "quality",
+        "role": "O",
+        "phonetic": "/ˈkwɒlɪti/",
+        "chinese": "质量/品质"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "recording",
+        "role": "A",
+        "phonetic": "/rɪˈkɔːdɪŋ/",
+        "chinese": "记录"
+      },
+      {
+        "text": "equipment",
+        "role": "O",
+        "phonetic": "/ɪˈkwɪpmənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "音乐家们花了很多时间来调谐乐器的音色",
+    "english": "musicians spend a great deal of time tuning the tone of their instruments",
+    "soundmark": "/mjuˈzɪʃənz spend ə ɡreɪt diːl əv taɪm ˈtjuːnɪŋ ðə təʊn əv ðeər ˈɪnstrəmənts/",
+    "grammar": [
+      {
+        "text": "musicians",
+        "role": "S",
+        "phonetic": "/mjuˈzɪʃənz/",
+        "chinese": ""
+      },
+      {
+        "text": "spend",
+        "role": "V",
+        "phonetic": "/spend/",
+        "chinese": "花费"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "great",
+        "role": "A",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "deal",
+        "role": "O",
+        "phonetic": "/diːl/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "time",
+        "role": "O",
+        "phonetic": "/taɪm/",
+        "chinese": "时间"
+      },
+      {
+        "text": "tuning",
+        "role": "V",
+        "phonetic": "/ˈtjuːnɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tone",
+        "role": "O",
+        "phonetic": "/təʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðeər/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "instruments",
+        "role": "O",
+        "phonetic": "/ˈɪnstrəmənts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "数字录音比模拟录音更加清晰但缺少温暖感",
+    "english": "digital recording is clearer than analogue but lacks warmth",
+    "soundmark": "/ˈdɪdʒɪtəl rɪˈkɔːdɪŋ ɪz ˈklɪərə ðən ˈænəlɒɡ bʌt læks wɔːmθ/",
+    "grammar": [
+      {
+        "text": "digital",
+        "role": "A",
+        "phonetic": "/ˈdɪdʒɪtəl/",
+        "chinese": "数字的"
+      },
+      {
+        "text": "recording",
+        "role": "S",
+        "phonetic": "/rɪˈkɔːdɪŋ/",
+        "chinese": "记录"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "clearer",
+        "role": "C",
+        "phonetic": "/ˈklɪərə/",
+        "chinese": "更…的/…者(清楚的)"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðən/",
+        "chinese": "比"
+      },
+      {
+        "text": "analogue",
+        "role": "O",
+        "phonetic": "/ˈænəlɒɡ/",
+        "chinese": ""
+      },
+      {
+        "text": "but",
+        "role": "C",
+        "phonetic": "/bʌt/",
+        "chinese": "但是"
+      },
+      {
+        "text": "lacks",
+        "role": "V",
+        "phonetic": "/læks/",
+        "chinese": ""
+      },
+      {
+        "text": "warmth",
+        "role": "O",
+        "phonetic": "/wɔːmθ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "声学工程师设计了特殊的声音效果来增强音乐的感染力",
+    "english": "acoustic engineers design special sound effects to enhance the emotional impact of music",
+    "soundmark": "/əˈkuːstɪk ˌendʒɪˈnɪəz dɪˈzaɪn ˈspeʃəl saʊnd ɪˈfekts tuː ɪnˈhɑːns ðə ɪˈməʊʃənl ˈɪmpækt əv ˈmjuːzɪk/",
+    "grammar": [
+      {
+        "text": "acoustic",
+        "role": "A",
+        "phonetic": "/əˈkuːstɪk/",
+        "chinese": ""
+      },
+      {
+        "text": "engineers",
+        "role": "S",
+        "phonetic": "/ˌendʒɪˈnɪəz/",
+        "chinese": "工程师"
+      },
+      {
+        "text": "design",
+        "role": "V",
+        "phonetic": "/dɪˈzaɪn/",
+        "chinese": "设计"
+      },
+      {
+        "text": "special",
+        "role": "A",
+        "phonetic": "/ˈspeʃəl/",
+        "chinese": "特别的"
+      },
+      {
+        "text": "sound",
+        "role": "A",
+        "phonetic": "/saʊnd/",
+        "chinese": "声音"
+      },
+      {
+        "text": "effects",
+        "role": "O",
+        "phonetic": "/ɪˈfekts/",
+        "chinese": "效果"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "enhance",
+        "role": "V",
+        "phonetic": "/ɪnˈhɑːns/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "emotional",
+        "role": "A",
+        "phonetic": "/ɪˈməʊʃənl/",
+        "chinese": ""
+      },
+      {
+        "text": "impact",
+        "role": "O",
+        "phonetic": "/ˈɪmpækt/",
+        "chinese": "影响/冲击"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "music",
+        "role": "O",
+        "phonetic": "/ˈmjuːzɪk/",
+        "chinese": "音乐"
+      }
+    ]
+  },
+  {
+    "chinese": "一首伟大的旋律能够跨越世纪触动人们的心灵",
+    "english": "a great melody can touch people's hearts across the centuries",
+    "soundmark": "/ə ɡreɪt ˈmelədi kən tʌtʃ ˈpiːplz hɑːts əˈkrɒs ðə ˈsentʃəriz/",
+    "grammar": [
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "great",
+        "role": "A",
+        "phonetic": "/ɡreɪt/",
+        "chinese": "伟大的/很棒的"
+      },
+      {
+        "text": "melody",
+        "role": "S",
+        "phonetic": "/ˈmelədi/",
+        "chinese": ""
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kən/",
+        "chinese": "能"
+      },
+      {
+        "text": "touch",
+        "role": "V",
+        "phonetic": "/tʌtʃ/",
+        "chinese": "触摸"
+      },
+      {
+        "text": "people's",
+        "role": "Det",
+        "phonetic": "/ˈpiːplz/",
+        "chinese": "人们"
+      },
+      {
+        "text": "hearts",
+        "role": "O",
+        "phonetic": "/hɑːts/",
+        "chinese": "心"
+      },
+      {
+        "text": "across",
+        "role": "P",
+        "phonetic": "/əˈkrɒs/",
+        "chinese": "穿过/对面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "centuries",
+        "role": "O",
+        "phonetic": "/ˈsentʃəriz/",
+        "chinese": "世纪"
+      }
+    ]
+  },
+  {
+    "chinese": "录音不仅仅是复制声音它还能捕捉演奏中的情感",
+    "english": "recording is not merely reproducing sound; it also captures the emotion in a performance",
+    "soundmark": "/rɪˈkɔːdɪŋ ɪz nɒt ˈmɪəli rɪprəˈdjuːsɪŋ saʊnd; ɪt ˈɔːlsəʊ ˈkæptʃəz ðə ɪˈməʊʃən ɪn ə pəˈfɔːməns/",
+    "grammar": [
+      {
+        "text": "recording",
+        "role": "S",
+        "phonetic": "/rɪˈkɔːdɪŋ/",
+        "chinese": "记录"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "merely",
+        "role": "Adv",
+        "phonetic": "/ˈmɪəli/",
+        "chinese": "仅仅"
+      },
+      {
+        "text": "reproducing",
+        "role": "V",
+        "phonetic": "/rɪprəˈdjuːsɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "sound",
+        "role": "O",
+        "phonetic": "/saʊnd/",
+        "chinese": "声音"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "also",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlsəʊ/",
+        "chinese": "也"
+      },
+      {
+        "text": "captures",
+        "role": "V",
+        "phonetic": "/ˈkæptʃəz/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "emotion",
+        "role": "O",
+        "phonetic": "/ɪˈməʊʃən/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "performance",
+        "role": "O",
+        "phonetic": "/pəˈfɔːməns/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "混音",
+    "english": "remix",
+    "soundmark": "/ˈriːmɪks/"
+  },
+  {
+    "chinese": "黑胶唱片",
+    "english": "vinyl",
+    "soundmark": "/ˈvaɪnəl/"
+  },
+  {
+    "chinese": "立体声",
+    "english": "stereo",
+    "soundmark": "/ˈsteriəʊ/"
+  },
+  {
+    "chinese": "音轨",
+    "english": "track",
+    "soundmark": "/træk/"
+  },
+  {
+    "chinese": "唱片公司",
+    "english": "label",
+    "soundmark": "/ˈleɪbəl/"
+  },
+  {
+    "chinese": "指挥",
+    "english": "conductor",
+    "soundmark": "/kənˈdʌktə/"
+  },
+  {
+    "chinese": "乐谱",
+    "english": "score",
+    "soundmark": "/skɔː/"
+  },
+  {
+    "chinese": "录音机",
+    "english": "recorder",
+    "soundmark": "/rɪˈkɔːdə/"
+  },
+  {
+    "chinese": "麦克风",
+    "english": "microphone",
+    "soundmark": "/ˈmaɪkrəfəʊn/"
+  },
+  {
+    "chinese": "扬声器",
+    "english": "speaker",
+    "soundmark": "/ˈspiːkə/"
+  },
+  {
+    "chinese": "音响",
+    "english": "audio",
+    "soundmark": "/ˈɔːdiəʊ/"
+  }
+]

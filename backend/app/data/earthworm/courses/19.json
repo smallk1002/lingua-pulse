@@ -1,0 +1,1168 @@
+[
+  {
+    "chinese": "在……里面",
+    "english": "in",
+    "soundmark": "/ɪn/"
+  },
+  {
+    "chinese": "在……上面",
+    "english": "on",
+    "soundmark": "/ɑːn/"
+  },
+  {
+    "chinese": "在（点）",
+    "english": "at",
+    "soundmark": "/æt/"
+  },
+  {
+    "chinese": "在……下面",
+    "english": "under",
+    "soundmark": "/ˈʌndər/"
+  },
+  {
+    "chinese": "在……后面",
+    "english": "behind",
+    "soundmark": "/bɪˈhaɪnd/"
+  },
+  {
+    "chinese": "在……之间",
+    "english": "between",
+    "soundmark": "/bɪˈtwiːn/"
+  },
+  {
+    "chinese": "在……附近",
+    "english": "near",
+    "soundmark": "/nɪr/"
+  },
+  {
+    "chinese": "在……旁边",
+    "english": "next to",
+    "soundmark": "/nekst/ /tuː/"
+  },
+  {
+    "chinese": "在……前面",
+    "english": "in front of",
+    "soundmark": "/ɪn/ /frʌnt/ /əv/"
+  },
+  {
+    "chinese": "在……对面",
+    "english": "across from",
+    "soundmark": "/əˈkrɔːs/ /frʌm/"
+  },
+  {
+    "chinese": "在……上方",
+    "english": "above",
+    "soundmark": "/əˈbʌv/"
+  },
+  {
+    "chinese": "在……下方",
+    "english": "below",
+    "soundmark": "/bɪˈloʊ/"
+  },
+  {
+    "chinese": "在里面",
+    "english": "inside",
+    "soundmark": "/ɪnˈsaɪd/"
+  },
+  {
+    "chinese": "在外面",
+    "english": "outside",
+    "soundmark": "/aʊtˈsaɪd/"
+  },
+  {
+    "chinese": "左",
+    "english": "left",
+    "soundmark": "/left/"
+  },
+  {
+    "chinese": "右",
+    "english": "right",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "chinese": "中间",
+    "english": "middle",
+    "soundmark": "/ˈmɪdəl/"
+  },
+  {
+    "chinese": "角落",
+    "english": "corner",
+    "soundmark": "/ˈkɔːrnər/"
+  },
+  {
+    "chinese": "顶部",
+    "english": "top",
+    "soundmark": "/tɑːp/"
+  },
+  {
+    "chinese": "底部",
+    "english": "bottom",
+    "soundmark": "/ˈbɑːtəm/"
+  },
+  {
+    "chinese": "书在桌子上",
+    "english": "The book is on the table",
+    "soundmark": "/ðə/ /bʊk/ /ɪz/ /ɑːn/ /ðə/ /ˈteɪbəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "table",
+        "role": "A",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      }
+    ]
+  },
+  {
+    "chinese": "猫在桌子下面",
+    "english": "The cat is under the table",
+    "soundmark": "/ðə/ /kæt/ /ɪz/ /ˈʌndər/ /ðə/ /ˈteɪbəl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "table",
+        "role": "A",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      }
+    ]
+  },
+  {
+    "chinese": "他在家",
+    "english": "He is at home",
+    "soundmark": "/hiː/ /ɪz/ /æt/ /hoʊm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "学校在公园附近",
+    "english": "The school is near the park",
+    "soundmark": "/ðə/ /skuːl/ /ɪz/ /nɪr/ /ðə/ /pɑːrk/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "school",
+        "role": "S",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "near",
+        "role": "P",
+        "phonetic": "/nɪr/",
+        "chinese": "在…附近"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "park",
+        "role": "A",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      }
+    ]
+  },
+  {
+    "chinese": "他在门后面",
+    "english": "He is behind the door",
+    "soundmark": "/hiː/ /ɪz/ /bɪˈhaɪnd/ /ðə/ /dɔːr/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "behind",
+        "role": "P",
+        "phonetic": "/bɪˈhaɪnd/",
+        "chinese": "在…后面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "A",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      }
+    ]
+  },
+  {
+    "chinese": "银行在邮局和超市之间",
+    "english": "The bank is between the post office and the supermarket",
+    "soundmark": "/ðə/ /bæŋk/ /ɪz/ /bɪˈtwiːn/ /ðə/ /poʊst/ /ˈɔːfɪs/ /ænd/ /ðə/ /ˈsuːpərˌmɑːrkɪt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bank",
+        "role": "S",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "post",
+        "role": "C",
+        "phonetic": "/poʊst/",
+        "chinese": ""
+      },
+      {
+        "text": "office",
+        "role": "A",
+        "phonetic": "/ˈɔːfɪs/",
+        "chinese": "办公室"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "supermarket",
+        "role": "A",
+        "phonetic": "/ˈsuːpərˌmɑːrkɪt/",
+        "chinese": "超市"
+      }
+    ]
+  },
+  {
+    "chinese": "狗在箱子里吗",
+    "english": "Is the dog in the box",
+    "soundmark": "/ɪz/ /ðə/ /dɔːɡ/ /ɪn/ /ðə/ /bɑːks/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "box",
+        "role": "A",
+        "phonetic": "/bɑːks/",
+        "chinese": "箱子/盒"
+      }
+    ]
+  },
+  {
+    "chinese": "我的房子在山的后面",
+    "english": "My house is behind the mountain",
+    "soundmark": "/maɪ/ /haʊs/ /ɪz/ /bɪˈhaɪnd/ /ðə/ /ˈmaʊntən/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "house",
+        "role": "S",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "behind",
+        "role": "P",
+        "phonetic": "/bɪˈhaɪnd/",
+        "chinese": "在…后面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mountain",
+        "role": "A",
+        "phonetic": "/ˈmaʊntən/",
+        "chinese": "山"
+      }
+    ]
+  },
+  {
+    "chinese": "图书馆在学校旁边",
+    "english": "The library is next to the school",
+    "soundmark": "/ðə/ /ˈlaɪbreri/ /ɪz/ /nekst/ /tuː/ /ðə/ /skuːl/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "library",
+        "role": "S",
+        "phonetic": "/ˈlaɪbreri/",
+        "chinese": "图书馆"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "next",
+        "role": "P",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "school",
+        "role": "A",
+        "phonetic": "/skuːl/",
+        "chinese": "学校"
+      }
+    ]
+  },
+  {
+    "chinese": "影子在你前面不在你后面",
+    "english": "The shadow is in front of you not behind you",
+    "soundmark": "/ðə/ /ˈʃædoʊ/ /ɪz/ /ɪn/ /frʌnt/ /əv/ /juː/ /nɑːt/ /bɪˈhaɪnd/ /juː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "shadow",
+        "role": "S",
+        "phonetic": "/ˈʃædoʊ/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "front",
+        "role": "C",
+        "phonetic": "/frʌnt/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "you",
+        "role": "A",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "behind",
+        "role": "P",
+        "phonetic": "/bɪˈhaɪnd/",
+        "chinese": "在…后面"
+      },
+      {
+        "text": "you",
+        "role": "A",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "家",
+    "english": "home",
+    "soundmark": "/hoʊm/"
+  },
+  {
+    "chinese": "银行",
+    "english": "bank",
+    "soundmark": "/bæŋk/"
+  },
+  {
+    "chinese": "邮局",
+    "english": "post office",
+    "soundmark": "/poʊst/ /ˈɔːfɪs/"
+  },
+  {
+    "chinese": "超市",
+    "english": "supermarket",
+    "soundmark": "/ˈsuːpərˌmɑːrkɪt/"
+  },
+  {
+    "chinese": "图书馆",
+    "english": "library",
+    "soundmark": "/ˈlaɪbreri/"
+  },
+  {
+    "chinese": "山",
+    "english": "mountain",
+    "soundmark": "/ˈmaʊntən/"
+  },
+  {
+    "chinese": "影子",
+    "english": "shadow",
+    "soundmark": "/ˈʃædoʊ/"
+  },
+  {
+    "chinese": "猫藏在床底下",
+    "english": "The cat is hiding under the bed",
+    "soundmark": "/ðə/ /kæt/ /ɪz/ /ˈhaɪdɪŋ/ /ˈʌndər/ /ðə/ /bed/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "cat",
+        "role": "S",
+        "phonetic": "/kæt/",
+        "chinese": "猫"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "hiding",
+        "role": "V",
+        "phonetic": "/ˈhaɪdɪŋ/",
+        "chinese": "隐藏"
+      },
+      {
+        "text": "under",
+        "role": "P",
+        "phonetic": "/ˈʌndər/",
+        "chinese": "在…下方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bed",
+        "role": "A",
+        "phonetic": "/bed/",
+        "chinese": "床"
+      }
+    ]
+  },
+  {
+    "chinese": "银行是在左边还是右边",
+    "english": "Is the bank on the left or the right",
+    "soundmark": "/ɪz/ /ðə/ /bæŋk/ /ɑːn/ /ðə/ /left/ /ɔːr/ /ðə/ /raɪt/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bank",
+        "role": "S",
+        "phonetic": "/bæŋk/",
+        "chinese": "银行"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "left",
+        "role": "A",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "right",
+        "role": "A",
+        "phonetic": "/raɪt/",
+        "chinese": "对的/右边的"
+      }
+    ]
+  },
+  {
+    "chinese": "我的笔在书之间的某个地方",
+    "english": "My pen is somewhere between the books",
+    "soundmark": "/maɪ/ /pen/ /ɪz/ /ˈsʌmwer/ /bɪˈtwiːn/ /ðə/ /bʊks/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "pen",
+        "role": "S",
+        "phonetic": "/pen/",
+        "chinese": "钢笔"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "somewhere",
+        "role": "A",
+        "phonetic": "/ˈsʌmwer/",
+        "chinese": ""
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "books",
+        "role": "A",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      }
+    ]
+  },
+  {
+    "chinese": "请站在全班前面",
+    "english": "Please stand in front of the class",
+    "soundmark": "/pliːz/ /stænd/ /ɪn/ /frʌnt/ /əv/ /ðə/ /klæs/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "stand",
+        "role": "V",
+        "phonetic": "/stænd/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "front",
+        "role": "C",
+        "phonetic": "/frʌnt/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "class",
+        "role": "A",
+        "phonetic": "/klæs/",
+        "chinese": "班级/阶层"
+      }
+    ]
+  },
+  {
+    "chinese": "我家附近有一个漂亮的公园",
+    "english": "There is a beautiful park near my home",
+    "soundmark": "/ðer/ /ɪz/ /ə/ /ˈbjuːtɪfəl/ /pɑːrk/ /nɪr/ /maɪ/ /hoʊm/",
+    "grammar": [
+      {
+        "text": "There",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "beautiful",
+        "role": "C",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "chinese": "美丽的"
+      },
+      {
+        "text": "park",
+        "role": "C",
+        "phonetic": "/pɑːrk/",
+        "chinese": "公园"
+      },
+      {
+        "text": "near",
+        "role": "P",
+        "phonetic": "/nɪr/",
+        "chinese": "在…附近"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "星星在山的上方",
+    "english": "The stars are above the mountains",
+    "soundmark": "/ðə/ /stɑːrz/ /ɑːr/ /əˈbʌv/ /ðə/ /ˈmaʊntənz/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "stars",
+        "role": "S",
+        "phonetic": "/stɑːrz/",
+        "chinese": "星星"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "above",
+        "role": "P",
+        "phonetic": "/əˈbʌv/",
+        "chinese": "在…上面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "mountains",
+        "role": "A",
+        "phonetic": "/ˈmaʊntənz/",
+        "chinese": "山"
+      }
+    ]
+  },
+  {
+    "chinese": "钥匙在你的口袋还是在桌子上",
+    "english": "Are the keys in your pocket or on the table",
+    "soundmark": "/ɑːr/ /ðə/ /kiːz/ /ɪn/ /jɔːr/ /ˈpɑːkɪt/ /ɔːr/ /ɑːn/ /ðə/ /ˈteɪbəl/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "keys",
+        "role": "S",
+        "phonetic": "/kiːz/",
+        "chinese": "钥匙"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "your",
+        "role": "Det",
+        "phonetic": "/jɔːr/",
+        "chinese": "你的/你们的"
+      },
+      {
+        "text": "pocket",
+        "role": "A",
+        "phonetic": "/ˈpɑːkɪt/",
+        "chinese": "口袋"
+      },
+      {
+        "text": "or",
+        "role": "P",
+        "phonetic": "/ɔːr/",
+        "chinese": "或者"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "table",
+        "role": "A",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      }
+    ]
+  },
+  {
+    "chinese": "她上课时坐在我旁边",
+    "english": "She sits next to me in class",
+    "soundmark": "/ʃiː/ /sɪts/ /nekst/ /tuː/ /miː/ /ɪn/ /klæs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "sits",
+        "role": "V",
+        "phonetic": "/sɪts/",
+        "chinese": ""
+      },
+      {
+        "text": "next",
+        "role": "P",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "me",
+        "role": "O",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "class",
+        "role": "A",
+        "phonetic": "/klæs/",
+        "chinese": "班级/阶层"
+      }
+    ]
+  },
+  {
+    "chinese": "狗在围着树跑",
+    "english": "The dog is running around the tree",
+    "soundmark": "/ðə/ /dɔːɡ/ /ɪz/ /ˈrʌnɪŋ/ /əˈraʊnd/ /ðə/ /triː/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "dog",
+        "role": "S",
+        "phonetic": "/dɔːɡ/",
+        "chinese": "狗"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "running",
+        "role": "V",
+        "phonetic": "/ˈrʌnɪŋ/",
+        "chinese": "跑步的/流动的"
+      },
+      {
+        "text": "around",
+        "role": "P",
+        "phonetic": "/əˈraʊnd/",
+        "chinese": "围绕/大约"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tree",
+        "role": "A",
+        "phonetic": "/triː/",
+        "chinese": "树"
+      }
+    ]
+  },
+  {
+    "chinese": "我住在一家大医院对面",
+    "english": "I live across from a big hospital",
+    "soundmark": "/aɪ/ /lɪv/ /əˈkrɔːs/ /frʌm/ /ə/ /bɪɡ/ /ˈhɑːspɪtəl/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "across",
+        "role": "P",
+        "phonetic": "/əˈkrɔːs/",
+        "chinese": "穿过/对面"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "big",
+        "role": "C",
+        "phonetic": "/bɪɡ/",
+        "chinese": "大的"
+      },
+      {
+        "text": "hospital",
+        "role": "A",
+        "phonetic": "/ˈhɑːspɪtəl/",
+        "chinese": "医院"
+      }
+    ]
+  },
+  {
+    "chinese": "口袋",
+    "english": "pocket",
+    "soundmark": "/ˈpɑːkɪt/"
+  },
+  {
+    "chinese": "星星",
+    "english": "star",
+    "soundmark": "/stɑːr/"
+  },
+  {
+    "chinese": "医院",
+    "english": "hospital",
+    "soundmark": "/ˈhɑːspɪtəl/"
+  },
+  {
+    "chinese": "树",
+    "english": "tree",
+    "soundmark": "/triː/"
+  },
+  {
+    "chinese": "某处",
+    "english": "somewhere",
+    "soundmark": "/ˈsʌmwer/"
+  },
+  {
+    "chinese": "围绕",
+    "english": "around",
+    "soundmark": "/əˈraʊnd/"
+  },
+  {
+    "chinese": "左",
+    "english": "left",
+    "soundmark": "/left/"
+  },
+  {
+    "chinese": "右",
+    "english": "right",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "chinese": "中间",
+    "english": "middle",
+    "soundmark": "/ˈmɪdəl/"
+  }
+]

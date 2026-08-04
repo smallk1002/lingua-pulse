@@ -1,0 +1,722 @@
+[
+  {
+    "chinese": "快速地",
+    "english": "quickly",
+    "soundmark": "/ˈkwɪkli/"
+  },
+  {
+    "chinese": "慢慢地",
+    "english": "slowly",
+    "soundmark": "/ˈsloʊli/"
+  },
+  {
+    "chinese": "小心地",
+    "english": "carefully",
+    "soundmark": "/ˈkerfəli/"
+  },
+  {
+    "chinese": "大声地",
+    "english": "loudly",
+    "soundmark": "/ˈlaʊdli/"
+  },
+  {
+    "chinese": "安静地",
+    "english": "quietly",
+    "soundmark": "/ˈkwaɪətli/"
+  },
+  {
+    "chinese": "愉快地",
+    "english": "happily",
+    "soundmark": "/ˈhæpɪli/"
+  },
+  {
+    "chinese": "悲伤地",
+    "english": "sadly",
+    "soundmark": "/ˈsædli/"
+  },
+  {
+    "chinese": "容易地",
+    "english": "easily",
+    "soundmark": "/ˈiːzɪli/"
+  },
+  {
+    "chinese": "完美地",
+    "english": "perfectly",
+    "soundmark": "/ˈpɜːrfɪktli/"
+  },
+  {
+    "chinese": "礼貌地",
+    "english": "politely",
+    "soundmark": "/pəˈlaɪtli/"
+  },
+  {
+    "chinese": "清晰地",
+    "english": "clearly",
+    "soundmark": "/ˈklɪrli/"
+  },
+  {
+    "chinese": "严重地",
+    "english": "seriously",
+    "soundmark": "/ˈsɪriəsli/"
+  },
+  {
+    "chinese": "她走得很快",
+    "english": "She walks quickly",
+    "soundmark": "/ʃiː wɔːks ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walks",
+        "role": "V",
+        "phonetic": "/wɔːks/",
+        "chinese": "走"
+      },
+      {
+        "text": "quickly",
+        "role": "Adv",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "他慢慢地开车",
+    "english": "He drives slowly",
+    "soundmark": "/hiː draɪvz ˈsloʊli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "drives",
+        "role": "V",
+        "phonetic": "/draɪvz/",
+        "chinese": "驾驶"
+      },
+      {
+        "text": "slowly",
+        "role": "Adv",
+        "phonetic": "/ˈsloʊli/",
+        "chinese": "慢慢地"
+      }
+    ]
+  },
+  {
+    "chinese": "请小心地走",
+    "english": "Please walk carefully",
+    "soundmark": "/pliːz wɔːk ˈkerfəli/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "walk",
+        "role": "V",
+        "phonetic": "/wɔːk/",
+        "chinese": "走"
+      },
+      {
+        "text": "carefully",
+        "role": "Adv",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      }
+    ]
+  },
+  {
+    "chinese": "不要那么大声说话",
+    "english": "Do not speak so loudly",
+    "soundmark": "/duː nɑːt spiːk soʊ ˈlaʊdli/",
+    "grammar": [
+      {
+        "text": "Do",
+        "role": "V",
+        "phonetic": "/duː/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "speak",
+        "role": "V",
+        "phonetic": "/spiːk/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "so loudly",
+        "role": "Adv",
+        "phonetic": "/soʊ ˈlaʊdli/",
+        "chinese": "如此/所以"
+      }
+    ]
+  },
+  {
+    "chinese": "孩子们愉快地玩着",
+    "english": "The children are playing happily",
+    "soundmark": "/ðə ˈtʃɪldrən ɑːr ˈpleɪɪŋ ˈhæpɪli/",
+    "grammar": [
+      {
+        "text": "The children",
+        "role": "S",
+        "phonetic": "/ðə ˈtʃɪldrən/",
+        "chinese": "这个/那个/孩子们"
+      },
+      {
+        "text": "are playing",
+        "role": "V",
+        "phonetic": "/ɑːr ˈpleɪɪŋ/",
+        "chinese": "正在打/玩"
+      },
+      {
+        "text": "happily",
+        "role": "Adv",
+        "phonetic": "/ˈhæpɪli/",
+        "chinese": "…地(开心的)"
+      }
+    ]
+  },
+  {
+    "chinese": "你能清晰地解释吗",
+    "english": "Can you explain clearly",
+    "soundmark": "/kæn juː ɪkˈspleɪn ˈklɪrli/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "explain",
+        "role": "V",
+        "phonetic": "/ɪkˈspleɪn/",
+        "chinese": "解释"
+      },
+      {
+        "text": "clearly",
+        "role": "Adv",
+        "phonetic": "/ˈklɪrli/",
+        "chinese": "…地(清楚的)"
+      }
+    ]
+  },
+  {
+    "chinese": "他轻易地通过了考试",
+    "english": "He passed the exam easily",
+    "soundmark": "/hiː pæst ðə ɪɡˈzæm ˈiːzɪli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "passed",
+        "role": "V",
+        "phonetic": "/pæst/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "the exam",
+        "role": "O",
+        "phonetic": "/ðə ɪɡˈzæm/",
+        "chinese": "这个/那个/考试"
+      },
+      {
+        "text": "easily",
+        "role": "Adv",
+        "phonetic": "/ˈiːzɪli/",
+        "chinese": "…地(容易的)"
+      }
+    ]
+  },
+  {
+    "chinese": "她完美地弹奏了那首歌",
+    "english": "She played the song perfectly",
+    "soundmark": "/ʃiː pleɪd ðə sɔːŋ ˈpɜːrfɪktli/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "played",
+        "role": "V",
+        "phonetic": "/pleɪd/",
+        "chinese": "玩"
+      },
+      {
+        "text": "the song",
+        "role": "O",
+        "phonetic": "/ðə sɔːŋ/",
+        "chinese": "这个/那个/歌曲"
+      },
+      {
+        "text": "perfectly",
+        "role": "Adv",
+        "phonetic": "/ˈpɜːrfɪktli/",
+        "chinese": "…地(完美的)"
+      }
+    ]
+  },
+  {
+    "chinese": "他礼貌地拒绝了邀请",
+    "english": "He politely refused the invitation",
+    "soundmark": "/hiː pəˈlaɪtli rɪˈfjuːzd ðə ˌɪnvɪˈteɪʃn/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "politely",
+        "role": "Adv",
+        "phonetic": "/pəˈlaɪtli/",
+        "chinese": "…地(礼貌的)"
+      },
+      {
+        "text": "refused",
+        "role": "V",
+        "phonetic": "/rɪˈfjuːzd/",
+        "chinese": "拒绝"
+      },
+      {
+        "text": "the invitation",
+        "role": "O",
+        "phonetic": "/ðə ˌɪnvɪˈteɪʃn/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "她快地跑回家",
+    "english": "She ran home quickly",
+    "soundmark": "/ʃiː ræn hoʊm ˈkwɪkli/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "ran",
+        "role": "V",
+        "phonetic": "/ræn/",
+        "chinese": "跑（过去式）"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      },
+      {
+        "text": "quickly",
+        "role": "Adv",
+        "phonetic": "/ˈkwɪkli/",
+        "chinese": "快速地"
+      }
+    ]
+  },
+  {
+    "chinese": "好好(形容词)",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "chinese": "好好地(副词)",
+    "english": "well",
+    "soundmark": "/wel/"
+  },
+  {
+    "chinese": "非常努力",
+    "english": "hard",
+    "soundmark": "/hɑːrd/"
+  },
+  {
+    "chinese": "坏地",
+    "english": "badly",
+    "soundmark": "/ˈbædli/"
+  },
+  {
+    "chinese": "安全地",
+    "english": "safely",
+    "soundmark": "/ˈseɪfli/"
+  },
+  {
+    "chinese": "他英语说得很好",
+    "english": "He speaks English very well",
+    "soundmark": "/hiː spiːks ˈɪŋɡlɪʃ ˈveri wel/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "speaks",
+        "role": "V",
+        "phonetic": "/spiːks/",
+        "chinese": "说/讲"
+      },
+      {
+        "text": "English",
+        "role": "O",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "very well",
+        "role": "Adv",
+        "phonetic": "/ˈveri wel/",
+        "chinese": "非常/好"
+      }
+    ]
+  },
+  {
+    "chinese": "她努力工作",
+    "english": "She works very hard",
+    "soundmark": "/ʃiː wɜːrks ˈveri hɑːrd/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "works",
+        "role": "V",
+        "phonetic": "/wɜːrks/",
+        "chinese": "工作"
+      },
+      {
+        "text": "very hard",
+        "role": "Adv",
+        "phonetic": "/ˈveri hɑːrd/",
+        "chinese": "非常/硬的/难的"
+      }
+    ]
+  },
+  {
+    "chinese": "解释",
+    "english": "explain",
+    "soundmark": "/ɪkˈspleɪn/"
+  },
+  {
+    "chinese": "拒绝",
+    "english": "refuse",
+    "soundmark": "/rɪˈfjuːz/"
+  },
+  {
+    "chinese": "邀请",
+    "english": "invitation",
+    "soundmark": "/ˌɪnvɪˈteɪʃn/"
+  },
+  {
+    "chinese": "通过",
+    "english": "pass",
+    "soundmark": "/pæs/"
+  },
+  {
+    "chinese": "歌",
+    "english": "song",
+    "soundmark": "/sɔːŋ/"
+  },
+  {
+    "chinese": "安全地",
+    "english": "safely",
+    "soundmark": "/ˈseɪfli/"
+  },
+  {
+    "chinese": "坏地",
+    "english": "badly",
+    "soundmark": "/ˈbædli/"
+  },
+  {
+    "chinese": "有礼貌的",
+    "english": "polite",
+    "soundmark": "/pəˈlaɪt/"
+  },
+  {
+    "chinese": "她紧张地打开了信封",
+    "english": "She nervously opened the envelope",
+    "soundmark": "/ʃiː ˈnɜːrvəsli ˈoʊpənd ðə ˈenvəloʊp/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "nervously",
+        "role": "Adv",
+        "phonetic": "/ˈnɜːrvəsli/",
+        "chinese": "…地(紧张的)"
+      },
+      {
+        "text": "opened",
+        "role": "V",
+        "phonetic": "/ˈoʊpənd/",
+        "chinese": "打开的"
+      },
+      {
+        "text": "the envelope",
+        "role": "O",
+        "phonetic": "/ðə ˈenvəloʊp/",
+        "chinese": "这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "他生气地离开了房间",
+    "english": "He left the room angrily",
+    "soundmark": "/hiː left ðə ruːm ˈæŋɡrɪli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "left",
+        "role": "V",
+        "phonetic": "/left/",
+        "chinese": "左边的"
+      },
+      {
+        "text": "the room",
+        "role": "O",
+        "phonetic": "/ðə ruːm/",
+        "chinese": "这个/那个/房间"
+      },
+      {
+        "text": "angrily",
+        "role": "Adv",
+        "phonetic": "/ˈæŋɡrɪli/",
+        "chinese": "…地(生气的)"
+      }
+    ]
+  },
+  {
+    "chinese": "你昨天在会议上讲得很清楚",
+    "english": "You spoke clearly at the meeting yesterday",
+    "soundmark": "/juː spoʊk ˈklɪrli æt ðə ˈmiːtɪŋ ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "spoke",
+        "role": "V",
+        "phonetic": "/spoʊk/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "clearly",
+        "role": "Adv",
+        "phonetic": "/ˈklɪrli/",
+        "chinese": "…地(清楚的)"
+      },
+      {
+        "text": "at the meeting",
+        "role": "A",
+        "phonetic": "/æt ðə ˈmiːtɪŋ/",
+        "chinese": "在/这个/那个/会议"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "请礼貌待人",
+    "english": "Please behave politely",
+    "soundmark": "/pliːz bɪˈheɪv pəˈlaɪtli/",
+    "grammar": [
+      {
+        "text": "Please",
+        "role": "Adv",
+        "phonetic": "/pliːz/",
+        "chinese": "请"
+      },
+      {
+        "text": "behave",
+        "role": "V",
+        "phonetic": "/bɪˈheɪv/",
+        "chinese": ""
+      },
+      {
+        "text": "politely",
+        "role": "Adv",
+        "phonetic": "/pəˈlaɪtli/",
+        "chinese": "…地(礼貌的)"
+      }
+    ]
+  },
+  {
+    "chinese": "我毫不犹豫地接受了这个建议",
+    "english": "I accepted the suggestion without any hesitation",
+    "soundmark": "/aɪ ækˈseptɪd ðə səˈdʒestʃən wɪˈðaʊt ˈeni ˌhezɪˈteɪʃn/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "accepted",
+        "role": "V",
+        "phonetic": "/ækˈseptɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "the suggestion",
+        "role": "O",
+        "phonetic": "/ðə səˈdʒestʃən/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "without any hesitation",
+        "role": "A",
+        "phonetic": "/wɪˈðaʊt ˈeni ˌhezɪˈteɪʃn/",
+        "chinese": "没有/任何"
+      }
+    ]
+  },
+  {
+    "chinese": "你能安静地把门关上吗",
+    "english": "Can you close the door quietly",
+    "soundmark": "/kæn juː kloʊz ðə dɔːr ˈkwaɪətli/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "close",
+        "role": "V",
+        "phonetic": "/kloʊz/",
+        "chinese": "关闭"
+      },
+      {
+        "text": "the door",
+        "role": "O",
+        "phonetic": "/ðə dɔːr/",
+        "chinese": "这个/那个/门"
+      },
+      {
+        "text": "quietly",
+        "role": "Adv",
+        "phonetic": "/ˈkwaɪətli/",
+        "chinese": "…地(安静的)"
+      }
+    ]
+  },
+  {
+    "chinese": "她自信地走到舞台上",
+    "english": "She walked onto the stage confidently",
+    "soundmark": "/ʃiː wɔːkt ˈɑːntə ðə steɪdʒ ˈkɑːnfɪdəntli/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "walked",
+        "role": "V",
+        "phonetic": "/wɔːkt/",
+        "chinese": "走"
+      },
+      {
+        "text": "onto the stage",
+        "role": "A",
+        "phonetic": "/ˈɑːntə ðə steɪdʒ/",
+        "chinese": "到…上面/这个/那个"
+      },
+      {
+        "text": "confidently",
+        "role": "Adv",
+        "phonetic": "/ˈkɑːnfɪdəntli/",
+        "chinese": "…地(自信的)"
+      }
+    ]
+  },
+  {
+    "chinese": "紧张地",
+    "english": "nervously",
+    "soundmark": "/ˈnɜːrvəsli/"
+  },
+  {
+    "chinese": "生气地",
+    "english": "angrily",
+    "soundmark": "/ˈæŋɡrɪli/"
+  },
+  {
+    "chinese": "自信地",
+    "english": "confidently",
+    "soundmark": "/ˈkɑːnfɪdəntli/"
+  },
+  {
+    "chinese": "接受",
+    "english": "accept",
+    "soundmark": "/ækˈsept/"
+  },
+  {
+    "chinese": "建议",
+    "english": "suggestion",
+    "soundmark": "/səˈdʒestʃən/"
+  },
+  {
+    "chinese": "信封",
+    "english": "envelope",
+    "soundmark": "/ˈenvəloʊp/"
+  }
+]

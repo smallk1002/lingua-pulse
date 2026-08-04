@@ -1,0 +1,407 @@
+[
+  {
+    "chinese": "自己动手",
+    "english": "do it yourself",
+    "soundmark": "/duː ɪt jɔːrˈself/"
+  },
+  {
+    "chinese": "修补",
+    "english": "repair",
+    "soundmark": "/rɪˈper/"
+  },
+  {
+    "chinese": "工具",
+    "english": "tool",
+    "soundmark": "/tuːl/"
+  },
+  {
+    "chinese": "螺丝刀",
+    "english": "screwdriver",
+    "soundmark": "/ˈskruːˌdraɪvər/"
+  },
+  {
+    "chinese": "锤子",
+    "english": "hammer",
+    "soundmark": "/ˈhæmər/"
+  },
+  {
+    "chinese": "钉子",
+    "english": "nail",
+    "soundmark": "/neɪl/"
+  },
+  {
+    "chinese": "测量",
+    "english": "measure",
+    "soundmark": "/ˈmeʒər/"
+  },
+  {
+    "chinese": "指示",
+    "english": "instruction",
+    "soundmark": "/ɪnˈstrʌkʃən/"
+  },
+  {
+    "chinese": "解决",
+    "english": "deal with",
+    "soundmark": "/diːl wɪð/"
+  },
+  {
+    "chinese": "拆开",
+    "english": "take apart",
+    "soundmark": "/teɪk əˈpɑːrt/"
+  },
+  {
+    "chinese": "组装",
+    "english": "put together",
+    "soundmark": "/pʊt təˈɡeðər/"
+  },
+  {
+    "chinese": "依靠",
+    "english": "rely on",
+    "soundmark": "/rɪˈlaɪ ɒn/"
+  },
+  {
+    "chinese": "他决定自己修水龙头。",
+    "english": "He decided to repair the tap himself",
+    "soundmark": "/hiː dɪˈsaɪdɪd tuː rɪˈper ðə tæp hɪmˈself/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "decided",
+        "role": "V",
+        "phonetic": "/dɪˈsaɪdɪd/",
+        "chinese": "决定"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "repair",
+        "role": "V",
+        "phonetic": "/rɪˈper/",
+        "chinese": "修理"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "tap",
+        "role": "O",
+        "phonetic": "/tæp/",
+        "chinese": "水龙头"
+      },
+      {
+        "text": "himself",
+        "role": "A",
+        "phonetic": "/hɪmˈself/",
+        "chinese": "他自己"
+      }
+    ]
+  },
+  {
+    "chinese": "她坚持自己做所有装修工作。",
+    "english": "She insisted on doing all the decorating herself",
+    "soundmark": "/ʃiː ɪnˈsɪstɪd ɒn ˈduːɪŋ ɔːl ðə ˈdekəreɪtɪŋ hɜːrˈself/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "insisted",
+        "role": "V",
+        "phonetic": "/ɪnˈsɪstɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "doing",
+        "role": "V",
+        "phonetic": "/ˈduːɪŋ/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "decorating",
+        "role": "O",
+        "phonetic": "/ˈdekəreɪtɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "herself",
+        "role": "A",
+        "phonetic": "/hɜːrˈself/",
+        "chinese": "她自己"
+      }
+    ]
+  },
+  {
+    "chinese": "我花了整个周末组装这个书架。",
+    "english": "I spent the whole weekend putting together the bookshelf",
+    "soundmark": "/aɪ spent ðə hoʊl ˈwiːkend ˈpʊtɪŋ təˈɡeðər ðə ˈbʊkʃelf/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "spent",
+        "role": "V",
+        "phonetic": "/spent/",
+        "chinese": "花费（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "whole",
+        "role": "C",
+        "phonetic": "/hoʊl/",
+        "chinese": "整个的"
+      },
+      {
+        "text": "weekend",
+        "role": "O",
+        "phonetic": "/ˈwiːkend/",
+        "chinese": "周末"
+      },
+      {
+        "text": "putting",
+        "role": "V",
+        "phonetic": "/ˈpʊtɪŋ/",
+        "chinese": "放"
+      },
+      {
+        "text": "together",
+        "role": "A",
+        "phonetic": "/təˈɡeðər/",
+        "chinese": "一起"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bookshelf",
+        "role": "O",
+        "phonetic": "/ˈbʊkʃelf/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他不愿意依赖别人来修理他的房子。",
+    "english": "He was unwilling to rely on others to repair his house",
+    "soundmark": "/hiː wʌz ʌnˈwɪlɪŋ tuː rɪˈlaɪ ɒn ˈʌðərz tuː rɪˈper hɪz haʊs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "unwilling",
+        "role": "C",
+        "phonetic": "/ʌnˈwɪlɪŋ/",
+        "chinese": "不愿意的"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "rely",
+        "role": "V",
+        "phonetic": "/rɪˈlaɪ/",
+        "chinese": "依靠"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɒn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "others",
+        "role": "O",
+        "phonetic": "/ˈʌðərz/",
+        "chinese": "其他"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "repair",
+        "role": "V",
+        "phonetic": "/rɪˈper/",
+        "chinese": "修理"
+      },
+      {
+        "text": "his",
+        "role": "Det",
+        "phonetic": "/hɪz/",
+        "chinese": "他的"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      }
+    ]
+  },
+  {
+    "chinese": "在看说明书之前他就开始拆了。",
+    "english": "He started taking it apart before looking at the instructions",
+    "soundmark": "/hiː ˈstɑːrtɪd ˈteɪkɪŋ ɪt əˈpɑːrt bɪˈfɔːr ˈlʊkɪŋ æt ði ɪnˈstrʌkʃənz/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "started",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪd/",
+        "chinese": "开始"
+      },
+      {
+        "text": "taking",
+        "role": "V",
+        "phonetic": "/ˈteɪkɪŋ/",
+        "chinese": "拿/带"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "apart",
+        "role": "A",
+        "phonetic": "/əˈpɑːrt/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "A",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "looking",
+        "role": "V",
+        "phonetic": "/ˈlʊkɪŋ/",
+        "chinese": "看的/看起来"
+      },
+      {
+        "text": "at",
+        "role": "P",
+        "phonetic": "/æt/",
+        "chinese": "在"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "instructions",
+        "role": "O",
+        "phonetic": "/ɪnˈstrʌkʃənz/",
+        "chinese": "指示"
+      }
+    ]
+  },
+  {
+    "chinese": "自己动手",
+    "english": "do it yourself",
+    "soundmark": "/duː ɪt jɔːrˈself/"
+  },
+  {
+    "chinese": "修补",
+    "english": "repair",
+    "soundmark": "/rɪˈper/"
+  },
+  {
+    "chinese": "工具",
+    "english": "tool",
+    "soundmark": "/tuːl/"
+  },
+  {
+    "chinese": "螺丝刀",
+    "english": "screwdriver",
+    "soundmark": "/ˈskruːˌdraɪvər/"
+  },
+  {
+    "chinese": "锤子",
+    "english": "hammer",
+    "soundmark": "/ˈhæmər/"
+  },
+  {
+    "chinese": "钉子",
+    "english": "nail",
+    "soundmark": "/neɪl/"
+  },
+  {
+    "chinese": "组装",
+    "english": "put together",
+    "soundmark": "/pʊt təˈɡeðər/"
+  },
+  {
+    "chinese": "不愿意的",
+    "english": "unwilling",
+    "soundmark": "/ʌnˈwɪlɪŋ/"
+  }
+]

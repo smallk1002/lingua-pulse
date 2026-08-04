@@ -1,0 +1,1211 @@
+[
+  {
+    "chinese": "麻烦",
+    "english": "bother",
+    "soundmark": "/ˈbɑːðər/"
+  },
+  {
+    "chinese": "小偷",
+    "english": "thief",
+    "soundmark": "/θiːf/"
+  },
+  {
+    "chinese": "闯入",
+    "english": "break in",
+    "soundmark": "/breɪk ɪn/"
+  },
+  {
+    "chinese": "报警器",
+    "english": "alarm",
+    "soundmark": "/əˈlɑːrm/"
+  },
+  {
+    "chinese": "警察",
+    "english": "police",
+    "soundmark": "/pəˈliːs/"
+  },
+  {
+    "chinese": "逮捕",
+    "english": "arrest",
+    "soundmark": "/əˈrest/"
+  },
+  {
+    "chinese": "逃跑",
+    "english": "flee",
+    "soundmark": "/fliː/"
+  },
+  {
+    "chinese": "可疑的",
+    "english": "suspicious",
+    "soundmark": "/səˈspɪʃəs/"
+  },
+  {
+    "chinese": "证人",
+    "english": "witness",
+    "soundmark": "/ˈwɪtnəs/"
+  },
+  {
+    "chinese": "被偷",
+    "english": "stolen",
+    "soundmark": "/ˈstoʊlən/"
+  },
+  {
+    "chinese": "被抓住",
+    "english": "was caught",
+    "soundmark": "/wəz kɔːt/"
+  },
+  {
+    "chinese": "被逮捕",
+    "english": "was arrested",
+    "soundmark": "/wəz əˈrestɪd/"
+  },
+  {
+    "chinese": "被偷了",
+    "english": "was stolen",
+    "soundmark": "/wəz ˈstoʊlən/"
+  },
+  {
+    "chinese": "被打破",
+    "english": "was broken",
+    "soundmark": "/wəz ˈbroʊkən/"
+  },
+  {
+    "chinese": "被发现",
+    "english": "was discovered",
+    "soundmark": "/wəz dɪˈskʌvərd/"
+  },
+  {
+    "chinese": "被报警",
+    "english": "was reported",
+    "soundmark": "/wəz rɪˈpɔːrtɪd/"
+  },
+  {
+    "chinese": "一点小麻烦",
+    "english": "a spot of bother",
+    "soundmark": "/ə spɑːt ʌv ˈbɑːðər/"
+  },
+  {
+    "chinese": "窗户被打破了。",
+    "english": "The window was broken",
+    "soundmark": "/ðə ˈwɪndoʊ wəz ˈbroʊkən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "S",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "broken",
+        "role": "V",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      }
+    ]
+  },
+  {
+    "chinese": "珠宝被偷了。",
+    "english": "The jewellery was stolen",
+    "soundmark": "/ðə ˈdʒuːəlri wəz ˈstoʊlən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "jewellery",
+        "role": "S",
+        "phonetic": "/ˈdʒuːəlri/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "stolen",
+        "role": "V",
+        "phonetic": "/ˈstoʊlən/",
+        "chinese": "偷（过去分词）"
+      }
+    ]
+  },
+  {
+    "chinese": "小偷被当场抓住。",
+    "english": "The thief was caught red-handed",
+    "soundmark": "/ðə θiːf wəz kɔːt ˈred ˈhændɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thief",
+        "role": "S",
+        "phonetic": "/θiːf/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "caught",
+        "role": "V",
+        "phonetic": "/kɔːt/",
+        "chinese": "抓住（过去式）"
+      },
+      {
+        "text": "red-handed",
+        "role": "A",
+        "phonetic": "/ˈred ˈhændɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "警察被叫来了。",
+    "english": "The police were called",
+    "soundmark": "/ðə pəˈliːs wər kɔːld/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "S",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "called",
+        "role": "V",
+        "phonetic": "/kɔːld/",
+        "chinese": "叫…的/被叫的"
+      }
+    ]
+  },
+  {
+    "chinese": "他立即被逮捕了。",
+    "english": "He was arrested immediately",
+    "soundmark": "/hiː wəz əˈrestɪd ɪˈmiːdiətli/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "arrested",
+        "role": "V",
+        "phonetic": "/əˈrestɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "immediately",
+        "role": "A",
+        "phonetic": "/ɪˈmiːdiətli/",
+        "chinese": "立刻"
+      }
+    ]
+  },
+  {
+    "chinese": "房子被洗劫一空。",
+    "english": "The house was ransacked",
+    "soundmark": "/ðə haʊs wəz ˈrænsækt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "S",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "ransacked",
+        "role": "V",
+        "phonetic": "/ˈrænsækt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "报警器被触发了。",
+    "english": "The alarm was set off",
+    "soundmark": "/ðə əˈlɑːrm wəz set ɔːf/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "alarm",
+        "role": "S",
+        "phonetic": "/əˈlɑːrm/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "set",
+        "role": "V",
+        "phonetic": "/set/",
+        "chinese": "设置/安置"
+      },
+      {
+        "text": "off",
+        "role": "A",
+        "phonetic": "/ɔːf/",
+        "chinese": "离开/关"
+      }
+    ]
+  },
+  {
+    "chinese": "门被撬开了。",
+    "english": "The door was forced open",
+    "soundmark": "/ðə dɔːr wəz fɔːrst ˈoʊpən/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "S",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "forced",
+        "role": "V",
+        "phonetic": "/fɔːrst/",
+        "chinese": "被迫的"
+      },
+      {
+        "text": "open",
+        "role": "C",
+        "phonetic": "/ˈoʊpən/",
+        "chinese": "打开"
+      }
+    ]
+  },
+  {
+    "chinese": "邻居看到了可疑活动。",
+    "english": "Suspicious activity was noticed by the neighbours",
+    "soundmark": "/səˈspɪʃəs ækˈtɪvəti wəz ˈnoʊtɪst baɪ ðə ˈneɪbərz/",
+    "grammar": [
+      {
+        "text": "Suspicious",
+        "role": "C",
+        "phonetic": "/səˈspɪʃəs/",
+        "chinese": ""
+      },
+      {
+        "text": "activity",
+        "role": "S",
+        "phonetic": "/ækˈtɪvəti/",
+        "chinese": "活动"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "noticed",
+        "role": "V",
+        "phonetic": "/ˈnoʊtɪst/",
+        "chinese": "注意"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "neighbours",
+        "role": "O",
+        "phonetic": "/ˈneɪbərz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "贵重物品被藏在地下室里。",
+    "english": "The valuables were hidden in the basement",
+    "soundmark": "/ðə ˈvæljuəbəlz wər ˈhɪdən ɪn ðə ˈbeɪsmənt/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "valuables",
+        "role": "S",
+        "phonetic": "/ˈvæljuəbəlz/",
+        "chinese": "有价值的"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "hidden",
+        "role": "V",
+        "phonetic": "/ˈhɪdən/",
+        "chinese": "隐藏的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "basement",
+        "role": "O",
+        "phonetic": "/ˈbeɪsmənt/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "小偷逃跑时被监控拍到。",
+    "english": "The thief was captured on camera while fleeing",
+    "soundmark": "/ðə θiːf wəz ˈkæptʃərd ɑːn ˈkæmərə waɪl ˈfliːɪŋ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "thief",
+        "role": "S",
+        "phonetic": "/θiːf/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "captured",
+        "role": "V",
+        "phonetic": "/ˈkæptʃərd/",
+        "chinese": ""
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "camera",
+        "role": "O",
+        "phonetic": "/ˈkæmərə/",
+        "chinese": "相机"
+      },
+      {
+        "text": "while",
+        "role": "Adv",
+        "phonetic": "/waɪl/",
+        "chinese": "当…时/而"
+      },
+      {
+        "text": "fleeing",
+        "role": "V",
+        "phonetic": "/ˈfliːɪŋ/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "案件由探长负责调查。",
+    "english": "The case was investigated by a detective",
+    "soundmark": "/ðə keɪs wəz ɪnˈvestɪɡeɪtɪd baɪ ə dɪˈtektɪv/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "case",
+        "role": "S",
+        "phonetic": "/keɪs/",
+        "chinese": "情况/案例"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "investigated",
+        "role": "V",
+        "phonetic": "/ɪnˈvestɪɡeɪtɪd/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "detective",
+        "role": "O",
+        "phonetic": "/dɪˈtektɪv/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "他受审并被判有罪。",
+    "english": "He was tried and found guilty",
+    "soundmark": "/hiː wəz traɪd ænd faʊnd ˈɡɪlti/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "tried",
+        "role": "V",
+        "phonetic": "/traɪd/",
+        "chinese": "尝试（过去式）"
+      },
+      {
+        "text": "and",
+        "role": "Adv",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      },
+      {
+        "text": "guilty",
+        "role": "C",
+        "phonetic": "/ˈɡɪlti/",
+        "chinese": "有罪的"
+      }
+    ]
+  },
+  {
+    "chinese": "被盗物品物归原主。",
+    "english": "The stolen items were returned to their owner",
+    "soundmark": "/ðə ˈstoʊlən ˈaɪtəmz wər rɪˈtɜːrnd tə ðɛər ˈoʊnər/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "stolen",
+        "role": "C",
+        "phonetic": "/ˈstoʊlən/",
+        "chinese": "偷（过去分词）"
+      },
+      {
+        "text": "items",
+        "role": "S",
+        "phonetic": "/ˈaɪtəmz/",
+        "chinese": "物品/项目"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "returned",
+        "role": "V",
+        "phonetic": "/rɪˈtɜːrnd/",
+        "chinese": "返回"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðɛər/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "owner",
+        "role": "O",
+        "phonetic": "/ˈoʊnər/",
+        "chinese": "更…的/…者(自己的)"
+      }
+    ]
+  },
+  {
+    "chinese": "他被判处三年监禁。",
+    "english": "He was sentenced to three years in prison",
+    "soundmark": "/hiː wəz ˈsentənst tə θriː jɪərz ɪn ˈprɪzən/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "sentenced",
+        "role": "V",
+        "phonetic": "/ˈsentənst/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tə/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "three",
+        "role": "Det",
+        "phonetic": "/θriː/",
+        "chinese": "三"
+      },
+      {
+        "text": "years",
+        "role": "O",
+        "phonetic": "/jɪərz/",
+        "chinese": "年"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "prison",
+        "role": "O",
+        "phonetic": "/ˈprɪzən/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "窗户被从里面打破。",
+    "english": "The window had been broken from the inside",
+    "soundmark": "/ðə ˈwɪndoʊ hæd biːn ˈbroʊkən frʌm ðə ˈɪnˈsaɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "S",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "broken",
+        "role": "V",
+        "phonetic": "/ˈbroʊkən/",
+        "chinese": "破碎的"
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frʌm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "inside",
+        "role": "O",
+        "phonetic": "/ˈɪnˈsaɪd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "没有东西被拿走这是最大的谜团。",
+    "english": "Nothing was taken which was the greatest mystery",
+    "soundmark": "/ˈnʌθɪŋ wəz ˈteɪkən wɪtʃ wəz ðə ˈɡreɪtɪst ˈmɪstəri/",
+    "grammar": [
+      {
+        "text": "Nothing",
+        "role": "S",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "which",
+        "role": "S",
+        "phonetic": "/wɪtʃ/",
+        "chinese": "哪个"
+      },
+      {
+        "text": "was",
+        "role": "Lv",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "greatest",
+        "role": "C",
+        "phonetic": "/ˈɡreɪtɪst/",
+        "chinese": "最…的(伟大的/很棒的)"
+      },
+      {
+        "text": "mystery",
+        "role": "C",
+        "phonetic": "/ˈmɪstəri/",
+        "chinese": "神秘"
+      }
+    ]
+  },
+  {
+    "chinese": "该地区已报告多起入室盗窃。",
+    "english": "Several burglaries had been reported in the area",
+    "soundmark": "/ˈsevərəl ˈbɜːrɡləriz hæd biːn rɪˈpɔːrtɪd ɪn ðə ˈeriə/",
+    "grammar": [
+      {
+        "text": "Several",
+        "role": "Det",
+        "phonetic": "/ˈsevərəl/",
+        "chinese": "几个"
+      },
+      {
+        "text": "burglaries",
+        "role": "S",
+        "phonetic": "/ˈbɜːrɡləriz/",
+        "chinese": ""
+      },
+      {
+        "text": "had",
+        "role": "V",
+        "phonetic": "/hæd/",
+        "chinese": "有/助动词（过去式）"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "reported",
+        "role": "V",
+        "phonetic": "/rɪˈpɔːrtɪd/",
+        "chinese": "报告"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "area",
+        "role": "O",
+        "phonetic": "/ˈeriə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "邻居被警察盘问。",
+    "english": "The neighbours were questioned by the police",
+    "soundmark": "/ðə ˈneɪbərz wər ˈkwestʃənd baɪ ðə pəˈliːs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "neighbours",
+        "role": "S",
+        "phonetic": "/ˈneɪbərz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "questioned",
+        "role": "V",
+        "phonetic": "/ˈkwestʃənd/",
+        "chinese": "问题"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "police",
+        "role": "O",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      }
+    ]
+  },
+  {
+    "chinese": "证据被小心地收集。",
+    "english": "The evidence was carefully collected",
+    "soundmark": "/ðə ˈevɪdəns wəz ˈkerfəli kəˈlektɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "evidence",
+        "role": "S",
+        "phonetic": "/ˈevɪdəns/",
+        "chinese": "证据"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "carefully",
+        "role": "A",
+        "phonetic": "/ˈkerfəli/",
+        "chinese": "小心地"
+      },
+      {
+        "text": "collected",
+        "role": "V",
+        "phonetic": "/kəˈlektɪd/",
+        "chinese": "收集"
+      }
+    ]
+  },
+  {
+    "chinese": "一对夫妇正好目睹了这场犯罪。",
+    "english": "The crime was witnessed by a couple passing by",
+    "soundmark": "/ðə kraɪm wəz ˈwɪtnəst baɪ ə ˈkʌpəl ˈpæsɪŋ baɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "crime",
+        "role": "S",
+        "phonetic": "/kraɪm/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "witnessed",
+        "role": "V",
+        "phonetic": "/ˈwɪtnəst/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "couple",
+        "role": "O",
+        "phonetic": "/ˈkʌpəl/",
+        "chinese": ""
+      },
+      {
+        "text": "passing",
+        "role": "V",
+        "phonetic": "/ˈpæsɪŋ/",
+        "chinese": "通过/传递"
+      },
+      {
+        "text": "by",
+        "role": "A",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      }
+    ]
+  },
+  {
+    "chinese": "入室盗窃案最终破了。",
+    "english": "The burglary was eventually solved",
+    "soundmark": "/ðə ˈbɜːrɡləri wəz ɪˈventʃuəli sɑːlvd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "burglary",
+        "role": "S",
+        "phonetic": "/ˈbɜːrɡləri/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "eventually",
+        "role": "A",
+        "phonetic": "/ɪˈventʃuəli/",
+        "chinese": "最终"
+      },
+      {
+        "text": "solved",
+        "role": "V",
+        "phonetic": "/sɑːlvd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "大家都很庆幸没丢什么东西。",
+    "english": "Everyone was relieved that nothing valuable was lost",
+    "soundmark": "/ˈevriwʌn wəz rɪˈliːvd ðæt ˈnʌθɪŋ ˈvæljuəbəl wəz lɔːst/",
+    "grammar": [
+      {
+        "text": "Everyone",
+        "role": "S",
+        "phonetic": "/ˈevriwʌn/",
+        "chinese": "每个人"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "relieved",
+        "role": "C",
+        "phonetic": "/rɪˈliːvd/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "Adv",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "nothing",
+        "role": "S",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "valuable",
+        "role": "C",
+        "phonetic": "/ˈvæljuəbəl/",
+        "chinese": "有价值的"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wəz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "lost",
+        "role": "V",
+        "phonetic": "/lɔːst/",
+        "chinese": "丢失的/迷路的"
+      }
+    ]
+  },
+  {
+    "chinese": "警方在该地区加强了巡逻。",
+    "english": "Police patrols were increased in the neighbourhood",
+    "soundmark": "/pəˈliːs pəˈtroʊlz wər ɪnˈkriːst ɪn ðə ˈneɪbərhʊd/",
+    "grammar": [
+      {
+        "text": "Police",
+        "role": "C",
+        "phonetic": "/pəˈliːs/",
+        "chinese": "警察"
+      },
+      {
+        "text": "patrols",
+        "role": "S",
+        "phonetic": "/pəˈtroʊlz/",
+        "chinese": ""
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wər/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "increased",
+        "role": "V",
+        "phonetic": "/ɪnˈkriːst/",
+        "chinese": "增加"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "neighbourhood",
+        "role": "O",
+        "phonetic": "/ˈneɪbərhʊd/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "小偷",
+    "english": "thief",
+    "soundmark": "/θiːf/"
+  },
+  {
+    "chinese": "闯入",
+    "english": "break in",
+    "soundmark": "/breɪk ɪn/"
+  },
+  {
+    "chinese": "报警器",
+    "english": "alarm",
+    "soundmark": "/əˈlɑːrm/"
+  },
+  {
+    "chinese": "被捕",
+    "english": "was arrested",
+    "soundmark": "/wəz əˈrestɪd/"
+  },
+  {
+    "chinese": "被偷",
+    "english": "stolen",
+    "soundmark": "/ˈstoʊlən/"
+  },
+  {
+    "chinese": "麻烦",
+    "english": "bother",
+    "soundmark": "/ˈbɑːðər/"
+  },
+  {
+    "chinese": "可疑的",
+    "english": "suspicious",
+    "soundmark": "/səˈspɪʃəs/"
+  },
+  {
+    "chinese": "证人",
+    "english": "witness",
+    "soundmark": "/ˈwɪtnəs/"
+  },
+  {
+    "chinese": "被抓住",
+    "english": "was caught",
+    "soundmark": "/wəz kɔːt/"
+  },
+  {
+    "chinese": "被报警",
+    "english": "was reported",
+    "soundmark": "/wəz rɪˈpɔːrtɪd/"
+  }
+]

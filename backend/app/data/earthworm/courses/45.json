@@ -1,0 +1,2088 @@
+[
+  {
+    "chinese": "制造(made)",
+    "english": "made",
+    "soundmark": "/meɪd/"
+  },
+  {
+    "chinese": "建造(built)",
+    "english": "built",
+    "soundmark": "/bɪlt/"
+  },
+  {
+    "chinese": "说(said)",
+    "english": "said",
+    "soundmark": "/sed/"
+  },
+  {
+    "chinese": "使用(used)",
+    "english": "used",
+    "soundmark": "/juːzd/"
+  },
+  {
+    "chinese": "生产(produced)",
+    "english": "produced",
+    "soundmark": "/prəˈduːst/"
+  },
+  {
+    "chinese": "种植(grown)",
+    "english": "grown",
+    "soundmark": "/ɡroʊn/"
+  },
+  {
+    "chinese": "卖(sold)",
+    "english": "sold",
+    "soundmark": "/soʊld/"
+  },
+  {
+    "chinese": "被做",
+    "english": "is made",
+    "soundmark": "/ɪz meɪd/"
+  },
+  {
+    "chinese": "被建造",
+    "english": "is built",
+    "soundmark": "/ɪz bɪlt/"
+  },
+  {
+    "chinese": "被说",
+    "english": "is spoken",
+    "soundmark": "/ɪz ˈspoʊkən/"
+  },
+  {
+    "chinese": "被使用",
+    "english": "is used",
+    "soundmark": "/ɪz juːzd/"
+  },
+  {
+    "chinese": "被卖",
+    "english": "is sold",
+    "soundmark": "/ɪz soʊld/"
+  },
+  {
+    "chinese": "这张桌子是木头做的",
+    "english": "This table is made of wood",
+    "soundmark": "/ðɪs ˈteɪbəl ɪz meɪd əv wʊd/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "table",
+        "role": "S",
+        "phonetic": "/ˈteɪbəl/",
+        "chinese": "桌子"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "wood",
+        "role": "A",
+        "phonetic": "/wʊd/",
+        "chinese": "木头"
+      }
+    ]
+  },
+  {
+    "chinese": "这些车在日本制造",
+    "english": "These cars are made in Japan",
+    "soundmark": "/ðiːz kɑːrz ɑːr meɪd ɪn dʒəˈpæn/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "cars",
+        "role": "S",
+        "phonetic": "/kɑːrz/",
+        "chinese": "汽车"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Japan",
+        "role": "A",
+        "phonetic": "/dʒəˈpæn/",
+        "chinese": "日本"
+      }
+    ]
+  },
+  {
+    "chinese": "英语在全世界都被使用",
+    "english": "English is spoken all over the world",
+    "soundmark": "/ˈɪŋɡlɪʃ ɪz ˈspoʊkən ɔːl ˈoʊvər ðə wɜːrld/",
+    "grammar": [
+      {
+        "text": "English",
+        "role": "S",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "chinese": "英国人/英语"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "spoken",
+        "role": "V",
+        "phonetic": "/ˈspoʊkən/",
+        "chinese": "口头的"
+      },
+      {
+        "text": "all",
+        "role": "A",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "A",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      }
+    ]
+  },
+  {
+    "chinese": "这里卖报纸",
+    "english": "Newspapers are sold here",
+    "soundmark": "/ˈnuːzˌpeɪpərz ɑːr soʊld hɪər/",
+    "grammar": [
+      {
+        "text": "Newspapers",
+        "role": "S",
+        "phonetic": "/ˈnuːzˌpeɪpərz/",
+        "chinese": "报纸"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "sold",
+        "role": "V",
+        "phonetic": "/soʊld/",
+        "chinese": "卖（过去式）"
+      },
+      {
+        "text": "here",
+        "role": "A",
+        "phonetic": "/hɪər/",
+        "chinese": "这里"
+      }
+    ]
+  },
+  {
+    "chinese": "大米在中国种植",
+    "english": "Rice is grown in China",
+    "soundmark": "/raɪs ɪz ɡroʊn ɪn ˈtʃaɪnə/",
+    "grammar": [
+      {
+        "text": "Rice",
+        "role": "S",
+        "phonetic": "/raɪs/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "grown",
+        "role": "V",
+        "phonetic": "/ɡroʊn/",
+        "chinese": "成长的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "China",
+        "role": "A",
+        "phonetic": "/ˈtʃaɪnə/",
+        "chinese": "中国"
+      }
+    ]
+  },
+  {
+    "chinese": "这座桥每年都有人维护",
+    "english": "This bridge is repaired every year",
+    "soundmark": "/ðɪs brɪdʒ ɪz rɪˈperd ˈevri jɪr/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "bridge",
+        "role": "S",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "repaired",
+        "role": "V",
+        "phonetic": "/rɪˈperd/",
+        "chinese": "修理"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "这扇窗户不是塑料做的",
+    "english": "This window is not made of plastic",
+    "soundmark": "/ðɪs ˈwɪndoʊ ɪz nɒt meɪd əv ˈplæstɪk/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "window",
+        "role": "S",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "plastic",
+        "role": "A",
+        "phonetic": "/ˈplæstɪk/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这家店每天开门吗",
+    "english": "Is this shop opened every day",
+    "soundmark": "/ɪz ðɪs ʃɒp ˈoʊpənd ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "shop",
+        "role": "S",
+        "phonetic": "/ʃɒp/",
+        "chinese": "商店"
+      },
+      {
+        "text": "opened",
+        "role": "V",
+        "phonetic": "/ˈoʊpənd/",
+        "chinese": "打开的"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "这些手机是中国制造的吗",
+    "english": "Are these phones made in China",
+    "soundmark": "/ɑːr ðiːz foʊnz meɪd ɪn ˈtʃaɪnə/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "these",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "phones",
+        "role": "S",
+        "phonetic": "/foʊnz/",
+        "chinese": "电话"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "China",
+        "role": "A",
+        "phonetic": "/ˈtʃaɪnə/",
+        "chinese": "中国"
+      }
+    ]
+  },
+  {
+    "chinese": "这个房间里不允许抽烟",
+    "english": "Smoking is not allowed in this room",
+    "soundmark": "/ˈsmoʊkɪŋ ɪz nɒt əˈlaʊd ɪn ðɪs ruːm/",
+    "grammar": [
+      {
+        "text": "Smoking",
+        "role": "S",
+        "phonetic": "/ˈsmoʊkɪŋ/",
+        "chinese": "抽烟/烟"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "allowed",
+        "role": "V",
+        "phonetic": "/əˈlaʊd/",
+        "chinese": "允许"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "room",
+        "role": "A",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      }
+    ]
+  },
+  {
+    "chinese": "这些树每年春天种下去",
+    "english": "These trees are planted every spring",
+    "soundmark": "/ðiːz triːz ɑːr ˈplæntɪd ˈevri sprɪŋ/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "trees",
+        "role": "S",
+        "phonetic": "/triːz/",
+        "chinese": "树"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "planted",
+        "role": "V",
+        "phonetic": "/ˈplæntɪd/",
+        "chinese": "种植/植物"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "spring",
+        "role": "A",
+        "phonetic": "/sprɪŋ/",
+        "chinese": "春天/泉"
+      }
+    ]
+  },
+  {
+    "chinese": "这座楼是两百年前建的",
+    "english": "This building was built two hundred years ago",
+    "soundmark": "/ðɪs ˈbɪldɪŋ wʌz bɪlt tuː ˈhʌndrəd jɪrz əˈɡoʊ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "building",
+        "role": "S",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "chinese": "建筑的/建筑物"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      },
+      {
+        "text": "two",
+        "role": "Det",
+        "phonetic": "/tuː/",
+        "chinese": "二"
+      },
+      {
+        "text": "hundred",
+        "role": "Det",
+        "phonetic": "/ˈhʌndrəd/",
+        "chinese": "百"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "ago",
+        "role": "A",
+        "phonetic": "/əˈɡoʊ/",
+        "chinese": "以前"
+      }
+    ]
+  },
+  {
+    "chinese": "这块蛋糕是我妈妈做的",
+    "english": "This cake was made by my mother",
+    "soundmark": "/ðɪs keɪk wʌz meɪd baɪ maɪ ˈmʌðər/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "cake",
+        "role": "S",
+        "phonetic": "/keɪk/",
+        "chinese": "蛋糕"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "mother",
+        "role": "A",
+        "phonetic": "/ˈmʌðər/",
+        "chinese": "母亲"
+      }
+    ]
+  },
+  {
+    "chinese": "这些照片是我拍的",
+    "english": "These photos were taken by me",
+    "soundmark": "/ðiːz ˈfoʊtoʊz wɜːr ˈteɪkən baɪ miː/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "photos",
+        "role": "S",
+        "phonetic": "/ˈfoʊtoʊz/",
+        "chinese": "照片"
+      },
+      {
+        "text": "were",
+        "role": "V",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "taken",
+        "role": "V",
+        "phonetic": "/ˈteɪkən/",
+        "chinese": "拿走的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "me",
+        "role": "A",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "这部小说是去年出版的",
+    "english": "This novel was published last year",
+    "soundmark": "/ðɪs ˈnɒvəl wʌz ˈpʌblɪʃt læst jɪr/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "novel",
+        "role": "S",
+        "phonetic": "/ˈnɒvəl/",
+        "chinese": ""
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "published",
+        "role": "V",
+        "phonetic": "/ˈpʌblɪʃt/",
+        "chinese": "已出版的"
+      },
+      {
+        "text": "last",
+        "role": "A",
+        "phonetic": "/læst/",
+        "chinese": "持续/最后的"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "我的自行车昨天被偷了",
+    "english": "My bike was stolen yesterday",
+    "soundmark": "/maɪ baɪk wʌz ˈstoʊlən ˈjestərdeɪ/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "bike",
+        "role": "S",
+        "phonetic": "/baɪk/",
+        "chinese": "自行车"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "stolen",
+        "role": "V",
+        "phonetic": "/ˈstoʊlən/",
+        "chinese": "偷（过去分词）"
+      },
+      {
+        "text": "yesterday",
+        "role": "A",
+        "phonetic": "/ˈjestərdeɪ/",
+        "chinese": "昨天"
+      }
+    ]
+  },
+  {
+    "chinese": "门被风吹开了",
+    "english": "The door was blown open by the wind",
+    "soundmark": "/ðə dɔːr wʌz bloʊn ˈoʊpən baɪ ðə wɪnd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "door",
+        "role": "S",
+        "phonetic": "/dɔːr/",
+        "chinese": "门"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "blown",
+        "role": "V",
+        "phonetic": "/bloʊn/",
+        "chinese": ""
+      },
+      {
+        "text": "open",
+        "role": "C",
+        "phonetic": "/ˈoʊpən/",
+        "chinese": "打开"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "wind",
+        "role": "A",
+        "phonetic": "/wɪnd/",
+        "chinese": "风"
+      }
+    ]
+  },
+  {
+    "chinese": "这条路是十年前修的",
+    "english": "This road was built ten years ago",
+    "soundmark": "/ðɪs roʊd wʌz bɪlt ten jɪrz əˈɡoʊ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "road",
+        "role": "S",
+        "phonetic": "/roʊd/",
+        "chinese": "路"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      },
+      {
+        "text": "ten",
+        "role": "Det",
+        "phonetic": "/ten/",
+        "chinese": "十"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "ago",
+        "role": "A",
+        "phonetic": "/əˈɡoʊ/",
+        "chinese": "以前"
+      }
+    ]
+  },
+  {
+    "chinese": "这封信不是我写的",
+    "english": "This letter was not written by me",
+    "soundmark": "/ðɪs ˈletər wʌz nɒt ˈrɪtən baɪ miː/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "letter",
+        "role": "S",
+        "phonetic": "/ˈletər/",
+        "chinese": "信/字母"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "written",
+        "role": "V",
+        "phonetic": "/ˈrɪtən/",
+        "chinese": "书面的"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "me",
+        "role": "A",
+        "phonetic": "/miː/",
+        "chinese": "我"
+      }
+    ]
+  },
+  {
+    "chinese": "这些花每天都要浇水",
+    "english": "These flowers are watered every day",
+    "soundmark": "/ðiːz ˈflaʊərz ɑːr ˈwɔːtərd ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "flowers",
+        "role": "S",
+        "phonetic": "/ˈflaʊərz/",
+        "chinese": "花"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "watered",
+        "role": "V",
+        "phonetic": "/ˈwɔːtərd/",
+        "chinese": "浇水/水"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "这道菜是怎么做的",
+    "english": "How is this dish made",
+    "soundmark": "/haʊ ɪz ðɪs dɪʃ meɪd/",
+    "grammar": [
+      {
+        "text": "How",
+        "role": "A",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "dish",
+        "role": "S",
+        "phonetic": "/dɪʃ/",
+        "chinese": "碟子/菜"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      }
+    ]
+  },
+  {
+    "chinese": "这座桥什么时候建的",
+    "english": "When was this bridge built",
+    "soundmark": "/wen wʌz ðɪs brɪdʒ bɪlt/",
+    "grammar": [
+      {
+        "text": "When",
+        "role": "A",
+        "phonetic": "/wen/",
+        "chinese": "什么时候"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "bridge",
+        "role": "S",
+        "phonetic": "/brɪdʒ/",
+        "chinese": "桥"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      }
+    ]
+  },
+  {
+    "chinese": "孩子们由祖父母照顾",
+    "english": "The children are looked after by their grandparents",
+    "soundmark": "/ðə ˈtʃɪldrən ɑːr lʊkt ˈæftər baɪ ðer ˈɡrænˌperənts/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "children",
+        "role": "S",
+        "phonetic": "/ˈtʃɪldrən/",
+        "chinese": "孩子们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "looked",
+        "role": "V",
+        "phonetic": "/lʊkt/",
+        "chinese": "看起来"
+      },
+      {
+        "text": "after",
+        "role": "A",
+        "phonetic": "/ˈæftər/",
+        "chinese": "在…之后"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "their",
+        "role": "Det",
+        "phonetic": "/ðer/",
+        "chinese": "他们的"
+      },
+      {
+        "text": "grandparents",
+        "role": "A",
+        "phonetic": "/ˈɡrænˌperənts/",
+        "chinese": "祖父母"
+      }
+    ]
+  },
+  {
+    "chinese": "全世界的孩子都爱这个节目",
+    "english": "This program is loved by children all over the world",
+    "soundmark": "/ðɪs ˈproʊɡræm ɪz lʌvd baɪ ˈtʃɪldrən ɔːl ˈoʊvər ðə wɜːrld/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "program",
+        "role": "S",
+        "phonetic": "/ˈproʊɡræm/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "loved",
+        "role": "V",
+        "phonetic": "/lʌvd/",
+        "chinese": "爱"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "children",
+        "role": "A",
+        "phonetic": "/ˈtʃɪldrən/",
+        "chinese": "孩子们"
+      },
+      {
+        "text": "all",
+        "role": "A",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "over",
+        "role": "P",
+        "phonetic": "/ˈoʊvər/",
+        "chinese": "在…上方"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "A",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      }
+    ]
+  },
+  {
+    "chinese": "这个问题必须在周五之前解决",
+    "english": "This problem must be solved before Friday",
+    "soundmark": "/ðɪs ˈprɒbləm mʌst biː sɒlvd bɪˈfɔːr ˈfraɪdeɪ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "problem",
+        "role": "S",
+        "phonetic": "/ˈprɒbləm/",
+        "chinese": "问题/难题"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "solved",
+        "role": "V",
+        "phonetic": "/sɒlvd/",
+        "chinese": ""
+      },
+      {
+        "text": "before",
+        "role": "P",
+        "phonetic": "/bɪˈfɔːr/",
+        "chinese": "在…之前"
+      },
+      {
+        "text": "Friday",
+        "role": "A",
+        "phonetic": "/ˈfraɪdeɪ/",
+        "chinese": "星期五"
+      }
+    ]
+  },
+  {
+    "chinese": "这些规则必须遵守",
+    "english": "These rules must be followed",
+    "soundmark": "/ðiːz ruːlz mʌst biː ˈfɒloʊd/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "rules",
+        "role": "S",
+        "phonetic": "/ruːlz/",
+        "chinese": "规则/统治"
+      },
+      {
+        "text": "must",
+        "role": "V",
+        "phonetic": "/mʌst/",
+        "chinese": "必须"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "followed",
+        "role": "V",
+        "phonetic": "/ˈfɒloʊd/",
+        "chinese": "跟随"
+      }
+    ]
+  },
+  {
+    "chinese": "这个错误很容易被发现",
+    "english": "This mistake can be easily found",
+    "soundmark": "/ðɪs mɪˈsteɪk kæn biː ˈiːzɪli faʊnd/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "mistake",
+        "role": "S",
+        "phonetic": "/mɪˈsteɪk/",
+        "chinese": "错误"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "easily",
+        "role": "A",
+        "phonetic": "/ˈiːzɪli/",
+        "chinese": "…地(容易的)"
+      },
+      {
+        "text": "found",
+        "role": "V",
+        "phonetic": "/faʊnd/",
+        "chinese": "找到的"
+      }
+    ]
+  },
+  {
+    "chinese": "这座教堂据说是八百年前建的",
+    "english": "The church is said to have been built eight hundred years ago",
+    "soundmark": "/ðə tʃɜːrtʃ ɪz sed tuː hæv biːn bɪlt eɪt ˈhʌndrəd jɪrz əˈɡoʊ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "church",
+        "role": "S",
+        "phonetic": "/tʃɜːrtʃ/",
+        "chinese": "教堂"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "said",
+        "role": "V",
+        "phonetic": "/sed/",
+        "chinese": "说（过去式）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "been",
+        "role": "V",
+        "phonetic": "/biːn/",
+        "chinese": "是（过去分词）"
+      },
+      {
+        "text": "built",
+        "role": "V",
+        "phonetic": "/bɪlt/",
+        "chinese": "建造的"
+      },
+      {
+        "text": "eight",
+        "role": "Det",
+        "phonetic": "/eɪt/",
+        "chinese": "八"
+      },
+      {
+        "text": "hundred",
+        "role": "Det",
+        "phonetic": "/ˈhʌndrəd/",
+        "chinese": "百"
+      },
+      {
+        "text": "years",
+        "role": "A",
+        "phonetic": "/jɪrz/",
+        "chinese": "年"
+      },
+      {
+        "text": "ago",
+        "role": "A",
+        "phonetic": "/əˈɡoʊ/",
+        "chinese": "以前"
+      }
+    ]
+  },
+  {
+    "chinese": "这道菜是鸡肉做的",
+    "english": "This dish is made with chicken",
+    "soundmark": "/ðɪs dɪʃ ɪz meɪd wɪð ˈtʃɪkɪn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "dish",
+        "role": "S",
+        "phonetic": "/dɪʃ/",
+        "chinese": "碟子/菜"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "with",
+        "role": "P",
+        "phonetic": "/wɪð/",
+        "chinese": "和/用"
+      },
+      {
+        "text": "chicken",
+        "role": "A",
+        "phonetic": "/ˈtʃɪkɪn/",
+        "chinese": "鸡肉/鸡"
+      }
+    ]
+  },
+  {
+    "chinese": "咖啡是巴西种植的吗",
+    "english": "Is coffee grown in Brazil",
+    "soundmark": "/ɪz ˈkɒfi ɡroʊn ɪn brəˈzɪl/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "coffee",
+        "role": "S",
+        "phonetic": "/ˈkɒfi/",
+        "chinese": "咖啡"
+      },
+      {
+        "text": "grown",
+        "role": "V",
+        "phonetic": "/ɡroʊn/",
+        "chinese": "成长的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "Brazil",
+        "role": "A",
+        "phonetic": "/brəˈzɪl/",
+        "chinese": "巴西"
+      }
+    ]
+  },
+  {
+    "chinese": "这个沙发是真皮做的",
+    "english": "This sofa is made of real leather",
+    "soundmark": "/ðɪs ˈsoʊfə ɪz meɪd əv riːl ˈleðər/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "sofa",
+        "role": "S",
+        "phonetic": "/ˈsoʊfə/",
+        "chinese": "沙发"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "real",
+        "role": "C",
+        "phonetic": "/riːl/",
+        "chinese": "真实的"
+      },
+      {
+        "text": "leather",
+        "role": "A",
+        "phonetic": "/ˈleðər/",
+        "chinese": "皮革"
+      }
+    ]
+  },
+  {
+    "chinese": "这些产品是手工制作的",
+    "english": "These products are made by hand",
+    "soundmark": "/ðiːz ˈprɒdʌkts ɑːr meɪd baɪ hænd/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "products",
+        "role": "S",
+        "phonetic": "/ˈprɒdʌkts/",
+        "chinese": "产品"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "hand",
+        "role": "A",
+        "phonetic": "/hænd/",
+        "chinese": "手"
+      }
+    ]
+  },
+  {
+    "chinese": "这个地区的人说什么语言",
+    "english": "What language is spoken in this area",
+    "soundmark": "/wʌt ˈlæŋɡwɪdʒ ɪz ˈspoʊkən ɪn ðɪs ˈeriə/",
+    "grammar": [
+      {
+        "text": "What",
+        "role": "Det",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "language",
+        "role": "S",
+        "phonetic": "/ˈlæŋɡwɪdʒ/",
+        "chinese": "语言"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "spoken",
+        "role": "V",
+        "phonetic": "/ˈspoʊkən/",
+        "chinese": "口头的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "area",
+        "role": "A",
+        "phonetic": "/ˈeriə/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "这条路每个月都会修",
+    "english": "This road is repaired every month",
+    "soundmark": "/ðɪs roʊd ɪz rɪˈperd ˈevri mʌnθ/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "road",
+        "role": "S",
+        "phonetic": "/roʊd/",
+        "chinese": "路"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "repaired",
+        "role": "V",
+        "phonetic": "/rɪˈperd/",
+        "chinese": "修理"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "month",
+        "role": "A",
+        "phonetic": "/mʌnθ/",
+        "chinese": "月"
+      }
+    ]
+  },
+  {
+    "chinese": "这个玩具并非中国制造",
+    "english": "This toy is not made in China",
+    "soundmark": "/ðɪs tɔɪ ɪz nɒt meɪd ɪn ˈtʃaɪnə/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "toy",
+        "role": "S",
+        "phonetic": "/tɔɪ/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɒt/",
+        "chinese": "不"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "China",
+        "role": "A",
+        "phonetic": "/ˈtʃaɪnə/",
+        "chinese": "中国"
+      }
+    ]
+  },
+  {
+    "chinese": "门禁卡每天都要刷",
+    "english": "The access card is swiped every day",
+    "soundmark": "/ði ˈækses kɑːrd ɪz swaɪpt ˈevri deɪ/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "access",
+        "role": "S",
+        "phonetic": "/ˈækses/",
+        "chinese": ""
+      },
+      {
+        "text": "card",
+        "role": "S",
+        "phonetic": "/kɑːrd/",
+        "chinese": "卡片"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "swiped",
+        "role": "V",
+        "phonetic": "/swaɪpt/",
+        "chinese": ""
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "day",
+        "role": "A",
+        "phonetic": "/deɪ/",
+        "chinese": "天/日"
+      }
+    ]
+  },
+  {
+    "chinese": "这些书可以从图书馆借",
+    "english": "These books can be borrowed from the library",
+    "soundmark": "/ðiːz bʊks kæn biː ˈbɒroʊd frəm ðə ˈlaɪbrəri/",
+    "grammar": [
+      {
+        "text": "These",
+        "role": "Det",
+        "phonetic": "/ðiːz/",
+        "chinese": "这些"
+      },
+      {
+        "text": "books",
+        "role": "S",
+        "phonetic": "/bʊks/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "borrowed",
+        "role": "V",
+        "phonetic": "/ˈbɒroʊd/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frəm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "library",
+        "role": "A",
+        "phonetic": "/ˈlaɪbrəri/",
+        "chinese": "图书馆"
+      }
+    ]
+  },
+  {
+    "chinese": "这个房间每周打扫两次",
+    "english": "This room is cleaned twice a week",
+    "soundmark": "/ðɪs ruːm ɪz kliːnd twaɪs ə wiːk/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "room",
+        "role": "S",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "cleaned",
+        "role": "V",
+        "phonetic": "/kliːnd/",
+        "chinese": "清洁"
+      },
+      {
+        "text": "twice",
+        "role": "A",
+        "phonetic": "/twaɪs/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "week",
+        "role": "A",
+        "phonetic": "/wiːk/",
+        "chinese": "周"
+      }
+    ]
+  },
+  {
+    "chinese": "这座雕像是大理石雕刻的",
+    "english": "This statue is carved from marble",
+    "soundmark": "/ðɪs ˈstætʃuː ɪz kɑːrvd frəm ˈmɑːrbəl/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "statue",
+        "role": "S",
+        "phonetic": "/ˈstætʃuː/",
+        "chinese": "雕像"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "carved",
+        "role": "V",
+        "phonetic": "/kɑːrvd/",
+        "chinese": ""
+      },
+      {
+        "text": "from",
+        "role": "P",
+        "phonetic": "/frəm/",
+        "chinese": "从/来自"
+      },
+      {
+        "text": "marble",
+        "role": "A",
+        "phonetic": "/ˈmɑːrbəl/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们公司用的软件是定制开发的",
+    "english": "The software used in our company is custom made",
+    "soundmark": "/ðə ˈsɒftwer juːzd ɪn aʊər ˈkʌmpəni ɪz ˈkʌstəm meɪd/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "software",
+        "role": "S",
+        "phonetic": "/ˈsɒftwer/",
+        "chinese": ""
+      },
+      {
+        "text": "used",
+        "role": "V",
+        "phonetic": "/juːzd/",
+        "chinese": "用过的/二手的"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊər/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "company",
+        "role": "A",
+        "phonetic": "/ˈkʌmpəni/",
+        "chinese": "公司"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "custom",
+        "role": "C",
+        "phonetic": "/ˈkʌstəm/",
+        "chinese": "习俗"
+      },
+      {
+        "text": "made",
+        "role": "V",
+        "phonetic": "/meɪd/",
+        "chinese": "制造的/由…制成"
+      }
+    ]
+  },
+  {
+    "chinese": "这个包裹可以送到我家吗",
+    "english": "Can this package be delivered to my home",
+    "soundmark": "/kæn ðɪs ˈpækɪdʒ biː dɪˈlɪvərd tuː maɪ hoʊm/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "this",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "package",
+        "role": "S",
+        "phonetic": "/ˈpækɪdʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "be",
+        "role": "V",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "delivered",
+        "role": "V",
+        "phonetic": "/dɪˈlɪvərd/",
+        "chinese": "递送（过去式/过去分词）"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "my",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "home",
+        "role": "A",
+        "phonetic": "/hoʊm/",
+        "chinese": "家"
+      }
+    ]
+  },
+  {
+    "chinese": "这家医院据说是这个城市最好的",
+    "english": "This hospital is considered the best in the city",
+    "soundmark": "/ðɪs ˈhɒspɪtəl ɪz kənˈsɪdərd ðə best ɪn ðə ˈsɪti/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "Det",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "hospital",
+        "role": "S",
+        "phonetic": "/ˈhɒspɪtəl/",
+        "chinese": "医院"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "considered",
+        "role": "V",
+        "phonetic": "/kənˈsɪdərd/",
+        "chinese": "考虑"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "best",
+        "role": "C",
+        "phonetic": "/best/",
+        "chinese": "最好"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "city",
+        "role": "A",
+        "phonetic": "/ˈsɪti/",
+        "chinese": "城市"
+      }
+    ]
+  },
+  {
+    "chinese": "制造(made)",
+    "english": "made",
+    "soundmark": "/meɪd/"
+  },
+  {
+    "chinese": "建造(built)",
+    "english": "built",
+    "soundmark": "/bɪlt/"
+  },
+  {
+    "chinese": "说(said)",
+    "english": "spoken",
+    "soundmark": "/ˈspoʊkən/"
+  },
+  {
+    "chinese": "种植(grown)",
+    "english": "grown",
+    "soundmark": "/ɡroʊn/"
+  },
+  {
+    "chinese": "被偷的(stolen)",
+    "english": "stolen",
+    "soundmark": "/ˈstoʊlən/"
+  },
+  {
+    "chinese": "被……(by)",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "chinese": "被允许",
+    "english": "is allowed",
+    "soundmark": "/ɪz əˈlaʊd/"
+  },
+  {
+    "chinese": "被出版",
+    "english": "is published",
+    "soundmark": "/ɪz ˈpʌblɪʃt/"
+  }
+]

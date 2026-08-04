@@ -1,0 +1,741 @@
+[
+  {
+    "chinese": "邀请",
+    "english": "invitation",
+    "soundmark": "/ˌɪnvɪˈteɪʃn/"
+  },
+  {
+    "chinese": "派对",
+    "english": "party",
+    "soundmark": "/ˈpɑːrti/"
+  },
+  {
+    "chinese": "参加",
+    "english": "join",
+    "soundmark": "/dʒɔɪn/"
+  },
+  {
+    "chinese": "接受",
+    "english": "accept",
+    "soundmark": "/əkˈsept/"
+  },
+  {
+    "chinese": "拒绝",
+    "english": "refuse",
+    "soundmark": "/rɪˈfjuːz/"
+  },
+  {
+    "chinese": "生日",
+    "english": "birthday",
+    "soundmark": "/ˈbɜːrθdeɪ/"
+  },
+  {
+    "chinese": "婚礼",
+    "english": "wedding",
+    "soundmark": "/ˈwedɪŋ/"
+  },
+  {
+    "chinese": "周末",
+    "english": "weekend",
+    "soundmark": "/ˈwiːkend/"
+  },
+  {
+    "chinese": "有空",
+    "english": "free",
+    "soundmark": "/friː/"
+  },
+  {
+    "chinese": "忙",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "你想来我的派对吗",
+    "english": "Would you like to come to my party",
+    "soundmark": "/wʊd juː laɪk tuː kʌm tuː maɪ ˈpɑːrti/",
+    "grammar": [
+      {
+        "text": "Would",
+        "role": "V",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "like",
+        "role": "V",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      },
+      {
+        "text": "to come",
+        "role": "V",
+        "phonetic": "/tuː kʌm/",
+        "chinese": "到/向/来"
+      },
+      {
+        "text": "to my party",
+        "role": "A",
+        "phonetic": "/tuː maɪ ˈpɑːrti/",
+        "chinese": "到/向/我的"
+      }
+    ]
+  },
+  {
+    "chinese": "我很乐意",
+    "english": "I would love to",
+    "soundmark": "/aɪ wʊd lʌv tuː/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would love to",
+        "role": "V",
+        "phonetic": "/wʊd lʌv tuː/",
+        "chinese": "将会/爱/到/向"
+      }
+    ]
+  },
+  {
+    "chinese": "对不起我没空",
+    "english": "Sorry I am not free",
+    "soundmark": "/ˈsɑːri aɪ æm nɑːt friː/",
+    "grammar": [
+      {
+        "text": "Sorry",
+        "role": "Int",
+        "phonetic": "/ˈsɑːri/",
+        "chinese": "抱歉的"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am",
+        "role": "V",
+        "phonetic": "/æm/",
+        "chinese": "是"
+      },
+      {
+        "text": "not free",
+        "role": "C",
+        "phonetic": "/nɑːt friː/",
+        "chinese": "不/自由的/免费的"
+      }
+    ]
+  },
+  {
+    "chinese": "你周五晚上有空吗",
+    "english": "Are you free on Friday evening",
+    "soundmark": "/ɑːr juː friː ɑːn ˈfraɪdeɪ ˈiːvnɪŋ/",
+    "grammar": [
+      {
+        "text": "Are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "free",
+        "role": "C",
+        "phonetic": "/friː/",
+        "chinese": "自由的/免费的"
+      },
+      {
+        "text": "on Friday evening",
+        "role": "A",
+        "phonetic": "/ɑːn ˈfraɪdeɪ ˈiːvnɪŋ/",
+        "chinese": "在…上/星期五/晚上"
+      }
+    ]
+  },
+  {
+    "chinese": "我很愿意参加你的派对",
+    "english": "I would be happy to join your party",
+    "soundmark": "/aɪ wʊd biː ˈhæpi tuː dʒɔɪn jɔːr ˈpɑːrti/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would be",
+        "role": "V",
+        "phonetic": "/wʊd biː/",
+        "chinese": "将是"
+      },
+      {
+        "text": "happy",
+        "role": "C",
+        "phonetic": "/ˈhæpi/",
+        "chinese": "快乐的"
+      },
+      {
+        "text": "to join your party",
+        "role": "A",
+        "phonetic": "/tuː dʒɔɪn jɔːr ˈpɑːrti/",
+        "chinese": "到/向/加入/你的/你们的"
+      }
+    ]
+  },
+  {
+    "chinese": "乐意",
+    "english": "love to",
+    "soundmark": "/lʌv tuː/"
+  },
+  {
+    "chinese": "婚礼",
+    "english": "wedding",
+    "soundmark": "/ˈwedɪŋ/"
+  },
+  {
+    "chinese": "有空",
+    "english": "free",
+    "soundmark": "/friː/"
+  },
+  {
+    "chinese": "接受",
+    "english": "accept",
+    "soundmark": "/əkˈsept/"
+  },
+  {
+    "chinese": "周五晚上",
+    "english": "Friday evening",
+    "soundmark": "/ˈfraɪdeɪ ˈiːvnɪŋ/"
+  },
+  {
+    "chinese": "你能来参加我的生日会吗",
+    "english": "Can you come to my birthday party",
+    "soundmark": "/kæn juː kʌm tuː maɪ ˈbɜːrθdeɪ ˈpɑːrti/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "come",
+        "role": "V",
+        "phonetic": "/kʌm/",
+        "chinese": "来"
+      },
+      {
+        "text": "to my birthday party",
+        "role": "A",
+        "phonetic": "/tuː maɪ ˈbɜːrθdeɪ ˈpɑːrti/",
+        "chinese": "到/向/我的/生日"
+      }
+    ]
+  },
+  {
+    "chinese": "当然我很想去",
+    "english": "Of course I would love to go",
+    "soundmark": "/ʌv kɔːrs aɪ wʊd lʌv tuː ɡoʊ/",
+    "grammar": [
+      {
+        "text": "Of course",
+        "role": "Adv",
+        "phonetic": "/ʌv kɔːrs/",
+        "chinese": "当然"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "would love to go",
+        "role": "V",
+        "phonetic": "/wʊd lʌv tuː ɡoʊ/",
+        "chinese": "将会/爱/到/向/去"
+      }
+    ]
+  },
+  {
+    "chinese": "我恐怕不能来",
+    "english": "I am afraid I cannot come",
+    "soundmark": "/aɪ æm əˈfreɪd aɪ ˈkænɑːt kʌm/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "am afraid",
+        "role": "V",
+        "phonetic": "/æm əˈfreɪd/",
+        "chinese": "是/害怕的"
+      },
+      {
+        "text": "I cannot come",
+        "role": "O",
+        "phonetic": "/aɪ ˈkænɑːt kʌm/",
+        "chinese": "我/不能/来"
+      }
+    ]
+  },
+  {
+    "chinese": "我可以带个朋友来吗",
+    "english": "Can I bring a friend",
+    "soundmark": "/kæn aɪ brɪŋ ə frend/",
+    "grammar": [
+      {
+        "text": "Can",
+        "role": "V",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "bring",
+        "role": "V",
+        "phonetic": "/brɪŋ/",
+        "chinese": "带来"
+      },
+      {
+        "text": "a friend",
+        "role": "O",
+        "phonetic": "/ə frend/",
+        "chinese": "一个/朋友"
+      }
+    ]
+  },
+  {
+    "chinese": "当然欢迎",
+    "english": "Of course you are welcome",
+    "soundmark": "/ʌv kɔːrs juː ɑːr ˈwelkəm/",
+    "grammar": [
+      {
+        "text": "Of course",
+        "role": "Adv",
+        "phonetic": "/ʌv kɔːrs/",
+        "chinese": "当然"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "V",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "welcome",
+        "role": "C",
+        "phonetic": "/ˈwelkəm/",
+        "chinese": "欢迎"
+      }
+    ]
+  },
+  {
+    "chinese": "派对什么时候开始",
+    "english": "What time does the party start",
+    "soundmark": "/wʌt taɪm dʌz ðə ˈpɑːrti stɑːrt/",
+    "grammar": [
+      {
+        "text": "What time",
+        "role": "A",
+        "phonetic": "/wʌt taɪm/",
+        "chinese": "几点"
+      },
+      {
+        "text": "does",
+        "role": "V",
+        "phonetic": "/dʌz/",
+        "chinese": "做/助动词"
+      },
+      {
+        "text": "the party",
+        "role": "S",
+        "phonetic": "/ðə ˈpɑːrti/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "start",
+        "role": "V",
+        "phonetic": "/stɑːrt/",
+        "chinese": "开始"
+      }
+    ]
+  },
+  {
+    "chinese": "我们被邀请去参加他们的婚礼",
+    "english": "We have been invited to their wedding",
+    "soundmark": "/wiː hæv biːn ɪnˈvaɪtɪd tuː ðer ˈwedɪŋ/",
+    "grammar": [
+      {
+        "text": "We",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "have been invited",
+        "role": "V",
+        "phonetic": "/hæv biːn ɪnˈvaɪtɪd/",
+        "chinese": "有/助动词/是（过去分词）/邀请（过去分词）"
+      },
+      {
+        "text": "to their wedding",
+        "role": "A",
+        "phonetic": "/tuː ðer ˈwedɪŋ/",
+        "chinese": "到/向/他们的"
+      }
+    ]
+  },
+  {
+    "chinese": "你不需要带任何东西",
+    "english": "You do not need to bring anything",
+    "soundmark": "/juː duː nɑːt niːd tuː brɪŋ ˈeniθɪŋ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "do not need to bring",
+        "role": "V",
+        "phonetic": "/duː nɑːt niːd tuː brɪŋ/",
+        "chinese": "做/助动词/不/需要/到/向/带来"
+      },
+      {
+        "text": "anything",
+        "role": "O",
+        "phonetic": "/ˈeniθɪŋ/",
+        "chinese": "任何东西"
+      }
+    ]
+  },
+  {
+    "chinese": "能和你一起庆祝真是很开心",
+    "english": "It was lovely to celebrate with you",
+    "soundmark": "/ɪt wʌz ˈlʌvli tuː ˈselɪbreɪt wɪð juː/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "was",
+        "role": "V",
+        "phonetic": "/wʌz/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "lovely",
+        "role": "C",
+        "phonetic": "/ˈlʌvli/",
+        "chinese": "…地(爱)"
+      },
+      {
+        "text": "to celebrate with you",
+        "role": "A",
+        "phonetic": "/tuː ˈselɪbreɪt wɪð juː/",
+        "chinese": "到/向/庆祝/和/用/你/你们"
+      }
+    ]
+  },
+  {
+    "chinese": "害怕",
+    "english": "afraid",
+    "soundmark": "/əˈfreɪd/"
+  },
+  {
+    "chinese": "带",
+    "english": "bring",
+    "soundmark": "/brɪŋ/"
+  },
+  {
+    "chinese": "欢迎的",
+    "english": "welcome",
+    "soundmark": "/ˈwelkəm/"
+  },
+  {
+    "chinese": "庆祝",
+    "english": "celebrate",
+    "soundmark": "/ˈselɪbreɪt/"
+  },
+  {
+    "chinese": "被邀请",
+    "english": "be invited",
+    "soundmark": "/biː ɪnˈvaɪtɪd/"
+  },
+  {
+    "chinese": "可爱的",
+    "english": "lovely",
+    "soundmark": "/ˈlʌvli/"
+  },
+  {
+    "chinese": "开始",
+    "english": "start",
+    "soundmark": "/stɑːrt/"
+  },
+  {
+    "chinese": "派对在哪里举办",
+    "english": "Where is the party going to be",
+    "soundmark": "/wer ɪz ðə ˈpɑːrti ˈɡoʊɪŋ tuː biː/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "A",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the party",
+        "role": "S",
+        "phonetic": "/ðə ˈpɑːrti/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "going to be",
+        "role": "V",
+        "phonetic": "/ˈɡoʊɪŋ tuː biː/",
+        "chinese": "到/向/是"
+      }
+    ]
+  },
+  {
+    "chinese": "在我家晚上七点开始",
+    "english": "At my place starting at seven in the evening",
+    "soundmark": "/æt maɪ pleɪs ˈstɑːrtɪŋ æt ˈsevn ɪn ði ˈiːvnɪŋ/",
+    "grammar": [
+      {
+        "text": "At my place",
+        "role": "A",
+        "phonetic": "/æt maɪ pleɪs/",
+        "chinese": "在/我的/地方"
+      },
+      {
+        "text": "starting",
+        "role": "V",
+        "phonetic": "/ˈstɑːrtɪŋ/",
+        "chinese": "开始"
+      },
+      {
+        "text": "at seven",
+        "role": "A",
+        "phonetic": "/æt ˈsevn/",
+        "chinese": "在/七"
+      },
+      {
+        "text": "in the evening",
+        "role": "A",
+        "phonetic": "/ɪn ði ˈiːvnɪŋ/",
+        "chinese": "在晚上"
+      }
+    ]
+  },
+  {
+    "chinese": "需要我带点什么吗",
+    "english": "Should I bring something",
+    "soundmark": "/ʃʊd aɪ brɪŋ ˈsʌmθɪŋ/",
+    "grammar": [
+      {
+        "text": "Should",
+        "role": "V",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "bring",
+        "role": "V",
+        "phonetic": "/brɪŋ/",
+        "chinese": "带来"
+      },
+      {
+        "text": "something",
+        "role": "O",
+        "phonetic": "/ˈsʌmθɪŋ/",
+        "chinese": "某物"
+      }
+    ]
+  },
+  {
+    "chinese": "不用带什么只要你自己来就行",
+    "english": "Nothing just bring yourself",
+    "soundmark": "/ˈnʌθɪŋ dʒʌst brɪŋ jɔːrˈself/",
+    "grammar": [
+      {
+        "text": "Nothing",
+        "role": "O",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "chinese": "没有什么"
+      },
+      {
+        "text": "just bring yourself",
+        "role": "A",
+        "phonetic": "/dʒʌst brɪŋ jɔːrˈself/",
+        "chinese": "刚刚/只是/带来/你自己"
+      }
+    ]
+  },
+  {
+    "chinese": "我诚挚地邀请你来参加我们的婚礼",
+    "english": "I sincerely invite you to our wedding",
+    "soundmark": "/aɪ sɪnˈsɪrli ɪnˈvaɪt juː tuː aʊr ˈwedɪŋ/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "sincerely",
+        "role": "Adv",
+        "phonetic": "/sɪnˈsɪrli/",
+        "chinese": ""
+      },
+      {
+        "text": "invite",
+        "role": "V",
+        "phonetic": "/ɪnˈvaɪt/",
+        "chinese": "邀请"
+      },
+      {
+        "text": "you",
+        "role": "O",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "to our wedding",
+        "role": "A",
+        "phonetic": "/tuː aʊr ˈwedɪŋ/",
+        "chinese": "到/向/我们的"
+      }
+    ]
+  },
+  {
+    "chinese": "你能来真是太好了",
+    "english": "It is so nice of you to come",
+    "soundmark": "/ɪt ɪz soʊ naɪs ʌv juː tuː kʌm/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "so nice",
+        "role": "C",
+        "phonetic": "/soʊ naɪs/",
+        "chinese": "如此/所以/好的/不错的"
+      },
+      {
+        "text": "of you to come",
+        "role": "A",
+        "phonetic": "/ʌv juː tuː kʌm/",
+        "chinese": "…的/你/你们/到/向/来"
+      }
+    ]
+  },
+  {
+    "chinese": "在哪里",
+    "english": "where is it going to be",
+    "soundmark": "/wer ɪz ɪt ˈɡoʊɪŋ tuː biː/"
+  },
+  {
+    "chinese": "在我家",
+    "english": "at my place",
+    "soundmark": "/æt maɪ pleɪs/"
+  },
+  {
+    "chinese": "带来",
+    "english": "bring",
+    "soundmark": "/brɪŋ/"
+  },
+  {
+    "chinese": "只要你自己来就行",
+    "english": "just bring yourself",
+    "soundmark": "/dʒʌst brɪŋ jɔːrˈself/"
+  },
+  {
+    "chinese": "真诚地",
+    "english": "sincerely",
+    "soundmark": "/sɪnˈsɪrli/"
+  },
+  {
+    "chinese": "邀请(动词)",
+    "english": "invite",
+    "soundmark": "/ɪnˈvaɪt/"
+  },
+  {
+    "chinese": "真是太好",
+    "english": "so nice of you",
+    "soundmark": "/soʊ naɪs ʌv juː/"
+  },
+  {
+    "chinese": "客气",
+    "english": "you are welcome",
+    "soundmark": "/juː ɑːr ˈwelkəm/"
+  },
+  {
+    "chinese": "准时",
+    "english": "on time",
+    "soundmark": "/ɑːn taɪm/"
+  }
+]

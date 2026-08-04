@@ -1,0 +1,482 @@
+[
+  {
+    "chinese": "在家",
+    "english": "at home",
+    "soundmark": "/æt/ /hoʊm/"
+  },
+  {
+    "chinese": "起居室",
+    "english": "living room",
+    "soundmark": "/ˈlɪvɪŋ/ /ruːm/"
+  },
+  {
+    "chinese": "卧室",
+    "english": "bedroom",
+    "soundmark": "/ˈbedruːm/"
+  },
+  {
+    "chinese": "厨房",
+    "english": "kitchen",
+    "soundmark": "/ˈkɪtʃɪn/"
+  },
+  {
+    "chinese": "浴室",
+    "english": "bathroom",
+    "soundmark": "/ˈbæθruːm/"
+  },
+  {
+    "chinese": "花园",
+    "english": "garden",
+    "soundmark": "/ˈɡɑːrdən/"
+  },
+  {
+    "chinese": "楼上",
+    "english": "upstairs",
+    "soundmark": "/ˌʌpˈsterz/"
+  },
+  {
+    "chinese": "楼下",
+    "english": "downstairs",
+    "soundmark": "/ˌdaʊnˈsterz/"
+  },
+  {
+    "chinese": "在前方",
+    "english": "in front of",
+    "soundmark": "/ɪn/ /frʌnt/ /əv/"
+  },
+  {
+    "chinese": "在后方",
+    "english": "behind",
+    "soundmark": "/bɪˈhaɪnd/"
+  },
+  {
+    "chinese": "在旁边",
+    "english": "next to",
+    "soundmark": "/nekst/ /tuː/"
+  },
+  {
+    "chinese": "在...之间",
+    "english": "between",
+    "soundmark": "/bɪˈtwiːn/"
+  },
+  {
+    "chinese": "窗户",
+    "english": "window",
+    "soundmark": "/ˈwɪndoʊ/"
+  },
+  {
+    "chinese": "门",
+    "english": "door",
+    "soundmark": "/dɔːr/"
+  },
+  {
+    "chinese": "墙壁",
+    "english": "wall",
+    "soundmark": "/wɔːl/"
+  },
+  {
+    "chinese": "地板",
+    "english": "floor",
+    "soundmark": "/flɔːr/"
+  },
+  {
+    "chinese": "天花板",
+    "english": "ceiling",
+    "soundmark": "/ˈsiːlɪŋ/"
+  },
+  {
+    "chinese": "汤姆在哪里",
+    "english": "Where is Tom",
+    "soundmark": "/wer/ /ɪz/ /tɑːm/",
+    "grammar": [
+      {
+        "text": "Where",
+        "role": "Adv",
+        "phonetic": "/wer/",
+        "chinese": "哪里"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "Tom",
+        "role": "S",
+        "phonetic": "/tɑːm/",
+        "chinese": "汤姆"
+      }
+    ]
+  },
+  {
+    "chinese": "他在卧室里",
+    "english": "He is in the bedroom",
+    "soundmark": "/hiː/ /ɪz/ /ɪn/ /ðə/ /ˈbedruːm/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bedroom",
+        "role": "O",
+        "phonetic": "/ˈbedruːm/",
+        "chinese": "卧室"
+      }
+    ]
+  },
+  {
+    "chinese": "客厅在楼下吗",
+    "english": "Is the living room downstairs",
+    "soundmark": "/ɪz/ /ðə/ /ˈlɪvɪŋ/ /ruːm/ /ˌdaʊnˈsterz/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "living",
+        "role": "C",
+        "phonetic": "/ˈlɪvɪŋ/",
+        "chinese": "活着的/生活的"
+      },
+      {
+        "text": "room",
+        "role": "S",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "downstairs",
+        "role": "A",
+        "phonetic": "/ˌdaʊnˈsterz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "是的客厅在楼下",
+    "english": "Yes the living room is downstairs",
+    "soundmark": "/jes/ /ðə/ /ˈlɪvɪŋ/ /ruːm/ /ɪz/ /ˌdaʊnˈsterz/",
+    "grammar": [
+      {
+        "text": "Yes",
+        "role": "Int",
+        "phonetic": "/jes/",
+        "chinese": "是的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "living",
+        "role": "C",
+        "phonetic": "/ˈlɪvɪŋ/",
+        "chinese": "活着的/生活的"
+      },
+      {
+        "text": "room",
+        "role": "S",
+        "phonetic": "/ruːm/",
+        "chinese": "房间/空间"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "downstairs",
+        "role": "A",
+        "phonetic": "/ˌdaʊnˈsterz/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "浴室在卧室旁边",
+    "english": "The bathroom is next to the bedroom",
+    "soundmark": "/ðə/ /ˈbæθruːm/ /ɪz/ /nekst/ /tuː/ /ðə/ /ˈbedruːm/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bathroom",
+        "role": "S",
+        "phonetic": "/ˈbæθruːm/",
+        "chinese": "浴室"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "next",
+        "role": "Adv",
+        "phonetic": "/nekst/",
+        "chinese": "下一个/接下来"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "bedroom",
+        "role": "O",
+        "phonetic": "/ˈbedruːm/",
+        "chinese": "卧室"
+      }
+    ]
+  },
+  {
+    "chinese": "花园在房子的前方",
+    "english": "The garden is in front of the house",
+    "soundmark": "/ðə/ /ˈɡɑːrdən/ /ɪz/ /ɪn/ /frʌnt/ /əv/ /ðə/ /haʊs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "garden",
+        "role": "S",
+        "phonetic": "/ˈɡɑːrdən/",
+        "chinese": "花园"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "front",
+        "role": "P",
+        "phonetic": "/frʌnt/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/əv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      }
+    ]
+  },
+  {
+    "chinese": "车库在房子后面",
+    "english": "The garage is behind the house",
+    "soundmark": "/ðə/ /ɡəˈrɑːʒ/ /ɪz/ /bɪˈhaɪnd/ /ðə/ /haʊs/",
+    "grammar": [
+      {
+        "text": "The",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "garage",
+        "role": "S",
+        "phonetic": "/ɡəˈrɑːʒ/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "behind",
+        "role": "P",
+        "phonetic": "/bɪˈhaɪnd/",
+        "chinese": "在…后面"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "house",
+        "role": "O",
+        "phonetic": "/haʊs/",
+        "chinese": "房子"
+      }
+    ]
+  },
+  {
+    "chinese": "我的书在桌子和窗户之间",
+    "english": "My book is between the desk and the window",
+    "soundmark": "/maɪ/ /bʊk/ /ɪz/ /bɪˈtwiːn/ /ðə/ /desk/ /ænd/ /ðə/ /ˈwɪndoʊ/",
+    "grammar": [
+      {
+        "text": "My",
+        "role": "Det",
+        "phonetic": "/maɪ/",
+        "chinese": "我的"
+      },
+      {
+        "text": "book",
+        "role": "S",
+        "phonetic": "/bʊk/",
+        "chinese": "预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "between",
+        "role": "P",
+        "phonetic": "/bɪˈtwiːn/",
+        "chinese": "在…之间"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "desk",
+        "role": "O",
+        "phonetic": "/desk/",
+        "chinese": "书桌"
+      },
+      {
+        "text": "and",
+        "role": "P",
+        "phonetic": "/ænd/",
+        "chinese": "和"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "window",
+        "role": "O",
+        "phonetic": "/ˈwɪndoʊ/",
+        "chinese": "窗户"
+      }
+    ]
+  },
+  {
+    "chinese": "车库",
+    "english": "garage",
+    "soundmark": "/ɡəˈrɑːʒ/"
+  },
+  {
+    "chinese": "书桌",
+    "english": "desk",
+    "soundmark": "/desk/"
+  },
+  {
+    "chinese": "客厅",
+    "english": "living room",
+    "soundmark": "/ˈlɪvɪŋ/ /ruːm/"
+  },
+  {
+    "chinese": "餐厅",
+    "english": "dining room",
+    "soundmark": "/ˈdaɪnɪŋ/ /ruːm/"
+  },
+  {
+    "chinese": "书房",
+    "english": "study",
+    "soundmark": "/ˈstʌdi/"
+  },
+  {
+    "chinese": "阳台",
+    "english": "balcony",
+    "soundmark": "/ˈbælkəni/"
+  },
+  {
+    "chinese": "楼梯",
+    "english": "stairs",
+    "soundmark": "/sterz/"
+  },
+  {
+    "chinese": "走廊",
+    "english": "hall",
+    "soundmark": "/hɔːl/"
+  },
+  {
+    "chinese": "屋顶",
+    "english": "roof",
+    "soundmark": "/ruːf/"
+  }
+]

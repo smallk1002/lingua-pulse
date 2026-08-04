@@ -1,0 +1,1088 @@
+[
+  {
+    "chinese": "最高",
+    "english": "tallest",
+    "soundmark": "/ˈtɔːləst/"
+  },
+  {
+    "chinese": "最大",
+    "english": "biggest",
+    "soundmark": "/ˈbɪɡəst/"
+  },
+  {
+    "chinese": "最快",
+    "english": "fastest",
+    "soundmark": "/ˈfæstəst/"
+  },
+  {
+    "chinese": "最小",
+    "english": "smallest",
+    "soundmark": "/ˈsmɔːləst/"
+  },
+  {
+    "chinese": "最贵",
+    "english": "most expensive",
+    "soundmark": "/moʊst ɪkˈspensɪv/"
+  },
+  {
+    "chinese": "最漂亮",
+    "english": "most beautiful",
+    "soundmark": "/moʊst ˈbjuːtɪfl/"
+  },
+  {
+    "chinese": "最好",
+    "english": "best",
+    "soundmark": "/best/"
+  },
+  {
+    "chinese": "最差",
+    "english": "worst",
+    "soundmark": "/wɜːrst/"
+  },
+  {
+    "chinese": "最老",
+    "english": "oldest",
+    "soundmark": "/ˈoʊldəst/"
+  },
+  {
+    "chinese": "最年轻",
+    "english": "youngest",
+    "soundmark": "/ˈjʌŋɡəst/"
+  },
+  {
+    "chinese": "世界",
+    "english": "world",
+    "soundmark": "/wɜːrld/"
+  },
+  {
+    "chinese": "班级",
+    "english": "class",
+    "soundmark": "/klæs/"
+  },
+  {
+    "chinese": "国家",
+    "english": "country",
+    "soundmark": "/ˈkʌntri/"
+  },
+  {
+    "chinese": "城市",
+    "english": "city",
+    "soundmark": "/ˈsɪti/"
+  },
+  {
+    "chinese": "世界上最高的山",
+    "english": "the tallest mountain in the world",
+    "soundmark": "/ðə ˈtɔːləst ˈmaʊntn ɪn ðə wɜːrld/"
+  },
+  {
+    "chinese": "班上最聪明的学生",
+    "english": "the smartest student in the class",
+    "soundmark": "/ðə ˈsmɑːrtəst ˈstuːdnt ɪn ðə klæs/"
+  },
+  {
+    "chinese": "我见过的最漂亮的女孩",
+    "english": "the most beautiful girl I have ever seen",
+    "soundmark": "/ðə moʊst ˈbjuːtɪfl ɡɜːrl aɪ hæv ˈevər siːn/"
+  },
+  {
+    "chinese": "他是班上最高的。",
+    "english": "He is the tallest in the class",
+    "soundmark": "/hiː ɪz ðə ˈtɔːləst ɪn ðə klæs/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the tallest",
+        "role": "C",
+        "phonetic": "/ðə ˈtɔːləst/",
+        "chinese": "这个/那个/最…的(高的)"
+      },
+      {
+        "text": "in the class",
+        "role": "A",
+        "phonetic": "/ɪn ðə klæs/",
+        "chinese": "在班上"
+      }
+    ]
+  },
+  {
+    "chinese": "这是世界上最大的城市。",
+    "english": "This is the biggest city in the world",
+    "soundmark": "/ðɪs ɪz ðə ˈbɪɡəst ˈsɪti ɪn ðə wɜːrld/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the biggest city",
+        "role": "C",
+        "phonetic": "/ðə ˈbɪɡəst ˈsɪti/",
+        "chinese": "这个/那个/最…的(大的)/城市"
+      },
+      {
+        "text": "in the world",
+        "role": "A",
+        "phonetic": "/ɪn ðə wɜːrld/",
+        "chinese": "在世界上"
+      }
+    ]
+  },
+  {
+    "chinese": "她是我们学校最好的老师。",
+    "english": "She is the best teacher in our school",
+    "soundmark": "/ʃiː ɪz ðə best ˈtiːtʃər ɪn aʊr skuːl/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the best teacher",
+        "role": "C",
+        "phonetic": "/ðə best ˈtiːtʃər/",
+        "chinese": "这个/那个/最好/老师"
+      },
+      {
+        "text": "in our school",
+        "role": "A",
+        "phonetic": "/ɪn aʊr skuːl/",
+        "chinese": "在…里/我们的/学校"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我吃过的最好的披萨。",
+    "english": "This is the best pizza I have ever had",
+    "soundmark": "/ðɪs ɪz ðə best ˈpiːtsə aɪ hæv ˈevər hæd/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the best pizza",
+        "role": "C",
+        "phonetic": "/ðə best ˈpiːtsə/",
+        "chinese": "这个/那个/最好"
+      },
+      {
+        "text": "I have ever had",
+        "role": "A",
+        "phonetic": "/aɪ hæv ˈevər hæd/",
+        "chinese": "我/有/助动词/曾经/有/助动词（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "他是世界上最富有的人。",
+    "english": "He is the richest man in the world",
+    "soundmark": "/hiː ɪz ðə ˈrɪtʃəst mæn ɪn ðə wɜːrld/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the richest man",
+        "role": "C",
+        "phonetic": "/ðə ˈrɪtʃəst mæn/",
+        "chinese": "这个/那个/最…的(富有的)/男人"
+      },
+      {
+        "text": "in the world",
+        "role": "A",
+        "phonetic": "/ɪn ðə wɜːrld/",
+        "chinese": "在世界上"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我一生中最快乐的一天。",
+    "english": "This is the happiest day of my life",
+    "soundmark": "/ðɪs ɪz ðə ˈhæpɪəst deɪ ʌv maɪ laɪf/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the happiest day",
+        "role": "C",
+        "phonetic": "/ðə ˈhæpɪəst deɪ/",
+        "chinese": "这个/那个/天/日"
+      },
+      {
+        "text": "of my life",
+        "role": "A",
+        "phonetic": "/ʌv maɪ laɪf/",
+        "chinese": "我一生中"
+      }
+    ]
+  },
+  {
+    "chinese": "珠穆朗玛峰是世界上最高的山。",
+    "english": "Mount Everest is the tallest mountain in the world",
+    "soundmark": "/maʊnt ˈevərɪst ɪz ðə ˈtɔːləst ˈmaʊntn ɪn ðə wɜːrld/",
+    "grammar": [
+      {
+        "text": "Mount Everest",
+        "role": "S",
+        "phonetic": "/maʊnt ˈevərɪst/",
+        "chinese": "最…的(曾经)"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the tallest mountain",
+        "role": "C",
+        "phonetic": "/ðə ˈtɔːləst ˈmaʊntn/",
+        "chinese": "这个/那个/最…的(高的)/山"
+      },
+      {
+        "text": "in the world",
+        "role": "A",
+        "phonetic": "/ɪn ðə wɜːrld/",
+        "chinese": "在世界上"
+      }
+    ]
+  },
+  {
+    "chinese": "这本书是三本中最有趣的。",
+    "english": "This book is the most interesting of the three",
+    "soundmark": "/ðɪs bʊk ɪz ðə moʊst ˈɪntrəstɪŋ ʌv ðə θriː/",
+    "grammar": [
+      {
+        "text": "This book",
+        "role": "S",
+        "phonetic": "/ðɪs bʊk/",
+        "chinese": "这个/预订/书"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the most interesting",
+        "role": "C",
+        "phonetic": "/ðə moʊst ˈɪntrəstɪŋ/",
+        "chinese": "这个/那个/大多数/有趣的"
+      },
+      {
+        "text": "of the three",
+        "role": "A",
+        "phonetic": "/ʌv ðə θriː/",
+        "chinese": "…的/这个/那个/三"
+      }
+    ]
+  },
+  {
+    "chinese": "谁跑得最快？",
+    "english": "Who runs the fastest",
+    "soundmark": "/huː rʌnz ðə ˈfæstəst/",
+    "grammar": [
+      {
+        "text": "Who",
+        "role": "S",
+        "phonetic": "/huː/",
+        "chinese": "谁"
+      },
+      {
+        "text": "runs",
+        "role": "V",
+        "phonetic": "/rʌnz/",
+        "chinese": "跑"
+      },
+      {
+        "text": "the fastest",
+        "role": "A",
+        "phonetic": "/ðə ˈfæstəst/",
+        "chinese": "这个/那个/最快地"
+      }
+    ]
+  },
+  {
+    "chinese": "这是店里最便宜的东西吗？",
+    "english": "Is this the cheapest thing in the store",
+    "soundmark": "/ɪz ðɪs ðə ˈtʃiːpəst θɪŋ ɪn ðə stɔːr/",
+    "grammar": [
+      {
+        "text": "Is",
+        "role": "V",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "this",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "the cheapest thing",
+        "role": "C",
+        "phonetic": "/ðə ˈtʃiːpəst θɪŋ/",
+        "chinese": "这个/那个/最…的(便宜的)"
+      },
+      {
+        "text": "in the store",
+        "role": "A",
+        "phonetic": "/ɪn ðə stɔːr/",
+        "chinese": "在…里/这个/那个"
+      }
+    ]
+  },
+  {
+    "chinese": "她不是我们班最小的。",
+    "english": "She is not the youngest in our class",
+    "soundmark": "/ʃiː ɪz nɑːt ðə ˈjʌŋɡəst ɪn aʊr klæs/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "the youngest",
+        "role": "C",
+        "phonetic": "/ðə ˈjʌŋɡəst/",
+        "chinese": "这个/那个/最…的(年轻的)"
+      },
+      {
+        "text": "in our class",
+        "role": "A",
+        "phonetic": "/ɪn aʊr klæs/",
+        "chinese": "在…里/我们的/班级/阶层"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我看过的最好的电影。",
+    "english": "This is the best movie I have ever watched",
+    "soundmark": "/ðɪs ɪz ðə best ˈmuːvi aɪ hæv ˈevər wɑːtʃt/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the best movie",
+        "role": "C",
+        "phonetic": "/ðə best ˈmuːvi/",
+        "chinese": "这个/那个/最好/电影"
+      },
+      {
+        "text": "I have ever watched",
+        "role": "A",
+        "phonetic": "/aɪ hæv ˈevər wɑːtʃt/",
+        "chinese": "我/有/助动词/曾经/观看"
+      }
+    ]
+  },
+  {
+    "chinese": "中国是世界上人口最多的国家。",
+    "english": "China has the largest population in the world",
+    "soundmark": "/ˈtʃaɪnə hæz ðə ˈlɑːrdʒəst ˌpɑːpjuˈleɪʃn ɪn ðə wɜːrld/",
+    "grammar": [
+      {
+        "text": "China",
+        "role": "S",
+        "phonetic": "/ˈtʃaɪnə/",
+        "chinese": "中国"
+      },
+      {
+        "text": "has",
+        "role": "V",
+        "phonetic": "/hæz/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "the largest population",
+        "role": "O",
+        "phonetic": "/ðə ˈlɑːrdʒəst ˌpɑːpjuˈleɪʃn/",
+        "chinese": "这个/那个/最…的(大的)/人口"
+      },
+      {
+        "text": "in the world",
+        "role": "A",
+        "phonetic": "/ɪn ðə wɜːrld/",
+        "chinese": "在世界上"
+      }
+    ]
+  },
+  {
+    "chinese": "数学是我最不喜欢的科目。",
+    "english": "Math is my least favorite subject",
+    "soundmark": "/mæθ ɪz maɪ liːst ˈfeɪvərɪt ˈsʌbdʒɪkt/",
+    "grammar": [
+      {
+        "text": "Math",
+        "role": "S",
+        "phonetic": "/mæθ/",
+        "chinese": ""
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "my least favorite subject",
+        "role": "C",
+        "phonetic": "/maɪ liːst ˈfeɪvərɪt ˈsʌbdʒɪkt/",
+        "chinese": "我的/最少/最喜欢的/科目/主题"
+      }
+    ]
+  },
+  {
+    "chinese": "夏天是一年中最热的季节。",
+    "english": "Summer is the hottest season of the year",
+    "soundmark": "/ˈsʌmər ɪz ðə ˈhɑːtəst ˈsiːzn ʌv ðə jɪr/",
+    "grammar": [
+      {
+        "text": "Summer",
+        "role": "S",
+        "phonetic": "/ˈsʌmər/",
+        "chinese": "夏天"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the hottest season",
+        "role": "C",
+        "phonetic": "/ðə ˈhɑːtəst ˈsiːzn/",
+        "chinese": "这个/那个/最…的(热的)/季节"
+      },
+      {
+        "text": "of the year",
+        "role": "A",
+        "phonetic": "/ʌv ðə jɪr/",
+        "chinese": "这一年中"
+      }
+    ]
+  },
+  {
+    "chinese": "你是我认识的最善良的人。",
+    "english": "You are the kindest person I know",
+    "soundmark": "/juː ɑːr ðə ˈkaɪndəst ˈpɜːrsn aɪ noʊ/",
+    "grammar": [
+      {
+        "text": "You",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "the kindest person",
+        "role": "C",
+        "phonetic": "/ðə ˈkaɪndəst ˈpɜːrsn/",
+        "chinese": "这个/那个/最…的(善良的)/人"
+      },
+      {
+        "text": "I know",
+        "role": "A",
+        "phonetic": "/aɪ noʊ/",
+        "chinese": "我/知道"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我生命中最重要的事情。",
+    "english": "This is the most important thing in my life",
+    "soundmark": "/ðɪs ɪz ðə moʊst ɪmˈpɔːrtnt θɪŋ ɪn maɪ laɪf/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the most important thing",
+        "role": "C",
+        "phonetic": "/ðə moʊst ɪmˈpɔːrtnt θɪŋ/",
+        "chinese": "这个/那个/大多数/重要的"
+      },
+      {
+        "text": "in my life",
+        "role": "A",
+        "phonetic": "/ɪn maɪ laɪf/",
+        "chinese": "在…里/我的/生活/生命"
+      }
+    ]
+  },
+  {
+    "chinese": "他是我见过最有趣的人。",
+    "english": "He is the funniest person I have ever met",
+    "soundmark": "/hiː ɪz ðə ˈfʌnɪəst ˈpɜːrsn aɪ hæv ˈevər met/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the funniest person",
+        "role": "C",
+        "phonetic": "/ðə ˈfʌnɪəst ˈpɜːrsn/",
+        "chinese": "这个/那个/人"
+      },
+      {
+        "text": "I have ever met",
+        "role": "A",
+        "phonetic": "/aɪ hæv ˈevər met/",
+        "chinese": "我/有/助动词/曾经/遇见（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "长江是中国最长的河流。",
+    "english": "The Yangtze River is the longest river in China",
+    "soundmark": "/ðə ˈjæŋtsi ˈrɪvər ɪz ðə ˈlɔːŋɡəst ˈrɪvər ɪn ˈtʃaɪnə/",
+    "grammar": [
+      {
+        "text": "The Yangtze River",
+        "role": "S",
+        "phonetic": "/ðə ˈjæŋtsi ˈrɪvər/",
+        "chinese": "这个/那个/河"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the longest river",
+        "role": "C",
+        "phonetic": "/ðə ˈlɔːŋɡəst ˈrɪvər/",
+        "chinese": "这个/那个/最…的(长的)/河"
+      },
+      {
+        "text": "in China",
+        "role": "A",
+        "phonetic": "/ɪn ˈtʃaɪnə/",
+        "chinese": "在…里/中国"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我喝过的最好的咖啡。",
+    "english": "This is the best coffee I have ever had",
+    "soundmark": "/ðɪs ɪz ðə best ˈkɑːfi aɪ hæv ˈevər hæd/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the best coffee",
+        "role": "C",
+        "phonetic": "/ðə best ˈkɑːfi/",
+        "chinese": "这个/那个/最好/咖啡"
+      },
+      {
+        "text": "I have ever had",
+        "role": "A",
+        "phonetic": "/aɪ hæv ˈevər hæd/",
+        "chinese": "我/有/助动词/曾经/有/助动词（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "哪个城市是世界上最美的？",
+    "english": "Which city is the most beautiful in the world",
+    "soundmark": "/wɪtʃ ˈsɪti ɪz ðə moʊst ˈbjuːtɪfl ɪn ðə wɜːrld/",
+    "grammar": [
+      {
+        "text": "Which city",
+        "role": "S",
+        "phonetic": "/wɪtʃ ˈsɪti/",
+        "chinese": "哪个/城市"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the most beautiful",
+        "role": "C",
+        "phonetic": "/ðə moʊst ˈbjuːtɪfl/",
+        "chinese": "这个/那个/大多数/美丽的"
+      },
+      {
+        "text": "in the world",
+        "role": "A",
+        "phonetic": "/ɪn ðə wɜːrld/",
+        "chinese": "在世界上"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我一生中最糟糕的一天。",
+    "english": "This is the worst day of my life",
+    "soundmark": "/ðɪs ɪz ðə wɜːrst deɪ ʌv maɪ laɪf/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the worst day",
+        "role": "C",
+        "phonetic": "/ðə wɜːrst deɪ/",
+        "chinese": "这个/那个/最糟/天/日"
+      },
+      {
+        "text": "of my life",
+        "role": "A",
+        "phonetic": "/ʌv maɪ laɪf/",
+        "chinese": "我一生中"
+      }
+    ]
+  },
+  {
+    "chinese": "她是我们团队中最努力的人。",
+    "english": "She is the hardest working person on our team",
+    "soundmark": "/ʃiː ɪz ðə ˈhɑːrdəst ˈwɜːrkɪŋ ˈpɜːrsn ɑːn aʊr tiːm/",
+    "grammar": [
+      {
+        "text": "She",
+        "role": "S",
+        "phonetic": "/ʃiː/",
+        "chinese": "她"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the hardest working person",
+        "role": "C",
+        "phonetic": "/ðə ˈhɑːrdəst ˈwɜːrkɪŋ ˈpɜːrsn/",
+        "chinese": "这个/那个/最…的(硬的/难的)/工作/人"
+      },
+      {
+        "text": "on our team",
+        "role": "A",
+        "phonetic": "/ɑːn aʊr tiːm/",
+        "chinese": "在…上/我们的"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我拥有的最贵的东西。",
+    "english": "This is the most expensive thing I own",
+    "soundmark": "/ðɪs ɪz ðə moʊst ɪkˈspensɪv θɪŋ aɪ oʊn/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the most expensive thing",
+        "role": "C",
+        "phonetic": "/ðə moʊst ɪkˈspensɪv θɪŋ/",
+        "chinese": "这个/那个/大多数/昂贵的"
+      },
+      {
+        "text": "I own",
+        "role": "A",
+        "phonetic": "/aɪ oʊn/",
+        "chinese": "我/自己的"
+      }
+    ]
+  },
+  {
+    "chinese": "在这三个里面，这个是最好的。",
+    "english": "Among the three this one is the best",
+    "soundmark": "/əˈmʌŋ ðə θriː ðɪs wʌn ɪz ðə best/",
+    "grammar": [
+      {
+        "text": "Among the three",
+        "role": "A",
+        "phonetic": "/əˈmʌŋ ðə θriː/",
+        "chinese": "在…之中/这个/那个/三"
+      },
+      {
+        "text": "this one",
+        "role": "S",
+        "phonetic": "/ðɪs wʌn/",
+        "chinese": "这个/一个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the best",
+        "role": "C",
+        "phonetic": "/ðə best/",
+        "chinese": "这个/那个/最好"
+      }
+    ]
+  },
+  {
+    "chinese": "他是我认识的最聪明的孩子。",
+    "english": "He is the smartest kid I know",
+    "soundmark": "/hiː ɪz ðə ˈsmɑːrtəst kɪd aɪ noʊ/",
+    "grammar": [
+      {
+        "text": "He",
+        "role": "S",
+        "phonetic": "/hiː/",
+        "chinese": "他"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the smartest kid",
+        "role": "C",
+        "phonetic": "/ðə ˈsmɑːrtəst kɪd/",
+        "chinese": "这个/那个/最…的(聪明的)/小孩"
+      },
+      {
+        "text": "I know",
+        "role": "A",
+        "phonetic": "/aɪ noʊ/",
+        "chinese": "我/知道"
+      }
+    ]
+  },
+  {
+    "chinese": "冬天是一年中最冷的季节。",
+    "english": "Winter is the coldest season of the year",
+    "soundmark": "/ˈwɪntər ɪz ðə ˈkoʊldəst ˈsiːzn ʌv ðə jɪr/",
+    "grammar": [
+      {
+        "text": "Winter",
+        "role": "S",
+        "phonetic": "/ˈwɪntər/",
+        "chinese": "冬天"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the coldest season",
+        "role": "C",
+        "phonetic": "/ðə ˈkoʊldəst ˈsiːzn/",
+        "chinese": "这个/那个/最…的(冷的)/季节"
+      },
+      {
+        "text": "of the year",
+        "role": "A",
+        "phonetic": "/ʌv ðə jɪr/",
+        "chinese": "这一年中"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我听过最动听的歌。",
+    "english": "This is the most beautiful song I have ever heard",
+    "soundmark": "/ðɪs ɪz ðə moʊst ˈbjuːtɪfl sɔːŋ aɪ hæv ˈevər hɜːrd/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the most beautiful song",
+        "role": "C",
+        "phonetic": "/ðə moʊst ˈbjuːtɪfl sɔːŋ/",
+        "chinese": "这个/那个/大多数/美丽的/歌曲"
+      },
+      {
+        "text": "I have ever heard",
+        "role": "A",
+        "phonetic": "/aɪ hæv ˈevər hɜːrd/",
+        "chinese": "我/有/助动词/曾经/听到（过去式）"
+      }
+    ]
+  },
+  {
+    "chinese": "最便宜的不一定是最差的。",
+    "english": "The cheapest is not always the worst",
+    "soundmark": "/ðə ˈtʃiːpəst ɪz nɑːt ˈɔːlweɪz ðə wɜːrst/",
+    "grammar": [
+      {
+        "text": "The cheapest",
+        "role": "S",
+        "phonetic": "/ðə ˈtʃiːpəst/",
+        "chinese": "这个/那个/最…的(便宜的)"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "always",
+        "role": "Adv",
+        "phonetic": "/ˈɔːlweɪz/",
+        "chinese": "总是"
+      },
+      {
+        "text": "the worst",
+        "role": "C",
+        "phonetic": "/ðə wɜːrst/",
+        "chinese": "这个/那个/最糟"
+      }
+    ]
+  },
+  {
+    "chinese": "这是我做过的最难的决定。",
+    "english": "This is the hardest decision I have ever made",
+    "soundmark": "/ðɪs ɪz ðə ˈhɑːrdəst dɪˈsɪʒn aɪ hæv ˈevər meɪd/",
+    "grammar": [
+      {
+        "text": "This",
+        "role": "S",
+        "phonetic": "/ðɪs/",
+        "chinese": "这个"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "the hardest decision",
+        "role": "C",
+        "phonetic": "/ðə ˈhɑːrdəst dɪˈsɪʒn/",
+        "chinese": "这个/那个/最…的(硬的/难的)"
+      },
+      {
+        "text": "I have ever made",
+        "role": "A",
+        "phonetic": "/aɪ hæv ˈevər meɪd/",
+        "chinese": "我/有/助动词/曾经/制造的"
+      }
+    ]
+  },
+  {
+    "chinese": "做某事永远不嫌晚。",
+    "english": "It is never too late to be the best",
+    "soundmark": "/ɪt ɪz ˈnevər tuː leɪt tuː biː ðə best/",
+    "grammar": [
+      {
+        "text": "It",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "is",
+        "role": "Lv",
+        "phonetic": "/ɪz/",
+        "chinese": "是"
+      },
+      {
+        "text": "never too late",
+        "role": "C",
+        "phonetic": "/ˈnevər tuː leɪt/",
+        "chinese": "从不/也/太/晚"
+      },
+      {
+        "text": "to be the best",
+        "role": "A",
+        "phonetic": "/tuː biː ðə best/",
+        "chinese": "到/向/是/这个/那个/最好"
+      }
+    ]
+  },
+  {
+    "chinese": "山",
+    "english": "mountain",
+    "soundmark": "/ˈmaʊntn/"
+  },
+  {
+    "chinese": "河流",
+    "english": "river",
+    "soundmark": "/ˈrɪvər/"
+  },
+  {
+    "chinese": "季节",
+    "english": "season",
+    "soundmark": "/ˈsiːzn/"
+  },
+  {
+    "chinese": "人口",
+    "english": "population",
+    "soundmark": "/ˌpɑːpjuˈleɪʃn/"
+  },
+  {
+    "chinese": "科目",
+    "english": "subject",
+    "soundmark": "/ˈsʌbdʒɪkt/"
+  },
+  {
+    "chinese": "聪明",
+    "english": "smart",
+    "soundmark": "/smɑːrt/"
+  },
+  {
+    "chinese": "善良",
+    "english": "kind",
+    "soundmark": "/kaɪnd/"
+  },
+  {
+    "chinese": "有趣(人)",
+    "english": "funny",
+    "soundmark": "/ˈfʌni/"
+  }
+]

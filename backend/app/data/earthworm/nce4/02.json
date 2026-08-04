@@ -1,0 +1,1295 @@
+[
+  {
+    "chinese": "蜘蛛",
+    "english": "spider",
+    "soundmark": "/ˈspaɪdər/"
+  },
+  {
+    "chinese": "昆虫",
+    "english": "insect",
+    "soundmark": "/ˈɪnsekt/"
+  },
+  {
+    "chinese": "网",
+    "english": "web",
+    "soundmark": "/web/"
+  },
+  {
+    "chinese": "伤害",
+    "english": "spare",
+    "soundmark": "/sper/"
+  },
+  {
+    "chinese": "破坏",
+    "english": "destroy",
+    "soundmark": "/dɪˈstrɔɪ/"
+  },
+  {
+    "chinese": "有益的",
+    "english": "beneficial",
+    "soundmark": "/ˌbenɪˈfɪʃl/"
+  },
+  {
+    "chinese": "害虫",
+    "english": "pest",
+    "soundmark": "/pest/"
+  },
+  {
+    "chinese": "生态系统",
+    "english": "ecosystem",
+    "soundmark": "/ˈiːkoʊsɪstəm/"
+  },
+  {
+    "chinese": "捕食者",
+    "english": "predator",
+    "soundmark": "/ˈpredətər/"
+  },
+  {
+    "chinese": "平衡",
+    "english": "balance",
+    "soundmark": "/ˈbæləns/"
+  },
+  {
+    "chinese": "物种",
+    "english": "species",
+    "soundmark": "/ˈspiːʃiːz/"
+  },
+  {
+    "chinese": "消灭",
+    "english": "wipe out",
+    "soundmark": "/waɪp/ /aʊt/"
+  },
+  {
+    "chinese": "数量",
+    "english": "number",
+    "soundmark": "/ˈnʌmbər/"
+  },
+  {
+    "chinese": "庄稼",
+    "english": "crop",
+    "soundmark": "/krɑːp/"
+  },
+  {
+    "chinese": "威胁",
+    "english": "threat",
+    "soundmark": "/θret/"
+  },
+  {
+    "chinese": "别伤害它",
+    "english": "spare that spider",
+    "soundmark": "/sper/ /ðæt/ /ˈspaɪdər/"
+  },
+  {
+    "chinese": "有益的昆虫",
+    "english": "beneficial insects",
+    "soundmark": "/ˌbenɪˈfɪʃl/ /ˈɪnsekts/"
+  },
+  {
+    "chinese": "捕食害虫",
+    "english": "predators of pests",
+    "soundmark": "/ˈpredətərz/ /ʌv/ /pests/"
+  },
+  {
+    "chinese": "生态平衡",
+    "english": "ecological balance",
+    "soundmark": "/ˌiːkəˈlɑːdʒɪkl/ /ˈbæləns/"
+  },
+  {
+    "chinese": "消灭物种",
+    "english": "wipe out species",
+    "soundmark": "/waɪp/ /aʊt/ /ˈspiːʃiːz/"
+  },
+  {
+    "chinese": "蜘蛛在花园里织网",
+    "english": "the spider weaves its web in the garden",
+    "soundmark": "/ðə/ /ˈspaɪdər/ /wiːvz/ /ɪts/ /web/ /ɪn/ /ðə/ /ˈɡɑːrdn/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "spider",
+        "role": "S",
+        "phonetic": "/ˈspaɪdər/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "weaves",
+        "role": "V",
+        "phonetic": "/wiːvz/",
+        "chinese": ""
+      },
+      {
+        "text": "its",
+        "role": "Det",
+        "phonetic": "/ɪts/",
+        "chinese": "它的"
+      },
+      {
+        "text": "web",
+        "role": "O",
+        "phonetic": "/web/",
+        "chinese": ""
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "garden",
+        "role": "A",
+        "phonetic": "/ˈɡɑːrdn/",
+        "chinese": "花园"
+      }
+    ]
+  },
+  {
+    "chinese": "如果没有蜘蛛世界将会被昆虫淹没",
+    "english": "if there were no spiders the world would be overrun by insects",
+    "soundmark": "/ɪf/ /ðer/ /wɜːr/ /noʊ/ /ˈspaɪdərz/ /ðə/ /wɜːrld/ /wʊd/ /biː/ /ˌoʊvərˈrʌn/ /baɪ/ /ˈɪnsekts/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "there",
+        "role": "S",
+        "phonetic": "/ðer/",
+        "chinese": "那里"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "spiders",
+        "role": "C",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "world",
+        "role": "S",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "overrun",
+        "role": "V",
+        "phonetic": "/ˌoʊvərˈrʌn/",
+        "chinese": ""
+      },
+      {
+        "text": "by",
+        "role": "P",
+        "phonetic": "/baɪ/",
+        "chinese": "通过/被/在…旁"
+      },
+      {
+        "text": "insects",
+        "role": "O",
+        "phonetic": "/ˈɪnsekts/",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "chinese": "我们应该保护蜘蛛而不是杀死它们",
+    "english": "we should protect spiders rather than kill them",
+    "soundmark": "/wiː/ /ʃʊd/ /prəˈtekt/ /ˈspaɪdərz/ /ˈræðər/ /ðæn/ /kɪl/ /ðem/",
+    "grammar": [
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "should",
+        "role": "Aux",
+        "phonetic": "/ʃʊd/",
+        "chinese": "应该"
+      },
+      {
+        "text": "protect",
+        "role": "V",
+        "phonetic": "/prəˈtekt/",
+        "chinese": "保护"
+      },
+      {
+        "text": "spiders",
+        "role": "O",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "rather",
+        "role": "Adv",
+        "phonetic": "/ˈræðər/",
+        "chinese": "相当/宁愿"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "kill",
+        "role": "V",
+        "phonetic": "/kɪl/",
+        "chinese": "杀"
+      },
+      {
+        "text": "them",
+        "role": "O",
+        "phonetic": "/ðem/",
+        "chinese": "他们"
+      }
+    ]
+  },
+  {
+    "chinese": "蜘蛛每年吃掉数量惊人的昆虫",
+    "english": "spiders consume a staggering number of insects each year",
+    "soundmark": "/ˈspaɪdərz/ /kənˈsuːm/ /ə/ /ˈstæɡərɪŋ/ /ˈnʌmbər/ /ʌv/ /ˈɪnsekts/ /iːtʃ/ /jɪr/",
+    "grammar": [
+      {
+        "text": "spiders",
+        "role": "S",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "consume",
+        "role": "V",
+        "phonetic": "/kənˈsuːm/",
+        "chinese": ""
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "staggering",
+        "role": "A",
+        "phonetic": "/ˈstæɡərɪŋ/",
+        "chinese": ""
+      },
+      {
+        "text": "number",
+        "role": "O",
+        "phonetic": "/ˈnʌmbər/",
+        "chinese": "数字"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "insects",
+        "role": "O",
+        "phonetic": "/ˈɪnsekts/",
+        "chinese": ""
+      },
+      {
+        "text": "each",
+        "role": "Det",
+        "phonetic": "/iːtʃ/",
+        "chinese": "每个"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "我真希望人们能意识到蜘蛛的重要性",
+    "english": "I wish people would realize the importance of spiders",
+    "soundmark": "/aɪ/ /wɪʃ/ /ˈpiːpl/ /wʊd/ /ˈriːəlaɪz/ /ði/ /ɪmˈpɔːrtns/ /ʌv/ /ˈspaɪdərz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "wish",
+        "role": "V",
+        "phonetic": "/wɪʃ/",
+        "chinese": "希望/祝愿"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "realize",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪz/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ði/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "importance",
+        "role": "O",
+        "phonetic": "/ɪmˈpɔːrtns/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "spiders",
+        "role": "O",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      }
+    ]
+  },
+  {
+    "chinese": "要是没有蜘蛛我们的庄稼就会被毁掉",
+    "english": "if it were not for spiders our crops would be destroyed",
+    "soundmark": "/ɪf/ /ɪt/ /wɜːr/ /nɑːt/ /fɔːr/ /ˈspaɪdərz/ /aʊr/ /krɑːps/ /wʊd/ /biː/ /dɪˈstrɔɪd/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "it",
+        "role": "S",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "were",
+        "role": "Lv",
+        "phonetic": "/wɜːr/",
+        "chinese": "是（过去式）"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "spiders",
+        "role": "O",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "our",
+        "role": "Det",
+        "phonetic": "/aʊr/",
+        "chinese": "我们的"
+      },
+      {
+        "text": "crops",
+        "role": "S",
+        "phonetic": "/krɑːps/",
+        "chinese": ""
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Aux",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "destroyed",
+        "role": "V",
+        "phonetic": "/dɪˈstrɔɪd/",
+        "chinese": "破坏"
+      }
+    ]
+  },
+  {
+    "chinese": "我们惧怕蜘蛛却没有意识到它们对自然环境有多大的贡献",
+    "english": "we fear spiders without realizing how much they contribute to the natural environment",
+    "soundmark": "/wiː/ /fɪr/ /ˈspaɪdərz/ /wɪˈðaʊt/ /ˈriːəlaɪzɪŋ/ /haʊ/ /mʌtʃ/ /ðeɪ/ /kənˈtrɪbjuːt/ /tuː/ /ðə/ /ˈnætʃrəl/ /ɪnˈvaɪrənmənt/",
+    "grammar": [
+      {
+        "text": "we",
+        "role": "S",
+        "phonetic": "/wiː/",
+        "chinese": "我们"
+      },
+      {
+        "text": "fear",
+        "role": "V",
+        "phonetic": "/fɪr/",
+        "chinese": "恐惧"
+      },
+      {
+        "text": "spiders",
+        "role": "O",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "without",
+        "role": "P",
+        "phonetic": "/wɪˈðaʊt/",
+        "chinese": "没有"
+      },
+      {
+        "text": "realizing",
+        "role": "V",
+        "phonetic": "/ˈriːəlaɪzɪŋ/",
+        "chinese": "意识到"
+      },
+      {
+        "text": "how",
+        "role": "Adv",
+        "phonetic": "/haʊ/",
+        "chinese": "怎么"
+      },
+      {
+        "text": "much",
+        "role": "Adv",
+        "phonetic": "/mʌtʃ/",
+        "chinese": "很多"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "contribute",
+        "role": "V",
+        "phonetic": "/kənˈtrɪbjuːt/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "natural",
+        "role": "A",
+        "phonetic": "/ˈnætʃrəl/",
+        "chinese": "自然的"
+      },
+      {
+        "text": "environment",
+        "role": "O",
+        "phonetic": "/ɪnˈvaɪrənmənt/",
+        "chinese": "环境"
+      }
+    ]
+  },
+  {
+    "chinese": "科学家估算蜘蛛每年消灭的昆虫相当于全人类的体重",
+    "english": "scientists estimate that spiders destroy a weight of insects equivalent to that of all human beings each year",
+    "soundmark": "/ˈsaɪəntɪsts/ /ˈestɪmeɪt/ /ðæt/ /ˈspaɪdərz/ /dɪˈstrɔɪ/ /ə/ /weɪt/ /ʌv/ /ˈɪnsekts/ /ɪˈkwɪvələnt/ /tuː/ /ðæt/ /ʌv/ /ɔːl/ /ˈhjuːmən/ /ˈbiːɪŋz/ /iːtʃ/ /jɪr/",
+    "grammar": [
+      {
+        "text": "scientists",
+        "role": "S",
+        "phonetic": "/ˈsaɪəntɪsts/",
+        "chinese": ""
+      },
+      {
+        "text": "estimate",
+        "role": "V",
+        "phonetic": "/ˈestɪmeɪt/",
+        "chinese": ""
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "spiders",
+        "role": "S",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "destroy",
+        "role": "V",
+        "phonetic": "/dɪˈstrɔɪ/",
+        "chinese": "破坏"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "weight",
+        "role": "O",
+        "phonetic": "/weɪt/",
+        "chinese": "重量"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "insects",
+        "role": "O",
+        "phonetic": "/ˈɪnsekts/",
+        "chinese": ""
+      },
+      {
+        "text": "equivalent",
+        "role": "C",
+        "phonetic": "/ɪˈkwɪvələnt/",
+        "chinese": ""
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "that",
+        "role": "O",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "all",
+        "role": "Det",
+        "phonetic": "/ɔːl/",
+        "chinese": "所有的"
+      },
+      {
+        "text": "human",
+        "role": "A",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "beings",
+        "role": "O",
+        "phonetic": "/ˈbiːɪŋz/",
+        "chinese": "是（进行时）"
+      },
+      {
+        "text": "each",
+        "role": "Det",
+        "phonetic": "/iːtʃ/",
+        "chinese": "每个"
+      },
+      {
+        "text": "year",
+        "role": "A",
+        "phonetic": "/jɪr/",
+        "chinese": "年"
+      }
+    ]
+  },
+  {
+    "chinese": "你能想象一个没有蜘蛛的世界会是什么样子吗",
+    "english": "can you imagine what a world without spiders would be like",
+    "soundmark": "/kæn/ /juː/ /ɪˈmædʒɪn/ /wʌt/ /ə/ /wɜːrld/ /wɪˈðaʊt/ /ˈspaɪdərz/ /wʊd/ /biː/ /laɪk/",
+    "grammar": [
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "imagine",
+        "role": "V",
+        "phonetic": "/ɪˈmædʒɪn/",
+        "chinese": "想象"
+      },
+      {
+        "text": "what",
+        "role": "S",
+        "phonetic": "/wʌt/",
+        "chinese": "什么"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "world",
+        "role": "S",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "without",
+        "role": "P",
+        "phonetic": "/wɪˈðaʊt/",
+        "chinese": "没有"
+      },
+      {
+        "text": "spiders",
+        "role": "O",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "like",
+        "role": "C",
+        "phonetic": "/laɪk/",
+        "chinese": "喜欢"
+      }
+    ]
+  },
+  {
+    "chinese": "如果我看到蜘蛛我会把它放到外面去而不是踩死它",
+    "english": "if I see a spider I will put it outside rather than crush it",
+    "soundmark": "/ɪf/ /aɪ/ /siː/ /ə/ /ˈspaɪdər/ /aɪ/ /wɪl/ /pʊt/ /ɪt/ /ˌaʊtˈsaɪd/ /ˈræðər/ /ðæn/ /krʌʃ/ /ɪt/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "see",
+        "role": "V",
+        "phonetic": "/siː/",
+        "chinese": "看见"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "spider",
+        "role": "O",
+        "phonetic": "/ˈspaɪdər/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "Aux",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "put",
+        "role": "V",
+        "phonetic": "/pʊt/",
+        "chinese": "放"
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      },
+      {
+        "text": "outside",
+        "role": "A",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "chinese": "在…外面"
+      },
+      {
+        "text": "rather",
+        "role": "Adv",
+        "phonetic": "/ˈræðər/",
+        "chinese": "相当/宁愿"
+      },
+      {
+        "text": "than",
+        "role": "P",
+        "phonetic": "/ðæn/",
+        "chinese": "比"
+      },
+      {
+        "text": "crush",
+        "role": "V",
+        "phonetic": "/krʌʃ/",
+        "chinese": ""
+      },
+      {
+        "text": "it",
+        "role": "O",
+        "phonetic": "/ɪt/",
+        "chinese": "它"
+      }
+    ]
+  },
+  {
+    "chinese": "蜘蛛不是昆虫尽管许多人以为它们是",
+    "english": "spiders are not insects though many people think they are",
+    "soundmark": "/ˈspaɪdərz/ /ɑːr/ /nɑːt/ /ˈɪnsekts/ /ðoʊ/ /ˈmeni/ /ˈpiːpl/ /θɪŋk/ /ðeɪ/ /ɑːr/",
+    "grammar": [
+      {
+        "text": "spiders",
+        "role": "S",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      },
+      {
+        "text": "not",
+        "role": "Neg",
+        "phonetic": "/nɑːt/",
+        "chinese": "不"
+      },
+      {
+        "text": "insects",
+        "role": "C",
+        "phonetic": "/ˈɪnsekts/",
+        "chinese": ""
+      },
+      {
+        "text": "though",
+        "role": "P",
+        "phonetic": "/ðoʊ/",
+        "chinese": "虽然/不过"
+      },
+      {
+        "text": "many",
+        "role": "Det",
+        "phonetic": "/ˈmeni/",
+        "chinese": "许多"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "think",
+        "role": "V",
+        "phonetic": "/θɪŋk/",
+        "chinese": "想/认为"
+      },
+      {
+        "text": "they",
+        "role": "S",
+        "phonetic": "/ðeɪ/",
+        "chinese": "他们"
+      },
+      {
+        "text": "are",
+        "role": "Lv",
+        "phonetic": "/ɑːr/",
+        "chinese": "是"
+      }
+    ]
+  },
+  {
+    "chinese": "但愿人们别再无故杀害蜘蛛了",
+    "english": "if only people would stop killing spiders for no reason",
+    "soundmark": "/ɪf/ /oʊnli/ /ˈpiːpl/ /wʊd/ /stɑːp/ /ˈkɪlɪŋ/ /ˈspaɪdərz/ /fɔːr/ /noʊ/ /ˈriːzn/",
+    "grammar": [
+      {
+        "text": "if",
+        "role": "P",
+        "phonetic": "/ɪf/",
+        "chinese": "如果"
+      },
+      {
+        "text": "only",
+        "role": "Adv",
+        "phonetic": "/oʊnli/",
+        "chinese": "只"
+      },
+      {
+        "text": "people",
+        "role": "S",
+        "phonetic": "/ˈpiːpl/",
+        "chinese": "人们"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "stop",
+        "role": "V",
+        "phonetic": "/stɑːp/",
+        "chinese": "停止"
+      },
+      {
+        "text": "killing",
+        "role": "V",
+        "phonetic": "/ˈkɪlɪŋ/",
+        "chinese": "杀"
+      },
+      {
+        "text": "spiders",
+        "role": "O",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "for",
+        "role": "P",
+        "phonetic": "/fɔːr/",
+        "chinese": "为了/对于"
+      },
+      {
+        "text": "no",
+        "role": "Det",
+        "phonetic": "/noʊ/",
+        "chinese": "没有"
+      },
+      {
+        "text": "reason",
+        "role": "O",
+        "phonetic": "/ˈriːzn/",
+        "chinese": "原因"
+      }
+    ]
+  },
+  {
+    "chinese": "我很难想象你居然会害怕一只小蜘蛛",
+    "english": "I can hardly imagine that you would be afraid of a small spider",
+    "soundmark": "/aɪ/ /kæn/ /ˈhɑːrdli/ /ɪˈmædʒɪn/ /ðæt/ /juː/ /wʊd/ /biː/ /əˈfreɪd/ /ʌv/ /ə/ /smɔːl/ /ˈspaɪdər/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "can",
+        "role": "Aux",
+        "phonetic": "/kæn/",
+        "chinese": "能"
+      },
+      {
+        "text": "hardly",
+        "role": "Adv",
+        "phonetic": "/ˈhɑːrdli/",
+        "chinese": "几乎不"
+      },
+      {
+        "text": "imagine",
+        "role": "V",
+        "phonetic": "/ɪˈmædʒɪn/",
+        "chinese": "想象"
+      },
+      {
+        "text": "that",
+        "role": "P",
+        "phonetic": "/ðæt/",
+        "chinese": "那个"
+      },
+      {
+        "text": "you",
+        "role": "S",
+        "phonetic": "/juː/",
+        "chinese": "你/你们"
+      },
+      {
+        "text": "would",
+        "role": "Aux",
+        "phonetic": "/wʊd/",
+        "chinese": "将会"
+      },
+      {
+        "text": "be",
+        "role": "Lv",
+        "phonetic": "/biː/",
+        "chinese": "是"
+      },
+      {
+        "text": "afraid",
+        "role": "C",
+        "phonetic": "/əˈfreɪd/",
+        "chinese": "害怕的"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "small",
+        "role": "A",
+        "phonetic": "/smɔːl/",
+        "chinese": "小的"
+      },
+      {
+        "text": "spider",
+        "role": "O",
+        "phonetic": "/ˈspaɪdər/",
+        "chinese": "蜘蛛"
+      }
+    ]
+  },
+  {
+    "chinese": "每英亩土地上的蜘蛛数量比人类总人口还要多",
+    "english": "the number of spiders on every acre of land exceeds the total human population",
+    "soundmark": "/ðə/ /ˈnʌmbər/ /ʌv/ /ˈspaɪdərz/ /ɑːn/ /ˈevri/ /ˈeɪkər/ /ʌv/ /lænd/ /ɪkˈsiːdz/ /ðə/ /ˈtoʊtl/ /ˈhjuːmən/ /ˌpɑːpjuˈleɪʃn/",
+    "grammar": [
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "number",
+        "role": "S",
+        "phonetic": "/ˈnʌmbər/",
+        "chinese": "数字"
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "spiders",
+        "role": "O",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      },
+      {
+        "text": "on",
+        "role": "P",
+        "phonetic": "/ɑːn/",
+        "chinese": "在…上"
+      },
+      {
+        "text": "every",
+        "role": "Det",
+        "phonetic": "/ˈevri/",
+        "chinese": "每个"
+      },
+      {
+        "text": "acre",
+        "role": "O",
+        "phonetic": "/ˈeɪkər/",
+        "chinese": ""
+      },
+      {
+        "text": "of",
+        "role": "P",
+        "phonetic": "/ʌv/",
+        "chinese": "…的"
+      },
+      {
+        "text": "land",
+        "role": "O",
+        "phonetic": "/lænd/",
+        "chinese": "着陆/土地"
+      },
+      {
+        "text": "exceeds",
+        "role": "V",
+        "phonetic": "/ɪkˈsiːdz/",
+        "chinese": ""
+      },
+      {
+        "text": "the",
+        "role": "Art",
+        "phonetic": "/ðə/",
+        "chinese": "这个/那个"
+      },
+      {
+        "text": "total",
+        "role": "A",
+        "phonetic": "/ˈtoʊtl/",
+        "chinese": ""
+      },
+      {
+        "text": "human",
+        "role": "A",
+        "phonetic": "/ˈhjuːmən/",
+        "chinese": "人类"
+      },
+      {
+        "text": "population",
+        "role": "O",
+        "phonetic": "/ˌpɑːpjuˈleɪʃn/",
+        "chinese": "人口"
+      }
+    ]
+  },
+  {
+    "chinese": "我希望我永远不用生活在没有蜘蛛的世界里",
+    "english": "I hope I will never have to live in a world without spiders",
+    "soundmark": "/aɪ/ /hoʊp/ /aɪ/ /wɪl/ /ˈnevər/ /hæv/ /tuː/ /lɪv/ /ɪn/ /ə/ /wɜːrld/ /wɪˈðaʊt/ /ˈspaɪdərz/",
+    "grammar": [
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "hope",
+        "role": "V",
+        "phonetic": "/hoʊp/",
+        "chinese": "希望"
+      },
+      {
+        "text": "I",
+        "role": "S",
+        "phonetic": "/aɪ/",
+        "chinese": "我"
+      },
+      {
+        "text": "will",
+        "role": "Aux",
+        "phonetic": "/wɪl/",
+        "chinese": "将/意志"
+      },
+      {
+        "text": "never",
+        "role": "Adv",
+        "phonetic": "/ˈnevər/",
+        "chinese": "从不"
+      },
+      {
+        "text": "have",
+        "role": "V",
+        "phonetic": "/hæv/",
+        "chinese": "有/助动词"
+      },
+      {
+        "text": "to",
+        "role": "P",
+        "phonetic": "/tuː/",
+        "chinese": "到/向"
+      },
+      {
+        "text": "live",
+        "role": "V",
+        "phonetic": "/lɪv/",
+        "chinese": "生活/住"
+      },
+      {
+        "text": "in",
+        "role": "P",
+        "phonetic": "/ɪn/",
+        "chinese": "在…里"
+      },
+      {
+        "text": "a",
+        "role": "Art",
+        "phonetic": "/ə/",
+        "chinese": "一个"
+      },
+      {
+        "text": "world",
+        "role": "O",
+        "phonetic": "/wɜːrld/",
+        "chinese": "世界"
+      },
+      {
+        "text": "without",
+        "role": "P",
+        "phonetic": "/wɪˈðaʊt/",
+        "chinese": "没有"
+      },
+      {
+        "text": "spiders",
+        "role": "O",
+        "phonetic": "/ˈspaɪdərz/",
+        "chinese": "蜘蛛"
+      }
+    ]
+  },
+  {
+    "chinese": "织网",
+    "english": "weave",
+    "soundmark": "/wiːv/"
+  },
+  {
+    "chinese": "消耗",
+    "english": "consume",
+    "soundmark": "/kənˈsuːm/"
+  },
+  {
+    "chinese": "惧怕",
+    "english": "fear",
+    "soundmark": "/fɪr/"
+  },
+  {
+    "chinese": "贡献",
+    "english": "contribute",
+    "soundmark": "/kənˈtrɪbjuːt/"
+  },
+  {
+    "chinese": "估算",
+    "english": "estimate",
+    "soundmark": "/ˈestɪmeɪt/"
+  },
+  {
+    "chinese": "等同于",
+    "english": "equivalent",
+    "soundmark": "/ɪˈkwɪvələnt/"
+  },
+  {
+    "chinese": "重要性",
+    "english": "importance",
+    "soundmark": "/ɪmˈpɔːrtns/"
+  },
+  {
+    "chinese": "自然",
+    "english": "natural",
+    "soundmark": "/ˈnætʃrəl/"
+  },
+  {
+    "chinese": "破坏",
+    "english": "destroy",
+    "soundmark": "/dɪˈstrɔɪ/"
+  },
+  {
+    "chinese": "保护",
+    "english": "protect",
+    "soundmark": "/prəˈtekt/"
+  }
+]
