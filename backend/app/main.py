@@ -4,11 +4,8 @@ LinguaPulse API 服务入口
 启动：uv run uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 """
 
-import os
-
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.staticfiles import StaticFiles
 
 from app.api import (
     auth_router,
@@ -40,10 +37,6 @@ app.include_router(courses_router)
 app.include_router(game_router)
 app.include_router(tts_settings_stats_router)
 app.include_router(admin_router)
-
-# 静态文件（TTS 音频）
-os.makedirs(settings.AUDIO_DIR, exist_ok=True)
-app.mount("/api/tts/audio", StaticFiles(directory=settings.AUDIO_DIR), name="tts_audio")
 
 
 @app.get("/api/health")

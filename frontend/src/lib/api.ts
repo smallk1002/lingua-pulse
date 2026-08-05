@@ -209,17 +209,26 @@ export async function endSession(
 
 // ---- TTS ----
 
-export function getTtsUrl(text: string, voice = "en-US-JennyNeural"): string {
-  return `${BASE_URL}/api/tts/synthesize?text=${encodeURIComponent(text)}&voice=${encodeURIComponent(voice)}`;
+export function getTtsUrl(text: string, voice = "en-US-JennyNeural", speed = "+15%"): string {
+  return `${BASE_URL}/api/tts/synthesize?text=${encodeURIComponent(text)}&voice=${encodeURIComponent(voice)}&speed=${encodeURIComponent(speed)}`;
 }
 
-export async function batchTTS(
-  statementIds: string[]
-): Promise<BatchTTSResponse> {
-  return request<BatchTTSResponse>("/api/tts/batch", {
-    method: "POST",
-    body: JSON.stringify({ statement_ids: statementIds }),
-  });
+/**
+ * 预加载 TTS 音频到浏览器 HTTP 缓存（fire-and-forget）。
+ *
+ * 服务端返回 MP3 时带 Cache-Control: max-age=3600，
+ * 浏览器会缓存请求结果。后续 Audio 元素请求同一 URL
+ * 直接从浏览器缓存秒开，无需再次请求服务器。
+ *
+ * 滑动窗口策略：
+ *   - 首次进入课程时预加载前 5 个单词
+ *   - 每进入新单词时预加载当前 + 后 4 个
+ *   - 不占服务端磁盘，不占前端内存（浏览器管控）
+ */
+export function preloadTts(text: string, voice?: string, speed?: string): void {
+  const url = getTtsUrl(text, voice, speed);
+  // 直接用 fetch 触发下载 → 浏览器 HTTP 缓存持久化
+  fetch(url).catch(() => {});
 }
 
 // ---- 统计 ----

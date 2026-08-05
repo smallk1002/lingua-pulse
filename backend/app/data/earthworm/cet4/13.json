@@ -1,433 +1,1673 @@
 [
   {
-    "english": "career",
-    "chinese": "职业/事业",
-    "soundmark": "/kəˈrɪər/",
+    "chinese": "包含，容纳；等于",
+    "english": "contain",
+    "soundmark": "/kən'ten/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：职业生涯"
+        "label": "v",
+        "text": "v：包含，容纳；等于"
       }
     ]
   },
   {
-    "english": "profession",
-    "chinese": "专业/职业",
-    "soundmark": "/prəˈfeʃn/",
+    "chinese": "容器；集装箱",
+    "english": "container",
+    "soundmark": "/kən'tenɚ/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：专业、行业"
+        "label": "n",
+        "text": "n：容器；集装箱"
       }
     ]
   },
   {
-    "english": "She chose teaching as her profession.",
-    "chinese": "她选择教书作为职业。",
-    "soundmark": "/ʃiː tʃəʊz ˈtiːtʃɪŋ æz hɜːr prəˈfeʃn/",
+    "chinese": "轻蔑；藐视；受辱",
+    "english": "contempt",
+    "soundmark": "/kən'tɛmpt/",
     "grammar": [
       {
-        "text": "She",
-        "chinese": "她"
-      },
-      {
-        "text": "chose"
-      },
-      {
-        "text": "teaching",
-        "chinese": "教"
-      },
-      {
-        "text": "as",
-        "chinese": "作为/如同"
-      },
-      {
-        "text": "her",
-        "chinese": "她的"
-      },
-      {
-        "text": "profession.",
-        "chinese": "专业/职业"
+        "label": "n",
+        "text": "n：轻蔑；藐视；受辱"
       }
     ]
   },
   {
-    "english": "opportunity",
-    "chinese": "机会",
-    "soundmark": "/ˌɒpəˈtjuːnəti/",
+    "chinese": "大陆；陆地；洲",
+    "english": "continent",
+    "soundmark": "/'kɑntɪnənt/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：机会"
+        "label": "n",
+        "text": "n：大陆；陆地；洲"
       }
     ]
   },
   {
-    "english": "challenge",
-    "chinese": "挑战",
-    "soundmark": "/ˈtʃælɪndʒ/",
+    "chinese": "不断的；连续的",
+    "english": "continual",
+    "soundmark": "/kən'tɪnjuəl/",
     "grammar": [
       {
-        "label": "n./v.",
-        "text": "名词/动词：挑战"
+        "label": "adj",
+        "text": "adj：不断的；连续的"
       }
     ]
   },
   {
-    "english": "Every job has its challenges.",
-    "chinese": "每份工作都有它的挑战。",
-    "soundmark": "/ˈevri dʒɒb hæz ɪts ˈtʃælɪndʒɪz/",
+    "chinese": "继续，连续；延伸",
+    "english": "continue",
+    "soundmark": "/kən'tɪnju/",
     "grammar": [
       {
-        "text": "Every",
-        "chinese": "每个"
-      },
-      {
-        "text": "job"
-      },
-      {
-        "text": "has",
-        "chinese": "有"
-      },
-      {
-        "text": "its",
-        "chinese": "它的"
-      },
-      {
-        "text": "challenges.",
-        "chinese": "挑战"
+        "label": "v",
+        "text": "v：继续，连续；延伸"
       }
     ]
   },
   {
-    "english": "promotion",
-    "chinese": "晋升",
-    "soundmark": "/prəˈməʊʃn/",
+    "chinese": "连续不断的，持续的",
+    "english": "continuous",
+    "soundmark": "/kən'tɪnjʊəs/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：晋升"
+        "label": "adj",
+        "text": "adj：连续不断的，持续的"
       }
     ]
   },
   {
-    "english": "He got a promotion after years of hard work.",
-    "chinese": "经过多年的努力工作，他获得了晋升。",
-    "soundmark": "/hiː ɡɒt ə prəˈməʊʃn ˈɑːftər jɪərz əv hɑːrd wɜːrk/",
+    "chinese": "矛盾，不一致；否认",
+    "english": "contradiction",
+    "soundmark": "/,kɑntrə'dɪkʃən/",
     "grammar": [
       {
-        "text": "He",
-        "chinese": "他"
-      },
-      {
-        "text": "got"
-      },
-      {
-        "text": "a",
-        "chinese": "一个"
-      },
-      {
-        "text": "promotion",
-        "chinese": "晋升"
-      },
-      {
-        "text": "after",
-        "chinese": "在...之后"
-      },
-      {
-        "text": "years",
-        "chinese": "年"
-      },
-      {
-        "text": "of",
-        "chinese": "的"
-      },
-      {
-        "text": "hard",
-        "chinese": "硬的/困难的"
-      },
-      {
-        "text": "work.",
-        "chinese": "工作"
+        "label": "n",
+        "text": "n：矛盾，不一致；否认"
       }
     ]
   },
   {
-    "english": "salary",
-    "chinese": "薪水",
-    "soundmark": "/ˈsæləri/",
+    "chinese": "相反的；相反",
+    "english": "contrary",
+    "soundmark": "/'kɑntrɛri/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：薪水（月薪）"
+        "label": "n，adj",
+        "text": "n，adj：相反的；相反"
       }
     ]
   },
   {
-    "english": "resume",
-    "chinese": "简历",
-    "soundmark": "/ˈrezjumeɪ/",
+    "chinese": "控制，克制；控制",
+    "english": "control",
+    "soundmark": "/kən'trol/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：简历"
+        "label": "v，n",
+        "text": "v，n：控制，克制；控制"
       }
     ]
   },
   {
-    "english": "You should update your resume regularly.",
-    "chinese": "你应该定期更新你的简历。",
-    "soundmark": "/juː ʃʊd ʌpˈdeɪt jɔːr ˈrezjumeɪ ˈreɡjʊləli/",
+    "chinese": "便利，方便；厕所",
+    "english": "convenience",
+    "soundmark": "/kən'vinɪəns/",
     "grammar": [
       {
-        "text": "You",
-        "chinese": "你/你们"
-      },
-      {
-        "text": "should",
-        "chinese": "应该"
-      },
-      {
-        "text": "update"
-      },
-      {
-        "text": "your",
-        "chinese": "你的"
-      },
-      {
-        "text": "resume",
-        "chinese": "简历"
-      },
-      {
-        "text": "regularly.",
-        "chinese": "定期的/常规的"
+        "label": "n",
+        "text": "n：便利，方便；厕所"
       }
     ]
   },
   {
-    "english": "interview",
-    "chinese": "面试",
-    "soundmark": "/ˈɪntərvjuː/",
+    "chinese": "习俗，惯例；公约",
+    "english": "convention",
+    "soundmark": "/kən'vɛnʃən/",
     "grammar": [
       {
-        "label": "n./v.",
-        "text": "名词/动词：面试"
+        "label": "n",
+        "text": "n：习俗，惯例；公约"
       }
     ]
   },
   {
-    "english": "I have a job interview tomorrow morning.",
-    "chinese": "我明天早上有一个工作面试。",
-    "soundmark": "/aɪ hæv ə dʒɒb ˈɪntərvjuː təˈmɒrəʊ ˈmɔːrnɪŋ/",
+    "chinese": "会话，非正式会谈",
+    "english": "conversation",
+    "soundmark": "/,kɑnvɚ'seʃən/",
     "grammar": [
       {
-        "text": "I",
-        "chinese": "我"
-      },
-      {
-        "text": "have",
-        "chinese": "有"
-      },
-      {
-        "text": "a",
-        "chinese": "一个"
-      },
-      {
-        "text": "job"
-      },
-      {
-        "text": "interview",
-        "chinese": "面试"
-      },
-      {
-        "text": "tomorrow"
-      },
-      {
-        "text": "morning."
+        "label": "n",
+        "text": "n：会话，非正式会谈"
       }
     ]
   },
   {
-    "english": "qualification",
-    "chinese": "资质/资格",
-    "soundmark": "/ˌkwɒlɪfɪˈkeɪʃn/",
+    "chinese": "相反地",
+    "english": "conversely",
+    "soundmark": "/'kɑnvɝsli/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：资格、条件"
+        "label": "adv",
+        "text": "adv：相反地"
       }
     ]
   },
   {
-    "english": "What qualifications are required for this job?",
-    "chinese": "这份工作需要什么资格？",
-    "soundmark": "/wɒt ˌkwɒlɪfɪˈkeɪʃnz ɑːr rɪˈkwaɪərd fɔːr ðɪs dʒɒb/",
+    "chinese": "转变，转化；改变",
+    "english": "conversion",
+    "soundmark": "/kən'vɝʒn/",
     "grammar": [
       {
-        "text": "What",
-        "chinese": "什么"
-      },
-      {
-        "text": "qualifications",
-        "chinese": "资质/资格"
-      },
-      {
-        "text": "are",
-        "chinese": "是"
-      },
-      {
-        "text": "required",
-        "chinese": "要求/需要"
-      },
-      {
-        "text": "for",
-        "chinese": "为了/对于"
-      },
-      {
-        "text": "this",
-        "chinese": "这个"
-      },
-      {
-        "text": "job?"
+        "label": "n",
+        "text": "n：转变，转化；改变"
       }
     ]
   },
   {
-    "english": "achievement",
-    "chinese": "成就",
-    "soundmark": "/əˈtʃiːvmənt/",
+    "chinese": "使转变；使改变",
+    "english": "convert",
+    "soundmark": "/kən'vɝt/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：成就"
+        "label": "v",
+        "text": "v：使转变；使改变"
       }
     ]
   },
   {
-    "english": "experience",
-    "chinese": "经验/经历",
-    "soundmark": "/ɪkˈspɪəriəns/",
+    "chinese": "烹调，煮；烧菜",
+    "english": "cook",
+    "soundmark": "/kʊk/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：经验（不可数）/经历（可数）"
+        "label": "v",
+        "text": "v：烹调，煮；烧菜"
       }
     ]
   },
   {
-    "english": "Work experience is more important than academic grades.",
-    "chinese": "工作经验比学术成绩更重要。",
-    "soundmark": "/wɜːrk ɪkˈspɪəriəns ɪz mɔːr ɪmˈpɔːrtnt ðæn ˌækəˈdemɪk ɡreɪdz/",
+    "chinese": "凉的，冷静的",
+    "english": "cool",
+    "soundmark": "/kul/",
     "grammar": [
       {
-        "text": "Work",
-        "chinese": "工作"
-      },
-      {
-        "text": "experience",
-        "chinese": "经验/经历"
-      },
-      {
-        "text": "is",
-        "chinese": "是"
-      },
-      {
-        "text": "more",
-        "chinese": "更多"
-      },
-      {
-        "text": "important",
-        "chinese": "重要的"
-      },
-      {
-        "text": "than",
-        "chinese": "比"
-      },
-      {
-        "text": "academic"
-      },
-      {
-        "text": "grades.",
-        "chinese": "年级/成绩"
+        "label": "adj",
+        "text": "adj：凉的，冷静的"
       }
     ]
   },
   {
-    "english": "It is never too late to change your career path.",
-    "chinese": "改变职业道路永远不会太晚。",
-    "soundmark": "/ɪt ɪz ˈnevər tuː leɪt tuː tʃeɪndʒ jɔːr kəˈrɪər pɑːθ/",
+    "chinese": "合作，协作；配合",
+    "english": "cooperate",
+    "soundmark": "/koʊˈɑːpəreɪt/",
     "grammar": [
       {
-        "text": "It",
-        "chinese": "它"
-      },
-      {
-        "text": "is",
-        "chinese": "是"
-      },
-      {
-        "text": "never",
-        "chinese": "从不"
-      },
-      {
-        "text": "too",
-        "chinese": "也/太"
-      },
-      {
-        "text": "late",
-        "chinese": "晚的/迟到的"
-      },
-      {
-        "text": "to",
-        "chinese": "去/到"
-      },
-      {
-        "text": "change",
-        "chinese": "变化/改变"
-      },
-      {
-        "text": "your",
-        "chinese": "你的"
-      },
-      {
-        "text": "career",
-        "chinese": "职业/事业"
-      },
-      {
-        "text": "path."
+        "label": "v",
+        "text": "v：合作，协作；配合"
       }
     ]
   },
   {
-    "english": "Success depends on hard work and determination.",
-    "chinese": "成功取决于努力和决心。",
-    "soundmark": "/səkˈses dɪˈpendz ɒn hɑːrd wɜːrk ænd dɪˌtɜːrmɪˈneɪʃn/",
+    "chinese": "使协调，调节",
+    "english": "coordinate",
+    "soundmark": "/ko'ɔrdɪnet/",
     "grammar": [
       {
-        "text": "Success",
-        "chinese": "成功"
-      },
+        "label": "v",
+        "text": "v：使协调，调节"
+      }
+    ]
+  },
+  {
+    "chinese": "对付，应付",
+    "english": "cope",
+    "soundmark": "/kop/",
+    "grammar": [
       {
-        "text": "depends"
-      },
+        "label": "v",
+        "text": "v：对付，应付"
+      }
+    ]
+  },
+  {
+    "chinese": "铜；铜币，铜制器",
+    "english": "copper",
+    "soundmark": "/'kɑpɚ/",
+    "grammar": [
       {
-        "text": "on",
-        "chinese": "在...上"
-      },
+        "label": "n",
+        "text": "n：铜；铜币，铜制器"
+      }
+    ]
+  },
+  {
+    "chinese": "抄件；抄写，复制",
+    "english": "copy",
+    "soundmark": "/'kɑpi/",
+    "grammar": [
       {
-        "text": "hard",
-        "chinese": "硬的/困难的"
-      },
+        "label": "v，n",
+        "text": "v，n：抄件；抄写，复制"
+      }
+    ]
+  },
+  {
+    "chinese": "细绳，粗线，索",
+    "english": "cord",
+    "soundmark": "/kɔrd/",
+    "grammar": [
       {
-        "text": "work",
-        "chinese": "工作"
-      },
+        "label": "n",
+        "text": "n：细绳，粗线，索"
+      }
+    ]
+  },
+  {
+    "chinese": "真诚的，诚恳的",
+    "english": "cordial",
+    "soundmark": "/'kɔrdʒəl/",
+    "grammar": [
       {
-        "text": "and",
-        "chinese": "和"
-      },
+        "label": "adj",
+        "text": "adj：真诚的，诚恳的"
+      }
+    ]
+  },
+  {
+    "chinese": "果实的心，核心",
+    "english": "core",
+    "soundmark": "/kɔr/",
+    "grammar": [
       {
-        "text": "determination."
+        "label": "n",
+        "text": "n：果实的心，核心"
+      }
+    ]
+  },
+  {
+    "chinese": "谷物；(英)小麦",
+    "english": "corn",
+    "soundmark": "/kɔrn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：谷物；(英)小麦"
+      }
+    ]
+  },
+  {
+    "chinese": "角；犄角；边远地区",
+    "english": "corner",
+    "soundmark": "/'kɔrnɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：角；犄角；边远地区"
+      }
+    ]
+  },
+  {
+    "chinese": "公司，企业；社团",
+    "english": "corporation",
+    "soundmark": "/,kɔrpə'reʃən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：公司，企业；社团"
+      }
+    ]
+  },
+  {
+    "chinese": "正确的；纠正",
+    "english": "correct",
+    "soundmark": "/kə'rɛkt/",
+    "grammar": [
+      {
+        "label": "v，adj",
+        "text": "v，adj：正确的；纠正"
+      }
+    ]
+  },
+  {
+    "chinese": "改正，纠正，修改",
+    "english": "correction",
+    "soundmark": "/kə'rɛkʃən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：改正，纠正，修改"
+      }
+    ]
+  },
+  {
+    "chinese": "相符合；相当",
+    "english": "correspond",
+    "soundmark": "/,kɔrə'spɑnd/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：相符合；相当"
+      }
+    ]
+  },
+  {
+    "chinese": "通信者；通讯员",
+    "english": "correspondent",
+    "soundmark": "/,kɔrə'spɑndənt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：通信者；通讯员"
+      }
+    ]
+  },
+  {
+    "chinese": "相应的；符合的",
+    "english": "corresponding",
+    "soundmark": "/,kɔrə'spɑndɪŋ/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：相应的；符合的"
+      }
+    ]
+  },
+  {
+    "chinese": "走廊，回廊，通路",
+    "english": "corridor",
+    "soundmark": "/'kɔrɪdɔr/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：走廊，回廊，通路"
+      }
+    ]
+  },
+  {
+    "chinese": "价格，代价；成本",
+    "english": "cost",
+    "soundmark": "/kɔst/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：价格，代价；成本"
+      }
+    ]
+  },
+  {
+    "chinese": "昂贵的；价值高的",
+    "english": "costly",
+    "soundmark": "/'kɔstli/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：昂贵的；价值高的"
+      }
+    ]
+  },
+  {
+    "chinese": "村舍，小屋",
+    "english": "cottage",
+    "soundmark": "/'kɑtɪdʒ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：村舍，小屋"
+      }
+    ]
+  },
+  {
+    "chinese": "棉；棉线；棉布",
+    "english": "cotton",
+    "soundmark": "/'kɑtn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：棉；棉线；棉布"
+      }
+    ]
+  },
+  {
+    "chinese": "咳，咳嗽；咳嗽",
+    "english": "cough",
+    "soundmark": "/kɔf/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：咳，咳嗽；咳嗽"
+      }
+    ]
+  },
+  {
+    "chinese": "v(can的过去式)",
+    "english": "could",
+    "soundmark": "/kʊd/",
+    "grammar": [
+      {
+        "label": "aux",
+        "text": "aux：v(can的过去式)"
+      }
+    ]
+  },
+  {
+    "chinese": "计算；数，计数",
+    "english": "count",
+    "soundmark": "/kaʊnt/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：计算；数，计数"
+      }
+    ]
+  },
+  {
+    "chinese": "柜台；计数器",
+    "english": "counter",
+    "soundmark": "/'kaʊntɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：柜台；计数器"
+      }
+    ]
+  },
+  {
+    "chinese": "国家，国土；农村",
+    "english": "country",
+    "soundmark": "/'kʌntri/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：国家，国土；农村"
+      }
+    ]
+  },
+  {
+    "chinese": "乡下，农村",
+    "english": "countryside",
+    "soundmark": "/'kʌntrɪsaɪd/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：乡下，农村"
+      }
+    ]
+  },
+  {
+    "chinese": "英国的郡，美国的县",
+    "english": "county",
+    "soundmark": "/'kaʊnti/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：英国的郡，美国的县"
+      }
+    ]
+  },
+  {
+    "chinese": "勇气，胆量，胆识",
+    "english": "courage",
+    "soundmark": "/'kɝrɪdʒ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：勇气，胆量，胆识"
+      }
+    ]
+  },
+  {
+    "chinese": "课程；过程；一道菜",
+    "english": "course",
+    "soundmark": "/kɔrs/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：课程；过程；一道菜"
+      }
+    ]
+  },
+  {
+    "chinese": "法院，法庭；庭院",
+    "english": "court",
+    "soundmark": "/kɔrt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：法院，法庭；庭院"
+      }
+    ]
+  },
+  {
+    "chinese": "堂(或表)兄弟(姐妹)",
+    "english": "cousin",
+    "soundmark": "/'kʌzn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：堂(或表)兄弟(姐妹)"
+      }
+    ]
+  },
+  {
+    "chinese": "盖，包括；盖子",
+    "english": "cover",
+    "soundmark": "/'kʌvɚ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：盖，包括；盖子"
+      }
+    ]
+  },
+  {
+    "chinese": "母牛，奶牛；母兽",
+    "english": "cow",
+    "soundmark": "/kaʊ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：母牛，奶牛；母兽"
+      }
+    ]
+  },
+  {
+    "chinese": "懦夫；胆怯者",
+    "english": "coward",
+    "soundmark": "/'kaʊɚd/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：懦夫；胆怯者"
+      }
+    ]
+  },
+  {
+    "chinese": "裂缝，裂纹；爆裂",
+    "english": "crack",
+    "soundmark": "/kræk/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：裂缝，裂纹；爆裂"
+      }
+    ]
+  },
+  {
+    "chinese": "工艺；手艺，行业",
+    "english": "craft",
+    "soundmark": "/kræft/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：工艺；手艺，行业"
+      }
+    ]
+  },
+  {
+    "chinese": "起重机，摄影升降机",
+    "english": "crane",
+    "soundmark": "/kren/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：起重机，摄影升降机"
+      }
+    ]
+  },
+  {
+    "chinese": "爬，爬行",
+    "english": "crawl",
+    "soundmark": "/krɔl/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：爬，爬行"
+      }
+    ]
+  },
+  {
+    "chinese": "疯狂的，荒唐的",
+    "english": "crazy",
+    "soundmark": "/'krezi/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：疯狂的，荒唐的"
+      }
+    ]
+  },
+  {
+    "chinese": "奶油，乳脂；奶油色",
+    "english": "cream",
+    "soundmark": "/krim/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：奶油，乳脂；奶油色"
+      }
+    ]
+  },
+  {
+    "chinese": "创造；引起，产生",
+    "english": "create",
+    "soundmark": "/krɪ'et/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：创造；引起，产生"
+      }
+    ]
+  },
+  {
+    "chinese": "创造性的，创作的",
+    "english": "creative",
+    "soundmark": "/krɪ'etɪv/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：创造性的，创作的"
+      }
+    ]
+  },
+  {
+    "chinese": "生物，动物，家畜",
+    "english": "creature",
+    "soundmark": "/'kritʃɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：生物，动物，家畜"
+      }
+    ]
+  },
+  {
+    "chinese": "信用贷款；信用",
+    "english": "credit",
+    "soundmark": "/'krɛdɪt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：信用贷款；信用"
+      }
+    ]
+  },
+  {
+    "chinese": "爬行；缓慢地行进",
+    "english": "creep",
+    "soundmark": "/krip/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：爬行；缓慢地行进"
+      }
+    ]
+  },
+  {
+    "chinese": "全体船员",
+    "english": "crew",
+    "soundmark": "/krʊ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：全体船员"
+      }
+    ]
+  },
+  {
+    "chinese": "板球；蟋蟀",
+    "english": "cricket",
+    "soundmark": "/'krɪkɪt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：板球；蟋蟀"
+      }
+    ]
+  },
+  {
+    "chinese": "罪，罪行；犯罪",
+    "english": "crime",
+    "soundmark": "/kraɪm/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：罪，罪行；犯罪"
+      }
+    ]
+  },
+  {
+    "chinese": "犯人，罪犯，刑事犯",
+    "english": "criminal",
+    "soundmark": "/'krɪmɪnl/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：犯人，罪犯，刑事犯"
+      }
+    ]
+  },
+  {
+    "chinese": "跛子；残废的人",
+    "english": "cripple",
+    "soundmark": "/'krɪpl/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：跛子；残废的人"
+      }
+    ]
+  },
+  {
+    "chinese": "农作物，庄稼；一熟",
+    "english": "crop",
+    "soundmark": "/krɑp/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：农作物，庄稼；一熟"
+      }
+    ]
+  },
+  {
+    "chinese": "穿过；使交叉",
+    "english": "cross",
+    "soundmark": "/krɔs/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：穿过；使交叉"
+      }
+    ]
+  },
+  {
+    "chinese": "鸦，乌鸦；啼",
+    "english": "crow",
+    "soundmark": "/kro/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：鸦，乌鸦；啼"
+      }
+    ]
+  },
+  {
+    "chinese": "群；大众；一伙人",
+    "english": "crowd",
+    "soundmark": "/kraʊd/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：群；大众；一伙人"
+      }
+    ]
+  },
+  {
+    "chinese": "王冠，冕；花冠",
+    "english": "crown",
+    "soundmark": "/kraʊn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：王冠，冕；花冠"
+      }
+    ]
+  },
+  {
+    "chinese": "简陋的；天然的",
+    "english": "crude",
+    "soundmark": "/krud/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：简陋的；天然的"
+      }
+    ]
+  },
+  {
+    "chinese": "残忍的，残酷的",
+    "english": "cruel",
+    "soundmark": "/'kruəl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：残忍的，残酷的"
+      }
+    ]
+  },
+  {
+    "chinese": "压碎，碾碎；镇压",
+    "english": "crush",
+    "soundmark": "/krʌʃ/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：压碎，碾碎；镇压"
+      }
+    ]
+  },
+  {
+    "chinese": "面包皮；硬外皮",
+    "english": "crust",
+    "soundmark": "/krʌst/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：面包皮；硬外皮"
+      }
+    ]
+  },
+  {
+    "chinese": "哭，哭泣；叫喊",
+    "english": "cry",
+    "soundmark": "/kraɪ/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：哭，哭泣；叫喊"
+      }
+    ]
+  },
+  {
+    "chinese": "水晶，结晶体；晶粒",
+    "english": "crystal",
+    "soundmark": "/'krɪstl/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：水晶，结晶体；晶粒"
+      }
+    ]
+  },
+  {
+    "chinese": "立方形；立方",
+    "english": "cube",
+    "soundmark": "/kjʊb/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：立方形；立方"
+      }
+    ]
+  },
+  {
+    "chinese": "立方形的；立方的",
+    "english": "cubic",
+    "soundmark": "/'kjubɪk/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：立方形的；立方的"
+      }
+    ]
+  },
+  {
+    "chinese": "黄瓜",
+    "english": "cucumber",
+    "soundmark": "/'kjʊ,kʌmbɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：黄瓜"
+      }
+    ]
+  },
+  {
+    "chinese": "文化，文明；教养",
+    "english": "culture",
+    "soundmark": "/'kʌltʃɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：文化，文明；教养"
+      }
+    ]
+  },
+  {
+    "chinese": "狡猾的，狡诈的",
+    "english": "cunning",
+    "soundmark": "/'kʌnɪŋ/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：狡猾的，狡诈的"
+      }
+    ]
+  },
+  {
+    "chinese": "杯子；(一)杯；奖杯",
+    "english": "cup",
+    "soundmark": "/kʌp/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：杯子；(一)杯；奖杯"
+      }
+    ]
+  },
+  {
+    "chinese": "碗柜，碗碟橱；食橱",
+    "english": "cupboard",
+    "soundmark": "/'kʌbɚd/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：碗柜，碗碟橱；食橱"
+      }
+    ]
+  },
+  {
+    "chinese": "医治；消除；治愈",
+    "english": "cure",
+    "soundmark": "/kjʊr/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：医治；消除；治愈"
+      }
+    ]
+  },
+  {
+    "chinese": "卷毛；螺旋；卷曲",
+    "english": "curl",
+    "soundmark": "/kɝl/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：卷毛；螺旋；卷曲"
+      }
+    ]
+  },
+  {
+    "chinese": "诅咒，咒骂；天谴",
+    "english": "curse",
+    "soundmark": "/kɝs/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：诅咒，咒骂；天谴"
+      }
+    ]
+  },
+  {
+    "chinese": "帘，窗帘；幕(布)",
+    "english": "curtain",
+    "soundmark": "/'kɝtn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：帘，窗帘；幕(布)"
+      }
+    ]
+  },
+  {
+    "chinese": "曲线；弯；弄弯",
+    "english": "curve",
+    "soundmark": "/kɝv/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：曲线；弯；弄弯"
+      }
+    ]
+  },
+  {
+    "chinese": "垫子，坐垫，靠垫",
+    "english": "cushion",
+    "soundmark": "/'kʊʃən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：垫子，坐垫，靠垫"
+      }
+    ]
+  },
+  {
+    "chinese": "习惯，风俗；海关",
+    "english": "custom",
+    "soundmark": "/'kʌstəm/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：习惯，风俗；海关"
+      }
+    ]
+  },
+  {
+    "chinese": "顾客，主顾",
+    "english": "customer",
+    "soundmark": "/'kʌstəmɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：顾客，主顾"
+      }
+    ]
+  },
+  {
+    "chinese": "切，割，剪；减少",
+    "english": "cut",
+    "soundmark": "/kʌt/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：切，割，剪；减少"
+      }
+    ]
+  },
+  {
+    "chinese": "n自行车，循环",
+    "english": "cycle",
+    "soundmark": "/'saɪkl/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：n自行车，循环"
+      }
+    ]
+  },
+  {
+    "chinese": "每日的；日报",
+    "english": "daily",
+    "soundmark": "/'delɪ/",
+    "grammar": [
+      {
+        "label": "n，adj",
+        "text": "n，adj：每日的；日报"
+      }
+    ]
+  },
+  {
+    "chinese": "牛奶场；乳制品",
+    "english": "dairy",
+    "soundmark": "/'dɛri/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：牛奶场；乳制品"
+      }
+    ]
+  },
+  {
+    "chinese": "水坝，水堤；障碍物",
+    "english": "dam",
+    "soundmark": "/dæm/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：水坝，水堤；障碍物"
+      }
+    ]
+  },
+  {
+    "chinese": "损害，毁坏；损害",
+    "english": "damage",
+    "soundmark": "/'dæmɪdʒ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：损害，毁坏；损害"
+      }
+    ]
+  },
+  {
+    "chinese": "潮湿的，有湿气的",
+    "english": "damp",
+    "soundmark": "/dæmp/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：潮湿的，有湿气的"
+      }
+    ]
+  },
+  {
+    "chinese": "跳舞；摇晃；舞",
+    "english": "dance",
+    "soundmark": "/dæns/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：跳舞；摇晃；舞"
+      }
+    ]
+  },
+  {
+    "chinese": "危险；危险事物",
+    "english": "danger",
+    "soundmark": "/'dendʒɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：危险；危险事物"
+      }
+    ]
+  },
+  {
+    "chinese": "危险的，不安全的",
+    "english": "dangerous",
+    "soundmark": "/'dendʒərəs/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：危险的，不安全的"
+      }
+    ]
+  },
+  {
+    "chinese": "v敢；竟敢",
+    "english": "dare",
+    "soundmark": "/dɛr/",
+    "grammar": [
+      {
+        "label": "vt&aux",
+        "text": "vt&aux：v敢；竟敢"
+      }
+    ]
+  },
+  {
+    "chinese": "大胆的，勇敢的",
+    "english": "daring",
+    "soundmark": "/'dɛrɪŋ/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：大胆的，勇敢的"
+      }
+    ]
+  },
+  {
+    "chinese": "暗的；黑色的",
+    "english": "dark",
+    "soundmark": "/dɑrk/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：暗的；黑色的"
+      }
+    ]
+  },
+  {
+    "chinese": "亲爱的人；宠儿",
+    "english": "darling",
+    "soundmark": "/'dɑrlɪŋ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：亲爱的人；宠儿"
+      }
+    ]
+  },
+  {
+    "chinese": "使猛撞；溅；猛冲",
+    "english": "dash",
+    "soundmark": "/dæʃ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：使猛撞；溅；猛冲"
+      }
+    ]
+  },
+  {
+    "chinese": "数据;；资料",
+    "english": "data",
+    "soundmark": "/'detə/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：数据;；资料"
+      }
+    ]
+  },
+  {
+    "chinese": "日期；注…日期",
+    "english": "date",
+    "soundmark": "/det/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：日期；注…日期"
+      }
+    ]
+  },
+  {
+    "chinese": "女儿",
+    "english": "daughter",
+    "soundmark": "/'dɔtɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：女儿"
+      }
+    ]
+  },
+  {
+    "chinese": "黎明；开端；破晓",
+    "english": "dawn",
+    "soundmark": "/dɔn/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：黎明；开端；破晓"
+      }
+    ]
+  },
+  {
+    "chinese": "(一)天，白昼，白天",
+    "english": "day",
+    "soundmark": "/de/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：(一)天，白昼，白天"
+      }
+    ]
+  },
+  {
+    "chinese": "白昼，日光；黎明",
+    "english": "daylight",
+    "soundmark": "/'delaɪt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：白昼，日光；黎明"
+      }
+    ]
+  },
+  {
+    "chinese": "死的，无生命的",
+    "english": "dead",
+    "soundmark": "/dɛd/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：死的，无生命的"
+      }
+    ]
+  },
+  {
+    "chinese": "致命的，死一般的",
+    "english": "deadly",
+    "soundmark": "/'dɛdli/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：致命的，死一般的"
+      }
+    ]
+  },
+  {
+    "chinese": "聋的；不愿听的",
+    "english": "deaf",
+    "soundmark": "/dɛf/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：聋的；不愿听的"
+      }
+    ]
+  },
+  {
+    "chinese": "买卖；待遇；给予",
+    "english": "deal",
+    "soundmark": "/dil/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：买卖；待遇；给予"
+      }
+    ]
+  },
+  {
+    "chinese": "亲爱的；啊",
+    "english": "dear",
+    "soundmark": "/dɪr/",
+    "grammar": [
+      {
+        "label": "int，adj",
+        "text": "int，adj：亲爱的；啊"
+      }
+    ]
+  },
+  {
+    "chinese": "死，死亡；灭亡",
+    "english": "death",
+    "soundmark": "/dɛθ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：死，死亡；灭亡"
+      }
+    ]
+  },
+  {
+    "chinese": "争论，辩论",
+    "english": "debate",
+    "soundmark": "/dɪ'bet/",
+    "grammar": [
+      {
+        "label": "n&vi",
+        "text": "n&vi：争论，辩论"
+      }
+    ]
+  },
+  {
+    "chinese": "十年，十年期",
+    "english": "decade",
+    "soundmark": "/'dɛked/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：十年，十年期"
+      }
+    ]
+  },
+  {
+    "chinese": "腐烂；衰败；腐烂",
+    "english": "decay",
+    "soundmark": "/dɪ'ke/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：腐烂；衰败；腐烂"
+      }
+    ]
+  },
+  {
+    "chinese": "欺骗，欺诈",
+    "english": "deceit",
+    "soundmark": "/dɪ'sit/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：欺骗，欺诈"
+      }
+    ]
+  },
+  {
+    "chinese": "欺骗，蒙蔽，行骗",
+    "english": "deceive",
+    "soundmark": "/dɪ'siv/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：欺骗，蒙蔽，行骗"
+      }
+    ]
+  },
+  {
+    "chinese": "十二月",
+    "english": "December",
+    "soundmark": "/dɪ'sɛmbɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：十二月"
+      }
+    ]
+  },
+  {
+    "chinese": "决定，决心；解决",
+    "english": "decide",
+    "soundmark": "/dɪ'saɪd/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：决定，决心；解决"
+      }
+    ]
+  },
+  {
+    "chinese": "决定，决心；果断",
+    "english": "decision",
+    "soundmark": "/dɪ'sɪʒn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：决定，决心；果断"
+      }
+    ]
+  },
+  {
+    "chinese": "甲板；舱面；层面",
+    "english": "deck",
+    "soundmark": "/dɛk/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：甲板；舱面；层面"
+      }
+    ]
+  },
+  {
+    "chinese": "断言；声明；表明",
+    "english": "declare",
+    "soundmark": "/dɪ'klɛr/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：断言；声明；表明"
+      }
+    ]
+  },
+  {
+    "chinese": "减少，减少",
+    "english": "decrease",
+    "soundmark": "/dɪ'kris/",
+    "grammar": [
+      {
+        "label": "vi&n",
+        "text": "vi&n：减少，减少"
+      }
+    ]
+  },
+  {
+    "chinese": "演绎，推论，推断",
+    "english": "deduce",
+    "soundmark": "/dɪ'dʊs/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：演绎，推论，推断"
+      }
+    ]
+  },
+  {
+    "chinese": "行为；功绩；契约",
+    "english": "deed",
+    "soundmark": "/did/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：行为；功绩；契约"
+      }
+    ]
+  },
+  {
+    "chinese": "深的；纵深的",
+    "english": "deep",
+    "soundmark": "/dip/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：深的；纵深的"
+      }
+    ]
+  },
+  {
+    "chinese": "鹿",
+    "english": "deer",
+    "soundmark": "/dɪr/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：鹿"
+      }
+    ]
+  },
+  {
+    "chinese": "战胜，击败；挫败",
+    "english": "defeat",
+    "soundmark": "/dɪ'fit/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：战胜，击败；挫败"
+      }
+    ]
+  },
+  {
+    "chinese": "缺点，缺陷，欠缺",
+    "english": "defect",
+    "soundmark": "/‘dɪfɛkt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：缺点，缺陷，欠缺"
+      }
+    ]
+  },
+  {
+    "chinese": "防御；防务；辩护",
+    "english": "defence",
+    "soundmark": "/di'fens/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：防御；防务；辩护"
+      }
+    ]
+  },
+  {
+    "chinese": "保卫，防守",
+    "english": "defend",
+    "soundmark": "/dɪ'fɛnd/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：保卫，防守"
+      }
+    ]
+  },
+  {
+    "chinese": "明确的；肯定的",
+    "english": "definite",
+    "soundmark": "/'dɛfɪnət/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：明确的；肯定的"
+      }
+    ]
+  },
+  {
+    "chinese": "一定地，明确地",
+    "english": "definitely",
+    "soundmark": "/'dɛfɪnətli/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：一定地，明确地"
+      }
+    ]
+  },
+  {
+    "chinese": "代表团",
+    "english": "delegation",
+    "soundmark": "/,dɛlɪ'ɡeʃən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：代表团"
+      }
+    ]
+  },
+  {
+    "chinese": "删除；擦掉",
+    "english": "delete",
+    "soundmark": "/dɪ'lit/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：删除；擦掉"
+      }
+    ]
+  },
+  {
+    "chinese": "纤细的；易碎的",
+    "english": "delicate",
+    "soundmark": "/ˈdɛlɪkɪt/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：纤细的；易碎的"
+      }
+    ]
+  },
+  {
+    "chinese": "美味的，怡人的",
+    "english": "delicious",
+    "soundmark": "/dɪ'lɪʃəs/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：美味的，怡人的"
+      }
+    ]
+  },
+  {
+    "chinese": "投递；交付；分娩",
+    "english": "delivery",
+    "soundmark": "/dɪ'lɪvəri/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：投递；交付；分娩"
+      }
+    ]
+  },
+  {
+    "chinese": "民主，民主制",
+    "english": "democracy",
+    "soundmark": "/dɪˈmɑkrəsi/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：民主，民主制"
+      }
+    ]
+  },
+  {
+    "chinese": "密集的；浓厚的",
+    "english": "dense",
+    "soundmark": "/dɛns/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：密集的；浓厚的"
+      }
+    ]
+  },
+  {
+    "chinese": "否定；拒绝相信",
+    "english": "deny",
+    "soundmark": "/dɪ'nai/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：否定；拒绝相信"
+      }
+    ]
+  },
+  {
+    "chinese": "离开，起程；出发",
+    "english": "depart",
+    "soundmark": "/dɪ'pɑrt/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：离开，起程；出发"
       }
     ]
   }

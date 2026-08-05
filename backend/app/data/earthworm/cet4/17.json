@@ -1,460 +1,1662 @@
 [
   {
-    "english": "diet",
-    "chinese": "饮食",
-    "soundmark": "/ˈdaɪət/",
+    "chinese": "朋友，友人",
+    "english": "friend",
+    "soundmark": "/frɛnd/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：饮食"
+        "label": "n",
+        "text": "n：朋友，友人"
       }
     ]
   },
   {
-    "english": "A healthy diet includes fruits and vegetables.",
-    "chinese": "健康的饮食包括水果和蔬菜。",
-    "soundmark": "/ə ˈhelθi ˈdaɪət ɪnˈkluːdz fruːts ænd ˈvedʒtəblz/",
+    "chinese": "友好的，友谊的",
+    "english": "friendly",
+    "soundmark": "/'frɛndli/",
     "grammar": [
       {
-        "text": "A",
-        "chinese": "一个"
-      },
-      {
-        "text": "healthy",
-        "chinese": "健康的"
-      },
-      {
-        "text": "diet",
-        "chinese": "饮食"
-      },
-      {
-        "text": "includes",
-        "chinese": "包括"
-      },
-      {
-        "text": "fruits",
-        "chinese": "水果"
-      },
-      {
-        "text": "and",
-        "chinese": "和"
-      },
-      {
-        "text": "vegetables.",
-        "chinese": "蔬菜"
+        "label": "adj",
+        "text": "adj：友好的，友谊的"
       }
     ]
   },
   {
-    "english": "vitamin",
-    "chinese": "维生素",
-    "soundmark": "/ˈvɪtəmɪn/",
+    "chinese": "友谊，友好",
+    "english": "friendship",
+    "soundmark": "/'frɛndʃɪp/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：维生素"
+        "label": "n",
+        "text": "n：友谊，友好"
       }
     ]
   },
   {
-    "english": "Fruits are rich in vitamins.",
-    "chinese": "水果富含维生素。",
-    "soundmark": "/fruːts ɑːr rɪtʃ ɪn ˈvɪtəmɪnz/",
+    "chinese": "蛙",
+    "english": "frog",
+    "soundmark": "/frɔɡ/",
     "grammar": [
       {
-        "text": "Fruits",
-        "chinese": "水果"
-      },
-      {
-        "text": "are",
-        "chinese": "是"
-      },
-      {
-        "text": "rich",
-        "chinese": "富有的/丰富的"
-      },
-      {
-        "text": "in",
-        "chinese": "在...里面"
-      },
-      {
-        "text": "vitamins.",
-        "chinese": "维生素"
+        "label": "n",
+        "text": "n：蛙"
       }
     ]
   },
   {
-    "english": "protein",
-    "chinese": "蛋白质",
-    "soundmark": "/ˈprəʊtiːn/",
+    "chinese": "从…来；离开",
+    "english": "from",
+    "soundmark": "",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：蛋白质"
+        "label": "prep",
+        "text": "prep：从…来；离开"
       }
     ]
   },
   {
-    "english": "fiber",
-    "chinese": "纤维",
-    "soundmark": "/ˈfaɪbər/",
+    "chinese": "前面的；前部",
+    "english": "front",
+    "soundmark": "/frʌnt/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：纤维素"
+        "label": "n，adj",
+        "text": "n，adj：前面的；前部"
       }
     ]
   },
   {
-    "english": "Whole grains are an excellent source of fiber.",
-    "chinese": "全谷物是纤维素的极佳来源。",
-    "soundmark": "/həʊl ɡreɪnz ɑːr æn ˈeksələnt sɔːrs əv ˈfaɪbər/",
+    "chinese": "冰冻，严寒；霜",
+    "english": "frost",
+    "soundmark": "/frɔst/",
     "grammar": [
       {
-        "text": "Whole",
-        "chinese": "整个"
-      },
-      {
-        "text": "grains"
-      },
-      {
-        "text": "are",
-        "chinese": "是"
-      },
-      {
-        "text": "an",
-        "chinese": "一个"
-      },
-      {
-        "text": "excellent",
-        "chinese": "优秀的"
-      },
-      {
-        "text": "source",
-        "chinese": "来源"
-      },
-      {
-        "text": "of",
-        "chinese": "的"
-      },
-      {
-        "text": "fiber.",
-        "chinese": "纤维"
+        "label": "n",
+        "text": "n：冰冻，严寒；霜"
       }
     ]
   },
   {
-    "english": "calorie",
-    "chinese": "卡路里",
-    "soundmark": "/ˈkæləri/",
+    "chinese": "水果；果实；成果",
+    "english": "fruit",
+    "soundmark": "/frut/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：卡路里"
+        "label": "n",
+        "text": "n：水果；果实；成果"
       }
     ]
   },
   {
-    "english": "Eating too many calories leads to weight gain.",
-    "chinese": "摄入过多卡路里导致体重增加。",
-    "soundmark": "/ˈiːtɪŋ tuː ˈmeni ˈkæləriz liːdz tuː weɪt ɡeɪn/",
+    "chinese": "多产的；肥沃的",
+    "english": "fruitful",
+    "soundmark": "/'frutfl/",
     "grammar": [
       {
-        "text": "Eating",
-        "chinese": "吃"
-      },
-      {
-        "text": "too",
-        "chinese": "也/太"
-      },
-      {
-        "text": "many",
-        "chinese": "许多"
-      },
-      {
-        "text": "calories",
-        "chinese": "卡路里"
-      },
-      {
-        "text": "leads",
-        "chinese": "领导/导致"
-      },
-      {
-        "text": "to",
-        "chinese": "去/到"
-      },
-      {
-        "text": "weight",
-        "chinese": "重量/体重"
-      },
-      {
-        "text": "gain."
+        "label": "adj",
+        "text": "adj：多产的；肥沃的"
       }
     ]
   },
   {
-    "english": "obesity",
-    "chinese": "肥胖",
-    "soundmark": "/əʊˈbiːsəti/",
+    "chinese": "油煎，油炸，油炒",
+    "english": "fry",
+    "soundmark": "/fraɪ/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：肥胖"
+        "label": "v",
+        "text": "v：油煎，油炸，油炒"
       }
     ]
   },
   {
-    "english": "Obesity has become a worldwide problem.",
-    "chinese": "肥胖已成为一个全球性问题。",
-    "soundmark": "/əʊˈbiːsəti hæz bɪˈkʌm ə ˈwɜːrldwaɪd ˈprɒbləm/",
+    "chinese": "燃料；给…加燃料",
+    "english": "fuel",
+    "soundmark": "/'fjuəl/",
     "grammar": [
       {
-        "text": "Obesity",
-        "chinese": "肥胖"
-      },
-      {
-        "text": "has",
-        "chinese": "有"
-      },
-      {
-        "text": "become",
-        "chinese": "变成"
-      },
-      {
-        "text": "a",
-        "chinese": "一个"
-      },
-      {
-        "text": "worldwide"
-      },
-      {
-        "text": "problem.",
-        "chinese": "问题"
+        "label": "v，n",
+        "text": "v，n：燃料；给…加燃料"
       }
     ]
   },
   {
-    "english": "vegetarian",
-    "chinese": "素食者",
-    "soundmark": "/ˌvedʒəˈteəriən/",
+    "chinese": "履行；满足；完成",
+    "english": "fulfil",
+    "soundmark": "/ful'fil/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：素食者"
+        "label": "v",
+        "text": "v：履行；满足；完成"
       }
     ]
   },
   {
-    "english": "More people are choosing a vegetarian lifestyle.",
-    "chinese": "越来越多的人选择素食生活方式。",
-    "soundmark": "/mɔːr ˈpiːpl ɑːr ˈtʃuːzɪŋ ə ˌvedʒəˈteəriən ˈlaɪfstaɪl/",
+    "chinese": "满的；完全的",
+    "english": "full",
+    "soundmark": "/fʊl/",
     "grammar": [
       {
-        "text": "More",
-        "chinese": "更多"
-      },
-      {
-        "text": "people",
-        "chinese": "人们"
-      },
-      {
-        "text": "are",
-        "chinese": "是"
-      },
-      {
-        "text": "choosing",
-        "chinese": "选择"
-      },
-      {
-        "text": "a",
-        "chinese": "一个"
-      },
-      {
-        "text": "vegetarian",
-        "chinese": "素食者"
-      },
-      {
-        "text": "lifestyle.",
-        "chinese": "生活方式"
+        "label": "adj",
+        "text": "adj：满的；完全的"
       }
     ]
   },
   {
-    "english": "moderate",
-    "chinese": "适度的",
-    "soundmark": "/ˈmɒdərət/",
+    "chinese": "乐趣，娱乐；玩笑",
+    "english": "fun",
+    "soundmark": "/fʌn/",
     "grammar": [
       {
-        "label": "adj.",
-        "text": "形容词：适度的"
+        "label": "n",
+        "text": "n：乐趣，娱乐；玩笑"
       }
     ]
   },
   {
-    "english": "Moderate exercise every day keeps you fit.",
-    "chinese": "每天适度运动让你保持健康。",
-    "soundmark": "/ˈmɒdərət ˈeksərsaɪz ˈevri deɪ kiːps juː fɪt/",
+    "chinese": "基础的，基本的",
+    "english": "fundamental",
+    "soundmark": "/,fʌndə'mɛntl/",
     "grammar": [
       {
-        "text": "Moderate",
-        "chinese": "适度的"
-      },
-      {
-        "text": "exercise",
-        "chinese": "锻炼/练习"
-      },
-      {
-        "text": "every",
-        "chinese": "每个"
-      },
-      {
-        "text": "day",
-        "chinese": "天"
-      },
-      {
-        "text": "keeps",
-        "chinese": "保持/继续"
-      },
-      {
-        "text": "you",
-        "chinese": "你/你们"
-      },
-      {
-        "text": "fit."
+        "label": "adj",
+        "text": "adj：基础的，基本的"
       }
     ]
   },
   {
-    "english": "Drinking enough water is essential for health.",
-    "chinese": "喝足够的水对健康至关重要。",
-    "soundmark": "/ˈdrɪŋkɪŋ ɪˈnʌf ˈwɔːtər ɪz ɪˈsenʃl fɔːr helθ/",
+    "chinese": "葬礼，丧礼，丧葬",
+    "english": "funeral",
+    "soundmark": "/'fjunərəl/",
     "grammar": [
       {
-        "text": "Drinking",
-        "chinese": "喝"
-      },
-      {
-        "text": "enough",
-        "chinese": "足够的"
-      },
-      {
-        "text": "water"
-      },
-      {
-        "text": "is",
-        "chinese": "是"
-      },
-      {
-        "text": "essential",
-        "chinese": "必要的/重要的"
-      },
-      {
-        "text": "for",
-        "chinese": "为了/对于"
-      },
-      {
-        "text": "health.",
-        "chinese": "健康"
+        "label": "n",
+        "text": "n：葬礼，丧礼，丧葬"
       }
     ]
   },
   {
-    "english": "You are what you eat.",
-    "chinese": "人如其食。",
-    "soundmark": "/juː ɑːr wɒt juː iːt/",
+    "chinese": "古怪的；滑稽的",
+    "english": "funny",
+    "soundmark": "/'fʌni/",
     "grammar": [
       {
-        "text": "You",
-        "chinese": "你/你们"
-      },
-      {
-        "text": "are",
-        "chinese": "是"
-      },
-      {
-        "text": "what",
-        "chinese": "什么"
-      },
-      {
-        "text": "you",
-        "chinese": "你/你们"
-      },
-      {
-        "text": "eat.",
-        "chinese": "吃"
+        "label": "adj",
+        "text": "adj：古怪的；滑稽的"
       }
     ]
   },
   {
-    "english": "Fast food is convenient but not healthy.",
-    "chinese": "快餐方便但不健康。",
-    "soundmark": "/fɑːst fuːd ɪz kənˈviːniənt bʌt nɒt ˈhelθi/",
+    "chinese": "软毛；毛皮，裘皮",
+    "english": "fur",
+    "soundmark": "/fɝ/",
     "grammar": [
       {
-        "text": "Fast"
-      },
-      {
-        "text": "food",
-        "chinese": "食物"
-      },
-      {
-        "text": "is",
-        "chinese": "是"
-      },
-      {
-        "text": "convenient",
-        "chinese": "方便的"
-      },
-      {
-        "text": "but",
-        "chinese": "但是"
-      },
-      {
-        "text": "not",
-        "chinese": "不"
-      },
-      {
-        "text": "healthy.",
-        "chinese": "健康的"
+        "label": "n",
+        "text": "n：软毛；毛皮，裘皮"
       }
     ]
   },
   {
-    "english": "Developing good eating habits takes time and effort.",
-    "chinese": "养成好的饮食习惯需要时间和努力。",
-    "soundmark": "/dɪˈveləpɪŋ ɡʊd ˈiːtɪŋ ˈhæbɪts teɪks taɪm ænd ˈefərt/",
+    "chinese": "狂怒的；狂暴的",
+    "english": "furious",
+    "soundmark": "/'fjʊrɪəs/",
     "grammar": [
       {
-        "text": "Developing",
-        "chinese": "发展/开发"
-      },
+        "label": "adj",
+        "text": "adj：狂怒的；狂暴的"
+      }
+    ]
+  },
+  {
+    "chinese": "炉子，熔炉；鼓风炉",
+    "english": "furnace",
+    "soundmark": "/'fɝnɪs/",
+    "grammar": [
       {
-        "text": "good",
-        "chinese": "好的"
-      },
+        "label": "n",
+        "text": "n：炉子，熔炉；鼓风炉"
+      }
+    ]
+  },
+  {
+    "chinese": "供应，提供；装备",
+    "english": "furnish",
+    "soundmark": "/'fɝnɪʃ/",
+    "grammar": [
       {
-        "text": "eating",
-        "chinese": "吃"
-      },
+        "label": "v",
+        "text": "v：供应，提供；装备"
+      }
+    ]
+  },
+  {
+    "chinese": "家具；装置，设备",
+    "english": "furniture",
+    "soundmark": "",
+    "grammar": [
       {
-        "text": "habits",
-        "chinese": "习惯"
-      },
+        "label": "n",
+        "text": "n：家具；装置，设备"
+      }
+    ]
+  },
+  {
+    "chinese": "更远地；更远的",
+    "english": "further",
+    "soundmark": "/'fɝðɚ/",
+    "grammar": [
       {
-        "text": "takes",
-        "chinese": "拿/花费"
-      },
+        "label": "adv，adj",
+        "text": "adv，adj：更远地；更远的"
+      }
+    ]
+  },
+  {
+    "chinese": "而且，此外",
+    "english": "furthermore",
+    "soundmark": "/,fɝðɚ'mɔr/",
+    "grammar": [
       {
-        "text": "time",
-        "chinese": "时间"
-      },
+        "label": "adv",
+        "text": "adv：而且，此外"
+      }
+    ]
+  },
+  {
+    "chinese": "将来，未来；前途",
+    "english": "future",
+    "soundmark": "/'fjʊtʃɚ/",
+    "grammar": [
       {
-        "text": "and",
-        "chinese": "和"
-      },
+        "label": "n",
+        "text": "n：将来，未来；前途"
+      }
+    ]
+  },
+  {
+    "chinese": "获得；增加；增进",
+    "english": "gain",
+    "soundmark": "/ɡen/",
+    "grammar": [
       {
-        "text": "effort.",
-        "chinese": "努力"
+        "label": "v，n",
+        "text": "v，n：获得；增加；增进"
+      }
+    ]
+  },
+  {
+    "chinese": "加仑",
+    "english": "gallon",
+    "soundmark": "/'ɡælən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：加仑"
+      }
+    ]
+  },
+  {
+    "chinese": "游戏；比赛；猎物",
+    "english": "game",
+    "soundmark": "/ɡem/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：游戏；比赛；猎物"
+      }
+    ]
+  },
+  {
+    "chinese": "一帮，一伙",
+    "english": "gang",
+    "soundmark": "/ɡæŋ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：一帮，一伙"
+      }
+    ]
+  },
+  {
+    "chinese": "垃圾，污物，废料",
+    "english": "garbage",
+    "soundmark": "/'ɡɑrbɪdʒ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：垃圾，污物，废料"
+      }
+    ]
+  },
+  {
+    "chinese": "花园，菜园；公园",
+    "english": "garden",
+    "soundmark": "/'ɡɑrdn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：花园，菜园；公园"
+      }
+    ]
+  },
+  {
+    "chinese": "园丁，花匠",
+    "english": "gardener",
+    "soundmark": "/'gɑrdənɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：园丁，花匠"
+      }
+    ]
+  },
+  {
+    "chinese": "煤气；气体；汽油",
+    "english": "gas",
+    "soundmark": "/ɡæs/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：煤气；气体；汽油"
+      }
+    ]
+  },
+  {
+    "chinese": "气体的，气态的",
+    "english": "gaseous",
+    "soundmark": "/'ɡæsɪəs/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：气体的，气态的"
+      }
+    ]
+  },
+  {
+    "chinese": "(美)汽油",
+    "english": "gasoline",
+    "soundmark": "/'gæsəlin/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：(美)汽油"
+      }
+    ]
+  },
+  {
+    "chinese": "气喘，喘息",
+    "english": "gasp",
+    "soundmark": "/ɡæsp/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：气喘，喘息"
+      }
+    ]
+  },
+  {
+    "chinese": "大门；篱笆门",
+    "english": "gate",
+    "soundmark": "/ɡet/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：大门；篱笆门"
+      }
+    ]
+  },
+  {
+    "chinese": "聚集；集合vt收集",
+    "english": "gather",
+    "soundmark": "/'ɡæðɚ/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：聚集；集合vt收集"
+      }
+    ]
+  },
+  {
+    "chinese": "量，测量；量器",
+    "english": "gauge",
+    "soundmark": "/gedʒ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：量，测量；量器"
+      }
+    ]
+  },
+  {
+    "chinese": "快乐的；鲜明的",
+    "english": "gay",
+    "soundmark": "/ɡe/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：快乐的；鲜明的"
+      }
+    ]
+  },
+  {
+    "chinese": "凝视，盯，注视",
+    "english": "gaze",
+    "soundmark": "/ɡeɪz/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：凝视，盯，注视"
+      }
+    ]
+  },
+  {
+    "chinese": "总的；一般的n将军",
+    "english": "general",
+    "soundmark": "/'dʒɛnrəl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：总的；一般的n将军"
+      }
+    ]
+  },
+  {
+    "chinese": "一般地；通常地",
+    "english": "generally",
+    "soundmark": "/'dʒɛnrəli/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：一般地；通常地"
+      }
+    ]
+  },
+  {
+    "chinese": "发电机；发生者",
+    "english": "generator",
+    "soundmark": "/'dʒɛnəretɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：发电机；发生者"
+      }
+    ]
+  },
+  {
+    "chinese": "天才，天赋，天资",
+    "english": "genius",
+    "soundmark": "/'dʒinjəs/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：天才，天赋，天资"
+      }
+    ]
+  },
+  {
+    "chinese": "和蔼的；轻柔的",
+    "english": "gentle",
+    "soundmark": "/'dʒɛntl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：和蔼的；轻柔的"
+      }
+    ]
+  },
+  {
+    "chinese": "绅士；有教养的人",
+    "english": "gentleman",
+    "soundmark": "/'dʒɛntlmən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：绅士；有教养的人"
+      }
+    ]
+  },
+  {
+    "chinese": "有礼貌地；柔和地",
+    "english": "gently",
+    "soundmark": "/'dʒɛntli/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：有礼貌地；柔和地"
+      }
+    ]
+  },
+  {
+    "chinese": "地理，地理学",
+    "english": "geography",
+    "soundmark": "/dʒɪ'ɑɡrəfi/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：地理，地理学"
+      }
+    ]
+  },
+  {
+    "chinese": "几何，几何学",
+    "english": "geometry",
+    "soundmark": "/dʒɪ'ɑmətri/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：几何，几何学"
+      }
+    ]
+  },
+  {
+    "chinese": "微生物，细菌，幼芽",
+    "english": "germ",
+    "soundmark": "/dʒɝm/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：微生物，细菌，幼芽"
+      }
+    ]
+  },
+  {
+    "chinese": "德国的；德国人",
+    "english": "German",
+    "soundmark": "/'dʒɜːmən/",
+    "grammar": [
+      {
+        "label": "n，adj",
+        "text": "n，adj：德国的；德国人"
+      }
+    ]
+  },
+  {
+    "chinese": "德意志，德国",
+    "english": "Germany",
+    "soundmark": "/'dʒɝməni/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：德意志，德国"
+      }
+    ]
+  },
+  {
+    "chinese": "变得，成为；到达",
+    "english": "get",
+    "soundmark": "/ɡɛt/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：变得，成为；到达"
+      }
+    ]
+  },
+  {
+    "chinese": "鬼，灵魂；鬼魂",
+    "english": "ghost",
+    "soundmark": "/ɡost/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：鬼，灵魂；鬼魂"
+      }
+    ]
+  },
+  {
+    "chinese": "巨人；巨物",
+    "english": "giant",
+    "soundmark": "/'dʒaɪənt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：巨人；巨物"
+      }
+    ]
+  },
+  {
+    "chinese": "女孩子，姑娘；女儿",
+    "english": "girl",
+    "soundmark": "/ɡɝl/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：女孩子，姑娘；女儿"
+      }
+    ]
+  },
+  {
+    "chinese": "做，作；送给",
+    "english": "give",
+    "soundmark": "/ɡɪv/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：做，作；送给"
+      }
+    ]
+  },
+  {
+    "chinese": "高兴的；乐意的",
+    "english": "glad",
+    "soundmark": "/ɡlæd/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：高兴的；乐意的"
+      }
+    ]
+  },
+  {
+    "chinese": "看一下；一瞥",
+    "english": "glance",
+    "soundmark": "/ɡlæns/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：看一下；一瞥"
+      }
+    ]
+  },
+  {
+    "chinese": "瞪眼；瞪眼",
+    "english": "glare",
+    "soundmark": "/ɡlɛr/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：瞪眼；瞪眼"
+      }
+    ]
+  },
+  {
+    "chinese": "玻璃；玻璃杯",
+    "english": "glass",
+    "soundmark": "/ɡlæs/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：玻璃；玻璃杯"
+      }
+    ]
+  },
+  {
+    "chinese": "滑动；消逝；滑行",
+    "english": "glide",
+    "soundmark": "/ɡlaɪd/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：滑动；消逝；滑行"
+      }
+    ]
+  },
+  {
+    "chinese": "瞥见；一瞥，一看",
+    "english": "glimpse",
+    "soundmark": "/ɡlɪmps/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：瞥见；一瞥，一看"
+      }
+    ]
+  },
+  {
+    "chinese": "闪闪发光；闪光",
+    "english": "glitter",
+    "soundmark": "/'ɡlɪtɚ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：闪闪发光；闪光"
+      }
+    ]
+  },
+  {
+    "chinese": "地球，世界；地界仪",
+    "english": "globe",
+    "soundmark": "/ɡlob/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：地球，世界；地界仪"
+      }
+    ]
+  },
+  {
+    "chinese": "光荣；荣誉的事",
+    "english": "glory",
+    "soundmark": "/'ɡlɔri/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：光荣；荣誉的事"
+      }
+    ]
+  },
+  {
+    "chinese": "手套",
+    "english": "glove",
+    "soundmark": "/ɡlʌv/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：手套"
+      }
+    ]
+  },
+  {
+    "chinese": "白热光；发白热光",
+    "english": "glow",
+    "soundmark": "/ɡlo/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：白热光；发白热光"
+      }
+    ]
+  },
+  {
+    "chinese": "胶，胶水；胶合",
+    "english": "glue",
+    "soundmark": "/ɡlu/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：胶，胶水；胶合"
+      }
+    ]
+  },
+  {
+    "chinese": "去；走；变为",
+    "english": "go",
+    "soundmark": "/go/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：去；走；变为"
+      }
+    ]
+  },
+  {
+    "chinese": "球门；得分；目的",
+    "english": "goal",
+    "soundmark": "/ɡol/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：球门；得分；目的"
+      }
+    ]
+  },
+  {
+    "chinese": "山羊",
+    "english": "goat",
+    "soundmark": "/ɡot/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：山羊"
+      }
+    ]
+  },
+  {
+    "chinese": "神，神像；上帝",
+    "english": "God",
+    "soundmark": "/ɡɑd/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：神，神像；上帝"
+      }
+    ]
+  },
+  {
+    "chinese": "金；钱财；金制的",
+    "english": "gold",
+    "soundmark": "/ɡold/",
+    "grammar": [
+      {
+        "label": "n，adj",
+        "text": "n，adj：金；钱财；金制的"
+      }
+    ]
+  },
+  {
+    "chinese": "金色的；极好的",
+    "english": "golden",
+    "soundmark": "/'ɡoldən/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：金色的；极好的"
+      }
+    ]
+  },
+  {
+    "chinese": "高尔夫球",
+    "english": "golf",
+    "soundmark": "/gɔlf/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：高尔夫球"
+      }
+    ]
+  },
+  {
+    "chinese": "好的；有本事的",
+    "english": "good",
+    "soundmark": "/ɡʊd/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：好的；有本事的"
+      }
+    ]
+  },
+  {
+    "chinese": "优良，德性，仁慈",
+    "english": "goodness",
+    "soundmark": "/'ɡʊdnəs/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：优良，德性，仁慈"
+      }
+    ]
+  },
+  {
+    "chinese": "货物，商品",
+    "english": "goods",
+    "soundmark": "/ɡʊdz/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：货物，商品"
+      }
+    ]
+  },
+  {
+    "chinese": "鹅，雌鹅",
+    "english": "goose",
+    "soundmark": "/ɡus/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：鹅，雌鹅"
+      }
+    ]
+  },
+  {
+    "chinese": "政府；治理；政治",
+    "english": "government",
+    "soundmark": "/'ɡʌvɚnmənt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：政府；治理；政治"
+      }
+    ]
+  },
+  {
+    "chinese": "州长；主管人员",
+    "english": "governor",
+    "soundmark": "/'ɡʌvɚnɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：州长；主管人员"
+      }
+    ]
+  },
+  {
+    "chinese": "长袍，长外衣",
+    "english": "gown",
+    "soundmark": "/ɡaʊn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：长袍，长外衣"
+      }
+    ]
+  },
+  {
+    "chinese": "优美，文雅；雅致",
+    "english": "grace",
+    "soundmark": "/ɡres/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：优美，文雅；雅致"
+      }
+    ]
+  },
+  {
+    "chinese": "优美的，优雅的",
+    "english": "graceful",
+    "soundmark": "/'ɡresfl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：优美的，优雅的"
+      }
+    ]
+  },
+  {
+    "chinese": "有礼貌的；仁慈的",
+    "english": "gracious",
+    "soundmark": "/'ɡreʃəs/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：有礼貌的；仁慈的"
+      }
+    ]
+  },
+  {
+    "chinese": "给…分等级；等级",
+    "english": "grade",
+    "soundmark": "/ɡred/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：给…分等级；等级"
+      }
+    ]
+  },
+  {
+    "chinese": "逐渐的；渐进的",
+    "english": "gradual",
+    "soundmark": "/'ɡrædʒuəl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：逐渐的；渐进的"
+      }
+    ]
+  },
+  {
+    "chinese": "逐渐地，逐步地",
+    "english": "gradually",
+    "soundmark": "/'grædʒʊəli/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：逐渐地，逐步地"
+      }
+    ]
+  },
+  {
+    "chinese": "毕业生；大学毕业",
+    "english": "graduate",
+    "soundmark": "/ˈɡrædʒuˌet/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：毕业生；大学毕业"
+      }
+    ]
+  },
+  {
+    "chinese": "语法；语法书",
+    "english": "grammar",
+    "soundmark": "/'græmɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：语法；语法书"
+      }
+    ]
+  },
+  {
+    "chinese": "语法上的",
+    "english": "grammatical",
+    "soundmark": "/grə'mætɪkl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：语法上的"
+      }
+    ]
+  },
+  {
+    "chinese": "克(重量单位)",
+    "english": "gramme",
+    "soundmark": "/ɡræm/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：克(重量单位)"
+      }
+    ]
+  },
+  {
+    "chinese": "宏伟的；重大的",
+    "english": "grand",
+    "soundmark": "/ɡrænd/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：宏伟的；重大的"
+      }
+    ]
+  },
+  {
+    "chinese": "孙女，外孙女",
+    "english": "granddaughter",
+    "soundmark": "/'ɡrændɔtɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：孙女，外孙女"
+      }
+    ]
+  },
+  {
+    "chinese": "祖父；外祖父",
+    "english": "grandfather",
+    "soundmark": "/'græn'fɑðɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：祖父；外祖父"
+      }
+    ]
+  },
+  {
+    "chinese": "祖母，外祖母",
+    "english": "grandmother",
+    "soundmark": "/'ɡrænmʌðɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：祖母，外祖母"
+      }
+    ]
+  },
+  {
+    "chinese": "孙子，外孙子",
+    "english": "grandson",
+    "soundmark": "/'ɡrænsʌn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：孙子，外孙子"
+      }
+    ]
+  },
+  {
+    "chinese": "葡萄；葡萄藤",
+    "english": "grape",
+    "soundmark": "/ɡrep/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：葡萄；葡萄藤"
+      }
+    ]
+  },
+  {
+    "chinese": "(曲线)图，图表",
+    "english": "graph",
+    "soundmark": "/ɡræf/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：(曲线)图，图表"
+      }
+    ]
+  },
+  {
+    "chinese": "抓紧；掌握；抓",
+    "english": "grasp",
+    "soundmark": "/ɡræsp/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：抓紧；掌握；抓"
+      }
+    ]
+  },
+  {
+    "chinese": "草；牧草；草地",
+    "english": "grass",
+    "soundmark": "/ɡræs/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：草；牧草；草地"
+      }
+    ]
+  },
+  {
+    "chinese": "感激的；令人愉快的",
+    "english": "grateful",
+    "soundmark": "/'ɡretfl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：感激的；令人愉快的"
+      }
+    ]
+  },
+  {
+    "chinese": "感激，感谢，感恩",
+    "english": "gratitude",
+    "soundmark": "/'ɡrætɪtud/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：感激，感谢，感恩"
+      }
+    ]
+  },
+  {
+    "chinese": "重力，引力；严重性",
+    "english": "gravity",
+    "soundmark": "/'ɡrævəti/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：重力，引力；严重性"
+      }
+    ]
+  },
+  {
+    "chinese": "灰色的；灰色",
+    "english": "gray",
+    "soundmark": "/ɡre/",
+    "grammar": [
+      {
+        "label": "n，adj",
+        "text": "n，adj：灰色的；灰色"
+      }
+    ]
+  },
+  {
+    "chinese": "大的；伟大的",
+    "english": "great",
+    "soundmark": "/ɡret/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：大的；伟大的"
+      }
+    ]
+  },
+  {
+    "chinese": "大大地，非常",
+    "english": "greatly",
+    "soundmark": "/'ɡretli/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：大大地，非常"
+      }
+    ]
+  },
+  {
+    "chinese": "贪吃的；贪婪的",
+    "english": "greedy",
+    "soundmark": "/'gridi/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：贪吃的；贪婪的"
+      }
+    ]
+  },
+  {
+    "chinese": "希腊的；希腊人",
+    "english": "Greek",
+    "soundmark": "/grik/",
+    "grammar": [
+      {
+        "label": "n，adj",
+        "text": "n，adj：希腊的；希腊人"
+      }
+    ]
+  },
+  {
+    "chinese": "绿色的；绿色",
+    "english": "green",
+    "soundmark": "/ɡrin/",
+    "grammar": [
+      {
+        "label": "n，adj",
+        "text": "n，adj：绿色的；绿色"
+      }
+    ]
+  },
+  {
+    "chinese": "温室，玻璃暖房",
+    "english": "greenhouse",
+    "soundmark": "/'ɡrinhaʊs/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：温室，玻璃暖房"
+      }
+    ]
+  },
+  {
+    "chinese": "问候，招呼；反应",
+    "english": "greet",
+    "soundmark": "/ɡrit/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：问候，招呼；反应"
+      }
+    ]
+  },
+  {
+    "chinese": "问候，招呼，致敬",
+    "english": "greeting",
+    "soundmark": "/'ɡritɪŋ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：问候，招呼，致敬"
+      }
+    ]
+  },
+  {
+    "chinese": "灰色的；灰色",
+    "english": "grey",
+    "soundmark": "/ɡre/",
+    "grammar": [
+      {
+        "label": "n，adj",
+        "text": "n，adj：灰色的；灰色"
+      }
+    ]
+  },
+  {
+    "chinese": "使悲痛；悲痛",
+    "english": "grieve",
+    "soundmark": "/griv/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：使悲痛；悲痛"
+      }
+    ]
+  },
+  {
+    "chinese": "磨(碎)；磨快",
+    "english": "grind",
+    "soundmark": "/ɡraɪnd/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：磨(碎)；磨快"
+      }
+    ]
+  },
+  {
+    "chinese": "握紧，抓牢；紧握",
+    "english": "grip",
+    "soundmark": "/ɡrɪp/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：握紧，抓牢；紧握"
+      }
+    ]
+  },
+  {
+    "chinese": "哼，呻吟；呻吟",
+    "english": "groan",
+    "soundmark": "/ɡron/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：哼，呻吟；呻吟"
+      }
+    ]
+  },
+  {
+    "chinese": "食品商；杂货商",
+    "english": "grocer",
+    "soundmark": "/ɡrosɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：食品商；杂货商"
+      }
+    ]
+  },
+  {
+    "chinese": "总的；严重的",
+    "english": "gross",
+    "soundmark": "/ɡros/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：总的；严重的"
+      }
+    ]
+  },
+  {
+    "chinese": "地；场地；根据",
+    "english": "ground",
+    "soundmark": "/ɡraʊnd/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：地；场地；根据"
+      }
+    ]
+  },
+  {
+    "chinese": "小组，群；聚集",
+    "english": "group",
+    "soundmark": "/ɡrup/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：小组，群；聚集"
+      }
+    ]
+  },
+  {
+    "chinese": "生长；变得；增长",
+    "english": "grow",
+    "soundmark": "/ɡro/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：生长；变得；增长"
+      }
+    ]
+  },
+  {
+    "chinese": "增长；增长量；生长",
+    "english": "growth",
+    "soundmark": "/ɡroθ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：增长；增长量；生长"
+      }
+    ]
+  },
+  {
+    "chinese": "守卫；看守；卫兵",
+    "english": "guard",
+    "soundmark": "/ɡɑrd/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：守卫；看守；卫兵"
+      }
+    ]
+  },
+  {
+    "chinese": "猜测，推测",
+    "english": "guess",
+    "soundmark": "/ɡɛs/",
+    "grammar": [
+      {
+        "label": "vt&vi&n",
+        "text": "vt&vi&n：猜测，推测"
+      }
+    ]
+  },
+  {
+    "chinese": "客人，宾客；旅客",
+    "english": "guest",
+    "soundmark": "/ɡɛst/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：客人，宾客；旅客"
+      }
+    ]
+  },
+  {
+    "chinese": "引导，指导，领导",
+    "english": "guidance",
+    "soundmark": "/'gaɪdns/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：引导，指导，领导"
+      }
+    ]
+  },
+  {
+    "chinese": "导游者；给…导游",
+    "english": "guide",
+    "soundmark": "/ɡaɪd/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：导游者；给…导游"
+      }
+    ]
+  },
+  {
+    "chinese": "内疚的；有罪的",
+    "english": "guilty",
+    "soundmark": "/'ɡɪlti/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：内疚的；有罪的"
+      }
+    ]
+  },
+  {
+    "chinese": "海湾",
+    "english": "gulf",
+    "soundmark": "/ɡʌlf/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：海湾"
+      }
+    ]
+  },
+  {
+    "chinese": "枪，炮，手枪",
+    "english": "gun",
+    "soundmark": "/ɡʌn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：枪，炮，手枪"
+      }
+    ]
+  },
+  {
+    "chinese": "黑色火药；有烟火药",
+    "english": "gunpowder",
+    "soundmark": "/'ɡʌnpaʊdɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：黑色火药；有烟火药"
+      }
+    ]
+  },
+  {
+    "chinese": "体育馆，健身房",
+    "english": "gymnasium",
+    "soundmark": "/dʒɪm'nezɪəm/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：体育馆，健身房"
+      }
+    ]
+  },
+  {
+    "chinese": "习惯；习性",
+    "english": "habit",
+    "soundmark": "/'hæbɪt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：习惯；习性"
+      }
+    ]
+  },
+  {
+    "chinese": "习惯性的，惯常的",
+    "english": "habitual",
+    "soundmark": "/hə'bɪtʃuəl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：习惯性的，惯常的"
+      }
+    ]
+  },
+  {
+    "chinese": "头发，毛发；毛",
+    "english": "hair",
+    "soundmark": "/hɛr/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：头发，毛发；毛"
+      }
+    ]
+  },
+  {
+    "chinese": "理发",
+    "english": "haircut",
+    "soundmark": "/'hɛrkʌt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：理发"
+      }
+    ]
+  },
+  {
+    "chinese": "半，一半；一半的",
+    "english": "half",
+    "soundmark": "/hæf/",
+    "grammar": [
+      {
+        "label": "n，adj",
+        "text": "n，adj：半，一半；一半的"
+      }
+    ]
+  },
+  {
+    "chinese": "门厅；过道；会堂",
+    "english": "hall",
+    "soundmark": "/hɔl/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：门厅；过道；会堂"
+      }
+    ]
+  },
+  {
+    "chinese": "停止；立定；停住",
+    "english": "halt",
+    "soundmark": "/hɔlt/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：停止；立定；停住"
+      }
+    ]
+  },
+  {
+    "chinese": "汉堡包，牛肉饼",
+    "english": "hamburger",
+    "soundmark": "/hæmbɝ​ɡɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：汉堡包，牛肉饼"
+      }
+    ]
+  },
+  {
+    "chinese": "锤，榔头；锤击",
+    "english": "hammer",
+    "soundmark": "/'hæmɚ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：锤，榔头；锤击"
+      }
+    ]
+  },
+  {
+    "chinese": "手；人手；指针",
+    "english": "hand",
+    "soundmark": "/hænd/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：手；人手；指针"
+      }
+    ]
+  },
+  {
+    "chinese": "一把；少数，一小撮",
+    "english": "handful",
+    "soundmark": "/'hænd,fʊl/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：一把；少数，一小撮"
+      }
+    ]
+  },
+  {
+    "chinese": "手帕",
+    "english": "handkerchief",
+    "soundmark": "/'hæŋkɚtʃɪf/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：手帕"
+      }
+    ]
+  },
+  {
+    "chinese": "英俊的；相当大的",
+    "english": "handsome",
+    "soundmark": "/'hænsəm/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：英俊的；相当大的"
+      }
+    ]
+  },
+  {
+    "chinese": "笔迹，手迹，书法",
+    "english": "handwriting",
+    "soundmark": "/'hænd'raɪtɪŋ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：笔迹，手迹，书法"
+      }
+    ]
+  },
+  {
+    "chinese": "手边的；便于使用的",
+    "english": "handy",
+    "soundmark": "/'hændi/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：手边的；便于使用的"
       }
     ]
   }

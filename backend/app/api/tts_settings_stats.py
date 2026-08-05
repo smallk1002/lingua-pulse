@@ -1,9 +1,7 @@
 """
 TTS、设置、统计 API
 
-POST /api/tts/generate        生成单个 TTS
-POST /api/tts/generate-batch   批量生成
-GET  /api/tts/audio/{filename} 获取音频文件
+GET  /api/tts/synthesize      实时合成 TTS 并返回 MP3 流（纯内存，不落盘）
 GET  /api/settings             获取设置
 PUT  /api/settings             更新设置
 GET  /api/stats/summary        学习概览
@@ -11,92 +9,54 @@ GET  /api/stats/daily          每日统计
 POST /api/stats/session        上报学习时长
 """
 
-import os
 from datetime import date, datetime
 
 from fastapi import APIRouter, Depends, HTTPException, Query
-from fastapi.responses import FileResponse
+from fastapi.responses import Response
 from sqlalchemy import select, and_
 from sqlalchemy.ext.asyncio import AsyncSession
 
-from app.core.config import settings as app_settings
 from app.core.database import get_db
 from app.core.security import get_current_user
 from app.models.user import User
 from app.models.others import UserSettings, UserStats, LearningSession
-from app.models.course import Statement
 from app.schemas.others import (
-    TTSGenerateRequest,
-    TTSGenerateResponse,
-    TTSBatchRequest,
-    TTSBatchResponse,
-    TTSBatchItem,
     SettingsOut,
     SettingsUpdate,
     StatsSummaryOut,
     DailyStatsOut,
     SessionReport,
 )
-from app.services.tts_service import generate_audio
+from app.services.tts_service import generate_audio_bytes
 
 router = APIRouter(tags=["tts", "settings", "stats"])
 
 
 # ── TTS ──
 
-@router.post("/api/tts/generate", response_model=TTSGenerateResponse)
-async def tts_generate(
-    data: TTSGenerateRequest,
-    user: User = Depends(get_current_user),
-):
-    url = await generate_audio(data.text, data.voice, data.speed)
-    return TTSGenerateResponse(url=url)
-
-
-@router.post("/api/tts/generate-batch", response_model=TTSBatchResponse)
-async def tts_generate_batch(
-    data: TTSBatchRequest,
-    db: AsyncSession = Depends(get_db),
-    user: User = Depends(get_current_user),
-):
-    """批量生成 TTS（用于管理后台）"""
-    result = await db.execute(
-        select(Statement).where(Statement.id.in_(data.statement_ids))
-    )
-    statements = result.scalars().all()
-
-    items = []
-    for stmt in statements:
-        url = await generate_audio(stmt.english, data.voice)
-        items.append(TTSBatchItem(statement_id=stmt.id, url=url))
-
-    return TTSBatchResponse(results=items)
-
-
 @router.get("/api/tts/synthesize")
 async def tts_synthesize(
     text: str = Query(..., min_length=1, description="要合成的英文文本"),
     voice: str = Query("en-US-JennyNeural", description="语音角色"),
-    speed: str = Query("+0%", description="语速"),
+    speed: str = Query("+15%", description="语速"),
 ):
     """
-    直接合成 TTS 音频并返回 MP3 流。
-    自动缓存：相同 text+voice+speed 只生成一次。
+    实时合成 TTS 音频并返回 MP3 流。
+
+    纯内存操作：不写磁盘，零磁盘 I/O。
+    服务端内存 LRU 缓存（200 条热点），进程重启清空。
+
     前端直接当 <audio> 的 src 使用。
     """
-    url = await generate_audio(text, voice, speed)
-    filename = url.rsplit("/", 1)[-1]
-    filepath = os.path.join(app_settings.AUDIO_DIR, filename)
-    return FileResponse(filepath, media_type="audio/mpeg")
-
-
-@router.get("/api/tts/audio/{filename}")
-async def tts_audio(filename: str):
-    """获取缓存音频文件"""
-    filepath = os.path.join(app_settings.AUDIO_DIR, filename)
-    if not os.path.exists(filepath):
-        raise HTTPException(status_code=404, detail="音频文件不存在")
-    return FileResponse(filepath, media_type="audio/mpeg")
+    mp3_bytes = await generate_audio_bytes(text, voice, speed)
+    return Response(
+        content=mp3_bytes,
+        media_type="audio/mpeg",
+        headers={
+            "Cache-Control": "public, max-age=3600",
+            "Content-Length": str(len(mp3_bytes)),
+        },
+    )
 
 
 # ── 设置 ──

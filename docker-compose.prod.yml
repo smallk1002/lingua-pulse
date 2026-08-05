@@ -24,8 +24,6 @@ services:
       - .env.prod
     ports:
       - "127.0.0.1:8000:8000"
-    volumes:
-      - audio_data:/app/static/audio
     extra_hosts:
       - "host.docker.internal:host-gateway"
 
@@ -42,5 +40,4 @@ services:
     depends_on:
       - backend
 
-volumes:
-  audio_data:
+

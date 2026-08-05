@@ -1,445 +1,1662 @@
 [
   {
-    "english": "travel",
-    "chinese": "旅行",
-    "soundmark": "/ˈtrævl/",
+    "chinese": "落下；跌倒；陷落",
+    "english": "fall",
+    "soundmark": "/fɔl/",
     "grammar": [
       {
-        "label": "v./n.",
-        "text": "动词/名词：旅行"
+        "label": "v",
+        "text": "v：落下；跌倒；陷落"
       }
     ]
   },
   {
-    "english": "destination",
-    "chinese": "目的地",
-    "soundmark": "/ˌdestɪˈneɪʃn/",
+    "chinese": "不真实的；伪造的",
+    "english": "FALSE",
+    "soundmark": "/fɔls/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：目的地"
+        "label": "adj",
+        "text": "adj：不真实的；伪造的"
       }
     ]
   },
   {
-    "english": "My dream destination is Paris.",
-    "chinese": "我的梦想目的地是巴黎。",
-    "soundmark": "/maɪ driːm ˌdestɪˈneɪʃn ɪz ˈpærɪs/",
+    "chinese": "名声，名望",
+    "english": "fame",
+    "soundmark": "/fem/",
     "grammar": [
       {
-        "text": "My",
-        "chinese": "我的"
-      },
-      {
-        "text": "dream",
-        "chinese": "梦想"
-      },
-      {
-        "text": "destination",
-        "chinese": "目的地"
-      },
-      {
-        "text": "is",
-        "chinese": "是"
-      },
-      {
-        "text": "Paris."
+        "label": "n",
+        "text": "n：名声，名望"
       }
     ]
   },
   {
-    "english": "scenery",
-    "chinese": "风景",
-    "soundmark": "/ˈsiːnəri/",
+    "chinese": "家，家庭；家族",
+    "english": "family",
+    "soundmark": "/'fæməli/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "不可数名词：风景"
+        "label": "n",
+        "text": "n：家，家庭；家族"
       }
     ]
   },
   {
-    "english": "The scenery along the way was breathtaking.",
-    "chinese": "沿途的风景令人叹为观止。",
-    "soundmark": "/ðə ˈsiːnəri əˈlɒŋ ðə weɪ wɒz ˈbreθteɪkɪŋ/",
+    "chinese": "饥荒；严重的缺乏",
+    "english": "famine",
+    "soundmark": "/'fæmɪn/",
     "grammar": [
       {
-        "text": "The",
-        "chinese": "这/那"
-      },
-      {
-        "text": "scenery",
-        "chinese": "风景"
-      },
-      {
-        "text": "along",
-        "chinese": "沿着"
-      },
-      {
-        "text": "the",
-        "chinese": "这/那"
-      },
-      {
-        "text": "way",
-        "chinese": "方式/路"
-      },
-      {
-        "text": "was",
-        "chinese": "是(曾经)"
-      },
-      {
-        "text": "breathtaking."
+        "label": "n",
+        "text": "n：饥荒；严重的缺乏"
       }
     ]
   },
   {
-    "english": "accommodation",
-    "chinese": "住宿",
-    "soundmark": "/əˌkɒməˈdeɪʃn/",
+    "chinese": "著名的，出名的",
+    "english": "famous",
+    "soundmark": "/'feməs/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：住宿"
+        "label": "adj",
+        "text": "adj：著名的，出名的"
       }
     ]
   },
   {
-    "english": "book a hotel",
-    "chinese": "预订酒店",
-    "soundmark": "/bʊk ə həʊˈtel/",
+    "chinese": "(运动等)狂热爱好者",
+    "english": "fan",
+    "soundmark": "/fæn/",
     "grammar": [
       {
-        "text": "book"
-      },
-      {
-        "text": "a",
-        "chinese": "一个"
-      },
-      {
-        "text": "hotel"
+        "label": "n",
+        "text": "n：(运动等)狂热爱好者"
       }
     ]
   },
   {
-    "english": "We booked a hotel near the beach.",
-    "chinese": "我们订了一家靠近海滩的酒店。",
-    "soundmark": "/wiː bʊkt ə həʊˈtel nɪər ðə biːtʃ/",
+    "chinese": "远的；远，遥远",
+    "english": "far",
+    "soundmark": "/fɑr/",
     "grammar": [
       {
-        "text": "We",
-        "chinese": "我们"
-      },
-      {
-        "text": "booked"
-      },
-      {
-        "text": "a",
-        "chinese": "一个"
-      },
-      {
-        "text": "hotel"
-      },
-      {
-        "text": "near"
-      },
-      {
-        "text": "the",
-        "chinese": "这/那"
-      },
-      {
-        "text": "beach."
+        "label": "adv，adj",
+        "text": "adv，adj：远的；远，遥远"
       }
     ]
   },
   {
-    "english": "tourist attraction",
-    "chinese": "旅游景点",
-    "soundmark": "/ˈtʊərɪst əˈtrækʃn/",
+    "chinese": "车费，船费，票价",
+    "english": "fare",
+    "soundmark": "/fɛr/",
     "grammar": [
       {
-        "text": "tourist",
-        "chinese": "旅游景点"
-      },
-      {
-        "text": "attraction",
-        "chinese": "旅游景点"
+        "label": "n",
+        "text": "n：车费，船费，票价"
       }
     ]
   },
   {
-    "english": "transportation",
-    "chinese": "交通",
-    "soundmark": "/ˌtrænspɔːrˈteɪʃn/",
+    "chinese": "再会；告别",
+    "english": "farewell",
+    "soundmark": "/,fɛr'wɛl/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：交通、运输"
+        "label": "int，n",
+        "text": "int，n：再会；告别"
       }
     ]
   },
   {
-    "english": "Public transportation in big cities is very convenient.",
-    "chinese": "大城市的公共交通非常方便。",
-    "soundmark": "/ˈpʌblɪk ˌtrænspɔːrˈteɪʃn ɪn bɪɡ ˈsɪtiz ɪz ˈveri kənˈviːniənt/",
+    "chinese": "农场，农庄；饲养场",
+    "english": "farm",
+    "soundmark": "/fɑrm/",
     "grammar": [
       {
-        "text": "Public",
-        "chinese": "公共的"
-      },
-      {
-        "text": "transportation",
-        "chinese": "交通"
-      },
-      {
-        "text": "in",
-        "chinese": "在...里面"
-      },
-      {
-        "text": "big",
-        "chinese": "大的"
-      },
-      {
-        "text": "cities"
-      },
-      {
-        "text": "is",
-        "chinese": "是"
-      },
-      {
-        "text": "very",
-        "chinese": "非常"
-      },
-      {
-        "text": "convenient.",
-        "chinese": "方便的"
+        "label": "n",
+        "text": "n：农场，农庄；饲养场"
       }
     ]
   },
   {
-    "english": "sightseeing",
-    "chinese": "观光",
-    "soundmark": "/ˈsaɪtsiːɪŋ/",
+    "chinese": "农民，农夫；农场主",
+    "english": "farmer",
+    "soundmark": "/'fɑmɚ/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：观光"
+        "label": "n",
+        "text": "n：农民，农夫；农场主"
       }
     ]
   },
   {
-    "english": "We went sightseeing around the old town.",
-    "chinese": "我们在老城区观光。",
-    "soundmark": "/wiː went ˈsaɪtsiːɪŋ əˈraʊnd ðə əʊld taʊn/",
+    "chinese": "更远地；更远的",
+    "english": "farther",
+    "soundmark": "/'fɑrðɚ/",
     "grammar": [
       {
-        "text": "We",
-        "chinese": "我们"
-      },
-      {
-        "text": "went"
-      },
-      {
-        "text": "sightseeing",
-        "chinese": "观光"
-      },
-      {
-        "text": "around",
-        "chinese": "周围/大约"
-      },
-      {
-        "text": "the",
-        "chinese": "这/那"
-      },
-      {
-        "text": "old",
-        "chinese": "老的/旧的"
-      },
-      {
-        "text": "town."
+        "label": "adv，adj",
+        "text": "adv，adj：更远地；更远的"
       }
     ]
   },
   {
-    "english": "luggage",
-    "chinese": "行李",
-    "soundmark": "/ˈlʌɡɪdʒ/",
+    "chinese": "样子，方式；风尚",
+    "english": "fashion",
+    "soundmark": "/'fæʃən/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "不可数名词：行李"
+        "label": "n",
+        "text": "n：样子，方式；风尚"
       }
     ]
   },
   {
-    "english": "passport",
-    "chinese": "护照",
-    "soundmark": "/ˈpɑːspɔːrt/",
+    "chinese": "流行的，时髦的",
+    "english": "fashionable",
+    "soundmark": "/'fæʃnəbl/",
     "grammar": [
       {
-        "label": "n.",
-        "text": "名词：护照"
+        "label": "adj",
+        "text": "adj：流行的，时髦的"
       }
     ]
   },
   {
-    "english": "Don't forget to bring your passport.",
-    "chinese": "别忘了带护照。",
-    "soundmark": "/dəʊnt fərˈɡet tuː brɪŋ jɔːr ˈpɑːspɔːrt/",
+    "chinese": "快的；偏快的；快",
+    "english": "fast",
+    "soundmark": "/fæst/",
     "grammar": [
       {
-        "text": "Don't"
-      },
-      {
-        "text": "forget",
-        "chinese": "忘记"
-      },
-      {
-        "text": "to",
-        "chinese": "去/到"
-      },
-      {
-        "text": "bring",
-        "chinese": "带来"
-      },
-      {
-        "text": "your",
-        "chinese": "你的"
-      },
-      {
-        "text": "passport.",
-        "chinese": "护照"
+        "label": "adv，adj",
+        "text": "adv，adj：快的；偏快的；快"
       }
     ]
   },
   {
-    "english": "Travel broadens the mind.",
-    "chinese": "旅行开阔思维。",
-    "soundmark": "/ˈtrævl ˈbrɔːdnz ðə maɪnd/",
+    "chinese": "扎牢，扣住",
+    "english": "fasten",
+    "soundmark": "/'fæsən/",
     "grammar": [
       {
-        "text": "Travel",
-        "chinese": "旅行"
-      },
-      {
-        "text": "broadens"
-      },
-      {
-        "text": "the",
-        "chinese": "这/那"
-      },
-      {
-        "text": "mind.",
-        "chinese": "心智/头脑"
+        "label": "v",
+        "text": "v：扎牢，扣住"
       }
     ]
   },
   {
-    "english": "The more you travel, the more you learn.",
-    "chinese": "旅行越多，学到越多。",
-    "soundmark": "/ðə mɔːr juː ˈtrævl ðə mɔːr juː lɜːrn/",
+    "chinese": "父亲；神父；创始人",
+    "english": "father",
+    "soundmark": "/'fɑðɚ/",
     "grammar": [
       {
-        "text": "The",
-        "chinese": "这/那"
-      },
-      {
-        "text": "more",
-        "chinese": "更多"
-      },
-      {
-        "text": "you",
-        "chinese": "你/你们"
-      },
-      {
-        "text": "travel,",
-        "chinese": "旅行"
-      },
-      {
-        "text": "the",
-        "chinese": "这/那"
-      },
-      {
-        "text": "more",
-        "chinese": "更多"
-      },
-      {
-        "text": "you",
-        "chinese": "你/你们"
-      },
-      {
-        "text": "learn.",
-        "chinese": "学习"
+        "label": "n",
+        "text": "n：父亲；神父；创始人"
       }
     ]
   },
   {
-    "english": "I am looking forward to the summer vacation.",
-    "chinese": "我期待着暑假。",
-    "soundmark": "/aɪ æm ˈlʊkɪŋ ˈfɔːrwərd tuː ðə ˈsʌmər vəˈkeɪʃn/",
+    "chinese": "缺点；过失；故障",
+    "english": "fault",
+    "soundmark": "/fɔlt/",
     "grammar": [
       {
-        "text": "I",
-        "chinese": "我"
-      },
-      {
-        "text": "am",
-        "chinese": "是"
-      },
-      {
-        "text": "looking",
-        "chinese": "看/看起来"
-      },
-      {
-        "text": "forward"
-      },
-      {
-        "text": "to",
-        "chinese": "去/到"
-      },
-      {
-        "text": "the",
-        "chinese": "这/那"
-      },
-      {
-        "text": "summer"
-      },
-      {
-        "text": "vacation.",
-        "chinese": "假期"
+        "label": "n",
+        "text": "n：缺点；过失；故障"
       }
     ]
   },
   {
-    "english": "Traveling alone can be a wonderful experience.",
-    "chinese": "独自旅行可以是一种美妙的体验。",
-    "soundmark": "/ˈtrævəlɪŋ əˈləʊn kæn biː ə ˈwʌndərfl ɪkˈspɪəriəns/",
+    "chinese": "有错误的，有缺点的",
+    "english": "faulty",
+    "soundmark": "/'fɔlti/",
     "grammar": [
       {
-        "text": "Traveling",
-        "chinese": "旅行"
-      },
+        "label": "adj",
+        "text": "adj：有错误的，有缺点的"
+      }
+    ]
+  },
+  {
+    "chinese": "好感；赞同；恩惠",
+    "english": "favour",
+    "soundmark": "/ˈfevɚ/",
+    "grammar": [
       {
-        "text": "alone",
-        "chinese": "独自"
-      },
+        "label": "n",
+        "text": "n：好感；赞同；恩惠"
+      }
+    ]
+  },
+  {
+    "chinese": "有利的；赞成的",
+    "english": "favourable",
+    "soundmark": "/'feivərəbl/",
+    "grammar": [
       {
-        "text": "can",
-        "chinese": "能够"
-      },
+        "label": "adj",
+        "text": "adj：有利的；赞成的"
+      }
+    ]
+  },
+  {
+    "chinese": "特别受喜爱的",
+    "english": "favourite",
+    "soundmark": "/'fevərɪt/",
+    "grammar": [
       {
-        "text": "be",
-        "chinese": "是/成为"
-      },
+        "label": "adj",
+        "text": "adj：特别受喜爱的"
+      }
+    ]
+  },
+  {
+    "chinese": "害怕；担心；害怕",
+    "english": "fear",
+    "soundmark": "/fɪr/",
+    "grammar": [
       {
-        "text": "a",
-        "chinese": "一个"
-      },
+        "label": "v，n",
+        "text": "v，n：害怕；担心；害怕"
+      }
+    ]
+  },
+  {
+    "chinese": "害怕的，可怕的",
+    "english": "fearful",
+    "soundmark": "/'fɪrfəl/",
+    "grammar": [
       {
-        "text": "wonderful"
-      },
+        "label": "adj",
+        "text": "adj：害怕的，可怕的"
+      }
+    ]
+  },
+  {
+    "chinese": "盛宴，筵席；节日",
+    "english": "feast",
+    "soundmark": "/fist/",
+    "grammar": [
       {
-        "text": "experience.",
-        "chinese": "经验/体验"
+        "label": "n",
+        "text": "n：盛宴，筵席；节日"
+      }
+    ]
+  },
+  {
+    "chinese": "羽毛；翎毛；羽状物",
+    "english": "feather",
+    "soundmark": "/'fɛðɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：羽毛；翎毛；羽状物"
+      }
+    ]
+  },
+  {
+    "chinese": "二月",
+    "english": "February",
+    "soundmark": "/'fɛbrʊ'ɛri/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：二月"
+      }
+    ]
+  },
+  {
+    "chinese": "联邦的；联盟的",
+    "english": "federal",
+    "soundmark": "/'fɛdərəl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：联邦的；联盟的"
+      }
+    ]
+  },
+  {
+    "chinese": "费，酬金；赏金",
+    "english": "fee",
+    "soundmark": "/fi/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：费，酬金；赏金"
+      }
+    ]
+  },
+  {
+    "chinese": "虚弱的；微弱的",
+    "english": "feeble",
+    "soundmark": "/'fibl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：虚弱的；微弱的"
+      }
+    ]
+  },
+  {
+    "chinese": "喂(养)；吃饲料",
+    "english": "feed",
+    "soundmark": "/fid/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：喂(养)；吃饲料"
+      }
+    ]
+  },
+  {
+    "chinese": "有知觉；触，摸",
+    "english": "feel",
+    "soundmark": "/fiːl/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：有知觉；触，摸"
+      }
+    ]
+  },
+  {
+    "chinese": "感情；感觉，知觉",
+    "english": "feeling",
+    "soundmark": "/'filɪŋ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：感情；感觉，知觉"
+      }
+    ]
+  },
+  {
+    "chinese": "人，家伙；伙伴",
+    "english": "fellow",
+    "soundmark": "/'fɛlo/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：人，家伙；伙伴"
+      }
+    ]
+  },
+  {
+    "chinese": "雌性的动物；女子",
+    "english": "female",
+    "soundmark": "/'fimel/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：雌性的动物；女子"
+      }
+    ]
+  },
+  {
+    "chinese": "栅栏",
+    "english": "fence",
+    "soundmark": "/fɛns/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：栅栏"
+      }
+    ]
+  },
+  {
+    "chinese": "肥沃的；多产的",
+    "english": "fertile",
+    "soundmark": "/ˈfɝtəl; (canadian) ˈfɝˌtaɪl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：肥沃的；多产的"
+      }
+    ]
+  },
+  {
+    "chinese": "肥料",
+    "english": "fertilizer",
+    "soundmark": "/'fɝtəlaɪzɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：肥料"
+      }
+    ]
+  },
+  {
+    "chinese": "节日；音乐节",
+    "english": "festival",
+    "soundmark": "/ˈfɛstəvəl/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：节日；音乐节"
+      }
+    ]
+  },
+  {
+    "chinese": "发热，发烧；狂热",
+    "english": "fever",
+    "soundmark": "/'fivɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：发热，发烧；狂热"
+      }
+    ]
+  },
+  {
+    "chinese": "很少的；少数的",
+    "english": "few",
+    "soundmark": "/fju/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：很少的；少数的"
+      }
+    ]
+  },
+  {
+    "chinese": "纤维，纤维质",
+    "english": "fibre",
+    "soundmark": "/'faibə/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：纤维，纤维质"
+      }
+    ]
+  },
+  {
+    "chinese": "田野；田；运动场",
+    "english": "field",
+    "soundmark": "/fild/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：田野；田；运动场"
+      }
+    ]
+  },
+  {
+    "chinese": "凶猛的，狂热的",
+    "english": "fierce",
+    "soundmark": "/fɪrs/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：凶猛的，狂热的"
+      }
+    ]
+  },
+  {
+    "chinese": "十五；十五个",
+    "english": "fifteen",
+    "soundmark": "/,fɪf'tin/",
+    "grammar": [
+      {
+        "label": "num",
+        "text": "num：十五；十五个"
+      }
+    ]
+  },
+  {
+    "chinese": "第五；五分之一",
+    "english": "fifth",
+    "soundmark": "/fɪfθ/",
+    "grammar": [
+      {
+        "label": "num，n",
+        "text": "num，n：第五；五分之一"
+      }
+    ]
+  },
+  {
+    "chinese": "五十，五十个",
+    "english": "fifty",
+    "soundmark": "/'fɪfti/",
+    "grammar": [
+      {
+        "label": "num",
+        "text": "num：五十，五十个"
+      }
+    ]
+  },
+  {
+    "chinese": "打(仗)；斗争",
+    "english": "fight",
+    "soundmark": "/faɪt/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：打(仗)；斗争"
+      }
+    ]
+  },
+  {
+    "chinese": "档案；把…归档",
+    "english": "file",
+    "soundmark": "/faɪl/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：档案；把…归档"
+      }
+    ]
+  },
+  {
+    "chinese": "装满，盛满；占满",
+    "english": "fill",
+    "soundmark": "/fɪl/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：装满，盛满；占满"
+      }
+    ]
+  },
+  {
+    "chinese": "影片；胶卷；薄层",
+    "english": "film",
+    "soundmark": "/fɪlm/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：影片；胶卷；薄层"
+      }
+    ]
+  },
+  {
+    "chinese": "过滤；滤纸",
+    "english": "filter",
+    "soundmark": "/'fɪltɚ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：过滤；滤纸"
+      }
+    ]
+  },
+  {
+    "chinese": "最后的；决定性的",
+    "english": "final",
+    "soundmark": "/'faɪnl/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：最后的；决定性的"
+      }
+    ]
+  },
+  {
+    "chinese": "最后；不可更改的",
+    "english": "finally",
+    "soundmark": "/'faɪnəli/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：最后；不可更改的"
+      }
+    ]
+  },
+  {
+    "chinese": "找到；发觉；找出",
+    "english": "find",
+    "soundmark": "/faɪnd/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：找到；发觉；找出"
+      }
+    ]
+  },
+  {
+    "chinese": "发现；调查的结果",
+    "english": "finding",
+    "soundmark": "/'faɪndɪŋ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：发现；调查的结果"
+      }
+    ]
+  },
+  {
+    "chinese": "手指；指状物",
+    "english": "finger",
+    "soundmark": "/'fɪŋɡɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：手指；指状物"
+      }
+    ]
+  },
+  {
+    "chinese": "完成，结束；结束",
+    "english": "finish",
+    "soundmark": "/'fɪnɪʃ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：完成，结束；结束"
+      }
+    ]
+  },
+  {
+    "chinese": "火；火灾；开火",
+    "english": "fire",
+    "soundmark": "/faɪr/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：火；火灾；开火"
+      }
+    ]
+  },
+  {
+    "chinese": "消防队员；司炉工",
+    "english": "fireman",
+    "soundmark": "/'faɪrmən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：消防队员；司炉工"
+      }
+    ]
+  },
+  {
+    "chinese": "商行，商号，公司",
+    "english": "firm",
+    "soundmark": "/fɝm/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：商行，商号，公司"
+      }
+    ]
+  },
+  {
+    "chinese": "第一；最初",
+    "english": "first",
+    "soundmark": "/fɝst/",
+    "grammar": [
+      {
+        "label": "num，adv",
+        "text": "num，adv：第一；最初"
+      }
+    ]
+  },
+  {
+    "chinese": "鱼，鱼肉；钓鱼",
+    "english": "fish",
+    "soundmark": "/fɪʃ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：鱼，鱼肉；钓鱼"
+      }
+    ]
+  },
+  {
+    "chinese": "渔民，渔夫，打鱼人",
+    "english": "fisherman",
+    "soundmark": "/'fɪʃɚmən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：渔民，渔夫，打鱼人"
+      }
+    ]
+  },
+  {
+    "chinese": "拳(头)",
+    "english": "fist",
+    "soundmark": "/fɪst/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：拳(头)"
+      }
+    ]
+  },
+  {
+    "chinese": "适合；安装；适合",
+    "english": "fit",
+    "soundmark": "/fɪt/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：适合；安装；适合"
+      }
+    ]
+  },
+  {
+    "chinese": "五，五个，第五",
+    "english": "five",
+    "soundmark": "/faɪv/",
+    "grammar": [
+      {
+        "label": "num",
+        "text": "num：五，五个，第五"
+      }
+    ]
+  },
+  {
+    "chinese": "使固定；决定",
+    "english": "fix",
+    "soundmark": "/fɪks/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：使固定；决定"
+      }
+    ]
+  },
+  {
+    "chinese": "旗，旗帜；旗舰旗",
+    "english": "flag",
+    "soundmark": "/flæg/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：旗，旗帜；旗舰旗"
+      }
+    ]
+  },
+  {
+    "chinese": "火焰；光辉；热情",
+    "english": "flame",
+    "soundmark": "/flem/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：火焰；光辉；热情"
+      }
+    ]
+  },
+  {
+    "chinese": "闪耀；使闪亮",
+    "english": "flare",
+    "soundmark": "/flɛr/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：闪耀；使闪亮"
+      }
+    ]
+  },
+  {
+    "chinese": "闪光；闪，闪烁",
+    "english": "flash",
+    "soundmark": "/flæʃ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：闪光；闪，闪烁"
+      }
+    ]
+  },
+  {
+    "chinese": "平的，扁平的",
+    "english": "flat",
+    "soundmark": "/flæt/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：平的，扁平的"
+      }
+    ]
+  },
+  {
+    "chinese": "味，味道；风味",
+    "english": "flavour",
+    "soundmark": "/'fleivə/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：味，味道；风味"
+      }
+    ]
+  },
+  {
+    "chinese": "舰队；船队，机群",
+    "english": "fleet",
+    "soundmark": "/flit/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：舰队；船队，机群"
+      }
+    ]
+  },
+  {
+    "chinese": "肉，肌肉；肉体",
+    "english": "flesh",
+    "soundmark": "/flɛʃ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：肉，肌肉；肉体"
+      }
+    ]
+  },
+  {
+    "chinese": "航班；飞行；逃跑",
+    "english": "flight",
+    "soundmark": "/flaɪt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：航班；飞行；逃跑"
+      }
+    ]
+  },
+  {
+    "chinese": "漂浮；使漂浮",
+    "english": "float",
+    "soundmark": "/flot/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：漂浮；使漂浮"
+      }
+    ]
+  },
+  {
+    "chinese": "羊群，群；大量",
+    "english": "flock",
+    "soundmark": "/flɑk/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：羊群，群；大量"
+      }
+    ]
+  },
+  {
+    "chinese": "洪水；淹没",
+    "english": "flood",
+    "soundmark": "/flʌd/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：洪水；淹没"
+      }
+    ]
+  },
+  {
+    "chinese": "地板；楼层",
+    "english": "floor",
+    "soundmark": "/flɔr/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：地板；楼层"
+      }
+    ]
+  },
+  {
+    "chinese": "面粉，粉；粉状物质",
+    "english": "flour",
+    "soundmark": "/'flaʊɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：面粉，粉；粉状物质"
+      }
+    ]
+  },
+  {
+    "chinese": "繁荣，茂盛，兴旺",
+    "english": "flourish",
+    "soundmark": "/ˈflɜːrɪʃ/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：繁荣，茂盛，兴旺"
+      }
+    ]
+  },
+  {
+    "chinese": "花，花卉；开花",
+    "english": "flower",
+    "soundmark": "/'flaʊɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：花，花卉；开花"
+      }
+    ]
+  },
+  {
+    "chinese": "流行性感冒",
+    "english": "flu",
+    "soundmark": "/flu/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：流行性感冒"
+      }
+    ]
+  },
+  {
+    "chinese": "流利的，流畅的",
+    "english": "fluent",
+    "soundmark": "/'fluənt/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：流利的，流畅的"
+      }
+    ]
+  },
+  {
+    "chinese": "流体，液体",
+    "english": "fluid",
+    "soundmark": "/'fluɪd/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：流体，液体"
+      }
+    ]
+  },
+  {
+    "chinese": "奔流；(脸)发红",
+    "english": "flush",
+    "soundmark": "/flʌʃ/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：奔流；(脸)发红"
+      }
+    ]
+  },
+  {
+    "chinese": "蝇，苍蝇；飞行",
+    "english": "fly",
+    "soundmark": "/flaɪ/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：蝇，苍蝇；飞行"
+      }
+    ]
+  },
+  {
+    "chinese": "聚焦，注视；焦点",
+    "english": "focus",
+    "soundmark": "/'fokəs/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：聚焦，注视；焦点"
+      }
+    ]
+  },
+  {
+    "chinese": "雾；烟雾，尘雾",
+    "english": "fog",
+    "soundmark": "/fɔɡ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：雾；烟雾，尘雾"
+      }
+    ]
+  },
+  {
+    "chinese": "折叠；合拢；褶",
+    "english": "fold",
+    "soundmark": "/fold/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：折叠；合拢；褶"
+      }
+    ]
+  },
+  {
+    "chinese": "人们，家属，亲属",
+    "english": "folk",
+    "soundmark": "/fok/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：人们，家属，亲属"
+      }
+    ]
+  },
+  {
+    "chinese": "跟随；结果是",
+    "english": "follow",
+    "soundmark": "/'fɑlo/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：跟随；结果是"
+      }
+    ]
+  },
+  {
+    "chinese": "接着的；下列的",
+    "english": "following",
+    "soundmark": "/'fɑloɪŋ/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：接着的；下列的"
+      }
+    ]
+  },
+  {
+    "chinese": "喜爱的；溺爱的",
+    "english": "fond",
+    "soundmark": "/fɑnd/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：喜爱的；溺爱的"
+      }
+    ]
+  },
+  {
+    "chinese": "食物，食品，养料",
+    "english": "food",
+    "soundmark": "/fud/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：食物，食品，养料"
+      }
+    ]
+  },
+  {
+    "chinese": "蠢人，傻子；欺骗",
+    "english": "fool",
+    "soundmark": "/ful/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：蠢人，傻子；欺骗"
+      }
+    ]
+  },
+  {
+    "chinese": "愚蠢的；鲁莽的",
+    "english": "foolish",
+    "soundmark": "/'fulɪʃ/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：愚蠢的；鲁莽的"
+      }
+    ]
+  },
+  {
+    "chinese": "脚；最下部；英尺",
+    "english": "foot",
+    "soundmark": "/fʊt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：脚；最下部；英尺"
+      }
+    ]
+  },
+  {
+    "chinese": "足球比赛；足球",
+    "english": "football",
+    "soundmark": "/'fʊtbɔl/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：足球比赛；足球"
+      }
+    ]
+  },
+  {
+    "chinese": "脚步；脚步声；足迹",
+    "english": "footstep",
+    "soundmark": "/'fʊtstɛp/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：脚步；脚步声；足迹"
+      }
+    ]
+  },
+  {
+    "chinese": "为；给；因为",
+    "english": "for",
+    "soundmark": "/fɚ; strong form fɔr/",
+    "grammar": [
+      {
+        "label": "prep",
+        "text": "prep：为；给；因为"
+      }
+    ]
+  },
+  {
+    "chinese": "禁止，不许；阻止",
+    "english": "forbid",
+    "soundmark": "/fɚ'bɪd/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：禁止，不许；阻止"
+      }
+    ]
+  },
+  {
+    "chinese": "强迫；力，力量",
+    "english": "force",
+    "soundmark": "/fɔrs/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：强迫；力，力量"
+      }
+    ]
+  },
+  {
+    "chinese": "预测，预报；预示",
+    "english": "forecast",
+    "soundmark": "/'fɔrkæst/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：预测，预报；预示"
+      }
+    ]
+  },
+  {
+    "chinese": "额头，前部",
+    "english": "forehead",
+    "soundmark": "/'fɔr'hɛd/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：额头，前部"
+      }
+    ]
+  },
+  {
+    "chinese": "外国的；外来的",
+    "english": "foreign",
+    "soundmark": "/'fɔrən/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：外国的；外来的"
+      }
+    ]
+  },
+  {
+    "chinese": "外国人",
+    "english": "foreigner",
+    "soundmark": "/'fɔrənɚ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：外国人"
+      }
+    ]
+  },
+  {
+    "chinese": "最初的；第一流的",
+    "english": "foremost",
+    "soundmark": "/'fɔr'most/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：最初的；第一流的"
+      }
+    ]
+  },
+  {
+    "chinese": "森林；森林地带",
+    "english": "forest",
+    "soundmark": "/'fɔrɪst/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：森林；森林地带"
+      }
+    ]
+  },
+  {
+    "chinese": "永远，总是，老是",
+    "english": "forever",
+    "soundmark": "/fɚ'ɛvɚ/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：永远，总是，老是"
+      }
+    ]
+  },
+  {
+    "chinese": "忘记，遗忘",
+    "english": "forget",
+    "soundmark": "/fɚ'ɡɛt/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：忘记，遗忘"
+      }
+    ]
+  },
+  {
+    "chinese": "原谅，饶恕，宽恕",
+    "english": "forgive",
+    "soundmark": "/fɚ'ɡɪv/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：原谅，饶恕，宽恕"
+      }
+    ]
+  },
+  {
+    "chinese": "餐叉；叉；分叉",
+    "english": "fork",
+    "soundmark": "/fɔrk/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：餐叉；叉；分叉"
+      }
+    ]
+  },
+  {
+    "chinese": "形式；形状；形成",
+    "english": "form",
+    "soundmark": "/fɔrm/",
+    "grammar": [
+      {
+        "label": "v，n",
+        "text": "v，n：形式；形状；形成"
+      }
+    ]
+  },
+  {
+    "chinese": "正式的；礼仪上的",
+    "english": "formal",
+    "soundmark": "/'fɔrml/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：正式的；礼仪上的"
+      }
+    ]
+  },
+  {
+    "chinese": "形成；构成；形成物",
+    "english": "formation",
+    "soundmark": "/fɔr'meʃən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：形成；构成；形成物"
+      }
+    ]
+  },
+  {
+    "chinese": "在前的；前者",
+    "english": "former",
+    "soundmark": "/'fɔrmɚ/",
+    "grammar": [
+      {
+        "label": "n，adj",
+        "text": "n，adj：在前的；前者"
+      }
+    ]
+  },
+  {
+    "chinese": "公式，式",
+    "english": "formula",
+    "soundmark": "/'fɔrmjələ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：公式，式"
+      }
+    ]
+  },
+  {
+    "chinese": "向前；向外，往外",
+    "english": "forth",
+    "soundmark": "/fɔrθ/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：向前；向外，往外"
+      }
+    ]
+  },
+  {
+    "chinese": "两星期，十四天",
+    "english": "fortnight",
+    "soundmark": "/'fɔrtnaɪt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：两星期，十四天"
+      }
+    ]
+  },
+  {
+    "chinese": "幸运的，侥幸的",
+    "english": "fortunate",
+    "soundmark": "/'fɔrtʃənət/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：幸运的，侥幸的"
+      }
+    ]
+  },
+  {
+    "chinese": "命运，运气；财产",
+    "english": "fortune",
+    "soundmark": "/'fɔrtʃən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：命运，运气；财产"
+      }
+    ]
+  },
+  {
+    "chinese": "四十，第四十",
+    "english": "forty",
+    "soundmark": "/'fɔrti/",
+    "grammar": [
+      {
+        "label": "num",
+        "text": "num：四十，第四十"
+      }
+    ]
+  },
+  {
+    "chinese": "向前；今后，往后",
+    "english": "forward",
+    "soundmark": "/'fɔrwɚd/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：向前；今后，往后"
+      }
+    ]
+  },
+  {
+    "chinese": "创立，创办；建立",
+    "english": "found",
+    "soundmark": "/faʊnd/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：创立，创办；建立"
+      }
+    ]
+  },
+  {
+    "chinese": "泉水，喷泉；源泉",
+    "english": "fountain",
+    "soundmark": "/'faʊntn/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：泉水，喷泉；源泉"
+      }
+    ]
+  },
+  {
+    "chinese": "四，四个，第四",
+    "english": "four",
+    "soundmark": "/fɔr/",
+    "grammar": [
+      {
+        "label": "num",
+        "text": "num：四，四个，第四"
+      }
+    ]
+  },
+  {
+    "chinese": "十四，第十四",
+    "english": "fourteen",
+    "soundmark": "/,fɔr'tin/",
+    "grammar": [
+      {
+        "label": "num",
+        "text": "num：十四，第十四"
+      }
+    ]
+  },
+  {
+    "chinese": "第四，四分之一",
+    "english": "fourth",
+    "soundmark": "/fɔrθ/",
+    "grammar": [
+      {
+        "label": "num",
+        "text": "num：第四，四分之一"
+      }
+    ]
+  },
+  {
+    "chinese": "狐狸；狡猾的人",
+    "english": "fox",
+    "soundmark": "/fɑks/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：狐狸；狡猾的人"
+      }
+    ]
+  },
+  {
+    "chinese": "小部分；片断；分数",
+    "english": "fraction",
+    "soundmark": "/'frækʃən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：小部分；片断；分数"
+      }
+    ]
+  },
+  {
+    "chinese": "碎片，破片，碎块",
+    "english": "fragment",
+    "soundmark": "/'fræɡmənt/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：碎片，破片，碎块"
+      }
+    ]
+  },
+  {
+    "chinese": "框架，构架，结构",
+    "english": "framework",
+    "soundmark": "/'fremwɝk/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：框架，构架，结构"
+      }
+    ]
+  },
+  {
+    "chinese": "法国，法兰西",
+    "english": "France",
+    "soundmark": "/frɑːns/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：法国，法兰西"
+      }
+    ]
+  },
+  {
+    "chinese": "坦白的，直率的",
+    "english": "frank",
+    "soundmark": "/fræŋk/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：坦白的，直率的"
+      }
+    ]
+  },
+  {
+    "chinese": "自由的；空闲的",
+    "english": "free",
+    "soundmark": "/fri/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：自由的；空闲的"
+      }
+    ]
+  },
+  {
+    "chinese": "自由；自主",
+    "english": "freedom",
+    "soundmark": "/'fridəm/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：自由；自主"
+      }
+    ]
+  },
+  {
+    "chinese": "自由地；直率地",
+    "english": "freely",
+    "soundmark": "/'frili/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：自由地；直率地"
+      }
+    ]
+  },
+  {
+    "chinese": "冻；结冻；使结冰",
+    "english": "freeze",
+    "soundmark": "/friz/",
+    "grammar": [
+      {
+        "label": "v",
+        "text": "v：冻；结冻；使结冰"
+      }
+    ]
+  },
+  {
+    "chinese": "货运；货物；运费",
+    "english": "freight",
+    "soundmark": "/fret/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：货运；货物；运费"
+      }
+    ]
+  },
+  {
+    "chinese": "法国的；法国人",
+    "english": "French",
+    "soundmark": "/fren(t)ʃ/",
+    "grammar": [
+      {
+        "label": "n，adj",
+        "text": "n，adj：法国的；法国人"
+      }
+    ]
+  },
+  {
+    "chinese": "屡次；次数；频率",
+    "english": "frequency",
+    "soundmark": "/'frikwənsi/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：屡次；次数；频率"
+      }
+    ]
+  },
+  {
+    "chinese": "时常发生的；经常的",
+    "english": "frequent",
+    "soundmark": "/'frikwənt/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：时常发生的；经常的"
+      }
+    ]
+  },
+  {
+    "chinese": "时常，常常",
+    "english": "frequently",
+    "soundmark": "/'frikwəntli/",
+    "grammar": [
+      {
+        "label": "adv",
+        "text": "adv：时常，常常"
+      }
+    ]
+  },
+  {
+    "chinese": "新的；新鲜的",
+    "english": "fresh",
+    "soundmark": "/frɛʃ/",
+    "grammar": [
+      {
+        "label": "adj",
+        "text": "adj：新的；新鲜的"
+      }
+    ]
+  },
+  {
+    "chinese": "摩擦，摩擦力",
+    "english": "friction",
+    "soundmark": "/'frɪkʃən/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：摩擦，摩擦力"
+      }
+    ]
+  },
+  {
+    "chinese": "星期五",
+    "english": "Friday",
+    "soundmark": "/'fraɪdeɪ; (occas.,) ˈfraɪdi/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：星期五"
+      }
+    ]
+  },
+  {
+    "chinese": "电冰箱",
+    "english": "fridge",
+    "soundmark": "/frɪdʒ/",
+    "grammar": [
+      {
+        "label": "n",
+        "text": "n：电冰箱"
       }
     ]
   }

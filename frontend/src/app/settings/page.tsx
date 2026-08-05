@@ -90,8 +90,8 @@ export default function SettingsPage() {
             defaultEnabled={true}
           />
           <PlayCountPicker
-            label="听写播放次数"
-            desc="听写模式下，每题自动播放几次发音"
+            label="自动朗读次数"
+            desc="进入新题目时，自动播放几次发音"
             localStorageKey="dictationPlayCount"
             defaultValue={2}
           />
