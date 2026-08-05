@@ -71,8 +71,6 @@ function GamePage() {
   // 结算提交防重
   const [nextCourseId, setNextCourseId] = useState<string | null>(null);
   const [nextCourseTitle, setNextCourseTitle] = useState<string | null>(null);
-  const ttsAudioRef = useRef<HTMLAudioElement | null>(null);
-  const activeAudiosRef = useRef<Set<HTMLAudioElement>>(new Set());
   const lastReportedElapsedRef = useRef(0);
   const prevStatusRef = useRef(status);
   // 游客模式：答题计数 + 注册提示
@@ -83,18 +81,98 @@ function GamePage() {
   const syncError = useGameStore((s) => s.syncError);
   const clearSyncError = useGameStore((s) => s.clearSyncError);
 
-  // 停止所有正在播放的 TTS
+  // ==== 统一 TTS 管理器 ====
+  // 所有播放共享的追踪机制，解决快捷键与自动播放重叠的问题
+  const ttsAudioRef = useRef<HTMLAudioElement | null>(null);
+  const activeAudiosRef = useRef<Set<HTMLAudioElement>>(new Set());
+  const pendingTimersRef = useRef<Set<ReturnType<typeof setTimeout>>>(new Set());
+  const playSessionRef = useRef(0);
+
   const stopAllTTS = useCallback(() => {
-    if (ttsAudioRef.current) {
-      ttsAudioRef.current.pause();
-      ttsAudioRef.current.currentTime = 0;
-    }
+    // 1. 取消所有待执行的延时回调
+    pendingTimersRef.current.forEach(clearTimeout);
+    pendingTimersRef.current.clear();
+    // 2. 停止所有正在播放的音频
     activeAudiosRef.current.forEach((a) => {
       a.pause();
       a.currentTime = 0;
     });
     activeAudiosRef.current.clear();
+    // 3. 递增 session，使旧回调自然作废
+    playSessionRef.current++;
   }, []);
+
+  // 可追踪的 setTimeout（stopAllTTS 能取消）
+  const scheduleTimeout = useCallback(
+    (fn: () => void, delay: number) => {
+      const timer = setTimeout(() => {
+        pendingTimersRef.current.delete(timer);
+        fn();
+      }, delay);
+      pendingTimersRef.current.add(timer);
+      return timer;
+    },
+    [],
+  );
+
+  // 核心播放函数 — 自动播放和快捷键共用
+  const doPlayTTS = useCallback(
+    (text: string) => {
+      if (!text) return;
+
+      // 先清理旧播放，创建新 session
+      stopAllTTS();
+      const sessionId = playSessionRef.current;
+
+      const voice = (() => {
+        try {
+          return localStorage.getItem("ttsVoice") || "en-US-JennyNeural";
+        } catch {
+          return "en-US-JennyNeural";
+        }
+      })();
+
+      const raw = localStorage.getItem("dictationPlayCount");
+      const playCount = raw
+        ? Math.max(1, Math.min(3, parseInt(raw, 10) || 1))
+        : 2;
+
+      let times = 0;
+      const playOnce = () => {
+        // 新 session 已启动 → 作废
+        if (playSessionRef.current !== sessionId) return;
+        if (times >= playCount) return;
+        times++;
+
+        const a = new Audio(getTtsUrl(text, voice, "+15%"));
+        activeAudiosRef.current.add(a);
+
+        a.play().catch(() => {});
+
+        a.onended = () => {
+          activeAudiosRef.current.delete(a);
+          if (times < playCount && playSessionRef.current === sessionId) {
+            scheduleTimeout(playOnce, 250);
+          }
+        };
+
+        // 兜底：音频卡住 3 秒未播完则强制推进
+        scheduleTimeout(() => {
+          if (
+            times < playCount &&
+            a.paused &&
+            playSessionRef.current === sessionId
+          ) {
+            activeAudiosRef.current.delete(a);
+            playOnce();
+          }
+        }, 3000);
+      };
+
+      playOnce();
+    },
+    [stopAllTTS, scheduleTimeout],
+  );
 
   // Auth check
   // Guests 可以直接玩，无需登录
@@ -199,46 +277,12 @@ function GamePage() {
     prevPhaseRef.current = phase;
   }, [phase, playRightSound, playErrorSound]);
 
-  // TTS playback (支持多播)
-  const getVoice = useCallback(() => {
-    try {
-      return localStorage.getItem("ttsVoice") || "en-US-JennyNeural";
-    } catch {
-      return "en-US-JennyNeural";
-    }
-  }, []);
-
+  // 快捷键触发播放（获取当前句子的 text，传给统一的 doPlayTTS）
   const playTTS = useCallback(() => {
-    stopAllTTS();
-
-    // 所有模式都按设置次数播放
-    const raw = localStorage.getItem("dictationPlayCount");
-    const playCount = raw ? Math.max(1, Math.min(3, parseInt(raw, 10) || 1)) : 2;
-
-    let times = 0;
-    const voice = getVoice();
-    const playOnce = () => {
-      if (times >= playCount) return;
-      times++;
-      const stmt = getCurrentStatement();
-      if (!stmt) return;
-      const a = new Audio(getTtsUrl(stmt.english, voice, "+15%"));
-
-      if (playCount === 1 && !ttsAudioRef.current) {
-        ttsAudioRef.current = a;
-      }
-
-      a.play().catch(() => {});
-      a.onended = () => {
-        if (times < playCount) setTimeout(playOnce, 250);
-      };
-      // 兜底：3s 后下一轮
-      setTimeout(() => {
-        if (times < playCount && a.paused) playOnce();
-      }, 3000);
-    };
-    playOnce();
-  }, [getCurrentStatement, getVoice, stopAllTTS]);
+    const stmt = getCurrentStatement();
+    if (!stmt) return;
+    doPlayTTS(stmt.english);
+  }, [getCurrentStatement, doPlayTTS]);
 
   // 自动播放：进入新题目时朗读发音 + 预加载后续单词
   const prevStmtIndexRef = useRef(currentStatementIndex);
@@ -255,55 +299,35 @@ function GamePage() {
     if (isFirstMount || isNewStatement) {
       hasAutoPlayed.current = true;
       prevStmtIndexRef.current = currentStatementIndex;
-      // 立刻停止上一题的 TTS，避免延迟
-      stopAllTTS();
-      const timer = setTimeout(() => {
-        // 直接从 store 读，避免依赖 playTTS/playTTSMulti 导致 effect 重入清 timer
-        const state = useGameStore.getState();
-        const stmts = state.visibleStatements;
-        const stmt = stmts[state.currentStatementIndex];
-        if (!stmt) return;
 
-        const voice =
-          (() => {
-            try { return localStorage.getItem("ttsVoice") || "en-US-JennyNeural"; }
-            catch { return "en-US-JennyNeural"; }
-          })();
+      // 直接从 store 读取当前句子，调用统一的播放函数
+      const state = useGameStore.getState();
+      const stmts = state.visibleStatements;
+      const stmt = stmts[state.currentStatementIndex];
+      if (stmt) {
+        doPlayTTS(stmt.english);
+      }
 
-        // 所有模式都按设置次数播放
-        const raw = localStorage.getItem("dictationPlayCount");
-        const playCount = raw ? Math.max(1, Math.min(3, parseInt(raw, 10) || 1)) : 2;
-
-        let times = 0;
-        const playOnce = () => {
-          if (times >= playCount) return;
-          times++;
-          const a = new Audio(getTtsUrl(stmt.english, voice, "+15%"));
-          activeAudiosRef.current.add(a);
-          a.play().catch(() => {});
-          a.onended = () => {
-            activeAudiosRef.current.delete(a);
-            if (times < playCount) setTimeout(playOnce, 250);
-          };
-          setTimeout(() => { if (times < playCount && a.paused) playOnce(); }, 3000);
-        };
-        playOnce();
-
-        // 预加载后续 5 个单词的音频到浏览器 HTTP 缓存
-        // 滑动窗口策略：进入第 N 个词时，静默下载 N+1 ~ N+5
-        // 浏览器会缓存响应（Cache-Control: max-age=3600），后面秒开
-        const start = state.currentStatementIndex + 1;
-        const end = Math.min(start + 5, stmts.length);
-        for (let i = start; i < end; i++) {
-          const nextStmt = stmts[i];
-          if (nextStmt && nextStmt.english) {
-            preloadTts(nextStmt.english, voice, "+15%");
-          }
+      // 预加载后续 5 个单词的音频到浏览器 HTTP 缓存
+      // 滑动窗口策略：进入第 N 个词时，静默下载 N+1 ~ N+5
+      // 浏览器会缓存响应（Cache-Control: max-age=3600），后面秒开
+      const start = state.currentStatementIndex + 1;
+      const end = Math.min(start + 5, stmts.length);
+      const voice = (() => {
+        try {
+          return localStorage.getItem("ttsVoice") || "en-US-JennyNeural";
+        } catch {
+          return "en-US-JennyNeural";
         }
-      }, 0); // 0ms 延迟，立即触发预加载
-      return () => clearTimeout(timer);
+      })();
+      for (let i = start; i < end; i++) {
+        const nextStmt = stmts[i];
+        if (nextStmt && nextStmt.english) {
+          preloadTts(nextStmt.english, voice, "+15%");
+        }
+      }
     }
-  }, [currentStatementIndex, status, stopAllTTS]);
+  }, [currentStatementIndex, status, doPlayTTS]);
 
   // Listen for global play-tts event
   useEffect(() => {
