@@ -27,7 +27,7 @@ from app.schemas.game import (
     ReviewItemOut,
     MasterToggle,
 )
-from app.schemas.course import ProgressUpdate
+from app.schemas.course import ProgressUpdate, CompleteCourseRequest
 from app.services.game_engine import (
     check_answer,
     calc_quality,
@@ -227,10 +227,11 @@ async def update_progress(
 @router.post("/api/progress/{course_id}/complete")
 async def complete_course(
     course_id: str,
+    data: CompleteCourseRequest | None = None,
     db: AsyncSession = Depends(get_db),
     user: User = Depends(get_current_user),
 ):
-    """完成一课"""
+    """完成一课（可选附带答题结果用于批量写入 SM-2 复习数据）"""
     from app.models.progress import CourseProgress, CourseHistory
     from app.models.course import Course
 
@@ -281,6 +282,11 @@ async def complete_course(
     if hist:
         # 已经完成过，不重复加 XP（幂等）
         hist.last_completed_at = datetime.utcnow()
+
+        # 但仍然处理 SM-2 results（允许重新完成时更新复习数据）
+        if data and data.results:
+            await _bulk_submit_reviews(user.id, data.results, db)
+
         await db.commit()
         return {
             "completed": True,
@@ -309,6 +315,10 @@ async def complete_course(
         stats.xp += 50
         stats.level = int((stats.xp / 100) ** 0.5) + 1
 
+    # 批量写入 SM-2 复习数据
+    if data and data.results:
+        await _bulk_submit_reviews(user.id, data.results, db)
+
     await db.commit()
 
     return {
@@ -317,3 +327,31 @@ async def complete_course(
         "next_course_id": next_course.id if next_course else None,
         "next_course_title": next_course.title if next_course else None,
     }
+
+
+async def _bulk_submit_reviews(user_id: str, results: list, db: AsyncSession):
+    """批量写入 SM-2 复习数据（课程完成时调用）"""
+    from app.models.review import ReviewItem
+
+    for r in results:
+        # 查找已有 ReviewItem
+        result = await db.execute(
+            select(ReviewItem).where(
+                and_(
+                    ReviewItem.user_id == user_id,
+                    ReviewItem.statement_id == r.statement_id,
+                )
+            )
+        )
+        item = result.scalar_one_or_none()
+
+        if not item:
+            item = ReviewItem(
+                id=str(uuid.uuid4()),
+                user_id=user_id,
+                statement_id=r.statement_id,
+            )
+            db.add(item)
+            await db.flush()
+
+        sm2_algorithm(r.quality, item)

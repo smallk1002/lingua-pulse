@@ -79,6 +79,10 @@ function GamePage() {
   const guestSentenceCount = useRef(0);
   const [showRegBanner, setShowRegBanner] = useState(false);
 
+  // 同步错误提示
+  const syncError = useGameStore((s) => s.syncError);
+  const clearSyncError = useGameStore((s) => s.clearSyncError);
+
   // 停止所有正在播放的 TTS
   const stopAllTTS = useCallback(() => {
     if (ttsAudioRef.current) {
@@ -206,18 +210,8 @@ function GamePage() {
 
   const playTTS = useCallback(() => {
     stopAllTTS();
-    const stmt = getCurrentStatement();
-    if (!stmt) return;
-    const url = getTtsUrl(stmt.english, getVoice());
-    if (!ttsAudioRef.current) {
-      ttsAudioRef.current = new Audio();
-    }
-    ttsAudioRef.current.src = url;
-    ttsAudioRef.current.play().catch(() => {});
-  }, [getCurrentStatement, getVoice, stopAllTTS]);
 
-  // 播放 N 次 TTS，间隔 800ms
-  const playTTSMulti = useCallback(() => {
+    // dictation 模式：按设置次数多次播放
     let playCount = 1;
     if (mode === "dictation") {
       const raw = localStorage.getItem("dictationPlayCount");
@@ -231,21 +225,23 @@ function GamePage() {
       times++;
       const stmt = getCurrentStatement();
       if (!stmt) return;
-      const url = getTtsUrl(stmt.english, voice);
-      const a = new Audio(url);
+      const a = new Audio(getTtsUrl(stmt.english, voice));
+
+      if (playCount === 1 && !ttsAudioRef.current) {
+        ttsAudioRef.current = a;
+      }
+
       a.play().catch(() => {});
       a.onended = () => {
-        if (times < playCount) {
-          setTimeout(playOnce, 600);
-        }
+        if (times < playCount) setTimeout(playOnce, 600);
       };
-      // 兜底：2s 后下一轮
+      // 兜底：2.5s 后下一轮
       setTimeout(() => {
         if (times < playCount && a.paused) playOnce();
       }, 2500);
     };
     playOnce();
-  }, [mode, getCurrentStatement, getVoice]);
+  }, [mode, getCurrentStatement, getVoice, stopAllTTS]);
 
   // 自动播放：进入新题目时朗读发音
   const prevStmtIndexRef = useRef(currentStatementIndex);
@@ -343,7 +339,7 @@ function GamePage() {
     // 仅登录用户上报完成
     if (isAuthenticated) {
       try {
-        const res = await completeCourse(courseId, results);
+        const res = await completeCourse(courseId, results, xpEarned);
         useGameStore.setState({
           xpEarned: (useGameStore.getState().xpEarned || 0) + (res.xp_awarded || 0),
         });
@@ -500,6 +496,23 @@ function GamePage() {
               暂不
             </button>
           </div>
+        </div>
+      )}
+
+      {/* 同步错误提示 */}
+      {syncError && (
+        <div className="mb-3 p-2.5 rounded-lg bg-amber-50 dark:bg-amber-950/40
+                        border border-amber-200 dark:border-amber-800
+                        flex items-center justify-between">
+          <span className="text-xs text-amber-700 dark:text-amber-300 flex items-center gap-1.5">
+            <span>⚠️</span> {syncError}
+          </span>
+          <button
+            onClick={clearSyncError}
+            className="text-amber-400 hover:text-amber-600 text-xs px-1.5"
+          >
+            ✕
+          </button>
         </div>
       )}
 

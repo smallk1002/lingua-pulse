@@ -13,7 +13,7 @@ import type {
   GameResult,
   Course,
 } from "@/lib/types";
-import { saveProgress } from "@/lib/api";
+import { saveProgress, checkAnswer, submitReview } from "@/lib/api";
 
 interface GameState {
   // 游戏配置
@@ -43,6 +43,7 @@ interface GameState {
   // Fix 模式
   fixSlots: WordSlot[];
   fixIndex: number;
+  fixCount: number;  // 当前句子的 Fix 次数
 
   // 结果
   results: GameResult[];
@@ -54,6 +55,12 @@ interface GameState {
   // 计时
   startTime: string | null;
   elapsedSeconds: number;
+
+  // 错误通知
+  syncError: string | null;
+
+  // 进度保存去重
+  _saveProgressSeq: number;
 
   // Actions
   initGame: (
@@ -91,6 +98,7 @@ interface GameState {
   // 辅助
   getCurrentStatement: () => Statement | null;
   getProgress: () => number;
+  clearSyncError: () => void;
 }
 
 const getSavedMode = (): GameMode => {
@@ -125,6 +133,7 @@ export const useGameStore = create<GameState>((set, get) => ({
 
   fixSlots: [],
   fixIndex: 0,
+  fixCount: 0,
 
   results: [],
   xpEarned: 0,
@@ -134,6 +143,9 @@ export const useGameStore = create<GameState>((set, get) => ({
 
   startTime: null,
   elapsedSeconds: 0,
+
+  syncError: null,
+  _saveProgressSeq: 0,
 
   // ---- 初始化 ----
   initGame: (course, coursePackId, mode, difficulty) => {
@@ -217,12 +229,23 @@ export const useGameStore = create<GameState>((set, get) => ({
         showAnswer: false,
       });
 
-      // 保存进度：后端 + localStorage
+      // 保存进度：后端 + localStorage（带序号防竞态）
       if (courseId) {
-        saveProgress(courseId, nextIdx).catch(() => {});
-        try {
-          localStorage.setItem(`progress_${courseId}`, String(nextIdx));
-        } catch { /* ignore */ }
+        const seq = get()._saveProgressSeq + 1;
+        set({ _saveProgressSeq: seq });
+
+        saveProgress(courseId, nextIdx)
+          .then(() => {
+            // 只有序号最大的那次才写 localStorage，避免旧请求回退进度
+            if (get()._saveProgressSeq === seq) {
+              try {
+                localStorage.setItem(`progress_${courseId}`, String(nextIdx));
+              } catch { /* ignore */ }
+            }
+          })
+          .catch((e) => {
+            console.warn("[GameStore] saveProgress failed:", e);
+          });
       }
     } else {
       // 全部完成
@@ -257,7 +280,7 @@ export const useGameStore = create<GameState>((set, get) => ({
       start: words.slice(0, i).join(" ").length + (i > 0 ? 1 : 0),
       end: words.slice(0, i + 1).join(" ").length,
     }));
-    set({ wordSlots: slots, fixSlots: [], fixIndex: 0, isLastWord: words.length === 1 });
+    set({ wordSlots: slots, fixSlots: [], fixIndex: 0, fixCount: 0, isLastWord: words.length === 1 });
   },
 
   setWordSlots: (slots) => set({ wordSlots: slots }),
@@ -268,8 +291,36 @@ export const useGameStore = create<GameState>((set, get) => ({
 
   // ---- 提交 ----
   submitAnswer: () => {
-    const { wordSlots, phase, results, errorsPerStatement, visibleStatements, currentStatementIndex } = get();
+    const { wordSlots, phase, results, errorsPerStatement, visibleStatements, currentStatementIndex, fixCount, difficulty } = get();
     const stmt = visibleStatements[currentStatementIndex];
+
+    /** 上报答题结果到后端（fire-and-forget，不阻塞 UI） */
+    const reportToServer = (userInput: string, fc: number, quality: number) => {
+      // 1. 上报答题检查
+      const token = typeof window !== "undefined" ? localStorage.getItem("access_token") : null;
+      if (!token) return; // 未登录不报
+
+      checkAnswer({
+        statement_id: stmt.id,
+        user_input: userInput,
+        difficulty,
+        fix_count: fc,
+      }).catch((e) => {
+        console.warn("[GameStore] checkAnswer failed:", e);
+        set({ syncError: "答题记录上报失败，数据将在下次同步" });
+      });
+
+      // 2. 上报 SM-2 复习评分（quality >= 3 才需要）
+      if (quality >= 3) {
+        submitReview({ statement_id: stmt.id, quality }).catch((e) => {
+          console.warn("[GameStore] submitReview failed:", e);
+        });
+      }
+    };
+
+    // 构建用户输入的完整字符串
+    const buildUserInput = (slots: WordSlot[]): string =>
+      slots.map((s) => s.userInput).join(" ");
 
     if (phase === "question") {
       // 检查每个单词是否正确
@@ -303,6 +354,7 @@ export const useGameStore = create<GameState>((set, get) => ({
           phase: "fix",
           fixSlots: resetFixSlots,
           fixIndex: 0,
+          fixCount: fixCount + 1,
           errorsPerStatement: newErrors,
         });
       } else {
@@ -321,6 +373,10 @@ export const useGameStore = create<GameState>((set, get) => ({
           xpEarned: get().xpEarned + 10,
           combo: newCombo,
         });
+
+        // 上报后端
+        reportToServer(buildUserInput(newSlots), fixCount, quality);
+
         // 触发 combo 动画（延迟一下，等 answer 渲染完）
         setTimeout(() => get().triggerCombo(newCombo), 100);
       }
@@ -351,7 +407,7 @@ export const useGameStore = create<GameState>((set, get) => ({
 
       if (allCorrect) {
         // 修复后正确，combo 重置
-        const quality = 3;
+        const quality = fixCount <= 1 ? 4 : fixCount <= 2 ? 3 : 2;
         const newResults = [
           ...results,
           { statement_id: stmt.id, quality, interval: 0, ease_factor: 2.5, repetitions: 0 },
@@ -363,6 +419,9 @@ export const useGameStore = create<GameState>((set, get) => ({
           results: newResults,
           xpEarned: get().xpEarned + 5,
         });
+
+        // 上报后端（fix 后的总计数）
+        reportToServer(buildUserInput(updatedSlots), fixCount, quality);
       } else {
         // 还是有问题，保持在 fix 模式
         const stillWrong = fixSlots.filter(
@@ -376,6 +435,7 @@ export const useGameStore = create<GameState>((set, get) => ({
             userInput: "",
             status: i === 0 ? ("active" as const) : ("incorrect" as const),
           })),
+          fixCount: fixCount + 1,
         });
       }
     }
@@ -417,4 +477,6 @@ export const useGameStore = create<GameState>((set, get) => ({
     if (totalStatements === 0) return 0;
     return Math.round((currentStatementIndex / totalStatements) * 100);
   },
+
+  clearSyncError: () => set({ syncError: null }),
 }));

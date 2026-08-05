@@ -127,15 +127,61 @@ export async function saveProgress(
   });
 }
 
+/** 提交答题结果到后端（检查正确性、发放 XP） */
+export interface AnswerCheckResponse {
+  correct: boolean;
+  incorrect_words: number[];
+  normalized_input: string;
+  quality: number;
+  xp_earned: number;
+}
+
+export async function checkAnswer(data: {
+  statement_id: string;
+  user_input: string;
+  difficulty: string;
+  fix_count: number;
+}): Promise<AnswerCheckResponse> {
+  return request<AnswerCheckResponse>("/api/game/check", {
+    method: "POST",
+    body: JSON.stringify(data),
+  });
+}
+
+/** 提交 SM-2 复习评分（答题通过后调用） */
+export interface ReviewSubmitResponse {
+  id: string;
+  statement_id: string;
+  ease_factor: number;
+  interval: number;
+  repetitions: number;
+  next_review_at: string;
+  last_review_at: string | null;
+  last_quality: number | null;
+  total_reviews: number;
+  total_errors: number;
+}
+
+export async function submitReview(data: {
+  statement_id: string;
+  quality: number;
+}): Promise<ReviewSubmitResponse> {
+  return request<ReviewSubmitResponse>("/api/review/submit", {
+    method: "POST",
+    body: JSON.stringify(data),
+  });
+}
+
 export async function completeCourse(
   courseId: string,
-  results: GameResult[]
+  results: GameResult[],
+  xpEarned: number = 0
 ): Promise<CourseCompleteResponse> {
   return request<CourseCompleteResponse>(
     `/api/progress/${courseId}/complete`,
     {
       method: "POST",
-      body: JSON.stringify({ results }),
+      body: JSON.stringify({ results, xp_earned: xpEarned }),
     }
   );
 }

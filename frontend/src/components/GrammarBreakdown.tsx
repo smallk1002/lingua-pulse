@@ -98,27 +98,78 @@ function extractPerWordSoundmarks(soundmark: string, wordCount: number): string[
   return parts.length === wordCount ? parts : [];
 }
 
+/** 从 label text 中提取中文释义，如 "名词：教育" → "教育" */
+function extractChineseFromLabel(text?: string): string | undefined {
+  if (!text) return undefined;
+  // 匹配 "名词：教育"、"不可数名词：知识"、"adj.: academic" 等
+  const match = text.match(/[：:]\s*(.+)/);
+  return match ? match[1] : undefined;
+}
+
+/** 检测 grammar 是否为 CET-4 的 label 格式 */
+function isLabelFormat(g: unknown): g is { label?: string; text?: string } {
+  if (!g || typeof g !== "object") return false;
+  const obj = g as Record<string, unknown>;
+  return "label" in obj && !("role" in obj) && !("chinese" in obj) && !("tag" in obj);
+}
+
+interface ParsedGrammar {
+  items: WordAnalysis[];
+  /** CET-4 label 格式时的语法描述 */
+  grammarNote?: string;
+}
+
 /** 解析 grammar 数据为逐词分析数组 */
 function parseGrammar(
   english: string,
-  grammar?: Array<{ tag?: string; text?: string; role?: string; phonetic?: string; chinese?: string }> | null
-): WordAnalysis[] {
+  grammar?: Array<{ tag?: string; text?: string; role?: string; phonetic?: string; chinese?: string; label?: string }> | null
+): ParsedGrammar {
   if (grammar && Array.isArray(grammar) && grammar.length > 0) {
-    return grammar.map((g) => ({
-      text: g.text || "",
-      tag: g.tag,
-      role: g.role,
-      soundmark: g.phonetic ? g.phonetic.replace(/^\//, "").replace(/\/$/, "").replace(/ \//g, "·").replace(/\//g, "") : undefined,
-      chinese: g.chinese,
-    }));
+    const first = grammar[0];
+
+    // CET-4 label 格式：{ label: "n.", text: "名词：教育" }
+    if (isLabelFormat(first)) {
+      const words = english.split(/\s+/).filter(Boolean);
+      const grammarNote = grammar
+        .map((g) => `${g.label || ""}: ${g.text || ""}`)
+        .join(" | ");
+
+      // 单词语义：提取中文释义，显示在词卡下方
+      if (words.length === 1) {
+        const allChinese = grammar
+          .map((g) => extractChineseFromLabel(g.text))
+          .filter(Boolean);
+        const singleChinese = allChinese.length > 0 ? allChinese.join("; ") : undefined;
+        return {
+          items: words.map((w) => ({ text: w, tag: grammar[0]?.label, chinese: singleChinese })),
+          grammarNote,
+        };
+      }
+
+      return {
+        items: words.map((w) => ({ text: w })),
+        grammarNote,
+      };
+    }
+
+    // 标准 NCE2 格式：{ text, role, phonetic, chinese, tag }
+    return {
+      items: grammar.map((g) => ({
+        text: g.text || "",
+        tag: g.tag,
+        role: g.role,
+        soundmark: g.phonetic ? g.phonetic.replace(/^\//, "").replace(/\/$/, "").replace(/ \//g, "·").replace(/\//g, "") : undefined,
+        chinese: g.chinese,
+      })),
+    };
   }
   const words = english.split(/\s+/);
-  return words.map((w) => ({ text: w }));
+  return { items: words.map((w) => ({ text: w })) };
 }
 
 export function GrammarBreakdown({ english, soundmark, chinese, grammar }: GrammarBreakdownProps) {
   const words = english.split(/\s+/).filter(Boolean);
-  const analyses = parseGrammar(english, grammar);
+  const { items: analyses, grammarNote } = parseGrammar(english, grammar);
   const perWordSoundmarks = soundmark ? extractPerWordSoundmarks(soundmark, words.length) : [];
 
   // 合并：grammar 数据优先，soundmark 回退
@@ -137,6 +188,16 @@ export function GrammarBreakdown({ english, soundmark, chinese, grammar }: Gramm
 
   return (
     <div className="mt-4 space-y-4">
+      {/* CET-4 label 格式的语法描述 */}
+      {grammarNote && (
+        <div className="text-center">
+          <span className="inline-block text-xs font-medium text-gray-500 dark:text-gray-400
+                          bg-gray-100 dark:bg-gray-800 rounded-full px-3 py-1">
+            {grammarNote}
+          </span>
+        </div>
+      )}
+
       {/* 逐词色块 */}
       <div className="flex flex-wrap items-center justify-center gap-2">
         {items.map((item, i) => {

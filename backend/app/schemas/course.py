@@ -126,3 +126,17 @@ class CourseProgressOut(BaseModel):
 class ProgressUpdate(BaseModel):
     statement_index: int
     input_snapshot: str | None = None
+
+
+class CompleteCourseRequest(BaseModel):
+    """完成课程请求（可附带答题结果，用于 SM-2 批量写入）"""
+    results: list["ReviewItemData"] = []
+    xp_earned: int = 0  # 前端计算的 XP（用于课程进度上报）
+
+
+class ReviewItemData(BaseModel):
+    statement_id: str
+    quality: int
+    interval: int = 0
+    ease_factor: float = 2.5
+    repetitions: int = 0
