@@ -9,9 +9,8 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    # 数据库
-    # DATABASE_URL: str = "postgresql+asyncpg://root:admin123@localhost:5432/linguapulse"
-    DATABASE_URL: str = "postgresql+asyncpg://postgres:Helixlife2026!@47.98.231.29:5432/linguapulse"
+    # 数据库（生产环境通过环境变量 DATABASE_URL 注入，此处仅为本地开发占位）
+    DATABASE_URL: str = "postgresql+asyncpg://postgres:postgres@localhost:5432/linguapulse"
 
     # JWT
     JWT_SECRET: str = "change-me-in-production"
