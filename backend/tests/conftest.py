@@ -108,13 +108,47 @@ async def client() -> AsyncClient:
 
 
 # ============================================================
+# 邮件验证码 Mock（测试不真实发邮，捕获验证码供注册使用）
+# ============================================================
+
+_captured_codes: dict[str, str] = {}
+
+
+@pytest.fixture(autouse=True)
+def mock_email(monkeypatch):
+    """全局 mock 邮件发送，并把最近一次验证码存入 _captured_codes"""
+    from app.api import auth as auth_module
+    from app.services.email_service import build_code_email as real_build
+
+    async def fake_send_email(to, subject, html):
+        pass
+
+    def capturing_build(app_name, code, minutes):
+        subject, html = real_build(app_name, code, minutes)
+        _captured_codes["last"] = code
+        return subject, html
+
+    monkeypatch.setattr(auth_module, "send_email", fake_send_email)
+    monkeypatch.setattr(auth_module, "build_code_email", capturing_build)
+    yield
+
+
+async def register_with_code(client: AsyncClient, user_data: dict):
+    """完整验证码注册流程：发送验证码 → 携带验证码注册"""
+    resp = await client.post("/api/auth/send-code", json={"email": user_data["email"]})
+    assert resp.status_code == 200, f"发送验证码失败: {resp.text}"
+    code = _captured_codes["last"]
+    return await client.post("/api/auth/register", json={**user_data, "code": code})
+
+
+# ============================================================
 # 认证 Token Fixture
 # ============================================================
 
 @pytest_asyncio.fixture
 async def auth_headers(client: AsyncClient):
     """注册用户并返回带 JWT 的请求头"""
-    resp = await client.post("/api/auth/register", json=make_user())
+    resp = await register_with_code(client, make_user())
     assert resp.status_code == 201, f"注册失败: {resp.text}"
     token = resp.json()["access_token"]
     return {"Authorization": f"Bearer {token}"}

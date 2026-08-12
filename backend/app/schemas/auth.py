@@ -9,6 +9,16 @@ class UserRegister(BaseModel):
     email: EmailStr
     username: str = Field(min_length=2, max_length=50)
     password: str = Field(min_length=6, max_length=100)
+    code: str = Field(min_length=6, max_length=6, description="邮箱验证码")
+
+
+class SendCodeRequest(BaseModel):
+    email: EmailStr
+
+
+class SendCodeResponse(BaseModel):
+    message: str
+    resend_after: int = 60
 
 
 class UserLogin(BaseModel):

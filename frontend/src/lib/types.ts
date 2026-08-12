@@ -26,6 +26,7 @@ export interface RegisterRequest {
   email: string;
   username: string;
   password: string;
+  code: string;
 }
 
 // ---- 课程 ----

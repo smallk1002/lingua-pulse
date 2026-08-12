@@ -2,16 +2,48 @@
 认证模块测试用例
 
 覆盖：
-- 注册 / 登录 / Token 刷新
+- 验证码发送 / 限流
+- 注册（含验证码校验）/ 登录 / Token
 - 密码强度校验
 - 邮箱唯一性
+- 登录失败锁定
 - 未登录访问保护
 """
 
 import pytest
 from httpx import AsyncClient
 
-from tests.conftest import make_user
+from tests.conftest import make_user, register_with_code
+
+
+class TestSendCode:
+    """验证码发送测试"""
+
+    @pytest.mark.asyncio
+    async def test_send_code_success(self, client: AsyncClient):
+        """正常发送验证码返回 200"""
+        user = make_user()
+        resp = await client.post("/api/auth/send-code", json={"email": user["email"]})
+        assert resp.status_code == 200
+        assert "message" in resp.json()
+
+    @pytest.mark.asyncio
+    async def test_send_code_rate_limit(self, client: AsyncClient):
+        """60 秒内重复发送返回 429"""
+        user = make_user()
+        resp1 = await client.post("/api/auth/send-code", json={"email": user["email"]})
+        assert resp1.status_code == 200
+        resp2 = await client.post("/api/auth/send-code", json={"email": user["email"]})
+        assert resp2.status_code == 429
+
+    @pytest.mark.asyncio
+    async def test_send_code_registered_email(self, client: AsyncClient):
+        """已注册邮箱发送验证码返回 400"""
+        user = make_user()
+        await register_with_code(client, user)
+        resp = await client.post("/api/auth/send-code", json={"email": user["email"]})
+        assert resp.status_code == 400
+        assert "已注册" in resp.json()["detail"]
 
 
 class TestRegister:
@@ -19,8 +51,8 @@ class TestRegister:
 
     @pytest.mark.asyncio
     async def test_register_success(self, client: AsyncClient):
-        """正常注册返回 201 + access_token"""
-        resp = await client.post("/api/auth/register", json=make_user())
+        """验证码正确注册返回 201 + access_token"""
+        resp = await register_with_code(client, make_user())
         assert resp.status_code == 201
         data = resp.json()
         assert "access_token" in data
@@ -29,18 +61,48 @@ class TestRegister:
         assert "password_hash" not in data["user"]
 
     @pytest.mark.asyncio
+    async def test_register_without_code(self, client: AsyncClient):
+        """未发送验证码直接注册返回 400"""
+        user = make_user()
+        resp = await client.post("/api/auth/register", json={**user, "code": "123456"})
+        assert resp.status_code == 400
+        assert "验证码" in resp.json()["detail"]
+
+    @pytest.mark.asyncio
+    async def test_register_wrong_code(self, client: AsyncClient):
+        """错误验证码返回 400"""
+        user = make_user()
+        await client.post("/api/auth/send-code", json={"email": user["email"]})
+        resp = await client.post("/api/auth/register", json={**user, "code": "000000"})
+        assert resp.status_code == 400
+        assert "验证码错误" in resp.json()["detail"]
+
+    @pytest.mark.asyncio
+    async def test_register_code_max_attempts(self, client: AsyncClient):
+        """验证码试错超过 5 次作废"""
+        user = make_user()
+        await client.post("/api/auth/send-code", json={"email": user["email"]})
+        for _ in range(5):
+            await client.post("/api/auth/register", json={**user, "code": "000000"})
+        resp = await client.post("/api/auth/register", json={**user, "code": "000000"})
+        assert resp.status_code == 400
+        assert "重新获取" in resp.json()["detail"]
+
+    @pytest.mark.asyncio
     async def test_register_duplicate_email(self, client: AsyncClient):
         """重复邮箱注册返回 400"""
-        await client.post("/api/auth/register", json=make_user(email="dup@test.com"))
-        resp = await client.post("/api/auth/register", json=make_user(email="dup@test.com", username="other"))
+        await register_with_code(client, make_user(email="dup@test.com"))
+        resp = await client.post("/api/auth/send-code", json={"email": "dup@test.com"})
         assert resp.status_code == 400
         assert "已注册" in resp.json()["detail"]
 
     @pytest.mark.asyncio
     async def test_register_duplicate_username(self, client: AsyncClient):
         """重名用户注册返回 400"""
-        await client.post("/api/auth/register", json=make_user(username="duplicate"))
-        resp = await client.post("/api/auth/register", json=make_user(email="other@test.com", username="duplicate"))
+        await register_with_code(client, make_user(username="duplicate"))
+        resp = await register_with_code(
+            client, make_user(email="other@test.com", username="duplicate")
+        )
         assert resp.status_code == 400
         assert "已被占用" in resp.json()["detail"]
 
@@ -70,7 +132,7 @@ class TestLogin:
     async def test_login_success(self, client: AsyncClient):
         """正常登录返回 200 + access_token"""
         user = make_user()
-        await client.post("/api/auth/register", json=user)
+        await register_with_code(client, user)
         resp = await client.post("/api/auth/login", json={
             "email": user["email"],
             "password": user["password"],
@@ -82,12 +144,29 @@ class TestLogin:
     async def test_login_wrong_password(self, client: AsyncClient):
         """错误密码返回 401"""
         user = make_user()
-        await client.post("/api/auth/register", json=user)
+        await register_with_code(client, user)
         resp = await client.post("/api/auth/login", json={
             "email": user["email"],
             "password": "WrongPassword",
         })
         assert resp.status_code == 401
+
+    @pytest.mark.asyncio
+    async def test_login_lockout(self, client: AsyncClient):
+        """连续失败 10 次后锁定返回 429"""
+        user = make_user()
+        await register_with_code(client, user)
+        for _ in range(10):
+            await client.post("/api/auth/login", json={
+                "email": user["email"],
+                "password": "WrongPassword",
+            })
+        resp = await client.post("/api/auth/login", json={
+            "email": user["email"],
+            "password": user["password"],
+        })
+        assert resp.status_code == 429
+        assert "锁定" in resp.json()["detail"]
 
     @pytest.mark.asyncio
     async def test_login_nonexistent_user(self, client: AsyncClient):
@@ -97,17 +176,6 @@ class TestLogin:
             "password": "whatever",
         })
         assert resp.status_code == 401
-
-    @pytest.mark.asyncio
-    async def test_login_with_email_as_username(self, client: AsyncClient):
-        """使用邮箱登录"""
-        user = make_user()
-        await client.post("/api/auth/register", json=user)
-        resp = await client.post("/api/auth/login", json={
-            "email": user["email"],
-            "password": user["password"],
-        })
-        assert resp.status_code == 200
 
 
 class TestMe:

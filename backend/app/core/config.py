@@ -21,6 +21,13 @@ class Settings(BaseSettings):
     # TTS
     AUDIO_DIR: str = "./static/audio"
 
+    # 邮件（QQ 邮箱 SMTP，SMTP_PASS 为授权码而非登录密码）
+    SMTP_HOST: str = "smtp.qq.com"
+    SMTP_PORT: int = 465
+    SMTP_USER: str = ""
+    SMTP_PASS: str = ""
+    SMTP_FROM_NAME: str = "LinguaPulse"
+
     # 应用
     APP_NAME: str = "LinguaPulse API"
     DEBUG: bool = False

@@ -10,6 +10,7 @@ from app.models.course import CoursePack, Course, Statement
 from app.models.progress import CourseProgress, CourseHistory
 from app.models.review import ReviewItem
 from app.models.others import MasteredElement, UserSettings, UserStats, LearningSession
+from app.models.verification import VerificationCode, LoginAttempt
 
 __all__ = [
     "Base",
@@ -24,4 +25,6 @@ __all__ = [
     "UserSettings",
     "UserStats",
     "LearningSession",
+    "VerificationCode",
+    "LoginAttempt",
 ]

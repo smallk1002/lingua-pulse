@@ -55,6 +55,13 @@ async function request<T>(
 
 // ---- Auth ----
 
+export async function sendCode(email: string): Promise<{ message: string }> {
+  return request<{ message: string }>("/api/auth/send-code", {
+    method: "POST",
+    body: JSON.stringify({ email }),
+  });
+}
+
 export async function register(data: RegisterRequest): Promise<AuthResponse> {
   const res = await request<AuthResponse>("/api/auth/register", {
     method: "POST",
