@@ -179,6 +179,12 @@ export default function RegisterPage() {
             登录
           </Link>
         </p>
+
+        <p className="text-center text-sm text-gray-400">
+          <Link href="/download" className="hover:text-fuchsia-600 transition-colors">
+            ⬇ 下载桌面客户端
+          </Link>
+        </p>
       </form>
     </div>
   );
