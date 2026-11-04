@@ -6,12 +6,13 @@
 
 目录结构：
   app/data/earthworm/
-    courses/     → 星荣零基础学英语 (01.json ~ 60.json)
-    nce1/        → 新概念英语第一册 (01.json ~ 70.json)
-    nce2/        → 新概念英语第二册 (01.json ~ 90.json)
-    nce3/        → 新概念英语第三册 (01.json ~ 60.json)
-    nce4/        → 新概念英语第四册 (01.json ~ 50.json)
-    cet4/        → 大学英语四级 (01.json ~ 30.json)
+    courses/        → 星荣零基础学英语 (01.json ~ 60.json)
+    nce1/           → 新概念英语第一册 (01.json ~ 70.json)
+    nce2/           → 新概念英语第二册 (01.json ~ 90.json)
+    nce3/           → 新概念英语第三册 (01.json ~ 60.json)
+    nce4/           → 新概念英语第四册 (01.json ~ 50.json)
+    cet4/           → 大学英语四级 (01.json ~ 30.json)
+    shanghai_ou/    → 上海开放大学学位英语考试词汇 (01.json ~ 30.json)
 
 用法：uv run python seed_earthworm.py
 """
@@ -64,6 +65,12 @@ COURSE_PACKS = [
         "dir": "cet4",
         "title": "大学英语四级 (CET-4)",
         "description": "覆盖 CET-4 高频词汇、核心语法与考试场景，30 课助你轻松过四级。",
+        "difficulty": "intermediate",
+    },
+    {
+        "dir": "shanghai_ou",
+        "title": "上海开放大学学位英语考试词汇",
+        "description": "上海开放大学学士学位英语统一考试词汇表，约 3700 核心词汇，30 课系统掌握。",
         "difficulty": "intermediate",
     },
 ]
