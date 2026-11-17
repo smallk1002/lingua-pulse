@@ -14,12 +14,15 @@
     cet4/           → 大学英语四级 (01.json ~ 30.json)
     shanghai_ou/    → 上海开放大学学位英语考试词汇 (01.json ~ 30.json)
 
-用法：uv run python seed_earthworm.py
+用法：
+  uv run python seed_earthworm.py                 → 导入全部课程包
+  uv run python seed_earthworm.py shanghai_ou     → 只导入指定课程包
 """
 
 import asyncio
 import json
 import os
+import sys
 import uuid
 
 from sqlalchemy import select, delete as sa_delete
@@ -187,6 +190,15 @@ async def seed_course_pack(pack_config: dict) -> tuple[int, int]:
 
 
 async def main():
+    # 指定课程包目录名可只导入部分课程。重导入会重建 statement 行，
+    # review_items / user_mastered_elements 对 statements 是 ON DELETE CASCADE，
+    # 全量重跑会清掉这些课程包下所有用户的学习进度。
+    targets = sys.argv[1:]
+    packs = [p for p in COURSE_PACKS if not targets or p["dir"] in targets]
+    if not packs:
+        print(f"未匹配到课程包：{targets}，可选：{[p['dir'] for p in COURSE_PACKS]}")
+        return
+
     print("=" * 60)
     print("LinguaPulse 种子数据导入 (earthworm 格式)")
     print("=" * 60)
@@ -195,7 +207,7 @@ async def main():
     grand_courses = 0
     grand_statements = 0
 
-    for pack in COURSE_PACKS:
+    for pack in packs:
         print(f"📦 {pack['title']}")
         nc, ns = await seed_course_pack(pack)
         print(f"  ✅ {nc} 课, {ns} 句\n")
@@ -203,7 +215,7 @@ async def main():
         grand_statements += ns
 
     print("=" * 60)
-    print(f"🎉 完成！{len(COURSE_PACKS)} 个课程包, {grand_courses} 课, {grand_statements} 句")
+    print(f"🎉 完成！{len(packs)} 个课程包, {grand_courses} 课, {grand_statements} 句")
     print("=" * 60)
 
 
